@@ -1,0 +1,88 @@
+{
+  "id": 101855813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.554653,45.444531,25.554653,45.444531",
+    "geom:latitude":45.444531,
+    "geom:longitude":25.554653,
+    "gn:population":4961,
+    "iso:country":"RO",
+    "lbl:latitude":45.444531,
+    "lbl:longitude":25.554653,
+    "mps:latitude":45.444531,
+    "mps:longitude":25.554653,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rum_x_preferred":[
+        "Azuga"
+    ],
+    "qs:a0":"Rom\u00e2nia",
+    "qs:a1":"*Prahova",
+    "qs:a1r":"0",
+    "qs:adm0":"Rom\u00e2nia",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Azuga",
+    "qs:loc_alt":"Azuga",
+    "qs:pop":0,
+    "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"039d36cc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":686003,
+        "gp:id":866493,
+        "qs:id":444124,
+        "qs_pg:id":444124,
+        "wd:id":"Q16898472"
+    },
+    "wof:country":"RO",
+    "wof:geomhash":"815fb23c2536959ba0c430a75b53a9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101855813,
+            "region_id":85687661
+        }
+    ],
+    "wof:id":101855813,
+    "wof:lang":[
+        "rum"
+    ],
+    "wof:lastmodified":1544743086,
+    "wof:name":"Azuga",
+    "wof:parent_id":85687661,
+    "wof:placetype":"locality",
+    "wof:population":4961,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ro",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.554653,
+    45.444531,
+    25.554653,
+    45.444531
+],
+  "geometry": {"coordinates":[25.554653,45.444531],"type":"Point"}
+}
