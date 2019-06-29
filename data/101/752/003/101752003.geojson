@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000857,
-    "geom:area_square_m":7381559.716895,
+    "geom:area_square_m":7381559.716897,
     "geom:bbox":"25.764118,45.8505365,25.8186765,45.8818285",
     "geom:latitude":45.865804,
     "geom:longitude":25.790422,
@@ -30,17 +30,17 @@
     "name:bul_x_preferred":[
         "\u0421\u0444\u044a\u043d\u0442\u0443 \u0413\u0435\u043e\u0440\u0433\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u683c\u5967\u723e\u57fa"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
     "name:dan_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
-    "name:dut_x_preferred":[
-        "Sf\u00e2ntu Gheorghe"
+    "name:deu_x_preferred":[
+        "Sankt Georgen"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c6\u03af\u03bd\u03c4\u03bf\u03c5 \u0393\u03ba\u03b5\u03cc\u03c1\u03b3\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sfantu Gheorghe"
@@ -48,20 +48,14 @@
     "name:epo_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u0646\u062a\u0648 \u06af\u0626\u0648\u0631\u06af\u0647"
+    ],
     "name:fin_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e4\u10d8\u10dc\u10e2\u10e3-\u10d2\u10d4\u10dd\u10e0\u10d2\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Sankt Georgen"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c6\u03af\u03bd\u03c4\u03bf\u03c5 \u0393\u03ba\u03b5\u03cc\u03c1\u03b3\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aab\u0aa8\u0acd\u0a9f\u0ac1 \u0a98\u0ac7\u0acb\u0ab0\u0acd\u0a98"
@@ -90,6 +84,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0cab\u0cbe\u0c82\u0c9f\u0cc1 \u0c98\u0cc6\u0caf\u0ccb\u0cb0\u0ccd\u0c98\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e4\u10d8\u10dc\u10e2\u10e3-\u10d2\u10d4\u10dd\u10e0\u10d2\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ud508\ud22c\uac8c\uc624\ub974\uac8c"
     ],
@@ -102,16 +99,19 @@
     "name:lit_x_preferred":[
         "Sfintu Georg\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0432\u0435\u0442\u0438 \u0403\u043e\u0440\u0453\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u092b\u0902\u091f\u0942 \u091c\u0949\u0930\u094d\u091c"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
-    "name:min_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0438 \u0403\u043e\u0440\u0453\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:nld_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
     "name:nno_x_preferred":[
@@ -119,9 +119,6 @@
     ],
     "name:nob_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0641\u0646\u062a\u0648 \u06af\u0626\u0648\u0631\u06af\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u0641\u06cc\u0646\u062a\u0648 \u06af\u06cc\u0648\u0631\u06af\u06d2"
@@ -135,14 +132,14 @@
     "name:ron_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
+    "name:ron_x_variant":[
+        "Sf\u00eentu Gheorghe"
+    ],
     "name:rum_x_colloquial":[
         "Sepsiszentgyorgy",
         "Sfantul",
         "Sfantul-Gheorghe",
         "Sfintu Gheorghe"
-    ],
-    "name:rum_x_preferred":[
-        "Sf\u00eentu Gheorghe"
     ],
     "name:rum_x_variant":[
         "Sepsiszentgy\u0151rgy",
@@ -160,7 +157,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0dc6\u0d86\u0db1\u0dca\u0da7\u0dd4 \u0da2\u0ddd\u0dbb\u0dca\u0dc4\u0dda"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
     ],
     "name:slv_x_preferred":[
@@ -207,6 +204,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05e0\u05d8 \u05d3\u05e9\u05d6\u05d0\u05e8\u05d3\u05d6\u05e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u683c\u5967\u723e\u57fa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Romania",
@@ -347,7 +347,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1514500143,
+    "wof:lastmodified":1561830716,
     "wof:name":"Sf\u00e2ntu  Gheorghe",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

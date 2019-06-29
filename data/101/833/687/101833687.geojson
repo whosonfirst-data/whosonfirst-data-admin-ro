@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000896,
-    "geom:area_square_m":7427255.208512,
+    "geom:area_square_m":7427255.208508,
     "geom:bbox":"23.8690815845,47.9115619928,23.9255276084,47.9407614862",
     "geom:latitude":47.927694,
     "geom:longitude":23.894636,
@@ -20,26 +20,20 @@
     "name:ace_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0563\u0565\u057f\u0578\u0582 \u0544\u0561\u0580\u0574\u0561\u0581\u056b\u0565\u0575"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u0433\u0435\u0442\u0443 \u041c\u0430\u0440\u043c\u0430\u0446\u044b\u0435\u0439"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u84cb\u5716\u99ac\u723e\u99ac\u5207\u4f0a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
     "name:deu_x_preferred":[
         "Sighetu Marma\u0163iei"
     ],
-    "name:dut_x_preferred":[
-        "Sighetu Marma\u021biei"
+    "name:deu_x_variant":[
+        "Marmaroschsiget"
     ],
     "name:eng_x_preferred":[
         "Sighetu Marma\u0163iei"
@@ -47,20 +41,23 @@
     "name:epo_x_preferred":[
         "Sighetu Marma\u0163iei"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u06af\u062a\u0648 \u0645\u0631\u0645\u062a\u0633\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
     "name:fry_x_preferred":[
         "Sighetu Marma\u021biei"
-    ],
-    "name:ger_x_preferred":[
-        "Marmaroschsiget"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d2\u05d8"
     ],
     "name:hun_x_preferred":[
         "M\u00e1ramarossziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0563\u0565\u057f\u0578\u0582 \u0544\u0561\u0580\u0574\u0561\u0581\u056b\u0565\u0575"
     ],
     "name:ind_x_preferred":[
         "Sighetu Marma\u021biei"
@@ -74,17 +71,17 @@
     "name:kor_x_preferred":[
         "\uc2dc\uac8c\ud22c\ub9c8\ub974\ub9c8\uce58\uc5d0\uc774"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
-    "name:min_x_preferred":[
+    "name:msa_x_preferred":[
+        "Sighetu Marma\u021biei"
+    ],
+    "name:nld_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
     "name:nob_x_preferred":[
         "Sighetu Marma\u021biei"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u06af\u062a\u0648 \u0645\u0631\u0645\u062a\u0633\u06cc\u0647"
     ],
     "name:pol_x_preferred":[
         "Sighetu Marma\u0163iei"
@@ -97,9 +94,6 @@
     ],
     "name:ron_x_variant":[
         "Sighet"
-    ],
-    "name:rum_x_preferred":[
-        "Sighetu Marma\u021biei"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u0433\u0435\u0442\u0443-\u041c\u0430\u0440\u043c\u0430\u0446\u0438\u0435\u0439"
@@ -133,6 +127,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05d9\u05d2\u05e2\u05d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u84cb\u5716\u99ac\u723e\u99ac\u5207\u4f0a"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Maramures",
@@ -176,7 +173,7 @@
         }
     ],
     "wof:id":101833687,
-    "wof:lastmodified":1514500148,
+    "wof:lastmodified":1561830754,
     "wof:name":"Sighetu Marma\u0163iei",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

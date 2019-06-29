@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000473,
-    "geom:area_square_m":4169453.325148,
+    "geom:area_square_m":4169453.325147,
     "geom:bbox":"27.3340855,44.5550955,27.3867855,44.5787925",
     "geom:latitude":44.56629,
     "geom:longitude":27.364,
@@ -29,20 +29,14 @@
     "name:ces_x_preferred":[
         "Slobozia"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6d1b\u535a\u9f4a\u4e9e"
-    ],
-    "name:cze_x_preferred":[
-        "Slobozia"
-    ],
     "name:deu_x_preferred":[
-        "Slobozia"
-    ],
-    "name:dut_x_preferred":[
         "Slobozia"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03bb\u03bf\u03bc\u03c0\u03bf\u03b6\u03af\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bb\u03bf\u03bc\u03c0\u03cc\u03b6\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Slobozia"
@@ -55,15 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Slobozia"
-    ],
-    "name:fre_x_preferred":[
-        "Slobozia"
-    ],
-    "name:ger_x_preferred":[
-        "Slobozia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bb\u03bf\u03bc\u03c0\u03cc\u03b6\u03b9\u03b1"
     ],
     "name:hbs_x_preferred":[
         "Slobozia"
@@ -89,9 +74,6 @@
     "name:lit_x_preferred":[
         "Slobozija"
     ],
-    "name:may_x_preferred":[
-        "Slobozia"
-    ],
     "name:min_x_preferred":[
         "Slobozia"
     ],
@@ -103,9 +85,6 @@
     ],
     "name:nno_x_preferred":[
         "Slobozia"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0648\u0628\u0648\u0632\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0644\u0648\u0628\u0648\u0632\u06cc\u0627"
@@ -119,16 +98,10 @@
     "name:ron_x_preferred":[
         "Slobozia"
     ],
-    "name:rum_x_preferred":[
-        "Slobozia"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u0431\u043e\u0437\u0438\u044f"
     ],
     "name:slk_x_preferred":[
-        "Slobozia"
-    ],
-    "name:slo_x_preferred":[
         "Slobozia"
     ],
     "name:spa_x_preferred":[
@@ -291,7 +264,7 @@
         }
     ],
     "wof:id":101751961,
-    "wof:lastmodified":1534379451,
+    "wof:lastmodified":1561830793,
     "wof:name":"Slobozia",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
