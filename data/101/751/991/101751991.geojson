@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004541,
-    "geom:area_square_m":39244257.92354,
+    "geom:area_square_m":39244257.923501,
     "geom:bbox":"25.5355936286,45.6121662702,25.6589002828,45.7178640891",
     "geom:latitude":45.655858,
     "geom:longitude":25.60496,
@@ -27,14 +27,8 @@
     "name:arg_x_preferred":[
         "Bra\u0219ov"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0580\u0561\u0577\u0578\u057e"
-    ],
     "name:aze_x_preferred":[
         "Br\u0430\u0219\u043ev"
-    ],
-    "name:baq_x_preferred":[
-        "Bra\u0219ov"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0440\u0430\u0448\u043e\u045e"
@@ -54,14 +48,14 @@
     "name:ces_x_preferred":[
         "Bra\u015fov"
     ],
+    "name:ces_x_variant":[
+        "Bra\u0161ov"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0440\u0430\u0448\u043e\u0432"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u7d22\u592b"
-    ],
-    "name:cze_x_preferred":[
-        "Bra\u0161ov"
+    "name:cym_x_preferred":[
+        "Bra\u0219ov"
     ],
     "name:dan_x_preferred":[
         "Brasov"
@@ -70,10 +64,11 @@
         "Kronstadt"
     ],
     "name:deu_x_variant":[
-        "Bra\u015fov"
-    ],
-    "name:dut_x_preferred":[
+        "Bra\u015fov",
         "Bra\u0219ov"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b1\u03c3\u03cc\u03b2"
     ],
     "name:eng_x_preferred":[
         "Bra\u015fov"
@@ -84,19 +79,19 @@
     "name:est_x_preferred":[
         "Bra\u0219ov"
     ],
+    "name:eus_x_preferred":[
+        "Bra\u0219ov"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u0634\u0648\u0641"
+    ],
     "name:fin_x_preferred":[
         "Bra\u015fov"
     ],
     "name:fra_x_preferred":[
         "Bra\u015fov"
     ],
-    "name:fre_x_preferred":[
-        "Bra\u0219ov"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d0\u10e8\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Bra\u0219ov"
     ],
     "name:gle_x_preferred":[
@@ -104,9 +99,6 @@
     ],
     "name:glg_x_preferred":[
         "Bra\u0219ov"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03b1\u03c3\u03cc\u03b2"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0abe\u0ab8\u0acb\u0ab5"
@@ -122,6 +114,9 @@
     ],
     "name:hun_x_preferred":[
         "Brass\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0561\u0577\u0578\u057e"
     ],
     "name:ido_x_preferred":[
         "Bra\u0219ov"
@@ -141,6 +136,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cbe\u0cb8\u0cca\u0cb5\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10e8\u10dd\u10d5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\uc1fc\ube0c"
     ],
@@ -156,23 +154,26 @@
     "name:lit_x_preferred":[
         "Bra\u0161ovas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0430\u0448\u043e\u0432"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093e\u0938\u094b\u0935"
-    ],
-    "name:may_x_preferred":[
-        "Bra\u0219ov"
     ],
     "name:min_x_preferred":[
         "Bra\u0219ov"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0430\u0448\u043e\u0432"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0440\u0430\u0448\u043e\u0432"
     ],
+    "name:msa_x_preferred":[
+        "Bra\u0219ov"
+    ],
     "name:nld_x_preferred":[
         "Bra\u015fov"
+    ],
+    "name:nld_x_variant":[
+        "Bra\u0219ov"
     ],
     "name:nno_x_preferred":[
         "Bra\u0219ov"
@@ -185,9 +186,6 @@
     ],
     "name:oci_x_preferred":[
         "Bra\u0219ov"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0627\u0634\u0648\u0641"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u0627\u0634\u0648\u0648"
@@ -208,9 +206,6 @@
     "name:ron_x_preferred":[
         "Bra\u0219ov"
     ],
-    "name:rum_x_preferred":[
-        "Bra\u0219ov"
-    ],
     "name:rup_x_preferred":[
         "Brashov"
     ],
@@ -227,9 +222,6 @@
         "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0ddc\u0dc0\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Bra\u0161ov"
-    ],
-    "name:slo_x_preferred":[
         "Bra\u0161ov"
     ],
     "name:slv_x_preferred":[
@@ -283,8 +275,8 @@
     "name:war_x_preferred":[
         "Bra\u0219ov"
     ],
-    "name:wel_x_preferred":[
-        "Bra\u0219ov"
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u7d22\u592b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Romania",
@@ -420,7 +412,7 @@
         }
     ],
     "wof:id":101751991,
-    "wof:lastmodified":1514499796,
+    "wof:lastmodified":1561830792,
     "wof:name":"Bra\u015fov",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

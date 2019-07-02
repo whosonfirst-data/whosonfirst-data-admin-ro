@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000631,
-    "geom:area_square_m":5473570.392014,
+    "geom:area_square_m":5473570.392001,
     "geom:bbox":"23.354826,45.3699225,23.388775,45.44566",
     "geom:latitude":45.413537,
     "geom:longitude":23.369434,
@@ -26,17 +26,14 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0448\u0430\u043d\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u5f7c\u5f97\u7f85\u6c99\u5c3c"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Petro\u0219ani"
     ],
     "name:deu_x_preferred":[
         "Petro\u015fani"
     ],
-    "name:dut_x_preferred":[
-        "Petro\u0219ani"
+    "name:deu_x_variant":[
+        "Petroschen"
     ],
     "name:eng_x_preferred":[
         "Petro\u015fani"
@@ -44,14 +41,11 @@
     "name:epo_x_preferred":[
         "Petro\u015fani"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0631\u0648\u0634\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Petro\u0219ani"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e2\u10e0\u10dd\u10e8\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Petroschen"
     ],
     "name:hun_x_preferred":[
         "Petrozs\u00e9ny"
@@ -65,23 +59,26 @@
     "name:jpn_x_preferred":[
         "\u30da\u30c8\u30ed\u30b7\u30e3\u30cb"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e2\u10e0\u10dd\u10e8\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud398\ud2b8\ub85c\uc0e4\ub2c8"
     ],
     "name:lit_x_preferred":[
         "Petro\u0161anis"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
         "Petro\u0219ani"
     ],
-    "name:min_x_preferred":[
+    "name:msa_x_preferred":[
         "Petro\u0219ani"
     ],
     "name:nld_x_preferred":[
         "Petro\u015fani"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u062a\u0631\u0648\u0634\u0646"
+    "name:nld_x_variant":[
+        "Petro\u0219ani"
     ],
     "name:pol_x_preferred":[
         "Petro\u015fani"
@@ -90,9 +87,6 @@
         "Petro\u0219ani"
     ],
     "name:ron_x_preferred":[
-        "Petro\u0219ani"
-    ],
-    "name:rum_x_preferred":[
         "Petro\u0219ani"
     ],
     "name:rus_x_preferred":[
@@ -115,6 +109,9 @@
     ],
     "name:vie_x_preferred":[
         "Petrosani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f7c\u5f97\u7f85\u6c99\u5c3c"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Hunedoara",
@@ -157,7 +154,7 @@
         }
     ],
     "wof:id":101751987,
-    "wof:lastmodified":1514500070,
+    "wof:lastmodified":1561830793,
     "wof:name":"Petro\u015fani",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

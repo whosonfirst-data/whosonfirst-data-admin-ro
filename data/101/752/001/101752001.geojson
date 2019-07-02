@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000965,
-    "geom:area_square_m":8278439.381438,
+    "geom:area_square_m":8278439.381435,
     "geom:bbox":"23.547733,46.0403215,23.595236,46.0878525",
     "geom:latitude":46.068845,
     "geom:longitude":23.571736,
@@ -26,12 +26,6 @@
     "name:arg_x_preferred":[
         "Alba Iulia"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0562\u0561 \u0545\u0578\u0582\u056c\u056b\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Alba Iulia"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043b\u0431\u0430-\u042e\u043b\u0456\u044f"
     ],
@@ -42,12 +36,6 @@
         "Alba Iulia"
     ],
     "name:ces_x_preferred":[
-        "Alba Iulia"
-    ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u5df4\u5c24\u5229\u4e9e"
-    ],
-    "name:cze_x_preferred":[
         "Alba Iulia"
     ],
     "name:dan_x_preferred":[
@@ -61,9 +49,6 @@
         "Weissenburg",
         "Wei\u00dfkirchen",
         "Wei\u00dfenburg"
-    ],
-    "name:dut_x_preferred":[
-        "Alba Iulia"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bb\u03bc\u03c0\u03b1 \u0399\u03bf\u03cd\u03bb\u03b9\u03b1"
@@ -80,8 +65,14 @@
     "name:est_x_preferred":[
         "Alba Iulia"
     ],
+    "name:eus_x_preferred":[
+        "Alba Iulia"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u0628\u0627 \u0627\u06cc\u0648\u0644\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u0628\u0627 \u0644\u0648\u0644\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Alba Iulia"
@@ -89,20 +80,8 @@
     "name:fra_x_preferred":[
         "Alba Iulia"
     ],
-    "name:fre_x_preferred":[
-        "Alba Iulia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d1\u10d0-\u10d8\u10e3\u10da\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Karlsburg"
-    ],
     "name:glg_x_preferred":[
         "Alba Iulia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bb\u03bc\u03c0\u03b1 \u0399\u03bf\u03cd\u03bb\u03b9\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d1\u05d4 \u05d9\u05d5\u05dc\u05d9\u05d4"
@@ -112,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Gyulafeh\u00e9rv\u00e1r"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0562\u0561 \u0545\u0578\u0582\u056c\u056b\u0561"
     ],
     "name:ile_x_preferred":[
         "Alba Iulia"
@@ -137,10 +119,10 @@
     "name:lit_x_preferred":[
         "Alba Julija"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
         "Alba Iulia"
     ],
-    "name:min_x_preferred":[
+    "name:msa_x_preferred":[
         "Alba Iulia"
     ],
     "name:nld_x_preferred":[
@@ -151,9 +133,6 @@
     ],
     "name:nob_x_preferred":[
         "Alba Iulia"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0628\u0627 \u0644\u0648\u0644\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0644\u0628\u0627 \u0627\u06cc\u0648\u0644\u06cc\u0627"
@@ -170,9 +149,6 @@
     "name:rum_x_colloquial":[
         "Gyulafehervar"
     ],
-    "name:rum_x_preferred":[
-        "Alba Iulia"
-    ],
     "name:rum_x_variant":[
         "Gyulafeh\u00e9rv\u00e1r",
         "Karlsburg"
@@ -184,9 +160,6 @@
         "Alba Iulia"
     ],
     "name:slk_x_preferred":[
-        "Alba Iulia"
-    ],
-    "name:slo_x_preferred":[
         "Alba Iulia"
     ],
     "name:slv_x_preferred":[
@@ -278,7 +251,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1514499733,
+    "wof:lastmodified":1561830715,
     "wof:name":"Alba Iulia",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

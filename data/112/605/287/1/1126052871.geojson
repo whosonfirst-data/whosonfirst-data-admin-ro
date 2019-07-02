@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u062a\u0631\u064a\u062a\u0633\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u057d\u057f\u0580\u056b\u0581\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Bistri\u021ba"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b8\u09cd\u09a4\u09cd\u09b0\u09bf\u09a4\u09be"
     ],
@@ -37,17 +31,20 @@
     "name:cat_x_preferred":[
         "Bistri\u021ba"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u65af\u7279\u91cc\u5bdf"
+    "name:ces_x_preferred":[
+        "Bistri\u021ba"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bistri\u021ba"
     ],
     "name:dan_x_preferred":[
         "Bistri\u021ba"
     ],
-    "name:dut_x_preferred":[
-        "Bistri\u021ba"
+    "name:deu_x_preferred":[
+        "Bistritz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03c3\u03c4\u03c1\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bistri\u021ba"
@@ -58,20 +55,17 @@
     "name:est_x_preferred":[
         "Bistri\u021ba"
     ],
+    "name:eus_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
+    ],
     "name:fin_x_preferred":[
         "Bistri\u021ba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bistri\u021ba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bistritz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03af\u03c3\u03c4\u03c1\u03b9\u03c4\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab8\u0acd\u0a95\u0acd\u0ab0\u0abf\u0a9f\u0abe"
@@ -88,6 +82,9 @@
     "name:hun_x_preferred":[
         "Beszterce"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u057d\u057f\u0580\u056b\u0581\u0561"
+    ],
     "name:ile_x_preferred":[
         "Bistri\u021ba"
     ],
@@ -102,6 +99,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cbf\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf\u0c9f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e1\u10e2\u10e0\u10d8\u10ea\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ube44\uc2a4\ud2b8\ub9ac\ucc28"
@@ -121,10 +121,13 @@
     "name:mar_x_preferred":[
         "\u092c\u093f\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
         "Bistri\u021ba"
     ],
-    "name:min_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:nld_x_preferred":[
         "Bistri\u021ba"
     ],
     "name:nno_x_preferred":[
@@ -132,9 +135,6 @@
     ],
     "name:nob_x_preferred":[
         "Bistri\u021ba"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
@@ -145,7 +145,7 @@
     "name:por_x_preferred":[
         "Bistri\u021ba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bistri\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -199,14 +199,14 @@
     "name:vie_x_preferred":[
         "Bistri\u021ba"
     ],
-    "name:wel_x_preferred":[
-        "Bistri\u021ba"
-    ],
     "name:wln_x_preferred":[
         "Bistri\u021ba"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05d9\u05e1\u05d8\u05e8\u05d9\u05e5"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u65af\u7279\u91cc\u5bdf"
     ],
     "qs_pg:aaroncc":"RO",
     "qs_pg:gn_country":null,
@@ -254,7 +254,7 @@
         }
     ],
     "wof:id":1126052871,
-    "wof:lastmodified":1514499775,
+    "wof:lastmodified":1561830848,
     "wof:name":"Bistri\u021ba",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

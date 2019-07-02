@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001593,
-    "geom:area_square_m":13916595.363198,
+    "geom:area_square_m":13916595.363199,
     "geom:bbox":"23.240776,45.0136755,23.313864,45.0802155",
     "geom:latitude":45.042705,
     "geom:longitude":23.282145,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u062c\u0648 \u062c\u064a\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u056b\u0580\u0563\u0578\u0582 \u053a\u056b\u0578\u0582"
-    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u0997\u09c1 \u099c\u09bf\u0989"
     ],
@@ -39,20 +36,14 @@
     "name:ces_x_preferred":[
         "T\u00e2rgu Jiu"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u723e\u53e4\u65e5\u70cf"
-    ],
-    "name:cze_x_preferred":[
-        "T\u00e2rgu Jiu"
-    ],
     "name:dan_x_preferred":[
         "T\u00e2rgu Jiu"
     ],
     "name:deu_x_preferred":[
         "T\u00e2rgu Jiu"
     ],
-    "name:dut_x_preferred":[
-        "T\u00e2rgu Jiu"
+    "name:deu_x_variant":[
+        "Tergoschwyl"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03af\u03c1\u03b3\u03ba\u03bf\u03c5 \u0396\u03af\u03bf\u03c5"
@@ -75,18 +66,6 @@
     "name:fra_x_preferred":[
         "T\u00e2rgu Jiu"
     ],
-    "name:fre_x_preferred":[
-        "T\u00e2rgu Jiu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10e0\u10d2\u10e3-\u10df\u10d8\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Tergoschwyl"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03af\u03c1\u03b3\u03ba\u03bf\u03c5 \u0396\u03af\u03bf\u03c5"
-    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0ab0\u0acd\u0a97\u0ac1 \u0a9c\u0abf\u0aaf\u0ac1"
     ],
@@ -101,6 +80,9 @@
     ],
     "name:hun_x_preferred":[
         "Zsilv\u00e1s\u00e1rhely"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u056b\u0580\u0563\u0578\u0582 \u053a\u056b\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "T\u00e2rgu Jiu"
@@ -132,10 +114,10 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0930\u094d\u0917\u0942 \u091c\u093f\u0909"
     ],
-    "name:may_x_preferred":[
+    "name:min_x_preferred":[
         "T\u00e2rgu Jiu"
     ],
-    "name:min_x_preferred":[
+    "name:msa_x_preferred":[
         "T\u00e2rgu Jiu"
     ],
     "name:nld_x_preferred":[
@@ -146,9 +128,6 @@
     ],
     "name:nob_x_preferred":[
         "Targu Jiu"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u06af\u0648 \u0698\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u06cc\u0631\u06af\u0648\u062c\u0648"
@@ -162,12 +141,12 @@
     "name:ron_x_preferred":[
         "T\u00e2rgu Jiu"
     ],
+    "name:ron_x_variant":[
+        "T\u00eergu Jiu"
+    ],
     "name:rum_x_colloquial":[
         "Targul-Jiu",
         "Tirgu Jiu"
-    ],
-    "name:rum_x_preferred":[
-        "T\u00eergu Jiu"
     ],
     "name:rum_x_variant":[
         "Jiu",
@@ -366,7 +345,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1514500218,
+    "wof:lastmodified":1561830793,
     "wof:name":"T\u00e2rgu Jiu",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
