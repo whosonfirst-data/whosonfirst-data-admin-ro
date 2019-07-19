@@ -24,6 +24,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u062a\u0631\u064a\u062a\u0633\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Bistritsa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0441\u0442\u0440\u044b\u0446\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b8\u09cd\u09a4\u09cd\u09b0\u09bf\u09a4\u09be"
     ],
@@ -31,6 +40,9 @@
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
     "name:cat_x_preferred":[
+        "Bistri\u021ba"
+    ],
+    "name:ceb_x_preferred":[
         "Bistri\u021ba"
     ],
     "name:ces_x_preferred":[
@@ -54,8 +66,14 @@
     "name:eng_x_preferred":[
         "Bistri\u0163a"
     ],
+    "name:eng_x_variant":[
+        "Bistri\u021ba"
+    ],
     "name:epo_x_preferred":[
         "Bistri\u0163a"
+    ],
+    "name:epo_x_variant":[
+        "Bistri\u021ba"
     ],
     "name:est_x_preferred":[
         "Bistri\u021ba"
@@ -126,11 +144,17 @@
     "name:lit_x_preferred":[
         "Bistrica"
     ],
+    "name:ltz_x_preferred":[
+        "Bistri\u021ba"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u093f\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
     "name:min_x_preferred":[
         "Bistri\u021ba"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
     "name:msa_x_preferred":[
         "Bistri\u021ba"
@@ -153,6 +177,9 @@
     "name:pol_x_preferred":[
         "Bistri\u0163a"
     ],
+    "name:pol_x_variant":[
+        "Bystrzyca"
+    ],
     "name:por_x_preferred":[
         "Bistri\u021ba"
     ],
@@ -174,8 +201,14 @@
     "name:slv_x_preferred":[
         "Bistrica"
     ],
+    "name:slv_x_variant":[
+        "Bistri\u021ba"
+    ],
     "name:spa_x_preferred":[
         "Bistri\u0163a"
+    ],
+    "name:spa_x_variant":[
+        "Bistri\u021ba"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
@@ -213,8 +246,14 @@
     "name:vie_x_preferred":[
         "Bistri\u021ba"
     ],
+    "name:war_x_preferred":[
+        "Bistri\u021ba"
+    ],
     "name:wln_x_preferred":[
         "Bistri\u0163a"
+    ],
+    "name:wln_x_variant":[
+        "Bistri\u021ba"
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05d9\u05e1\u05d8\u05e8\u05d9\u05e5"
@@ -355,7 +394,7 @@
         }
     ],
     "wof:id":101752035,
-    "wof:lastmodified":1561830716,
+    "wof:lastmodified":1563575459,
     "wof:name":"Bistri\u0163a",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

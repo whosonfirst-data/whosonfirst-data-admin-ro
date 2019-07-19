@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000386,
-    "geom:area_square_m":3342320.836025,
+    "geom:area_square_m":3342320.836023,
     "geom:bbox":"25.4472144042,45.5701553361,25.4764270618,45.605177093",
     "geom:latitude":45.591517,
     "geom:longitude":25.460623,
@@ -20,6 +20,12 @@
     "name:bul_x_preferred":[
         "\u0420\u044a\u0448\u043d\u043e\u0432"
     ],
+    "name:bul_x_variant":[
+        "\u0420\u044a\u0448\u043d\u043e\u0432\u0441\u043a\u0430 \u043a\u0440\u0435\u043f\u043e\u0441\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00e2\u0219nov"
+    ],
     "name:deu_x_preferred":[
         "Rosenau"
     ],
@@ -28,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "R\u00e2\u015fnov"
+    ],
+    "name:eng_x_variant":[
+        "R\u00e2\u0219nov"
     ],
     "name:epo_x_preferred":[
         "R\u00e2\u015fnov"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":101790887,
-    "wof:lastmodified":1505337956,
+    "wof:lastmodified":1563575367,
     "wof:name":"R\u00e2\u015fnov",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
