@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u043c\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "S\u00e2nmihaiu Rom\u00e2n"
+    ],
     "name:deu_x_preferred":[
         "Roman"
     ],
@@ -54,6 +57,9 @@
     "name:hun_x_preferred":[
         "Rom\u00e1nv\u00e1s\u00e1r"
     ],
+    "name:hun_x_variant":[
+        "B\u00e9gaszentmih\u00e1ly"
+    ],
     "name:ita_x_preferred":[
         "S\u00e2nmihaiu Rom\u00e2n"
     ],
@@ -79,7 +85,8 @@
         "Roman"
     ],
     "name:ron_x_variant":[
-        "S\u00eenmihaiu Rom\u00een"
+        "S\u00eenmihaiu Rom\u00een",
+        "S\u00e2nmihaiu Rom\u00e2n"
     ],
     "name:rum_x_colloquial":[
         "Sanmihaiul-Roman",
@@ -95,8 +102,14 @@
     "name:srp_x_preferred":[
         "\u0420\u043e\u043c\u0430\u043d"
     ],
+    "name:srp_x_variant":[
+        "\u0421\u0435\u043d\u043c\u0438\u0445\u0430\u0458\u0443 \u0420\u043e\u043c\u0430\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0438\u043d\u043c\u0456\u0445\u0430\u044e-\u0420\u043e\u043c\u0438\u043d"
     ],
     "name:unk_x_variant":[
         "Rautendorf"
@@ -159,7 +172,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830725,
+    "wof:lastmodified":1563575551,
     "wof:name":"S\u00e2nmihaiu Rom\u00e2n",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

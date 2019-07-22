@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001469,
-    "geom:area_square_m":12660207.793791,
+    "geom:area_square_m":12660207.793782,
     "geom:bbox":"24.9442449054,45.7900692207,24.9991056042,45.8594822953",
     "geom:latitude":45.82525,
     "geom:longitude":24.970927,
@@ -23,8 +23,14 @@
     "name:bul_x_preferred":[
         "\u0424\u044a\u0433\u044a\u0440\u0430\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Fogarasch"
+    ],
     "name:deu_x_preferred":[
         "Fogarasch"
+    ],
+    "name:eng_x_preferred":[
+        "F\u0103g\u0103ra\u0219"
     ],
     "name:fas_x_preferred":[
         "\u0641\u06af\u0631\u0647"
@@ -59,11 +65,17 @@
     "name:por_x_preferred":[
         "F\u0103g\u0103ra\u015f"
     ],
+    "name:ron_x_preferred":[
+        "F\u0103g\u0103ra\u0219"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u044d\u0433\u044d\u0440\u0430\u0448"
     ],
     "name:srp_x_preferred":[
         "\u0424\u0430\u0433\u0430\u0440\u0430\u0448"
+    ],
+    "name:srp_x_variant":[
+        "\u0424\u043e\u0433\u0430\u0440\u0430\u0441\u043a"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u044d\u0433\u044d\u0440\u0430\u0448"
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":101790933,
-    "wof:lastmodified":1505337956,
+    "wof:lastmodified":1563575407,
     "wof:name":"F\u0103g\u0103ra\u015f",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Sibiu"
     ],
+    "name:ceb_x_preferred":[
+        "S\u00e2rbi"
+    ],
     "name:ces_x_preferred":[
         "Sibiu"
     ],
@@ -39,7 +42,8 @@
         "Hermannstadt"
     ],
     "name:deu_x_variant":[
-        "Sibiu"
+        "Sibiu",
+        "S\u00e2rbi"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bc\u03c0\u03af\u03bf\u03c5"
@@ -47,8 +51,14 @@
     "name:eng_x_preferred":[
         "Sibiu"
     ],
+    "name:eng_x_variant":[
+        "S\u00e2rbi"
+    ],
     "name:epo_x_preferred":[
         "Sibiu"
+    ],
+    "name:epo_x_variant":[
+        "S\u00e2rbi"
     ],
     "name:est_x_preferred":[
         "Sibiu"
@@ -62,6 +72,9 @@
     "name:fra_x_preferred":[
         "Sibiu"
     ],
+    "name:fra_x_variant":[
+        "S\u00e2rbi"
+    ],
     "name:glg_x_preferred":[
         "Sibiu"
     ],
@@ -73,10 +86,14 @@
     ],
     "name:hun_x_variant":[
         "Nagyszeben",
-        "Szeben"
+        "Szeben",
+        "Als\u00f3t\u00f3tfalu"
     ],
     "name:ita_x_preferred":[
         "Sibiu"
+    ],
+    "name:ita_x_variant":[
+        "S\u00e2rbi"
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30d3\u30a6"
@@ -99,8 +116,14 @@
     "name:mon_x_preferred":[
         "\u0421\u0438\u0431\u0438\u0443"
     ],
+    "name:msa_x_preferred":[
+        "S\u00e2rbi"
+    ],
     "name:nld_x_preferred":[
         "Sibiu"
+    ],
+    "name:nld_x_variant":[
+        "S\u00e2rbi"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0628\u0648"
@@ -108,11 +131,15 @@
     "name:pol_x_preferred":[
         "Sybin"
     ],
+    "name:por_x_preferred":[
+        "S\u00e2rbi"
+    ],
     "name:ron_x_preferred":[
         "Sibiu"
     ],
     "name:ron_x_variant":[
-        "S\u00eerbi"
+        "S\u00eerbi",
+        "S\u00e2rbi"
     ],
     "name:rum_x_colloquial":[
         "Sarbi",
@@ -127,8 +154,14 @@
     "name:spa_x_preferred":[
         "Sibiu"
     ],
+    "name:sqi_x_preferred":[
+        "S\u00e2rbi"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u0431\u0438\u045a"
+    ],
+    "name:srp_x_variant":[
+        "\u0421\u0430\u0440\u0431\u0438"
     ],
     "name:swe_x_preferred":[
         "Sibiu"
@@ -148,11 +181,17 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0431\u0456\u0443"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0438\u0440\u0431\u0456"
+    ],
     "name:unk_x_variant":[
         "S\u00eerbi"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0628\u06cc\u0648"
+    ],
+    "name:vol_x_preferred":[
+        "S\u00e2rbi"
     ],
     "name:wln_x_preferred":[
         "Sibiu"
@@ -206,7 +245,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830831,
+    "wof:lastmodified":1563576872,
     "wof:name":"S\u00e2rbi",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

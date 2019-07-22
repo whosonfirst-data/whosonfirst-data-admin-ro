@@ -23,7 +23,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Beclean"
+    ],
     "name:deu_x_preferred":[
+        "Beclean"
+    ],
+    "name:deu_x_variant":[
+        "Bethlen"
+    ],
+    "name:eng_x_preferred":[
         "Beclean"
     ],
     "name:epo_x_preferred":[
@@ -50,6 +59,12 @@
     "name:ita_x_preferred":[
         "Beclean"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30af\u30ec\u30a2\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Beclean"
+    ],
     "name:min_x_preferred":[
         "Beclean"
     ],
@@ -74,8 +89,14 @@
     "name:rum_x_variant":[
         "Sz\u00e8kelybethlenfalva"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043a\u043b\u044f\u043d"
+    ],
     "name:spa_x_preferred":[
         "Beclean"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0435\u043a\u0459\u0430\u043d"
     ],
     "name:tgk_x_preferred":[
         "\u0411\u0435\u043a\u043b\u044f\u043d"
@@ -147,7 +168,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830675,
+    "wof:lastmodified":1563574409,
     "wof:name":"Beclean",
     "wof:parent_id":101788755,
     "wof:placetype":"neighbourhood",

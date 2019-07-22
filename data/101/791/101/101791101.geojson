@@ -17,8 +17,17 @@
     "mps:longitude":23.659303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "C\u00e2lnic"
+    ],
+    "name:deu_x_preferred":[
+        "Kelling"
+    ],
     "name:eng_x_preferred":[
         "Kelling"
+    ],
+    "name:eng_x_variant":[
+        "C\u00e2lnic"
     ],
     "name:fra_x_preferred":[
         "C\u00e2lnic"
@@ -38,12 +47,18 @@
     "name:ron_x_preferred":[
         "C\u00eelnic"
     ],
+    "name:ron_x_variant":[
+        "C\u00e2lnic"
+    ],
     "name:rum_x_colloquial":[
         "Calnic",
         "Cilnic"
     ],
     "name:rum_x_variant":[
         "C\u00e2lnic"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u043d\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u043b\u043d\u0456\u043a"
@@ -97,7 +112,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830727,
+    "wof:lastmodified":1563575566,
     "wof:name":"Calnic",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
