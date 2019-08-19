@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.221185,45.755928,21.221185,45.755928",
-    "geom:latitude":45.755928,
-    "geom:longitude":21.221185,
+    "geom:bbox":"21.266504,45.727835,21.266504,45.727835",
+    "geom:latitude":45.727835,
+    "geom:longitude":21.266504,
     "gn:latitude":45.72739,
     "gn:longitude":21.26696,
     "iso:country":"RO",
-    "lbl:latitude":45.755928,
-    "lbl:longitude":21.221185,
+    "lbl:latitude":45.727835,
+    "lbl:longitude":21.266504,
     "mps:latitude":45.758079,
     "mps:longitude":21.201493,
     "mz:hierarchy_label":0,
@@ -23,19 +23,23 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "mz:tier_metro":30,
+    "name:eng_x_variant":[
+        "Ciarda Ro\u0219ie"
+    ],
     "name:hun_x_historical":[
         "V\u00f6r\u00f6s Cs\u00e1rda"
     ],
     "name:hun_x_preferred":[
         "V\u00f6r\u00f6s Cs\u00e1rda"
     ],
+    "name:ron_x_colloquial":[
+        "Ciarda Rosie"
+    ],
     "name:ron_x_preferred":[
         "Ciarda Ro\u0219ie"
-    ],
-    "name:rum_x_colloquial":[
-        "Ciarda Rosie"
     ],
     "name:unk_x_variant":[
         "Ciarda Ro\u0219ie"
@@ -61,12 +65,13 @@
     "qs:woe_lau":0,
     "qs:woe_local":881802,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         101751973,
@@ -81,7 +86,7 @@
         "qs_pg:id":238630
     },
     "wof:country":"RO",
-    "wof:geomhash":"4f56458a2b187868b86fa584bb7190ae",
+    "wof:geomhash":"d0bd41a61f4f6efbf362aadb35403776",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +100,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830676,
+    "wof:lastmodified":1566247552,
     "wof:name":"Ciarda Ro\u0219ie",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -105,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.221185,
-    45.755928,
-    21.221185,
-    45.755928
+    21.266504,
+    45.727835,
+    21.266504,
+    45.727835
 ],
-  "geometry": {"coordinates":[21.221185,45.755928],"type":"Point"}
+  "geometry": {"coordinates":[21.266504,45.727835],"type":"Point"}
 }
