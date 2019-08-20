@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.615627,46.774106,23.615627,46.774106",
-    "geom:latitude":46.774106,
-    "geom:longitude":23.615627,
+    "geom:bbox":"23.655967,46.785509,23.655967,46.785509",
+    "geom:latitude":46.785509,
+    "geom:longitude":23.655967,
     "gn:latitude":46.78333,
     "gn:longitude":23.65,
     "iso:country":"RO",
-    "lbl:latitude":46.774106,
-    "lbl:longitude":23.615627,
+    "lbl:latitude":46.785509,
+    "lbl:longitude":23.655967,
     "mps:latitude":46.776633,
     "mps:longitude":23.623926,
     "mz:hierarchy_label":0,
@@ -25,6 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "mz:tier_metro":30,
     "name:deu_x_preferred":[
         "Mikelsdorf"
     ],
@@ -40,11 +41,11 @@
     "name:nld_x_preferred":[
         "Some\u0219eni"
     ],
+    "name:ron_x_colloquial":[
+        "Someseni"
+    ],
     "name:ron_x_preferred":[
         "Some\u0219eni"
-    ],
-    "name:rum_x_colloquial":[
-        "Someseni"
     ],
     "name:unk_x_variant":[
         "Some\u015feni",
@@ -73,12 +74,13 @@
     "qs:woe_lau":0,
     "qs:woe_local":869897,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":72,
     "wof:belongsto":[
         102191581,
@@ -96,7 +98,7 @@
         "wk:page":"Some\u0219eni"
     },
     "wof:country":"RO",
-    "wof:geomhash":"8375611d65b06c81a565ad188f5066d3",
+    "wof:geomhash":"8dafff23c007fe18318513e5798fb6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +112,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574421,
+    "wof:lastmodified":1566247552,
     "wof:name":"Some\u0219eni",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -120,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.615627,
-    46.774106,
-    23.615627,
-    46.774106
+    23.655967,
+    46.785509,
+    23.655967,
+    46.785509
 ],
-  "geometry": {"coordinates":[23.615627,46.774106],"type":"Point"}
+  "geometry": {"coordinates":[23.655967,46.785509],"type":"Point"}
 }

@@ -6,14 +6,14 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.215928,45.726473,21.215928,45.726473",
-    "geom:latitude":45.726473,
-    "geom:longitude":21.215928,
+    "geom:bbox":"21.21361,45.721979,21.21361,45.721979",
+    "geom:latitude":45.721979,
+    "geom:longitude":21.21361,
     "gn:latitude":45.71667,
     "gn:longitude":21.21667,
     "iso:country":"RO",
-    "lbl:latitude":45.726473,
-    "lbl:longitude":21.215928,
+    "lbl:latitude":45.721979,
+    "lbl:longitude":21.21361,
     "mps:latitude":45.716752,
     "mps:longitude":21.223854,
     "mz:hierarchy_label":0,
@@ -23,8 +23,9 @@
     "mz:is_landuse_aoi":0,
     "mz:is_official":0,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "mz:tier_metro":30,
     "name:ron_x_preferred":[
         "Fratelia"
     ],
@@ -52,12 +53,13 @@
     "qs:woe_lau":0,
     "qs:woe_local":881802,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         101751973,
@@ -72,7 +74,7 @@
         "qs_pg:id":1167563
     },
     "wof:country":"RO",
-    "wof:geomhash":"bec76136e7ed85a25932c288b1134d6c",
+    "wof:geomhash":"4cf1236341571059a436b6c1c682574d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +88,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830677,
+    "wof:lastmodified":1566247552,
     "wof:name":"Fratelia",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -96,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.215928,
-    45.726473,
-    21.215928,
-    45.726473
+    21.21361,
+    45.721979,
+    21.21361,
+    45.721979
 ],
-  "geometry": {"coordinates":[21.215928,45.726473],"type":"Point"}
+  "geometry": {"coordinates":[21.21361,45.721979],"type":"Point"}
 }
