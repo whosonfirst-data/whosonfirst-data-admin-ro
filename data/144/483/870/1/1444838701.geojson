@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"468293420d4c4fd35ed76b770117521e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0605ccf452e95af21ff557b0ac7ee09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838701,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838701,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339156,
     "wof:name":"Elisabetin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -46,9 +59,9 @@
 },
   "bbox": [
     21.22966891476208,
-    45.742087155718266,
+    45.74208715571827,
     21.22966891476208,
-    45.742087155718266
+    45.74208715571827
 ],
   "geometry": {"coordinates":[21.22966891476208,45.74208715571827],"type":"Point"}
 }

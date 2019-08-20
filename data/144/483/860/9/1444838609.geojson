@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"44a73766b80dab8d2ca7e4b36dba592f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1b24c513dbe2d3ddacadfbeaa1b21e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838609,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838609,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339142,
     "wof:name":"Intre Lacuri",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.627822472777723,
+    23.62782247277772,
     46.77686243214522,
-    23.627822472777723,
+    23.62782247277772,
     46.77686243214522
 ],
   "geometry": {"coordinates":[23.62782247277772,46.77686243214522],"type":"Point"}

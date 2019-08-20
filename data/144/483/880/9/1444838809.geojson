@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"f0e117ff687b99bfb36f666ee3218627",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fcdca53894628261ffa54e32b4d4e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838809,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838809,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339171,
     "wof:name":"Lunei",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.259795501575617,
+    21.25979550157562,
     45.7544851525192,
-    21.259795501575617,
+    21.25979550157562,
     45.7544851525192
 ],
   "geometry": {"coordinates":[21.25979550157562,45.7544851525192],"type":"Point"}

@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"27c4a7573a3e0103a51e04e2028ef73e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61b5e099aa4c4253c40c18e5bb6b675e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838779,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838779,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339167,
     "wof:name":"Telegrafului",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.253186535237603,
+    21.2531865352376,
     45.766940269297,
-    21.253186535237603,
+    21.2531865352376,
     45.766940269297
 ],
   "geometry": {"coordinates":[21.2531865352376,45.766940269297],"type":"Point"}

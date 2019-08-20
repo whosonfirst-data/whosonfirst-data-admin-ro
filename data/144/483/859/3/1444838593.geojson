@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"55d150c7689d02adce186a07bba29397",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a309dc133f85587cfa5f676e6e04c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838593,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838593,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339141,
     "wof:name":"Andrei Muresanu",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.606021466935463,
+    23.60602146693546,
     46.76263568860821,
-    23.606021466935463,
+    23.60602146693546,
     46.76263568860821
 ],
   "geometry": {"coordinates":[23.60602146693546,46.76263568860821],"type":"Point"}

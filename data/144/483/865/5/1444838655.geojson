@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"64410e098ff625829215c35b944eff9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cff5b30920848b7d06f29c807ba4c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838655,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838655,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339148,
     "wof:name":"Gradini Manastur",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.565595192322434,
+    23.56559519232243,
     46.76322364508878,
-    23.565595192322434,
+    23.56559519232243,
     46.76322364508878
 ],
   "geometry": {"coordinates":[23.56559519232243,46.76322364508878],"type":"Point"}

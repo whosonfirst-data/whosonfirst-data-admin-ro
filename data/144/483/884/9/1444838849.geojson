@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"cee25405c7ce15fec14b80be496e8441",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e659c8a7358788f2b60619502b2cbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838849,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838849,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339182,
     "wof:name":"Bucovina",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.201988503800944,
+    21.20198850380094,
     45.77065231427968,
-    21.201988503800944,
+    21.20198850380094,
     45.77065231427968
 ],
   "geometry": {"coordinates":[21.20198850380094,45.77065231427968],"type":"Point"}

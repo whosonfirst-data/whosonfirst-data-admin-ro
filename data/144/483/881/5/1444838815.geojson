@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"b14f19661b2b7504be4763ec18210297",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7152aa39d7a24238e932803037d2bcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838815,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838815,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339172,
     "wof:name":"Modern",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.266790706206105,
-    45.764006381557074,
-    21.266790706206105,
-    45.764006381557074
+    21.26679070620611,
+    45.76400638155707,
+    21.26679070620611,
+    45.76400638155707
 ],
   "geometry": {"coordinates":[21.26679070620611,45.76400638155707],"type":"Point"}
 }

@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"caf5c8fa6ab9e95a33ea2fc532256d77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6a21ce6a419456456ef48ff8ca7b272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838567,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838567,
-    "wof:lastmodified":1566335355,
+    "wof:lastmodified":1566339137,
     "wof:name":"Zorilor",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -46,9 +59,9 @@
 },
   "bbox": [
     23.58679538304307,
-    46.756461757383605,
+    46.7564617573836,
     23.58679538304307,
-    46.756461757383605
+    46.7564617573836
 ],
   "geometry": {"coordinates":[23.58679538304307,46.7564617573836],"type":"Point"}
 }

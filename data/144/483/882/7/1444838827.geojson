@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"72353ac7a4b16b40848415f271a8eae7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1835a8fc290633c4af21c1702acedb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838827,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838827,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339176,
     "wof:name":"Torontalalui",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.214777282818638,
+    21.21477728281864,
     45.77196943253609,
-    21.214777282818638,
+    21.21477728281864,
     45.77196943253609
 ],
   "geometry": {"coordinates":[21.21477728281864,45.77196943253609],"type":"Point"}

@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"8f76e0d372fe3d8ac27c6ee31963479d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8859a92a166451c62fcb5faa282fb4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838835,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838835,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339177,
     "wof:name":"Braytim",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -42,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.243101424267262,
-    45.726091469907416,
-    21.243101424267262,
-    45.726091469907416
+    21.24310142426726,
+    45.72609146990742,
+    21.24310142426726,
+    45.72609146990742
 ],
   "geometry": {"coordinates":[21.24310142426726,45.72609146990742],"type":"Point"}
 }

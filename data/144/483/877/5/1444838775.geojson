@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"edba4768b3a4347f17b10efd078b6c57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5074c27420417209ab00cd57f15ab1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838775,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838775,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339166,
     "wof:name":"Tipografilor",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.237994495733343,
-    45.761611256764375,
-    21.237994495733343,
-    45.761611256764375
+    21.23799449573334,
+    45.76161125676438,
+    21.23799449573334,
+    45.76161125676438
 ],
   "geometry": {"coordinates":[21.23799449573334,45.76161125676438],"type":"Point"}
 }

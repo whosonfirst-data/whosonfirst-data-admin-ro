@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
     "wof:geomhash":"9ecf22b6b7f5a8c3c98a75a6ae4a9f7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838691,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838691,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339153,
     "wof:name":"Becas",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

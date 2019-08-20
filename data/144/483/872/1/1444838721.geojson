@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"7ba08a9336de9008a61b20f4d798dbe3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1eb06d09d189003b692853fbfc1bc496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838721,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838721,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339157,
     "wof:name":"Iosefin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.208812046968106,
+    21.20881204696811,
     45.74262625014939,
-    21.208812046968106,
+    21.20881204696811,
     45.74262625014939
 ],
   "geometry": {"coordinates":[21.20881204696811,45.74262625014939],"type":"Point"}

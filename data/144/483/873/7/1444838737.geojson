@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"f501e2b063e906c3037572e4f3c214cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a46fd40f3878f148df5588fef5b3e8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838737,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838737,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339161,
     "wof:name":"Dambovita",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.201430604045125,
+    21.20143060404513,
     45.73244236547683,
-    21.201430604045125,
+    21.20143060404513,
     45.73244236547683
 ],
   "geometry": {"coordinates":[21.20143060404513,45.73244236547683],"type":"Point"}

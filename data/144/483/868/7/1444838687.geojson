@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
     "wof:geomhash":"083cb04bbeeebb305915798ca856bbd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838687,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838687,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339152,
     "wof:name":"Aurel Vlaicu",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

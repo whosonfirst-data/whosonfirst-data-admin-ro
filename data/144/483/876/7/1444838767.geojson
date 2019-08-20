@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"2e41664620fd7f4243e7eb28de5f24b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"275cb31b0b5078dfa12f2461a682b9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838767,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838767,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339163,
     "wof:name":"Fabric",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.250010798166095,
+    21.25001079816609,
     45.75723988895351,
-    21.250010798166095,
+    21.25001079816609,
     45.75723988895351
 ],
   "geometry": {"coordinates":[21.25001079816609,45.75723988895351],"type":"Point"}

@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"fa1e7433781ff572482b6d8cc852e9ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"069b930f153fcaa76769eeeb1f6d5124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838575,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838575,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339138,
     "wof:name":"Gheorgheni",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.618552753758177,
+    23.61855275375818,
     46.76769190146856,
-    23.618552753758177,
+    23.61855275375818,
     46.76769190146856
 ],
   "geometry": {"coordinates":[23.61855275375818,46.76769190146856],"type":"Point"}

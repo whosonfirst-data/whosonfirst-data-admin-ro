@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"01f0e1b69145fee90ffb131a77709355",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c8a16473f07e4456257661c3a9be831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838673,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838673,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339152,
     "wof:name":"Valea Chintaului",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.604476513765533,
-    46.809534441634185,
-    23.604476513765533,
-    46.809534441634185
+    23.60447651376553,
+    46.80953444163418,
+    23.60447651376553,
+    46.80953444163418
 ],
   "geometry": {"coordinates":[23.60447651376553,46.80953444163418],"type":"Point"}
 }

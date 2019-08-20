@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"f81c86935cb6e19f254b767d26915919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26fdcc5662586211c37733e7b92aef5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838795,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838795,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339168,
     "wof:name":"Plopi",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.280051554247965,
+    21.28005155424797,
     45.75089181367323,
-    21.280051554247965,
+    21.28005155424797,
     45.75089181367323
 ],
   "geometry": {"coordinates":[21.28005155424797,45.75089181367323],"type":"Point"}

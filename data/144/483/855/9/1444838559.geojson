@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"e20869f8c6955a0d5068eacfd37b67df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f9040276f6e211aa7f18caa00c12cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838559,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838559,
-    "wof:lastmodified":1566335355,
+    "wof:lastmodified":1566339136,
     "wof:name":"Manastur",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.556067981107912,
+    23.55606798110791,
     46.75428601611341,
-    23.556067981107912,
+    23.55606798110791,
     46.75428601611341
 ],
   "geometry": {"coordinates":[23.55606798110791,46.75428601611341],"type":"Point"}

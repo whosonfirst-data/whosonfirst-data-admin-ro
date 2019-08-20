@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"cd9da8a8b664ff917ab3de6dd17bc48b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13431dd19348704706a492849095b847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838597,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838597,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339141,
     "wof:name":"Gruia",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.578898955730132,
+    23.57889895573013,
     46.77827314626523,
-    23.578898955730132,
+    23.57889895573013,
     46.77827314626523
 ],
   "geometry": {"coordinates":[23.57889895573013,46.77827314626523],"type":"Point"}

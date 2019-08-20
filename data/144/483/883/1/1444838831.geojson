@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"6c9116f58e5d8e2cba53eafc2384c327",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baee690e0241439cfeb9012d3f6658e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838831,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838831,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339177,
     "wof:name":"Mehala",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.203962610629173,
-    45.765263780911106,
-    21.203962610629173,
-    45.765263780911106
+    21.20396261062917,
+    45.76526378091111,
+    21.20396261062917,
+    45.76526378091111
 ],
   "geometry": {"coordinates":[21.20396261062917,45.76526378091111],"type":"Point"}
 }

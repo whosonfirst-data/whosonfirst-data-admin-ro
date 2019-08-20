@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101751973,
+        85633745,
+        85687655
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"e76b5769816f3d7d40480c07ae03940b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11b1976e2e9e3e31877b3e74acef88a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101751973,
+            "neighbourhood_id":1444838839,
+            "region_id":85687655
+        }
+    ],
     "wof:id":1444838839,
-    "wof:lastmodified":1566335356,
+    "wof:lastmodified":1566339178,
     "wof:name":"Girocului",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.231943429151148,
+    21.23194342915115,
     45.73346083814059,
-    21.231943429151148,
+    21.23194342915115,
     45.73346083814059
 ],
   "geometry": {"coordinates":[21.23194342915115,45.73346083814059],"type":"Point"}

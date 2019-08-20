@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101752019,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"5cb8299a67ed042f64b32e5f60e0360a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cdde669a53434aee5da25e66063ef0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":101752019,
+            "neighbourhood_id":1444838533,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1444838533,
-    "wof:lastmodified":1566335355,
+    "wof:lastmodified":1566339133,
     "wof:name":"Marasti",
-    "wof:parent_id":-1,
+    "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.612716264005133,
+    23.61271626400513,
     46.78150588876083,
-    23.612716264005133,
+    23.61271626400513,
     46.78150588876083
 ],
   "geometry": {"coordinates":[23.61271626400513,46.78150588876083],"type":"Point"}
