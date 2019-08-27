@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.414903,
     "lbl:longitude":26.626572,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.414903,
     "mps:longitude":26.626572,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dragomir"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":678927,
         "gp:id":871631,
-        "qs:id":496805,
+        "qs_pg:id":496805,
         "wd:id":"Q12102286"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101835023,
-    "wof:lastmodified":1563575722,
+    "wof:lastmodified":1566610775,
     "wof:name":"Dragomir",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

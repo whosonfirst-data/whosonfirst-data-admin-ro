@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.920913,
     "lbl:longitude":26.671417,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.920913,
     "mps:longitude":26.671417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tulnici"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043b\u043d\u0456\u0447"
     ],
-    "name:unk_x_variant":[
-        "Tulnicii"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Vrancea",
     "qs:a1r":"0",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +75,6 @@
         "fct:id":"03a55528-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664507,
         "gp:id":882240,
-        "qs:id":908989,
         "qs_pg:id":908989,
         "wd:id":"Q12725220"
     },
@@ -93,7 +92,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576924,
+    "wof:lastmodified":1566611196,
     "wof:name":"Tulnici",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

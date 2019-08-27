@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.00887,
     "lbl:longitude":23.879909,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.00887,
     "mps:longitude":23.879909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dealu Aluni\u0219"
     ],
@@ -32,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u044f\u043b\u0443-\u0410\u043b\u0443\u043d\u0456\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Str\u00e2mba"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":679681,
         "gp:id":871324,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q12103051"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101835815,
-    "wof:lastmodified":1563575796,
+    "wof:lastmodified":1566610803,
     "wof:name":"Dealu Aluni\u015f",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

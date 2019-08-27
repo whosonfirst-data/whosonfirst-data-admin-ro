@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.756669,
     "lbl:longitude":23.835049,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.756669,
     "mps:longitude":23.835049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mara"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Crace\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":673898,
         "gp:id":875346,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q753172"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101833675,
-    "wof:lastmodified":1563575880,
+    "wof:lastmodified":1566610836,
     "wof:name":"Mara",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

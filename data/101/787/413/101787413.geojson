@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.379818,
     "lbl:longitude":27.896098,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.379818,
     "mps:longitude":27.896098,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vii\u0219oara"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0457\u0448\u043e\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0103se\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":662921,
         "gp:id":883521,
-        "qs:id":126660,
         "qs_pg:id":126660,
         "wd:id":"Q12093628"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101787413,
-    "wof:lastmodified":1563576854,
+    "wof:lastmodified":1566611170,
     "wof:name":"Vii\u015foara",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

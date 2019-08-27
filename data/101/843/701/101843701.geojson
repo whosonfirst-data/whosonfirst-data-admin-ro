@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.160851,
     "lbl:longitude":27.173323,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.160851,
     "mps:longitude":27.173323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Crucea"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":680091,
         "gp:id":870768,
-        "qs:id":410254,
+        "qs_pg:id":410254,
         "wd:id":"Q12115128"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101843701,
-    "wof:lastmodified":1563575701,
+    "wof:lastmodified":1566610768,
     "wof:name":"Crucea",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

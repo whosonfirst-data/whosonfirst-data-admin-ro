@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.93663,
     "lbl:longitude":27.975116,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.93663,
     "mps:longitude":27.975116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0445\u043e\u0442\u0438\u043d"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":684345,
         "gp:id":867665,
-        "qs:id":409464,
+        "qs_pg:id":409464,
         "wd:id":"Q12084417"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101785111,
-    "wof:lastmodified":1563576099,
+    "wof:lastmodified":1566610913,
     "wof:name":"Bohotin",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

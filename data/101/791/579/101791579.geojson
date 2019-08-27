@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.274191,
     "lbl:longitude":24.997994,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.274191,
     "mps:longitude":24.997994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bughea de Jos"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
         "fct:id":"039e2e38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":683386,
         "gp:id":868354,
-        "qs:id":262258,
         "qs_pg:id":262258,
         "wd:id":"Q948699"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575616,
+    "wof:lastmodified":1566610739,
     "wof:name":"Bughea de Jos",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

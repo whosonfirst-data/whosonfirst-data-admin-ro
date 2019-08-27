@@ -12,8 +12,10 @@
     "gn:latitude":45.63333,
     "gn:longitude":25.58333,
     "iso:country":"RO",
+    "lbl:bbox":"25.583234,45.642664,25.593234,45.652664",
     "lbl:latitude":45.647664,
     "lbl:longitude":25.588234,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.672771,
     "mps:longitude":25.605706,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ron_x_preferred":[
-        "Atias"
-    ],
-    "name:unk_x_variant":[
         "Atias"
     ],
     "qs:gn_adm0_cc":"RO",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751991,
@@ -71,7 +70,6 @@
     "wof:concordances":{
         "gn:id":686060,
         "gp:id":866448,
-        "qs:id":1167535,
         "qs_pg:id":1167535
     },
     "wof:country":"RO",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830675,
+    "wof:lastmodified":1566609998,
     "wof:name":"Atias",
     "wof:parent_id":101751991,
     "wof:placetype":"neighbourhood",

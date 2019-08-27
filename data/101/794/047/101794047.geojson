@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.650235,
     "lbl:longitude":25.494875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.650235,
     "mps:longitude":25.494875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Coste\u0219tii din Vale"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u0448\u0442\u0456\u0439-\u0434\u0456\u043d-\u0412\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coste\u015fti-Vale"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":680560,
         "gp:id":870442,
-        "qs:id":127762,
         "qs_pg:id":127762,
         "wd:id":"Q3726324"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101794047,
-    "wof:lastmodified":1563576358,
+    "wof:lastmodified":1566611004,
     "wof:name":"Coste\u015ftii din Vale",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.84356,
     "lbl:longitude":26.042288,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.84356,
     "mps:longitude":26.042288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0103te\u0219ti"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":685273,
         "gp:id":867008,
-        "qs:id":1277874,
+        "qs_pg:id":1277874,
         "wd:id":"Q12082441"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101835923,
-    "wof:lastmodified":1563575764,
+    "wof:lastmodified":1566610791,
     "wof:name":"B\u0103te\u015fti",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

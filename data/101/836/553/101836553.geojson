@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.253761,
     "lbl:longitude":22.927234,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.253761,
     "mps:longitude":22.927234,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ro\u0219iori"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":668622,
         "gp:id":879260,
-        "qs:id":412525,
+        "qs_pg:id":412525,
         "wd:id":"Q12148983"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101836553,
-    "wof:lastmodified":1563576631,
+    "wof:lastmodified":1566611096,
     "wof:name":"Ro\u015fiori",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

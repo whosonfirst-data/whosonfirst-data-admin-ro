@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.270921,
     "lbl:longitude":24.37395,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.270921,
     "mps:longitude":24.37395,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0103gaciu"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0433\u0430\u0447\u0443"
     ],
-    "name:unk_x_variant":[
-        "B\u0103gaciul"
-    ],
     "name:vie_x_preferred":[
         "Bagaciu"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,6 @@
         "fct:id":"039d43ec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685872,
         "gp:id":866592,
-        "qs:id":250825,
         "qs_pg:id":250825,
         "wd:id":"Q1014845"
     },
@@ -120,7 +119,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575378,
+    "wof:lastmodified":1566610660,
     "wof:name":"B\u0103gaciu",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

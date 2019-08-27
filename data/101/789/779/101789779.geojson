@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.378241,
     "lbl:longitude":23.105892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.378241,
     "mps:longitude":23.105892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u062a\u0631\u0627"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
         "fct:id":"039db2d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684680,
         "gp:id":867427,
-        "qs:id":127978,
         "qs_pg:id":127978,
         "wd:id":"Q804075"
     },
@@ -126,7 +128,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576963,
+    "wof:lastmodified":1566611210,
     "wof:name":"Bistra",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.000149,
     "lbl:longitude":26.646569,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.000149,
     "mps:longitude":26.646569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ruc\u0103reni"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u043a\u0435\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruc\u0103rena"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":668539,
         "gp:id":879314,
-        "qs:id":916496,
+        "qs_pg:id":916496,
         "wd:id":"Q12149275"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101834945,
-    "wof:lastmodified":1563576076,
+    "wof:lastmodified":1566610905,
     "wof:name":"Ruc\u0103reni",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

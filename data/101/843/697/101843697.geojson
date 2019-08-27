@@ -9,14 +9,17 @@
     "geom:bbox":"28.0418578291,46.9820236102,28.067819419,47.0009446779",
     "geom:latitude":46.992703,
     "geom:longitude":28.05629,
-    "geonames:id":"676633,618222",
+    "gn:id":"676633,618222",
     "iso:country":"RO",
     "lbl:latitude":46.994971,
     "lbl:longitude":28.055012,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.994971,
     "mps:longitude":28.055012,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Groze\u0219ti"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -71,9 +74,11 @@
     "wof:concordances":{
         "gn:id":676633,
         "gp:id":480643,
-        "qs:id":1055644,
         "qs_pg:id":127575,
         "wd:id":"Q440908"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1055644
     },
     "wof:country":"RO",
     "wof:geomhash":"8b4ce022b815cdba6b5dc8ab92f9cf0f",
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":101843697,
-    "wof:lastmodified":1563575706,
+    "wof:lastmodified":1566610769,
     "wof:name":"Groze\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

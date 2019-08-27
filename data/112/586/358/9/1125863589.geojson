@@ -9,15 +9,18 @@
     "geom:bbox":"23.4,45.16667,23.4,45.16667",
     "geom:latitude":45.16667,
     "geom:longitude":23.4,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":10445,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":10445,
     "iso:country":"RO",
+    "lbl:bbox":"23.38,45.14667,23.42,45.18667",
     "lbl:latitude":45.16667,
     "lbl:longitude":23.4,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Bumbe\u0219ti-Jiu"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043c\u0431\u0435\u0448\u0442\u044c-\u0416\u0456\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bumbe\u015fti"
     ],
     "name:vie_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":127893,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125863589,
-    "wof:lastmodified":1564101469,
+    "wof:lastmodified":1566611307,
     "wof:name":"Bumbe\u015fti-Jiu",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

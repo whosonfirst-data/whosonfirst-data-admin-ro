@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.34695,
     "lbl:longitude":26.530619,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.34695,
     "mps:longitude":26.530619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Larga"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":675027,
         "gp:id":874492,
-        "qs:id":411282,
+        "qs_pg:id":411282,
         "wd:id":"Q12117130"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101835015,
-    "wof:lastmodified":1563575723,
+    "wof:lastmodified":1566610776,
     "wof:name":"Larga",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

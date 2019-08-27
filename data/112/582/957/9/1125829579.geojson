@@ -9,15 +9,18 @@
     "geom:bbox":"24.68333,43.96667,24.68333,43.96667",
     "geom:latitude":43.96667,
     "geom:longitude":24.68333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":4716,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":4716,
     "iso:country":"RO",
+    "lbl:bbox":"24.66333,43.94667,24.70333,43.98667",
     "lbl:latitude":43.96667,
     "lbl:longitude":24.68333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Plopii Sl\u0103vi\u021be\u0219t\u00ed"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u043e\u043f\u0456\u0439-\u0421\u043b\u0435\u0432\u0456\u0442\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plopi-Sl\u0103vite\u015fti"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "qs_pg:qs_id":1027552,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125829579,
-    "wof:lastmodified":1563577453,
+    "wof:lastmodified":1566611387,
     "wof:name":"Plopii Sl\u0103vi\u0163e\u015ft\u00ed",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

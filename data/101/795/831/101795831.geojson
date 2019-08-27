@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.865957,
     "lbl:longitude":23.036565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.865957,
     "mps:longitude":23.036565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Desa"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Dessa"
-    ],
     "name:vol_x_preferred":[
         "Desa"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"039fa2c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679464,
         "gp:id":871254,
-        "qs:id":127703,
         "qs_pg:id":127703,
         "wd:id":"Q2606405"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576482,
+    "wof:lastmodified":1566611045,
     "wof:name":"Desa",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

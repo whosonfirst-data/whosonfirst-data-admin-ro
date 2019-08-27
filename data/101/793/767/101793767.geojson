@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.355598,
     "lbl:longitude":26.365866,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.355598,
     "mps:longitude":26.365866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pl\u0103t\u0103re\u0219ti"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":670552,
         "gp:id":15002198,
-        "qs:id":127269,
         "qs_pg:id":127269,
         "wd:id":"Q12140882"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101793767,
-    "wof:lastmodified":1563576286,
+    "wof:lastmodified":1566610977,
     "wof:name":"Pl\u0103t\u0103re\u015fti",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.711622,
     "lbl:longitude":23.689203,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.711622,
     "mps:longitude":23.689203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gheorghieni"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043e\u0440\u0433\u0456\u0454\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giurfal\u0103u"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":677459,
         "gp:id":872727,
-        "qs:id":941163,
+        "qs_pg:id":941163,
         "wd:id":"Q590945"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101788687,
-    "wof:lastmodified":1563576681,
+    "wof:lastmodified":1566611113,
     "wof:name":"Gheorghieni",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

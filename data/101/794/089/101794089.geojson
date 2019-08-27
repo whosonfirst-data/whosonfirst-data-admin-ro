@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.491223,
     "lbl:longitude":25.246311,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.491223,
     "mps:longitude":25.246311,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u0218tefan cel Mare"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0435\u0444\u0430\u043d-\u0447\u0435\u043b-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Stefan-Celmore"
-    ],
     "name:vol_x_preferred":[
         "\u0218tefan cel Mare"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +97,6 @@
         "fct:id":"03a74bc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666251,
         "gp:id":880963,
-        "qs:id":126927,
         "qs_pg:id":126927,
         "wd:id":"Q941574"
     },
@@ -115,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576384,
+    "wof:lastmodified":1566611014,
     "wof:name":"\u015etefan cel Mare",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

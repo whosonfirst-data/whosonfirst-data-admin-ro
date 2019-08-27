@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.235746,
     "lbl:longitude":26.466452,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.235746,
     "mps:longitude":26.466452,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bude\u0219ti"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":683447,
         "gp:id":868328,
-        "qs:id":275357,
         "qs_pg:id":275357,
         "wd:id":"Q16898184"
     },
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101793729,
-    "wof:lastmodified":1563576322,
+    "wof:lastmodified":1566610989,
     "wof:name":"Bude\u015fti",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

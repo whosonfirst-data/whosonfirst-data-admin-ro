@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.456584,
     "lbl:longitude":21.957363,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.456584,
     "mps:longitude":21.957363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zorlen\u021bu Mare"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u0440\u043b\u0435\u043d\u0446\u0443-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Als\u00f3zorlenc"
-    ],
     "name:vie_x_preferred":[
         "Zorlentu Mare"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,6 @@
     "wof:concordances":{
         "gn:id":662128,
         "gp:id":884087,
-        "qs:id":81543,
         "qs_pg:id":81543,
         "wd:id":"Q75425"
     },
@@ -107,7 +106,7 @@
         }
     ],
     "wof:id":101792699,
-    "wof:lastmodified":1563576574,
+    "wof:lastmodified":1566611077,
     "wof:name":"Zorlen\u0163u Mare",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.596297,
     "lbl:longitude":27.076063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.596297,
     "mps:longitude":27.076063,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ureche\u0219ti"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":664170,
         "gp:id":878338,
-        "qs:id":126760,
         "qs_pg:id":126760,
         "wd:id":"Q1403943"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101834923,
-    "wof:lastmodified":1563576010,
+    "wof:lastmodified":1566610882,
     "wof:name":"Ureche\u015fti",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.149275,
     "lbl:longitude":25.216999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.149275,
     "mps:longitude":25.216999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Malu cu Flori"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0443-\u043a\u0443-\u0424\u043b\u043e\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Malul cu Flori"
-    ],
     "name:vie_x_preferred":[
         "Malu cu Flori"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,6 @@
         "fct:id":"03a1b666-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673986,
         "gp:id":875278,
-        "qs:id":1278855,
         "qs_pg:id":1278855,
         "wd:id":"Q2606390"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575974,
+    "wof:lastmodified":1566610869,
     "wof:name":"Malu cu Flori",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

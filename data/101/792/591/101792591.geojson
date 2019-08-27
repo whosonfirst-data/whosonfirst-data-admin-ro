@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.537148,
     "lbl:longitude":27.716897,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.537148,
     "mps:longitude":27.716897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Movila"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0432\u0456\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vasile Roait\u0103"
     ],
     "name:vol_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":672752,
         "gp:id":876186,
-        "qs:id":127403,
         "qs_pg:id":127403,
         "wd:id":"Q2291863"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101792591,
-    "wof:lastmodified":1563576560,
+    "wof:lastmodified":1566611071,
     "wof:name":"Movila",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

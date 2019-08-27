@@ -13,8 +13,10 @@
     "gn:longitude":21.31667,
     "gn:population":169065,
     "iso:country":"RO",
+    "lbl:bbox":"21.345676,46.168287,21.355676,46.178287",
     "lbl:latitude":46.173287,
     "lbl:longitude":21.350676,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.174125,
     "mps:longitude":21.355708,
     "mz:hierarchy_label":0,
@@ -120,9 +122,8 @@
     "name:swe_x_preferred":[
         "Arad"
     ],
-    "name:unk_x_variant":[
-        "Zsigmondh\u00e1za",
-        "Mic\u0103laca"
+    "name:und_x_variant":[
+        "Zsigmondh\u00e1za"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Romania",
@@ -221,7 +222,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -233,7 +234,6 @@
     "wof:concordances":{
         "gn:id":686254,
         "gp:id":875647,
-        "qs:id":492210,
         "qs_pg:id":492210,
         "wd:id":"Q16898082"
     },
@@ -252,7 +252,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574396,
+    "wof:lastmodified":1566609992,
     "wof:name":"Mic\u0103laca",
     "wof:parent_id":101751999,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.157243,
     "lbl:longitude":24.46595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.157243,
     "mps:longitude":24.46595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "A\u021bel"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":686065,
         "gp:id":866446,
-        "qs:id":941060,
+        "qs_pg:id":941060,
         "wd:id":"Q794917"
     },
     "wof:country":"RO",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101789605,
-    "wof:lastmodified":1563576943,
+    "wof:lastmodified":1566611203,
     "wof:name":"A\u0163el",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"24.4342415454,44.1351523397,24.454283371,44.1481853945",
     "geom:latitude":44.14216,
     "geom:longitude":24.444422,
-    "geonames:id":"678430,678423",
+    "gn:id":"678430,678423",
     "iso:country":"RO",
     "lbl:latitude":44.143226,
     "lbl:longitude":24.442753,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.143226,
     "mps:longitude":24.442753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "F\u0103rca\u0219ele"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u043a\u0430\u0448\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "F\u0103rca\u015fu de Sus"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":49,
     "wof:belongsto":[
         102191581,
@@ -95,9 +98,11 @@
     "wof:concordances":{
         "gn:id":678430,
         "gp:id":872002,
-        "qs:id":5,
-        "qs_pg:id":1027901,
+        "qs_pg:id":5,
         "wd:id":"Q2292713"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027901
     },
     "wof:country":"RO",
     "wof:geomhash":"2455cb8da8249f382ed4542699141e22",
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":101836581,
-    "wof:lastmodified":1563576623,
+    "wof:lastmodified":1566611093,
     "wof:name":"F\u0103rca\u015fele",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

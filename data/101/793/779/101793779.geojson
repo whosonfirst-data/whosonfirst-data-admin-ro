@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.383498,
     "lbl:longitude":26.918965,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.383498,
     "mps:longitude":26.918965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Radu Vod\u0103"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u0443-\u0412\u043e\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rodu Vod\u0103"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":669222,
         "gp:id":878825,
-        "qs:id":412432,
+        "qs_pg:id":412432,
         "wd:id":"Q12146645"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101793779,
-    "wof:lastmodified":1563576283,
+    "wof:lastmodified":1566610976,
     "wof:name":"Radu Vod\u0103",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.895647,
     "lbl:longitude":26.034295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.895647,
     "mps:longitude":26.034295,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u0103t\u0103rani"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0442\u0435\u0440\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tarani"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":665461,
         "gp:id":881538,
-        "qs:id":111970,
+        "qs_pg:id":111970,
         "wd:id":"Q12160973"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101835931,
-    "wof:lastmodified":1563575708,
+    "wof:lastmodified":1566610771,
     "wof:name":"T\u0103t\u0103r\u0103ni",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

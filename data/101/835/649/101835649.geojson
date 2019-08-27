@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.34162,
     "lbl:longitude":27.09362,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.34162,
     "mps:longitude":27.09362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Vlad \u021aepe\u0219"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":662583,
         "gp:id":883721,
-        "qs:id":1027257,
         "qs_pg:id":1027257,
         "wd:id":"Q12089806"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101835649,
-    "wof:lastmodified":1563575792,
+    "wof:lastmodified":1566610801,
     "wof:name":"Vlad \u0162epe\u015f",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

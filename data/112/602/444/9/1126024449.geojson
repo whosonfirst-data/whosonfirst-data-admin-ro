@@ -9,15 +9,18 @@
     "geom:bbox":"26.16667,45.11667,26.16667,45.11667",
     "geom:latitude":45.11667,
     "geom:longitude":26.16667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":4644,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":4644,
     "iso:country":"RO",
+    "lbl:bbox":"26.14667,45.09667,26.18667,45.13667",
     "lbl:latitude":45.11667,
     "lbl:longitude":26.16667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Podenii Noi"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u0435\u043d\u0456\u0439-\u041d\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podenii-Noui"
     ],
     "qs_pg:aaroncc":"RO",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877972,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126024449,
-    "wof:lastmodified":1563577132,
+    "wof:lastmodified":1566611289,
     "wof:name":"Podenii Noi",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

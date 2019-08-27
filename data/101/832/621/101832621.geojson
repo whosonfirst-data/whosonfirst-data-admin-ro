@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.905819,
     "lbl:longitude":26.956947,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.905819,
     "mps:longitude":26.956947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cotu Vame\u0219"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u0443-\u0412\u0430\u043c\u0435\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cotul-Vame\u015f"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":680435,
         "gp:id":870535,
-        "qs:id":172897,
+        "qs_pg:id":172897,
         "wd:id":"Q12113810"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101832621,
-    "wof:lastmodified":1563575840,
+    "wof:lastmodified":1566610820,
     "wof:name":"Cotu Vame\u015f",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

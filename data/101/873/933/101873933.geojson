@@ -11,12 +11,16 @@
     "geom:longitude":26.314333,
     "gn:population":1830,
     "iso:country":"RO",
+    "lbl:bbox":"26.294333,45.231043,26.334333,45.271043",
     "lbl:latitude":45.251043,
     "lbl:longitude":26.314333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.251043,
     "mps:longitude":26.314333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "B\u00e2scenii de Jos"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u0447\u0435\u043d\u0456\u0439-\u0434\u0435-\u0416\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00eescenii de Jos"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101873933,
-    "wof:lastmodified":1563575695,
+    "wof:lastmodified":1566610766,
     "wof:name":"B\u00e2scenii de Jos",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

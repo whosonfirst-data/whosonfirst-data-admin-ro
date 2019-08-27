@@ -12,8 +12,10 @@
     "gn:latitude":45.78333,
     "gn:longitude":24.11667,
     "iso:country":"RO",
+    "lbl:bbox":"24.14098,45.78788,24.15098,45.79788",
     "lbl:latitude":45.79288,
     "lbl:longitude":24.14598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.786008,
     "mps:longitude":24.124699,
     "mz:hierarchy_label":0,
@@ -56,10 +58,6 @@
     "name:rum_x_variant":[
         "Turni\u0219on"
     ],
-    "name:unk_x_variant":[
-        "Neppendorf",
-        "Turni\u0219or"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":667268,
@@ -88,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":149,
     "wof:belongsto":[
         102191581,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":664441,
         "gp:id":882289,
-        "qs:id":314986,
         "qs_pg:id":314986,
         "wd:id":"Q493113"
     },
@@ -119,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574423,
+    "wof:lastmodified":1566610005,
     "wof:name":"Turni\u0219or",
     "wof:parent_id":101751997,
     "wof:placetype":"neighbourhood",

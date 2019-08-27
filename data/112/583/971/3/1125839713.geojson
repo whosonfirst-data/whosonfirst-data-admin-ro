@@ -9,15 +9,18 @@
     "geom:bbox":"28.6223,44.24581,28.6223,44.24581",
     "geom:latitude":44.24581,
     "geom:longitude":28.6223,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":50,
-    "gn:population":1471,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":50,
     "iso:country":"RO",
+    "lbl:bbox":"28.6023,44.22581,28.6423,44.26581",
     "lbl:latitude":44.24581,
     "lbl:longitude":28.6223,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0645\u0627\u064a\u0627"
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043c\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mamaia-B\u0103i"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +118,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":15002059,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1125839713,
-    "wof:lastmodified":1563577559,
+    "wof:lastmodified":1566611417,
     "wof:name":"Mamaia",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.257725,
     "lbl:longitude":28.562042,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.257725,
     "mps:longitude":28.562042,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Canara"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u0432\u0438\u0434\u0438\u0443"
-    ],
-    "name:unk_x_variant":[
-        "Canara"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Constanta",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +62,6 @@
         "fct:id":"03a2a846-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671584,
         "gp:id":877023,
-        "qs:id":908857,
         "qs_pg:id":908857,
         "wd:id":"Q16898219"
     },
@@ -80,7 +79,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575773,
+    "wof:lastmodified":1566610794,
     "wof:name":"Ovidiu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

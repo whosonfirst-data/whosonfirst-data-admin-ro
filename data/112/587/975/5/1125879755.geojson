@@ -9,15 +9,18 @@
     "geom:bbox":"23.28115,46.38045,23.28115,46.38045",
     "geom:latitude":46.38045,
     "geom:longitude":23.28115,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":4566,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":4566,
     "iso:country":"RO",
+    "lbl:bbox":"23.26115,46.36045,23.30115,46.40045",
     "lbl:latitude":46.38045,
     "lbl:longitude":23.28115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0647 \u062f\u0647 \u0627\u0631\u06cc\u0634"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f-\u0434\u0435-\u0410\u0440\u0456\u0454\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ofenabia"
     ],
     "name:zho_x_preferred":[
@@ -60,7 +63,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":866620,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125879755,
-    "wof:lastmodified":1564101484,
+    "wof:lastmodified":1566611338,
     "wof:name":"Baia de Arie\u0219",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

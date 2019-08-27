@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.808602,
     "lbl:longitude":25.165485,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.808602,
     "mps:longitude":25.165485,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Piatra"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041f'\u044f\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u0103c\u0103re\u015fti de R\u0103soaca"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,6 @@
         "fct:id":"03a2e914-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670923,
         "gp:id":877529,
-        "qs:id":412090,
         "qs_pg:id":412090,
         "wd:id":"Q2549953"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564000526,
+    "wof:lastmodified":1566611032,
     "wof:name":"Piatra",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

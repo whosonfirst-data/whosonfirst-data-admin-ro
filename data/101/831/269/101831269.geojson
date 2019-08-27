@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.89821,
     "lbl:longitude":25.922498,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.89821,
     "mps:longitude":25.922498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Andrasfalva"
     ],
@@ -63,7 +66,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":673923,
         "gp:id":875325,
-        "qs:id":425507,
+        "qs_pg:id":425507,
         "wd:id":"Q604690"
     },
     "wof:country":"RO",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101831269,
-    "wof:lastmodified":1563576604,
+    "wof:lastmodified":1566611086,
     "wof:name":"M\u0103neu\u0163i",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

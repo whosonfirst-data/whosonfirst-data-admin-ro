@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.288091,
     "lbl:longitude":23.781354,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.288091,
     "mps:longitude":23.781354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0435\u043d\u0438"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":669849,
         "gp:id":878380,
-        "qs:id":1279208,
+        "qs_pg:id":1279208,
         "wd:id":"Q12142399"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101753905,
-    "wof:lastmodified":1563575481,
+    "wof:lastmodified":1566610695,
     "wof:name":"Popoveni",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

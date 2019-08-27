@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.424553,
     "lbl:longitude":25.778313,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.424553,
     "mps:longitude":25.778313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0433\u0440\u0435\u0437\u0435\u043d\u0438"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
         "fct:id":"03a282b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671933,
         "gp:id":876771,
-        "qs:id":1279033,
         "qs_pg:id":1279033,
         "wd:id":"Q2717809"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576312,
+    "wof:lastmodified":1566610986,
     "wof:name":"Ogrezeni",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

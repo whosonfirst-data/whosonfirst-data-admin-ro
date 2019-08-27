@@ -9,15 +9,18 @@
     "geom:bbox":"23.65,46.5,23.65,46.5",
     "geom:latitude":46.5,
     "geom:longitude":23.65,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":3618,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":3618,
     "iso:country":"RO",
+    "lbl:bbox":"23.63,46.48,23.67,46.52",
     "lbl:latitude":46.5,
     "lbl:longitude":23.65,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Moldovene\u0219ti"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varfal\u0103u"
     ],
     "name:vie_x_preferred":[
@@ -89,7 +92,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":876066,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1125863429,
-    "wof:lastmodified":1563577201,
+    "wof:lastmodified":1566611310,
     "wof:name":"Moldovene\u0219ti",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

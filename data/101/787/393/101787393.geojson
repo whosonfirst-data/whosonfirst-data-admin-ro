@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.19696,
     "lbl:longitude":28.022741,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.19696,
     "mps:longitude":28.022741,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Murgeni"
     ],
@@ -29,7 +32,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0443\u0440\u0452\u0435\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Murgenii T\u00e2rg"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,6 @@
         "fct:id":"03a6cc00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672615,
         "gp:id":15002115,
-        "qs:id":127393,
         "qs_pg:id":127393,
         "wd:id":"Q16898622"
     },
@@ -78,7 +80,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576883,
+    "wof:lastmodified":1566611180,
     "wof:name":"Murgeni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

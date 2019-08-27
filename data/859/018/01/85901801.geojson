@@ -10,8 +10,10 @@
     "geom:latitude":46.772471,
     "geom:longitude":24.696477,
     "iso:country":"RO",
+    "lbl:bbox":"24.691477,46.767471,24.701477,46.777471",
     "lbl:latitude":46.772471,
     "lbl:longitude":24.696477,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.765938,
     "mps:longitude":24.700601,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:rum_x_colloquial":[
         "Ierbus"
-    ],
-    "name:unk_x_variant":[
-        "Ierbu\u0219"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101833451,
@@ -85,7 +84,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830674,
+    "wof:lastmodified":1566609995,
     "wof:name":"Ierbu\u0219",
     "wof:parent_id":101833451,
     "wof:placetype":"neighbourhood",

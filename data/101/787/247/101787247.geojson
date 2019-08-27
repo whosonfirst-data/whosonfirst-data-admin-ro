@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.03645,
     "lbl:longitude":23.270873,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.03645,
     "mps:longitude":23.270873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e2nmihaiu Alma\u0219ului"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u043c\u0456\u0445\u0430\u044e-\u0410\u043b\u043c\u0430\u0448\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00e2nmihaiul-Alma\u015fului"
     ],
     "name:vol_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":666989,
         "gp:id":880429,
-        "qs:id":111940,
+        "qs_pg:id":111940,
         "wd:id":"Q1081428"
     },
     "wof:country":"RO",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101787247,
-    "wof:lastmodified":1563576889,
+    "wof:lastmodified":1566611183,
     "wof:name":"S\u00e2nmihaiu Alma\u015fului",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.951424,
     "lbl:longitude":26.33829,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.951424,
     "mps:longitude":26.33829,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0218endriceni"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043d\u0434\u0440\u0456\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Ghilia"
-    ],
     "name:vie_x_preferred":[
         "Sendriceni"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +93,6 @@
         "fct:id":"03a43bb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667395,
         "gp:id":880142,
-        "qs:id":1279447,
         "qs_pg:id":1279447,
         "wd:id":"Q2716114"
     },
@@ -111,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576769,
+    "wof:lastmodified":1566611142,
     "wof:name":"\u015eendriceni",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

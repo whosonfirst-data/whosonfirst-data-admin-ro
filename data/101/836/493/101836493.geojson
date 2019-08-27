@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.016149,
     "lbl:longitude":24.654465,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.016149,
     "mps:longitude":24.654465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Beciu"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0447\u0443"
     ],
-    "name:unk_x_variant":[
-        "Beciul"
-    ],
     "name:vol_x_preferred":[
         "Beciu"
     ],
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,9 +82,11 @@
         "fct:id":"039d7f56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685208,
         "gp:id":867056,
-        "qs:id":1277879,
         "qs_pg:id":1167540,
         "wd:id":"Q2549966"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1277879
     },
     "wof:country":"RO",
     "wof:geomhash":"4de94847b20ce36e9dcef511997ca754",
@@ -100,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576635,
+    "wof:lastmodified":1566611097,
     "wof:name":"Beciu",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

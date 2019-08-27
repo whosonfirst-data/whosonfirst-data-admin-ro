@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.094355,
     "lbl:longitude":28.614008,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.094355,
     "mps:longitude":28.614008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0434\u0436\u0438\u0434\u0436\u0430"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
         "fct:id":"039d0396-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686626,
         "gp:id":866054,
-        "qs:id":1028304,
         "qs_pg:id":1028304,
         "wd:id":"Q5060127"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576276,
+    "wof:lastmodified":1566610974,
     "wof:name":"Agigea",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

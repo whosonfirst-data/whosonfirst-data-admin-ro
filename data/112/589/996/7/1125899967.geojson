@@ -9,15 +9,18 @@
     "geom:bbox":"24.81667,44.9,24.81667,44.9",
     "geom:latitude":44.9,
     "geom:longitude":24.81667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":8759,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":8759,
     "iso:country":"RO",
+    "lbl:bbox":"24.79667,44.88,24.83667,44.92",
     "lbl:latitude":44.9,
     "lbl:longitude":24.81667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0643\u0648\u0641"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0441\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bascovu"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":1028263,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125899967,
-    "wof:lastmodified":1563577235,
+    "wof:lastmodified":1566611321,
     "wof:name":"Ba\u015fcov",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

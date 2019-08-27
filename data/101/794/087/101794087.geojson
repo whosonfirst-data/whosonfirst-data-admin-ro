@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.471051,
     "lbl:longitude":24.964967,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.471051,
     "mps:longitude":24.964967,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Str\u00e2mbeni"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0438\u043c\u0431\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Str\u00eembeni"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":665962,
         "gp:id":881176,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q12158230"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101794087,
-    "wof:lastmodified":1563576385,
+    "wof:lastmodified":1566611015,
     "wof:name":"Str\u00e2mbeni",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

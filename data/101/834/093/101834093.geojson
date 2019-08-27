@@ -14,10 +14,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.219531,
     "lbl:longitude":24.789723,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.219531,
     "mps:longitude":24.789723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ace_x_preferred":[
         "Sighi\u015foara"
     ],
@@ -254,7 +257,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -265,7 +268,7 @@
     "wof:concordances":{
         "gn:id":8436351,
         "gp:id":880270,
-        "qs:id":1083405,
+        "qs_pg:id":1083405,
         "wd:id":"Q193001"
     },
     "wof:country":"RO",
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":101834093,
-    "wof:lastmodified":1563576067,
+    "wof:lastmodified":1566610901,
     "wof:name":"Sighi\u015foara",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

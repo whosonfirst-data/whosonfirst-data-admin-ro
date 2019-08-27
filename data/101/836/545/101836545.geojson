@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.197725,
     "lbl:longitude":26.187951,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.197725,
     "mps:longitude":26.187951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fala\u0219toaca"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":678468,
         "gp:id":871976,
-        "qs:id":410602,
+        "qs_pg:id":410602,
         "wd:id":"Q12165224"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101836545,
-    "wof:lastmodified":1563576625,
+    "wof:lastmodified":1566611093,
     "wof:name":"Fala\u015ftoaca",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

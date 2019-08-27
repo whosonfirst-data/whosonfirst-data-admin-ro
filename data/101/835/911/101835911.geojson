@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.426317,
     "lbl:longitude":21.428876,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.426317,
     "mps:longitude":21.428876,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0442\u0430\u044f"
     ],
@@ -45,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0442\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00e1tt\u00e1ja"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,6 @@
         "fct:id":"03a056b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677581,
         "gp:id":872638,
-        "qs:id":255878,
         "qs_pg:id":255878,
         "wd:id":"Q16898595"
     },
@@ -100,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575822,
+    "wof:lastmodified":1566610813,
     "wof:name":"G\u0103taia",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

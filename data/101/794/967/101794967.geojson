@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.456567,
     "lbl:longitude":22.911508,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.456567,
     "mps:longitude":22.911508,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Orevi\u021ba Mare"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":671719,
         "gp:id":876928,
-        "qs:id":1279047,
+        "qs_pg:id":1279047,
         "wd:id":"Q12136283"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101794967,
-    "wof:lastmodified":1563576380,
+    "wof:lastmodified":1566611012,
     "wof:name":"Orevi\u0163a Mare",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

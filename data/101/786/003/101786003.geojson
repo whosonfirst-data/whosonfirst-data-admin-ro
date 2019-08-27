@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.738355,
     "lbl:longitude":27.044527,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.738355,
     "mps:longitude":27.044527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Cocora"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"039efe76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681206,
         "gp:id":869960,
-        "qs:id":410052,
         "qs_pg:id":410052,
         "wd:id":"Q2291913"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576826,
+    "wof:lastmodified":1566611160,
     "wof:name":"Cocora",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

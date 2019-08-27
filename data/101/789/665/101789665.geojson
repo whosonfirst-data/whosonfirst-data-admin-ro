@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.341499,
     "lbl:longitude":21.823726,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.341499,
     "mps:longitude":21.823726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0438\u0435\u0440"
     ],
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":682138,
         "gp:id":869273,
-        "qs:id":967574,
+        "qs_pg:id":967574,
         "wd:id":"Q755949"
     },
     "wof:country":"RO",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101789665,
-    "wof:lastmodified":1563576993,
+    "wof:lastmodified":1566611220,
     "wof:name":"Chier",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

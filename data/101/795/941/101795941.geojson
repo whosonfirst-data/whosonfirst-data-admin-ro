@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.158245,
     "lbl:longitude":23.177203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.158245,
     "mps:longitude":23.177203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Unirea"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0456\u0440\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Risipi\u0163i"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"03a57152-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664205,
         "gp:id":882460,
-        "qs:id":413329,
         "qs_pg:id":413329,
         "wd:id":"Q1945757"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576463,
+    "wof:lastmodified":1566611039,
     "wof:name":"Unirea",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

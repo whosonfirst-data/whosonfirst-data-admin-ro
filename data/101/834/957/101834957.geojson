@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.535347,
     "lbl:longitude":27.552153,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.535347,
     "mps:longitude":27.552153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "N\u0103moloasa"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043c\u043e\u043b\u043e\u0430\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "N\u0103moloasa-T\u00eerg"
-    ],
     "name:vie_x_preferred":[
         "Namoloasa"
     ],
@@ -82,7 +82,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,7 @@
         "fct:id":"03a2475c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672527,
         "gp:id":876344,
-        "qs:id":1278979,
+        "qs_pg:id":1278979,
         "wd:id":"Q2716879"
     },
     "wof:country":"RO",
@@ -111,7 +111,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576021,
+    "wof:lastmodified":1566610886,
     "wof:name":"N\u0103moloasa",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

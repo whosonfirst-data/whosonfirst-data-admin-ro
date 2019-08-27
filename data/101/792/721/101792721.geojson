@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.385081,
     "lbl:longitude":28.377595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.385081,
     "mps:longitude":28.377595,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u064a\u0642\u0648\u0644\u0627\u064a\u0627 \u0628\u0627\u0644\u062a\u0634\u064a\u0633\u0643\u0648"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043b\u0430\u0454-\u0411\u0435\u043b\u0447\u0435\u0441\u043a\u0443"
     ],
-    "name:unk_x_variant":[
-        "Carol I"
-    ],
     "name:vie_x_preferred":[
         "Nicolae B\u0103lcescu"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"03a26124-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672280,
         "gp:id":876516,
-        "qs:id":127386,
         "qs_pg:id":127386,
         "wd:id":"Q1092725"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576590,
+    "wof:lastmodified":1566611081,
     "wof:name":"Nicolae B\u0103lcescu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

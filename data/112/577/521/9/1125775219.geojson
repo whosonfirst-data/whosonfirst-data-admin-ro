@@ -9,15 +9,18 @@
     "geom:bbox":"22.11667,47.23333,22.11667,47.23333",
     "geom:latitude":47.23333,
     "geom:longitude":22.11667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2249,
-    "gn:population":420,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
+    "gn:population":2249,
     "iso:country":"RO",
+    "lbl:bbox":"22.09667,47.21333,22.13667,47.25333",
     "lbl:latitude":47.23333,
     "lbl:longitude":22.11667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ciuhoi"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u0445\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciuhoiul"
     ],
     "name:vol_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":1028081,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125775219,
-    "wof:lastmodified":1563577537,
+    "wof:lastmodified":1566611410,
     "wof:name":"Ciuhoiu",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

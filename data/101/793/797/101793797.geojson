@@ -9,15 +9,18 @@
     "geom:bbox":"26.8009994532,44.4629788613,26.8284315634,44.48251045",
     "geom:latitude":44.473756,
     "geom:longitude":26.813284,
-    "geonames:id":"674916,674918",
+    "gn:id":"674916,674918",
     "gn:population":2953,
     "iso:country":"RO",
     "lbl:latitude":44.473041,
     "lbl:longitude":26.813076,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.473041,
     "mps:longitude":26.813076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lehliu"
     ],
@@ -42,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0445\u043b\u0456\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lehliul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":674918,
         "gp:id":874566,
-        "qs:id":127507,
         "qs_pg:id":127507,
         "wd:id":"Q12117798"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101793797,
-    "wof:lastmodified":1563576244,
+    "wof:lastmodified":1566610963,
     "wof:name":"Lehliu",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

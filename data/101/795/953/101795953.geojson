@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.186934,
     "lbl:longitude":23.812047,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.186934,
     "mps:longitude":23.812047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u021auglui"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a55352-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664534,
         "gp:id":882222,
-        "qs:id":126797,
         "qs_pg:id":126797,
         "wd:id":"Q2465980"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576437,
+    "wof:lastmodified":1566611030,
     "wof:name":"\u0162uglui",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

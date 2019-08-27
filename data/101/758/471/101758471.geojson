@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.65581,
     "lbl:longitude":23.623974,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.65581,
     "mps:longitude":23.623974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "T\u0103u\u021bii de Sus"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":665383,
         "gp:id":866625,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q724260"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101758471,
-    "wof:lastmodified":1563576325,
+    "wof:lastmodified":1566610990,
     "wof:name":"T\u0103u\u0163ii de Sus",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

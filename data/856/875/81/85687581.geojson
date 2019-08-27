@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":44.197101,
     "lbl:longitude":23.600363,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.197101,
     "mps:longitude":23.600363,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "name:ron_x_preferred":[
         "Jude\u021bul Dolj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jude\u0163ul Dolj"
     ],
     "ne:abbrev":"",
@@ -106,9 +107,9 @@
     "qs:type":"Jude\u0163",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"7,414",
     "statoids:area_mi":"2,863",
     "statoids:as_of_date":"2011-10-22",
@@ -151,11 +152,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565733806,
+    "wof:lastmodified":1566610009,
     "wof:name":"Dolj",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":660544,
     "wof:population_rank":11,

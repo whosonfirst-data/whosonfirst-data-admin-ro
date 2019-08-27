@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.947285,
     "lbl:longitude":26.500794,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.947285,
     "mps:longitude":26.500794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0438\u0440\u043e\u0432"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a08066-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677158,
         "gp:id":872938,
-        "qs:id":918425,
         "qs_pg:id":918425,
         "wd:id":"Q2605664"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576786,
+    "wof:lastmodified":1566611148,
     "wof:name":"Girov",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

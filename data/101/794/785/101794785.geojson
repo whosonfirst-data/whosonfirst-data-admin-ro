@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.030926,
     "lbl:longitude":25.393959,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.030926,
     "mps:longitude":25.393959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u0103gura"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0433\u0443\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "M\u0103gura-L\u0103ceanca"
-    ],
     "name:vie_x_preferred":[
         "Magura"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,6 @@
         "fct:id":"03a1a702-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674161,
         "gp:id":875168,
-        "qs:id":127469,
         "qs_pg:id":127469,
         "wd:id":"Q2720649"
     },
@@ -108,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576370,
+    "wof:lastmodified":1566611009,
     "wof:name":"M\u0103gura",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

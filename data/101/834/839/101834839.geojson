@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.44588,
     "lbl:longitude":23.418962,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.44588,
     "mps:longitude":23.418962,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Petrila"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,6 @@
         "fct:id":"03a76c5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670969,
         "gp:id":56121208,
-        "qs:id":1027563,
         "qs_pg:id":1027563,
         "wd:id":"Q16898330"
     },
@@ -70,7 +72,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576063,
+    "wof:lastmodified":1566610900,
     "wof:name":"Petrila",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

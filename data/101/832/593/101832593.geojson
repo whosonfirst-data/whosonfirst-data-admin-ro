@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.376703,
     "lbl:longitude":28.150813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.376703,
     "mps:longitude":28.150813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u0435\u043d\u0438"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
         "fct:id":"039d919e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685018,
         "gp:id":481184,
-        "qs:id":293095,
+        "qs_pg:id":293095,
         "wd:id":"Q2547229"
     },
     "wof:country":"RO",
@@ -93,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575836,
+    "wof:lastmodified":1566610818,
     "wof:name":"Berezeni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

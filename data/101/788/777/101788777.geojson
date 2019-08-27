@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.845216,
     "lbl:longitude":22.654275,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.845216,
     "mps:longitude":22.654275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Reme\u021bi"
     ],
@@ -40,9 +43,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043c\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "J\u00e1dremete"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bihor",
     "qs:a1r":"0",
@@ -57,7 +57,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -67,7 +67,7 @@
     "wof:concordances":{
         "gn:id":668974,
         "gp:id":879017,
-        "qs:id":111909,
+        "qs_pg:id":111909,
         "wd:id":"Q725394"
     },
     "wof:country":"RO",
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101788777,
-    "wof:lastmodified":1561830819,
+    "wof:lastmodified":1566611120,
     "wof:name":"Reme\u0163i",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

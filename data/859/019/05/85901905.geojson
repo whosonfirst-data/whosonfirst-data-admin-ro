@@ -10,8 +10,10 @@
     "geom:latitude":46.255201,
     "geom:longitude":26.775047,
     "iso:country":"RO",
+    "lbl:bbox":"26.770047,46.250201,26.780047,46.260201",
     "lbl:latitude":46.255201,
     "lbl:longitude":26.775047,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.253542,
     "mps:longitude":26.773923,
     "mz:hierarchy_label":0,
@@ -44,9 +46,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0435\u0436\u0430\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "Stejaru"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
     "qs:gn_local":671803,
@@ -74,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":152,
     "wof:belongsto":[
         102191581,
@@ -101,7 +100,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100370,
+    "wof:lastmodified":1566610005,
     "wof:name":"Stejaru",
     "wof:parent_id":101752013,
     "wof:placetype":"neighbourhood",

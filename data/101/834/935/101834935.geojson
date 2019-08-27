@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.878797,
     "lbl:longitude":27.033772,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.878797,
     "mps:longitude":27.033772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "G\u0103ge\u0219ti"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,9 +65,11 @@
     "wof:concordances":{
         "gn:id":677730,
         "gp:id":883704,
-        "qs:id":2,
-        "qs_pg:id":1027878,
+        "qs_pg:id":2,
         "wd:id":"Q12094537"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027878
     },
     "wof:country":"RO",
     "wof:geomhash":"5822f00e2f5588485641c7f85bc468d6",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101834935,
-    "wof:lastmodified":1563576025,
+    "wof:lastmodified":1566610888,
     "wof:name":"G\u0103ge\u015fti",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

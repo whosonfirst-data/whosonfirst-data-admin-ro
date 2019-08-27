@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.165584,
     "lbl:longitude":21.059339,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.165584,
     "mps:longitude":21.059339,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Pecica"
     ],
@@ -32,7 +35,7 @@
     "name:srp_x_preferred":[
         "\u041f\u0435\u0447\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rovine"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,6 @@
         "fct:id":"03a2cd26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668552,
         "gp:id":877326,
-        "qs:id":278794,
         "qs_pg:id":278794,
         "wd:id":"Q16898091"
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575501,
+    "wof:lastmodified":1566610702,
     "wof:name":"Pecica",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.441857,
     "lbl:longitude":23.788294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.441857,
     "mps:longitude":23.788294,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "R\u0103zoare"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":669076,
         "gp:id":878938,
-        "qs:id":412460,
+        "qs_pg:id":412460,
         "wd:id":"Q718026"
     },
     "wof:country":"RO",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101785035,
-    "wof:lastmodified":1561830770,
+    "wof:lastmodified":1566610918,
     "wof:name":"R\u0103zoare",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

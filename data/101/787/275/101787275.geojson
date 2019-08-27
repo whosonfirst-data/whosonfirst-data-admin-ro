@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.154568,
     "lbl:longitude":22.582383,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.154568,
     "mps:longitude":22.582383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Halm\u0103\u0219d"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043b\u043c\u0435\u0448\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halm\u0103jd"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":676354,
         "gp:id":873530,
-        "qs:id":275280,
         "qs_pg:id":275280,
         "wd:id":"Q1191831"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101787275,
-    "wof:lastmodified":1563576858,
+    "wof:lastmodified":1566611172,
     "wof:name":"Halm\u0103\u015fd",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

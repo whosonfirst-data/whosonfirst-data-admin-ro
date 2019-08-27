@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.772887,
     "lbl:longitude":25.78064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.772887,
     "mps:longitude":25.78064,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vedea"
     ],
@@ -47,9 +50,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u0434\u0435\u0430"
     ],
-    "name:unk_x_variant":[
-        "Arsache"
-    ],
     "name:vie_x_preferred":[
         "Vedea"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,6 @@
         "fct:id":"03a5df48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663088,
         "gp:id":883398,
-        "qs:id":1027285,
         "qs_pg:id":1027285,
         "wd:id":"Q2718428"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575627,
+    "wof:lastmodified":1566610743,
     "wof:name":"Vedea",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.223824,
     "lbl:longitude":26.298336,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.223824,
     "mps:longitude":26.298336,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lunca"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tekeujfalu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,9 +68,11 @@
     "wof:concordances":{
         "gn:id":674467,
         "gp:id":874890,
-        "qs:id":2,
-        "qs_pg:id":127486,
+        "qs_pg:id":2,
         "wd:id":"Q12118829"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127486
     },
     "wof:country":"RO",
     "wof:geomhash":"d30ddb79d68ce830c2b35bc2538a3dc5",
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101833579,
-    "wof:lastmodified":1563575954,
+    "wof:lastmodified":1566610862,
     "wof:name":"Lunca",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

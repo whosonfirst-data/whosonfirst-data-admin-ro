@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.605754,
     "lbl:longitude":27.259446,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.605754,
     "mps:longitude":27.259446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043b\u0435\u0440\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciornohal"
     ],
     "name:vol_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":683020,
         "gp:id":868636,
-        "qs:id":1028137,
         "qs_pg:id":1028137,
         "wd:id":"Q680014"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101782687,
-    "wof:lastmodified":1563576125,
+    "wof:lastmodified":1566610924,
     "wof:name":"C\u0103l\u0103ra\u015fi",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

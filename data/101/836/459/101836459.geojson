@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.94372,
     "lbl:longitude":24.167354,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.94372,
     "mps:longitude":24.167354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0430\u043f\u043e\u0440"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0430\u043f\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Praporul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":669719,
         "gp:id":866218,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q12143321"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101836459,
-    "wof:lastmodified":1563576637,
+    "wof:lastmodified":1566611098,
     "wof:name":"Prapor",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

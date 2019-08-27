@@ -11,12 +11,16 @@
     "geom:longitude":24.430029,
     "gn:population":1295,
     "iso:country":"RO",
+    "lbl:bbox":"24.410029,47.427465,24.450029,47.467465",
     "lbl:latitude":47.447465,
     "lbl:longitude":24.430029,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.447465,
     "mps:longitude":24.430029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Telci\u0219or"
     ],
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":665305,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1317615"
     },
     "wof:country":"RO",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":101858305,
-    "wof:lastmodified":1563575866,
+    "wof:lastmodified":1566610830,
     "wof:name":"Telci\u015for",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

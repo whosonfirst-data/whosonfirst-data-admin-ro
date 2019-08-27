@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.427442,
     "lbl:longitude":26.448815,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.427442,
     "mps:longitude":26.448815,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Com\u0103ne\u0219ti"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":681017,
         "gp:id":883363,
-        "qs:id":1028058,
         "qs_pg:id":1028058,
         "wd:id":"Q16898109"
     },
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":101835025,
-    "wof:lastmodified":1563575733,
+    "wof:lastmodified":1566610780,
     "wof:name":"Com\u0103ne\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

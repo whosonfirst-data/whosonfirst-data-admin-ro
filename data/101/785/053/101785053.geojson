@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.486703,
     "lbl:longitude":24.063,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.486703,
     "mps:longitude":24.063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gro\u0219ii \u021aible\u0219ului"
     ],
@@ -47,7 +50,7 @@
     "name:srp_x_preferred":[
         "\u0413\u0440\u043e\u0448\u0438\u0458 \u0426\u0438\u0431\u043b\u0435\u0448\u0443\u043b\u0443\u0458"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gro\u015fi"
     ],
     "name:vol_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":676645,
         "gp:id":873301,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q595613"
     },
     "wof:country":"RO",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101785053,
-    "wof:lastmodified":1563576092,
+    "wof:lastmodified":1566610911,
     "wof:name":"Gro\u015fii Tible\u015fului",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

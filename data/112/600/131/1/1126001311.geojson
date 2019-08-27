@@ -9,14 +9,18 @@
     "geom:bbox":"22.55,46.56667,22.55,46.56667",
     "geom:latitude":46.56667,
     "geom:longitude":22.55,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RO",
+    "lbl:bbox":"22.53,46.54667,22.57,46.58667",
     "lbl:latitude":46.56667,
     "lbl:longitude":22.55,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:hun_x_preferred":[
         "Kiskoh"
@@ -24,7 +28,7 @@
     "name:ron_x_preferred":[
         "Chi\u015fc\u0103u"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fels\u0151feketev\u00f6lgy"
     ],
     "qs_pg:aaroncc":"RO",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":869363,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
     "woe:name_adm1":"Bihor",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1126001311,
-    "wof:lastmodified":1509406158,
+    "wof:lastmodified":1566611378,
     "wof:name":"Chi\u0219c\u0103u",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

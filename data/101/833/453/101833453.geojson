@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.810305,
     "lbl:longitude":24.974419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.810305,
     "mps:longitude":24.974419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Toaca"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -56,7 +59,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q764449"
     },
     "wof:country":"RO",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":101833453,
-    "wof:lastmodified":1561830755,
+    "wof:lastmodified":1566610844,
     "wof:name":"Toaca",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

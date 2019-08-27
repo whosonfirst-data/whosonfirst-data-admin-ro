@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.85987,
     "lbl:longitude":26.456916,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.85987,
     "mps:longitude":26.456916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Br\u0103e\u0219ti"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0454\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Br\u0103estii"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,9 +83,11 @@
     "wof:concordances":{
         "gn:id":683922,
         "gp:id":867977,
-        "qs:id":127938,
-        "qs_pg:id":1028209,
+        "qs_pg:id":127938,
         "wd:id":"Q2534480"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028209
     },
     "wof:country":"RO",
     "wof:geomhash":"91dd9acc8b157578a7b2deab8b66cf09",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101781455,
-    "wof:lastmodified":1563576762,
+    "wof:lastmodified":1566611140,
     "wof:name":"Br\u0103e\u015fti",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

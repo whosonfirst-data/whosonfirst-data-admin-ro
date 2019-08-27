@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.757319,
     "lbl:longitude":25.054991,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.757319,
     "mps:longitude":25.054991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Seaca"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a42c2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667546,
         "gp:id":880046,
-        "qs:id":180920,
         "qs_pg:id":180920,
         "wd:id":"Q2721518"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575724,
+    "wof:lastmodified":1566610776,
     "wof:name":"Seaca",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

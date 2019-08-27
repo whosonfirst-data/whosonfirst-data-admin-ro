@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.5441,
     "lbl:longitude":26.947997,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.5441,
     "mps:longitude":26.947997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Letea Veche"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,6 @@
         "fct:id":"03a166a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674826,
         "gp:id":874631,
-        "qs:id":1083793,
         "qs_pg:id":1083793,
         "wd:id":"Q15709454"
     },
@@ -87,7 +89,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575472,
+    "wof:lastmodified":1566610691,
     "wof:name":"Letea Veche",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

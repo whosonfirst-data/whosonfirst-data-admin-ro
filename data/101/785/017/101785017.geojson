@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.669407,
     "lbl:longitude":22.944603,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.669407,
     "mps:longitude":22.944603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Viile Satu Mare"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0457\u043b\u0435-\u0421\u0430\u0442\u0443-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Viile"
-    ],
     "name:vie_x_preferred":[
         "Viile Satu Mare"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,6 @@
         "fct:id":"03a5f294-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662936,
         "gp:id":883509,
-        "qs:id":43286,
         "qs_pg:id":43286,
         "wd:id":"Q1190759"
     },
@@ -118,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576109,
+    "wof:lastmodified":1566610918,
     "wof:name":"Viile Satu Mare",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

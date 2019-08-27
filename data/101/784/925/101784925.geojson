@@ -9,14 +9,17 @@
     "geom:bbox":"26.3599806546,47.1073669462,26.4253245783,47.15057634",
     "geom:latitude":47.13397,
     "geom:longitude":26.388458,
-    "geonames:id":"676604,676605",
+    "gn:id":"676604,676605",
     "iso:country":"RO",
     "lbl:latitude":47.138386,
     "lbl:longitude":26.377065,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.138386,
     "mps:longitude":26.377065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grum\u0103ze\u0219ti"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u043c\u0435\u0437\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valea Suseni"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -98,9 +101,11 @@
     "wof:concordances":{
         "gn:id":676604,
         "gp:id":873331,
-        "qs:id":8,
-        "qs_pg:id":127573,
+        "qs_pg:id":8,
         "wd:id":"Q2605644"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127573
     },
     "wof:country":"RO",
     "wof:geomhash":"f83857127b8d7c4b18ab27ae0597e487",
@@ -113,7 +118,7 @@
         }
     ],
     "wof:id":101784925,
-    "wof:lastmodified":1563576229,
+    "wof:lastmodified":1566610959,
     "wof:name":"Grum\u0103ze\u015fti",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

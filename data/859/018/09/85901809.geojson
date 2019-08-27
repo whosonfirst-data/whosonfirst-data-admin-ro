@@ -12,8 +12,10 @@
     "gn:latitude":46.71667,
     "gn:longitude":25.6,
     "iso:country":"RO",
+    "lbl:bbox":"25.586332,46.718215,25.596332,46.728215",
     "lbl:latitude":46.723215,
     "lbl:longitude":25.591332,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.722917,
     "mps:longitude":25.599107,
     "mz:hierarchy_label":0,
@@ -39,10 +41,6 @@
     "name:rum_x_variant":[
         "Ghilco\u0219",
         "Gyilkost\u00f2"
-    ],
-    "name:unk_x_variant":[
-        "Gyilkost\u00f2",
-        "Lacu Ro\u0219u"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
@@ -71,7 +69,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101787333,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":675099,
         "gp:id":874438,
-        "qs:id":1036126,
         "qs_pg:id":1036126
     },
     "wof:country":"RO",
@@ -100,7 +97,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830674,
+    "wof:lastmodified":1566609994,
     "wof:name":"Lacu Ro\u0219u",
     "wof:parent_id":101787333,
     "wof:placetype":"neighbourhood",

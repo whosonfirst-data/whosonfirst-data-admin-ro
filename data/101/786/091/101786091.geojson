@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.321933,
     "lbl:longitude":23.261671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.321933,
     "mps:longitude":23.261671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Some\u0219-Odorhei"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043c\u0435\u0448-\u041e\u0434\u043e\u0440\u0445\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Some\u015f-Odorheiu"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":666467,
         "gp:id":880805,
-        "qs:id":1027404,
         "qs_pg:id":1027404,
         "wd:id":"Q1061637"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101786091,
-    "wof:lastmodified":1563576794,
+    "wof:lastmodified":1566611150,
     "wof:name":"Some\u015f-Odorhei",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

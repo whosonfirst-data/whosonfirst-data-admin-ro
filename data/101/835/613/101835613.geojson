@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.191826,
     "lbl:longitude":26.433468,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.191826,
     "mps:longitude":26.433468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Criv\u0103\u021b"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u0432\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Criv\u0103\u0163ul"
     ],
     "name:vol_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":680133,
         "gp:id":870738,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2717018"
     },
     "wof:country":"RO",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101835613,
-    "wof:lastmodified":1563575788,
+    "wof:lastmodified":1566610800,
     "wof:name":"Criv\u0103\u0163",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.90586,
     "lbl:longitude":26.957122,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.90586,
     "mps:longitude":26.957122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Burca"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":683250,
         "gp:id":868462,
-        "qs:id":409668,
+        "qs_pg:id":409668,
         "wd:id":"Q12085740"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101789931,
-    "wof:lastmodified":1563576919,
+    "wof:lastmodified":1566611194,
     "wof:name":"Burca",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

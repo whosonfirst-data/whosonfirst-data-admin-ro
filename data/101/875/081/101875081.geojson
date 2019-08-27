@@ -11,12 +11,16 @@
     "geom:longitude":26.312187,
     "gn:population":2115,
     "iso:country":"RO",
+    "lbl:bbox":"26.292187,47.835841,26.332187,47.875841",
     "lbl:latitude":47.855841,
     "lbl:longitude":26.312187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.855841,
     "mps:longitude":26.312187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e2rfu C\u00e2mpului"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0440\u0444\u0443-\u041a\u0438\u043c\u043f\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
-        "V\u00e2rful-C\u00e2mpului"
-    ],
     "name:vie_x_preferred":[
         "V\u00e2rfu C\u00e2mpului"
     ],
@@ -80,7 +81,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +93,7 @@
         "fct:id":"03a602b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662778,
         "gp:id":883625,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2716359"
     },
     "wof:country":"RO",
@@ -109,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575699,
+    "wof:lastmodified":1566610767,
     "wof:name":"V\u00e2rfu C\u00e2mpului",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

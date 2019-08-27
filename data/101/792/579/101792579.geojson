@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.779843,
     "lbl:longitude":26.579018,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.779843,
     "mps:longitude":26.579018,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Malu Ro\u0219u"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0443-\u0420\u043e\u0448\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u0103dule\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -56,7 +59,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":673968,
         "gp:id":875282,
-        "qs:id":111751,
+        "qs_pg:id":111751,
         "wd:id":"Q12120973"
     },
     "wof:country":"RO",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101792579,
-    "wof:lastmodified":1563576593,
+    "wof:lastmodified":1566611082,
     "wof:name":"Malu Ro\u015fu",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

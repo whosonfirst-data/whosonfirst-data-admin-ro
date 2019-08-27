@@ -12,8 +12,10 @@
     "gn:latitude":45.61667,
     "gn:longitude":25.63333,
     "iso:country":"RO",
+    "lbl:bbox":"25.631741,45.621606,25.641741,45.631606",
     "lbl:latitude":45.626606,
     "lbl:longitude":25.636741,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.631517,
     "mps:longitude":25.632162,
     "mz:hierarchy_label":0,
@@ -58,10 +60,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0448\u0438\u043d\u0430-\u041d\u043e\u0443\u0435"
     ],
-    "name:unk_x_variant":[
-        "Noa",
-        "Noua"
-    ],
     "name:vol_x_preferred":[
         "Vi\u015fina Nou\u0103"
     ],
@@ -93,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751991,
@@ -104,7 +102,6 @@
     "wof:concordances":{
         "gn:id":672164,
         "gp:id":876595,
-        "qs:id":1167578,
         "qs_pg:id":1167578,
         "wd:id":"Q1218373"
     },
@@ -123,7 +120,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830674,
+    "wof:lastmodified":1566609995,
     "wof:name":"Noua",
     "wof:parent_id":101751991,
     "wof:placetype":"neighbourhood",

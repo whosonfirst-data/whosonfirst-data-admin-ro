@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.789451,
     "lbl:longitude":25.141069,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.789451,
     "mps:longitude":25.141069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lisa"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Lissa"
-    ],
     "name:vie_x_preferred":[
         "Lisa"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,6 @@
         "fct:id":"03a170b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674723,
         "gp:id":874713,
-        "qs:id":411331,
         "qs_pg:id":411331,
         "wd:id":"Q2721056"
     },
@@ -103,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576441,
+    "wof:lastmodified":1566611031,
     "wof:name":"Lisa",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

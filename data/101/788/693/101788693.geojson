@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.747385,
     "lbl:longitude":23.494398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.747385,
     "mps:longitude":23.494398,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Flore\u0219ti"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,9 +107,11 @@
     "wof:concordances":{
         "gn:id":678064,
         "gp:id":872277,
-        "qs:id":127655,
-        "qs_pg:id":127657,
+        "qs_pg:id":127655,
         "wd:id":"Q913997"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127657
     },
     "wof:country":"RO",
     "wof:geomhash":"e10fc4c54406c678a2d8dbccf4dc9d32",
@@ -119,7 +124,7 @@
         }
     ],
     "wof:id":101788693,
-    "wof:lastmodified":1563576689,
+    "wof:lastmodified":1566611116,
     "wof:name":"Flore\u015fti",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.650106,
     "lbl:longitude":25.3369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.650106,
     "mps:longitude":25.3369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Petre\u0219ti"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":671003,
         "gp:id":877462,
-        "qs:id":275240,
         "qs_pg:id":275240,
         "wd:id":"Q3726389"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101835773,
-    "wof:lastmodified":1563575828,
+    "wof:lastmodified":1566610814,
     "wof:name":"Petre\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

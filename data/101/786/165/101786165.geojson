@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.349901,
     "lbl:longitude":22.337376,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.349901,
     "mps:longitude":22.337376,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Margita"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":673816,
         "gp:id":875396,
-        "qs:id":127448,
         "qs_pg:id":127448,
         "wd:id":"Q16898114"
     },
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101786165,
-    "wof:lastmodified":1563576810,
+    "wof:lastmodified":1566611155,
     "wof:name":"Marghita",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

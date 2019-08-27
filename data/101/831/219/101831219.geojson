@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.209046,
     "lbl:longitude":24.672501,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.209046,
     "mps:longitude":24.672501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Josenii B\u00e2rg\u0103ului"
     ],
@@ -69,9 +72,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u043e\u0441\u0435\u043d\u0456\u0439-\u0411\u0438\u0440\u0433\u0435\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
-        "Josenii-B\u00e2rg\u0103ului"
-    ],
     "name:vol_x_preferred":[
         "Josenii B\u00e2rg\u0103ului"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +103,6 @@
         "fct:id":"03a144ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675168,
         "gp:id":874378,
-        "qs:id":941179,
         "qs_pg:id":941179,
         "wd:id":"Q663704"
     },
@@ -121,7 +120,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576600,
+    "wof:lastmodified":1566611085,
     "wof:name":"Josenii B\u00e2rg\u0103ului",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

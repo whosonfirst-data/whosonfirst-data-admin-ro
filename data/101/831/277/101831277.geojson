@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.59605,
     "lbl:longitude":27.151355,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.59605,
     "mps:longitude":27.151355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hlipiceni"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043b\u0456\u043f\u0456\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Cobiceni"
-    ],
     "name:vie_x_preferred":[
         "Hlipiceni"
     ],
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +86,6 @@
         "fct:id":"03a0e09c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676138,
         "gp:id":873684,
-        "qs:id":1027818,
         "qs_pg:id":1027818,
         "wd:id":"Q2715531"
     },
@@ -104,7 +103,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576605,
+    "wof:lastmodified":1566611087,
     "wof:name":"Hlipiceni",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

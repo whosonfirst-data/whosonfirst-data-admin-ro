@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.679863,
     "lbl:longitude":24.34464,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.679863,
     "mps:longitude":24.34464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Racovi\u021ba"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432\u0456\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rakovica"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,9 +96,11 @@
     "wof:concordances":{
         "gn:id":669320,
         "gp:id":878763,
-        "qs:id":1027504,
         "qs_pg:id":1027503,
         "wd:id":"Q1087571"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027504
     },
     "wof:country":"RO",
     "wof:geomhash":"0e004fbf4d7f039623fa2fc52c7aef54",
@@ -108,7 +113,7 @@
         }
     ],
     "wof:id":101790939,
-    "wof:lastmodified":1563575355,
+    "wof:lastmodified":1566610651,
     "wof:name":"Racovi\u0163a",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

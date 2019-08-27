@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.420464,
     "lbl:longitude":21.939352,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.420464,
     "mps:longitude":21.939352,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0633\u064a\u063a"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_variant":[
         "\u0421\u0430\u0442\u0443-\u041d\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "Caragheorghevici"
-    ],
     "name:vie_x_preferred":[
         "Bocsig"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +103,6 @@
         "fct:id":"039dc66e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684481,
         "gp:id":867565,
-        "qs:id":127961,
         "qs_pg:id":127961,
         "wd:id":"Q2296567"
     },
@@ -121,7 +120,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576826,
+    "wof:lastmodified":1566611160,
     "wof:name":"Bocsig",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

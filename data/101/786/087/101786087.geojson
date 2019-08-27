@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.29723,
     "lbl:longitude":22.689846,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.29723,
     "mps:longitude":22.689846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Carastelec"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,6 @@
         "fct:id":"039e6c90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682712,
         "gp:id":868855,
-        "qs:id":185229,
         "qs_pg:id":185229,
         "wd:id":"Q1188800"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576817,
+    "wof:lastmodified":1566611157,
     "wof:name":"Carastelec",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

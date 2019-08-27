@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.410082,
     "lbl:longitude":28.195833,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.410082,
     "mps:longitude":28.195833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grindu"
     ],
@@ -47,9 +50,6 @@
     "name:srp_x_preferred":[
         "\u0413\u0440\u0438\u043d\u0434\u0443"
     ],
-    "name:unk_x_variant":[
-        "Pisica"
-    ],
     "name:vie_x_preferred":[
         "Grindu"
     ],
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +81,6 @@
         "fct:id":"03a0ab0e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676719,
         "gp:id":873248,
-        "qs:id":275282,
         "qs_pg:id":275282,
         "wd:id":"Q1028207"
     },
@@ -99,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576927,
+    "wof:lastmodified":1566611197,
     "wof:name":"Grindu",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

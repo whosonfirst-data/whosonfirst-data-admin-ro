@@ -12,8 +12,10 @@
     "gn:latitude":46.36667,
     "gn:longitude":25.8,
     "iso:country":"RO",
+    "lbl:bbox":"25.80227,46.363517,25.81227,46.373517",
     "lbl:latitude":46.368517,
     "lbl:longitude":25.80727,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.37145,
     "mps:longitude":25.80356,
     "mz:hierarchy_label":0,
@@ -121,10 +123,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043f\u043b\u0456\u0446\u0430"
     ],
-    "name:unk_x_variant":[
-        "Csiktaploca",
-        "Topli\u021ba-Ciuc"
-    ],
     "name:zho_x_preferred":[
         "\u6258\u666e\u5229\u5bdf"
     ],
@@ -157,7 +155,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":724,
     "wof:belongsto":[
         102191581,
@@ -169,7 +167,6 @@
     "wof:concordances":{
         "gn:id":664745,
         "gp:id":882064,
-        "qs:id":1167609,
         "qs_pg:id":1167609,
         "wd:id":"Q912235"
     },
@@ -188,7 +185,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574428,
+    "wof:lastmodified":1566610007,
     "wof:name":"Topli\u021ba-Ciuc",
     "wof:parent_id":101752023,
     "wof:placetype":"neighbourhood",

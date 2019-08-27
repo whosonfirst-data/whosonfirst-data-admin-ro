@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.940202,
     "lbl:longitude":24.909709,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.940202,
     "mps:longitude":24.909709,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Coliba\u0219i"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":681109,
         "gp:id":870030,
-        "qs:id":410073,
+        "qs_pg:id":410073,
         "wd:id":"Q12111861"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101835861,
-    "wof:lastmodified":1563575741,
+    "wof:lastmodified":1566610783,
     "wof:name":"Coliba\u015fi",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

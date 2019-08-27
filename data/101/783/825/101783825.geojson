@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.143304,
     "lbl:longitude":27.532267,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.143304,
     "mps:longitude":27.532267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0648\u0633\u0644\u0627\u0641\u0627"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
         "fct:id":"03a20f58-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673098,
         "gp:id":875927,
-        "qs:id":43150,
         "qs_pg:id":43150,
         "wd:id":"Q2639798"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576200,
+    "wof:lastmodified":1566610949,
     "wof:name":"Miroslava",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

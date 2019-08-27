@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.997454,
     "lbl:longitude":26.005969,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.997454,
     "mps:longitude":26.005969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blejoi"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0435\u0436\u043e\u0439"
     ],
-    "name:unk_x_variant":[
-        "Blejoiu"
-    ],
     "name:vie_x_preferred":[
         "Blejoi"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,6 @@
         "fct:id":"039dbc32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684583,
         "gp:id":867485,
-        "qs:id":1288433,
         "qs_pg:id":1288433,
         "wd:id":"Q804450"
     },
@@ -105,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575715,
+    "wof:lastmodified":1566610773,
     "wof:name":"Blejoi",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

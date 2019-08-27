@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.848339,
     "lbl:longitude":27.305324,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.848339,
     "mps:longitude":27.305324,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dume\u0219ti"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043c\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cioate"
     ],
     "name:vie_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":678666,
         "gp:id":871818,
-        "qs:id":275302,
         "qs_pg:id":275302,
         "wd:id":"Q2546984"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101831215,
-    "wof:lastmodified":1563576606,
+    "wof:lastmodified":1566611087,
     "wof:name":"Dume\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

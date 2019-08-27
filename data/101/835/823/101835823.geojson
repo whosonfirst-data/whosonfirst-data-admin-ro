@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.632334,
     "lbl:longitude":24.254867,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.632334,
     "mps:longitude":24.254867,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zl\u0103t\u0103rei"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":662167,
         "gp:id":884059,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q12106744"
     },
     "wof:country":"RO",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101835823,
-    "wof:lastmodified":1563575791,
+    "wof:lastmodified":1566610801,
     "wof:name":"Zl\u0103t\u0103rei",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

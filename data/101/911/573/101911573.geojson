@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.524496,
     "lbl:longitude":25.576448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.524496,
     "mps:longitude":25.576448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Timi\u0219u de Sus"
     ],
@@ -28,7 +31,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0456\u043c\u0456\u0448\u0443-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Timi\u015ful-de-Sus"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":665084,
         "gp:id":881804,
-        "qs:id":1093040,
         "qs_pg:id":1093040,
         "wd:id":"Q12814294"
     },
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101911573,
-    "wof:lastmodified":1561830815,
+    "wof:lastmodified":1566611105,
     "wof:name":"Timi\u0219u de Sus",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

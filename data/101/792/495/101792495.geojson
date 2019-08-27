@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.626783,
     "lbl:longitude":26.169326,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.626783,
     "mps:longitude":26.169326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103ciula\u021bi"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":683076,
         "gp:id":868592,
-        "qs:id":409726,
+        "qs_pg:id":409726,
         "wd:id":"Q12109753"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101792495,
-    "wof:lastmodified":1563576579,
+    "wof:lastmodified":1566611078,
     "wof:name":"C\u0103ciula\u0163i",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

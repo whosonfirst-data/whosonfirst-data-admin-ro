@@ -9,15 +9,18 @@
     "geom:bbox":"25.1015534971,44.6470170506,25.1414355722,44.6690034516",
     "geom:latitude":44.657619,
     "geom:longitude":25.122358,
-    "geonames:id":"665323,665328",
+    "gn:id":"665323,665328",
     "gn:population":1853,
     "iso:country":"RO",
     "lbl:latitude":44.654869,
     "lbl:longitude":25.127343,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.654869,
     "mps:longitude":25.127343,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Teiu"
     ],
@@ -51,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teiul din Deal"
     ],
     "name:vol_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":665328,
         "gp:id":881634,
-        "qs:id":413118,
         "qs_pg:id":413118,
         "wd:id":"Q2626018"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101794103,
-    "wof:lastmodified":1563576342,
+    "wof:lastmodified":1566610997,
     "wof:name":"Teiu",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

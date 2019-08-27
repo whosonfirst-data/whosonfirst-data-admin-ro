@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.17584,
     "lbl:longitude":26.700577,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.17584,
     "mps:longitude":26.700577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Zore\u0219ti"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":662138,
         "gp:id":884080,
-        "qs:id":1279896,
+        "qs_pg:id":1279896,
         "wd:id":"Q12107073"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101791943,
-    "wof:lastmodified":1563575621,
+    "wof:lastmodified":1566610741,
     "wof:name":"Zore\u015fti",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

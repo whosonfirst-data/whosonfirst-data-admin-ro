@@ -9,15 +9,18 @@
     "geom:bbox":"28.16667,44.4,28.16667,44.4",
     "geom:latitude":44.4,
     "geom:longitude":28.16667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1442,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1442,
     "iso:country":"RO",
+    "lbl:bbox":"28.14667,44.38,28.18667,44.42",
     "lbl:latitude":44.4,
     "lbl:longitude":28.16667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u064a\u0634\u062a\u064a\u0627"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043b\u0456\u0448\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta\u015fpunor"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":880302,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125792085,
-    "wof:lastmodified":1563577523,
+    "wof:lastmodified":1566611406,
     "wof:name":"Sili\u0219tea",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.547079,
     "lbl:longitude":21.844107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.547079,
     "mps:longitude":21.844107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0631\u0645\u064a"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043c\u0435\u0439"
     ],
-    "name:unk_x_variant":[
-        "Cermeiu"
-    ],
     "name:vie_x_preferred":[
         "Cermei"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,6 @@
         "fct:id":"039e9102-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682350,
         "gp:id":869118,
-        "qs:id":275342,
         "qs_pg:id":275342,
         "wd:id":"Q872231"
     },
@@ -120,7 +119,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576960,
+    "wof:lastmodified":1566611209,
     "wof:name":"Cermei",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

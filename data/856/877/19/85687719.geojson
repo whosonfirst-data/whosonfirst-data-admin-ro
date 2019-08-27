@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":46.61552,
     "lbl:longitude":24.7055,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.61552,
     "mps:longitude":24.7055,
     "mz:hierarchy_label":1,
@@ -68,7 +69,7 @@
     "name:ron_x_preferred":[
         "Mure\u0219"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jude\u0163ul Mure\u015f"
     ],
     "ne:abbrev":"",
@@ -141,9 +142,9 @@
     "qs:type":"Jude\u0163",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"6,714",
     "statoids:area_mi":"2,592",
     "statoids:as_of_date":"2011-10-22",
@@ -187,11 +188,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565733808,
+    "wof:lastmodified":1566610014,
     "wof:name":"Mure\u015f",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":550846,
     "wof:population_rank":11,

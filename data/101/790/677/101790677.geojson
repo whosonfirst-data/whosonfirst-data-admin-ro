@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.180433,
     "lbl:longitude":27.734512,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.180433,
     "mps:longitude":27.734512,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Traian"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,6 @@
         "fct:id":"03a5452e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664680,
         "gp:id":882112,
-        "qs:id":1279676,
         "qs_pg:id":1279676,
         "wd:id":"Q12162255"
     },
@@ -84,7 +86,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575421,
+    "wof:lastmodified":1566610673,
     "wof:name":"Traian",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",

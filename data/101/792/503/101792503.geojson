@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.678694,
     "lbl:longitude":25.99892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.678694,
     "mps:longitude":25.99892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Peri\u0219"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":671118,
         "gp:id":877370,
-        "qs:id":180699,
+        "qs_pg:id":180699,
         "wd:id":"Q2294074"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101792503,
-    "wof:lastmodified":1563576510,
+    "wof:lastmodified":1566611054,
     "wof:name":"Peri\u015f",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

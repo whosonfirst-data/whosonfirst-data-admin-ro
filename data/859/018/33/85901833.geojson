@@ -12,8 +12,10 @@
     "gn:latitude":44.93333,
     "gn:longitude":26.01667,
     "iso:country":"RO",
+    "lbl:bbox":"26.01228,44.934551,26.02228,44.944551",
     "lbl:latitude":44.939551,
     "lbl:longitude":26.01728,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.929916,
     "mps:longitude":26.009066,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:rum_x_colloquial":[
         "Motoi"
-    ],
-    "name:unk_x_variant":[
-        "Mo\u021boi"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751977,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":672763,
         "gp:id":876175,
-        "qs:id":1219693,
         "qs_pg:id":1219693
     },
     "wof:country":"RO",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830673,
+    "wof:lastmodified":1566609992,
     "wof:name":"Mo\u021boi",
     "wof:parent_id":101751977,
     "wof:placetype":"neighbourhood",

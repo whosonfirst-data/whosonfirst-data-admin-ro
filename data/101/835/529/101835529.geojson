@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.284716,
     "lbl:longitude":26.012042,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.284716,
     "mps:longitude":26.012042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u0103r\u0103\u0219ti-Vla\u0219ca"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0435\u0448\u0442\u044c-\u0412\u043b\u0430\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u0103r\u0103\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":679730,
         "gp:id":871030,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q12100283"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101835529,
-    "wof:lastmodified":1563575766,
+    "wof:lastmodified":1566610791,
     "wof:name":"Darasti-Vlasca",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

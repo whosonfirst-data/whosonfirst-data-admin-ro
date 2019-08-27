@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.907415,
     "lbl:longitude":26.17542,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.907415,
     "mps:longitude":26.17542,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stejaru"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0436\u0430\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stejarul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,9 +74,11 @@
     "wof:concordances":{
         "gn:id":666187,
         "gp:id":881005,
-        "qs:id":262405,
-        "qs_pg:id":1027392,
+        "qs_pg:id":262405,
         "wd:id":"Q12157639"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027392
     },
     "wof:country":"RO",
     "wof:geomhash":"42c29a335ea8dae6337cb70c641adeeb",
@@ -86,7 +91,7 @@
         }
     ],
     "wof:id":101758445,
-    "wof:lastmodified":1563576335,
+    "wof:lastmodified":1566610994,
     "wof:name":"Stejaru",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

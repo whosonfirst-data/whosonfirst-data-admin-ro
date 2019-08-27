@@ -13,6 +13,8 @@
     "iso:country":"RO",
     "lbl:latitude":44.169932,
     "lbl:longitude":28.619919,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.169932,
     "mps:longitude":28.619919,
     "mz:hierarchy_label":1,
@@ -297,7 +299,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00fcstenja"
     ],
     "name:urd_x_preferred":[
@@ -438,7 +440,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -449,7 +451,6 @@
     "wof:concordances":{
         "gn:id":680963,
         "gp:id":870151,
-        "qs:id":127804,
         "qs_pg:id":127804,
         "wd:id":"Q79808"
     },
@@ -464,7 +465,7 @@
         }
     ],
     "wof:id":101751965,
-    "wof:lastmodified":1563576411,
+    "wof:lastmodified":1566611024,
     "wof:name":"Constan\u0163a",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

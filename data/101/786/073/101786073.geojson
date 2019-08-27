@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.412686,
     "lbl:longitude":23.182117,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.412686,
     "mps:longitude":23.182117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0427\u044d\u0445\u0443-\u0421\u0456\u043b\u044c\u0432\u0430\u043d\u0456\u044d\u0439"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0445\u0443-\u0421\u0456\u043b\u0432\u0430\u043d\u0456\u0454\u0439"
     ],
-    "name:unk_x_variant":[
-        "Cehul-Silvaniei"
-    ],
     "name:vie_x_preferred":[
         "Cehu Silvaniei"
     ],
@@ -128,7 +128,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -139,7 +139,7 @@
         "fct:id":"039e8766-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682442,
         "gp:id":869046,
-        "qs:id":180462,
+        "qs_pg:id":180462,
         "wd:id":"Q737276"
     },
     "wof:country":"RO",
@@ -156,7 +156,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576817,
+    "wof:lastmodified":1566611157,
     "wof:name":"Cehu Silvaniei",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

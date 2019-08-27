@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.138098,
     "lbl:longitude":26.685819,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.138098,
     "mps:longitude":26.685819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0647\u0648\u0631\u0627\u0646\u064a"
     ],
@@ -51,9 +54,6 @@
     "name:srp_x_preferred":[
         "\u0427\u043e\u0445\u043e\u0440\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Cichoreni"
-    ],
     "name:vol_x_preferred":[
         "Ciohor\u0103ni"
     ],
@@ -71,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,7 @@
         "fct:id":"039ed04a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681699,
         "gp:id":869595,
-        "qs:id":262281,
+        "qs_pg:id":262281,
         "wd:id":"Q2540484"
     },
     "wof:country":"RO",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576104,
+    "wof:lastmodified":1566610915,
     "wof:name":"Ciohor\u0103ni",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

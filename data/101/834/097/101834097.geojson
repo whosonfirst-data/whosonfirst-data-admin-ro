@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.256069,
     "lbl:longitude":25.945405,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.256069,
     "mps:longitude":25.945405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ciucani"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0443\u043a\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Csik Csekefalod"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":681488,
         "gp:id":869757,
-        "qs:id":1350602,
         "qs_pg:id":1350602,
         "wd:id":"Q713389"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101834097,
-    "wof:lastmodified":1563575998,
+    "wof:lastmodified":1566610877,
     "wof:name":"Ciucani",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

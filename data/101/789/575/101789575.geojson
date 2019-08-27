@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.89902,
     "lbl:longitude":25.538062,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.89902,
     "mps:longitude":25.538062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u0103ieru\u0219"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":674059,
         "gp:id":875223,
-        "qs:id":967735,
+        "qs_pg:id":967735,
         "wd:id":"Q15267471"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101789575,
-    "wof:lastmodified":1563576955,
+    "wof:lastmodified":1566611207,
     "wof:name":"M\u0103ieru\u015f",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

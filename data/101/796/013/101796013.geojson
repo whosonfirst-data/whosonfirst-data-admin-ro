@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.903082,
     "lbl:longitude":24.964408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.903082,
     "mps:longitude":24.964408,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Putineiu"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0456\u043d\u0435\u044e"
     ],
-    "name:unk_x_variant":[
-        "Putineiul"
-    ],
     "name:vie_x_preferred":[
         "Putineiu"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,6 @@
         "fct:id":"03a3735c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669444,
         "gp:id":878689,
-        "qs:id":412387,
         "qs_pg:id":412387,
         "wd:id":"Q2721391"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575628,
+    "wof:lastmodified":1566610743,
     "wof:name":"Putineiu",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

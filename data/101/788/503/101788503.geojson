@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.342454,
     "lbl:longitude":26.943534,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.342454,
     "mps:longitude":26.943534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "G\u00e2\u0219teni"
     ],
@@ -31,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0438\u0448\u0442\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00ee\u015fteni"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -48,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":677155,
         "gp:id":872939,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q12095994"
     },
     "wof:country":"RO",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101788503,
-    "wof:lastmodified":1561830816,
+    "wof:lastmodified":1566611109,
     "wof:name":"G\u00e2\u015fteni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

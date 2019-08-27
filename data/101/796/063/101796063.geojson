@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.19324,
     "lbl:longitude":23.049474,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.19324,
     "mps:longitude":23.049474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u00e2rvari"
     ],
@@ -57,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0440\u0432\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "D\u00eervari"
-    ],
     "name:vie_x_preferred":[
         "Darvari"
     ],
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,6 @@
         "fct:id":"039fb118-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679320,
         "gp:id":871357,
-        "qs:id":1278381,
         "qs_pg:id":1278381,
         "wd:id":"Q2465426"
     },
@@ -112,7 +111,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575634,
+    "wof:lastmodified":1566610745,
     "wof:name":"D\u00e2rvari",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

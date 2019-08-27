@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.857015,
     "lbl:longitude":24.288986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.857015,
     "mps:longitude":24.288986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Urzica"
     ],
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2719825"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101796107,
-    "wof:lastmodified":1561830734,
+    "wof:lastmodified":1566610747,
     "wof:name":"Urzica",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

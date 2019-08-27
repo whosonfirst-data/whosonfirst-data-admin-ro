@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.225957,
     "lbl:longitude":23.636999,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.225957,
     "mps:longitude":23.636999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u064a\u0645\u062a\u0633"
     ],
@@ -85,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,7 @@
     "wof:concordances":{
         "gn:id":665982,
         "gp:id":881165,
-        "qs:id":250092,
+        "qs_pg:id":250092,
         "wd:id":"Q906696"
     },
     "wof:country":"RO",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101789755,
-    "wof:lastmodified":1563576922,
+    "wof:lastmodified":1566611195,
     "wof:name":"Strem\u0163",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

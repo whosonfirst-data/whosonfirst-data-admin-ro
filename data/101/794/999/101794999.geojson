@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.154911,
     "lbl:longitude":24.759689,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.154911,
     "mps:longitude":24.759689,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Belciugata"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u044f\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Belciugata"
-    ],
     "name:vie_x_preferred":[
         "Seaca"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,6 @@
         "fct:id":"03a42bf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667545,
         "gp:id":880045,
-        "qs:id":412727,
         "qs_pg:id":412727,
         "wd:id":"Q2719845"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576349,
+    "wof:lastmodified":1566611000,
     "wof:name":"Seaca",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

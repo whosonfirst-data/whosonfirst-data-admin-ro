@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.051557,
     "lbl:longitude":26.222098,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.051557,
     "mps:longitude":26.222098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Cucului"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":663805,
         "gp:id":882775,
-        "qs:id":1279762,
+        "qs_pg:id":1279762,
         "wd:id":"Q12087472"
     },
     "wof:country":"RO",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101791787,
-    "wof:lastmodified":1563575616,
+    "wof:lastmodified":1566610739,
     "wof:name":"Valea Cucului",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.154339,
     "lbl:longitude":24.425554,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.154339,
     "mps:longitude":24.425554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ghimpa\u021bi"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":677374,
         "gp:id":872792,
-        "qs:id":410795,
+        "qs_pg:id":410795,
         "wd:id":"Q12098986"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101836583,
-    "wof:lastmodified":1563576642,
+    "wof:lastmodified":1566611100,
     "wof:name":"Ghimpa\u0163i",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

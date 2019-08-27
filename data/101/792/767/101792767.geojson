@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.804153,
     "lbl:longitude":25.875332,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":44.804153,
     "mps:longitude":25.875332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Post\u00e2rnacu"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":671282,
         "gp:id":877251,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q12142779"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101792767,
-    "wof:lastmodified":1561830807,
+    "wof:lastmodified":1566611068,
     "wof:name":"Post\u00e2rnacu",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

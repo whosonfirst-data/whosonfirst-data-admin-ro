@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.419294,
     "lbl:longitude":25.518791,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.419294,
     "mps:longitude":25.518791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sadina"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         "fct:id":"03a3e3b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668288,
         "gp:id":879493,
-        "qs:id":1092725,
+        "qs_pg:id":1092725,
         "wd:id":"Q12150182"
     },
     "wof:country":"RO",
@@ -81,7 +84,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575774,
+    "wof:lastmodified":1566610794,
     "wof:name":"Sadina",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

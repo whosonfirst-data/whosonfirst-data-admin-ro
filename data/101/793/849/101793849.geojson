@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.068829,
     "lbl:longitude":22.801837,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.068829,
     "mps:longitude":22.801837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Clo\u0219ani"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":681297,
         "gp:id":869890,
-        "qs:id":410025,
+        "qs_pg:id":410025,
         "wd:id":"Q12110544"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101793849,
-    "wof:lastmodified":1563576300,
+    "wof:lastmodified":1566610982,
     "wof:name":"Clo\u015fani",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

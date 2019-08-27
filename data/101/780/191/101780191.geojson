@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":48.154697,
     "lbl:longitude":26.55679,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.154697,
     "mps:longitude":26.55679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Conce\u0219ti"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":680977,
         "gp:id":870140,
-        "qs:id":127807,
         "qs_pg:id":127807,
         "wd:id":"Q2715596"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101780191,
-    "wof:lastmodified":1563576912,
+    "wof:lastmodified":1566611191,
     "wof:name":"Conce\u015fti",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

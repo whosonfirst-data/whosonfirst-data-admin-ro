@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":48.147545,
     "lbl:longitude":26.513333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.147545,
     "mps:longitude":26.513333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hude\u0219ti"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0434\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lupeni"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":675941,
         "gp:id":873825,
-        "qs:id":127549,
         "qs_pg:id":127549,
         "wd:id":"Q2715928"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101780189,
-    "wof:lastmodified":1563576910,
+    "wof:lastmodified":1566611190,
     "wof:name":"Hude\u015fti",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

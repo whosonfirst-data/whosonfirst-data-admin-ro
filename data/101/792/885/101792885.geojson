@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.061862,
     "lbl:longitude":25.085201,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.061862,
     "mps:longitude":25.085201,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vulture\u0219ti"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,9 +77,11 @@
     "wof:concordances":{
         "gn:id":662395,
         "gp:id":883897,
-        "qs:id":4,
-        "qs_pg:id":126597,
+        "qs_pg:id":4,
         "wd:id":"Q2534657"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":126597
     },
     "wof:country":"RO",
     "wof:geomhash":"4b2a96d21257b657c6dbf4d7bfdac684",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101792885,
-    "wof:lastmodified":1563576569,
+    "wof:lastmodified":1566611074,
     "wof:name":"Vulture\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

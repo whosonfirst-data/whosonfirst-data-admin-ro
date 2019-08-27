@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.709236,
     "lbl:longitude":25.633978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.709236,
     "mps:longitude":25.633978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e2npetru"
     ],
@@ -61,9 +64,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u043f\u0435\u0442\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "S\u00e2petru"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Brasov",
     "qs:a1r":"0",
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,6 @@
         "fct:id":"03a468fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666958,
         "gp:id":880450,
-        "qs:id":314942,
         "qs_pg:id":314942,
         "wd:id":"Q15279385"
     },
@@ -110,7 +109,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575408,
+    "wof:lastmodified":1566610669,
     "wof:name":"S\u00e2npetru",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

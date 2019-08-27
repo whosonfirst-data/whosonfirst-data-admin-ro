@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.660522,
     "lbl:longitude":27.281411,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.660522,
     "mps:longitude":27.281411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u0103stoaca"
     ],
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
         "fct:id":"03a3913e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669140,
         "gp:id":878895,
-        "qs:id":1084197,
+        "qs_pg:id":1084197,
         "wd:id":"Q1405780"
     },
     "wof:country":"RO",
@@ -94,7 +97,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576973,
+    "wof:lastmodified":1566611213,
     "wof:name":"R\u0103stoaca",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

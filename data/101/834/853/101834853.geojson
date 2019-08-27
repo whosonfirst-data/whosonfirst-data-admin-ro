@@ -14,10 +14,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.494789,
     "lbl:longitude":25.326739,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.494789,
     "mps:longitude":25.326739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Moieciu"
     ],
@@ -69,7 +72,7 @@
     "name:ukr_x_variant":[
         "\u041c\u043e\u0454\u0447\u0443-\u0434\u0435-\u0416\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Moecs"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":300,
     "wof:belongsto":[
@@ -104,7 +107,7 @@
     "wof:concordances":{
         "gn:id":672968,
         "gp:id":876023,
-        "qs:id":492227,
+        "qs_pg:id":492227,
         "wd:id":"Q678557"
     },
     "wof:country":"RO",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101834853,
-    "wof:lastmodified":1563576058,
+    "wof:lastmodified":1566610898,
     "wof:name":"Moieciu de Jos",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.497447,
     "lbl:longitude":24.332887,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.497447,
     "mps:longitude":24.332887,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Curti\u0219oara"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":679898,
         "gp:id":870916,
-        "qs:id":1028010,
         "qs_pg:id":1028010,
         "wd:id":"Q726558"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101835563,
-    "wof:lastmodified":1563575780,
+    "wof:lastmodified":1566610796,
     "wof:name":"Curti\u015foara",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

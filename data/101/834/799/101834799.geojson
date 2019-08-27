@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.288973,
     "lbl:longitude":26.877565,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.288973,
     "mps:longitude":26.877565,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fundeni"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0443\u043d\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fundeni-Z\u0103rne\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":677809,
         "gp:id":872463,
-        "qs:id":127643,
+        "qs_pg:id":127643,
         "wd:id":"Q12166352"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101834799,
-    "wof:lastmodified":1563575960,
+    "wof:lastmodified":1566610864,
     "wof:name":"Fundeni",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

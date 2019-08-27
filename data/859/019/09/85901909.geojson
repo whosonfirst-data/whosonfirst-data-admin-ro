@@ -10,8 +10,10 @@
     "geom:latitude":47.927583,
     "geom:longitude":23.891932,
     "iso:country":"RO",
+    "lbl:bbox":"23.886932,47.922583,23.896932,47.932583",
     "lbl:latitude":47.927583,
     "lbl:longitude":23.891932,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.923698,
     "mps:longitude":23.888143,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:spa_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
-    "name:unk_x_variant":[
-        "\u015eug\u0103u"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:id":0,
@@ -86,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101833687,
@@ -112,7 +111,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830678,
+    "wof:lastmodified":1566610006,
     "wof:name":"\u015eug\u0103u",
     "wof:parent_id":101833687,
     "wof:placetype":"neighbourhood",

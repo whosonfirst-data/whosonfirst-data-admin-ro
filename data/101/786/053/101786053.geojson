@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.763895,
     "lbl:longitude":26.854396,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.763895,
     "mps:longitude":26.854396,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u00e2rligi"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u043b\u0456\u0434\u0436\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "C\u00eerligi"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":681557,
         "gp:id":869704,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q12109977"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101786053,
-    "wof:lastmodified":1563576795,
+    "wof:lastmodified":1566611151,
     "wof:name":"C\u00e2rligi",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

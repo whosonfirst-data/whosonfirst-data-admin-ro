@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.197543,
     "lbl:longitude":26.606976,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.197543,
     "mps:longitude":26.606976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gr\u0103jdana"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":676802,
         "gp:id":873191,
-        "qs:id":1278600,
+        "qs_pg:id":1278600,
         "wd:id":"Q12097574"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101791945,
-    "wof:lastmodified":1563575615,
+    "wof:lastmodified":1566610739,
     "wof:name":"Gr\u0103jdana",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

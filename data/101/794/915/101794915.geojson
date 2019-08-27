@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.185876,
     "lbl:longitude":26.000387,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.185876,
     "mps:longitude":26.000387,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103lug\u0103reni"
     ],
@@ -48,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043b\u0443\u0433\u0435\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "C\u0103lug\u0103reni"
-    ],
     "name:vie_x_preferred":[
         "Calugareni"
     ],
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,6 @@
         "fct:id":"039e5c96-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682912,
         "gp:id":868720,
-        "qs:id":127881,
         "qs_pg:id":127881,
         "wd:id":"Q2717351"
     },
@@ -103,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576369,
+    "wof:lastmodified":1566611008,
     "wof:name":"C\u0103lugareni",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

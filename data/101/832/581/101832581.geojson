@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.716943,
     "lbl:longitude":26.701828,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.716943,
     "mps:longitude":26.701828,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Buhu\u0219i"
     ],
@@ -38,7 +41,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0443\u0445\u0443\u0448\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buhu\u015f"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":683365,
         "gp:id":868314,
-        "qs:id":127898,
         "qs_pg:id":127898,
         "wd:id":"Q16898108"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101832581,
-    "wof:lastmodified":1563575846,
+    "wof:lastmodified":1566610822,
     "wof:name":"Buhu\u015fi",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

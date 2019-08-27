@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.250106,
     "lbl:longitude":26.350796,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.250106,
     "mps:longitude":26.350796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0433\u043b\u0438\u043d\u0437\u0438"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":671951,
         "gp:id":876758,
-        "qs:id":250051,
+        "qs_pg:id":250051,
         "wd:id":"Q12135133"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101783687,
-    "wof:lastmodified":1563576171,
+    "wof:lastmodified":1566610941,
     "wof:name":"Oglinzi",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

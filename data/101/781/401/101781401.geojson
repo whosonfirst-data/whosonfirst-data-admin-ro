@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.773159,
     "lbl:longitude":26.438848,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.773159,
     "mps:longitude":26.438848,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bucecea"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,6 @@
         "fct:id":"039e1ba0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":683602,
         "gp:id":868204,
-        "qs:id":1278017,
         "qs_pg:id":1278017,
         "wd:id":"Q16898134"
     },
@@ -75,7 +77,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576760,
+    "wof:lastmodified":1566611139,
     "wof:name":"Bucecea",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

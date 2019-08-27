@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.057898,
     "lbl:longitude":26.757846,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.057898,
     "mps:longitude":26.757846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pietrosu"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":670812,
         "gp:id":877597,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q12137222"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101834731,
-    "wof:lastmodified":1563575969,
+    "wof:lastmodified":1566610868,
     "wof:name":"Pietrosu",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

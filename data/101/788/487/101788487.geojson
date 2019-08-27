@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.210868,
     "lbl:longitude":26.682403,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.210868,
     "mps:longitude":26.682403,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bogd\u0103ne\u0219ti"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogd\u0103ne\u015ftii"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":684399,
         "gp:id":867630,
-        "qs:id":127959,
         "qs_pg:id":127959,
         "wd:id":"Q15630148"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101788487,
-    "wof:lastmodified":1563576725,
+    "wof:lastmodified":1566611128,
     "wof:name":"Bogd\u0103ne\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

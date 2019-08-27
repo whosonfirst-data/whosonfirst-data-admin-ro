@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.759128,
     "lbl:longitude":21.023856,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.759128,
     "mps:longitude":21.023856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Beregs\u0103u Mare"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0433\u0441\u0435\u0443-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gross-Beregsau"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":685046,
         "gp:id":867172,
-        "qs:id":185197,
+        "qs_pg:id":185197,
         "wd:id":"Q793329"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101791641,
-    "wof:lastmodified":1563575583,
+    "wof:lastmodified":1566610730,
     "wof:name":"Beregs\u0103u Mare",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

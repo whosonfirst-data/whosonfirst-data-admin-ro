@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.257835,
     "lbl:longitude":21.939003,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.257835,
     "mps:longitude":21.939003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mihai Bravu"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0430\u0439-\u0411\u0440\u0430\u0432\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Camber"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101833501,
-    "wof:lastmodified":1563575912,
+    "wof:lastmodified":1566610848,
     "wof:name":"Mihai Bravu",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

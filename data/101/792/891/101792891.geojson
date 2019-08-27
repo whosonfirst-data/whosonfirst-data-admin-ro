@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.099876,
     "lbl:longitude":24.79941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.099876,
     "mps:longitude":24.79941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0648\u0631\u064a\u0646\u064a"
     ],
@@ -85,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,6 @@
         "fct:id":"03a1b8aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673977,
         "gp:id":875290,
-        "qs:id":127457,
         "qs_pg:id":127457,
         "wd:id":"Q2348328"
     },
@@ -115,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576577,
+    "wof:lastmodified":1566611077,
     "wof:name":"M\u0103lureni",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

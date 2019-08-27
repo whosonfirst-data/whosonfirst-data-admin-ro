@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.254765,
     "lbl:longitude":22.529104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.254765,
     "mps:longitude":22.529104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Suplacu de Barc\u0103u"
     ],
@@ -83,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043f\u043b\u0430\u043a\u0443-\u0434\u0435-\u0411\u0430\u0440\u043a\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "Suplacul-de-Barc\u0103u"
-    ],
     "name:vie_x_preferred":[
         "Suplacu de Barcau"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -120,9 +120,11 @@
         "fct:id":"03a4d8f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665764,
         "gp:id":881318,
-        "qs:id":1279590,
         "qs_pg:id":1279585,
         "wd:id":"Q1088279"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1279590
     },
     "wof:country":"RO",
     "wof:geomhash":"21f1be7005552d54ebed88f33a5479bc",
@@ -138,7 +140,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576872,
+    "wof:lastmodified":1566611176,
     "wof:name":"Suplacu de Barc\u0103u",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

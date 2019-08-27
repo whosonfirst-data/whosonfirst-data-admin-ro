@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.237552,
     "lbl:longitude":24.850867,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.237552,
     "mps:longitude":24.850867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Albe\u0219ti"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ferihaza"
     ],
     "name:vol_x_preferred":[
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":686561,
         "gp:id":15001310,
-        "qs:id":128141,
         "qs_pg:id":128141,
         "wd:id":"Q997330"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101834095,
-    "wof:lastmodified":1563576055,
+    "wof:lastmodified":1566610897,
     "wof:name":"Albe\u015fti",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

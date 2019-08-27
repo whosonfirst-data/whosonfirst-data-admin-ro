@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.570221,
     "lbl:longitude":24.548137,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.570221,
     "mps:longitude":24.548137,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Scornice\u0219ti"
     ],
@@ -29,7 +32,7 @@
     "name:ron_x_preferred":[
         "Scornice\u0219ti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piscante\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":667593,
         "gp:id":877720,
-        "qs:id":127024,
         "qs_pg:id":127024,
         "wd:id":"Q16898466"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101793679,
-    "wof:lastmodified":1563576304,
+    "wof:lastmodified":1566610983,
     "wof:name":"Scornice\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

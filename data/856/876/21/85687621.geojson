@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":44.643615,
     "lbl:longitude":27.344059,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.643615,
     "mps:longitude":27.344059,
     "mz:hierarchy_label":1,
@@ -60,7 +61,7 @@
     "name:tur_x_preferred":[
         "Ialomi\u021ba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jude\u0163ul Ialomi\u0163a"
     ],
     "ne:abbrev":"",
@@ -133,9 +134,9 @@
     "qs:type":"Jude\u0163",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"4,453",
     "statoids:area_mi":"1,719",
     "statoids:as_of_date":"2011-10-22",
@@ -179,11 +180,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565733811,
+    "wof:lastmodified":1566610020,
     "wof:name":"Ialomi\u0163a",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":274148,
     "wof:population_rank":10,

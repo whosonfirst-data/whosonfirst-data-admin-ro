@@ -13,8 +13,10 @@
     "gn:longitude":21.68732,
     "gn:population":2435,
     "iso:country":"RO",
+    "lbl:bbox":"21.685456,46.089767,21.695456,46.099767",
     "lbl:latitude":46.094767,
     "lbl:longitude":21.690456,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.09863,
     "mps:longitude":21.682709,
     "mz:hierarchy_label":0,
@@ -56,10 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0434\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Rodna",
-        "Radna"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -88,7 +86,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +98,6 @@
     "wof:concordances":{
         "gn:id":669258,
         "gp:id":878810,
-        "qs:id":1167592,
         "qs_pg:id":1167592,
         "wd:id":"Q896496"
     },
@@ -119,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574402,
+    "wof:lastmodified":1566609996,
     "wof:name":"Radna",
     "wof:parent_id":101834871,
     "wof:placetype":"neighbourhood",

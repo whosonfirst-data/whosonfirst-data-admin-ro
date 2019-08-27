@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.452513,
     "lbl:longitude":26.507893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.452513,
     "mps:longitude":26.507893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Dolhe\u0219tii Mari"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0445\u0435\u0448\u0442\u0456\u0439-\u041c\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolhesti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":679138,
         "gp:id":871475,
-        "qs:id":1278402,
+        "qs_pg:id":1278402,
         "wd:id":"Q12101867"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101833825,
-    "wof:lastmodified":1563575931,
+    "wof:lastmodified":1566610855,
     "wof:name":"Dolhe\u015ftii-Mari",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

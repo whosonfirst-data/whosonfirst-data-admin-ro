@@ -13,6 +13,8 @@
     "iso:country":"RO",
     "lbl:latitude":47.66617,
     "lbl:longitude":26.264595,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":47.66617,
     "mps:longitude":26.264595,
     "mz:hierarchy_label":1,
@@ -336,7 +338,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -348,9 +350,11 @@
         "fct:id":"03a75d64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665850,
         "gp:id":881258,
-        "qs:id":2,
-        "qs_pg:id":492254,
+        "qs_pg:id":2,
         "wd:id":"Q46400"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":492254
     },
     "wof:country":"RO",
     "wof:geomhash":"163ef063249d920cd0bcd09824ccfb30",
@@ -366,7 +370,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575454,
+    "wof:lastmodified":1566610684,
     "wof:name":"Suceava",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

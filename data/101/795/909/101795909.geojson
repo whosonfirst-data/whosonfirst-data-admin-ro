@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.094568,
     "lbl:longitude":23.739287,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.094568,
     "mps:longitude":23.739287,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Segarcea"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,6 @@
         "fct:id":"03a433dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667453,
         "gp:id":880098,
-        "qs:id":1027445,
         "qs_pg:id":1027445,
         "wd:id":"Q16898260"
     },
@@ -75,7 +77,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576436,
+    "wof:lastmodified":1566611030,
     "wof:name":"Segarcea",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

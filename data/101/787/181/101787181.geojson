@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.513631,
     "lbl:longitude":26.532911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.513631,
     "mps:longitude":26.532911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u0103gire\u0219ti"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":674172,
         "gp:id":878468,
-        "qs:id":127473,
         "qs_pg:id":127473,
         "wd:id":"Q15710650"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101787181,
-    "wof:lastmodified":1563576873,
+    "wof:lastmodified":1566611177,
     "wof:name":"M\u0103gire\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

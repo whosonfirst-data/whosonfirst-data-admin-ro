@@ -9,15 +9,18 @@
     "geom:bbox":"24.15,44.88333,24.15,44.88333",
     "geom:latitude":44.88333,
     "geom:longitude":24.15,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2017,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":2017,
     "iso:country":"RO",
+    "lbl:bbox":"24.13,44.86333,24.17,44.90333",
     "lbl:latitude":44.88333,
     "lbl:longitude":24.15,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Pesceana"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0441\u0447\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pesceana-Cueni"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877394,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125968135,
-    "wof:lastmodified":1563577342,
+    "wof:lastmodified":1566611352,
     "wof:name":"Pesceana",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

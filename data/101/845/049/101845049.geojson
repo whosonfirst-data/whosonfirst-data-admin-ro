@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.146957,
     "lbl:longitude":23.886251,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.146957,
     "mps:longitude":23.886251,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0103do\u0219i"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":685880,
         "gp:id":866585,
-        "qs:id":409219,
+        "qs_pg:id":409219,
         "wd:id":"Q12081473"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101845049,
-    "wof:lastmodified":1563575664,
+    "wof:lastmodified":1566610755,
     "wof:name":"B\u0103do\u015fi",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

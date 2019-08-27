@@ -10,8 +10,10 @@
     "geom:latitude":45.388805,
     "geom:longitude":27.0401,
     "iso:country":"RO",
+    "lbl:bbox":"27.0351,45.383805,27.0451,45.393805",
     "lbl:latitude":45.388805,
     "lbl:longitude":27.0401,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.388806,
     "mps:longitude":27.0401,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     "name:rum_x_variant":[
         "Fl\u0103manda",
         "Fl\u0103m\u00eenda"
-    ],
-    "name:unk_x_variant":[
-        "Zidarii"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
@@ -66,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101834761,
@@ -92,7 +91,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830678,
+    "wof:lastmodified":1566610006,
     "wof:name":"Zidarii",
     "wof:parent_id":101834761,
     "wof:placetype":"neighbourhood",

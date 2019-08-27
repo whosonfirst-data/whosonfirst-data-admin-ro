@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.520148,
     "lbl:longitude":26.523429,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.520148,
     "mps:longitude":26.523429,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Liteni"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,9 +61,11 @@
         "fct:id":"03a172b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674696,
         "gp:id":874726,
-        "qs:id":250024,
-        "qs_pg:id":1027762,
+        "qs_pg:id":250024,
         "wd:id":"Q16898561"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027762
     },
     "wof:country":"RO",
     "wof:geomhash":"b15f9582dac699c8b3c0e2b1aeba8825",
@@ -76,7 +81,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575943,
+    "wof:lastmodified":1566610858,
     "wof:name":"Liteni",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

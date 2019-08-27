@@ -12,8 +12,10 @@
     "gn:latitude":44.31667,
     "gn:longitude":23.83333,
     "iso:country":"RO",
+    "lbl:bbox":"23.824962,44.309584,23.834962,44.319584",
     "lbl:latitude":44.314584,
     "lbl:longitude":23.829962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.312057,
     "mps:longitude":23.841116,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
     ],
     "name:rum_x_colloquial":[
         "Ghercestii Noi"
-    ],
-    "name:unk_x_variant":[
-        "Ghercestii Noui",
-        "Gherce\u0219tii Noi"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
@@ -70,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751943,
@@ -81,7 +79,6 @@
     "wof:concordances":{
         "gn:id":677447,
         "gp:id":872734,
-        "qs:id":983745,
         "qs_pg:id":983745
     },
     "wof:country":"RO",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830677,
+    "wof:lastmodified":1566610004,
     "wof:name":"Gherce\u0219tii Noi",
     "wof:parent_id":101751943,
     "wof:placetype":"neighbourhood",

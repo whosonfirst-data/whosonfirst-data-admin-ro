@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.677128,
     "lbl:longitude":26.011987,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.677128,
     "mps:longitude":26.011987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u043b\u043e\u0440\u043e\u0430\u0438\u0430"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u043b\u043e\u0440\u043e\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Floroaia Mare"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":678025,
         "gp:id":872308,
-        "qs:id":916333,
+        "qs_pg:id":916333,
         "wd:id":"Q262890"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101834899,
-    "wof:lastmodified":1563576065,
+    "wof:lastmodified":1566610901,
     "wof:name":"Floroaia",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

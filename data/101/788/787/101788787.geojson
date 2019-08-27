@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.674431,
     "lbl:longitude":22.502819,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.674431,
     "mps:longitude":22.502819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Budureasa"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,6 @@
         "fct:id":"03a67494-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":683405,
         "gp:id":15001542,
-        "qs:id":275352,
         "qs_pg:id":275352,
         "wd:id":"Q15910051"
     },
@@ -90,7 +92,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576750,
+    "wof:lastmodified":1566611136,
     "wof:name":"Budureasa",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

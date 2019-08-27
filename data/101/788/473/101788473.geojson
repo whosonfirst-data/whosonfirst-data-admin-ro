@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.201489,
     "lbl:longitude":26.573066,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.201489,
     "mps:longitude":26.573066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ferestr\u0103u-Oituz"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u0435\u0441\u0442\u0440\u0435\u0443-\u041e\u0439\u0442\u0443\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fierastraul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":678337,
         "gp:id":872070,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12165609"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101788473,
-    "wof:lastmodified":1563576725,
+    "wof:lastmodified":1566611128,
     "wof:name":"Ferestr\u0103u-Oituz",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

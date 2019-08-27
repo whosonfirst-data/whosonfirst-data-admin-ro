@@ -9,15 +9,18 @@
     "geom:bbox":"23.8,47.11667,23.8,47.11667",
     "geom:latitude":47.11667,
     "geom:longitude":23.8,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1305,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
     "gn:population":1305,
     "iso:country":"RO",
+    "lbl:bbox":"23.78,47.09667,23.82,47.13667",
     "lbl:latitude":47.11667,
     "lbl:longitude":23.8,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Jichi\u0219u de Jos"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u043a\u0456\u0448\u0443-\u0434\u0435-\u0416\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jichi\u015ful-de-Jos"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":874313,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125967409,
-    "wof:lastmodified":1563577329,
+    "wof:lastmodified":1566611349,
     "wof:name":"Jichi\u0219u de Jos",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

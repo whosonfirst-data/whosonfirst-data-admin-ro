@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.079039,
     "lbl:longitude":24.398346,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.079039,
     "mps:longitude":24.398346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comanca"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":681028,
         "gp:id":870102,
-        "qs:id":410087,
+        "qs_pg:id":410087,
         "wd:id":"Q12111904"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101796145,
-    "wof:lastmodified":1563575636,
+    "wof:lastmodified":1566610746,
     "wof:name":"Comanca",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

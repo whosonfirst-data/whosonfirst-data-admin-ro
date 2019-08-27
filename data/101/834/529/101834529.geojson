@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.756683,
     "lbl:longitude":24.239295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.756683,
     "mps:longitude":24.239295,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0443\u043d\u0434\u0435\u043d\u0438"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0443\u043d\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u0103e\u015fti"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,9 +90,11 @@
         "fct:id":"03a36948-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679828,
         "gp:id":870967,
-        "qs:id":127204,
-        "qs_pg:id":262297,
+        "qs_pg:id":127204,
         "wd:id":"Q2721534"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":262297
     },
     "wof:country":"RO",
     "wof:geomhash":"ff4a4f3d8b88c82b8428d643a2780b04",
@@ -105,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576013,
+    "wof:lastmodified":1566610883,
     "wof:name":"Prundeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

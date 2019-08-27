@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.963575,
     "lbl:longitude":25.792776,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.963575,
     "mps:longitude":25.792776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Filipe\u0219tii de T\u00e2rg"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u043b\u0456\u043f\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u0422\u0438\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Filipe\u015ftii de T\u00eerg"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":678243,
         "gp:id":872136,
-        "qs:id":127663,
         "qs_pg:id":127663,
         "wd:id":"Q14071145"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101791757,
-    "wof:lastmodified":1563575565,
+    "wof:lastmodified":1566610724,
     "wof:name":"Filipe\u015ftii de T\u00e2rg",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.770611,
     "lbl:longitude":23.006754,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.770611,
     "mps:longitude":23.006754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103l\u0103\u021bele"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":683004,
         "gp:id":15001570,
-        "qs:id":497458,
+        "qs_pg:id":497458,
         "wd:id":"Q1087795"
     },
     "wof:country":"RO",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101788703,
-    "wof:lastmodified":1563576712,
+    "wof:lastmodified":1566611124,
     "wof:name":"C\u0103l\u0103\u0163ele",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

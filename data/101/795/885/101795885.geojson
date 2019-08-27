@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.021665,
     "lbl:longitude":23.866526,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.021665,
     "mps:longitude":23.866526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0434\u0435\u0430"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":671561,
         "gp:id":877040,
-        "qs:id":411970,
+        "qs_pg:id":411970,
         "wd:id":"Q12137447"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101795885,
-    "wof:lastmodified":1563576479,
+    "wof:lastmodified":1566611044,
     "wof:name":"Padea",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

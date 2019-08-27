@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.820959,
     "lbl:longitude":26.410385,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.820959,
     "mps:longitude":26.410385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Cioranii de Jos"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u0430\u043d\u0456\u0439-\u0434\u0435-\u0416\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciorani-de-Jos"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":681669,
         "gp:id":869619,
-        "qs:id":127828,
         "qs_pg:id":127828,
         "wd:id":"Q12170458"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101835915,
-    "wof:lastmodified":1563575759,
+    "wof:lastmodified":1566610789,
     "wof:name":"Cioranii de Jos",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

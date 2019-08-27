@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.965624,
     "lbl:longitude":25.765265,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.965624,
     "mps:longitude":25.765265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tulghe\u0219"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043b\u0433\u0435\u0448"
     ],
-    "name:unk_x_variant":[
-        "T\u00f6lgyes"
-    ],
     "name:vie_x_preferred":[
         "Tulghes"
     ],
@@ -79,7 +79,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,7 @@
     "wof:concordances":{
         "gn:id":664511,
         "gp:id":882238,
-        "qs:id":1290676,
+        "qs_pg:id":1290676,
         "wd:id":"Q612477"
     },
     "wof:country":"RO",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101833483,
-    "wof:lastmodified":1563575887,
+    "wof:lastmodified":1566610839,
     "wof:name":"Tulghe\u015f",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

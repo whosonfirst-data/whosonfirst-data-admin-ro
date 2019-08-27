@@ -11,12 +11,16 @@
     "geom:longitude":25.618973,
     "gn:population":1478,
     "iso:country":"RO",
+    "lbl:bbox":"25.598973,45.266095,25.638973,45.306095",
     "lbl:latitude":45.286095,
     "lbl:longitude":25.618973,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.286095,
     "mps:longitude":25.618973,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Posada"
     ],
@@ -49,7 +53,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +64,6 @@
     "wof:concordances":{
         "gn:id":669807,
         "gp:id":878408,
-        "qs:id":1167591,
         "qs_pg:id":1167591,
         "wd:id":"Q12142625"
     },
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101855811,
-    "wof:lastmodified":1563576645,
+    "wof:lastmodified":1566611101,
     "wof:name":"Posada",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.110538,
     "lbl:longitude":24.05205,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.110538,
     "mps:longitude":24.05205,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ungura\u0219"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":664261,
         "gp:id":871038,
-        "qs:id":126764,
         "qs_pg:id":126764,
         "wd:id":"Q368122"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101786117,
-    "wof:lastmodified":1563576809,
+    "wof:lastmodified":1566611155,
     "wof:name":"Ungura\u015f",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.741572,
     "lbl:longitude":24.950451,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.741572,
     "mps:longitude":24.950451,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Poiana"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u044f\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fl\u0103m\u00e2nda"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":670159,
         "gp:id":878161,
-        "qs:id":412241,
+        "qs_pg:id":412241,
         "wd:id":"Q12143144"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101795983,
-    "wof:lastmodified":1563576462,
+    "wof:lastmodified":1566611039,
     "wof:name":"Poiana",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

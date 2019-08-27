@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.902672,
     "lbl:longitude":25.844283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.902672,
     "mps:longitude":25.844283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u062f\u0641\u0627\u0644\u0627\u0648"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0434\u0444\u0430\u043b\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "Ghidfal\u0103ul"
-    ],
     "name:vie_x_preferred":[
         "Ghidfalau"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -107,7 +107,6 @@
         "fct:id":"03a068c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677410,
         "gp:id":872763,
-        "qs:id":127614,
         "qs_pg:id":127614,
         "wd:id":"Q1010410"
     },
@@ -125,7 +124,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576992,
+    "wof:lastmodified":1566611220,
     "wof:name":"Ghidfal\u0103u",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

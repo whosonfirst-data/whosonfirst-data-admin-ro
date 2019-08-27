@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.798208,
     "lbl:longitude":24.034518,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.798208,
     "mps:longitude":24.034518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mociu"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0447\u0443"
     ],
-    "name:unk_x_variant":[
-        "Mociul"
-    ],
     "name:vie_x_preferred":[
         "Mociu"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"03a21a8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672983,
         "gp:id":876012,
-        "qs:id":1027681,
         "qs_pg:id":1027681,
         "wd:id":"Q1076044"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576842,
+    "wof:lastmodified":1566611166,
     "wof:name":"Mociu",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

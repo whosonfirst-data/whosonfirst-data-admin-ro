@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.429637,
     "lbl:longitude":24.839081,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.429637,
     "mps:longitude":24.839081,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
         "S\u00eengeorgiu de P\u0103dure"
     ],
@@ -41,9 +44,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0452\u0435\u043e\u0440\u0452\u0443 \u0434\u0435 \u041f\u0430\u0434\u0443\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "S\u00e2ngeorg\u00edul de P\u0103dure"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Mures",
     "qs:a1r":"0",
@@ -58,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +70,7 @@
         "fct:id":"03a4606e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667032,
         "gp:id":880401,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q16898423"
     },
     "wof:country":"RO",
@@ -87,7 +87,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576715,
+    "wof:lastmodified":1566611125,
     "wof:name":"S\u00e2ngeorgiu de P\u0103dure",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

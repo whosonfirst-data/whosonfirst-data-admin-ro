@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.257151,
     "lbl:longitude":26.028719,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.257151,
     "mps:longitude":26.028719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Homor\u00e2ciu"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u043c\u043e\u0440\u0438\u0447\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Homor\u00e2ciul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":676060,
         "gp:id":873743,
-        "qs:id":185347,
+        "qs_pg:id":185347,
         "wd:id":"Q12167570"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101834697,
-    "wof:lastmodified":1563576054,
+    "wof:lastmodified":1566610896,
     "wof:name":"Homor\u00e2ciu",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

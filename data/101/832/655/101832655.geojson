@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.704521,
     "lbl:longitude":26.062156,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.704521,
     "mps:longitude":26.062156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Todire\u0219ti"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0434\u0456\u0440\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Toedore\u015fti"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":664858,
         "gp:id":881979,
-        "qs:id":1027336,
         "qs_pg:id":1027336,
         "wd:id":"Q2604054"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101832655,
-    "wof:lastmodified":1563575856,
+    "wof:lastmodified":1566610826,
     "wof:name":"Todire\u015fti",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

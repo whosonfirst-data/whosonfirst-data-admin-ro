@@ -9,14 +9,17 @@
     "geom:bbox":"23.0656848719,44.9764808488,23.1029576914,45.0259959986",
     "geom:latitude":45.000753,
     "geom:longitude":23.08147,
-    "geonames:id":"665277,665275",
+    "gn:id":"665277,665275",
     "iso:country":"RO",
     "lbl:latitude":45.011312,
     "lbl:longitude":23.073423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.011312,
     "mps:longitude":23.073423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tele\u0219ti"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tele\u015fti-Mo\u015fteni"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -95,9 +98,11 @@
     "wof:concordances":{
         "gn:id":665277,
         "gp:id":881669,
-        "qs:id":413116,
         "qs_pg:id":126855,
         "wd:id":"Q2717887"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":413116
     },
     "wof:country":"RO",
     "wof:geomhash":"eaf0d587b18e85e27ab543318fc83045",
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":101793835,
-    "wof:lastmodified":1563576268,
+    "wof:lastmodified":1566610971,
     "wof:name":"Tele\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

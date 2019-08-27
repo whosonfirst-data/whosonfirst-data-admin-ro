@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.952703,
     "lbl:longitude":24.050193,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.952703,
     "mps:longitude":24.050193,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lunca la Tisa"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0433 \u043d\u0430\u0434 \u0422\u0438\u0441\u043e\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lunca"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -68,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":674396,
         "gp:id":874958,
-        "qs:id":967734,
+        "qs_pg:id":967734,
         "wd:id":"Q852327"
     },
     "wof:country":"RO",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101783329,
-    "wof:lastmodified":1563576208,
+    "wof:lastmodified":1566610951,
     "wof:name":"Lunca la Tisa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

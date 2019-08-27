@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.487206,
     "lbl:longitude":26.010465,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.487206,
     "mps:longitude":26.010465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u0440\u043e\u043d\u0443"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":673110,
         "gp:id":875920,
-        "qs:id":262364,
+        "qs_pg:id":262364,
         "wd:id":"Q12131569"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101783935,
-    "wof:lastmodified":1563576187,
+    "wof:lastmodified":1566610946,
     "wof:name":"Mironu",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

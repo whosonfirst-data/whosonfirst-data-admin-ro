@@ -11,8 +11,10 @@
     "geom:longitude":25.653861,
     "gn:id":"",
     "iso:country":"RO",
+    "lbl:bbox":"25.648861,45.601069,25.658861,45.611069",
     "lbl:latitude":45.606069,
     "lbl:longitude":25.653861,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.60996,
     "mps:longitude":25.654547,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
     "name:rum_x_variant":[
         "D\u00e2rste"
     ],
-    "name:unk_x_variant":[
-        "D\u00eerste"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
     "qs:gn_local":683844,
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101790893,
@@ -79,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":871354,
-        "qs:id":1091763,
         "qs_pg:id":1091763
     },
     "wof:country":"RO",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830676,
+    "wof:lastmodified":1566609999,
     "wof:name":"D\u00eerste",
     "wof:parent_id":101790893,
     "wof:placetype":"neighbourhood",

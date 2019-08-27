@@ -9,14 +9,18 @@
     "geom:bbox":"24.380757,45.69252,24.380757,45.69252",
     "geom:latitude":45.69252,
     "geom:longitude":24.380757,
-    "geonames:id":"673092,6930430",
+    "gn:id":"673092,6930430",
     "iso:country":"RO",
+    "lbl:bbox":"24.360757,45.67252,24.400757,45.71252",
     "lbl:latitude":45.69252,
     "lbl:longitude":24.380757,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.69252,
     "mps:longitude":24.380757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "M\u00e2r\u0219a"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u0448\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marsa"
     ],
     "name:vol_x_preferred":[
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1456,
     "wof:belongsto":[
         102191581,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":101855821,
-    "wof:lastmodified":1563576646,
+    "wof:lastmodified":1566611101,
     "wof:name":"M\u00e2r\u015fa",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

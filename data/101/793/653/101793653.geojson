@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.496797,
     "lbl:longitude":25.85218,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.496797,
     "mps:longitude":25.85218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Joi\u021ba"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":675193,
         "gp:id":874358,
-        "qs:id":1027779,
         "qs_pg:id":1027779,
         "wd:id":"Q2717566"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101793653,
-    "wof:lastmodified":1563576310,
+    "wof:lastmodified":1566610985,
     "wof:name":"Joi\u0163a",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

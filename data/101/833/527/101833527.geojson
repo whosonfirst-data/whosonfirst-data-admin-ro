@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.948937,
     "lbl:longitude":26.895035,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.948937,
     "mps:longitude":26.895035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cordun"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0434\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "Cordunu"
-    ],
     "name:vie_x_preferred":[
         "Cordun"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,6 @@
         "fct:id":"039f21b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":680831,
         "gp:id":870246,
-        "qs:id":1289178,
         "qs_pg:id":1289178,
         "wd:id":"Q2605704"
     },
@@ -105,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575906,
+    "wof:lastmodified":1566610846,
     "wof:name":"Cordun",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

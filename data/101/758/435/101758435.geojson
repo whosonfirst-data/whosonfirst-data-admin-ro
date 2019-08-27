@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.83151,
     "lbl:longitude":26.464037,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.83151,
     "mps:longitude":26.464037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Piatra \u0218oimului"
     ],
@@ -60,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u041f'\u044f\u0442\u0440\u0430-\u0428\u043e\u0439\u043c\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
-        "Calul"
-    ],
     "name:vie_x_preferred":[
         "Piatra Soimului"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +97,6 @@
         "fct:id":"03a2ea4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670884,
         "gp:id":877546,
-        "qs:id":127297,
         "qs_pg:id":127297,
         "wd:id":"Q1087037"
     },
@@ -115,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576339,
+    "wof:lastmodified":1566610995,
     "wof:name":"Piatra \u015eoimului",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

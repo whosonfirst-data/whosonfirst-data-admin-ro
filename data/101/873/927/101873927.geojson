@@ -11,12 +11,16 @@
     "geom:longitude":25.643565,
     "gn:population":1256,
     "iso:country":"RO",
+    "lbl:bbox":"25.623565,45.165207,25.663565,45.205207",
     "lbl:latitude":45.185207,
     "lbl:longitude":25.643565,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.185207,
     "mps:longitude":25.643565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea T\u00e2rsei"
     ],
@@ -32,7 +36,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u0422\u0438\u0440\u0441\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valea Tars"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -51,7 +55,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":663355,
         "gp:id":868090,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12087637"
     },
     "wof:country":"RO",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":101873927,
-    "wof:lastmodified":1563575696,
+    "wof:lastmodified":1566610766,
     "wof:name":"Valea T\u00e2rsei",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

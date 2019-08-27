@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.958816,
     "lbl:longitude":23.509235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.958816,
     "mps:longitude":23.509235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "T\u00e2rgu C\u0103rbune\u0219ti"
     ],
@@ -26,7 +29,7 @@
     "name:srp_x_preferred":[
         "\u0422\u0430\u0440\u0433\u0443 \u041a\u0430\u0440\u0431\u0443\u043d\u0435\u0448\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u00e2rgul-C\u0103rbune\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -56,7 +59,6 @@
     "wof:concordances":{
         "gn:id":665017,
         "gp:id":881501,
-        "qs:id":1027353,
         "qs_pg:id":1027353,
         "wd:id":"Q16898289"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101793833,
-    "wof:lastmodified":1563576272,
+    "wof:lastmodified":1566610972,
     "wof:name":"T\u00e2rgu C\u0103rbune\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.523025,
     "lbl:longitude":26.862855,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.523025,
     "mps:longitude":26.862855,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vl\u0103deni-Deal"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u043b\u0435\u0434\u0435\u043d\u044c-\u0414\u044f\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vl\u0103deni"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":662626,
         "gp:id":883734,
-        "qs:id":413687,
+        "qs_pg:id":413687,
         "wd:id":"Q12089884"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101833905,
-    "wof:lastmodified":1563575918,
+    "wof:lastmodified":1566610850,
     "wof:name":"Vl\u0103deni-Deal",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.624059,
     "lbl:longitude":26.781305,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.624059,
     "mps:longitude":26.781305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Co\u0219ula"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":680529,
         "gp:id":881317,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2535338"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101832681,
-    "wof:lastmodified":1563575839,
+    "wof:lastmodified":1566610819,
     "wof:name":"Co\u015fula",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

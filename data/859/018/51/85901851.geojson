@@ -11,8 +11,10 @@
     "geom:longitude":24.359025,
     "gn:id":"",
     "iso:country":"RO",
+    "lbl:bbox":"24.354025,44.425535,24.364025,44.435535",
     "lbl:latitude":44.430535,
     "lbl:longitude":24.359025,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.43368,
     "mps:longitude":24.367463,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:rum_x_variant":[
         "P\u00e2rli\u021bi"
-    ],
-    "name:unk_x_variant":[
-        "P\u00eerli\u021bi"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
@@ -64,7 +63,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751953,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":877693,
-        "qs:id":1092538,
         "qs_pg:id":1092538
     },
     "wof:country":"RO",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830673,
+    "wof:lastmodified":1566609992,
     "wof:name":"P\u00eerli\u021bi",
     "wof:parent_id":101751953,
     "wof:placetype":"neighbourhood",

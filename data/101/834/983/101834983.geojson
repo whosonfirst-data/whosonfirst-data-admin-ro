@@ -9,17 +9,19 @@
     "geom:bbox":"27.4537314514,45.7682088603,27.4720489027,45.7929734011",
     "geom:latitude":45.783748,
     "geom:longitude":27.463602,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":5874,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":5874,
     "iso:country":"RO",
     "lbl:latitude":45.786592,
     "lbl:longitude":27.4627,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.786592,
     "mps:longitude":27.4627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dr\u0103g\u0103ne\u0219ti"
     ],
@@ -47,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0435\u0433\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dragonyesd"
     ],
     "name:vol_x_preferred":[
@@ -80,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +93,6 @@
     "wof:concordances":{
         "gn:id":678997,
         "gp:id":871580,
-        "qs:id":1027943,
         "qs_pg:id":1027942,
         "wd:id":"Q2538641"
     },
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":101834983,
-    "wof:lastmodified":1563576004,
+    "wof:lastmodified":1566610879,
     "wof:name":"Dr\u0103g\u0103ne\u015fti",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.40987,
     "lbl:longitude":24.939362,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.40987,
     "mps:longitude":24.939362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Miro\u0219i"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":673102,
         "gp:id":875925,
-        "qs:id":1027686,
         "qs_pg:id":1027686,
         "wd:id":"Q2534621"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101835879,
-    "wof:lastmodified":1563575788,
+    "wof:lastmodified":1566610800,
     "wof:name":"Miro\u015fi",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

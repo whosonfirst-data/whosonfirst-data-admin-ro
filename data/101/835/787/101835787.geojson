@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.02419,
     "lbl:longitude":25.26016,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.02419,
     "mps:longitude":25.26016,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Priboiu"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":669651,
         "gp:id":878529,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12145358"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101835787,
-    "wof:lastmodified":1563575830,
+    "wof:lastmodified":1566610815,
     "wof:name":"Priboiu",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

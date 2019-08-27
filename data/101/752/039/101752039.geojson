@@ -9,14 +9,15 @@
     "geom:bbox":"23.5048298039,47.6319311475,23.6420774005,47.7200965",
     "geom:latitude":47.661935,
     "geom:longitude":23.574845,
-    "geonames:id":"685826,6697993",
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":137976,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:id":"685826,6697993",
     "gn:population":137976,
     "iso:country":"RO",
     "lbl:latitude":47.653999,
     "lbl:longitude":23.575425,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":47.653999,
     "mps:longitude":23.575425,
     "mz:hierarchy_label":1,
@@ -233,9 +234,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Baja Mare"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06cc\u0627 \u0645\u0627\u0631\u06d2"
     ],
@@ -370,7 +368,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":2232,
     "wof:belongsto":[
@@ -382,13 +380,12 @@
     "wof:concordances":{
         "gn:id":685826,
         "gp:id":866625,
-        "qs:id":3,
-        "qs_pg:id":314647,
+        "qs_pg:id":3,
         "wd:id":"Q185280"
     },
     "wof:concordances_alt":{
         "gn:id":6697993,
-        "qs_pg:id":644101
+        "qs_pg:id":314647
     },
     "wof:country":"RO",
     "wof:geomhash":"a69b446be2d84d579da37ada21ccae30",
@@ -401,7 +398,7 @@
         }
     ],
     "wof:id":101752039,
-    "wof:lastmodified":1563575451,
+    "wof:lastmodified":1566610684,
     "wof:name":"Baia Mare",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

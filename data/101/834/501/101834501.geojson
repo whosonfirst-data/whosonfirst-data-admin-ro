@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.708643,
     "lbl:longitude":25.5106,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.708643,
     "mps:longitude":25.5106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Produle\u0219ti"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":669576,
         "gp:id":878589,
-        "qs:id":127206,
         "qs_pg:id":127206,
         "wd:id":"Q3732803"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101834501,
-    "wof:lastmodified":1563576023,
+    "wof:lastmodified":1566610886,
     "wof:name":"Produle\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

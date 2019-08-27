@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.367512,
     "lbl:longitude":24.39444,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.367512,
     "mps:longitude":24.39444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Co\u0219buc"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0448\u0431\u0443\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hordo"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":680660,
         "gp:id":870372,
-        "qs:id":1289215,
+        "qs_pg:id":1289215,
         "wd:id":"Q1411798"
     },
     "wof:country":"RO",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101784963,
-    "wof:lastmodified":1563576219,
+    "wof:lastmodified":1566610955,
     "wof:name":"Co\u015fbuc",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.745705,
     "lbl:longitude":23.901515,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.745705,
     "mps:longitude":23.901515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Breb"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brebu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":683745,
         "gp:id":868098,
-        "qs:id":910557,
         "qs_pg:id":910557,
         "wd:id":"Q724877"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101783753,
-    "wof:lastmodified":1563576164,
+    "wof:lastmodified":1566610938,
     "wof:name":"Breb",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

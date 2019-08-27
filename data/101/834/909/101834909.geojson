@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.933432,
     "lbl:longitude":25.602086,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.933432,
     "mps:longitude":25.602086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Belin-Vale"
     ],
@@ -41,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0456\u043d-\u0412\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "B\u00f6l\u00f6npatak"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Covasna",
     "qs:a1r":"0",
@@ -58,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +69,7 @@
     "wof:concordances":{
         "gn:id":685133,
         "gp:id":867111,
-        "qs:id":409358,
+        "qs_pg:id":409358,
         "wd:id":"Q278749"
     },
     "wof:country":"RO",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101834909,
-    "wof:lastmodified":1563575958,
+    "wof:lastmodified":1566610863,
     "wof:name":"Belin-vale",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

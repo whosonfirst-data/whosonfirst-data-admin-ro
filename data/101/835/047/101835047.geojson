@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.475442,
     "lbl:longitude":26.492312,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.475442,
     "mps:longitude":26.492312,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Moine\u0219ti"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":672926,
         "gp:id":12515554,
-        "qs:id":1027675,
         "qs_pg:id":1027675,
         "wd:id":"Q16898106"
     },
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101835047,
-    "wof:lastmodified":1563575738,
+    "wof:lastmodified":1566610782,
     "wof:name":"Moine\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

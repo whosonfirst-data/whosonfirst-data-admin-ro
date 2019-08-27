@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.929598,
     "lbl:longitude":23.895064,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.929598,
     "mps:longitude":23.895064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ace_x_preferred":[
         "Sighetu Marma\u021biei"
     ],
@@ -152,7 +155,7 @@
     "name:ukr_x_variant":[
         "\u041c\u0430\u0440\u043c\u0430\u0440\u043e\u0448-\u0421\u0438\u0433\u0456\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marmaro\u0161 Sihot"
     ],
     "name:vie_x_preferred":[
@@ -180,7 +183,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -191,9 +194,11 @@
     "wof:concordances":{
         "gn:id":667227,
         "gp:id":880266,
-        "qs:id":432788,
         "qs_pg:id":127003,
         "wd:id":"Q334874"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":432788
     },
     "wof:country":"RO",
     "wof:geomhash":"2205f0c96a1e4ce219b190d38e490d40",
@@ -206,7 +211,7 @@
         }
     ],
     "wof:id":101833687,
-    "wof:lastmodified":1563575889,
+    "wof:lastmodified":1566610839,
     "wof:name":"Sighetu Marma\u0163iei",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.024607,
     "lbl:longitude":28.649698,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.024607,
     "mps:longitude":28.649698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Eforie Sud"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":678588,
         "gp:id":871885,
-        "qs:id":278712,
         "qs_pg:id":278712,
         "wd:id":"Q734438",
         "wk:page":"Eforie Sud, Constan\u021ba"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101834475,
-    "wof:lastmodified":1563576040,
+    "wof:lastmodified":1566610892,
     "wof:name":"Eforie Sud",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

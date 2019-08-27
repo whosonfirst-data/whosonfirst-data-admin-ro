@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.311307,
     "lbl:longitude":25.085213,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.311307,
     "mps:longitude":25.085213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ciol\u0103ne\u0219tii din Deal"
     ],
@@ -31,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043b\u0435\u043d\u0435\u0448\u0442\u0456\u0439-\u0434\u0456\u043d-\u0414\u044f\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciol\u0103ne\u015ftii"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":681695,
         "gp:id":869598,
-        "qs:id":1278205,
+        "qs_pg:id":1278205,
         "wd:id":"Q12170431"
     },
     "wof:country":"RO",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101794855,
-    "wof:lastmodified":1561830791,
+    "wof:lastmodified":1566611020,
     "wof:name":"Ciol\u0103ne\u015ftii din Deal",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

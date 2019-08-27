@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.672801,
     "lbl:longitude":26.026116,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.672801,
     "mps:longitude":26.026116,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00centorsura Buz\u0103ului"
     ],
@@ -45,9 +48,6 @@
     "name:srp_x_preferred":[
         "\u0418\u043d\u0442\u043e\u0440\u0441\u0443\u0440\u0430 \u0411\u0443\u0437\u0430\u0443\u043b\u0443\u0458"
     ],
-    "name:unk_x_variant":[
-        "Magyarbodza"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Covasna",
     "qs:a1r":"0",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +76,6 @@
         "fct:id":"03a11bb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675585,
         "gp:id":874072,
-        "qs:id":222565,
         "qs_pg:id":222565,
         "wd:id":"Q16898231"
     },
@@ -94,7 +93,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576068,
+    "wof:lastmodified":1566610902,
     "wof:name":"Intorsura Buz\u0103ului",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.674366,
     "lbl:longitude":25.634192,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.674366,
     "mps:longitude":25.634192,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Con\u021be\u0219ti"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0446\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Con\u0163e\u015ftii de Jos"
     ],
     "name:vol_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":680954,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1984334"
     },
     "wof:country":"RO",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101794065,
-    "wof:lastmodified":1563576358,
+    "wof:lastmodified":1566611004,
     "wof:name":"Conte\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

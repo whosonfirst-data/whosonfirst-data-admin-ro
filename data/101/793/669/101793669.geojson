@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.972509,
     "lbl:longitude":22.61935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.972509,
     "mps:longitude":22.61935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u0441\u0432\u0435\u0440\u043d\u0430"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0432\u0435\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Izverna"
-    ],
     "name:vie_x_preferred":[
         "Isverna"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,6 @@
         "fct:id":"03a126d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675462,
         "gp:id":874160,
-        "qs:id":1145739,
         "qs_pg:id":1145739,
         "wd:id":"Q305238"
     },
@@ -108,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576267,
+    "wof:lastmodified":1566610971,
     "wof:name":"Isverna",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

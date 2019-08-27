@@ -11,12 +11,16 @@
     "geom:longitude":23.093794,
     "gn:population":1378,
     "iso:country":"RO",
+    "lbl:bbox":"23.073794,44.658746,23.113794,44.698746",
     "lbl:latitude":44.678746,
     "lbl:longitude":23.093794,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.678746,
     "mps:longitude":23.093794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jirov"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0440\u043e\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jirovul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":675212,
         "gp:id":874344,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q12104549"
     },
     "wof:country":"RO",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101855769,
-    "wof:lastmodified":1563576652,
+    "wof:lastmodified":1566611103,
     "wof:name":"Jirov",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

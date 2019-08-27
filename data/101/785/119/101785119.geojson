@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.955254,
     "lbl:longitude":27.294717,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.955254,
     "mps:longitude":27.294717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glodenii G\u00e2ndului"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0434\u0435\u043d\u0456\u0439-\u0413\u0438\u043d\u0434\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00e2rbe\u015fti-\u0162ib\u0103ne\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":677037,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q12096159"
     },
     "wof:country":"RO",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101785119,
-    "wof:lastmodified":1563576101,
+    "wof:lastmodified":1566610914,
     "wof:name":"Glodenii G\u00e2ndului",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

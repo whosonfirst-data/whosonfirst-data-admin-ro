@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.033702,
     "lbl:longitude":25.890476,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.033702,
     "mps:longitude":25.890476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grin\u021bie\u0219"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0456\u043d\u0446\u0456\u0454\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grin\u0163ie\u015ful Mare"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":676713,
         "gp:id":873251,
-        "qs:id":185345,
+        "qs_pg:id":185345,
         "wd:id":"Q1009837"
     },
     "wof:country":"RO",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101786249,
-    "wof:lastmodified":1563576822,
+    "wof:lastmodified":1566611159,
     "wof:name":"Grin\u0163ie\u015f",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

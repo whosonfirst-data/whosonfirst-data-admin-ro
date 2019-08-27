@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.205154,
     "lbl:longitude":23.682293,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.205154,
     "mps:longitude":23.682293,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Teiu\u0219"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,6 @@
     "wof:concordances":{
         "gn:id":665318,
         "gp:id":881640,
-        "qs:id":126867,
         "qs_pg:id":126867,
         "wd:id":"Q16898079"
     },
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101789753,
-    "wof:lastmodified":1563576925,
+    "wof:lastmodified":1566611196,
     "wof:name":"Teiu\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

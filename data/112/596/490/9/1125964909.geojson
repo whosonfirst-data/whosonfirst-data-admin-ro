@@ -9,15 +9,18 @@
     "geom:bbox":"27.31115,45.87017,27.31115,45.87017",
     "geom:latitude":45.87017,
     "geom:longitude":27.31115,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":6526,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":6526,
     "iso:country":"RO",
+    "lbl:bbox":"27.29115,45.85017,27.33115,45.89017",
     "lbl:latitude":45.87017,
     "lbl:longitude":27.31115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Cosme\u0219ti"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u043c\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cosme\u015ftii din Deal"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +72,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":870395,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125964909,
-    "wof:lastmodified":1563577324,
+    "wof:lastmodified":1566611348,
     "wof:name":"Cosme\u0219ti",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

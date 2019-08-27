@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.524305,
     "lbl:longitude":25.573409,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.524305,
     "mps:longitude":25.573409,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041a\u044a\u043c\u043f\u0443\u043b\u0443\u043d\u0433 \u041c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u0435\u0441\u043a"
     ],
@@ -81,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u043c\u043f\u043e\u043b\u0443\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "C\u00e2mpulung"
-    ],
     "name:zho_x_preferred":[
         "\u6469\u723e\u591a\u74e6\u5730\u5340\u80af\u666e\u9686\u683c"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -115,9 +115,11 @@
         "fct:id":"039ec2e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681845,
         "gp:id":869491,
-        "qs:id":275330,
         "qs_pg:id":242635,
         "wd:id":"Q16898543"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275330
     },
     "wof:country":"RO",
     "wof:geomhash":"3bcdb5e300827c3a99bccea9afd719b5",
@@ -133,7 +135,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575939,
+    "wof:lastmodified":1566610857,
     "wof:name":"C\u00e2mpulung Moldovenesc",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

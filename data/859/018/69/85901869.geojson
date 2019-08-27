@@ -12,8 +12,10 @@
     "gn:latitude":47.71667,
     "gn:longitude":24.43333,
     "iso:country":"RO",
+    "lbl:bbox":"24.449138,47.714002,24.459138,47.724002",
     "lbl:latitude":47.719002,
     "lbl:longitude":24.454138,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.719538,
     "mps:longitude":24.451905,
     "mz:hierarchy_label":0,
@@ -62,9 +64,6 @@
     "name:spa_x_preferred":[
         "Vi\u0219eu de Sus"
     ],
-    "name:unk_x_variant":[
-        "R\u0103deasa"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"00",
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -101,7 +100,6 @@
     "wof:concordances":{
         "gn:id":669286,
         "gp:id":878791,
-        "qs:id":1321994,
         "qs_pg:id":1321994
     },
     "wof:country":"RO",
@@ -119,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830673,
+    "wof:lastmodified":1566609991,
     "wof:name":"R\u0103deasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

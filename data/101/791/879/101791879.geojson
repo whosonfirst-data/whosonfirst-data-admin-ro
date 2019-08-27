@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.820739,
     "lbl:longitude":26.825036,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.820739,
     "mps:longitude":26.825036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glodeanu-Sili\u0219tea"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0434\u044f\u043d\u0443-\u0421\u0456\u043b\u0456\u0448\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glodeanul Sili\u015ftea"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":677047,
         "gp:id":873018,
-        "qs:id":127596,
+        "qs_pg:id":127596,
         "wd:id":"Q2292265"
     },
     "wof:country":"RO",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101791879,
-    "wof:lastmodified":1563575570,
+    "wof:lastmodified":1566610725,
     "wof:name":"Glodeanu-Sili\u015ftea",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

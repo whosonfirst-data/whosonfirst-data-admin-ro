@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.269256,
     "lbl:longitude":28.226175,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.269256,
     "mps:longitude":28.226175,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Satu Nou"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0442\u0443-\u041d\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Satul-Nou"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":667858,
         "gp:id":879845,
-        "qs:id":412664,
+        "qs_pg:id":412664,
         "wd:id":"Q12150761"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101793973,
-    "wof:lastmodified":1563576316,
+    "wof:lastmodified":1566610987,
     "wof:name":"Satu Nou",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

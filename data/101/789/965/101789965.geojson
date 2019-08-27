@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.703284,
     "lbl:longitude":27.721521,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.703284,
     "mps:longitude":27.721521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Costache Negri"
     ],
@@ -47,7 +50,7 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0430\u043a\u0435 \u041d\u0435\u0433\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00e2njina"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,9 +84,11 @@
         "fct:id":"03a68c68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672364,
         "gp:id":876453,
-        "qs:id":1028049,
-        "qs_pg:id":1083980,
+        "qs_pg:id":1028049,
         "wd:id":"Q2539228"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1083980
     },
     "wof:country":"RO",
     "wof:geomhash":"83bc119ec04d9fcea93fa97dd6eabd21",
@@ -99,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576923,
+    "wof:lastmodified":1566611195,
     "wof:name":"Costache Negri",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

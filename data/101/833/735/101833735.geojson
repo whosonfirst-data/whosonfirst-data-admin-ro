@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.167628,
     "lbl:longitude":27.031661,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.167628,
     "mps:longitude":27.031661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u0437\u043d\u0435\u0430"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":683104,
         "gp:id":872605,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q12085457"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101833735,
-    "wof:lastmodified":1563575916,
+    "wof:lastmodified":1566610849,
     "wof:name":"Buznea",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

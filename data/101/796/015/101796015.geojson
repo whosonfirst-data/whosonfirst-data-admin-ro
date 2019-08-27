@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.920794,
     "lbl:longitude":24.983674,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.920794,
     "mps:longitude":24.983674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0103duleasa"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":685878,
         "gp:id":866587,
-        "qs:id":409221,
+        "qs_pg:id":409221,
         "wd:id":"Q12081482"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101796015,
-    "wof:lastmodified":1563575626,
+    "wof:lastmodified":1566610742,
     "wof:name":"B\u0103duleasa",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

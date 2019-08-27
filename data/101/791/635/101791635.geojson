@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.753919,
     "lbl:longitude":21.753707,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.753919,
     "mps:longitude":21.753707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Belin\u021b"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0456\u043d\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belincz"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":685135,
         "gp:id":867112,
-        "qs:id":128028,
         "qs_pg:id":128028,
         "wd:id":"Q14771252"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101791635,
-    "wof:lastmodified":1563575529,
+    "wof:lastmodified":1566610712,
     "wof:name":"Belin\u0163",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

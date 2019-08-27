@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.00339,
     "lbl:longitude":26.070845,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.00339,
     "mps:longitude":26.070845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Plea\u0219a"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":670534,
         "gp:id":877829,
-        "qs:id":425570,
+        "qs_pg:id":425570,
         "wd:id":"Q12141131"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101791767,
-    "wof:lastmodified":1563575557,
+    "wof:lastmodified":1566610721,
     "wof:name":"Plea\u015fa",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

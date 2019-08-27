@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.705339,
     "lbl:longitude":26.673425,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.705339,
     "mps:longitude":26.673425,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Manasia"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a1bb34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673948,
         "gp:id":875306,
-        "qs:id":967733,
         "qs_pg:id":967733,
         "wd:id":"Q2718304"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575991,
+    "wof:lastmodified":1566610875,
     "wof:name":"Manasia",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

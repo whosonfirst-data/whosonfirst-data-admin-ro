@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.242454,
     "lbl:longitude":24.472881,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.242454,
     "mps:longitude":24.472881,
     "mz:hierarchy_label":1,
@@ -63,7 +64,7 @@
     "name:spa_x_preferred":[
         "Bistri\u021ba-N\u0103s\u0103ud"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bistri\u0163a-N\u0103s\u0103ud"
     ],
     "ne:abbrev":"",
@@ -136,9 +137,9 @@
     "qs:type":"Jude\u0163",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"5,355",
     "statoids:area_mi":"2,068",
     "statoids:as_of_date":"2011-10-22",
@@ -181,11 +182,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565733809,
+    "wof:lastmodified":1566610016,
     "wof:name":"Bistri\u0163a-N\u0103saud",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":286225,
     "wof:population_rank":10,

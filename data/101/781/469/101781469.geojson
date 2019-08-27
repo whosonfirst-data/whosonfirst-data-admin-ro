@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.880821,
     "lbl:longitude":26.648722,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.880821,
     "mps:longitude":26.648722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Doroban\u021bi"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0440\u043e\u0431\u0430\u043d\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doroban\u0163"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":679078,
         "gp:id":871518,
-        "qs:id":1278409,
+        "qs_pg:id":1278409,
         "wd:id":"Q12102112"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101781469,
-    "wof:lastmodified":1563576773,
+    "wof:lastmodified":1566611143,
     "wof:name":"Doroban\u0163i",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

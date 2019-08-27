@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.849466,
     "lbl:longitude":20.888657,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.849466,
     "mps:longitude":20.888657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Iecea Mare"
     ],
@@ -54,9 +57,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430 \u0408\u0435\u0447\u0430"
     ],
-    "name:unk_x_variant":[
-        "Nagyj\u00e9csa"
-    ],
     "name:vol_x_preferred":[
         "Iecea Mare"
     ],
@@ -74,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +86,7 @@
         "fct:id":"03a10b30-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675739,
         "gp:id":873965,
-        "qs:id":411141,
+        "qs_pg:id":411141,
         "wd:id":"Q984235"
     },
     "wof:country":"RO",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575586,
+    "wof:lastmodified":1566610730,
     "wof:name":"Iecea Mare",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

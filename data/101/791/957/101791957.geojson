@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.716582,
     "lbl:longitude":22.888017,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.716582,
     "mps:longitude":22.888017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Teliucu Inferior"
     ],
@@ -48,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0456\u0443\u043a\u0443-\u0406\u043d\u0444\u0435\u0440\u0456\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Teliucul-Inferior"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Hunedoara",
     "qs:a1r":"0",
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +79,6 @@
         "fct:id":"03a5092e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665268,
         "gp:id":881673,
-        "qs:id":1084442,
         "qs_pg:id":1084442,
         "wd:id":"Q5053450"
     },
@@ -97,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575555,
+    "wof:lastmodified":1566610720,
     "wof:name":"Teliucu Inferior",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":25.644184,
     "gn:population":2333,
     "iso:country":"RO",
+    "lbl:bbox":"25.624184,45.111562,25.664184,45.151562",
     "lbl:latitude":45.131562,
     "lbl:longitude":25.644184,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.131562,
     "mps:longitude":25.644184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Provi\u021ba de Sus"
     ],
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +73,6 @@
     "wof:concordances":{
         "gn:id":669554,
         "gp:id":878605,
-        "qs:id":1027520,
         "qs_pg:id":1027520,
         "wd:id":"Q14241492"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101855803,
-    "wof:lastmodified":1563576647,
+    "wof:lastmodified":1566611102,
     "wof:name":"Provi\u0163a de Sus",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

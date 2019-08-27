@@ -13,8 +13,10 @@
     "gn:longitude":24.53078,
     "gn:population":1469,
     "iso:country":"RO",
+    "lbl:bbox":"24.483525,47.127752,24.493525,47.137752",
     "lbl:latitude":47.132752,
     "lbl:longitude":24.488525,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.119856,
     "mps:longitude":24.474982,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0456\u0440\u044f"
     ],
-    "name:unk_x_variant":[
-        "Unirea"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":684657,
@@ -83,7 +82,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +96,6 @@
     "wof:concordances":{
         "gn:id":664198,
         "gp:id":882461,
-        "qs:id":238634,
         "qs_pg:id":238634,
         "wd:id":"Q620165"
     },
@@ -116,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574423,
+    "wof:lastmodified":1566610005,
     "wof:name":"Unirea",
     "wof:parent_id":101752035,
     "wof:placetype":"neighbourhood",

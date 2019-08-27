@@ -12,9 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.947188,
     "lbl:longitude":23.923939,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.947188,
     "mps:longitude":23.923939,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "Belaya Tserkov\u2019"
     ],
@@ -39,7 +43,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":8331526,
         "gp:id":880266,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"RO",
     "wof:geomhash":"69de1529ad4ff5dec3142f99ae6117b3",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101833715,
-    "wof:lastmodified":1501273467,
+    "wof:lastmodified":1566610846,
     "wof:name":"\u0411\u0456\u043b\u0430 \u0426\u0435\u0440\u043a\u0432\u0430",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

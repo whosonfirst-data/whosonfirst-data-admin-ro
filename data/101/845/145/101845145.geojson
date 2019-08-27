@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.497257,
     "lbl:longitude":24.958655,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.497257,
     "mps:longitude":24.958655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ungheni"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a56cc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664273,
         "gp:id":882409,
-        "qs:id":181075,
         "qs_pg:id":181075,
         "wd:id":"Q2486540"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575668,
+    "wof:lastmodified":1566610757,
     "wof:name":"Ungheni",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.082863,
     "lbl:longitude":23.932653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.082863,
     "mps:longitude":23.932653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mintiu Gherlii"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0442\u0456\u0443-\u0413\u0435\u0440\u043b\u0456\u0439"
     ],
-    "name:unk_x_variant":[
-        "Mintiul-Gherlei"
-    ],
     "name:vie_x_preferred":[
         "Mintiu Gherlii"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"03a20774-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673177,
         "gp:id":875874,
-        "qs:id":1083921,
         "qs_pg:id":1083921,
         "wd:id":"Q1011653"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575901,
+    "wof:lastmodified":1566610844,
     "wof:name":"Mintiu Gherlii",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

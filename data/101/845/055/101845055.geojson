@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.337949,
     "lbl:longitude":23.946946,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.337949,
     "mps:longitude":23.946946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Piele\u0219ti"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041f'\u0454\u043b\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pielestii"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":670869,
         "gp:id":877556,
-        "qs:id":127296,
+        "qs_pg:id":127296,
         "wd:id":"Q2362074"
     },
     "wof:country":"RO",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101845055,
-    "wof:lastmodified":1563575666,
+    "wof:lastmodified":1566610756,
     "wof:name":"Piele\u015fti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

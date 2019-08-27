@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.462626,
     "lbl:longitude":27.950542,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.462626,
     "mps:longitude":27.950542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vutcani"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
         "fct:id":"03a62b56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662376,
         "gp:id":883909,
-        "qs:id":1279871,
         "qs_pg:id":1279871,
         "wd:id":"Q2549087"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576864,
+    "wof:lastmodified":1566611174,
     "wof:name":"Vutcani",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

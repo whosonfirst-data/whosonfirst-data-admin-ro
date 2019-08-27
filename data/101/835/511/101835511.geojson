@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.929849,
     "lbl:longitude":24.696755,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.929849,
     "mps:longitude":24.696755,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Slobozia-M\u00e2ndra"
     ],
@@ -61,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u0431\u043e\u0437\u0456\u044f-\u041c\u0438\u043d\u0434\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Mandra"
-    ],
     "name:vie_x_preferred":[
         "Slobozia-M\u00e2ndra"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +98,6 @@
         "fct:id":"03a48544-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666665,
         "gp:id":880667,
-        "qs:id":766656,
         "qs_pg:id":766656,
         "wd:id":"Q2606757"
     },
@@ -116,7 +115,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575767,
+    "wof:lastmodified":1566610792,
     "wof:name":"Slobozia M\u00e2ndra",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.224705,
     "lbl:longitude":26.150697,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.224705,
     "mps:longitude":26.150697,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gr\u0103di\u0219tea"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":676820,
         "gp:id":873185,
-        "qs:id":967679,
+        "qs_pg:id":967679,
         "wd:id":"Q12097568"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101836549,
-    "wof:lastmodified":1563576639,
+    "wof:lastmodified":1566611098,
     "wof:name":"Gr\u0103di\u015ftea",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

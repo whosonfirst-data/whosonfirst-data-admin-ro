@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.626071,
     "lbl:longitude":21.13535,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.626071,
     "mps:longitude":21.13535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Par\u021ba"
     ],
@@ -47,9 +50,6 @@
     "name:ron_x_preferred":[
         "Par\u021ba"
     ],
-    "name:unk_x_variant":[
-        "Par\u00e1c"
-    ],
     "name:vol_x_preferred":[
         "Par\u021ba"
     ],
@@ -68,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101791607,
-    "wof:lastmodified":1563575604,
+    "wof:lastmodified":1566610735,
     "wof:name":"Par\u0163a",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

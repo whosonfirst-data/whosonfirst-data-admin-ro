@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.278329,
     "lbl:longitude":25.529473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.278329,
     "mps:longitude":25.529473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Videle"
     ],
@@ -38,9 +41,6 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u0434\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "Vida C\u00eertojani"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Teleorman",
     "qs:a1r":"0",
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +69,6 @@
         "fct:id":"03a5ed6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662976,
         "gp:id":883477,
-        "qs:id":126663,
         "qs_pg:id":126663,
         "wd:id":"Q16898579"
     },
@@ -87,7 +86,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576624,
+    "wof:lastmodified":1566611093,
     "wof:name":"Videle",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

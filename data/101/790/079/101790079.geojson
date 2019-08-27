@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.669031,
     "lbl:longitude":21.525638,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.669031,
     "mps:longitude":21.525638,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Avram Iancu"
     ],
@@ -48,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -57,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":686017,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q15732441"
     },
     "wof:country":"RO",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101790079,
-    "wof:lastmodified":1563575364,
+    "wof:lastmodified":1566610655,
     "wof:name":"Avram Iancu",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.178515,
     "lbl:longitude":27.500026,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.178515,
     "mps:longitude":27.500026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u064a\u0627 \u0644\u0648\u0628\u0648\u0644\u064a"
     ],
@@ -44,9 +47,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0430 \u041b\u0443\u043f\u0443\u043b\u0443\u0458"
     ],
-    "name:unk_x_variant":[
-        "Beldiman"
-    ],
     "name:vol_x_preferred":[
         "Valea Lupului"
     ],
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +78,6 @@
         "fct:id":"03a5a852-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663651,
         "gp:id":882911,
-        "qs:id":506735,
         "qs_pg:id":506735,
         "wd:id":"Q2537535"
     },
@@ -96,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575467,
+    "wof:lastmodified":1566610689,
     "wof:name":"Valea Lupului",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

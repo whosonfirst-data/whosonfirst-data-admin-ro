@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.525041,
     "lbl:longitude":26.004473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.525041,
     "mps:longitude":26.004473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mogo\u0219oaia"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +82,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":672937,
-        "qs:id":1027676,
         "qs_pg:id":1027676,
         "wd:id":"Q2198143"
     },
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101835599,
-    "wof:lastmodified":1563575777,
+    "wof:lastmodified":1566610795,
     "wof:name":"Mogo\u015foaia",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

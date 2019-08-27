@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.941224,
     "lbl:longitude":26.240354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.941224,
     "mps:longitude":26.240354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u064a\u0644\u064a\u0646\u062a\u0633\u0627"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043b\u0456\u043d\u0446\u0430"
     ],
-    "name:unk_x_variant":[
-        "Gelencze"
-    ],
     "name:vie_x_preferred":[
         "Ghelinta"
     ],
@@ -83,7 +83,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,7 @@
     "wof:concordances":{
         "gn:id":677479,
         "gp:id":872711,
-        "qs:id":180541,
+        "qs_pg:id":180541,
         "wd:id":"Q1008918"
     },
     "wof:country":"RO",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":101789841,
-    "wof:lastmodified":1563576977,
+    "wof:lastmodified":1566611215,
     "wof:name":"Ghelin\u0163a",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

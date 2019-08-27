@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.785119,
     "lbl:longitude":24.697599,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":44.785119,
     "mps:longitude":24.697599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0627\u0646\u0627 \u0644\u0627\u0643\u0648\u0644\u0648\u064a"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u044f\u043d\u0430-\u041b\u0430\u043a\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0103duroiul"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,9 +96,11 @@
         "fct:id":"03a333ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670075,
         "gp:id":878192,
-        "qs:id":411987,
-        "qs_pg:id":1279182,
+        "qs_pg:id":411987,
         "wd:id":"Q2348418"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1279182
     },
     "wof:country":"RO",
     "wof:geomhash":"b6aace366082fb9790e3edc0620c898f",
@@ -111,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576353,
+    "wof:lastmodified":1566611002,
     "wof:name":"Poiana Lacului",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":46.58333,
     "gn:longitude":26.93333,
     "iso:country":"RO",
+    "lbl:bbox":"26.917697,46.586474,26.927697,46.596474",
     "lbl:latitude":46.591474,
     "lbl:longitude":26.922697,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.594122,
     "mps:longitude":26.926031,
     "mz:hierarchy_label":0,
@@ -55,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0440\u0431\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u015eerb\u0103ne\u0219ti"
-    ],
     "name:vie_x_preferred":[
         "Serbanesti"
     ],
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -103,7 +102,6 @@
     "wof:concordances":{
         "gn:id":667368,
         "gp:id":880155,
-        "qs:id":912133,
         "qs_pg:id":912133
     },
     "wof:country":"RO",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830673,
+    "wof:lastmodified":1566609992,
     "wof:name":"\u015eerb\u0103ne\u0219ti",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

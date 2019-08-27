@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.909796,
     "lbl:longitude":25.682796,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.909796,
     "mps:longitude":25.682796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bivol\u0103ria"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":684632,
         "gp:id":867449,
-        "qs:id":57937,
         "qs_pg:id":57937,
         "wd:id":"Q12086403"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101832625,
-    "wof:lastmodified":1563575851,
+    "wof:lastmodified":1566610824,
     "wof:name":"Bivol\u0103ria",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

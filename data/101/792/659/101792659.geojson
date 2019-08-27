@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.362375,
     "lbl:longitude":21.5934,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.362375,
     "mps:longitude":21.5934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fize\u0219"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0437\u0435\u0448"
     ],
-    "name:unk_x_variant":[
-        "Krass\u00f3f\u00fczes"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Caras-Severin",
     "qs:a1r":"0",
@@ -64,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +75,7 @@
     "wof:concordances":{
         "gn:id":678094,
         "gp:id":872255,
-        "qs:id":410652,
+        "qs_pg:id":410652,
         "wd:id":"Q554400"
     },
     "wof:country":"RO",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101792659,
-    "wof:lastmodified":1563576532,
+    "wof:lastmodified":1566611062,
     "wof:name":"Fize\u015f",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

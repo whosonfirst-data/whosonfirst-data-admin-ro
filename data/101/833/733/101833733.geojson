@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.177393,
     "lbl:longitude":27.348984,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.177393,
     "mps:longitude":27.348984,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0645\u064a\u0634\u062a"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":678665,
         "gp:id":871821,
-        "qs:id":410566,
+        "qs_pg:id":410566,
         "wd:id":"Q2718831"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101833733,
-    "wof:lastmodified":1563575912,
+    "wof:lastmodified":1566610848,
     "wof:name":"Dume\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

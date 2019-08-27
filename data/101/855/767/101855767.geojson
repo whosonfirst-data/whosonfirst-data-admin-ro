@@ -11,12 +11,16 @@
     "geom:longitude":24.888477,
     "gn:population":1567,
     "iso:country":"RO",
+    "lbl:bbox":"24.868477,44.235792,24.908477,44.275792",
     "lbl:latitude":44.255792,
     "lbl:longitude":24.888477,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.255792,
     "mps:longitude":24.888477,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Meri\u0219ani"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0456\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meri\u015fanii"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,9 +72,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":673553,
-        "qs:id":7,
-        "qs_pg:id":127437,
+        "qs_pg:id":7,
         "wd:id":"Q12129935"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127437
     },
     "wof:country":"RO",
     "wof:geomhash":"4ff7753b31167c2ffa952db248c0ee6e",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101855767,
-    "wof:lastmodified":1563576651,
+    "wof:lastmodified":1566611103,
     "wof:name":"Meri\u015fani",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

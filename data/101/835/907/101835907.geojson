@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.175054,
     "lbl:longitude":24.638126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.175054,
     "mps:longitude":24.638126,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Danului"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u0414\u0430\u043d\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u0103de\u015fti"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"03a598c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663798,
         "gp:id":882779,
-        "qs:id":126709,
         "qs_pg:id":126709,
         "wd:id":"Q2484451"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575709,
+    "wof:lastmodified":1566610771,
     "wof:name":"Valea Danului",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

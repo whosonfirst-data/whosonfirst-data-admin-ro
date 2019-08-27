@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.987699,
     "lbl:longitude":23.190947,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.987699,
     "mps:longitude":23.190947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tur\u021b"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":664432,
         "gp:id":882296,
-        "qs:id":126768,
         "qs_pg:id":126768,
         "wd:id":"Q1190764"
     },
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101833647,
-    "wof:lastmodified":1563575926,
+    "wof:lastmodified":1566610853,
     "wof:name":"Tur\u0163",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

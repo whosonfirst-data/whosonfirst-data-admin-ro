@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.308512,
     "lbl:longitude":24.354502,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.308512,
     "mps:longitude":24.354502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Salva"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a3f5ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668124,
         "gp:id":879605,
-        "qs:id":275225,
         "qs_pg:id":275225,
         "wd:id":"Q1062607"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575915,
+    "wof:lastmodified":1566610849,
     "wof:name":"Salva",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

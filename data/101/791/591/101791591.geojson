@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.557952,
     "lbl:longitude":21.216237,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.557952,
     "mps:longitude":21.216237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jebel"
     ],
@@ -50,7 +53,7 @@
     "name:srp_x_preferred":[
         "\u0416\u0435\u0431\u0435\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zsebely"
     ],
     "name:vol_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a1390c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675290,
         "gp:id":874290,
-        "qs:id":127515,
         "qs_pg:id":127515,
         "wd:id":"Q1076084"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575567,
+    "wof:lastmodified":1566610724,
     "wof:name":"Jebel",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

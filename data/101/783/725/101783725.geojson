@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.84329,
     "lbl:longitude":22.813274,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.84329,
     "mps:longitude":22.813274,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dorol\u021b"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0440\u043e\u043b\u0446"
     ],
-    "name:unk_x_variant":[
-        "Pusztadar\u00f3c"
-    ],
     "name:vie_x_preferred":[
         "Dorolt"
     ],
@@ -76,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,7 @@
     "wof:concordances":{
         "gn:id":679061,
         "gp:id":871528,
-        "qs:id":262306,
+        "qs_pg:id":262306,
         "wd:id":"Q1188950"
     },
     "wof:country":"RO",
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":101783725,
-    "wof:lastmodified":1563576178,
+    "wof:lastmodified":1566610943,
     "wof:name":"Dorolt",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

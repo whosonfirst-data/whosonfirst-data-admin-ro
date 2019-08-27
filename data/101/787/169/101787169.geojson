@@ -9,14 +9,17 @@
     "geom:bbox":"27.3037759844,46.4595400751,27.3177552899,46.5159351543",
     "geom:latitude":46.487124,
     "geom:longitude":27.310686,
-    "geonames:id":"666706,666705",
+    "gn:id":"666706,666705",
     "iso:country":"RO",
     "lbl:latitude":46.499176,
     "lbl:longitude":27.312539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.499176,
     "mps:longitude":27.312539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Slobozia"
     ],
@@ -151,7 +154,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":462,
     "wof:belongsto":[
         102191581,
@@ -161,7 +164,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":880633,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q215723"
     },
     "wof:country":"RO",
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101787169,
-    "wof:lastmodified":1563576850,
+    "wof:lastmodified":1566611168,
     "wof:name":"Slobozia",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

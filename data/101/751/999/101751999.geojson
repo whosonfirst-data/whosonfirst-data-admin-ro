@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.179678,
     "lbl:longitude":21.313566,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":46.179678,
     "mps:longitude":21.313566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ace_x_preferred":[
         "Arad"
     ],
@@ -240,7 +243,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zsigmondh\u00e1za"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +283,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -292,9 +295,11 @@
         "fct:id":"03a75e68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686254,
         "gp:id":866307,
-        "qs:id":4,
-        "qs_pg:id":1090943,
+        "qs_pg:id":4,
         "wd:id":"Q173591"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1090943
     },
     "wof:country":"RO",
     "wof:geomhash":"592167eb4ed76122e7a99bdb092afb79",
@@ -310,7 +315,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576415,
+    "wof:lastmodified":1566611025,
     "wof:name":"Arad",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

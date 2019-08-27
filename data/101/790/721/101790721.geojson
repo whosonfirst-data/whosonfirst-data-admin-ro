@@ -9,15 +9,18 @@
     "geom:bbox":"26.9657426993,45.1881611915,26.9902248266,45.2011050295",
     "geom:latitude":45.194335,
     "geom:longitude":26.978902,
-    "geonames:id":"677610,684529",
+    "gn:id":"677610,684529",
     "gn:population":1655,
     "iso:country":"RO",
     "lbl:latitude":45.195654,
     "lbl:longitude":26.975656,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.195654,
     "mps:longitude":26.975656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Boboc"
     ],
@@ -45,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u043e\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bobocu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":684529,
         "gp:id":867526,
-        "qs:id":1277932,
+        "qs_pg:id":1277932,
         "wd:id":"Q12083049"
     },
     "wof:country":"RO",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101790721,
-    "wof:lastmodified":1563575437,
+    "wof:lastmodified":1566610679,
     "wof:name":"Boboc",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

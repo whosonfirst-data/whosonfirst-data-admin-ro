@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.962971,
     "lbl:longitude":22.356205,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.962971,
     "mps:longitude":22.356205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u0443\u0433\u043e\u0432\u0430"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0443\u0433\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Plugovo"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Caras-Severin",
     "qs:a1r":"0",
@@ -67,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +79,7 @@
         "fct:id":"03a315a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670388,
         "gp:id":877935,
-        "qs:id":412180,
+        "qs_pg:id":412180,
         "wd:id":"Q632565"
     },
     "wof:country":"RO",
@@ -96,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576294,
+    "wof:lastmodified":1566610981,
     "wof:name":"Plugova",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

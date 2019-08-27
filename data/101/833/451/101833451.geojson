@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.781466,
     "lbl:longitude":24.702221,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.781466,
     "mps:longitude":24.702221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Reghin"
     ],
@@ -130,9 +133,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "S\u00e4chs Reen"
-    ],
     "name:vie_x_preferred":[
         "Reghin"
     ],
@@ -155,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -166,7 +166,6 @@
         "fct:id":"03a761e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668997,
         "gp:id":878998,
-        "qs:id":1167594,
         "qs_pg:id":1167594,
         "wd:id":"Q572478"
     },
@@ -184,7 +183,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575937,
+    "wof:lastmodified":1566610856,
     "wof:name":"Reghin",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

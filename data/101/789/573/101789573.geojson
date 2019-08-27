@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.833365,
     "lbl:longitude":25.136007,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.833365,
     "mps:longitude":25.136007,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0218ercaia"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a440b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667350,
         "gp:id":880181,
-        "qs:id":43280,
         "qs_pg:id":43280,
         "wd:id":"Q15273167"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576964,
+    "wof:lastmodified":1566611210,
     "wof:name":"\u015eercaia",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

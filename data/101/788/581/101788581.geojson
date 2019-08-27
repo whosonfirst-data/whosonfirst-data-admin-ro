@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.516274,
     "lbl:longitude":24.456424,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.516274,
     "mps:longitude":24.456424,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Csittszentiv\u00e1n"
     ],
@@ -28,7 +31,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0442\u0456\u043e\u0430\u043d\u0430-\u0434\u0435-\u041c\u0443\u0440\u0435\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Csikszentiv\u00e0ny"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -46,7 +49,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101788581,
-    "wof:lastmodified":1563576697,
+    "wof:lastmodified":1566611119,
     "wof:name":"S\u00e2ntioana de Mure\u015f",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

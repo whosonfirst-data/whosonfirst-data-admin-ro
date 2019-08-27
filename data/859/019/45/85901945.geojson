@@ -11,8 +11,10 @@
     "geom:longitude":21.933088,
     "gn:id":"",
     "iso:country":"RO",
+    "lbl:bbox":"21.928088,47.052906,21.938088,47.062906",
     "lbl:latitude":47.057906,
     "lbl:longitude":21.933088,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.042513,
     "mps:longitude":21.912716,
     "mz:hierarchy_label":0,
@@ -204,9 +206,6 @@
     "name:ukr_x_preferred":[
         "Victoria"
     ],
-    "name:unk_x_variant":[
-        "Victoria"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
     ],
@@ -252,7 +251,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752025,
@@ -262,7 +261,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":883474,
-        "qs:id":1093290,
         "qs_pg:id":1093290
     },
     "wof:country":"RO",
@@ -280,7 +278,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100371,
+    "wof:lastmodified":1566610005,
     "wof:name":"Victoria",
     "wof:parent_id":101752025,
     "wof:placetype":"neighbourhood",

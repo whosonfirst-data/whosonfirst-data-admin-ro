@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.458793,
     "lbl:longitude":26.164508,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.458793,
     "mps:longitude":26.164508,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fundeni"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":677811,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12166351"
     },
     "wof:country":"RO",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101758407,
-    "wof:lastmodified":1563576330,
+    "wof:lastmodified":1566610992,
     "wof:name":"Fundeni",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

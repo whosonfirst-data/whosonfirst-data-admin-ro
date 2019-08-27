@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.466469,
     "lbl:longitude":24.673517,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.466469,
     "mps:longitude":24.673517,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sine\u0219ti"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":667047,
         "gp:id":880392,
-        "qs:id":412782,
+        "qs_pg:id":412782,
         "wd:id":"Q12159449"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101835551,
-    "wof:lastmodified":1563575708,
+    "wof:lastmodified":1566610770,
     "wof:name":"Sine\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

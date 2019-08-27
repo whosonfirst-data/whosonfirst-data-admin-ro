@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.379747,
     "lbl:longitude":25.224056,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.379747,
     "mps:longitude":25.224056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Lupeni"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043f\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Farkaslaka"
-    ],
     "name:vie_x_preferred":[
         "Lupeni"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"03a6c28c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674294,
         "gp:id":15002045,
-        "qs:id":201958,
         "qs_pg:id":201958,
         "wd:id":"Q996501"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575681,
+    "wof:lastmodified":1566610761,
     "wof:name":"Lupeni",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

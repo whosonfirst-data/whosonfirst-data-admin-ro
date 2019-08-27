@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.440654,
     "lbl:longitude":25.882965,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.440654,
     "mps:longitude":25.882965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ciorog\u00e2rla"
     ],
@@ -51,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u043e\u0433\u0438\u0440\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ciorog\u00eerla"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Ilfov",
     "qs:a1r":"0",
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,6 @@
         "fct:id":"039ed4be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681648,
         "gp:id":869636,
-        "qs:id":908660,
         "qs_pg:id":908660,
         "wd:id":"Q12170626"
     },
@@ -101,7 +100,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576284,
+    "wof:lastmodified":1566610976,
     "wof:name":"Ciorog\u00e2rla",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

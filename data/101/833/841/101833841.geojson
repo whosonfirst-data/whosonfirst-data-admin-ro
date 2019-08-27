@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.461365,
     "lbl:longitude":26.450124,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.461365,
     "mps:longitude":26.450124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0433\u0445\u0438\u0440\u0430"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":686182,
         "gp:id":866357,
-        "qs:id":409174,
+        "qs_pg:id":409174,
         "wd:id":"Q12078965"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101833841,
-    "wof:lastmodified":1563575921,
+    "wof:lastmodified":1566610851,
     "wof:name":"Arghira",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

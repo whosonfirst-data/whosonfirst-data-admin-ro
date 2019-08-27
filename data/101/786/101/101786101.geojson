@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.382374,
     "lbl:longitude":22.765242,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.382374,
     "mps:longitude":22.765242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bobota"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":684516,
         "gp:id":867537,
-        "qs:id":127965,
         "qs_pg:id":127965,
         "wd:id":"Q1081295"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101786101,
-    "wof:lastmodified":1563576814,
+    "wof:lastmodified":1566611157,
     "wof:name":"Bobota",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

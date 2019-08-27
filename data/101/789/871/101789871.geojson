@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.052337,
     "lbl:longitude":25.834589,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.052337,
     "mps:longitude":25.834589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0643\u0641\u0627\u0644\u0627\u0648"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043a\u0444\u0430\u043b\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "Mikos Ujfalu"
-    ],
     "name:vol_x_preferred":[
         "Micfal\u0103u"
     ],
@@ -93,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +105,7 @@
         "fct:id":"03a1e9a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673472,
         "gp:id":875654,
-        "qs:id":411590,
+        "qs_pg:id":411590,
         "wd:id":"Q45706"
     },
     "wof:country":"RO",
@@ -122,7 +122,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576981,
+    "wof:lastmodified":1566611216,
     "wof:name":"Micfal\u0103u",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

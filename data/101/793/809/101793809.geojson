@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.71919,
     "lbl:longitude":23.511844,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.71919,
     "mps:longitude":23.511844,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Turburea"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0431\u0443\u0440\u044f"
     ],
-    "name:unk_x_variant":[
-        "Turburea de Jos"
-    ],
     "name:vie_x_preferred":[
         "Turburea"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,6 @@
         "fct:id":"03a557b2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664481,
         "gp:id":882260,
-        "qs:id":126790,
         "qs_pg:id":126790,
         "wd:id":"Q2606841"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576306,
+    "wof:lastmodified":1566610984,
     "wof:name":"Turburea",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

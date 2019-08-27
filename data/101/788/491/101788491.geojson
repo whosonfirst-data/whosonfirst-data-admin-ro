@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.243583,
     "lbl:longitude":27.049195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.243583,
     "mps:longitude":27.049195,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Valea Seac\u0103"
     ],
@@ -56,7 +59,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
         "fct:id":"03a5c030-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663425,
         "gp:id":883126,
-        "qs:id":413535,
+        "qs_pg:id":413535,
         "wd:id":"Q15929154"
     },
     "wof:country":"RO",
@@ -85,7 +88,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576694,
+    "wof:lastmodified":1566611118,
     "wof:name":"Valea Seac\u0103",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

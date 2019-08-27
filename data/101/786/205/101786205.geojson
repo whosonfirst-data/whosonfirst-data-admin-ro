@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.676456,
     "lbl:longitude":28.061572,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.676456,
     "mps:longitude":28.061572,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Hu\u0219i"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -56,9 +59,11 @@
     "wof:concordances":{
         "gn:id":675892,
         "gp:id":873860,
-        "qs:id":1092074,
         "qs_pg:id":127545,
         "wd:id":"Q16898619"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092074
     },
     "wof:country":"RO",
     "wof:geomhash":"12da46190cbdf67f98dccdef031b6588",
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":101786205,
-    "wof:lastmodified":1563576802,
+    "wof:lastmodified":1566611153,
     "wof:name":"Hu\u015fi",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

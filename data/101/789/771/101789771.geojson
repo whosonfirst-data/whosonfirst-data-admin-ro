@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.274808,
     "lbl:longitude":23.064763,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.274808,
     "mps:longitude":23.064763,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Abrud"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0440\u0443\u0434"
     ],
-    "name:unk_x_variant":[
-        "Aktenburg"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u5e03\u9c81\u5fb7"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +97,6 @@
         "fct:id":"039cfbc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686712,
         "gp:id":865992,
-        "qs:id":941045,
         "qs_pg:id":941045,
         "wd:id":"Q16898071"
     },
@@ -115,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576957,
+    "wof:lastmodified":1566611208,
     "wof:name":"Abrud",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

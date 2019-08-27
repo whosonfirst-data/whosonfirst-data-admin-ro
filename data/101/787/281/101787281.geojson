@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.197206,
     "lbl:longitude":22.706782,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.197206,
     "mps:longitude":22.706782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nu\u0219fal\u0103u"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":672123,
         "gp:id":876627,
-        "qs:id":127376,
         "qs_pg:id":127376,
         "wd:id":"Q1189652"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101787281,
-    "wof:lastmodified":1563576858,
+    "wof:lastmodified":1566611172,
     "wof:name":"Nu\u015ffal\u0103u",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

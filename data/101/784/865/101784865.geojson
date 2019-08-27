@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.912944,
     "lbl:longitude":27.793918,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.912944,
     "mps:longitude":27.793918,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pribe\u0219ti"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":669660,
         "gp:id":878523,
-        "qs:id":412336,
+        "qs_pg:id":412336,
         "wd:id":"Q12145354"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101784865,
-    "wof:lastmodified":1563576236,
+    "wof:lastmodified":1566610961,
     "wof:name":"Pribe\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

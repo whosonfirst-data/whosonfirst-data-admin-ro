@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.132996,
     "lbl:longitude":26.912383,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.132996,
     "mps:longitude":26.912383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "St\u0103nce\u0219ti"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u043d\u0447\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "St\u00eence\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":666316,
         "gp:id":880031,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12157698"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101791937,
-    "wof:lastmodified":1563575497,
+    "wof:lastmodified":1566610700,
     "wof:name":"St\u00e2nce\u015fti",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

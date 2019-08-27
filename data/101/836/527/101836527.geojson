@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.242855,
     "lbl:longitude":25.355498,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.242855,
     "mps:longitude":25.355498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u00e2scoveni"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u043a\u043e\u0432\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00eescoveni"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":684695,
         "gp:id":867413,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12082666"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101836527,
-    "wof:lastmodified":1563576624,
+    "wof:lastmodified":1566611093,
     "wof:name":"B\u00e2scoveni",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

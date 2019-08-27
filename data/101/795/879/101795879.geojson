@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.011979,
     "lbl:longitude":24.015037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.011979,
     "mps:longitude":24.015037,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "M\u00e2r\u0219ani"
     ],
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0440\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00eer\u015fani"
     ],
     "name:vol_x_preferred":[
@@ -60,7 +63,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":673090,
         "gp:id":875933,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q773867"
     },
     "wof:country":"RO",
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101795879,
-    "wof:lastmodified":1561830798,
+    "wof:lastmodified":1566611042,
     "wof:name":"M\u00e2r\u015fani",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

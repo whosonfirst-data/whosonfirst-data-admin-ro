@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.002671,
     "lbl:longitude":22.529658,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.002671,
     "mps:longitude":22.529658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vadu Cri\u0219ului"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0434\u0443-\u041a\u0440\u0456\u0448\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
-        "R\u00e9v"
-    ],
     "name:vie_x_preferred":[
         "Vadu Crisului"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,9 +92,11 @@
     "wof:concordances":{
         "gn:id":664015,
         "gp:id":882590,
-        "qs:id":126729,
-        "qs_pg:id":309932,
+        "qs_pg:id":126729,
         "wd:id":"Q1093254"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":309932
     },
     "wof:country":"RO",
     "wof:geomhash":"14fa0f2cceb33924b61baa259677aad0",
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101787337,
-    "wof:lastmodified":1563576846,
+    "wof:lastmodified":1566611167,
     "wof:name":"Vadu Cri\u015fului",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

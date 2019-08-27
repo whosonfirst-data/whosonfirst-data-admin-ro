@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.835303,
     "lbl:longitude":23.11601,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.835303,
     "mps:longitude":23.11601,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dr\u0103gote\u0219ti"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
     "wof:concordances":{
         "gn:id":678902,
         "gp:id":867664,
-        "qs:id":1027917,
         "qs_pg:id":1027917,
         "wd:id":"Q2717501"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101835653,
-    "wof:lastmodified":1563575815,
+    "wof:lastmodified":1566610810,
     "wof:name":"Dr\u0103gote\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

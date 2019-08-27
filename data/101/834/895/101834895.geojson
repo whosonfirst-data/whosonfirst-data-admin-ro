@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.31604,
     "lbl:longitude":23.688665,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.31604,
     "mps:longitude":23.688665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Aiudul de Sus"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u044e\u0434\u0443\u043b-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aiudul-de-Sus"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":686589,
         "gp:id":866077,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q678022"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101834895,
-    "wof:lastmodified":1563575989,
+    "wof:lastmodified":1566610874,
     "wof:name":"Aiudul de Sus",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

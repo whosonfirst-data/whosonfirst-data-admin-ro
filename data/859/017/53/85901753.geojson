@@ -10,8 +10,10 @@
     "geom:latitude":46.553196,
     "geom:longitude":26.834914,
     "iso:country":"RO",
+    "lbl:bbox":"26.829914,46.548196,26.839914,46.558196",
     "lbl:latitude":46.553196,
     "lbl:longitude":26.834914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.553194,
     "mps:longitude":26.834106,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ron_x_preferred":[
-        "Cujbic"
-    ],
-    "name:unk_x_variant":[
         "Cujbic"
     ],
     "qs:gn_adm0_cc":"RO",
@@ -56,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101758429,
@@ -82,7 +81,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830677,
+    "wof:lastmodified":1566610002,
     "wof:name":"Cujbic",
     "wof:parent_id":101758429,
     "wof:placetype":"neighbourhood",

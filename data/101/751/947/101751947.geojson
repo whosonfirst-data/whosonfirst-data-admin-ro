@@ -13,6 +13,8 @@
     "iso:country":"RO",
     "lbl:latitude":43.899098,
     "lbl:longitude":25.959664,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.899098,
     "mps:longitude":25.959664,
     "mz:hierarchy_label":1,
@@ -285,7 +287,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -297,7 +299,6 @@
         "fct:id":"03a76750-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677106,
         "gp:id":872978,
-        "qs:id":229149,
         "qs_pg:id":229149,
         "wd:id":"Q202351"
     },
@@ -315,7 +316,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576419,
+    "wof:lastmodified":1566611026,
     "wof:name":"Giurgiu",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

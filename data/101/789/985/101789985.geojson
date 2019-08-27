@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.711113,
     "lbl:longitude":27.64735,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.711113,
     "mps:longitude":27.64735,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Grivi\u021ba"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":676707,
         "gp:id":873256,
-        "qs:id":1027819,
         "qs_pg:id":1027819,
         "wd:id":"Q2538772"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101789985,
-    "wof:lastmodified":1563576959,
+    "wof:lastmodified":1566611208,
     "wof:name":"Grivi\u0163a",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

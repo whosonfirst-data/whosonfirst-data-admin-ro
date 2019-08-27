@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.793144,
     "lbl:longitude":26.776988,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.793144,
     "mps:longitude":26.776988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Un\u021beni"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":664193,
         "gp:id":882463,
-        "qs:id":126761,
         "qs_pg:id":126761,
         "wd:id":"Q2716340"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101781409,
-    "wof:lastmodified":1563576763,
+    "wof:lastmodified":1566611140,
     "wof:name":"Un\u0163eni",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

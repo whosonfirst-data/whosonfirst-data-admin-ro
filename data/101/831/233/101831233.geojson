@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.783677,
     "lbl:longitude":26.007255,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.783677,
     "mps:longitude":26.007255,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mili\u0219\u0103u\u021bi"
     ],
@@ -26,7 +29,7 @@
     "name:srp_x_preferred":[
         "\u041c\u0438\u043b\u0438\u0448\u0430\u0443\u0446\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miles\u0103u\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -56,7 +59,6 @@
     "wof:concordances":{
         "gn:id":673305,
         "gp:id":875772,
-        "qs:id":127420,
         "qs_pg:id":127420,
         "wd:id":"Q16898563"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101831233,
-    "wof:lastmodified":1563576605,
+    "wof:lastmodified":1566611086,
     "wof:name":"Mili\u015f\u0103u\u0163i",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

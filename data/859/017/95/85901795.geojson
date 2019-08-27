@@ -13,8 +13,10 @@
     "gn:longitude":22.9,
     "gn:population":71,
     "iso:country":"RO",
+    "lbl:bbox":"22.887731,45.74798,22.897731,45.75798",
     "lbl:latitude":45.75298,
     "lbl:longitude":22.892731,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.749711,
     "mps:longitude":22.895215,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0448"
     ],
-    "name:unk_x_variant":[
-        "Gro\u0219i"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":675918,
@@ -88,7 +87,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +99,6 @@
     "wof:concordances":{
         "gn:id":676652,
         "gp:id":873291,
-        "qs:id":492225,
         "qs_pg:id":492225,
         "wd:id":"Q280728"
     },
@@ -119,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574412,
+    "wof:lastmodified":1566609999,
     "wof:name":"Gro\u0219i",
     "wof:parent_id":101751985,
     "wof:placetype":"neighbourhood",

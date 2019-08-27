@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":48.040902,
     "lbl:longitude":23.156341,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.040902,
     "mps:longitude":23.156341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0103tarci"
     ],
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +94,6 @@
         "fct:id":"039d7948-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685277,
         "gp:id":867005,
-        "qs:id":128047,
         "qs_pg:id":128047,
         "wd:id":"Q791291"
     },
@@ -109,7 +111,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575924,
+    "wof:lastmodified":1566610852,
     "wof:name":"B\u0103tarci",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

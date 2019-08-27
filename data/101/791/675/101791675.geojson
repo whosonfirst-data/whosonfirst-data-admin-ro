@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.823968,
     "lbl:longitude":22.115503,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.823968,
     "mps:longitude":22.115503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "R\u0103chita"
     ],
@@ -601,7 +604,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -612,7 +615,7 @@
     "wof:concordances":{
         "gn:id":669383,
         "gp:id":871771,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q18890"
     },
     "wof:country":"RO",
@@ -626,7 +629,7 @@
         }
     ],
     "wof:id":101791675,
-    "wof:lastmodified":1563575500,
+    "wof:lastmodified":1566610702,
     "wof:name":"R\u0103chita",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

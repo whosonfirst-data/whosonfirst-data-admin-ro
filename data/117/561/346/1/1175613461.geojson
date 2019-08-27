@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.721454,
     "lbl:longitude":21.834139,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.721454,
     "mps:longitude":21.834139,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u0103ut"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0103u\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,9 +81,11 @@
     "wof:concordances":{
         "gn:id":665394,
         "gp:id":881584,
-        "qs:id":967874,
         "qs_pg:id":126871,
         "wd:id":"Q548455"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":967874
     },
     "wof:country":"RO",
     "wof:geomhash":"baa1953c9c7b08daefe0d7a8e84b1099",
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1175613461,
-    "wof:lastmodified":1563575157,
+    "wof:lastmodified":1566610516,
     "wof:name":"Tau\u0163",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

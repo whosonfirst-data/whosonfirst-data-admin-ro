@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.301796,
     "lbl:longitude":23.760134,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.301796,
     "mps:longitude":23.760134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ciumbrud"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":681432,
         "gp:id":869795,
-        "qs:id":409993,
+        "qs_pg:id":409993,
         "wd:id":"Q720811"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101834891,
-    "wof:lastmodified":1563576057,
+    "wof:lastmodified":1566610898,
     "wof:name":"Ciumbrud",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

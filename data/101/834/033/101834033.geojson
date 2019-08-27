@@ -12,9 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.966981,
     "lbl:longitude":24.013839,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.966981,
     "mps:longitude":24.013839,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "Velyikyy Bychkiv"
     ],
@@ -22,7 +26,7 @@
         "Velykyy Bychkiv",
         "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0438\u0447\u043a\u0456\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novyy Boksko"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -39,7 +43,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633805,
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":690040,
         "gp:id":937422,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"RO",
     "wof:geomhash":"7a6601ab8f094b08ae8d6a5d0f0876b8",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":101834033,
-    "wof:lastmodified":1501215385,
+    "wof:lastmodified":1566610899,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0411\u0438\u0447\u043a\u0456\u0432",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

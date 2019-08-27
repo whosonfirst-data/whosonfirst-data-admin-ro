@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.595665,
     "lbl:longitude":25.125096,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.595665,
     "mps:longitude":25.125096,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Negra\u0219i"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":672406,
         "gp:id":876425,
-        "qs:id":127390,
         "qs_pg:id":127390,
         "wd:id":"Q12133126"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101836397,
-    "wof:lastmodified":1563576616,
+    "wof:lastmodified":1566611091,
     "wof:name":"Negra\u015fi",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

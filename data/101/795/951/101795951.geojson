@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.160284,
     "lbl:longitude":23.698743,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.160284,
     "mps:longitude":23.698743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "S\u0103lcu\u021ba"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,9 +65,11 @@
     "wof:concordances":{
         "gn:id":668167,
         "gp:id":879572,
-        "qs:id":5,
-        "qs_pg:id":127072,
+        "qs_pg:id":5,
         "wd:id":"Q12151823"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127072
     },
     "wof:country":"RO",
     "wof:geomhash":"e2ddbc6b7c3645e75ed9a06f35d0a8d0",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101795951,
-    "wof:lastmodified":1563576472,
+    "wof:lastmodified":1566611041,
     "wof:name":"S\u0103lcu\u0163a",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

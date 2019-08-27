@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.997981,
     "lbl:longitude":27.710913,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.997981,
     "mps:longitude":27.710913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0437\u0438\u0440\u0443"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0437\u0456\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "Vizirul"
-    ],
     "name:vie_x_preferred":[
         "Viziru"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +91,6 @@
         "fct:id":"03a61030-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662651,
         "gp:id":883715,
-        "qs:id":1084615,
         "qs_pg:id":1084615,
         "wd:id":"Q2303235"
     },
@@ -109,7 +108,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575507,
+    "wof:lastmodified":1566610704,
     "wof:name":"Viziru",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",

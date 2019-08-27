@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.241029,
     "lbl:longitude":25.632388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.241029,
     "mps:longitude":25.632388,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Comarnic"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,6 @@
         "fct:id":"039f10fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681005,
         "gp:id":870120,
-        "qs:id":908677,
         "qs_pg:id":908677,
         "wd:id":"Q16898482"
     },
@@ -72,7 +74,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575982,
+    "wof:lastmodified":1566610872,
     "wof:name":"Comarnic",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

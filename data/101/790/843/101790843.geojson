@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.182067,
     "lbl:longitude":28.481877,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.182067,
     "mps:longitude":28.481877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0438\u043a\u0443\u043b\u0438\u0446\u0435\u043b"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u0443\u043b\u0456\u0446\u0435\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monaster"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":672229,
         "gp:id":879698,
-        "qs:id":127381,
         "qs_pg:id":127381,
         "wd:id":"Q953724"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101790843,
-    "wof:lastmodified":1563575374,
+    "wof:lastmodified":1566610658,
     "wof:name":"Niculi\u0163el",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.892415,
     "lbl:longitude":23.196774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.892415,
     "mps:longitude":23.196774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ghidiciu"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0434\u0456\u0447"
     ],
-    "name:unk_x_variant":[
-        "Ghidicu"
-    ],
     "name:vol_x_preferred":[
         "Ghidici"
     ],
@@ -64,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -75,7 +75,7 @@
         "fct:id":"03a068f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677408,
         "gp:id":872764,
-        "qs:id":1278555,
+        "qs_pg:id":1278555,
         "wd:id":"Q2608684"
     },
     "wof:country":"RO",
@@ -92,7 +92,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830743,
+    "wof:lastmodified":1566610783,
     "wof:name":"Ghidici",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.831787,
     "lbl:longitude":24.776235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.831787,
     "mps:longitude":24.776235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mo\u0219oaia"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0448\u043e\u0430\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mo\u015foala"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":672808,
         "gp:id":876138,
-        "qs:id":127408,
         "qs_pg:id":127408,
         "wd:id":"Q2534770"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101794085,
-    "wof:lastmodified":1563576356,
+    "wof:lastmodified":1566611003,
     "wof:name":"Mo\u015foaia",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.52035,
     "lbl:longitude":22.135113,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.52035,
     "mps:longitude":22.135113,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Valea lui Mihai"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u043b\u0443\u0439-\u041c\u0456\u0445\u0430\u0439"
     ],
-    "name:unk_x_variant":[
-        "Valea lui"
-    ],
     "name:zho_x_preferred":[
         "\u7c73\u54c8\u4f0a\u8c37\u9109"
     ],
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +81,6 @@
         "fct:id":"03a5a438-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663692,
         "gp:id":882874,
-        "qs:id":126706,
         "qs_pg:id":126706,
         "wd:id":"Q16898122"
     },
@@ -99,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576808,
+    "wof:lastmodified":1566611154,
     "wof:name":"Valea lui Mihai",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

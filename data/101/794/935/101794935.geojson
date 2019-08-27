@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.31854,
     "lbl:longitude":25.698421,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.31854,
     "mps:longitude":25.698421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Clejani"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"039ef372-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681338,
         "gp:id":869865,
-        "qs:id":1083532,
         "qs_pg:id":1083532,
         "wd:id":"Q2465969"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576377,
+    "wof:lastmodified":1566611011,
     "wof:name":"Clejani",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

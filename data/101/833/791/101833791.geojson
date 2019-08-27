@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.246173,
     "lbl:longitude":26.846048,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.246173,
     "mps:longitude":26.846048,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062c\u064a\u0646\u0648\u0627\u0633\u0627"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,6 @@
         "fct:id":"03a3cec4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668488,
         "gp:id":879350,
-        "qs:id":967843,
         "qs_pg:id":967843,
         "wd:id":"Q913417"
     },
@@ -90,7 +92,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575876,
+    "wof:lastmodified":1566610834,
     "wof:name":"Ruginoasa",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

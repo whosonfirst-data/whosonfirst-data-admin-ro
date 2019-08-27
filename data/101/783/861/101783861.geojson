@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.308353,
     "lbl:longitude":26.652244,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.308353,
     "mps:longitude":26.652244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Con\u021be\u0219ti"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0446\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Con\u0163\u0103\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":680950,
         "gp:id":870157,
-        "qs:id":410105,
+        "qs_pg:id":410105,
         "wd:id":"Q12112605"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101783861,
-    "wof:lastmodified":1563576173,
+    "wof:lastmodified":1566610941,
     "wof:name":"Conte\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

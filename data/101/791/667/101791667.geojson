@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.832486,
     "lbl:longitude":21.047912,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.832486,
     "mps:longitude":21.047912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Becicherecu Mic"
     ],
@@ -35,7 +38,7 @@
     "name:ron_x_preferred":[
         "Becicherecu Mic"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klein-Betschkerek"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":685211,
         "gp:id":867055,
-        "qs:id":128041,
         "qs_pg:id":128041,
         "wd:id":"Q14772465"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101791667,
-    "wof:lastmodified":1563575525,
+    "wof:lastmodified":1566610710,
     "wof:name":"Becicherecu Mic",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.801166,
     "lbl:longitude":21.510996,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.801166,
     "mps:longitude":21.510996,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Rekasch"
     ],
@@ -29,7 +32,7 @@
     "name:ron_x_preferred":[
         "Reca\u0219"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Armag"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,9 +62,11 @@
     "wof:concordances":{
         "gn:id":669058,
         "gp:id":878950,
-        "qs:id":25367,
-        "qs_pg:id":127177,
+        "qs_pg:id":25367,
         "wd:id":"Q16898600"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127177
     },
     "wof:country":"RO",
     "wof:geomhash":"b7a835a1b4c9a380a372afd8f35ad262",
@@ -74,7 +79,7 @@
         }
     ],
     "wof:id":101791659,
-    "wof:lastmodified":1563575531,
+    "wof:lastmodified":1566610712,
     "wof:name":"Reca\u015f",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

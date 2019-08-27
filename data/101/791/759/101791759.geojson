@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.982791,
     "lbl:longitude":25.758962,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.982791,
     "mps:longitude":25.758962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0438\u0435\u0440\u0438"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0456\u0454\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ora\u015fu Nou"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101791759,
-    "wof:lastmodified":1563575568,
+    "wof:lastmodified":1566610725,
     "wof:name":"Minieri",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

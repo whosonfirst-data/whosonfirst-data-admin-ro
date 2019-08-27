@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.833446,
     "lbl:longitude":26.515658,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.833446,
     "mps:longitude":26.515658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Roznov"
     ],
@@ -31,9 +34,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u043e\u0437\u043d\u043e\u0432"
-    ],
-    "name:unk_x_variant":[
-        "Rasnov"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Neamt",
@@ -51,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +63,6 @@
         "fct:id":"03a3ca28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668546,
         "gp:id":879309,
-        "qs:id":127130,
         "qs_pg:id":127130,
         "wd:id":"Q16898447"
     },
@@ -81,7 +80,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575461,
+    "wof:lastmodified":1566610687,
     "wof:name":"Roznov",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

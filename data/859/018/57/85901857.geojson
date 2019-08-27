@@ -12,8 +12,10 @@
     "gn:latitude":44.95,
     "gn:longitude":26.03333,
     "iso:country":"RO",
+    "lbl:bbox":"26.042829,44.953091,26.052829,44.963091",
     "lbl:latitude":44.958091,
     "lbl:longitude":26.047829,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.959133,
     "mps:longitude":26.051181,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:rum_x_colloquial":[
         "Ploestiori Eforie"
-    ],
-    "name:unk_x_variant":[
-        "Ploe\u0219tiori Eforie"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
@@ -61,7 +60,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101835933,
@@ -72,7 +71,6 @@
     "wof:concordances":{
         "gn:id":670475,
         "gp:id":877872,
-        "qs:id":1083401,
         "qs_pg:id":1083401
     },
     "wof:country":"RO",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830673,
+    "wof:lastmodified":1566609991,
     "wof:name":"Ploe\u0219tiori Eforie",
     "wof:parent_id":101835933,
     "wof:placetype":"neighbourhood",

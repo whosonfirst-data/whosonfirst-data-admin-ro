@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.156235,
     "lbl:longitude":27.28346,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.156235,
     "mps:longitude":27.28346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vi\u0219ani"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":662709,
         "gp:id":883672,
-        "qs:id":275182,
         "qs_pg:id":275182,
         "wd:id":"Q3691118"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101790671,
-    "wof:lastmodified":1563575412,
+    "wof:lastmodified":1566610671,
     "wof:name":"Vi\u015fani",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",

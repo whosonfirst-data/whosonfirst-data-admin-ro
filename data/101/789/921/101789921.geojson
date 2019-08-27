@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.800821,
     "lbl:longitude":26.776505,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.800821,
     "mps:longitude":26.776505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "N\u0103ruja"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,6 @@
         "fct:id":"03a249fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672502,
         "gp:id":876361,
-        "qs:id":1083965,
         "qs_pg:id":1083965,
         "wd:id":"Q5070164"
     },
@@ -94,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563577003,
+    "wof:lastmodified":1566611224,
     "wof:name":"N\u0103ruja",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

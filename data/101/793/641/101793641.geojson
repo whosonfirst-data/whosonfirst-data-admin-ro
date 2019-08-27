@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.448554,
     "lbl:longitude":25.761214,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.448554,
     "mps:longitude":25.761214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Bolintinu-din-Vale"
     ],
@@ -35,9 +38,6 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0438\u043d\u0442\u0438\u043d-\u0412\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "Bolintinu-din-Vale"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Giurgiu",
     "qs:a1r":"0",
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +66,6 @@
         "fct:id":"039dda5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684266,
         "gp:id":867719,
-        "qs:id":185205,
         "qs_pg:id":185205,
         "wd:id":"Q16898271"
     },
@@ -84,7 +83,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576303,
+    "wof:lastmodified":1566610983,
     "wof:name":"Bolintin-Vale",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

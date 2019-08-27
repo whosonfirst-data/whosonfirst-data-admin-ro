@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.493724,
     "lbl:longitude":23.620969,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.493724,
     "mps:longitude":23.620969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Br\u0103de\u0219ti"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":683961,
         "gp:id":867944,
-        "qs:id":1028214,
         "qs_pg:id":1028214,
         "wd:id":"Q2058229"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101794769,
-    "wof:lastmodified":1563576378,
+    "wof:lastmodified":1566611011,
     "wof:name":"Br\u0103de\u015fti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

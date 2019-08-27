@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.774946,
     "lbl:longitude":27.683685,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.774946,
     "mps:longitude":27.683685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cudalbi"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
         "fct:id":"039f6e9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":680003,
         "gp:id":870834,
-        "qs:id":127729,
         "qs_pg:id":127729,
         "wd:id":"Q2538137"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576928,
+    "wof:lastmodified":1566611197,
     "wof:name":"Cudalbi",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

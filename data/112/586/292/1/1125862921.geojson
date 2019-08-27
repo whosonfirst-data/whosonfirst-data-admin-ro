@@ -9,15 +9,18 @@
     "geom:bbox":"23.2,45.83333,23.2,45.83333",
     "geom:latitude":45.83333,
     "geom:longitude":23.2,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":20763,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":20763,
     "iso:country":"RO",
+    "lbl:bbox":"23.18,45.81333,23.22,45.85333",
     "lbl:latitude":45.83333,
     "lbl:longitude":23.2,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Or\u0103\u0219tie"
@@ -100,9 +103,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0442\u0456\u0454"
     ],
-    "name:unk_x_variant":[
-        "Broos"
-    ],
     "name:vie_x_preferred":[
         "Orastie"
     ],
@@ -121,7 +121,7 @@
     "qs_pg:qs_id":127349,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":1125862921,
-    "wof:lastmodified":1563577177,
+    "wof:lastmodified":1566611302,
     "wof:name":"Or\u0103\u015ftie",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

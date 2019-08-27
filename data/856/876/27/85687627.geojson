@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":45.13537,
     "lbl:longitude":22.04136,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.13537,
     "mps:longitude":22.04136,
     "mz:hierarchy_label":1,
@@ -60,7 +61,7 @@
     "name:spa_x_preferred":[
         "Cara\u0219-Severin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jude\u0163ul Cara\u015f-Severin"
     ],
     "ne:abbrev":"",
@@ -133,9 +134,9 @@
     "qs:type":"Jude\u0163",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"8,520",
     "statoids:area_mi":"3,290",
     "statoids:as_of_date":"2011-10-22",
@@ -178,11 +179,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565733810,
+    "wof:lastmodified":1566610019,
     "wof:name":"Cara\u015f-Severin",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":295579,
     "wof:population_rank":10,

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.727015,
     "lbl:longitude":24.050171,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.727015,
     "mps:longitude":24.050171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Poplaca"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a347d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669855,
         "gp:id":878375,
-        "qs:id":941232,
         "qs_pg:id":941232,
         "wd:id":"Q250997"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575399,
+    "wof:lastmodified":1566610667,
     "wof:name":"Poplaca",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

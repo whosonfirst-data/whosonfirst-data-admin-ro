@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.591422,
     "lbl:longitude":27.783649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.591422,
     "mps:longitude":27.783649,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cuza Vod\u0103"
     ],
@@ -59,7 +62,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,7 @@
         "fct:id":"039f8008-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679852,
         "gp:id":870943,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1159708"
     },
     "wof:country":"RO",
@@ -88,7 +91,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575968,
+    "wof:lastmodified":1566610867,
     "wof:name":"Cuza Vod\u0103",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

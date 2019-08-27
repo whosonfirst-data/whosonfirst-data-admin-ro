@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.170109,
     "lbl:longitude":21.591026,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.170109,
     "mps:longitude":21.591026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cuvin"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0432\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Aradk\u00f6vi"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Arad",
     "qs:a1r":"0",
@@ -61,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +72,7 @@
     "wof:concordances":{
         "gn:id":679863,
         "gp:id":870940,
-        "qs:id":998450,
+        "qs_pg:id":998450,
         "wd:id":"Q755810"
     },
     "wof:country":"RO",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101834041,
-    "wof:lastmodified":1563575975,
+    "wof:lastmodified":1566610869,
     "wof:name":"Cuvin",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.245358,
     "lbl:longitude":26.864407,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.245358,
     "mps:longitude":26.864407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rediu"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":669012,
         "gp:id":878980,
-        "qs:id":412469,
+        "qs_pg:id":412469,
         "wd:id":"Q12147353"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101833795,
-    "wof:lastmodified":1563575920,
+    "wof:lastmodified":1566610851,
     "wof:name":"Rediu",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

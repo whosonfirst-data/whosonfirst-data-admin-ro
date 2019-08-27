@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.816943,
     "lbl:longitude":23.335094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.816943,
     "mps:longitude":23.335094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rac\u0219a"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101783717,
-    "wof:lastmodified":1561830777,
+    "wof:lastmodified":1566610952,
     "wof:name":"Rac\u015fa",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

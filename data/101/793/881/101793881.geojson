@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.991811,
     "lbl:longitude":21.620686,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.991811,
     "mps:longitude":21.620686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u0103c\u0103\u0219dia"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u043a\u0435\u0448\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raka\u017edija"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":669398,
         "gp:id":878715,
-        "qs:id":1027511,
         "qs_pg:id":1027511,
         "wd:id":"Q75656"
     },
@@ -104,7 +106,7 @@
         }
     ],
     "wof:id":101793881,
-    "wof:lastmodified":1563576263,
+    "wof:lastmodified":1566610970,
     "wof:name":"R\u0103c\u0103\u015fdia",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

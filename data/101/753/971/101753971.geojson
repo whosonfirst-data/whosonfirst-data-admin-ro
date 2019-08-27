@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.319203,
     "lbl:longitude":27.916083,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.319203,
     "mps:longitude":27.916083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Baldovine\u0219ti"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,9 +68,11 @@
     "wof:concordances":{
         "gn:id":685643,
         "gp:id":866754,
-        "qs:id":967467,
         "qs_pg:id":128074,
         "wd:id":"Q12080611"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":967467
     },
     "wof:country":"RO",
     "wof:geomhash":"fe130c4794b0b9f9df0d569ca4a18427",
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101753971,
-    "wof:lastmodified":1563575474,
+    "wof:lastmodified":1566610692,
     "wof:name":"Baldovine\u015fti",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",

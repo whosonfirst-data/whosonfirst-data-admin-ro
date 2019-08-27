@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.973674,
     "lbl:longitude":24.211412,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.973674,
     "mps:longitude":24.211412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rom\u00e2ni"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0438\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0103beni-Bistri\u0163a"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -53,7 +56,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101835809,
-    "wof:lastmodified":1563575809,
+    "wof:lastmodified":1566610808,
     "wof:name":"Rom\u00e2ni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

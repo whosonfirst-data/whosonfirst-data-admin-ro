@@ -12,8 +12,10 @@
     "gn:latitude":45.26667,
     "gn:longitude":27.96667,
     "iso:country":"RO",
+    "lbl:bbox":"27.967458,45.266622,27.977458,45.276622",
     "lbl:latitude":45.271622,
     "lbl:longitude":27.972458,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.272049,
     "mps:longitude":27.970458,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:ron_x_preferred":[
-        "Vatra Veche"
-    ],
-    "name:unk_x_variant":[
         "Vatra Veche"
     ],
     "qs:gn_adm0_cc":"RO",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751979,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":663094,
         "gp:id":883393,
-        "qs:id":1167616,
         "qs_pg:id":1167616
     },
     "wof:country":"RO",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830678,
+    "wof:lastmodified":1566610007,
     "wof:name":"Vatra Veche",
     "wof:parent_id":101751979,
     "wof:placetype":"neighbourhood",

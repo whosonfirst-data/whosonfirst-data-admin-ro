@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.47399,
     "lbl:longitude":25.969858,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.47399,
     "mps:longitude":25.969858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rudeni"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
         "fct:id":"03a3cb90-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668524,
         "gp:id":879326,
-        "qs:id":916498,
+        "qs_pg:id":916498,
         "wd:id":"Q12149116"
     },
     "wof:country":"RO",
@@ -78,7 +81,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576330,
+    "wof:lastmodified":1566610992,
     "wof:name":"Rudeni",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

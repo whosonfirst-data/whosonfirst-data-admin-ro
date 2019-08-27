@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.771307,
     "lbl:longitude":24.939333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.771307,
     "mps:longitude":24.939333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hodac"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0434\u0430\u043a"
     ],
-    "name:unk_x_variant":[
-        "Gorgenyhod\u00e1k"
-    ],
     "name:vie_x_preferred":[
         "Hodac"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"03a0e1fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676124,
         "gp:id":873695,
-        "qs:id":411068,
         "qs_pg:id":411068,
         "wd:id":"Q1031616"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575883,
+    "wof:lastmodified":1566610838,
     "wof:name":"Hodac",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

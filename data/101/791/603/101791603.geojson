@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.605143,
     "lbl:longitude":21.056692,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.605143,
     "mps:longitude":21.056692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Peciu Nou"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0447\u0443-\u041d\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neu-Petsch"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"03a2cd8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671182,
         "gp:id":877328,
-        "qs:id":127321,
         "qs_pg:id":127321,
         "wd:id":"Q1014818"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575528,
+    "wof:lastmodified":1566610711,
     "wof:name":"Peciu Nou",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

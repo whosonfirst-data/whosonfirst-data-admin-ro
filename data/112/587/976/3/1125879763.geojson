@@ -9,15 +9,18 @@
     "geom:bbox":"22.05,45.71667,22.05,45.71667",
     "geom:latitude":45.71667,
     "geom:longitude":22.05,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1531,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1531,
     "iso:country":"RO",
+    "lbl:bbox":"22.03,45.69667,22.07,45.73667",
     "lbl:latitude":45.71667,
     "lbl:longitude":22.05,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "B\u00e2rna"
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "B\u00e2rna"
-    ],
     "qs_pg:aaroncc":"RO",
     "qs_pg:gn_country":"RO",
     "qs_pg:gn_fcode":"PPLA2",
@@ -63,7 +63,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":867351,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125879763,
-    "wof:lastmodified":1563577280,
+    "wof:lastmodified":1566611336,
     "wof:name":"B\u00eerna",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

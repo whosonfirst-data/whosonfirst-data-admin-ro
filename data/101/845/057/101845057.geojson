@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.18429,
     "lbl:longitude":25.097312,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.18429,
     "mps:longitude":25.097312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sfin\u021be\u0219ti"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":667311,
         "gp:id":880211,
-        "qs:id":127005,
         "qs_pg:id":127005,
         "wd:id":"Q2721582"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101845057,
-    "wof:lastmodified":1563575684,
+    "wof:lastmodified":1566610762,
     "wof:name":"Sfin\u0163e\u015fti",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

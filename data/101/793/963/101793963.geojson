@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.196078,
     "lbl:longitude":28.315138,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.196078,
     "mps:longitude":28.315138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Dacilor"
     ],
@@ -32,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u0414\u0430\u0447\u0438\u043b\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valea Dracilor"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":663802,
         "gp:id":882776,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12087445"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101793963,
-    "wof:lastmodified":1563576253,
+    "wof:lastmodified":1566610966,
     "wof:name":"Valea Dacilor",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

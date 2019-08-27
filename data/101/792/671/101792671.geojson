@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.431821,
     "lbl:longitude":21.582323,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.431821,
     "mps:longitude":21.582323,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gherteni\u0219"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0442\u0435\u043d\u0456\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gnerteni\u0161"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":677417,
         "gp:id":872757,
-        "qs:id":1140692,
+        "qs_pg:id":1140692,
         "wd:id":"Q636567"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101792671,
-    "wof:lastmodified":1563576566,
+    "wof:lastmodified":1566611074,
     "wof:name":"Gherteni\u015f",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

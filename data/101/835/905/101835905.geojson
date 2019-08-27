@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.131543,
     "lbl:longitude":24.667741,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.131543,
     "mps:longitude":24.667741,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Curtea de Arge\u015f"
     ],
@@ -47,7 +50,7 @@
     "name:spa_x_preferred":[
         "Curtea de Arge\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Curt de-Arge\u015f"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,9 +80,11 @@
     "wof:concordances":{
         "gn:id":679909,
         "gp:id":870908,
-        "qs:id":508160,
         "qs_pg:id":410291,
         "wd:id":"Q16898098"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":508160
     },
     "wof:country":"RO",
     "wof:geomhash":"33c6f153721c15a8fd40240462bdc1f2",
@@ -92,7 +97,7 @@
         }
     ],
     "wof:id":101835905,
-    "wof:lastmodified":1563575783,
+    "wof:lastmodified":1566610798,
     "wof:name":"Curtea de Arge\u015f",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

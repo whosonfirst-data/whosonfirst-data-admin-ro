@@ -11,12 +11,16 @@
     "geom:longitude":25.980588,
     "gn:population":2401,
     "iso:country":"RO",
+    "lbl:bbox":"25.960588,45.297633,26.000588,45.337633",
     "lbl:latitude":45.317633,
     "lbl:longitude":25.980588,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.317633,
     "mps:longitude":25.980588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "M\u0103neciu-Ungureni"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043d\u0435\u0447\u0443-\u0423\u043d\u0433\u0443\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u0103neciul-Ungureni"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":673934,
         "gp:id":875317,
-        "qs:id":235365,
+        "qs_pg:id":235365,
         "wd:id":"Q12122613"
     },
     "wof:country":"RO",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101873929,
-    "wof:lastmodified":1563575696,
+    "wof:lastmodified":1566610766,
     "wof:name":"M\u0103neciu-Ungureni",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

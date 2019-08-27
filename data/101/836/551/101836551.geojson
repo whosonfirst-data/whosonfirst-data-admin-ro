@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.23741,
     "lbl:longitude":22.930757,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.23741,
     "mps:longitude":22.930757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e2n\u0103tori"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u0435\u0442\u043e\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "V\u00een\u0103tori"
-    ],
     "name:vol_x_preferred":[
         "V\u00e2n\u0103tori"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"03a5fdf2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662844,
         "gp:id":883591,
-        "qs:id":413666,
         "qs_pg:id":413666,
         "wd:id":"Q965720"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576611,
+    "wof:lastmodified":1566611089,
     "wof:name":"V\u00e2n\u0103tori",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

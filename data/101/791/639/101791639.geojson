@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.753652,
     "lbl:longitude":21.379241,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.753652,
     "mps:longitude":21.379241,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bucov\u0103\u021b"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Albina"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":683542,
         "gp:id":868245,
-        "qs:id":409623,
+        "qs_pg:id":409623,
         "wd:id":"Q14772645"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101791639,
-    "wof:lastmodified":1563575596,
+    "wof:lastmodified":1566610734,
     "wof:name":"Bucov\u0103\u0163",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

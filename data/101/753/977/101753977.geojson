@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.66119,
     "lbl:longitude":27.166889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.66119,
     "mps:longitude":27.166889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gole\u0219ti"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":676946,
         "gp:id":873088,
-        "qs:id":127593,
         "qs_pg:id":127593,
         "wd:id":"Q13979699"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101753977,
-    "wof:lastmodified":1563575472,
+    "wof:lastmodified":1566610691,
     "wof:name":"Gole\u015fti",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

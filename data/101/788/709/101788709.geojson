@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.812904,
     "lbl:longitude":23.752804,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.812904,
     "mps:longitude":23.752804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043f\u0430\u0445\u0438\u0434\u0430"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,6 @@
         "fct:id":"039d1f84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686288,
         "gp:id":866288,
-        "qs:id":890429,
         "qs_pg:id":890429,
         "wd:id":"Q221331"
     },
@@ -114,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576668,
+    "wof:lastmodified":1566611108,
     "wof:name":"Apahida",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

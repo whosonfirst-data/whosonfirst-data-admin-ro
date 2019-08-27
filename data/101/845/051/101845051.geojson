@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.273322,
     "lbl:longitude":23.897827,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.273322,
     "mps:longitude":23.897827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Carcea"
     ],
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u0447\u0430"
     ],
-    "name:unk_x_variant":[
-        "Carcea"
-    ],
     "name:vol_x_preferred":[
         "C\u00e2rcea"
     ],
@@ -66,7 +66,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -77,7 +77,7 @@
         "fct:id":"039ed75c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681619,
         "gp:id":869658,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2268617"
     },
     "wof:country":"RO",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575686,
+    "wof:lastmodified":1566610762,
     "wof:name":"C\u00e2rcea",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

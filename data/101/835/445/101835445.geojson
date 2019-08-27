@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.911473,
     "lbl:longitude":23.121207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.911473,
     "mps:longitude":23.121207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tunarii Vechi"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0430\u0440\u0456\u0439-\u0412\u0435\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tunari-Vechi"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -51,7 +54,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":664496,
         "gp:id":882248,
-        "qs:id":268232,
+        "qs_pg:id":268232,
         "wd:id":"Q12162838"
     },
     "wof:country":"RO",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101835445,
-    "wof:lastmodified":1561830747,
+    "wof:lastmodified":1566610806,
     "wof:name":"Tunarii Vechi",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

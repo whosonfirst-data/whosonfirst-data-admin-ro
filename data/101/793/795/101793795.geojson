@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.466518,
     "lbl:longitude":26.504892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.466518,
     "mps:longitude":26.504892,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Fundulele"
     ],
@@ -29,9 +32,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0424\u0443\u043d\u0434\u0443\u0459\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Fundulele"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Calarasi",
@@ -49,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +61,6 @@
         "fct:id":"03a0448e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677790,
         "gp:id":872490,
-        "qs:id":262310,
         "qs_pg:id":262310,
         "wd:id":"Q16898185"
     },
@@ -79,7 +78,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576292,
+    "wof:lastmodified":1566610980,
     "wof:name":"Fundulea",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

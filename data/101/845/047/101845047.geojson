@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.108048,
     "lbl:longitude":24.182708,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.108048,
     "mps:longitude":24.182708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dio\u0219ti"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":679335,
         "gp:id":871345,
-        "qs:id":275314,
         "qs_pg:id":275314,
         "wd:id":"Q2468521"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101845047,
-    "wof:lastmodified":1563575664,
+    "wof:lastmodified":1566610755,
     "wof:name":"Dio\u015fti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

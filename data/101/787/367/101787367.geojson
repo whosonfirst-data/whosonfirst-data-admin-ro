@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.153264,
     "lbl:longitude":21.921019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.153264,
     "mps:longitude":21.921019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0445\u0430\u0440\u0435\u0430"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0445\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Biharea"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bihor",
     "qs:a1r":"0",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +78,6 @@
         "fct:id":"039d9f68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684882,
         "gp:id":867281,
-        "qs:id":127991,
         "qs_pg:id":127991,
         "wd:id":"Q15742818"
     },
@@ -96,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576882,
+    "wof:lastmodified":1566611180,
     "wof:name":"Biharia",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

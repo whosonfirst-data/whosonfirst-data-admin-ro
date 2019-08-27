@@ -13,6 +13,8 @@
     "iso:country":"RO",
     "lbl:latitude":47.132189,
     "lbl:longitude":24.489009,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":47.132189,
     "mps:longitude":24.489009,
     "mz:hierarchy_label":1,
@@ -237,9 +239,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Bistritz"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0633\u062a\u0631\u06cc\u062a\u0633\u0627"
     ],
@@ -369,7 +368,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -379,7 +378,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":684657,
-        "qs:id":127990,
         "qs_pg:id":127990,
         "wd:id":"Q187205"
     },
@@ -394,7 +392,7 @@
         }
     ],
     "wof:id":101752035,
-    "wof:lastmodified":1563575459,
+    "wof:lastmodified":1566610686,
     "wof:name":"Bistri\u0163a",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

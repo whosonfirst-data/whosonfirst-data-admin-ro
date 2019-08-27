@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.734973,
     "lbl:longitude":26.396087,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.734973,
     "mps:longitude":26.396087,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Maia"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,7 @@
         "fct:id":"03a1ad4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674074,
         "gp:id":875215,
-        "qs:id":967739,
+        "qs_pg:id":967739,
         "wd:id":"Q2539262"
     },
     "wof:country":"RO",
@@ -99,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576502,
+    "wof:lastmodified":1566611051,
     "wof:name":"Maia",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000648,
-    "geom:area_square_m":5597011.994946,
+    "geom:area_square_m":5597011.994947,
     "geom:bbox":"25.4307046726,45.6758274909,25.4682717392,45.7098848304",
     "geom:latitude":45.693866,
     "geom:longitude":25.449564,
@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.696869,
     "lbl:longitude":25.447806,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.696869,
     "mps:longitude":25.447806,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Codlea"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0434\u043b\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zeiden"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":681179,
         "gp:id":869979,
-        "qs:id":275327,
         "qs_pg:id":275327,
         "wd:id":"Q16898140"
     },
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101790871,
-    "wof:lastmodified":1505337956,
+    "wof:lastmodified":1566610671,
     "wof:name":"Codlea",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

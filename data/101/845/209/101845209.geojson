@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.293701,
     "lbl:longitude":22.915139,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.293701,
     "mps:longitude":22.915139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Boc\u0219a"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,9 +89,11 @@
     "wof:concordances":{
         "gn:id":684489,
         "gp:id":867555,
-        "qs:id":506984,
         "qs_pg:id":127962,
         "wd:id":"Q1078043"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":506984
     },
     "wof:country":"RO",
     "wof:geomhash":"2bdc03031159dc9d824b4faaa5b8b465",
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":101845209,
-    "wof:lastmodified":1563575682,
+    "wof:lastmodified":1566610761,
     "wof:name":"Boc\u015fa",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.252729,
     "lbl:longitude":21.407566,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.252729,
     "mps:longitude":21.407566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jamu Mare"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0430\u043c\u0443-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Nagyzs\u00e1m"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u0648 \u0645\u0627\u0631\u06d2"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +105,6 @@
         "fct:id":"03a13876-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675295,
         "gp:id":874287,
-        "qs:id":127517,
         "qs_pg:id":127517,
         "wd:id":"Q1020863"
     },
@@ -123,7 +122,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576499,
+    "wof:lastmodified":1566611050,
     "wof:name":"Jamu Mare",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

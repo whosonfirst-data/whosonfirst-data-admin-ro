@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.368969,
     "lbl:longitude":24.26279,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.368969,
     "mps:longitude":24.26279,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Piatra-Olt"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u0438\u0430\u0442\u0440\u0430 \u041e\u043b\u0442"
-    ],
-    "name:unk_x_variant":[
-        "Piatra Olt"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Olt",
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +60,6 @@
         "fct:id":"03a2ea18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670888,
         "gp:id":877544,
-        "qs:id":127312,
         "qs_pg:id":127312,
         "wd:id":"Q16898462"
     },
@@ -78,7 +77,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576638,
+    "wof:lastmodified":1566611098,
     "wof:name":"Piatra-Olt",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

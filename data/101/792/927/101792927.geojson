@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.785353,
     "lbl:longitude":26.054375,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.785353,
     "mps:longitude":26.054375,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Crivina"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101792927,
-    "wof:lastmodified":1563576588,
+    "wof:lastmodified":1566611080,
     "wof:name":"Crivina",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

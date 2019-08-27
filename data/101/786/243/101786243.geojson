@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.836666,
     "lbl:longitude":26.714238,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.836666,
     "mps:longitude":26.714238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Go\u0219mani"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0448\u043c\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00e2rcu-Go\u015fmani"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":676869,
         "gp:id":873144,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q12097289"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101786243,
-    "wof:lastmodified":1563576791,
+    "wof:lastmodified":1566611149,
     "wof:name":"Go\u015fmani",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

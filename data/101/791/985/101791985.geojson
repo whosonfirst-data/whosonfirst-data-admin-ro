@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.919404,
     "lbl:longitude":28.149739,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.919404,
     "mps:longitude":28.149739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ostrov"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a2a2f6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671634,
         "gp:id":876988,
-        "qs:id":127335,
         "qs_pg:id":127335,
         "wd:id":"Q1066290"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575547,
+    "wof:lastmodified":1566610717,
     "wof:name":"Ostrov",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

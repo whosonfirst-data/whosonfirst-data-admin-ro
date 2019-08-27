@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.916377,
     "lbl:longitude":26.982904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.916377,
     "mps:longitude":26.982904,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pogoanele"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,6 @@
         "fct:id":"03a74608-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670167,
         "gp:id":878112,
-        "qs:id":127247,
         "qs_pg:id":127247,
         "wd:id":"Q16898939"
     },
@@ -78,7 +80,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575518,
+    "wof:lastmodified":1566610708,
     "wof:name":"Pogoanele",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

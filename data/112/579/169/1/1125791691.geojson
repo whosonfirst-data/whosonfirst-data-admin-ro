@@ -9,15 +9,18 @@
     "geom:bbox":"24.58333,45.71667,24.58333,45.71667",
     "geom:latitude":45.71667,
     "geom:longitude":24.58333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1133,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1133,
     "iso:country":"RO",
+    "lbl:bbox":"24.56333,45.69667,24.60333,45.73667",
     "lbl:latitude":45.71667,
     "lbl:longitude":24.58333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "C\u00e2r\u021bi\u0219oara"
@@ -58,7 +61,7 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0446\u0438\u0448\u043e\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Streza-C\u00eer\u0163i\u015foara"
     ],
     "name:vol_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":127823,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125791691,
-    "wof:lastmodified":1563577518,
+    "wof:lastmodified":1566611405,
     "wof:name":"C\u00e2r\u0163i\u015foara",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.741296,
     "lbl:longitude":28.725544,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.741296,
     "mps:longitude":28.725544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0427\u0430\u043c\u0443\u0440\u043b\u0438\u0438"
     ],
@@ -51,7 +54,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043c\u0443\u0440\u043b\u0456\u044f-\u0434\u0435-\u0416\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keamurli de jos"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
         "fct:id":"039e8342-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682478,
         "gp:id":869021,
-        "qs:id":1028105,
         "qs_pg:id":1028105,
         "wd:id":"Q859186"
     },
@@ -104,7 +106,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575612,
+    "wof:lastmodified":1566610738,
     "wof:name":"Ceamurlia de Jos",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

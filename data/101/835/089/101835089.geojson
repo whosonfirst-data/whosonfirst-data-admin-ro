@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.672775,
     "lbl:longitude":24.64569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.672775,
     "mps:longitude":24.64569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gorne\u0219ti"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
-        "Gernyeszeg"
-    ],
     "name:vie_x_preferred":[
         "Gornesti"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,9 +92,11 @@
     "wof:concordances":{
         "gn:id":676892,
         "gp:id":873128,
-        "qs:id":1291547,
         "qs_pg:id":127589,
         "wd:id":"Q1009935"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1291547
     },
     "wof:country":"RO",
     "wof:geomhash":"160286ceda379678e8d7cf16182a448b",
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101835089,
-    "wof:lastmodified":1563575788,
+    "wof:lastmodified":1566610800,
     "wof:name":"Gorne\u015fti",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

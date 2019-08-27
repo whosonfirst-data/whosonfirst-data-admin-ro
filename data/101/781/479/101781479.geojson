@@ -9,14 +9,17 @@
     "geom:bbox":"26.1749736393,47.9154563572,26.2193549611,47.9399138377",
     "geom:latitude":47.92592,
     "geom:longitude":26.197054,
-    "geonames:id":"681816,681807",
+    "gn:id":"681816,681807",
     "iso:country":"RO",
     "lbl:latitude":47.925316,
     "lbl:longitude":26.197448,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.925316,
     "mps:longitude":26.197448,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "C\u00e2nde\u0219ti"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":61,
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":869508,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2284218"
     },
     "wof:country":"RO",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101781479,
-    "wof:lastmodified":1563576759,
+    "wof:lastmodified":1566611139,
     "wof:name":"C\u00e2nde\u015fti",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

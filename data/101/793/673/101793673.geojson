@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.523432,
     "lbl:longitude":24.696595,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.523432,
     "mps:longitude":24.696595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vit\u0103ne\u0219ti"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":662667,
         "gp:id":883701,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12743592"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101793673,
-    "wof:lastmodified":1563576262,
+    "wof:lastmodified":1566610969,
     "wof:name":"Vit\u0103ne\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.789806,
     "lbl:longitude":23.435675,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.789806,
     "mps:longitude":23.435675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u0440\u043f\u043e\u0430\u0438\u0430"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":666158,
         "gp:id":881036,
-        "qs:id":412942,
+        "qs_pg:id":412942,
         "wd:id":"Q12157810"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101845101,
-    "wof:lastmodified":1563575677,
+    "wof:lastmodified":1566610759,
     "wof:name":"Sterpoaia",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

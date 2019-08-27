@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.769291,
     "lbl:longitude":27.886598,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.769291,
     "mps:longitude":27.886598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Guge\u0219ti"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":676586,
         "gp:id":873343,
-        "qs:id":410942,
+        "qs_pg:id":410942,
         "wd:id":"Q12098275"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101784873,
-    "wof:lastmodified":1563576221,
+    "wof:lastmodified":1566610956,
     "wof:name":"Guge\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

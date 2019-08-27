@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.943931,
     "lbl:longitude":28.630743,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.943931,
     "mps:longitude":28.630743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Schitu"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0456\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schitul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":667671,
         "gp:id":879956,
-        "qs:id":1167598,
         "qs_pg:id":1167598,
         "wd:id":"Q12153509"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101793917,
-    "wof:lastmodified":1563576320,
+    "wof:lastmodified":1566610988,
     "wof:name":"Schitu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.53624,
     "lbl:longitude":28.649607,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.53624,
     "mps:longitude":28.649607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u044e\u043d\u0434\u0436\u0438\u0438"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u043d\u0442\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Duingi"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":672126,
         "gp:id":876625,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q3623975"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101791487,
-    "wof:lastmodified":1563575582,
+    "wof:lastmodified":1566610729,
     "wof:name":"Nunta\u015fi",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.665092,
     "lbl:longitude":23.430938,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.665092,
     "mps:longitude":23.430938,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "T\u0103u\u021bii-M\u0103gher\u0103u\u0219"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
     "wof:concordances":{
         "gn:id":665382,
         "gp:id":881593,
-        "qs:id":234559,
+        "qs_pg:id":234559,
         "wd:id":"Q16898392"
     },
     "wof:country":"RO",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101833701,
-    "wof:lastmodified":1563575872,
+    "wof:lastmodified":1566610833,
     "wof:name":"T\u0103u\u0163ii-M\u0103gher\u0103u\u015f",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

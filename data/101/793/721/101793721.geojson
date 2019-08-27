@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.584838,
     "lbl:longitude":26.00647,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.584838,
     "mps:longitude":26.00647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tama\u0219i"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":665557,
         "gp:id":881465,
-        "qs:id":883809,
+        "qs_pg:id":883809,
         "wd:id":"Q12159855"
     },
     "wof:country":"RO",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101793721,
-    "wof:lastmodified":1563576317,
+    "wof:lastmodified":1566610987,
     "wof:name":"Tama\u015ei",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.112263,
     "lbl:longitude":23.078843,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.112263,
     "mps:longitude":23.078843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Mare"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":663626,
         "gp:id":882943,
-        "qs:id":413467,
+        "qs_pg:id":413467,
         "wd:id":"Q12087508"
     },
     "wof:country":"RO",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101792535,
-    "wof:lastmodified":1563576511,
+    "wof:lastmodified":1566611054,
     "wof:name":"Valea Mare",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

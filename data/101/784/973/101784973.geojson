@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.395802,
     "lbl:longitude":24.541662,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.395802,
     "mps:longitude":24.541662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0432\u0430"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
         "fct:id":"03a2c09c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671311,
         "gp:id":877229,
-        "qs:id":1027595,
         "qs_pg:id":1027595,
         "wd:id":"Q936447"
     },
@@ -108,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576239,
+    "wof:lastmodified":1566610962,
     "wof:name":"Parva",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

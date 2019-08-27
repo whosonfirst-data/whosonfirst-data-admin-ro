@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.400437,
     "lbl:longitude":25.914653,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.400437,
     "mps:longitude":25.914653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Domne\u0219ti"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043c\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Domne\u015ftii de Sus"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":679119,
         "gp:id":871488,
-        "qs:id":180489,
+        "qs_pg:id":180489,
         "wd:id":"Q12101936"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101758403,
-    "wof:lastmodified":1563576339,
+    "wof:lastmodified":1566610996,
     "wof:name":"Domne\u015fti",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

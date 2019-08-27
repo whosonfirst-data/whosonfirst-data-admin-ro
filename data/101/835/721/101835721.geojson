@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.912431,
     "lbl:longitude":25.68012,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.912431,
     "mps:longitude":25.68012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mija"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":673345,
         "gp:id":15002088,
-        "qs:id":497633,
+        "qs_pg:id":497633,
         "wd:id":"Q12131007"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101835721,
-    "wof:lastmodified":1563575826,
+    "wof:lastmodified":1566610814,
     "wof:name":"Mija",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

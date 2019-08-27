@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.075995,
     "lbl:longitude":26.189635,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.075995,
     "mps:longitude":26.189635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0443\u0438\u0435\u043d\u0438"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0454\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Pueni"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Giurgiu",
     "qs:a1r":"0",
@@ -61,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +73,7 @@
         "fct:id":"03a36ce0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669514,
         "gp:id":878636,
-        "qs:id":967816,
+        "qs_pg:id":967816,
         "wd:id":"Q12145741"
     },
     "wof:country":"RO",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576390,
+    "wof:lastmodified":1566611016,
     "wof:name":"Puieni",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
