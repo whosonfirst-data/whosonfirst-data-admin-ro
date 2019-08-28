@@ -12,8 +12,10 @@
     "gn:latitude":45.63333,
     "gn:longitude":25.58333,
     "iso:country":"RO",
+    "lbl:bbox":"25.585293,45.637593,25.595293,45.647593",
     "lbl:latitude":45.642593,
     "lbl:longitude":25.590293,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.630558,
     "mps:longitude":25.585013,
     "mz:hierarchy_label":0,
@@ -91,9 +93,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Astra"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":683844,
@@ -121,7 +120,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":538,
     "wof:belongsto":[
         102191581,
@@ -133,7 +132,6 @@
     "wof:concordances":{
         "gn:id":686074,
         "gp:id":866438,
-        "qs:id":1167534,
         "qs_pg:id":1167534
     },
     "wof:country":"RO",
@@ -151,7 +149,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100361,
+    "wof:lastmodified":1566609996,
     "wof:name":"Astra",
     "wof:parent_id":101751991,
     "wof:placetype":"neighbourhood",

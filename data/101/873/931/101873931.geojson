@@ -11,12 +11,16 @@
     "geom:longitude":26.29755,
     "gn:population":1443,
     "iso:country":"RO",
+    "lbl:bbox":"26.27755,45.420928,26.31755,45.460928",
     "lbl:latitude":45.440928,
     "lbl:longitude":26.29755,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.440928,
     "mps:longitude":26.29755,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lunca Priporului"
     ],
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":674365,
         "gp:id":874980,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12118819"
     },
     "wof:country":"RO",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101873931,
-    "wof:lastmodified":1563575691,
+    "wof:lastmodified":1566610765,
     "wof:name":"Lunca Priporului",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

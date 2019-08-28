@@ -9,17 +9,19 @@
     "geom:bbox":"28.2748342161,44.0962801576,28.2988377558,44.11044903",
     "geom:latitude":44.103972,
     "geom:longitude":28.285748,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2998,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":2998,
     "iso:country":"RO",
     "lbl:latitude":44.1035,
     "lbl:longitude":28.283577,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.1035,
     "mps:longitude":28.283577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0648\u0643\u064a\u0631\u0644\u064a\u0627"
     ],
@@ -75,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043a\u0438\u0440\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Biulbiu Mic"
-    ],
     "name:vie_x_preferred":[
         "Cioc\u00e2rlia"
     ],
@@ -112,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -124,13 +123,12 @@
         "fct:id":"039ece4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681720,
         "gp:id":869580,
-        "qs:id":127832,
-        "qs_pg:id":552128,
+        "qs_pg:id":127832,
         "wd:id":"Q867452"
     },
     "wof:concordances_alt":{
         "gn:id":681721,
-        "qs_pg:id":127832
+        "qs_pg:id":552128
     },
     "wof:country":"RO",
     "wof:geomhash":"f100b3df85ce3612ad041bb62a8a4607",
@@ -146,7 +144,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576318,
+    "wof:lastmodified":1566610988,
     "wof:name":"Cioc\u00e2rlia",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

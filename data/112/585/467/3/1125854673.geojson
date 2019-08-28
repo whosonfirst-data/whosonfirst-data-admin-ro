@@ -9,15 +9,18 @@
     "geom:bbox":"24.9,45.01667,24.9,45.01667",
     "geom:latitude":45.01667,
     "geom:longitude":24.9,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":3676,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":3676,
     "iso:country":"RO",
+    "lbl:bbox":"24.88,44.99667,24.92,45.03667",
     "lbl:latitude":45.01667,
     "lbl:longitude":24.9,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u062f\u0627\u0631\u0645\u0627\u0646\u0634\u062a"
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u043c\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barmone\u015ftii"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":871035,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1125854673,
-    "wof:lastmodified":1564101519,
+    "wof:lastmodified":1566611400,
     "wof:name":"D\u0103rm\u0103ne\u0219ti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

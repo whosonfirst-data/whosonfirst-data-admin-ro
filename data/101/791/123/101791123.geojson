@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.428997,
     "lbl:longitude":27.309633,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.428997,
     "mps:longitude":27.309633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cior\u0103\u0219ti"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":681664,
         "gp:id":869623,
-        "qs:id":127827,
         "qs_pg:id":127827,
         "wd:id":"Q13916603"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101791123,
-    "wof:lastmodified":1563575610,
+    "wof:lastmodified":1566610737,
     "wof:name":"Cior\u0103\u015fti",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.307412,
     "lbl:longitude":27.613014,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.307412,
     "mps:longitude":27.613014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Perieni"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a2d136-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671132,
         "gp:id":877361,
-        "qs:id":127318,
         "qs_pg:id":127318,
         "wd:id":"Q524823"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576853,
+    "wof:lastmodified":1566611169,
     "wof:name":"Perieni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

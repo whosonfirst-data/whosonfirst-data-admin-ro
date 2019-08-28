@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.676828,
     "lbl:longitude":24.310137,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.676828,
     "mps:longitude":24.310137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pog\u0103ceaua"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0433\u0435\u0447\u0430\u0443\u0430"
     ],
-    "name:unk_x_variant":[
-        "Pog\u0103ceana"
-    ],
     "name:vie_x_preferred":[
         "Pogaceaua"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"03a32ac8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670180,
         "gp:id":878103,
-        "qs:id":1279175,
         "qs_pg:id":1279175,
         "wd:id":"Q1090046"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576718,
+    "wof:lastmodified":1566611126,
     "wof:name":"Pog\u0103ceaua",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

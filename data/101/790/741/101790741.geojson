@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.34434,
     "lbl:longitude":27.345424,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.34434,
     "mps:longitude":27.345424,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e2lcelele"
     ],
@@ -45,9 +48,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u043b\u0447\u0435\u043b\u0435\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "V\u00eelcele"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Buzau",
     "qs:a1r":"0",
@@ -62,7 +62,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +74,7 @@
         "fct:id":"03a74f9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662874,
         "gp:id":883553,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q12743733"
     },
     "wof:country":"RO",
@@ -91,7 +91,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575396,
+    "wof:lastmodified":1566610666,
     "wof:name":"V\u00e2lcelele",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

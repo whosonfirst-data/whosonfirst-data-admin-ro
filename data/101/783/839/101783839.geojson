@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.194679,
     "lbl:longitude":27.403941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.194679,
     "mps:longitude":27.403941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u0633\u0643\u0627\u0646\u064a"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":674834,
         "gp:id":874629,
-        "qs:id":275265,
         "qs_pg:id":275265,
         "wd:id":"Q2607493"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101783839,
-    "wof:lastmodified":1563576204,
+    "wof:lastmodified":1566610949,
     "wof:name":"Le\u0163cani",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

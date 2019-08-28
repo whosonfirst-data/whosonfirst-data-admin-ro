@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.878057,
     "lbl:longitude":20.742599,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.878057,
     "mps:longitude":20.742599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Graba\u021b"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0431\u0430\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grab\u00e1cz"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":676843,
         "gp:id":873162,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q917779"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101791685,
-    "wof:lastmodified":1561830728,
+    "wof:lastmodified":1566610727,
     "wof:name":"Grab\u0103\u0163",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

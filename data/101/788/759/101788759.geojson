@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.327494,
     "lbl:longitude":25.888331,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.327494,
     "mps:longitude":25.888331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u0441\u0435\u043d\u0442\u0435\u0430"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0441\u0435\u043d\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Csik Mindszent"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":673069,
         "gp:id":875945,
-        "qs:id":916421,
+        "qs_pg:id":916421,
         "wd:id":"Q713657"
     },
     "wof:country":"RO",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101788759,
-    "wof:lastmodified":1563576716,
+    "wof:lastmodified":1566611125,
     "wof:name":"Misentea",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

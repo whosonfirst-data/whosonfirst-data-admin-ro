@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.36074,
     "lbl:longitude":26.234504,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.36074,
     "mps:longitude":26.234504,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "R\u00e2\u0219ca"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Peste Vale"
     ],
     "name:vol_x_preferred":[
@@ -66,7 +69,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":668840,
         "gp:id":879105,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q731675"
     },
     "wof:country":"RO",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101833833,
-    "wof:lastmodified":1563575899,
+    "wof:lastmodified":1566610844,
     "wof:name":"R\u00e2\u015fca",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

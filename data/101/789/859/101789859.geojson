@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.128865,
     "lbl:longitude":25.552547,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.128865,
     "mps:longitude":25.552547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u00e2rghi\u0219"
     ],
@@ -38,7 +41,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0440\u0433\u0438\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00eerghi\u015f"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":662767,
         "gp:id":883632,
-        "qs:id":1027278,
         "qs_pg:id":1027278,
         "wd:id":"Q3563934"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101789859,
-    "wof:lastmodified":1563576941,
+    "wof:lastmodified":1566611202,
     "wof:name":"V\u00e2rghi\u015f",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

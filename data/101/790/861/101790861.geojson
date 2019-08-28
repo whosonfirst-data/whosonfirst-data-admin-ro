@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.302758,
     "lbl:longitude":28.151315,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.302758,
     "mps:longitude":28.151315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jijila"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a13ef2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675235,
         "gp:id":874331,
-        "qs:id":275270,
         "qs_pg:id":275270,
         "wd:id":"Q1066631"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575377,
+    "wof:lastmodified":1566610659,
     "wof:name":"Jijila",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

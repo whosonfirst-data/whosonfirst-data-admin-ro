@@ -9,17 +9,19 @@
     "geom:bbox":"24.1835559888,45.090482954,24.2168497814,45.1252790754",
     "geom:latitude":45.105363,
     "geom:longitude":24.200155,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2620,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":2620,
     "iso:country":"RO",
     "lbl:latitude":45.099001,
     "lbl:longitude":24.207343,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.099001,
     "mps:longitude":24.207343,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bune\u0219ti"
     ],
@@ -47,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bundorf"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -77,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":683279,
-        "qs:id":127892,
         "qs_pg:id":127891,
         "wd:id":"Q437181"
     },
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":101792843,
-    "wof:lastmodified":1563576521,
+    "wof:lastmodified":1566611059,
     "wof:name":"Bune\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

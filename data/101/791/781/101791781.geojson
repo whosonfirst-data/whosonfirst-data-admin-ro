@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.049071,
     "lbl:longitude":25.953618,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.049071,
     "mps:longitude":25.953618,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Stejarul"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
         "fct:id":"03a74572-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670467,
         "gp:id":877879,
-        "qs:id":127268,
+        "qs_pg:id":127268,
         "wd:id":"Q16898485"
     },
     "wof:country":"RO",
@@ -81,7 +84,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575611,
+    "wof:lastmodified":1566610738,
     "wof:name":"Plopeni",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

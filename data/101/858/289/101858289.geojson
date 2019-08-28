@@ -11,12 +11,16 @@
     "geom:longitude":22.700711,
     "gn:population":2352,
     "iso:country":"RO",
+    "lbl:bbox":"22.680711,46.8709,22.720711,46.9109",
     "lbl:latitude":46.8909,
     "lbl:longitude":22.700711,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.8909,
     "mps:longitude":22.700711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bulz"
     ],
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +91,6 @@
     "wof:concordances":{
         "gn:id":683310,
         "gp:id":876254,
-        "qs:id":127895,
         "qs_pg:id":127895,
         "wd:id":"Q1191387"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101858289,
-    "wof:lastmodified":1563575864,
+    "wof:lastmodified":1566610829,
     "wof:name":"Bulz",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

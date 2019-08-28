@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.572201,
     "lbl:longitude":24.194231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.572201,
     "mps:longitude":24.194231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lunge\u0219ti"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":674318,
         "gp:id":875029,
-        "qs:id":127477,
         "qs_pg:id":127477,
         "wd:id":"Q3915152"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101794071,
-    "wof:lastmodified":1563576355,
+    "wof:lastmodified":1566611003,
     "wof:name":"Lunge\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

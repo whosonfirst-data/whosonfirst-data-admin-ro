@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.924732,
     "lbl:longitude":26.076055,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.924732,
     "mps:longitude":26.076055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0441\u0442\u0438\u043d\u0430"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":672411,
         "gp:id":876423,
-        "qs:id":411782,
+        "qs_pg:id":411782,
         "wd:id":"Q12133116"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101781391,
-    "wof:lastmodified":1563576755,
+    "wof:lastmodified":1566611138,
     "wof:name":"Negostina",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.859266,
     "lbl:longitude":25.703322,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.859266,
     "mps:longitude":25.703322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gogo\u0219ari"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0433\u043e\u0448\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gogo\u015farii-Vechi"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":676981,
         "gp:id":873067,
-        "qs:id":410874,
+        "qs_pg:id":410874,
         "wd:id":"Q2717356"
     },
     "wof:country":"RO",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101845061,
-    "wof:lastmodified":1563575683,
+    "wof:lastmodified":1566610761,
     "wof:name":"Gogo\u015fari",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

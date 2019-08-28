@@ -10,8 +10,10 @@
     "geom:latitude":44.209116,
     "geom:longitude":27.304077,
     "iso:country":"RO",
+    "lbl:bbox":"27.299077,44.204116,27.309077,44.214116",
     "lbl:latitude":44.209116,
     "lbl:longitude":27.304077,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.221149,
     "mps:longitude":27.295119,
     "mz:hierarchy_label":0,
@@ -71,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0447\u0430-\u0412\u043e\u0434\u0435"
     ],
-    "name:unk_x_variant":[
-        "Mircea Vod\u0103"
-    ],
     "name:vie_x_preferred":[
         "Mircea Voda"
     ],
@@ -107,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -135,7 +134,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574399,
+    "wof:lastmodified":1566609994,
     "wof:name":"Mircea Vod\u0103",
     "wof:parent_id":101751955,
     "wof:placetype":"neighbourhood",

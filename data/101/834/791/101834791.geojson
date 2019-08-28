@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.29746,
     "lbl:longitude":26.617023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.29746,
     "mps:longitude":26.617023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0423\u043d\u0433\u0443\u0440\u0438\u0443"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0433\u0443\u0440\u0456\u0443"
     ],
-    "name:unk_x_variant":[
-        "Unguriul"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Buzau",
     "qs:a1r":"0",
@@ -73,7 +73,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,7 @@
         "fct:id":"03a56fc2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664210,
         "gp:id":882450,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q12164603"
     },
     "wof:country":"RO",
@@ -102,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575966,
+    "wof:lastmodified":1566610866,
     "wof:name":"Unguriu",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.287245,
     "lbl:longitude":21.649529,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.287245,
     "mps:longitude":21.649529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gal\u0219a"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":677637,
         "gp:id":872589,
-        "qs:id":916339,
+        "qs_pg:id":916339,
         "wd:id":"Q724045"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101834053,
-    "wof:lastmodified":1563575990,
+    "wof:lastmodified":1566610875,
     "wof:name":"Gal\u015fa",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.008013,
     "lbl:longitude":21.968926,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.008013,
     "mps:longitude":21.968926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e2nmartin"
     ],
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u043c\u0430\u0440\u0442\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "S\u00e2ntmartin"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bihor",
     "qs:a1r":"0",
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +86,6 @@
         "fct:id":"03a46370-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667005,
         "gp:id":880417,
-        "qs:id":496814,
         "qs_pg:id":496814,
         "wd:id":"Q13725268"
     },
@@ -104,7 +103,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575765,
+    "wof:lastmodified":1566610791,
     "wof:name":"S\u00e2nmartin",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"25.4484627675,45.0080014102,25.4767684181,45.0336380395",
     "geom:latitude":45.018307,
     "geom:longitude":25.462577,
-    "geonames:id":"677045,677041",
+    "gn:id":"677045,677041",
     "gn:population":4367,
     "iso:country":"RO",
     "lbl:latitude":45.017988,
     "lbl:longitude":25.46279,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.017988,
     "mps:longitude":25.46279,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glodeni"
     ],
@@ -55,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":677045,
         "gp:id":873022,
-        "qs:id":127595,
         "qs_pg:id":127595,
         "wd:id":"Q3732858"
     },
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101835753,
-    "wof:lastmodified":1563575716,
+    "wof:lastmodified":1566610774,
     "wof:name":"Glodeni",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

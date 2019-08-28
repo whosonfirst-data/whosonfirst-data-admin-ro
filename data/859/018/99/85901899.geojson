@@ -10,8 +10,10 @@
     "geom:latitude":45.404423,
     "geom:longitude":23.37482,
     "iso:country":"RO",
+    "lbl:bbox":"23.36982,45.399423,23.37982,45.409423",
     "lbl:latitude":45.404423,
     "lbl:longitude":23.37482,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.393971,
     "mps:longitude":23.3739,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:srp_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043e\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Sl\u0103tioara"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:id":0,
@@ -72,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -99,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100358,
+    "wof:lastmodified":1566609995,
     "wof:name":"Sl\u0103tioara",
     "wof:parent_id":101751987,
     "wof:placetype":"neighbourhood",

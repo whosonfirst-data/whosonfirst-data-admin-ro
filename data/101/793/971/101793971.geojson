@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.243778,
     "lbl:longitude":28.27575,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.243778,
     "mps:longitude":28.27575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u062c\u064a\u062f\u064a\u0629"
     ],
@@ -83,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0436\u0438\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Medjidia"
-    ],
     "name:zho_x_preferred":[
         "\u6885\u5409\u8fea\u4e9e"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -117,7 +117,6 @@
         "fct:id":"03a76584-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673636,
         "gp:id":875534,
-        "qs:id":238770,
         "qs_pg:id":238770,
         "wd:id":"Q16898206"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576280,
+    "wof:lastmodified":1566610975,
     "wof:name":"Medgidia",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

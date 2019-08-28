@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.390734,
     "lbl:longitude":26.727122,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.390734,
     "mps:longitude":26.727122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u062a\u0633\u064a\u0644"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0440\u0435\u0446\u0435\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sire\u0163elul"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":666828,
         "gp:id":880542,
-        "qs:id":1279507,
+        "qs_pg:id":1279507,
         "wd:id":"Q2606020"
     },
     "wof:country":"RO",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101783883,
-    "wof:lastmodified":1563576196,
+    "wof:lastmodified":1566610948,
     "wof:name":"Sire\u0163el",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.549555,
     "lbl:longitude":26.66394,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.549555,
     "mps:longitude":26.66394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Scor\u021beni"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":667585,
         "gp:id":880014,
-        "qs:id":127014,
         "qs_pg:id":127014,
         "wd:id":"Q15883966"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101787191,
-    "wof:lastmodified":1563576878,
+    "wof:lastmodified":1566611178,
     "wof:name":"Scor\u0163eni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

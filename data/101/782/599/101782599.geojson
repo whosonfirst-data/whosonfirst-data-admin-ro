@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.736841,
     "lbl:longitude":26.28927,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.736841,
     "mps:longitude":26.28927,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ad\u00e2ncata"
     ],
@@ -51,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0438\u043d\u043a\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ad\u0103seni"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Suceava",
     "qs:a1r":"0",
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +82,6 @@
         "fct:id":"039cff04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686673,
         "gp:id":866018,
-        "qs:id":941041,
         "qs_pg:id":941041,
         "wd:id":"Q12076798"
     },
@@ -100,7 +99,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576139,
+    "wof:lastmodified":1566610930,
     "wof:name":"Ad\u00e2ncata",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

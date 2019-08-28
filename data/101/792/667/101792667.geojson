@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.416119,
     "lbl:longitude":22.218464,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.416119,
     "mps:longitude":22.218464,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Karansebesch"
     ],
@@ -32,7 +35,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043d\u0441\u0435\u0431\u0435\u0448\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carensebes"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,9 +65,11 @@
     "wof:concordances":{
         "gn:id":682729,
         "gp:id":868844,
-        "qs:id":1091425,
         "qs_pg:id":275346,
         "wd:id":"Q16898167"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1091425
     },
     "wof:country":"RO",
     "wof:geomhash":"326d8cb6b7a37848233039ee51ef4fbf",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101792667,
-    "wof:lastmodified":1563576528,
+    "wof:lastmodified":1566611061,
     "wof:name":"Caransebe\u015f",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

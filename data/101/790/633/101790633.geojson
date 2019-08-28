@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.046753,
     "lbl:longitude":20.814721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.046753,
     "mps:longitude":20.814721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "S\u00e2npetru Mare"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":880456,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1014865"
     },
     "wof:country":"RO",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101790633,
-    "wof:lastmodified":1563575376,
+    "wof:lastmodified":1566610659,
     "wof:name":"S\u00e2npetru Mare",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

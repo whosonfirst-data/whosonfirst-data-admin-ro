@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.012551,
     "lbl:longitude":26.331951,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.012551,
     "mps:longitude":26.331951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u043f\u0442\u0443\u0440\u0430 \u0434\u0435 \u0416\u043e\u0441"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":682404,
         "gp:id":15001597,
-        "qs:id":1129982,
+        "qs_pg:id":1129982,
         "wd:id":"Q12169547"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101791771,
-    "wof:lastmodified":1563575543,
+    "wof:lastmodified":1566610716,
     "wof:name":"Ceptura de Jos",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

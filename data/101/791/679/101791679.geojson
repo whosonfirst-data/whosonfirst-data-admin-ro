@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.853604,
     "lbl:longitude":21.166786,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.853604,
     "mps:longitude":21.166786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u00e2nandrei"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0430\u043d\u0434\u0440\u0435\u0439"
     ],
-    "name:unk_x_variant":[
-        "Szentandr\u00e1s"
-    ],
     "name:vie_x_preferred":[
         "S\u00e2nandrei"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,6 @@
         "fct:id":"03a45a38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667089,
         "gp:id":880363,
-        "qs:id":126982,
         "qs_pg:id":126982,
         "wd:id":"Q1022828"
     },
@@ -118,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575584,
+    "wof:lastmodified":1566610730,
     "wof:name":"S\u00e2nandrei",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

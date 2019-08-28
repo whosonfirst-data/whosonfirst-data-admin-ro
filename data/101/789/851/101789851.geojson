@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.997894,
     "lbl:longitude":26.135036,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.997894,
     "mps:longitude":26.135036,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u0433\u0443 \u0421\u0435\u043a\u0443\u0439\u0435\u0441\u043a"
     ],
@@ -77,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0440\u0433\u0443-\u0421\u0435\u043a\u0443\u0454\u0441\u043a"
     ],
-    "name:unk_x_variant":[
-        "K\u00e8zdiv\u00e1s\u00e0rhely"
-    ],
     "name:zho_x_preferred":[
         "\u7279\u5c14\u53e4-\u585e\u594e\u65af"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +111,6 @@
         "fct:id":"03a5249a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665000,
         "gp:id":881871,
-        "qs:id":908982,
         "qs_pg:id":908982,
         "wd:id":"Q16898224"
     },
@@ -129,7 +128,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576946,
+    "wof:lastmodified":1566611204,
     "wof:name":"T\u00e2rgu Secuiesc",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

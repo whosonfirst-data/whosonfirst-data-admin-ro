@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.870288,
     "lbl:longitude":25.979935,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.870288,
     "mps:longitude":25.979935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Negoie\u0219ti"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":672427,
         "gp:id":876414,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q12133124"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101792951,
-    "wof:lastmodified":1563576559,
+    "wof:lastmodified":1566611071,
     "wof:name":"Negoie\u015fti",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

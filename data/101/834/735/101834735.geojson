@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.074119,
     "lbl:longitude":26.935064,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.074119,
     "mps:longitude":26.935064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "G\u0103lbina\u0219i"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":677672,
         "gp:id":872565,
-        "qs:id":127640,
         "qs_pg:id":127640,
         "wd:id":"Q2291182"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101834735,
-    "wof:lastmodified":1563576030,
+    "wof:lastmodified":1566610889,
     "wof:name":"G\u0103lbina\u015fi",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

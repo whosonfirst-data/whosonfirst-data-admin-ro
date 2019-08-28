@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.644764,
     "lbl:longitude":27.262002,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.644764,
     "mps:longitude":27.262002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Milcovul"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043b\u043a\u043e\u0432\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Risipi\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
         "fct:id":"03a1f9fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673316,
         "gp:id":875763,
-        "qs:id":411635,
         "qs_pg:id":411635,
         "wd:id":"Q14174544"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576969,
+    "wof:lastmodified":1566611212,
     "wof:name":"Milcovul",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

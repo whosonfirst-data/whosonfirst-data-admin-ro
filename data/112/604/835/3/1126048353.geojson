@@ -9,15 +9,18 @@
     "geom:bbox":"21.85694,45.07944,21.85694,45.07944",
     "geom:latitude":45.07944,
     "geom:longitude":21.85694,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":8689,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":8689,
     "iso:country":"RO",
+    "lbl:bbox":"21.83694,45.05944,21.87694,45.09944",
     "lbl:latitude":45.07944,
     "lbl:longitude":21.85694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Steierdorf"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staierdorfanina"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +68,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":15001298,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126048353,
-    "wof:lastmodified":1509409046,
+    "wof:lastmodified":1566611292,
     "wof:name":"Anina 2",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

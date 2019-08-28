@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.432853,
     "lbl:longitude":25.622908,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.432853,
     "mps:longitude":25.622908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Crevedia Mare"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"039f572c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":680256,
         "gp:id":870654,
-        "qs:id":255873,
         "qs_pg:id":255873,
         "wd:id":"Q2717741"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576270,
+    "wof:lastmodified":1566610972,
     "wof:name":"Crevedia Mare",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

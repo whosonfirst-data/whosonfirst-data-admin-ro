@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.759937,
     "lbl:longitude":24.613654,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.759937,
     "mps:longitude":24.613654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "G\u00e2rcov"
     ],
@@ -57,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0438\u0440\u043a\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "G\u00e2rcovu"
-    ],
     "name:vol_x_preferred":[
         "G\u00e2rcov"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +91,6 @@
         "fct:id":"03a07c9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677205,
         "gp:id":872907,
-        "qs:id":918409,
         "qs_pg:id":918409,
         "wd:id":"Q2543054"
     },
@@ -109,7 +108,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575631,
+    "wof:lastmodified":1566610744,
     "wof:name":"Garcov",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

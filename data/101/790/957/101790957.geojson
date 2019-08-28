@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.726331,
     "lbl:longitude":24.577922,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.726331,
     "mps:longitude":24.577922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u00e2r\u021bi\u0219oara"
     ],
@@ -56,7 +59,7 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0446\u0438\u0448\u043e\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Streza-C\u00eer\u0163i\u015foara"
     ],
     "name:vol_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":681517,
-        "qs:id":127823,
+        "qs_pg:id":127823,
         "wd:id":"Q1077860"
     },
     "wof:country":"RO",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101790957,
-    "wof:lastmodified":1563575397,
+    "wof:lastmodified":1566610666,
     "wof:name":"C\u00e2\u0163tisoara",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

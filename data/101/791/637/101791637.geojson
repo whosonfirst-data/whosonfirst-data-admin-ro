@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.75141,
     "lbl:longitude":20.835325,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.75141,
     "mps:longitude":20.835325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Checea"
     ],
@@ -45,7 +48,7 @@
     "name:srp_x_preferred":[
         "\u041a\u0435\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00e9csa"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
         "fct:id":"039e9c92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682233,
         "gp:id":869199,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q12346145"
     },
     "wof:country":"RO",
@@ -91,7 +94,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575593,
+    "wof:lastmodified":1566610733,
     "wof:name":"Checea",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

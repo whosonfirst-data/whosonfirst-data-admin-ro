@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.864186,
     "lbl:longitude":26.201273,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.864186,
     "mps:longitude":26.201273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u043c\u043e\u0441\u0442\u0435\u0430"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a6309c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662317,
         "gp:id":883947,
-        "qs:id":126592,
         "qs_pg:id":126592,
         "wd:id":"Q2604047"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576765,
+    "wof:lastmodified":1566611141,
     "wof:name":"Zamostea",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

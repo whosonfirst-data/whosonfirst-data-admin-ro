@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.745795,
     "lbl:longitude":23.279802,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.745795,
     "mps:longitude":23.279802,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Seini"
     ],
@@ -35,9 +38,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0435\u0438\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Szinervaralj\u00e1"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Maramures",
     "qs:a1r":"0",
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +66,6 @@
         "fct:id":"03a43616-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667437,
         "gp:id":880108,
-        "qs:id":1084292,
         "qs_pg:id":1084292,
         "wd:id":"Q16898389"
     },
@@ -84,7 +83,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575889,
+    "wof:lastmodified":1566610839,
     "wof:name":"Seini",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

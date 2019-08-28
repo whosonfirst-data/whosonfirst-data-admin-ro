@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.332127,
     "lbl:longitude":26.076114,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.332127,
     "mps:longitude":26.076114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ces_x_preferred":[
         "Jilava"
     ],
@@ -96,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -108,7 +111,6 @@
         "fct:id":"03a13f24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675231,
         "gp:id":874332,
-        "qs:id":275269,
         "qs_pg:id":275269,
         "wd:id":"Q1019174"
     },
@@ -126,7 +128,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575484,
+    "wof:lastmodified":1566610696,
     "wof:name":"Jilava",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

@@ -13,8 +13,10 @@
     "gn:longitude":24.33941,
     "gn:population":15,
     "iso:country":"RO",
+    "lbl:bbox":"24.367207,45.099131,24.377207,45.109131",
     "lbl:latitude":45.104131,
     "lbl:longitude":24.372207,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.094738,
     "mps:longitude":24.370389,
     "mz:hierarchy_label":0,
@@ -40,10 +42,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u0456\u0431\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Pribu",
-        "Priba"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
@@ -74,7 +72,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +84,6 @@
     "wof:concordances":{
         "gn:id":669662,
         "gp:id":878521,
-        "qs:id":478432,
         "qs_pg:id":478432,
         "wd:id":"Q12145352"
     },
@@ -105,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574395,
+    "wof:lastmodified":1566609992,
     "wof:name":"Priba",
     "wof:parent_id":101751969,
     "wof:placetype":"neighbourhood",

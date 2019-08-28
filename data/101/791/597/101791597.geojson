@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.582586,
     "lbl:longitude":21.531385,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.582586,
     "mps:longitude":21.531385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ni\u021bchidorf"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0446\u043a\u0456\u0434\u043e\u0440\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Niczkydorf"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -120,7 +123,7 @@
     "wof:concordances":{
         "gn:id":672185,
         "gp:id":876579,
-        "qs:id":127379,
+        "qs_pg:id":127379,
         "wd:id":"Q939009"
     },
     "wof:country":"RO",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101791597,
-    "wof:lastmodified":1563575561,
+    "wof:lastmodified":1566610722,
     "wof:name":"Nitchidorf",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

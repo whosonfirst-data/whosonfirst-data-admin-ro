@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.846996,
     "lbl:longitude":24.340865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.846996,
     "mps:longitude":24.340865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u0103d\u0103stri\u021ba"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":664022,
         "gp:id":882584,
-        "qs:id":126730,
         "qs_pg:id":126730,
         "wd:id":"Q14823530"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101796105,
-    "wof:lastmodified":1563575624,
+    "wof:lastmodified":1566610742,
     "wof:name":"V\u0103d\u0103stri\u0163a",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

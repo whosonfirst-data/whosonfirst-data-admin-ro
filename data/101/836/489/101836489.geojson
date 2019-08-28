@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.966692,
     "lbl:longitude":24.679881,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.966692,
     "mps:longitude":24.679881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dudu"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dudul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":678779,
         "gp:id":15001531,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q12102757"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101836489,
-    "wof:lastmodified":1563576635,
+    "wof:lastmodified":1566611097,
     "wof:name":"Dudu",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

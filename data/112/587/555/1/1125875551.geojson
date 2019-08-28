@@ -9,15 +9,18 @@
     "geom:bbox":"25.55,45.83333,25.55,45.83333",
     "geom:latitude":45.83333,
     "geom:longitude":25.55,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":943,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RO",
+    "lbl:bbox":"25.53,45.81333,25.57,45.85333",
     "lbl:latitude":45.83333,
     "lbl:longitude":25.55,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u043e\u0442\u0431\u0430\u0432"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0442\u0431\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rotoav"
     ],
     "qs_pg:aaroncc":"RO",
@@ -79,7 +82,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":879285,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125875551,
-    "wof:lastmodified":1563577282,
+    "wof:lastmodified":1566611337,
     "wof:name":"Rotbav",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

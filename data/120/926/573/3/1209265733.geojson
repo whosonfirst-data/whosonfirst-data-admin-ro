@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
+    "lbl:bbox":"27.34667,45.64667,27.38667,45.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85633745
@@ -35,7 +39,7 @@
         "gn:id":678670
     },
     "wof:country":"RO",
-    "wof:geomhash":"29ae989e24ef53adfe0ebef5c34fbd10",
+    "wof:geomhash":"111d9d5c41712231b207a1b2b0b94219",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209265733,
-    "wof:lastmodified":1536292539,
+    "wof:lastmodified":1566610388,
     "wof:name":"Dumbravita Noua",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.366670000000006,
+    27.36667000000001,
     45.66667,
-    27.366670000000006,
+    27.36667000000001,
     45.66667
 ],
   "geometry": {"coordinates":[27.36667000000001,45.66667],"type":"Point"}

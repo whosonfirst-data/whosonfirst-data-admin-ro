@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.271044,
     "lbl:longitude":21.753616,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.271044,
     "mps:longitude":21.753616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Agri\u0219u Mare"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0440\u0456\u0448\u0443-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agri\u015f"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":686602,
         "gp:id":866069,
-        "qs:id":180393,
+        "qs_pg:id":180393,
         "wd:id":"Q632242"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101789655,
-    "wof:lastmodified":1563576986,
+    "wof:lastmodified":1566611218,
     "wof:name":"Agri\u015fu Mare",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.45982,
     "lbl:longitude":26.302639,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.45982,
     "mps:longitude":26.302639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0424\u044a\u043b\u0442\u0438\u0447\u0435\u043d\u0438"
     ],
@@ -80,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u043b\u0442\u0456\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Buciumeni"
-    ],
     "name:vie_x_preferred":[
         "Falticeni"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -117,7 +117,6 @@
         "fct:id":"03a76886-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":678459,
         "gp:id":871983,
-        "qs:id":1350654,
         "qs_pg:id":1350654,
         "wd:id":"Q16898545"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576207,
+    "wof:lastmodified":1566610951,
     "wof:name":"F\u0103lticeni",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.712763,
     "lbl:longitude":27.841405,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.712763,
     "mps:longitude":27.841405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rediu"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0434\u0456\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oasele"
     ],
     "name:vol_x_preferred":[
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
         "fct:id":"03a6e1f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669022,
         "gp:id":15002263,
-        "qs:id":127176,
         "qs_pg:id":127176,
         "wd:id":"Q2291376"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576972,
+    "wof:lastmodified":1566611213,
     "wof:name":"Rediu",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

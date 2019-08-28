@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.216164,
     "lbl:longitude":27.231652,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.216164,
     "mps:longitude":27.231652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bud\u0103i"
     ],
@@ -32,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0434\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bud\u0103ile"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -49,7 +52,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":683465,
         "gp:id":868302,
-        "qs:id":1329908,
+        "qs_pg:id":1329908,
         "wd:id":"Q12128424"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101843705,
-    "wof:lastmodified":1563575704,
+    "wof:lastmodified":1566610769,
     "wof:name":"Bud\u0103i",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

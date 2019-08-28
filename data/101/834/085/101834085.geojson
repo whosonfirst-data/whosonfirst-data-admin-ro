@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.279591,
     "lbl:longitude":27.005628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.279591,
     "mps:longitude":27.005628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0431\u0435\u043d\u0438"
     ],
@@ -48,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0431\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Orbeni-de-Jos"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bacau",
     "qs:a1r":"0",
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +79,6 @@
         "fct:id":"03a297fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671737,
         "gp:id":876916,
-        "qs:id":127346,
         "qs_pg:id":127346,
         "wd:id":"Q15729379"
     },
@@ -97,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575984,
+    "wof:lastmodified":1566610873,
     "wof:name":"Orbeni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.691131,
     "lbl:longitude":21.804026,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.691131,
     "mps:longitude":21.804026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Talpo\u0219"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":665582,
         "gp:id":881445,
-        "qs:id":1279611,
+        "qs_pg:id":1279611,
         "wd:id":"Q248967"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101835139,
-    "wof:lastmodified":1563575783,
+    "wof:lastmodified":1566610798,
     "wof:name":"Talpo\u015f",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.262016,
     "lbl:longitude":26.757777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.262016,
     "mps:longitude":26.757777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cern\u0103te\u0219ti"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,9 +68,11 @@
     "wof:concordances":{
         "gn:id":682329,
         "gp:id":869132,
-        "qs:id":941099,
         "qs_pg:id":275340,
         "wd:id":"Q4685349"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":941099
     },
     "wof:country":"RO",
     "wof:geomhash":"5948b168c3348fb8f1b6f14d9c26220c",
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":101834785,
-    "wof:lastmodified":1563576009,
+    "wof:lastmodified":1566610882,
     "wof:name":"Cern\u0103te\u015fti",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.226452,
     "lbl:longitude":23.328607,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.226452,
     "mps:longitude":23.328607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tih\u0103u"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":665108,
         "gp:id":881789,
-        "qs:id":1279650,
+        "qs_pg:id":1279650,
         "wd:id":"Q727593"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101786075,
-    "wof:lastmodified":1563576822,
+    "wof:lastmodified":1566611159,
     "wof:name":"Tih\u0103u",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

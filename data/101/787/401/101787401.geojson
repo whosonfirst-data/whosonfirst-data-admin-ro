@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.244323,
     "lbl:longitude":27.91214,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.244323,
     "mps:longitude":27.91214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Epureni"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
         "fct:id":"039ff95c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":678563,
         "gp:id":871908,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2721379"
     },
     "wof:country":"RO",
@@ -93,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576859,
+    "wof:lastmodified":1566611172,
     "wof:name":"Epureni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

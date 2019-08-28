@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.547102,
     "lbl:longitude":26.140839,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.547102,
     "mps:longitude":26.140839,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tunari"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Tunarii"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Ilfov",
     "qs:a1r":"0",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +75,6 @@
         "fct:id":"03a555f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664502,
         "gp:id":882245,
-        "qs:id":908988,
         "qs_pg:id":908988,
         "wd:id":"Q1707028"
     },
@@ -93,7 +92,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576278,
+    "wof:lastmodified":1566610975,
     "wof:name":"Tunari",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

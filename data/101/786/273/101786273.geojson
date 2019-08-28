@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.19794,
     "lbl:longitude":24.230289,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.19794,
     "mps:longitude":24.230289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cociu"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cociul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,7 @@
     "wof:concordances":{
         "gn:id":681217,
         "gp:id":869953,
-        "qs:id":287327,
+        "qs_pg:id":287327,
         "wd:id":"Q3892349"
     },
     "wof:country":"RO",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101786273,
-    "wof:lastmodified":1563576784,
+    "wof:lastmodified":1566611148,
     "wof:name":"Cociu",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

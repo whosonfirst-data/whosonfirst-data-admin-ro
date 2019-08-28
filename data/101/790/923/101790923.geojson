@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.76386,
     "lbl:longitude":25.171541,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.76386,
     "mps:longitude":25.171541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0218inca Veche"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,6 @@
         "fct:id":"03a6ec1c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667076,
         "gp:id":15002327,
-        "qs:id":497729,
         "qs_pg:id":497729,
         "wd:id":"Q899700"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575392,
+    "wof:lastmodified":1566610664,
     "wof:name":"\u015einca Veche",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

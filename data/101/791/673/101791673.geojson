@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.83997,
     "lbl:longitude":21.097849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.83997,
     "mps:longitude":21.097849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dude\u0219tii Noi"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0434\u0435\u0448\u0442\u0456\u0439-\u041d\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neu-Beschenowa"
     ],
     "name:vol_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":678783,
         "gp:id":871729,
-        "qs:id":941144,
+        "qs_pg:id":941144,
         "wd:id":"Q949293"
     },
     "wof:country":"RO",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101791673,
-    "wof:lastmodified":1563575512,
+    "wof:lastmodified":1566610706,
     "wof:name":"Dude\u015ftii Noi",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

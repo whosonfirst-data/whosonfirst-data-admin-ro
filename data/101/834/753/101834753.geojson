@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.372906,
     "lbl:longitude":27.028704,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.372906,
     "mps:longitude":27.028704,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oreavul"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u044f\u0432\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u0103r\u00eema\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":671721,
         "gp:id":876927,
-        "qs:id":411932,
+        "qs_pg:id":411932,
         "wd:id":"Q12136452"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101834753,
-    "wof:lastmodified":1563575965,
+    "wof:lastmodified":1566610866,
     "wof:name":"Oreavul",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

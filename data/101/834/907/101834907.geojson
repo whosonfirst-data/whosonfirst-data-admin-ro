@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.664724,
     "lbl:longitude":26.060637,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.664724,
     "mps:longitude":26.060637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062a\u0627 \u0628\u0648\u0632\u0648\u0644\u0648\u064a"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0442\u0430-\u0411\u0443\u0437\u0435\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
-        "Sita"
-    ],
     "name:vie_x_preferred":[
         "Sita Buzaului"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,6 @@
         "fct:id":"03a479f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666790,
         "gp:id":880566,
-        "qs:id":1084333,
         "qs_pg:id":1084333,
         "wd:id":"Q1092588"
     },
@@ -118,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575960,
+    "wof:lastmodified":1566610864,
     "wof:name":"Sita Buz\u0103ului",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

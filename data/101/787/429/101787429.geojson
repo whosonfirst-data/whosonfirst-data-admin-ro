@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.454845,
     "lbl:longitude":27.721341,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.454845,
     "mps:longitude":27.721341,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bogd\u0103ne\u0219ti"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":684395,
         "gp:id":867636,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1656308"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101787429,
-    "wof:lastmodified":1563576890,
+    "wof:lastmodified":1566611183,
     "wof:name":"Bogd\u0103ne\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

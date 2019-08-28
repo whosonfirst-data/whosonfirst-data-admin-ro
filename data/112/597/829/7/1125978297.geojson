@@ -9,15 +9,18 @@
     "geom:bbox":"23.71667,46.36667,23.71667,46.36667",
     "geom:latitude":46.36667,
     "geom:longitude":23.71667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2298,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":2298,
     "iso:country":"RO",
+    "lbl:bbox":"23.69667,46.34667,23.73667,46.38667",
     "lbl:latitude":46.36667,
     "lbl:longitude":23.71667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0627\u0633\u0644\u0627\u0648"
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0440\u0435\u0441\u043b\u0435\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mirisl\u0103u"
     ],
     "name:vol_x_preferred":[
@@ -93,7 +96,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":875886,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1125978297,
-    "wof:lastmodified":1563577303,
+    "wof:lastmodified":1566611342,
     "wof:name":"Mir\u0103sl\u0103u",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

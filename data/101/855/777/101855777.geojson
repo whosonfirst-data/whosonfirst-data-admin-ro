@@ -11,12 +11,16 @@
     "geom:longitude":22.411793,
     "gn:population":6022,
     "iso:country":"RO",
+    "lbl:bbox":"22.391793,44.856057,22.431793,44.896057",
     "lbl:latitude":44.876057,
     "lbl:longitude":22.411793,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.876057,
     "mps:longitude":22.411793,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Herculane"
     ],
@@ -66,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0457\u043b\u0435-\u0425\u0435\u0440\u043a\u0443\u043b\u0430\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Herkules-Banja"
-    ],
     "name:zho_x_preferred":[
         "\u4f2f\u4f0a\u840a\u6d77\u723e\u5eab\u62c9\u5167"
     ],
@@ -89,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +102,6 @@
         "fct:id":"039d4ac2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685796,
         "gp:id":866649,
-        "qs:id":278671,
         "qs_pg:id":278671,
         "wd:id":"Q16898171"
     },
@@ -119,7 +119,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576650,
+    "wof:lastmodified":1566611102,
     "wof:name":"B\u0103ile Herculane",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

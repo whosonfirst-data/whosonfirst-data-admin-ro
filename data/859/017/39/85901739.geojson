@@ -12,8 +12,10 @@
     "gn:latitude":47.45,
     "gn:longitude":26.3,
     "iso:country":"RO",
+    "lbl:bbox":"26.295964,47.453841,26.305964,47.463841",
     "lbl:latitude":47.458841,
     "lbl:longitude":26.300964,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.458446,
     "mps:longitude":26.299856,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ron_x_preferred":[
-        "Cotu Iazului"
-    ],
-    "name:unk_x_variant":[
         "Cotu Iazului"
     ],
     "qs:gn_adm0_cc":"RO",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101783929,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":680453,
         "gp:id":870523,
-        "qs:id":911379,
         "qs_pg:id":911379
     },
     "wof:country":"RO",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830677,
+    "wof:lastmodified":1566610003,
     "wof:name":"Cotu Iazului",
     "wof:parent_id":101783929,
     "wof:placetype":"neighbourhood",

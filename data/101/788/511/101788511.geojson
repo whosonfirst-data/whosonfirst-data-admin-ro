@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.368437,
     "lbl:longitude":26.772267,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.368437,
     "mps:longitude":26.772267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dr\u0103guge\u0219ti"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":678891,
         "gp:id":871653,
-        "qs:id":1278421,
+        "qs_pg:id":1278421,
         "wd:id":"Q12102385"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101788511,
-    "wof:lastmodified":1563576700,
+    "wof:lastmodified":1566611120,
     "wof:name":"Dr\u0103guge\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

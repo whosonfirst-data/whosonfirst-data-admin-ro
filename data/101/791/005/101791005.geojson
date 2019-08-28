@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.889712,
     "lbl:longitude":23.793995,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.889712,
     "mps:longitude":23.793995,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mercurea"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0435\u0440\u043a\u0443\u0440\u0435\u0430 \u0421\u0438\u0431\u0438\u0443\u043b\u0443\u0458"
-    ],
-    "name:unk_x_variant":[
-        "Mercurea"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Sibiu",
@@ -50,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +62,6 @@
         "fct:id":"03a1ed52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673438,
         "gp:id":875679,
-        "qs:id":127429,
         "qs_pg:id":127429,
         "wd:id":"Q16898533"
     },
@@ -80,7 +79,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575601,
+    "wof:lastmodified":1566610734,
     "wof:name":"Miercurea Sibiului",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

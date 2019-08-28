@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.867262,
     "lbl:longitude":27.286003,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.867262,
     "mps:longitude":27.286003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cosme\u0219tii-Vale"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u043c\u0435\u0448\u0442\u0456\u0439-\u0412\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cosme\u015ftii din Vale"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":680620,
         "gp:id":870397,
-        "qs:id":1127693,
+        "qs_pg:id":1127693,
         "wd:id":"Q12113423"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101790017,
-    "wof:lastmodified":1563575418,
+    "wof:lastmodified":1566610672,
     "wof:name":"Cosme\u015ftii-Vale",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

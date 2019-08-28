@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.454802,
     "lbl:longitude":23.906809,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.454802,
     "mps:longitude":23.906809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u0103m\u0103cu\u0219eni"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":679792,
         "gp:id":870987,
-        "qs:id":410331,
+        "qs_pg:id":410331,
         "wd:id":"Q389739"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101785043,
-    "wof:lastmodified":1563576109,
+    "wof:lastmodified":1566610917,
     "wof:name":"D\u0103m\u0103cu\u015feni",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

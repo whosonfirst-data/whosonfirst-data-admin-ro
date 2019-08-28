@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.885672,
     "lbl:longitude":24.325998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.885672,
     "mps:longitude":24.325998,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ob\u00e2r\u0219ia Nou\u0103"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0438\u0440\u0448\u0456\u044f-\u041d\u043e\u0443\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ob\u00eer\u015fia Nou\u0103"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -51,7 +54,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":672069,
         "gp:id":876662,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q12134900"
     },
     "wof:country":"RO",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101796119,
-    "wof:lastmodified":1561830734,
+    "wof:lastmodified":1566610747,
     "wof:name":"Ob\u00e2r\u015fia Nou\u0103",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

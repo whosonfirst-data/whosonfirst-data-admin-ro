@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.619664,
     "lbl:longitude":23.60794,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.619664,
     "mps:longitude":23.60794,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gro\u0219i"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":676653,
         "gp:id":873292,
-        "qs:id":127577,
         "qs_pg:id":127577,
         "wd:id":"Q1189062"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101783759,
-    "wof:lastmodified":1563576194,
+    "wof:lastmodified":1566610947,
     "wof:name":"Gro\u015fi",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

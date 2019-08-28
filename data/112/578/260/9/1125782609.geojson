@@ -9,15 +9,18 @@
     "geom:bbox":"21.88917,45.30083,21.88917,45.30083",
     "geom:latitude":45.30083,
     "geom:longitude":21.88917,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":81228,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA",
     "gn:population":81228,
     "iso:country":"RO",
+    "lbl:bbox":"21.86917,45.28083,21.90917,45.32083",
     "lbl:latitude":45.30083,
     "lbl:longitude":21.88917,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Re\u0219i\u021ba"
@@ -184,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0448\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Resiczab\u00e1nya"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "qs_pg:qs_id":273813,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":1125782609,
-    "wof:lastmodified":1563577514,
+    "wof:lastmodified":1566611404,
     "wof:name":"Re\u015fi\u0163a",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

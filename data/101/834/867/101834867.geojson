@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.296602,
     "lbl:longitude":21.669777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.296602,
     "mps:longitude":21.669777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "M\u00e2sca"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0441\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u00eesca"
     ],
     "name:vie_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":673079,
         "gp:id":872589,
-        "qs:id":1027683,
         "qs_pg:id":1027683,
         "wd:id":"Q683613"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101834867,
-    "wof:lastmodified":1563575999,
+    "wof:lastmodified":1566610878,
     "wof:name":"M\u00e2sca",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

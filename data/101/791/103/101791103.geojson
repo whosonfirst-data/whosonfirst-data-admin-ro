@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.90314,
     "lbl:longitude":23.478772,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.90314,
     "mps:longitude":23.478772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pianu de Sus"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0430\u043d\u0443-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pianul-de-Sus"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":670925,
         "gp:id":877514,
-        "qs:id":180702,
         "qs_pg:id":180702,
         "wd:id":"Q568352"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101791103,
-    "wof:lastmodified":1563575491,
+    "wof:lastmodified":1566610698,
     "wof:name":"Pianu de Sus",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

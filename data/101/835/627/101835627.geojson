@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.219792,
     "lbl:longitude":26.522187,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.219792,
     "mps:longitude":26.522187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0218oldanu"
     ],
@@ -52,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043b\u0434\u0430\u043d\u0443"
     ],
-    "name:unk_x_variant":[
-        "\u015eoldanul"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Calarasi",
     "qs:a1r":"0",
@@ -71,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,6 @@
         "fct:id":"03a49426-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666504,
         "gp:id":880782,
-        "qs:id":1027416,
         "qs_pg:id":1027416,
         "wd:id":"Q12172192"
     },
@@ -101,7 +100,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575735,
+    "wof:lastmodified":1566610781,
     "wof:name":"\u015eoldanu",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

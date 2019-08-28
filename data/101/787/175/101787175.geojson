@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.497191,
     "lbl:longitude":27.007569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.497191,
     "mps:longitude":27.007569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tama\u0219i"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043c\u0430\u0448\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0103ma\u015f"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":665556,
         "gp:id":881466,
-        "qs:id":1027375,
         "qs_pg:id":1027375,
         "wd:id":"Q15894273"
     },
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101787175,
-    "wof:lastmodified":1563576874,
+    "wof:lastmodified":1566611177,
     "wof:name":"Tama\u015ei",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

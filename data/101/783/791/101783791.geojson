@@ -9,14 +9,17 @@
     "geom:bbox":"27.8401049369,47.0199875839,27.8920093629,47.0375705624",
     "geom:latitude":47.027583,
     "geom:longitude":27.863659,
-    "geonames:id":"617999,680531",
+    "gn:id":"617999,680531",
     "iso:country":"RO",
     "lbl:latitude":47.030176,
     "lbl:longitude":27.864052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.030176,
     "mps:longitude":27.864052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Costuleni"
     ],
@@ -228,7 +231,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -238,9 +241,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":680531,
-        "qs:id":8,
-        "qs_pg:id":127760,
+        "qs_pg:id":8,
         "wd:id":"Q1136532"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127760
     },
     "wof:country":"RO",
     "wof:geomhash":"8f2b50f4788929ddcfa25ee66b01119b",
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":101783791,
-    "wof:lastmodified":1563576165,
+    "wof:lastmodified":1566610938,
     "wof:name":"Costuleni",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.524322,
     "lbl:longitude":26.248948,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.524322,
     "mps:longitude":26.248948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Afuma\u021bi"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,9 +71,11 @@
     "wof:concordances":{
         "gn:id":686648,
         "gp:id":866042,
-        "qs:id":1090876,
         "qs_pg:id":1028311,
         "wd:id":"Q5060100"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1090876
     },
     "wof:country":"RO",
     "wof:geomhash":"b571ecd25d3cc99e086366f18be52e25",
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":101792491,
-    "wof:lastmodified":1563576534,
+    "wof:lastmodified":1566611063,
     "wof:name":"Afuma\u0163i",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

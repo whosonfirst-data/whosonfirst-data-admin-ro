@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.649836,
     "lbl:longitude":26.473477,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.649836,
     "mps:longitude":26.473477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bursuceni"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":683211,
         "gp:id":868494,
-        "qs:id":883729,
+        "qs_pg:id":883729,
         "wd:id":"Q12085825"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101832645,
-    "wof:lastmodified":1563575841,
+    "wof:lastmodified":1566610820,
     "wof:name":"Bursuceni",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

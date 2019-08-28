@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.439616,
     "lbl:longitude":24.890241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.439616,
     "mps:longitude":24.890241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "\u0218an\u021b"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0430\u043d\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rodna Nou\u0103"
     ],
     "name:vol_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":668091,
         "gp:id":879626,
-        "qs:id":275223,
+        "qs_pg:id":275223,
         "wd:id":"Q1087614"
     },
     "wof:country":"RO",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101783693,
-    "wof:lastmodified":1563576175,
+    "wof:lastmodified":1566610942,
     "wof:name":"Sant",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.141011,
     "lbl:longitude":26.530327,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.141011,
     "mps:longitude":26.530327,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u0103deni"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":669283,
         "gp:id":878795,
-        "qs:id":883785,
+        "qs_pg:id":883785,
         "wd:id":"Q12147293"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101784927,
-    "wof:lastmodified":1563576239,
+    "wof:lastmodified":1566610962,
     "wof:name":"R\u0103deni",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

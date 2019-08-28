@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.879451,
     "lbl:longitude":27.231616,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.879451,
     "mps:longitude":27.231616,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Marasheshty"
     ],
@@ -28,9 +31,6 @@
     ],
     "name:ron_x_preferred":[
         "M\u0103r\u0103\u0219e\u0219ti"
-    ],
-    "name:unk_x_variant":[
-        "Marasheshty"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Vrancea",
@@ -46,7 +46,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +57,7 @@
     "wof:concordances":{
         "gn:id":673881,
         "gp:id":875359,
-        "qs:id":908813,
+        "qs_pg:id":908813,
         "wd:id":"Q16898653"
     },
     "wof:country":"RO",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":101789925,
-    "wof:lastmodified":1563576962,
+    "wof:lastmodified":1566611209,
     "wof:name":"M\u0103r\u0103\u015fe\u015fti",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

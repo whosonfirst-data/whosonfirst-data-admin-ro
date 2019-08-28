@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.474935,
     "lbl:longitude":26.716539,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.474935,
     "mps:longitude":26.716539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vintil\u0103 Vod\u0103"
     ],
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,6 @@
         "fct:id":"03a70a6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662801,
         "gp:id":15002483,
-        "qs:id":497808,
         "qs_pg:id":497808,
         "wd:id":"Q12093400"
     },
@@ -91,7 +93,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575980,
+    "wof:lastmodified":1566610872,
     "wof:name":"Vintil\u0103 Vod\u0103",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

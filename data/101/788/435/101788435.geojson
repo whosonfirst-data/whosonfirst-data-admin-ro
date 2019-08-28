@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.956764,
     "lbl:longitude":27.480077,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.956764,
     "mps:longitude":27.480077,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Negrile\u0219ti"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0433\u0440\u0456\u043b\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Negrile\u015ftii"
     ],
     "name:vol_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101788435,
-    "wof:lastmodified":1563576740,
+    "wof:lastmodified":1566611133,
     "wof:name":"Negrile\u015fti",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

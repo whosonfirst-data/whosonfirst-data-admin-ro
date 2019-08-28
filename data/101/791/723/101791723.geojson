@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.880539,
     "lbl:longitude":26.440579,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.880539,
     "mps:longitude":26.440579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Fulga de Jos"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":677846,
         "gp:id":872436,
-        "qs:id":410701,
+        "qs_pg:id":410701,
         "wd:id":"Q12166327"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101791723,
-    "wof:lastmodified":1563575548,
+    "wof:lastmodified":1566610717,
     "wof:name":"Fulga de Jos",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

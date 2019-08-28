@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.356586,
     "lbl:longitude":23.595587,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.356586,
     "mps:longitude":23.595587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Prede\u0219ti"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":669698,
         "gp:id":878492,
-        "qs:id":127211,
         "qs_pg:id":127211,
         "wd:id":"Q266526"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101794753,
-    "wof:lastmodified":1563576346,
+    "wof:lastmodified":1566610999,
     "wof:name":"Prede\u015fti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

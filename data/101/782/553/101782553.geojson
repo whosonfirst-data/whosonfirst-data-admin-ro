@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.284695,
     "lbl:longitude":27.514968,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.284695,
     "mps:longitude":27.514968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u0631\u064a\u0643\u0627\u0646\u064a"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0440\u0456\u043a\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Popricani-Coarba"
-    ],
     "name:vie_x_preferred":[
         "Popricani"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,6 @@
         "fct:id":"03a34878-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669847,
         "gp:id":878382,
-        "qs:id":255905,
         "qs_pg:id":255905,
         "wd:id":"Q2605991"
     },
@@ -105,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576143,
+    "wof:lastmodified":1566610931,
     "wof:name":"Popricani",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

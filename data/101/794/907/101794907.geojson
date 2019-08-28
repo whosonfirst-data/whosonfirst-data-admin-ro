@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.150973,
     "lbl:longitude":25.759834,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.150973,
     "mps:longitude":25.759834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0430\u0438\u043f\u0443"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0439\u043f\u0443"
     ],
-    "name:unk_x_variant":[
-        "Naipul"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Giurgiu",
     "qs:a1r":"0",
@@ -61,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +73,7 @@
         "fct:id":"03a24658-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672535,
         "gp:id":876338,
-        "qs:id":967764,
+        "qs_pg:id":967764,
         "wd:id":"Q12132253"
     },
     "wof:country":"RO",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576341,
+    "wof:lastmodified":1566610996,
     "wof:name":"Naipu",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

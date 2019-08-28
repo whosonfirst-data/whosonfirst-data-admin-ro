@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.430418,
     "lbl:longitude":26.991841,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.430418,
     "mps:longitude":26.991841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0438\u043e\u0441\u0435\u043d\u0438"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u043e\u0441\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Geoseni"
     ],
     "name:vol_x_preferred":[
@@ -79,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,7 @@
     "wof:concordances":{
         "gn:id":677504,
         "gp:id":872693,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2620847"
     },
     "wof:country":"RO",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101787145,
-    "wof:lastmodified":1563576869,
+    "wof:lastmodified":1566611175,
     "wof:name":"Gioseni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

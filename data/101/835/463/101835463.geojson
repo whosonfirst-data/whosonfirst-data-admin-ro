@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.657258,
     "lbl:longitude":25.365684,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.657258,
     "mps:longitude":25.365684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0417\u0438\u043c\u043d\u0438\u0446\u0430"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"03a63e20-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662187,
         "gp:id":884043,
-        "qs:id":112071,
         "qs_pg:id":112071,
         "wd:id":"Q16898581"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575744,
+    "wof:lastmodified":1566610784,
     "wof:name":"Zimnicea",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

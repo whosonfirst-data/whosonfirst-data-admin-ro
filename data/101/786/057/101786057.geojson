@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.895041,
     "lbl:longitude":24.823129,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.895041,
     "mps:longitude":24.823129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Aluni\u0219"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0443\u043d\u0456\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magyaro"
     ],
     "name:vol_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,9 +95,11 @@
     "wof:concordances":{
         "gn:id":686419,
         "gp:id":15001326,
-        "qs:id":128127,
         "qs_pg:id":128126,
         "wd:id":"Q1096291"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":128127
     },
     "wof:country":"RO",
     "wof:geomhash":"611749b32fe061921df4b5ffb329f95a",
@@ -107,7 +112,7 @@
         }
     ],
     "wof:id":101786057,
-    "wof:lastmodified":1563576831,
+    "wof:lastmodified":1566611161,
     "wof:name":"Aluni\u015f",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

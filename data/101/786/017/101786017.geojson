@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.984978,
     "lbl:longitude":25.308482,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.984978,
     "mps:longitude":25.308482,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u0433\u0445\u0438\u0437"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,6 @@
         "fct:id":"03a0e632-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676087,
         "gp:id":873724,
-        "qs:id":1027813,
         "qs_pg:id":1027813,
         "wd:id":"Q15256061"
     },
@@ -93,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576824,
+    "wof:lastmodified":1566611159,
     "wof:name":"Hoghiz",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

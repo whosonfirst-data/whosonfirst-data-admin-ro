@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.990958,
     "lbl:longitude":22.921387,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.990958,
     "mps:longitude":22.921387,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0444\u0430\u0442"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"039e4f8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":683034,
         "gp:id":868624,
-        "qs:id":1028140,
         "qs_pg:id":1028140,
         "wd:id":"Q16898253"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576457,
+    "wof:lastmodified":1566611037,
     "wof:name":"Calafat",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

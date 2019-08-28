@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.877427,
     "lbl:longitude":26.41713,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.877427,
     "mps:longitude":26.41713,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cut"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":679875,
         "gp:id":870932,
-        "qs:id":478406,
         "qs_pg:id":478406,
         "wd:id":"Q12116113"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101754017,
-    "wof:lastmodified":1563575465,
+    "wof:lastmodified":1566610689,
     "wof:name":"Cut",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

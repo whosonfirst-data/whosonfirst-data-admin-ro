@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":44.989885,
     "lbl:longitude":28.929893,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.989885,
     "mps:longitude":28.929893,
     "mz:hierarchy_label":1,
@@ -234,7 +235,7 @@
     "name:ukr_x_variant":[
         "\u0422\u0443\u043b\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jude\u0163ul Tulcea"
     ],
     "name:urd_x_preferred":[
@@ -322,9 +323,9 @@
     "qs:type":"Jude\u0163",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"8,499",
     "statoids:area_mi":"3,281",
     "statoids:as_of_date":"2011-10-22",
@@ -367,11 +368,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565733812,
+    "wof:lastmodified":1566610024,
     "wof:name":"Tulcea",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":213083,
     "wof:population_rank":10,

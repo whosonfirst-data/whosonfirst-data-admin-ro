@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.337566,
     "lbl:longitude":26.57637,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.337566,
     "mps:longitude":26.57637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uda"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,9 +65,11 @@
     "wof:concordances":{
         "gn:id":664385,
         "gp:id":882326,
-        "qs:id":4,
-        "qs_pg:id":275191,
+        "qs_pg:id":4,
         "wd:id":"Q12163457"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275191
     },
     "wof:country":"RO",
     "wof:geomhash":"f1046213c0cf72b18fd451ce7a404aaf",
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":101834143,
-    "wof:lastmodified":1563576012,
+    "wof:lastmodified":1566610883,
     "wof:name":"Uda",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

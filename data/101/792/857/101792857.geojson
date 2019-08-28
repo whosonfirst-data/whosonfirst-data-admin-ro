@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.171044,
     "lbl:longitude":23.93257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.171044,
     "mps:longitude":23.93257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0438\u0434\u0435\u043d\u0438"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
         "fct:id":"03a588ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663968,
         "gp:id":882625,
-        "qs:id":262411,
         "qs_pg:id":262411,
         "wd:id":"Q1833002"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576524,
+    "wof:lastmodified":1566611060,
     "wof:name":"Vaideeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.45789,
     "lbl:longitude":25.821885,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.45789,
     "mps:longitude":25.821885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bolintin Deal"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u0456\u043d\u0442\u0456\u043d-\u0414\u044f\u043b"
     ],
-    "name:unk_x_variant":[
-        "Bolintinul"
-    ],
     "name:vie_x_preferred":[
         "Bolintin-Deal"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,6 @@
         "fct:id":"039dda28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684269,
         "gp:id":867718,
-        "qs:id":185200,
         "qs_pg:id":185200,
         "wd:id":"Q2717321"
     },
@@ -108,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575762,
+    "wof:lastmodified":1566610790,
     "wof:name":"Bolintin-Deal",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

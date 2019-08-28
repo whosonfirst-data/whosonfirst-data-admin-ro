@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.123482,
     "lbl:longitude":26.29448,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.123482,
     "mps:longitude":26.29448,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Seac\u0103"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":663421,
         "gp:id":883117,
-        "qs:id":971150,
+        "qs_pg:id":971150,
         "wd:id":"Q12087628"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101833555,
-    "wof:lastmodified":1563575912,
+    "wof:lastmodified":1566610848,
     "wof:name":"Valea Arini",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

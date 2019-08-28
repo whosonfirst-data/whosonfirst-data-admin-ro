@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.911816,
     "lbl:longitude":23.861454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.911816,
     "mps:longitude":23.861454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "G\u00e2ngiova"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0438\u043d\u0434\u0436\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "G\u00e2ngeova"
-    ],
     "name:vie_x_preferred":[
         "G\u00e2ngiova"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"03a078aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677256,
         "gp:id":872874,
-        "qs:id":1027863,
         "qs_pg:id":1027863,
         "wd:id":"Q1818721"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575742,
+    "wof:lastmodified":1566610783,
     "wof:name":"G\u00e2ngiova",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

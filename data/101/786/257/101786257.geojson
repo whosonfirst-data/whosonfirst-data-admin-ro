@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.143497,
     "lbl:longitude":24.063207,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.143497,
     "mps:longitude":24.063207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cire\u0219oaia"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":681601,
         "gp:id":869671,
-        "qs:id":988652,
+        "qs_pg:id":988652,
         "wd:id":"Q517234"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101786257,
-    "wof:lastmodified":1563576793,
+    "wof:lastmodified":1566611150,
     "wof:name":"Cire\u015foaia",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

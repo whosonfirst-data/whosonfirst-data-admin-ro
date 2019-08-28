@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.091668,
     "lbl:longitude":21.852378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.091668,
     "mps:longitude":21.852378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u0438\u043d\u0430"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0456\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Staierdorfanina"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u5c3c\u7d0d"
     ],
@@ -73,7 +73,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,7 @@
         "fct:id":"039d1b74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686324,
         "gp:id":15001298,
-        "qs:id":265451,
+        "qs_pg:id":265451,
         "wd:id":"Q16898169"
     },
     "wof:country":"RO",
@@ -102,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575753,
+    "wof:lastmodified":1566610787,
     "wof:name":"Anina",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

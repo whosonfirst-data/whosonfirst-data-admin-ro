@@ -9,17 +9,19 @@
     "geom:bbox":"25.91667,44.38333,25.91667,44.38333",
     "geom:latitude":44.38333,
     "geom:longitude":25.91667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":6393,
+    "gn:country":"RO",
+    "gn:fcode":"PPLX",
     "gn:population":6393,
     "iso:country":"RO",
+    "lbl:bbox":"25.91167,44.37833,25.92167,44.38833",
     "lbl:latitude":44.38333,
     "lbl:longitude":25.91667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Domne\u015fti-S\u00eerbi"
     ],
     "qs_pg:aaroncc":"RO",
@@ -34,7 +36,7 @@
     "qs_pg:qs_id":1027974,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +61,7 @@
         }
     ],
     "wof:id":1126093665,
-    "wof:lastmodified":1509411779,
+    "wof:lastmodified":1566611383,
     "wof:name":"Domne\u015fti-S\u00e2rbi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

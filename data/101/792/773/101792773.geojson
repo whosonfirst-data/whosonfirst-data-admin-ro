@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.841889,
     "lbl:longitude":25.53705,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.841889,
     "mps:longitude":25.53705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043d\u0433\u0435\u0442\u0443"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043d\u0434\u0436\u0435\u0442\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bungetul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":683262,
         "gp:id":868453,
-        "qs:id":424719,
+        "qs_pg:id":424719,
         "wd:id":"Q12085641"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101792773,
-    "wof:lastmodified":1563576592,
+    "wof:lastmodified":1566611081,
     "wof:name":"Bungetu",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

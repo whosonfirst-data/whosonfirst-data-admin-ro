@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.42683,
     "lbl:longitude":23.911513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.42683,
     "mps:longitude":23.911513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0646\u0643\u0627 \u0645\u0648\u0631\u064a\u0634\u0648\u0644\u0648\u064a"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":674384,
         "gp:id":874972,
-        "qs:id":127481,
         "qs_pg:id":127481,
         "wd:id":"Q949873"
     },
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101788387,
-    "wof:lastmodified":1563576749,
+    "wof:lastmodified":1566611136,
     "wof:name":"Lunca Mure\u015fului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

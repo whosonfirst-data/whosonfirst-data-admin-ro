@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.047681,
     "lbl:longitude":22.81845,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":45.047681,
     "mps:longitude":22.81845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103lug\u0103reni"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":682908,
         "gp:id":876966,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12109486"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101845113,
-    "wof:lastmodified":1563575689,
+    "wof:lastmodified":1566610764,
     "wof:name":"C\u0103lugareni",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

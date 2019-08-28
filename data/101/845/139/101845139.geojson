@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.80139,
     "lbl:longitude":24.83938,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.80139,
     "mps:longitude":24.83938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0628\u0648\u062a\u0627"
     ],
@@ -84,7 +87,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":873444,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2348255"
     },
     "wof:country":"RO",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101845139,
-    "wof:lastmodified":1563575676,
+    "wof:lastmodified":1566610759,
     "wof:name":"Albota",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.829042,
     "lbl:longitude":24.794717,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.829042,
     "mps:longitude":24.794717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Olteanca"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0442\u044f\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olteanca din Deal"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":671856,
         "gp:id":876828,
-        "qs:id":411899,
+        "qs_pg:id":411899,
         "wd:id":"Q12135779"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101835483,
-    "wof:lastmodified":1563575731,
+    "wof:lastmodified":1566610779,
     "wof:name":"Olteanca",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

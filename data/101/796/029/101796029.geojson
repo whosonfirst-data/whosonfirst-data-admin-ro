@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.042949,
     "lbl:longitude":25.08723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.042949,
     "mps:longitude":25.08723,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Peretu"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0442\u0443"
     ],
-    "name:unk_x_variant":[
-        "Peretul"
-    ],
     "name:vie_x_preferred":[
         "Peretu"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"03a2d064-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671145,
         "gp:id":877354,
-        "qs:id":766435,
         "qs_pg:id":766435,
         "wd:id":"Q957788"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575645,
+    "wof:lastmodified":1566610749,
     "wof:name":"Peretu",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

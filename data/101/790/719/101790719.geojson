@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.401147,
     "lbl:longitude":27.010553,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.401147,
     "mps:longitude":27.010553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Topliceni"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043f\u043b\u0456\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zgirci\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a53e9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664755,
         "gp:id":882056,
-        "qs:id":413235,
         "qs_pg:id":413235,
         "wd:id":"Q12161977"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575436,
+    "wof:lastmodified":1566610679,
     "wof:name":"Topliceni",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

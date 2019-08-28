@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.103854,
     "lbl:longitude":27.373946,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.103854,
     "mps:longitude":27.373946,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0631\u0644\u064a\u0634\u062a\u064a"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":675999,
         "gp:id":873781,
-        "qs:id":127551,
         "qs_pg:id":127551,
         "wd:id":"Q1055169"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101783807,
-    "wof:lastmodified":1563576201,
+    "wof:lastmodified":1566610949,
     "wof:name":"Horle\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

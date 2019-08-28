@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.06471,
     "lbl:longitude":25.982141,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.06471,
     "mps:longitude":25.982141,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Stejarul"
     ],
@@ -41,9 +44,6 @@
     "name:srp_x_preferred":[
         "\u041f\u043b\u043e\u043f\u0435\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "Stejarul"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Prahova",
     "qs:a1r":"0",
@@ -60,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +72,6 @@
         "fct:id":"03a74572-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670467,
         "gp:id":877879,
-        "qs:id":127268,
         "qs_pg:id":127268,
         "wd:id":"Q16898485"
     },
@@ -87,7 +86,7 @@
         }
     ],
     "wof:id":101791789,
-    "wof:lastmodified":1563575618,
+    "wof:lastmodified":1566610740,
     "wof:name":"Plopeni",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

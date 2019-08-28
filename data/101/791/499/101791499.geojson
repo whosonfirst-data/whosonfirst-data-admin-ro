@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.6458,
     "lbl:longitude":28.676857,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.6458,
     "mps:longitude":28.676857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0647\u0627\u064a \u0641\u064a\u062a\u064a\u0627\u0632\u0648"
     ],
@@ -57,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0430\u0439-\u0412\u0456\u0442\u044f\u0437\u0443"
     ],
-    "name:unk_x_variant":[
-        "Mihaiu Viteazul"
-    ],
     "name:vie_x_preferred":[
         "Mihai Viteazu"
     ],
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,6 @@
         "fct:id":"03a1f234-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673367,
         "gp:id":875711,
-        "qs:id":127423,
         "qs_pg:id":127423,
         "wd:id":"Q1176862"
     },
@@ -112,7 +111,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575524,
+    "wof:lastmodified":1566610710,
     "wof:name":"Mihai Viteazu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.070407,
     "lbl:longitude":21.618418,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.070407,
     "mps:longitude":21.618418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Neudorf"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0439\u0434\u043e\u0440\u0444"
     ],
-    "name:unk_x_variant":[
-        "Temes\u00fajfalu"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Arad",
     "qs:a1r":"0",
@@ -65,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +76,7 @@
     "wof:concordances":{
         "gn:id":672290,
         "gp:id":876502,
-        "qs:id":883758,
+        "qs_pg:id":883758,
         "wd:id":"Q572409"
     },
     "wof:country":"RO",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101791065,
-    "wof:lastmodified":1563575516,
+    "wof:lastmodified":1566610707,
     "wof:name":"Neudorf",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

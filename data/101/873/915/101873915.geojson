@@ -10,12 +10,16 @@
     "geom:latitude":44.200468,
     "geom:longitude":27.418265,
     "iso:country":"RO",
+    "lbl:bbox":"27.398265,44.180468,27.438265,44.220468",
     "lbl:latitude":44.200468,
     "lbl:longitude":27.418265,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.200468,
     "mps:longitude":27.418265,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tonea"
     ],
@@ -47,7 +51,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -58,7 +62,7 @@
         "fct:id":"03a53b6a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664786,
         "gp:id":882032,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12161950"
     },
     "wof:country":"RO",
@@ -75,7 +79,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830739,
+    "wof:lastmodified":1566610765,
     "wof:name":"Tonea",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

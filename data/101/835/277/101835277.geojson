@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.795746,
     "lbl:longitude":24.228094,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.795746,
     "mps:longitude":24.228094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Orle\u0219ti"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u043b\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valea Bisericii"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":671705,
         "gp:id":876939,
-        "qs:id":275243,
         "qs_pg:id":275243,
         "wd:id":"Q12136362"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101835277,
-    "wof:lastmodified":1563575789,
+    "wof:lastmodified":1566610800,
     "wof:name":"Orle\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.706009,
     "lbl:longitude":21.20909,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.706009,
     "mps:longitude":21.20909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chi\u0219oda"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0448\u043e\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kisoda"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -64,7 +67,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":682001,
         "gp:id":869373,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q550415"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101753963,
-    "wof:lastmodified":1563575471,
+    "wof:lastmodified":1566610691,
     "wof:name":"Chisoda",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

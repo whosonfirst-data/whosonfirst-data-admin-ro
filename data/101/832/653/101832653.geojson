@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.687664,
     "lbl:longitude":26.031659,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.687664,
     "mps:longitude":26.031659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Solone\u021b"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":666488,
         "gp:id":15002345,
-        "qs:id":955179,
+        "qs_pg:id":955179,
         "wd:id":"Q12154460"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101832653,
-    "wof:lastmodified":1563575859,
+    "wof:lastmodified":1566610827,
     "wof:name":"Solone\u0163",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.531155,
     "lbl:longitude":26.198664,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.531155,
     "mps:longitude":26.198664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Camenca"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cam\u00e2nca"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":682857,
         "gp:id":868742,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q12108154"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101835065,
-    "wof:lastmodified":1563575739,
+    "wof:lastmodified":1566610782,
     "wof:name":"Camenca",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

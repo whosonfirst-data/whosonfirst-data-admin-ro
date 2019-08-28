@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.120908,
     "lbl:longitude":21.592957,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.120908,
     "mps:longitude":21.592957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gr\u0103dinari"
     ],
@@ -78,9 +81,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0435\u0434\u0456\u043d\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Cacovo"
-    ],
     "name:vol_x_preferred":[
         "Gr\u0103dinari"
     ],
@@ -100,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -112,7 +112,6 @@
         "fct:id":"03a0a1b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676830,
         "gp:id":873170,
-        "qs:id":262321,
         "qs_pg:id":262321,
         "wd:id":"Q75530"
     },
@@ -130,7 +129,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576250,
+    "wof:lastmodified":1566610965,
     "wof:name":"Gr\u0103dinari",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

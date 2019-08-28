@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.94091,
     "lbl:longitude":25.564346,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.94091,
     "mps:longitude":25.564346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gura Ocni\u021bei"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u0430-\u041e\u043a\u043d\u0456\u0446\u0435\u0439"
     ],
-    "name:unk_x_variant":[
-        "Gura Ocnitei"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*D\u00e2mbovita",
     "qs:a1r":"0",
@@ -61,7 +61,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +73,7 @@
         "fct:id":"03a0bb6c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676506,
         "gp:id":873407,
-        "qs:id":410959,
+        "qs_pg:id":410959,
         "wd:id":"Q4684614"
     },
     "wof:country":"RO",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575474,
+    "wof:lastmodified":1566610692,
     "wof:name":"Gura Ocn\u0163tei",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.634777,
     "lbl:longitude":27.380961,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.634777,
     "mps:longitude":27.380961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bo\u021b\u00e2rl\u0103u"
     ],
@@ -34,7 +37,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0446\u0438\u0440\u043b\u0435\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bo\u0163\u00eerl\u0103u"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -51,7 +54,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":684057,
         "gp:id":867877,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12084423"
     },
     "wof:country":"RO",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101786035,
-    "wof:lastmodified":1561830827,
+    "wof:lastmodified":1566611160,
     "wof:name":"Bot\u00e2rl\u0103u",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

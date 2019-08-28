@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.147772,
     "lbl:longitude":26.730431,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.147772,
     "mps:longitude":26.730431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ulmeni"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a568ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664314,
         "gp:id":882380,
-        "qs:id":275187,
         "qs_pg:id":275187,
         "wd:id":"Q2716801"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576478,
+    "wof:lastmodified":1566611043,
     "wof:name":"Ulmeni",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

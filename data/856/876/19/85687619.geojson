@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":44.98217,
     "lbl:longitude":23.383098,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.98217,
     "mps:longitude":23.383098,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "name:ron_x_preferred":[
         "Jude\u021bul Gorj"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jude\u0163ul Gorj"
     ],
     "ne:abbrev":"",
@@ -106,9 +107,9 @@
     "qs:type":"Jude\u0163",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-22",
+    "src:population_date":"2011-10-22",
     "statoids:area_km":"5,602",
     "statoids:area_mi":"2,163",
     "statoids:as_of_date":"2011-10-22",
@@ -151,11 +152,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565733811,
+    "wof:lastmodified":1566610020,
     "wof:name":"Gorj",
     "wof:parent_id":85633745,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":341594,
     "wof:population_rank":10,

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.937982,
     "lbl:longitude":25.671849,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.937982,
     "mps:longitude":25.671849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0445\u0438\u0440\u0434\u043e\u0432\u0435\u043d\u0438"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":677323,
         "gp:id":872827,
-        "qs:id":410802,
+        "qs_pg:id":410802,
         "wd:id":"Q12099068"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101835731,
-    "wof:lastmodified":1563575720,
+    "wof:lastmodified":1566610775,
     "wof:name":"Ghirdoveni",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

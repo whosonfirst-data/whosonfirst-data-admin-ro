@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.331442,
     "lbl:longitude":26.459781,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.331442,
     "mps:longitude":26.459781,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oniceni"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0456\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naimon"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,9 +71,11 @@
     "wof:concordances":{
         "gn:id":671800,
         "gp:id":876864,
-        "qs:id":1092466,
-        "qs_pg:id":1279040,
+        "qs_pg:id":1092466,
         "wd:id":"Q12136009"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1279040
     },
     "wof:country":"RO",
     "wof:geomhash":"29b8ec794011c862f91564eff5ce9994",
@@ -83,7 +88,7 @@
         }
     ],
     "wof:id":101783917,
-    "wof:lastmodified":1563576213,
+    "wof:lastmodified":1566610953,
     "wof:name":"Oniceni",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

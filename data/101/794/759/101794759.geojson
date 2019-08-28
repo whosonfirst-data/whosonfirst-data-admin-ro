@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.432117,
     "lbl:longitude":23.615401,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.432117,
     "mps:longitude":23.615401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Co\u021bofenii din Dos"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,9 +77,11 @@
     "wof:concordances":{
         "gn:id":680481,
         "gp:id":870498,
-        "qs:id":262456,
         "qs_pg:id":127756,
         "wd:id":"Q1958148"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":262456
     },
     "wof:country":"RO",
     "wof:geomhash":"56e8a5f531b7da00785fb0c73f08e364",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101794759,
-    "wof:lastmodified":1563576383,
+    "wof:lastmodified":1566611014,
     "wof:name":"Co\u0163ofenii din Dos",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

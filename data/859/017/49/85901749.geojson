@@ -10,8 +10,10 @@
     "geom:latitude":47.769714,
     "geom:longitude":22.898403,
     "iso:country":"RO",
+    "lbl:bbox":"22.893403,47.764714,22.903403,47.774714",
     "lbl:latitude":47.769714,
     "lbl:longitude":22.898403,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.7865,
     "mps:longitude":22.881775,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:rum_x_colloquial":[
         "Cucu-Martinesti"
-    ],
-    "name:unk_x_variant":[
-        "Cucu-M\u0103rtine\u0219ti"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -82,7 +81,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830677,
+    "wof:lastmodified":1566610004,
     "wof:name":"Cucu-M\u0103rtine\u0219ti",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

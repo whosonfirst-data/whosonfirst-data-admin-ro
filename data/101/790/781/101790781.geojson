@@ -9,17 +9,19 @@
     "geom:bbox":"28.7986205081,44.8745470049,28.827487389,44.8870949374",
     "geom:latitude":44.88018,
     "geom:longitude":28.814878,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":1258,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RO",
     "lbl:latitude":44.879332,
     "lbl:longitude":28.817065,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.879332,
     "mps:longitude":28.817065,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
     ],
@@ -53,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043d\u0456\u0441\u0430\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yeni sala"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -90,7 +92,7 @@
     "qs_pg:woe_id":871902,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +103,6 @@
     "wof:concordances":{
         "gn:id":678568,
         "gp:id":871902,
-        "qs:id":478411,
         "qs_pg:id":478411,
         "wd:id":"Q989764"
     },
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":101790781,
-    "wof:lastmodified":1563575435,
+    "wof:lastmodified":1566610678,
     "wof:name":"Enisala",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

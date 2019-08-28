@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.872497,
     "lbl:longitude":26.808647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.872497,
     "mps:longitude":26.808647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ungureni"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":194,
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101781465,
-    "wof:lastmodified":1561830823,
+    "wof:lastmodified":1566611140,
     "wof:name":"Ungureni",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

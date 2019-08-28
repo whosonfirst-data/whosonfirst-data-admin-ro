@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.233491,
     "lbl:longitude":25.938493,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.233491,
     "mps:longitude":25.938493,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Slanicul"
     ],
@@ -32,9 +35,6 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u043b\u0430\u043d\u0438\u043a"
-    ],
-    "name:unk_x_variant":[
-        "Slanicul"
     ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Prahova",
@@ -52,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +64,6 @@
         "fct:id":"03a47c20-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666775,
         "gp:id":880578,
-        "qs:id":492240,
         "qs_pg:id":492240,
         "wd:id":"Q16898487"
     },
@@ -82,7 +81,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576048,
+    "wof:lastmodified":1566610895,
     "wof:name":"Sl\u0103nic",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

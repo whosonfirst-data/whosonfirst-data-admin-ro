@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.384747,
     "lbl:longitude":22.885203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.384747,
     "mps:longitude":22.885203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chie\u0219d"
     ],
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":682136,
         "gp:id":869274,
-        "qs:id":127851,
         "qs_pg:id":127851,
         "wd:id":"Q1188939"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101786105,
-    "wof:lastmodified":1563576780,
+    "wof:lastmodified":1566611146,
     "wof:name":"Chie\u015fd",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

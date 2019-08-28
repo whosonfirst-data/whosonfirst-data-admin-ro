@@ -11,12 +11,16 @@
     "geom:longitude":25.417375,
     "gn:population":2396,
     "iso:country":"RO",
+    "lbl:bbox":"25.397375,44.942337,25.437375,44.982337",
     "lbl:latitude":44.962337,
     "lbl:longitude":25.417375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.962337,
     "mps:longitude":25.417375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tei\u0219"
     ],
@@ -41,7 +45,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0439\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tei\u015fu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":665341,
         "gp:id":881621,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12160316"
     },
     "wof:country":"RO",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":101873919,
-    "wof:lastmodified":1563575696,
+    "wof:lastmodified":1566610766,
     "wof:name":"Tei\u015f",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

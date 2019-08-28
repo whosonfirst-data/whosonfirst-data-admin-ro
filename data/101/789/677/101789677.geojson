@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.380091,
     "lbl:longitude":22.071356,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.380091,
     "mps:longitude":22.071356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0633\u0627"
     ],
@@ -69,9 +72,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0440\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Barza"
-    ],
     "name:vol_x_preferred":[
         "S\u00e2nmartin"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,6 @@
         "fct:id":"039daa58-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684774,
         "gp:id":867357,
-        "qs:id":127981,
         "qs_pg:id":127981,
         "wd:id":"Q791066"
     },
@@ -124,7 +123,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576986,
+    "wof:lastmodified":1566611218,
     "wof:name":"B\u00e2rsa",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

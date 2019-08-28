@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.722182,
     "lbl:longitude":21.617617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.722182,
     "mps:longitude":21.617617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430 \u0412\u0435\u043a\u0435"
     ],
@@ -51,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0430-\u0412\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
-        "Stara Moldava"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Caras-Severin",
     "qs:a1r":"0",
@@ -68,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -79,7 +79,7 @@
         "fct:id":"03a222ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672909,
         "gp:id":876065,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q675152"
     },
     "wof:country":"RO",
@@ -96,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830796,
+    "wof:lastmodified":1566611037,
     "wof:name":"Moldova Veche",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.802448,
     "lbl:longitude":28.429987,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.802448,
     "mps:longitude":28.429987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u0628\u064a\u0634\u062a"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sarighial"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +101,6 @@
     "wof:concordances":{
         "gn:id":686568,
         "gp:id":866102,
-        "qs:id":128144,
         "qs_pg:id":128144,
         "wd:id":"Q579707"
     },
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":101795113,
-    "wof:lastmodified":1563576497,
+    "wof:lastmodified":1566611049,
     "wof:name":"Albe\u015fti",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.119095,
     "lbl:longitude":26.078068,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.119095,
     "mps:longitude":26.078068,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0435\u0442"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0435\u0442"
     ],
-    "name:unk_x_variant":[
-        "Gornetul-Cuib"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Prahova",
     "qs:a1r":"0",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +78,6 @@
         "fct:id":"03a09b82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676890,
         "gp:id":873129,
-        "qs:id":1278590,
         "qs_pg:id":1278590,
         "wd:id":"Q14077934"
     },
@@ -96,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575536,
+    "wof:lastmodified":1566610714,
     "wof:name":"Gornet",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

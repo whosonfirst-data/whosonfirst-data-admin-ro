@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.666722,
     "lbl:longitude":24.263667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.666722,
     "mps:longitude":24.263667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "T\u0103lmaciu"
     ],
@@ -41,9 +44,6 @@
     "name:srp_x_preferred":[
         "\u0422\u0430\u043b\u043c\u0430\u0447\u0443"
     ],
-    "name:unk_x_variant":[
-        "Talmesch"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Sibiu",
     "qs:a1r":"0",
@@ -58,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +70,7 @@
         "fct:id":"03a4e818-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665606,
         "gp:id":881426,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q16898539"
     },
     "wof:country":"RO",
@@ -87,7 +87,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575401,
+    "wof:lastmodified":1566610667,
     "wof:name":"T\u0103lmaciu",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

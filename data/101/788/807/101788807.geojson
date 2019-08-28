@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.775019,
     "lbl:longitude":21.933303,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.775019,
     "mps:longitude":21.933303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tinca"
     ],
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"03a51cde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665072,
         "gp:id":881814,
-        "qs:id":890904,
+        "qs_pg:id":890904,
         "wd:id":"Q1093201"
     },
     "wof:country":"RO",
@@ -105,7 +108,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576730,
+    "wof:lastmodified":1566611130,
     "wof:name":"Tinca",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

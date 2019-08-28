@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.20279,
     "lbl:longitude":21.60434,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.20279,
     "mps:longitude":21.60434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Cov\u0103s\u00e2n\u021b"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0435\u0441\u0438\u043d\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podgoria"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":680432,
         "gp:id":870541,
-        "qs:id":1028040,
         "qs_pg:id":1028040,
         "wd:id":"Q1120529"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101791025,
-    "wof:lastmodified":1563575512,
+    "wof:lastmodified":1566610706,
     "wof:name":"Cov\u0103sin\u0163",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

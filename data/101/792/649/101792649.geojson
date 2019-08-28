@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.669036,
     "lbl:longitude":26.741361,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.669036,
     "mps:longitude":26.741361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bro\u0219teni"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":683650,
         "gp:id":868182,
-        "qs:id":884533,
+        "qs_pg:id":884533,
         "wd:id":"Q12085025"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101792649,
-    "wof:lastmodified":1563576565,
+    "wof:lastmodified":1566611073,
     "wof:name":"Bro\u015fteni",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

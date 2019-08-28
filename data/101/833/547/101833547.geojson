@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.10913,
     "lbl:longitude":26.343178,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.10913,
     "mps:longitude":26.343178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ghind\u0103oani"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043d\u0434\u0435\u043e\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vasile-Conta"
     ],
     "name:vol_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101833547,
-    "wof:lastmodified":1563575948,
+    "wof:lastmodified":1566610860,
     "wof:name":"Ghind\u0103oani",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

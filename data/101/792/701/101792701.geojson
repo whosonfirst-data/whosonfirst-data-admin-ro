@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.490223,
     "lbl:longitude":21.852699,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.490223,
     "mps:longitude":21.852699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "F\u00e2rliug"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0438\u0440\u043b\u0456\u0443\u0433"
     ],
-    "name:unk_x_variant":[
-        "F\u00eerliug"
-    ],
     "name:vie_x_preferred":[
         "F\u00e2rliug"
     ],
@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,6 @@
         "fct:id":"03a0245e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":678120,
         "gp:id":872233,
-        "qs:id":180518,
         "qs_pg:id":180518,
         "wd:id":"Q256526"
     },
@@ -118,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576503,
+    "wof:lastmodified":1566611051,
     "wof:name":"F\u0103rliug",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

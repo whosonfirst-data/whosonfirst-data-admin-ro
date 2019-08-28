@@ -14,10 +14,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.249742,
     "lbl:longitude":26.724334,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.249742,
     "mps:longitude":26.724334,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Pa\u0219cani"
     ],
@@ -46,7 +49,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":6945426,
         "gp:id":877243,
-        "qs:id":653155,
         "qs_pg:id":653155,
         "wd:id":"Q16898352"
     },
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101833793,
-    "wof:lastmodified":1563575913,
+    "wof:lastmodified":1566610848,
     "wof:name":"Pa\u015fcani",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

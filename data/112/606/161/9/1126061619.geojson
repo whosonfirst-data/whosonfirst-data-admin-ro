@@ -9,20 +9,22 @@
     "geom:bbox":"22.58333,46.46667,22.58333,46.46667",
     "geom:latitude":46.46667,
     "geom:longitude":22.58333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
-    "gn:population":149,
+    "gn:country":"RO",
+    "gn:fcode":"PPLX",
+    "gn:population":0,
     "iso:country":"RO",
+    "lbl:bbox":"22.57833,46.46167,22.58833,46.47167",
     "lbl:latitude":46.46667,
     "lbl:longitude":22.58333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ron_x_preferred":[
         "B\u0103i\u021ba-Plai"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9zb\u00e1nya"
     ],
     "qs_pg:aaroncc":"RO",
@@ -46,7 +48,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":866674,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1126061619,
-    "wof:lastmodified":1509410228,
+    "wof:lastmodified":1566611364,
     "wof:name":"B\u0103i\u021ba-Plai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

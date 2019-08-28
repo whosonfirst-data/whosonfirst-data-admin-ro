@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.83059,
     "lbl:longitude":23.267727,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.83059,
     "mps:longitude":23.267727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Pe\u0219teana de Jos"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0448\u0442\u044f\u043d\u0430-\u0434\u0435-\u0416\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pe\u015fteana"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -52,7 +55,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":671073,
         "gp:id":877400,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12140430"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101845105,
-    "wof:lastmodified":1563575657,
+    "wof:lastmodified":1566610753,
     "wof:name":"Pe\u015fteana de Jos",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

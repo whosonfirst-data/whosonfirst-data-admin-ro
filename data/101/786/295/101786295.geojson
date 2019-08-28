@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.415215,
     "lbl:longitude":22.935183,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.415215,
     "mps:longitude":22.935183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0430\u043d\u0434"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
-        "Bogdan"
-    ],
     "name:vie_x_preferred":[
         "Bogdand"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"039dce2a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684406,
         "gp:id":867621,
-        "qs:id":409450,
         "qs_pg:id":409450,
         "wd:id":"Q833343"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576796,
+    "wof:lastmodified":1566611151,
     "wof:name":"Bogdand",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

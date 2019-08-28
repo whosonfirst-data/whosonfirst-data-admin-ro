@@ -9,15 +9,18 @@
     "geom:bbox":"22.51667,46.31667,22.51667,46.31667",
     "geom:latitude":46.31667,
     "geom:longitude":22.51667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":3247,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":3247,
     "iso:country":"RO",
+    "lbl:bbox":"22.49667,46.29667,22.53667,46.33667",
     "lbl:latitude":46.31667,
     "lbl:longitude":22.51667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0641\u0648\u0631\u064a\u0644\u0647"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0440\u0444\u0443\u0440\u0456\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cs\u00facs"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +89,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":883631,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1126020337,
-    "wof:lastmodified":1563577133,
+    "wof:lastmodified":1566611290,
     "wof:name":"V\u00eerfurile",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

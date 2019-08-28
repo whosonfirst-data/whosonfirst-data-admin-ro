@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.013311,
     "lbl:longitude":23.435218,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.013311,
     "mps:longitude":23.435218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Boureni"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":684017,
         "gp:id":867902,
-        "qs:id":409547,
+        "qs_pg:id":409547,
         "wd:id":"Q12084404"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101795881,
-    "wof:lastmodified":1563576450,
+    "wof:lastmodified":1566611035,
     "wof:name":"Boureni",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

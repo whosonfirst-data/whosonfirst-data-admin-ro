@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.300909,
     "lbl:longitude":24.456586,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.300909,
     "mps:longitude":24.456586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Coteana"
     ],
@@ -44,9 +47,6 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u0442\u0435\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Ion I. C. Bratianu"
-    ],
     "name:vie_x_preferred":[
         "Coteana"
     ],
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +81,6 @@
         "fct:id":"039f403e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":680520,
         "gp:id":870470,
-        "qs:id":127759,
         "qs_pg:id":127759,
         "wd:id":"Q2542044"
     },
@@ -99,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576443,
+    "wof:lastmodified":1566611032,
     "wof:name":"Coteana",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

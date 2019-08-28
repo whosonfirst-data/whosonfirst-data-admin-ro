@@ -11,12 +11,16 @@
     "geom:longitude":24.902087,
     "gn:population":1121,
     "iso:country":"RO",
+    "lbl:bbox":"24.882087,43.936545,24.922087,43.976545",
     "lbl:latitude":43.956545,
     "lbl:longitude":24.902087,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.956545,
     "mps:longitude":24.902087,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tudor Vladimirescu"
     ],
@@ -38,7 +42,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0434\u043e\u0440-\u0412\u043b\u0430\u0434\u0456\u043c\u0456\u0440\u0435\u0441\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Principele Ferdinand"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":664570,
         "gp:id":882199,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12162758"
     },
     "wof:country":"RO",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101855765,
-    "wof:lastmodified":1563576644,
+    "wof:lastmodified":1566611101,
     "wof:name":"Tudor Vladimirescu",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

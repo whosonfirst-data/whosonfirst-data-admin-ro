@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.375152,
     "lbl:longitude":24.66291,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.375152,
     "mps:longitude":24.66291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Borcutului"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":663892,
         "gp:id":880403,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q12087411"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101833611,
-    "wof:lastmodified":1563575892,
+    "wof:lastmodified":1566610840,
     "wof:name":"Valea Borcutului",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

@@ -9,14 +9,16 @@
     "geom:bbox":"25.433899,45.708096,25.433899,45.708096",
     "geom:latitude":45.708096,
     "geom:longitude":25.433899,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"RO",
+    "gn:fcode":"PPLX",
     "gn:latitude":45.7,
     "gn:longitude":25.43333,
+    "gn:population":0,
     "iso:country":"RO",
+    "lbl:bbox":"25.428899,45.703096,25.438899,45.713096",
     "lbl:latitude":45.708096,
     "lbl:longitude":25.433899,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.699607,
     "mps:longitude":25.44711,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:rum_x_colloquial":[
         "Colonia Tiganilor"
-    ],
-    "name:unk_x_variant":[
-        "Colonia \u0162iganilor"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
@@ -85,7 +84,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -95,13 +94,12 @@
     "wof:concordances":{
         "gn:id":681063,
         "gp:id":870073,
-        "qs:id":57986,
-        "qs_pg:id":1067251
+        "qs_pg:id":57986
     },
     "wof:concordances_alt":{
         "gn:id":681062,
         "gp:id":870075,
-        "qs_pg:id":57986
+        "qs_pg:id":1067251
     },
     "wof:country":"RO",
     "wof:geomhash":"847afdb5ff3b2de770490ff33bd8a270",
@@ -118,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830676,
+    "wof:lastmodified":1566610000,
     "wof:name":"Colonia \u0162iganilor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

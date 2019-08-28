@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.459281,
     "lbl:longitude":22.250245,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.459281,
     "mps:longitude":22.250245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u064a\u0627\u0633\u0627"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u044f\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Menyh\u00e1za"
-    ],
     "name:vie_x_preferred":[
         "Moneasa"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"03a22524-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672887,
         "gp:id":876079,
-        "qs:id":241103,
         "qs_pg:id":241103,
         "wd:id":"Q1092956"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576965,
+    "wof:lastmodified":1566611210,
     "wof:name":"Moneasa",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

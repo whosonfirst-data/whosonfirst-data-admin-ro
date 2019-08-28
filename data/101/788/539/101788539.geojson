@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.349858,
     "lbl:longitude":24.615999,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.349858,
     "mps:longitude":24.615999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Zag\u0103r"
     ],
@@ -66,9 +69,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0433\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Zagra"
-    ],
     "name:urd_x_preferred":[
         "\u0632\u06af\u0627\u0631"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,7 +103,6 @@
         "fct:id":"03a62d2c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662357,
         "gp:id":883920,
-        "qs:id":262418,
         "qs_pg:id":262418,
         "wd:id":"Q140478"
     },
@@ -121,7 +120,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576706,
+    "wof:lastmodified":1566611122,
     "wof:name":"Zag\u0103r",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

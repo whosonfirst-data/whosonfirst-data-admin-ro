@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.054102,
     "lbl:longitude":26.913276,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.054102,
     "mps:longitude":26.913276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0643\u064a\u062a\u064a\u0646\u064a"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":669373,
         "gp:id":878735,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q908024"
     },
     "wof:country":"RO",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101833719,
-    "wof:lastmodified":1563575950,
+    "wof:lastmodified":1566610860,
     "wof:name":"R\u0103chi\u0163eni",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

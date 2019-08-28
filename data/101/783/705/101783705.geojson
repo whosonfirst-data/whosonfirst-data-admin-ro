@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.798556,
     "lbl:longitude":22.986784,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.798556,
     "mps:longitude":22.986784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Odoreu"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0434\u043e\u0440\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "Odoreul"
-    ],
     "name:vie_x_preferred":[
         "Odoreu"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"03a27fb0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671966,
         "gp:id":876745,
-        "qs:id":127355,
         "qs_pg:id":127355,
         "wd:id":"Q1093639"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576185,
+    "wof:lastmodified":1566610945,
     "wof:name":"Odoreu",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

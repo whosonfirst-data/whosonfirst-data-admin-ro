@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.841084,
     "lbl:longitude":23.083163,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.841084,
     "mps:longitude":23.083163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dumbrava"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":678731,
         "gp:id":871750,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q12102848"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101783723,
-    "wof:lastmodified":1563576183,
+    "wof:lastmodified":1566610945,
     "wof:name":"Dumbrava",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

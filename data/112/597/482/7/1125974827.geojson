@@ -9,15 +9,18 @@
     "geom:bbox":"23.50559,44.29191,23.50559,44.29191",
     "geom:latitude":44.29191,
     "geom:longitude":23.50559,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1952,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1952,
     "iso:country":"RO",
+    "lbl:bbox":"23.48559,44.27191,23.52559,44.31191",
     "lbl:latitude":44.29191,
     "lbl:longitude":23.50559,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Terpezi\u021ba"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u043f\u0435\u0437\u0456\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Terezi\u0163a"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +80,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":881707,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125974827,
-    "wof:lastmodified":1563577303,
+    "wof:lastmodified":1566611343,
     "wof:name":"Terpezi\u021ba",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

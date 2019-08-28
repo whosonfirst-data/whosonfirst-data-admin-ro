@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.66026,
     "lbl:longitude":25.403111,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.66026,
     "mps:longitude":25.403111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Z\u0103voiu"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0432\u043e\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Z\u0103voiul-Orbului"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":662249,
         "gp:id":883997,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12106480"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101794051,
-    "wof:lastmodified":1563576400,
+    "wof:lastmodified":1566611020,
     "wof:name":"Z\u0103voiu",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

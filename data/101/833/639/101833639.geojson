@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.977169,
     "lbl:longitude":23.017082,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.977169,
     "mps:longitude":23.017082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u043c\u0435\u0443"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043b\u043c\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "Halmeriu"
-    ],
     "name:vie_x_preferred":[
         "Halmeu"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"03a0cb16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676351,
         "gp:id":873532,
-        "qs:id":411010,
         "qs_pg:id":411010,
         "wd:id":"Q1033053"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575940,
+    "wof:lastmodified":1566610857,
     "wof:name":"Halmeu",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

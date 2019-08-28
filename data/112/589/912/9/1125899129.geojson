@@ -9,15 +9,18 @@
     "geom:bbox":"27.18333,46.93333,27.18333,46.93333",
     "geom:latitude":46.93333,
     "geom:longitude":27.18333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4861,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
     "gn:population":4861,
     "iso:country":"RO",
+    "lbl:bbox":"27.16333,46.91333,27.20333,46.95333",
     "lbl:latitude":46.93333,
     "lbl:longitude":27.18333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Poienile"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0454\u043d\u0456\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lingurari"
     ],
     "qs_pg:aaroncc":"RO",
@@ -52,7 +55,7 @@
     "qs_pg:qs_id":1027532,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1125899129,
-    "wof:lastmodified":1563577245,
+    "wof:lastmodified":1566611325,
     "wof:name":"Poienile",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

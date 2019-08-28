@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.756276,
     "lbl:longitude":27.303023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.756276,
     "mps:longitude":27.303023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "G\u00e2rceni"
     ],
@@ -54,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0438\u0440\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "G\u00eerceni"
-    ],
     "name:vie_x_preferred":[
         "G\u00e2rceni"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"03a07c38-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677213,
         "gp:id":872901,
-        "qs:id":127606,
         "qs_pg:id":127606,
         "wd:id":"Q2547494"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576789,
+    "wof:lastmodified":1566611149,
     "wof:name":"G\u00e2rceni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

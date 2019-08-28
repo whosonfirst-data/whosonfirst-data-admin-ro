@@ -9,15 +9,18 @@
     "geom:bbox":"22.05,46.95,22.05,46.95",
     "geom:latitude":46.95,
     "geom:longitude":22.05,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3262,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
     "gn:population":3262,
     "iso:country":"RO",
+    "lbl:bbox":"22.03,46.93,22.07,46.97",
     "lbl:latitude":46.95,
     "lbl:longitude":22.05,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Hidi\u0219elu de Sus"
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0456\u0434\u0456\u0448\u0435\u043b\u0443-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hidi\u015felul-de Sus"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +84,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":873640,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125835505,
-    "wof:lastmodified":1563577551,
+    "wof:lastmodified":1566611415,
     "wof:name":"Hidi\u0219elu de Sus",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

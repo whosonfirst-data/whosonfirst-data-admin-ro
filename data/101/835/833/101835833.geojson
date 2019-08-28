@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.088949,
     "lbl:longitude":24.274052,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.088949,
     "mps:longitude":24.274052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gura Suha\u0219ului"
     ],
@@ -32,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u0430-\u0421\u0443\u0445\u0430\u0448\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocnele Mari"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -50,7 +53,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101835833,
-    "wof:lastmodified":1563575751,
+    "wof:lastmodified":1566610787,
     "wof:name":"Gura Suha\u015fului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

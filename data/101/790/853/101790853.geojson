@@ -9,17 +9,19 @@
     "geom:bbox":"28.4343560937,45.2514965265,28.5053202618,45.2879344687",
     "geom:latitude":45.27043,
     "geom:longitude":28.463416,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":5375,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":5375,
     "iso:country":"RO",
     "lbl:latitude":45.270195,
     "lbl:longitude":28.454008,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.270195,
     "mps:longitude":28.454008,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u0441\u0430\u043a\u0447\u0430"
     ],
@@ -89,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0430\u043a\u0447\u0430"
     ],
-    "name:unk_x_variant":[
-        "Isakcha"
-    ],
     "name:vie_x_preferred":[
         "Isaccea"
     ],
@@ -132,7 +131,7 @@
     "qs_pg:woe_id":874138,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -144,7 +143,6 @@
         "fct:id":"03a1243a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675495,
         "gp:id":874138,
-        "qs:id":1036130,
         "qs_pg:id":1036130,
         "wd:id":"Q248018"
     },
@@ -162,7 +160,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575427,
+    "wof:lastmodified":1566610676,
     "wof:name":"Isaccea",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

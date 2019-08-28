@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.186504,
     "lbl:longitude":26.21365,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.186504,
     "mps:longitude":26.21365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u043d\u0430\u0440\u0438"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0456\u043d\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gostinarii-Belu"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":676860,
         "gp:id":873150,
-        "qs:id":1278597,
+        "qs_pg:id":1278597,
         "wd:id":"Q2717523"
     },
     "wof:country":"RO",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101836541,
-    "wof:lastmodified":1563576641,
+    "wof:lastmodified":1566611099,
     "wof:name":"Gostinari",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

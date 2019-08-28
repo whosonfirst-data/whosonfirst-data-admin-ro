@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.927805,
     "lbl:longitude":27.311013,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.927805,
     "mps:longitude":27.311013,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nicore\u0219ti"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u0440\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Targul Nicore\u015fti"
     ],
     "name:vol_x_preferred":[
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":672246,
         "gp:id":876534,
-        "qs:id":127383,
+        "qs_pg:id":127383,
         "wd:id":"Q2289436"
     },
     "wof:country":"RO",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101790019,
-    "wof:lastmodified":1563575420,
+    "wof:lastmodified":1566610673,
     "wof:name":"Nicore\u015fti",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

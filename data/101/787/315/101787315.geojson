@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.931309,
     "lbl:longitude":23.662618,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.931309,
     "mps:longitude":23.662618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bor\u0219a"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0448\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolozsoorsa"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":684159,
         "gp:id":15001503,
-        "qs:id":127952,
         "qs_pg:id":127952,
         "wd:id":"Q1089942"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101787315,
-    "wof:lastmodified":1563576871,
+    "wof:lastmodified":1566611176,
     "wof:name":"Bor\u015fa",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

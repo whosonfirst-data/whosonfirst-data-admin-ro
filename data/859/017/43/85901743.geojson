@@ -12,8 +12,10 @@
     "gn:latitude":46.56667,
     "gn:longitude":23.78333,
     "iso:country":"RO",
+    "lbl:bbox":"23.801623,46.570855,23.811623,46.580855",
     "lbl:latitude":46.575855,
     "lbl:longitude":23.806623,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.576419,
     "mps:longitude":23.81081,
     "mz:hierarchy_label":0,
@@ -76,9 +78,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0435\u0447\u0443\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
-        "Cr\u0103ciune\u0219ti"
-    ],
     "name:vie_x_preferred":[
         "Craciunesti"
     ],
@@ -116,7 +115,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -128,7 +127,6 @@
     "wof:concordances":{
         "gn:id":680364,
         "gp:id":870584,
-        "qs:id":1167556,
         "qs_pg:id":1167556,
         "wd:id":"Q5057526"
     },
@@ -147,7 +145,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574416,
+    "wof:lastmodified":1566610002,
     "wof:name":"Cr\u0103ciune\u0219ti",
     "wof:parent_id":101752021,
     "wof:placetype":"neighbourhood",

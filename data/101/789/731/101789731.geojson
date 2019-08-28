@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.622577,
     "lbl:longitude":21.774173,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.622577,
     "mps:longitude":21.774173,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0627\u062a\u064a\u0648"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +108,6 @@
         "fct:id":"039d1fe8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686279,
         "gp:id":866293,
-        "qs:id":275392,
         "qs_pg:id":275392,
         "wd:id":"Q1075817"
     },
@@ -123,7 +125,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576929,
+    "wof:lastmodified":1566611197,
     "wof:name":"Apateu",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

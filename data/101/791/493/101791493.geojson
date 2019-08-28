@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.5721,
     "lbl:longitude":28.711231,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.5721,
     "mps:longitude":28.711231,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u0633\u062a\u0631\u064a\u0627"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0442\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Caranasuf"
-    ],
     "name:vol_x_preferred":[
         "Istria"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,9 +97,11 @@
         "fct:id":"03a12642-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681497,
         "gp:id":874156,
-        "qs:id":1027781,
         "qs_pg:id":894024,
         "wd:id":"Q1079468"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027781
     },
     "wof:country":"RO",
     "wof:geomhash":"c89280450c6b3a3df378a549a8ce14c8",
@@ -115,7 +117,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575587,
+    "wof:lastmodified":1566610731,
     "wof:name":"Istria",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

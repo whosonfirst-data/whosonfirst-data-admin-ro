@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.196562,
     "lbl:longitude":24.850862,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.196562,
     "mps:longitude":24.850862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Socetu"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":666592,
         "gp:id":880712,
-        "qs:id":1279531,
+        "qs_pg:id":1279531,
         "wd:id":"Q12154855"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101836517,
-    "wof:lastmodified":1563576622,
+    "wof:lastmodified":1566611093,
     "wof:name":"Socetu",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

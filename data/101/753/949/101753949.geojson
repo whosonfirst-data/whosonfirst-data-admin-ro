@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.108418,
     "lbl:longitude":24.389185,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.108418,
     "mps:longitude":24.389185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Goranu"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0430\u043d\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goranul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -56,7 +59,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":676922,
         "gp:id":873108,
-        "qs:id":967675,
+        "qs_pg:id":967675,
         "wd:id":"Q15931660"
     },
     "wof:country":"RO",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101753949,
-    "wof:lastmodified":1563575475,
+    "wof:lastmodified":1566610693,
     "wof:name":"Goranu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

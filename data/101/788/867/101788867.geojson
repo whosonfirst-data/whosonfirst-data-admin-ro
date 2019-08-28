@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.118377,
     "lbl:longitude":27.558419,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.118377,
     "mps:longitude":27.558419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tutova"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0442\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dragalina"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
         "fct:id":"03a55f46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664404,
         "gp:id":15001291,
-        "qs:id":126766,
+        "qs_pg:id":126766,
         "wd:id":"Q2297470"
     },
     "wof:country":"RO",
@@ -105,7 +108,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576691,
+    "wof:lastmodified":1566611116,
     "wof:name":"Tutova",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

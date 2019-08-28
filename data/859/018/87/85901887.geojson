@@ -12,8 +12,10 @@
     "gn:latitude":45.28333,
     "gn:longitude":25.05,
     "iso:country":"RO",
+    "lbl:bbox":"25.039022,45.277858,25.049022,45.287858",
     "lbl:latitude":45.282858,
     "lbl:longitude":25.044022,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.280684,
     "mps:longitude":25.050817,
     "mz:hierarchy_label":0,
@@ -41,10 +43,6 @@
         "\u0218chei"
     ],
     "name:ron_x_variant":[
-        "Schei"
-    ],
-    "name:unk_x_variant":[
-        "Scheiul",
         "Schei"
     ],
     "qs:gn_adm0_cc":"RO",
@@ -75,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":323,
     "wof:belongsto":[
         102191581,
@@ -87,7 +85,6 @@
     "wof:concordances":{
         "gn:id":667709,
         "gp:id":879921,
-        "qs:id":43222,
         "qs_pg:id":43222,
         "wd:id":"Q925573"
     },
@@ -106,7 +103,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574398,
+    "wof:lastmodified":1566609993,
     "wof:name":"Schei",
     "wof:parent_id":101834549,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.873317,
     "lbl:longitude":26.652036,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.873317,
     "mps:longitude":26.652036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glodeanu-S\u0103rat"
     ],
@@ -54,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0434\u044f\u043d\u0443-\u0421\u0435\u0440\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Glodeanul S\u0103rat"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Buzau",
     "qs:a1r":"0",
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,6 @@
         "fct:id":"03a08c00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677049,
         "gp:id":873017,
-        "qs:id":127597,
         "qs_pg:id":127597,
         "wd:id":"Q3292576"
     },
@@ -103,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575505,
+    "wof:lastmodified":1566610703,
     "wof:name":"Glodeanu Sarat",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

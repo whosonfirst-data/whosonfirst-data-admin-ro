@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.291848,
     "lbl:longitude":28.142131,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.291848,
     "mps:longitude":28.142131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "F\u0103lciu"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u043b\u0447\u0443"
     ],
-    "name:unk_x_variant":[
-        "F\u0103lciu T\u00eerg"
-    ],
     "name:vie_x_preferred":[
         "Falciu"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"03a00226-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":678465,
         "gp:id":871979,
-        "qs:id":127670,
         "qs_pg:id":127670,
         "wd:id":"Q2662039"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576865,
+    "wof:lastmodified":1566611174,
     "wof:name":"F\u0103lciu",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

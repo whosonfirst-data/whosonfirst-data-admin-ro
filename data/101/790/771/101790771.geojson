@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.921276,
     "lbl:longitude":22.84784,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.921276,
     "mps:longitude":22.84784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0218oimu\u0219"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":666524,
         "gp:id":875872,
-        "qs:id":1027418,
         "qs_pg:id":1027418,
         "wd:id":"Q5053661"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101790771,
-    "wof:lastmodified":1563575391,
+    "wof:lastmodified":1566610664,
     "wof:name":"\u015eoimu\u015f",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

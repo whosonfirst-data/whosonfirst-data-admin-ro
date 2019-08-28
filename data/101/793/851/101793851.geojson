@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.12264,
     "lbl:longitude":23.144419,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.12264,
     "mps:longitude":23.144419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Runcu"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u043d\u043a\u0443"
     ],
-    "name:unk_x_variant":[
-        "Runcur"
-    ],
     "name:vie_x_preferred":[
         "Runcu"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,9 +84,11 @@
         "fct:id":"03a3d158-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668466,
         "gp:id":879379,
-        "qs:id":127129,
-        "qs_pg:id":1279336,
+        "qs_pg:id":127129,
         "wd:id":"Q2717749"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1279336
     },
     "wof:country":"RO",
     "wof:geomhash":"bf5dea0784dd26f421e8076436b18f3d",
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576269,
+    "wof:lastmodified":1566610972,
     "wof:name":"Runcu",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

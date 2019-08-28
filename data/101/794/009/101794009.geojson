@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.578186,
     "lbl:longitude":25.489402,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.578186,
     "mps:longitude":25.489402,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ungureni"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0433\u0443\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tudor Vladimirescu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":664247,
         "gp:id":882440,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q12164593"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101794009,
-    "wof:lastmodified":1563576363,
+    "wof:lastmodified":1566611006,
     "wof:name":"Ungureni",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

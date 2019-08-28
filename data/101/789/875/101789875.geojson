@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.073847,
     "lbl:longitude":25.60389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.073847,
     "mps:longitude":25.60389,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Baraolt"
     ],
@@ -43,9 +46,6 @@
     "name:srp_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043e\u043b\u0442"
     ],
-    "name:unk_x_variant":[
-        "Bara\u00f3t"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Covasna",
     "qs:a1r":"0",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +74,6 @@
         "fct:id":"039d6c6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685419,
         "gp:id":866901,
-        "qs:id":1083427,
         "qs_pg:id":1083427,
         "wd:id":"Q16898226"
     },
@@ -92,7 +91,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576940,
+    "wof:lastmodified":1566611201,
     "wof:name":"Baraolt",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

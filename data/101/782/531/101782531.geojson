@@ -9,14 +9,17 @@
     "geom:bbox":"23.9064627437,47.8746475113,23.9453935325,47.9013205584",
     "geom:latitude":47.886279,
     "geom:longitude":23.928724,
-    "geonames:id":"664006,664007",
+    "gn:id":"664006,664007",
     "iso:country":"RO",
     "lbl:latitude":47.888139,
     "lbl:longitude":23.930509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.888139,
     "mps:longitude":23.930509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vadu Izei"
     ],
@@ -82,7 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":882595,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q996521"
     },
     "wof:country":"RO",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101782531,
-    "wof:lastmodified":1563576141,
+    "wof:lastmodified":1566610931,
     "wof:name":"Vadu Izei",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

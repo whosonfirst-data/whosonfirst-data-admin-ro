@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.36298,
     "lbl:longitude":24.645738,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.36298,
     "mps:longitude":24.645738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Movileni"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0432\u0456\u043b\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Benga"
-    ],
     "name:vie_x_preferred":[
         "Movileni"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +93,6 @@
         "fct:id":"03a233a2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672734,
         "gp:id":876203,
-        "qs:id":1278957,
         "qs_pg:id":1278957,
         "wd:id":"Q2719514"
     },
@@ -111,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576460,
+    "wof:lastmodified":1566611038,
     "wof:name":"Movileni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

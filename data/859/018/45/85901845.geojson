@@ -10,8 +10,10 @@
     "geom:latitude":45.411949,
     "geom:longitude":28.023376,
     "iso:country":"RO",
+    "lbl:bbox":"28.018376,45.406949,28.028376,45.416949",
     "lbl:latitude":45.411949,
     "lbl:longitude":28.023376,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.410851,
     "mps:longitude":28.02243,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "name:rum_x_colloquial":[
         "Ostrovu Azaclaeu",
         "Ostrovu Azaclau"
-    ],
-    "name:unk_x_variant":[
-        "Ostrovu Azacl\u0103u"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -57,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752007,
@@ -83,7 +82,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830673,
+    "wof:lastmodified":1566609992,
     "wof:name":"Ostrovu Azacl\u0103u",
     "wof:parent_id":101752007,
     "wof:placetype":"neighbourhood",

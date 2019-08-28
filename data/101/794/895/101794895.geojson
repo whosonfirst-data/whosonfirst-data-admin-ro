@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.109741,
     "lbl:longitude":26.3384,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.109741,
     "mps:longitude":26.3384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Greaca"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a0a618-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676774,
         "gp:id":873212,
-        "qs:id":1027835,
         "qs_pg:id":1027835,
         "wd:id":"Q2717549"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576360,
+    "wof:lastmodified":1566611005,
     "wof:name":"Greaca",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

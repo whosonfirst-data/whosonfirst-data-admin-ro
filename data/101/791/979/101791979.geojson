@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.845569,
     "lbl:longitude":28.131266,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.845569,
     "mps:longitude":28.131266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u0103eni"
     ],
@@ -51,9 +54,6 @@
     "name:srp_x_preferred":[
         "\u0414\u0430\u0435\u043d\u0438"
     ],
-    "name:unk_x_variant":[
-        "D\u0103eni"
-    ],
     "name:vie_x_preferred":[
         "Daeni"
     ],
@@ -71,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,7 @@
         "fct:id":"039f836e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679830,
         "gp:id":870966,
-        "qs:id":262298,
+        "qs_pg:id":262298,
         "wd:id":"Q987294"
     },
     "wof:country":"RO",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575538,
+    "wof:lastmodified":1566610714,
     "wof:name":"Daeni",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

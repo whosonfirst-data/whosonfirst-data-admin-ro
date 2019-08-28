@@ -9,15 +9,18 @@
     "geom:bbox":"26.16667,44.38333,26.16667,44.38333",
     "geom:latitude":44.38333,
     "geom:longitude":26.16667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":15279,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":15279,
     "iso:country":"RO",
+    "lbl:bbox":"26.14667,44.36333,26.18667,44.40333",
     "lbl:latitude":44.38333,
     "lbl:longitude":26.16667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:azb_x_preferred":[
         "\u067e\u0648\u067e\u0634\u062a-\u0644\u0626\u0648\u0631\u062f\u0646"
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0435\u0448\u0442\u044c-\u041b\u0435\u043e\u0440\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pope\u015fti-Leurdeni"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":878365,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1126010913,
-    "wof:lastmodified":1564101502,
+    "wof:lastmodified":1566611368,
     "wof:name":"Pope\u0219ti-Leordeni",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

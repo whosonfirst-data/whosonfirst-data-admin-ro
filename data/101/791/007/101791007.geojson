@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.895834,
     "lbl:longitude":24.453368,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.895834,
     "mps:longitude":24.453368,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nocrich"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,6 @@
         "fct:id":"03a26a84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672176,
         "gp:id":876586,
-        "qs:id":127378,
         "qs_pg:id":127378,
         "wd:id":"Q1096317"
     },
@@ -114,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563993549,
+    "wof:lastmodified":1566610709,
     "wof:name":"Nocrich",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

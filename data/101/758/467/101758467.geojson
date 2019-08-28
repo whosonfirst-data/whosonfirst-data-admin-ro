@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.945522,
     "lbl:longitude":26.295756,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.945522,
     "mps:longitude":26.295756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bistri\u021ba"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":684658,
         "gp:id":867437,
-        "qs:id":1167541,
+        "qs_pg:id":1167541,
         "wd:id":"Q12087030"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101758467,
-    "wof:lastmodified":1563576336,
+    "wof:lastmodified":1566610994,
     "wof:name":"Bistri\u0163a",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

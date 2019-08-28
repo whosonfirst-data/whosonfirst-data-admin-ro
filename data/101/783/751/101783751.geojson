@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.725699,
     "lbl:longitude":24.360882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.725699,
     "mps:longitude":24.360882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Vi\u0219eu de Jos"
     ],
@@ -50,7 +53,7 @@
     "name:srp_x_preferred":[
         "\u0412\u0438\u0448\u0435\u0443 \u0434\u0435 \u0416\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vi\u015f\u0103ul-de-Jos"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":662702,
         "gp:id":882985,
-        "qs:id":275180,
+        "qs_pg:id":275180,
         "wd:id":"Q679924"
     },
     "wof:country":"RO",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101783751,
-    "wof:lastmodified":1563576189,
+    "wof:lastmodified":1566610946,
     "wof:name":"Vi\u015feu de Jos",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

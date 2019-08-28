@@ -12,8 +12,10 @@
     "gn:latitude":45.3,
     "gn:longitude":21.9,
     "iso:country":"RO",
+    "lbl:bbox":"21.883067,45.292164,21.893067,45.302164",
     "lbl:latitude":45.297164,
     "lbl:longitude":21.888067,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.297096,
     "mps:longitude":21.887067,
     "mz:hierarchy_label":0,
@@ -61,9 +63,6 @@
     "name:spa_x_preferred":[
         "Re\u0219i\u021ba"
     ],
-    "name:unk_x_variant":[
-        "Re\u0219i\u021ba Montana"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":668954,
@@ -91,7 +90,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101792695,
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gn:id":668952,
         "gp:id":879032,
-        "qs:id":1350797,
         "qs_pg:id":1350797
     },
     "wof:country":"RO",
@@ -120,7 +118,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830674,
+    "wof:lastmodified":1566609995,
     "wof:name":"Re\u0219i\u021ba Montana",
     "wof:parent_id":101792695,
     "wof:placetype":"neighbourhood",

@@ -9,17 +9,19 @@
     "geom:bbox":"26.78333,46.01667,26.78333,46.01667",
     "geom:latitude":46.01667,
     "geom:longitude":26.78333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":4007,
+    "gn:country":"RO",
+    "gn:fcode":"PPLX",
     "gn:population":4007,
     "iso:country":"RO",
+    "lbl:bbox":"26.77833,46.01167,26.78833,46.02167",
     "lbl:latitude":46.01667,
     "lbl:longitude":26.78333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "C\u00e2mpuri-de-Jos"
     ],
     "qs_pg:aaroncc":"RO",
@@ -34,7 +36,7 @@
     "qs_pg:qs_id":275329,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126073413,
-    "wof:lastmodified":1509410792,
+    "wof:lastmodified":1566611379,
     "wof:name":"C\u00e2mpurile de Jos",
     "wof:parent_id":101788395,
     "wof:placetype":"neighbourhood",

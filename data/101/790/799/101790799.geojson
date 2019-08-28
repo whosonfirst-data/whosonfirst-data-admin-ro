@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.997295,
     "lbl:longitude":28.581974,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.997295,
     "mps:longitude":28.581974,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0448\u043a\u044c\u043e\u0439"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043b\u0430\u0454-\u0411\u0435\u043b\u0447\u0435\u0441\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Principele-Mihai"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":672278,
         "gp:id":876516,
-        "qs:id":1290036,
+        "qs_pg:id":1290036,
         "wd:id":"Q6273300"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101790799,
-    "wof:lastmodified":1563575351,
+    "wof:lastmodified":1566610650,
     "wof:name":"Nicolae B\u0103lcescu",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

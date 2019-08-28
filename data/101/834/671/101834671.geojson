@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.204837,
     "lbl:longitude":25.649353,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.204837,
     "mps:longitude":25.649353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gura Beliei"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":676563,
         "gp:id":868094,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q12098449"
     },
     "wof:country":"RO",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101834671,
-    "wof:lastmodified":1563576040,
+    "wof:lastmodified":1566610892,
     "wof:name":"Gura Beliei",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

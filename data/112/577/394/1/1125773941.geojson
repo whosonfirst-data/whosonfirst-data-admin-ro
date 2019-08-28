@@ -9,15 +9,18 @@
     "geom:bbox":"28.85,44.95,28.85,44.95",
     "geom:latitude":44.95,
     "geom:longitude":28.85,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":7483,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":7483,
     "iso:country":"RO",
+    "lbl:bbox":"28.83,44.93,28.87,44.97",
     "lbl:latitude":44.95,
     "lbl:longitude":28.85,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
@@ -61,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0456\u043a\u0456\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sarikioi"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":879700,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125773941,
-    "wof:lastmodified":1563577540,
+    "wof:lastmodified":1566611411,
     "wof:name":"Sarichioi",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

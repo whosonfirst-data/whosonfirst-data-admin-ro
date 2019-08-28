@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.071674,
     "lbl:longitude":23.576057,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":46.071674,
     "mps:longitude":23.576057,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ace_x_preferred":[
         "Alba Iulia"
     ],
@@ -204,9 +207,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0430-\u042e\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Gyulafeh\u00e9rv\u00e1r"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0628\u0627 \u06cc\u0648\u0644\u06cc\u0627"
     ],
@@ -235,7 +235,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -247,10 +247,12 @@
         "fct:id":"03a7634a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686578,
         "gp:id":866081,
-        "qs:id":1,
-        "qs_pg:id":492162,
+        "qs_pg:id":1,
         "wd:id":"Q174665",
         "wk:page":"Los Navalmorales"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":492162
     },
     "wof:country":"RO",
     "wof:geomhash":"7f529cba5e28d253800d926eb0d8ad04",
@@ -266,7 +268,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575450,
+    "wof:lastmodified":1566610684,
     "wof:name":"Alba Iulia",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

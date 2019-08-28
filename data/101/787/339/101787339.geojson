@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.99442,
     "lbl:longitude":22.608495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.99442,
     "mps:longitude":22.608495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Borod"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,6 @@
         "fct:id":"03a66e68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684179,
         "gp:id":15001501,
-        "qs:id":127955,
         "qs_pg:id":127955,
         "wd:id":"Q15768741"
     },
@@ -87,7 +89,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576847,
+    "wof:lastmodified":1566611167,
     "wof:name":"Borod",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

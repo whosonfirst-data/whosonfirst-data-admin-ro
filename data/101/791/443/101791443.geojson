@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.733089,
     "lbl:longitude":27.464165,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.733089,
     "mps:longitude":27.464165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sc\u00e2nteia"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0438\u043d\u0442\u0435\u044f"
     ],
-    "name:unk_x_variant":[
-        "Br\u0103teanu"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Ialomita",
     "qs:a1r":"0",
@@ -70,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +82,7 @@
         "fct:id":"03a4241e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667623,
         "gp:id":879990,
-        "qs:id":967844,
+        "qs_pg:id":967844,
         "wd:id":"Q12153229"
     },
     "wof:country":"RO",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575575,
+    "wof:lastmodified":1566610727,
     "wof:name":"Sc\u00e2nteia",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

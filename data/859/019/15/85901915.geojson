@@ -13,8 +13,10 @@
     "gn:longitude":21.92416,
     "gn:population":573,
     "iso:country":"RO",
+    "lbl:bbox":"21.934697,45.293075,21.944697,45.303075",
     "lbl:latitude":45.298075,
     "lbl:longitude":21.939697,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.296143,
     "mps:longitude":21.95343,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0440\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "\u0162erova"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":668954,
@@ -86,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +96,6 @@
     "wof:concordances":{
         "gn:id":665226,
         "gp:id":881706,
-        "qs:id":506689,
         "qs_pg:id":506689,
         "wd:id":"Q618081"
     },
@@ -116,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574428,
+    "wof:lastmodified":1566610007,
     "wof:name":"\u0162erova",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

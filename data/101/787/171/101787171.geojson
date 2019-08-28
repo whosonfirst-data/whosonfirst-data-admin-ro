@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.483237,
     "lbl:longitude":26.918805,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.483237,
     "mps:longitude":26.918805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Nicolae B\u0103lcescu"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043b\u0430\u0454-\u0411\u0435\u043b\u0447\u0435\u0441\u043a\u0443"
     ],
-    "name:unk_x_variant":[
-        "Ferdinand"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bacau",
     "qs:a1r":"0",
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +81,6 @@
         "fct:id":"03a26084-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672275,
         "gp:id":876511,
-        "qs:id":180655,
         "qs_pg:id":180655,
         "wd:id":"Q15728384"
     },
@@ -99,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576904,
+    "wof:lastmodified":1566611188,
     "wof:name":"Nicolae B\u0103lcescu",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

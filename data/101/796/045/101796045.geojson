@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.855421,
     "lbl:longitude":25.905503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.855421,
     "mps:longitude":25.905503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Slobozia"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":666719,
         "gp:id":880645,
-        "qs:id":1027421,
         "qs_pg:id":1027421,
         "wd:id":"Q2539922"
     },
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101796045,
-    "wof:lastmodified":1563575642,
+    "wof:lastmodified":1566610748,
     "wof:name":"Slobozia",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

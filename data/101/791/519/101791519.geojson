@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.183606,
     "lbl:longitude":25.277278,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.183606,
     "mps:longitude":25.277278,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pucheni"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,6 @@
         "fct:id":"03a36bb4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669525,
         "gp:id":878629,
-        "qs:id":1290269,
         "qs_pg:id":1290269,
         "wd:id":"Q3732678"
     },
@@ -87,7 +89,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575540,
+    "wof:lastmodified":1566610715,
     "wof:name":"Pucheni",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

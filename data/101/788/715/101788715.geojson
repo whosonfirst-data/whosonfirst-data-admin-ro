@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.917001,
     "lbl:longitude":22.860808,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.917001,
     "mps:longitude":22.860808,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Poieni"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0454\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Poeni"
-    ],
     "name:vol_x_preferred":[
         "Poieni"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -91,7 +91,6 @@
         "fct:id":"03a32794-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670213,
         "gp:id":878070,
-        "qs:id":127265,
         "qs_pg:id":127265,
         "wd:id":"Q367346"
     },
@@ -109,7 +108,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576699,
+    "wof:lastmodified":1566611119,
     "wof:name":"Poieni",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

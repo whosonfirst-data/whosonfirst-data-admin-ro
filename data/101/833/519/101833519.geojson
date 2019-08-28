@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.780595,
     "lbl:longitude":26.692232,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.780595,
     "mps:longitude":26.692232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sili\u0219tea"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043b\u0456\u0448\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naz\u00e2ru"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,9 +70,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":667188,
-        "qs:id":9,
-        "qs_pg:id":126987,
+        "qs_pg:id":9,
         "wd:id":"Q12159374"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":126987
     },
     "wof:country":"RO",
     "wof:geomhash":"d7e204a9a73c0284778a54f34f2dc983",
@@ -82,7 +87,7 @@
         }
     ],
     "wof:id":101833519,
-    "wof:lastmodified":1563575903,
+    "wof:lastmodified":1566610845,
     "wof:name":"Sili\u015ftea",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

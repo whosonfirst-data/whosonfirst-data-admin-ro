@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.459599,
     "lbl:longitude":22.373214,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.459599,
     "mps:longitude":22.373214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pir"
     ],
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a2f684-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670775,
         "gp:id":877623,
-        "qs:id":412129,
         "qs_pg:id":412129,
         "wd:id":"Q1076592"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576837,
+    "wof:lastmodified":1566611163,
     "wof:name":"Pir",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

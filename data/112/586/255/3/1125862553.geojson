@@ -9,15 +9,18 @@
     "geom:bbox":"24.8,46.56667,24.8,46.56667",
     "geom:latitude":46.56667,
     "geom:longitude":24.8,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1976,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1976,
     "iso:country":"RO",
+    "lbl:bbox":"24.78,46.54667,24.82,46.58667",
     "lbl:latitude":46.56667,
     "lbl:longitude":24.8,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Comuna V\u0103rgata"
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0433\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Csikfalva"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":126673,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125862553,
-    "wof:lastmodified":1564101470,
+    "wof:lastmodified":1566611309,
     "wof:name":"V\u0103rgata",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

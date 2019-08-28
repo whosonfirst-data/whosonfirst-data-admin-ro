@@ -12,8 +12,10 @@
     "gn:latitude":45.13333,
     "gn:longitude":25.73333,
     "iso:country":"RO",
+    "lbl:bbox":"25.725172,45.131051,25.735172,45.141051",
     "lbl:latitude":45.136051,
     "lbl:longitude":25.730172,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.134009,
     "mps:longitude":25.733747,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:rum_x_colloquial":[
         "Pitigaia"
-    ],
-    "name:unk_x_variant":[
-        "Pi\u021bigaia"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -77,7 +76,6 @@
     "wof:concordances":{
         "gn:id":670604,
         "gp:id":877770,
-        "qs:id":912129,
         "qs_pg:id":912129
     },
     "wof:country":"RO",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830674,
+    "wof:lastmodified":1566609995,
     "wof:name":"Pi\u021bigaia",
     "wof:parent_id":101834623,
     "wof:placetype":"neighbourhood",

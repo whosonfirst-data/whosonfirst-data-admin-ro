@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.993788,
     "lbl:longitude":26.951602,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.993788,
     "mps:longitude":26.951602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "T\u0103m\u0103\u0219eni"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +95,6 @@
     "wof:concordances":{
         "gn:id":665568,
         "gp:id":881456,
-        "qs:id":1027376,
         "qs_pg:id":1027376,
         "wd:id":"Q1195088"
     },
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101833531,
-    "wof:lastmodified":1563575917,
+    "wof:lastmodified":1566610849,
     "wof:name":"T\u0103m\u0103\u015feni",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

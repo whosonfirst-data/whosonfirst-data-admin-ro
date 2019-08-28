@@ -10,8 +10,10 @@
     "geom:latitude":46.931886,
     "geom:longitude":26.368737,
     "iso:country":"RO",
+    "lbl:bbox":"26.363737,46.926886,26.373737,46.936886",
     "lbl:latitude":46.931886,
     "lbl:longitude":26.368737,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.931509,
     "mps:longitude":26.372062,
     "mz:hierarchy_label":0,
@@ -59,9 +61,6 @@
     "name:spa_x_preferred":[
         "Piatra Neam\u021b"
     ],
-    "name:unk_x_variant":[
-        "M\u0103r\u0103\u021bei"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
     "qs:gn_local":670889,
@@ -87,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752033,
@@ -113,7 +112,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830673,
+    "wof:lastmodified":1566609993,
     "wof:name":"M\u0103r\u0103\u021bei",
     "wof:parent_id":101752033,
     "wof:placetype":"neighbourhood",

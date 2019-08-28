@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.564326,
     "lbl:longitude":26.639398,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.564326,
     "mps:longitude":26.639398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vorona"
     ],
@@ -54,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0440\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vorona Nou\u0103"
-    ],
     "name:vol_x_preferred":[
         "Vorona"
     ],
@@ -74,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +86,7 @@
         "fct:id":"03a622a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662468,
         "gp:id":883843,
-        "qs:id":1024761,
+        "qs_pg:id":1024761,
         "wd:id":"Q2121427"
     },
     "wof:country":"RO",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576145,
+    "wof:lastmodified":1566610932,
     "wof:name":"Vorona",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

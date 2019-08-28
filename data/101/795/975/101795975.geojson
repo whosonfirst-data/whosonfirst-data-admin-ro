@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.708772,
     "lbl:longitude":25.563486,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.708772,
     "mps:longitude":25.563486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bujoru"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0436\u043e\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "Bujorul"
-    ],
     "name:vol_x_preferred":[
         "Bujoru"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,6 @@
         "fct:id":"039e3388-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":683342,
         "gp:id":868392,
-        "qs:id":127896,
         "qs_pg:id":127896,
         "wd:id":"Q2720577"
     },
@@ -102,7 +101,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576498,
+    "wof:lastmodified":1566611050,
     "wof:name":"Bujoru",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

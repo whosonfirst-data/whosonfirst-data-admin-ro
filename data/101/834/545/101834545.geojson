@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.220237,
     "lbl:longitude":24.664875,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.220237,
     "mps:longitude":24.664875,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Albe\u0219tii Ungureni"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0435\u0448\u0442\u0456\u0439-\u0423\u043d\u0433\u0443\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ungureni"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":686539,
         "gp:id":15001313,
-        "qs:id":497345,
+        "qs_pg:id":497345,
         "wd:id":"Q12077553"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101834545,
-    "wof:lastmodified":1563576016,
+    "wof:lastmodified":1566610884,
     "wof:name":"Albe\u015ftii Ungureni",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

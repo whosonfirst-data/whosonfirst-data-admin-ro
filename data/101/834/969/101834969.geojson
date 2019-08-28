@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.657049,
     "lbl:longitude":27.52717,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.657049,
     "mps:longitude":27.52717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Buce\u0219ti"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":683592,
         "gp:id":868211,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q12086058"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101834969,
-    "wof:lastmodified":1563576030,
+    "wof:lastmodified":1566610889,
     "wof:name":"Buce\u015fti",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

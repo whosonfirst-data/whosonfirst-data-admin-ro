@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.384766,
     "lbl:longitude":28.662892,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.384766,
     "mps:longitude":28.662892,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0628\u0648"
     ],
@@ -72,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u0431\u0443"
     ],
-    "name:unk_x_variant":[
-        "Gargal\u00e2cul-Mic"
-    ],
     "name:vie_x_preferred":[
         "Corbu"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -109,9 +109,11 @@
         "fct:id":"039f1ffa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682382,
         "gp:id":870230,
-        "qs:id":127787,
-        "qs_pg:id":1025788,
+        "qs_pg:id":127787,
         "wd:id":"Q869069"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1025788
     },
     "wof:country":"RO",
     "wof:geomhash":"a1416979dd58167ec5f1afc1ea535d1c",
@@ -127,7 +129,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576535,
+    "wof:lastmodified":1566611064,
     "wof:name":"Corbu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.300145,
     "lbl:longitude":25.000479,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.300145,
     "mps:longitude":25.000479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Z\u00e2mbreasca"
     ],
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0438\u043c\u0431\u0440\u044f\u0441\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Z\u00e2breasca"
-    ],
     "name:vie_x_preferred":[
         "Z\u00e2mbreasca"
     ],
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +89,6 @@
         "fct:id":"03a63d4e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662193,
         "gp:id":884039,
-        "qs:id":126580,
         "qs_pg:id":126580,
         "wd:id":"Q2545403"
     },
@@ -107,7 +106,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576396,
+    "wof:lastmodified":1566611019,
     "wof:name":"Z\u00e2mbreasca",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

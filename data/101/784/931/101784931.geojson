@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.161995,
     "lbl:longitude":26.571437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.161995,
     "mps:longitude":26.571437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u0103str\u0103veni"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,6 @@
         "fct:id":"03a2c268-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671281,
         "gp:id":877252,
-        "qs:id":1290103,
         "qs_pg:id":1290103,
         "wd:id":"Q2605725"
     },
@@ -100,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576215,
+    "wof:lastmodified":1566610954,
     "wof:name":"P\u0103str\u0103veni",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

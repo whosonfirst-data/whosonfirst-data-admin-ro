@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.679616,
     "lbl:longitude":27.218878,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.679616,
     "mps:longitude":27.218878,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u043e\u043f\u0430\u043d\u0430"
     ],
@@ -57,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u043e\u043f\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "T\u00e2rgul Plopana"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bacau",
     "qs:a1r":"0",
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"03a30dea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670472,
         "gp:id":877875,
-        "qs:id":1279145,
         "qs_pg:id":1279145,
         "wd:id":"Q15732446"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576816,
+    "wof:lastmodified":1566611157,
     "wof:name":"Plopana",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

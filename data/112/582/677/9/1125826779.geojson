@@ -9,15 +9,18 @@
     "geom:bbox":"21.81917,45.885,21.81917,45.885",
     "geom:latitude":45.885,
     "geom:longitude":21.81917,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":301,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":301,
     "iso:country":"RO",
+    "lbl:bbox":"21.79917,45.865,21.83917,45.905",
     "lbl:latitude":45.885,
     "lbl:longitude":21.81917,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:epo_x_preferred":[
         "Seca\u0219"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043a\u0430\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sz\u00e9k\u00e1s"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +64,7 @@
     "qs_pg:qs_id":551022,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125826779,
-    "wof:lastmodified":1564101516,
+    "wof:lastmodified":1566611389,
     "wof:name":"Seca\u015f",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

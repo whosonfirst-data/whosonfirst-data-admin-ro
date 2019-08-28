@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.388543,
     "lbl:longitude":23.847437,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.388543,
     "mps:longitude":23.847437,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Ocna Mure\u0219"
     ],
@@ -29,7 +32,7 @@
     "name:srp_x_preferred":[
         "\u041e\u043a\u043d\u0430 \u041c\u0443\u0440\u0435\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocna-Mure\u015fului"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,9 +62,11 @@
     "wof:concordances":{
         "gn:id":672024,
         "gp:id":876703,
-        "qs:id":1092454,
         "qs_pg:id":127373,
         "wd:id":"Q16898078"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1092454
     },
     "wof:country":"RO",
     "wof:geomhash":"5f4da06f34dea606a91b202c5cdc190b",
@@ -74,7 +79,7 @@
         }
     ],
     "wof:id":101834875,
-    "wof:lastmodified":1563575985,
+    "wof:lastmodified":1566610873,
     "wof:name":"Ocna Mure\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

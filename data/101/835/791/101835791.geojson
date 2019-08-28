@@ -9,14 +9,17 @@
     "geom:bbox":"25.4371041074,45.0461251866,25.4598016138,45.0936808496",
     "geom:latitude":45.065512,
     "geom:longitude":25.448116,
-    "geonames:id":"677045,677041",
+    "gn:id":"677045,677041",
     "iso:country":"RO",
     "lbl:latitude":45.06287,
     "lbl:longitude":25.447548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.06287,
     "mps:longitude":25.447548,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043b\u043e\u0434\u0435\u043d\u0438"
     ],
@@ -100,7 +103,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.770833,
     "wd:longitude":27.514444,
     "wd:wordcount":79,
@@ -112,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":878633,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2292609"
     },
     "wof:country":"RO",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101835791,
-    "wof:lastmodified":1563575717,
+    "wof:lastmodified":1566610774,
     "wof:name":"Glodeni",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

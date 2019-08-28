@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.489954,
     "lbl:longitude":27.130363,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.489954,
     "mps:longitude":27.130363,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0644\u0648\u063a\u0627\u0631\u064a"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u0443\u0433\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hanu B\u0103lu\u015f"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
         "fct:id":"03a6d998-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670390,
         "gp:id":15002203,
-        "qs:id":497681,
         "qs_pg:id":497681,
         "wd:id":"Q2606010"
     },
@@ -108,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576906,
+    "wof:lastmodified":1566611188,
     "wof:name":"Plugari",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

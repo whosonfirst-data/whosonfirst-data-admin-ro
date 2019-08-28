@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.552197,
     "lbl:longitude":25.384237,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.552197,
     "mps:longitude":25.384237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tohanu Nou"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0445\u0430\u043d\u0443-\u041d\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neu-Tohan"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":664845,
         "gp:id":881984,
-        "qs:id":1096421,
         "qs_pg:id":1096421,
         "wd:id":"Q268804"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101790883,
-    "wof:lastmodified":1563575410,
+    "wof:lastmodified":1566610670,
     "wof:name":"Tohanu Nou",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

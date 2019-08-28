@@ -13,6 +13,8 @@
     "iso:country":"RO",
     "lbl:latitude":45.874994,
     "lbl:longitude":22.907742,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":45.874994,
     "mps:longitude":22.907742,
     "mz:hierarchy_label":1,
@@ -183,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Diemrich"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0648\u0627\u060c \u0631\u0648\u0645\u0627\u0646\u06cc\u06c1"
     ],
@@ -306,7 +305,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -318,7 +317,6 @@
         "fct:id":"03a76ac0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679452,
         "gp:id":871261,
-        "qs:id":908707,
         "qs_pg:id":908707,
         "wd:id":"Q204850"
     },
@@ -336,7 +334,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576416,
+    "wof:lastmodified":1566611026,
     "wof:name":"Deva",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

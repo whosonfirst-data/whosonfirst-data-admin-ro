@@ -9,15 +9,18 @@
     "geom:bbox":"26.05806,44.29083,26.05806,44.29083",
     "geom:latitude":44.29083,
     "geom:longitude":26.05806,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9537,
-    "gn:population":7817,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":9537,
     "iso:country":"RO",
+    "lbl:bbox":"26.03806,44.27083,26.07806,44.31083",
     "lbl:latitude":44.29083,
     "lbl:longitude":26.05806,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "1 Decembrie"
@@ -40,7 +43,7 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u043c \u0414\u0435\u0447\u0435\u043c\u0431\u0440\u0438\u0458\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cop\u0103cenii de Sus"
     ],
     "qs_pg:aaroncc":"RO",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":129746,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125865169,
-    "wof:lastmodified":1563577186,
+    "wof:lastmodified":1566611305,
     "wof:name":"Prim Decembrie",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

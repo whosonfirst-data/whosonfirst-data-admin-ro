@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.248713,
     "lbl:longitude":24.536774,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.248713,
     "mps:longitude":24.536774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u0218uici"
     ],
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
         "fct:id":"03a4d5c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665799,
         "gp:id":881293,
-        "qs:id":1290576,
         "qs_pg:id":1290576,
         "wd:id":"Q2486552"
     },
@@ -111,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575553,
+    "wof:lastmodified":1566610719,
     "wof:name":"\u015euici",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.361176,
     "lbl:longitude":25.44117,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":47.361176,
     "mps:longitude":25.44117,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ortoaia"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":679092,
         "gp:id":871507,
-        "qs:id":1027971,
+        "qs_pg:id":1027971,
         "wd:id":"Q12136432"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101785161,
-    "wof:lastmodified":1563576086,
+    "wof:lastmodified":1566610909,
     "wof:name":"Dorna-Arini",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

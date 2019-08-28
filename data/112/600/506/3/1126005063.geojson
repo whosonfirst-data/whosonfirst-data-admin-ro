@@ -9,15 +9,18 @@
     "geom:bbox":"21.86278,44.84194,21.86278,44.84194",
     "geom:latitude":44.84194,
     "geom:longitude":21.86278,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1397,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1397,
     "iso:country":"RO",
+    "lbl:bbox":"21.84278,44.82194,21.88278,44.86194",
     "lbl:latitude":44.84194,
     "lbl:longitude":21.86278,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "\u0218opotu Nou"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043f\u043e\u0442\u0443-\u041d\u043e\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Novi Sopot"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +89,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":880822,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1126005063,
-    "wof:lastmodified":1563577430,
+    "wof:lastmodified":1566611377,
     "wof:name":"\u015eopotu Nou",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

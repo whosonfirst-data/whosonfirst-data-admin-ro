@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000112,
+    "geom:area_square_m":998047.620018,
     "geom:bbox":"25.2127647294,44.1254380058,25.2279383548,44.1449971814",
     "geom:latitude":44.135163,
     "geom:longitude":25.219875,
     "iso:country":"RO",
     "lbl:latitude":44.136969,
     "lbl:longitude":25.217978,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.136969,
     "mps:longitude":25.217978,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hbs_x_preferred":[
         "Op\u0161tina C\u0103line\u015fti"
     ],
@@ -55,7 +60,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -63,10 +68,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"RO",
-    "wof:geomhash":"d109005381e3fafe854d36b529841a48",
+    "wof:geomhash":"a2e12c3644527524411823e1ecdbd604",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +81,7 @@
         }
     ],
     "wof:id":101794811,
-    "wof:lastmodified":1467243118,
+    "wof:lastmodified":1566611001,
     "wof:name":"Cop\u0103ceanca",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

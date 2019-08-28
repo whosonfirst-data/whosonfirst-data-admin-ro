@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.162004,
     "lbl:longitude":23.810257,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.162004,
     "mps:longitude":23.810257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ocna Dejului"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u043d\u0430-\u0414\u0435\u0436\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocna Dej"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":672026,
         "gp:id":876702,
-        "qs:id":1279027,
+        "qs_pg:id":1279027,
         "wd:id":"Q747230"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101833467,
-    "wof:lastmodified":1563575933,
+    "wof:lastmodified":1566610855,
     "wof:name":"Ocna Dejului",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

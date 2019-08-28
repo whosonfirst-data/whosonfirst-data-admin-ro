@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.261454,
     "lbl:longitude":26.673229,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.261454,
     "mps:longitude":26.673229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Topile"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":664766,
         "gp:id":882048,
-        "qs:id":1127840,
+        "qs_pg:id":1127840,
         "wd:id":"Q12162026"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101833805,
-    "wof:lastmodified":1563575902,
+    "wof:lastmodified":1566610844,
     "wof:name":"Topile",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.238985,
     "lbl:longitude":26.37813,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.238985,
     "mps:longitude":26.37813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cisl\u0103u"
     ],
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
         "fct:id":"039ee2e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681510,
         "gp:id":869740,
-        "qs:id":1010095,
         "qs_pg:id":1010095,
         "wd:id":"Q12170310"
     },
@@ -92,7 +94,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575546,
+    "wof:lastmodified":1566610717,
     "wof:name":"Cisl\u0103u",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

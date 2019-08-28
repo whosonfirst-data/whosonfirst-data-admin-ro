@@ -9,15 +9,18 @@
     "geom:bbox":"24.55747,46.54245,24.55747,46.54245",
     "geom:latitude":46.54245,
     "geom:longitude":24.55747,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":146863,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA",
     "gn:population":146863,
     "iso:country":"RO",
+    "lbl:bbox":"24.53747,46.52245,24.57747,46.56245",
     "lbl:latitude":46.54245,
     "lbl:longitude":24.55747,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ces_x_preferred":[
         "T\u00e2rgu Mure\u015f"
@@ -71,7 +74,7 @@
     "name:spa_x_preferred":[
         "T\u00e2rgu Mure\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maros-V\u00e1s\u00e1rhely"
     ],
     "qs_pg:aaroncc":"RO",
@@ -86,7 +89,7 @@
     "qs_pg:qs_id":1027343,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1125898791,
-    "wof:lastmodified":1509399278,
+    "wof:lastmodified":1566611328,
     "wof:name":"T\u00e2rgu-Mure\u015f",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

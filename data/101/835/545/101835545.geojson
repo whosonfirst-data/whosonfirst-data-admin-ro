@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.472888,
     "lbl:longitude":25.721389,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.472888,
     "mps:longitude":25.721389,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Palanca"
     ],
@@ -41,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u0430\u043d\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Palanga"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Giurgiu",
     "qs:a1r":"0",
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,9 +73,11 @@
         "fct:id":"03a2b336-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671471,
         "gp:id":877122,
-        "qs:id":941221,
         "qs_pg:id":43200,
         "wd:id":"Q12137507"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":941221
     },
     "wof:country":"RO",
     "wof:geomhash":"90ced4987965a10f7abb7129ba6c136c",
@@ -91,7 +93,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575768,
+    "wof:lastmodified":1566610792,
     "wof:name":"Palanca",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

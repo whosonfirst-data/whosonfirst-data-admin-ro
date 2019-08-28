@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.069025,
     "lbl:longitude":26.158769,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.069025,
     "mps:longitude":26.158769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0627\u0646"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u044f\u043d"
     ],
-    "name:unk_x_variant":[
-        "Pojan"
-    ],
     "name:vie_x_preferred":[
         "Poian"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"03a32d02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":670162,
         "gp:id":878116,
-        "qs:id":127246,
         "qs_pg:id":127246,
         "wd:id":"Q1094523"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576934,
+    "wof:lastmodified":1566611200,
     "wof:name":"Poian",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

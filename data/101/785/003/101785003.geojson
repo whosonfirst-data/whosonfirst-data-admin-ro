@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.611415,
     "lbl:longitude":22.705495,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.611415,
     "mps:longitude":22.705495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Craidorol\u021b"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0439\u0434\u043e\u0440\u043e\u043b\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Craidorol\u0163"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":680342,
         "gp:id":15001707,
-        "qs:id":127755,
+        "qs_pg:id":127755,
         "wd:id":"Q1109345"
     },
     "wof:country":"RO",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101785003,
-    "wof:lastmodified":1563576110,
+    "wof:lastmodified":1566610918,
     "wof:name":"Craidorolt",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

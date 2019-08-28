@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.077692,
     "lbl:longitude":25.488272,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.077692,
     "mps:longitude":25.488272,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u0431\u043e\u0440"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0431\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "B\u00e8lb\u00f2r"
-    ],
     "name:vie_x_preferred":[
         "Bilbor"
     ],
@@ -87,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,6 @@
         "fct:id":"039da03a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684870,
         "gp:id":867287,
-        "qs:id":127989,
         "qs_pg:id":127989,
         "wd:id":"Q134153"
     },
@@ -117,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576778,
+    "wof:lastmodified":1566611145,
     "wof:name":"Bilbor",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

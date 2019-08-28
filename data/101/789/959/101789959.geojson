@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.541791,
     "lbl:longitude":27.499631,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.541791,
     "mps:longitude":27.499631,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "N\u0103ne\u0219ti"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,6 @@
     "wof:concordances":{
         "gn:id":672518,
         "gp:id":876351,
-        "qs:id":81958,
         "qs_pg:id":81958,
         "wd:id":"Q14176180"
     },
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101789959,
-    "wof:lastmodified":1563576967,
+    "wof:lastmodified":1566611211,
     "wof:name":"N\u0103ne\u015fti",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

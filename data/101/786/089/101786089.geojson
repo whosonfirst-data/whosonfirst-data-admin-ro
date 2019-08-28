@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.300615,
     "lbl:longitude":22.614435,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.300615,
     "mps:longitude":22.614435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cam\u0103r"
     ],
@@ -51,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Kemer"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Salaj",
     "qs:a1r":"0",
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +82,6 @@
         "fct:id":"039e5d36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682870,
         "gp:id":868733,
-        "qs:id":127878,
         "qs_pg:id":127878,
         "wd:id":"Q13581071"
     },
@@ -100,7 +99,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576815,
+    "wof:lastmodified":1566611157,
     "wof:name":"Cam\u0103r",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

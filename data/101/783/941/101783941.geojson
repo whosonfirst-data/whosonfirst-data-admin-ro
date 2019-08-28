@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.572515,
     "lbl:longitude":25.125374,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.572515,
     "mps:longitude":25.125374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u00e2rlibaba"
     ],
@@ -68,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u043b\u0456\u0431\u0430\u0431\u0430"
     ],
-    "name:unk_x_variant":[
-        "C\u00eerlibaba Veche"
-    ],
     "name:vie_x_preferred":[
         "C\u00e2rlibaba"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +105,6 @@
         "fct:id":"039edd06-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681569,
         "gp:id":869696,
-        "qs:id":127824,
         "qs_pg:id":127824,
         "wd:id":"Q241980"
     },
@@ -123,7 +122,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576179,
+    "wof:lastmodified":1566610944,
     "wof:name":"C\u00e2rlibaba",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

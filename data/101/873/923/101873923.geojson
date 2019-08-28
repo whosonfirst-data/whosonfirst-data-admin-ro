@@ -11,12 +11,16 @@
     "geom:longitude":25.089186,
     "gn:population":1905,
     "iso:country":"RO",
+    "lbl:bbox":"25.069186,45.276826,25.109186,45.316826",
     "lbl:latitude":45.296826,
     "lbl:longitude":25.089186,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.296826,
     "mps:longitude":25.089186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Mare Prav\u0103\u021b"
     ],
@@ -47,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u041c\u0430\u0440\u0435-\u041f\u0440\u0430\u0432\u0435\u0446"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valea Mare D\u00eembovi\u0163a"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":663596,
         "gp:id":872190,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q3407923"
     },
     "wof:country":"RO",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101873923,
-    "wof:lastmodified":1563575694,
+    "wof:lastmodified":1566610765,
     "wof:name":"Valea Mare Prav\u0103\u0163",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

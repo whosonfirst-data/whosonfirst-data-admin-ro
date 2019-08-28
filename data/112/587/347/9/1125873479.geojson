@@ -9,15 +9,18 @@
     "geom:bbox":"26.78333,46.78333,26.78333,46.78333",
     "geom:latitude":46.78333,
     "geom:longitude":26.78333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":3713,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":3713,
     "iso:country":"RO",
+    "lbl:bbox":"26.76333,46.76333,26.80333,46.80333",
     "lbl:latitude":46.78333,
     "lbl:longitude":26.78333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Comuna Bahna"
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0445\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vasile Gheorghe Mor\u0163un"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":866605,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125873479,
-    "wof:lastmodified":1564101482,
+    "wof:lastmodified":1566611336,
     "wof:name":"Bahna",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

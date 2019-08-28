@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.026661,
     "lbl:longitude":24.813088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.026661,
     "mps:longitude":24.813088,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna C\u0103lm\u0103\u021buiu De Sus"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043b\u043c\u0435\u0446\u0443\u044e-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "C\u00eerliga\u0163i"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101836497,
-    "wof:lastmodified":1563576620,
+    "wof:lastmodified":1566611092,
     "wof:name":"C\u0103lm\u0103\u0163uiu de Sus",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

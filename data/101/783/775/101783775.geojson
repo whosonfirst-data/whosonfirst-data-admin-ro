@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.668643,
     "lbl:longitude":24.293605,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.668643,
     "mps:longitude":24.293605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dragomire\u0219ti"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,9 +72,11 @@
     "wof:concordances":{
         "gn:id":678922,
         "gp:id":871634,
-        "qs:id":508389,
         "qs_pg:id":275306,
         "wd:id":"Q16898387"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":508389
     },
     "wof:country":"RO",
     "wof:geomhash":"c7f6ef9c149a72007fea2d580c4842ec",
@@ -84,7 +89,7 @@
         }
     ],
     "wof:id":101783775,
-    "wof:lastmodified":1563576208,
+    "wof:lastmodified":1566610951,
     "wof:name":"Dragomire\u015fti",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

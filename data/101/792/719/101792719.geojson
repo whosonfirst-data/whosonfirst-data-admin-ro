@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.368237,
     "lbl:longitude":28.462294,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.368237,
     "mps:longitude":28.462294,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0647\u0627\u064a\u0644 \u0643\u0648\u063a\u0627\u0644\u0646\u064a\u062a\u0634\u064a\u0627\u0646\u0648"
     ],
@@ -77,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0430\u0457\u043b-\u041a\u043e\u0433\u0435\u043b\u043d\u0456\u0447\u0430\u043d\u0443"
     ],
-    "name:unk_x_variant":[
-        "Bulgarien"
-    ],
     "name:vie_x_preferred":[
         "Mihail Kog\u0103lniceanu"
     ],
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,7 +114,6 @@
         "fct:id":"03a1f464-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673382,
         "gp:id":875723,
-        "qs:id":1350689,
         "qs_pg:id":1350689,
         "wd:id":"Q1077654"
     },
@@ -132,7 +131,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576589,
+    "wof:lastmodified":1566611081,
     "wof:name":"Mihail Kog\u0103lniceanu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

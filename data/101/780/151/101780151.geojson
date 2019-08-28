@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.475923,
     "lbl:longitude":22.583031,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.475923,
     "mps:longitude":22.583031,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "T\u0103\u0219nad"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":665469,
         "gp:id":881530,
-        "qs:id":1084427,
+        "qs_pg:id":1084427,
         "wd:id":"Q16898506"
     },
     "wof:country":"RO",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101780151,
-    "wof:lastmodified":1563576909,
+    "wof:lastmodified":1566611189,
     "wof:name":"T\u0103\u015fnad",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

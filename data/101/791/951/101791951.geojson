@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.715439,
     "lbl:longitude":22.801787,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.715439,
     "mps:longitude":22.801787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ghelari"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043b\u0430\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "Ghelar"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Hunedoara",
     "qs:a1r":"0",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +78,6 @@
         "fct:id":"03a0609a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677481,
         "gp:id":872710,
-        "qs:id":180542,
         "qs_pg:id":180542,
         "wd:id":"Q12094572"
     },
@@ -96,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575565,
+    "wof:lastmodified":1566610723,
     "wof:name":"Ghelari",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

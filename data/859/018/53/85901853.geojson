@@ -12,8 +12,10 @@
     "gn:latitude":45.3,
     "gn:longitude":27.98333,
     "iso:country":"RO",
+    "lbl:bbox":"27.957626,45.29806,27.967626,45.30806",
     "lbl:latitude":45.30306,
     "lbl:longitude":27.962626,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.303871,
     "mps:longitude":27.979388,
     "mz:hierarchy_label":0,
@@ -67,10 +69,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0441\u043a\u0443"
     ],
-    "name:unk_x_variant":[
-        "Piscul",
-        "Piscu"
-    ],
     "name:vie_x_preferred":[
         "Piscu"
     ],
@@ -109,7 +107,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -121,7 +119,6 @@
     "wof:concordances":{
         "gn:id":670648,
         "gp:id":877728,
-        "qs:id":1166736,
         "qs_pg:id":1166736,
         "wd:id":"Q5113820"
     },
@@ -140,7 +137,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574400,
+    "wof:lastmodified":1566609994,
     "wof:name":"Piscu",
     "wof:parent_id":101751979,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.588295,
     "lbl:longitude":25.425505,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.588295,
     "mps:longitude":25.425505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Groz\u0103ve\u0219ti"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":676636,
         "gp:id":882366,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12097898"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101794007,
-    "wof:lastmodified":1563576362,
+    "wof:lastmodified":1566611006,
     "wof:name":"Groz\u0103ve\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

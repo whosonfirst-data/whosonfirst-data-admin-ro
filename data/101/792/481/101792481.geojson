@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.724053,
     "lbl:longitude":26.090737,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.724053,
     "mps:longitude":26.090737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ciolpani"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,6 @@
         "fct:id":"039ed144-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681691,
         "gp:id":869601,
-        "qs:id":127830,
         "qs_pg:id":127830,
         "wd:id":"Q12170439"
     },
@@ -88,7 +90,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576566,
+    "wof:lastmodified":1566611074,
     "wof:name":"Ciolpani",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.532327,
     "lbl:longitude":24.501699,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.532327,
     "mps:longitude":24.501699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0430\u0437\u043d\u0430"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0437\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e0zn\u00e0nfalva"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":672480,
         "gp:id":876376,
-        "qs:id":1219700,
         "qs_pg:id":1219700,
         "wd:id":"Q280266"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101758433,
-    "wof:lastmodified":1563576337,
+    "wof:lastmodified":1566610995,
     "wof:name":"Nazna",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.127005,
     "lbl:longitude":25.417354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.127005,
     "mps:longitude":25.417354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fieni"
     ],
@@ -83,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u0424'\u0454\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Fierii"
-    ],
     "name:vie_x_preferred":[
         "Fieni"
     ],
@@ -108,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -120,7 +120,6 @@
         "fct:id":"03a01400-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":678290,
         "gp:id":872108,
-        "qs:id":1027893,
         "qs_pg:id":1027893,
         "wd:id":"Q678884"
     },
@@ -138,7 +137,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575756,
+    "wof:lastmodified":1566610788,
     "wof:name":"Fieni",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":46.179533,
     "geom:longitude":21.319173,
     "iso:country":"RO",
+    "lbl:bbox":"21.314173,46.174533,21.324173,46.184533",
     "lbl:latitude":46.179533,
     "lbl:longitude":21.319173,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.178947,
     "mps:longitude":21.321979,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0431\u0447\u0435\u0442\u0430\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Subcetate"
-    ],
     "name:vie_x_preferred":[
         "Subcetate"
     ],
@@ -95,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":117,
     "wof:belongsto":[
         102191581,
@@ -122,7 +121,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100372,
+    "wof:lastmodified":1566610006,
     "wof:name":"Subcetate",
     "wof:parent_id":101751999,
     "wof:placetype":"neighbourhood",

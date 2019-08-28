@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.624913,
     "lbl:longitude":26.109394,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.624913,
     "mps:longitude":26.109394,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Balote\u0219ti"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043e\u0442\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balote\u015fu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":685590,
         "gp:id":866788,
-        "qs:id":128056,
+        "qs_pg:id":128056,
         "wd:id":"Q12080685"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101835611,
-    "wof:lastmodified":1563575737,
+    "wof:lastmodified":1566610782,
     "wof:name":"Balote\u015fti",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

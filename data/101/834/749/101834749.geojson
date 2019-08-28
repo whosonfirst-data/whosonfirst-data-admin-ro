@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.375912,
     "lbl:longitude":26.768029,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.375912,
     "mps:longitude":26.768029,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea P\u0103rului"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":663531,
         "gp:id":883017,
-        "qs:id":413492,
+        "qs_pg:id":413492,
         "wd:id":"Q12087564"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101834749,
-    "wof:lastmodified":1563576010,
+    "wof:lastmodified":1566610882,
     "wof:name":"Valea P\u0103rului",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

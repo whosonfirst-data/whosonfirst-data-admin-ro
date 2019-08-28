@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.281951,
     "lbl:longitude":26.655356,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.281951,
     "mps:longitude":26.655356,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vii\u0219oara"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":662922,
         "gp:id":883522,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q12093638"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101834089,
-    "wof:lastmodified":1563576036,
+    "wof:lastmodified":1566610891,
     "wof:name":"Vii\u015foara",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

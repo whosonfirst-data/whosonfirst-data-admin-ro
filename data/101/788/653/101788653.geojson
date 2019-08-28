@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.497836,
     "lbl:longitude":23.669648,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.497836,
     "mps:longitude":23.669648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moldovene\u0219ti"
     ],
@@ -59,7 +62,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u0434\u043e\u0432\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varfal\u0103u"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +85,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":672905,
         "gp:id":876066,
-        "qs:id":1289965,
+        "qs_pg:id":1289965,
         "wd:id":"Q261616"
     },
     "wof:country":"RO",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101788653,
-    "wof:lastmodified":1563576739,
+    "wof:lastmodified":1566611133,
     "wof:name":"Moldovene\u015fti",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

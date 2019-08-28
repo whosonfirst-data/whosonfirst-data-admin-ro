@@ -12,8 +12,10 @@
     "gn:latitude":45.35,
     "gn:longitude":25.55,
     "iso:country":"RO",
+    "lbl:bbox":"25.538136,45.355008,25.548136,45.365008",
     "lbl:latitude":45.360008,
     "lbl:longitude":25.543136,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.368486,
     "mps:longitude":25.5462,
     "mz:hierarchy_label":0,
@@ -62,9 +64,6 @@
     "name:spa_x_preferred":[
         "Bu\u0219teni"
     ],
-    "name:unk_x_variant":[
-        "Cump\u0103tu"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":667091,
@@ -93,7 +92,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101791833,
@@ -104,7 +103,6 @@
     "wof:concordances":{
         "gn:id":679963,
         "gp:id":870863,
-        "qs:id":1117286,
         "qs_pg:id":1117286
     },
     "wof:country":"RO",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830677,
+    "wof:lastmodified":1566610003,
     "wof:name":"Cump\u0103tu",
     "wof:parent_id":101791833,
     "wof:placetype":"neighbourhood",

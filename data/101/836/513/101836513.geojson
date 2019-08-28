@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.184168,
     "lbl:longitude":24.885806,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.184168,
     "mps:longitude":24.885806,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Stejaru"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0436\u0430\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0103l\u0163a\u0163i"
     ],
     "name:vie_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
         "fct:id":"03a4b230-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666193,
         "gp:id":881018,
-        "qs:id":412963,
         "qs_pg:id":412963,
         "wd:id":"Q967348"
     },
@@ -102,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576640,
+    "wof:lastmodified":1566611099,
     "wof:name":"Stejaru",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

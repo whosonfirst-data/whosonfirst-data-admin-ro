@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.969043,
     "lbl:longitude":25.971197,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.969043,
     "mps:longitude":25.971197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Fr\u0103te\u0219ti"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":677918,
         "gp:id":872384,
-        "qs:id":185323,
+        "qs_pg:id":185323,
         "wd:id":"Q2289410"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101845063,
-    "wof:lastmodified":1563575666,
+    "wof:lastmodified":1566610756,
     "wof:name":"Fr\u0103\u0163e\u015fti",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

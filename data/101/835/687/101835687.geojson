@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.680241,
     "lbl:longitude":26.379015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.680241,
     "mps:longitude":26.379015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fierbin\u021bi-T\u00e2rg"
     ],
@@ -64,7 +67,7 @@
     "name:ukr_x_preferred":[
         "\u0424'\u0454\u0440\u0431\u0456\u043d\u0446\u044c-\u0422\u0438\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u00e2rgul Fierbinti"
     ],
     "name:zho_x_preferred":[
@@ -84,7 +87,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -94,7 +97,7 @@
     "wof:concordances":{
         "gn:id":678283,
         "gp:id":56125453,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q275645"
     },
     "wof:country":"RO",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101835687,
-    "wof:lastmodified":1563575734,
+    "wof:lastmodified":1566610780,
     "wof:name":"Fierbinti-T\u00e2rg",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.91507,
     "lbl:longitude":24.833528,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.91507,
     "mps:longitude":24.833528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ru\u0219ii Mun\u021bi"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0448\u0456\u0439-\u041c\u0443\u043d\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marosoroszfal\u00f9"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +80,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,7 @@
     "wof:concordances":{
         "gn:id":668382,
         "gp:id":876086,
-        "qs:id":1027475,
+        "qs_pg:id":1027475,
         "wd:id":"Q1087806"
     },
     "wof:country":"RO",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101845207,
-    "wof:lastmodified":1563575682,
+    "wof:lastmodified":1566610761,
     "wof:name":"Ru\u015fii-Mun\u0163i",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.620593,
     "lbl:longitude":28.083643,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.620593,
     "mps:longitude":28.083643,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u0103dureni"
     ],
@@ -48,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0434\u0443\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "C\u00eerliga\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
         "fct:id":"03a6d254-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":671526,
         "gp:id":15002153,
-        "qs:id":497654,
+        "qs_pg:id":497654,
         "wd:id":"Q2297481"
     },
     "wof:country":"RO",
@@ -94,7 +97,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576813,
+    "wof:lastmodified":1566611156,
     "wof:name":"P\u0103dureni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

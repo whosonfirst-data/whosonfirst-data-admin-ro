@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.254122,
     "lbl:longitude":22.77101,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.254122,
     "mps:longitude":22.77101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cehei"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0445\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cehaiu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":682445,
         "gp:id":869043,
-        "qs:id":967555,
+        "qs_pg:id":967555,
         "wd:id":"Q726050"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101833459,
-    "wof:lastmodified":1563575942,
+    "wof:lastmodified":1566610858,
     "wof:name":"Cehei",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

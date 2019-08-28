@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.313818,
     "lbl:longitude":23.726645,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.313818,
     "mps:longitude":23.726645,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0410\u044e\u0434"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u044e\u0434"
     ],
-    "name:unk_x_variant":[
-        "Strassburg"
-    ],
     "name:vep_x_preferred":[
         "Ajud"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +111,6 @@
         "fct:id":"03a75ea4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686590,
         "gp:id":866076,
-        "qs:id":128146,
         "qs_pg:id":128146,
         "wd:id":"Q16897929"
     },
@@ -129,7 +128,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575998,
+    "wof:lastmodified":1566610878,
     "wof:name":"Aiud",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

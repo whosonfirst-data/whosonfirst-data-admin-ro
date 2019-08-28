@@ -9,15 +9,18 @@
     "geom:bbox":"23.91667,44.75,23.91667,44.75",
     "geom:latitude":44.75,
     "geom:longitude":23.91667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2995,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":2995,
     "iso:country":"RO",
+    "lbl:bbox":"23.89667,44.73,23.93667,44.77",
     "lbl:latitude":44.75,
     "lbl:longitude":23.91667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0435\u0442\u043e\u0438\u0443"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0442\u043e\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bugiule\u015fti"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":881721,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1126010675,
-    "wof:lastmodified":1563577418,
+    "wof:lastmodified":1566611375,
     "wof:name":"Tetoiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

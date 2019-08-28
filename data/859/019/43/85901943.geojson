@@ -12,8 +12,10 @@
     "gn:latitude":47.04849,
     "gn:longitude":21.94948,
     "iso:country":"RO",
+    "lbl:bbox":"21.936711,47.047005,21.946711,47.057005",
     "lbl:latitude":47.052005,
     "lbl:longitude":21.941711,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.994304,
     "mps:longitude":21.982701,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:rum_x_colloquial":[
         "Velenta"
     ],
-    "name:unk_x_variant":[
-        "Velen\u021ba"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":671768,
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":113,
     "wof:belongsto":[
         102191581,
@@ -88,7 +87,6 @@
     "wof:concordances":{
         "gn:id":663073,
         "gp:id":883405,
-        "qs:id":1167617,
         "qs_pg:id":1167617,
         "wd:id":"Q4683381",
         "wk:page":"Velen\u021ba"
@@ -108,7 +106,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574425,
+    "wof:lastmodified":1566610006,
     "wof:name":"Velen\u021ba",
     "wof:parent_id":101752025,
     "wof:placetype":"neighbourhood",

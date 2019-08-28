@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.213461,
     "lbl:longitude":22.927233,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.213461,
     "mps:longitude":22.927233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cujmir"
     ],
@@ -51,9 +54,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0436\u043c\u0456\u0440"
     ],
-    "name:unk_x_variant":[
-        "Cujmiru"
-    ],
     "name:vie_x_preferred":[
         "Cujmir"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"039f7130-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679979,
         "gp:id":870850,
-        "qs:id":127727,
         "qs_pg:id":127727,
         "wd:id":"Q2127632"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575651,
+    "wof:lastmodified":1566610751,
     "wof:name":"Cujmir",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.326689,
     "lbl:longitude":21.688639,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.326689,
     "mps:longitude":21.688639,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "P\u00e2ncota"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":670794,
         "gp:id":877608,
-        "qs:id":127291,
         "qs_pg:id":127291,
         "wd:id":"Q16898092"
     },
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":101789699,
-    "wof:lastmodified":1563576987,
+    "wof:lastmodified":1566611218,
     "wof:name":"P\u00e2ncota",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

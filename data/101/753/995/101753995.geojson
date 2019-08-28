@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.514823,
     "lbl:longitude":24.504198,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.514823,
     "mps:longitude":24.504198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Criste\u0219ti"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u0441\u0442\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maroskeresztur"
     ],
     "name:vol_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,9 +90,11 @@
     "wof:concordances":{
         "gn:id":680180,
         "gp:id":870711,
-        "qs:id":1091672,
         "qs_pg:id":275321,
         "wd:id":"Q1096301"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1091672
     },
     "wof:country":"RO",
     "wof:geomhash":"81de748c1e8ccc95a1d3ed078bc2d5b7",
@@ -102,7 +107,7 @@
         }
     ],
     "wof:id":101753995,
-    "wof:lastmodified":1563575477,
+    "wof:lastmodified":1566610693,
     "wof:name":"Criste\u015fti",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

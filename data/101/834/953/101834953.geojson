@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.68413,
     "lbl:longitude":27.518728,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.68413,
     "mps:longitude":27.518728,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ive\u0219ti"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":675418,
         "gp:id":874193,
-        "qs:id":127525,
         "qs_pg:id":127525,
         "wd:id":"Q2289283"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101834953,
-    "wof:lastmodified":1563575963,
+    "wof:lastmodified":1566610865,
     "wof:name":"Ive\u015fti",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

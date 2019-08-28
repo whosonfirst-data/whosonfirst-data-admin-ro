@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.482969,
     "lbl:longitude":26.257165,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.482969,
     "mps:longitude":26.257165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lunca Jari\u0219tei"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043d\u043a\u0430-\u0416\u0430\u0440\u0456\u0448\u0442\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Broasca"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":674400,
         "gp:id":874956,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12118806"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101790751,
-    "wof:lastmodified":1563575402,
+    "wof:lastmodified":1566610667,
     "wof:name":"Lunca Jari\u015ftei",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

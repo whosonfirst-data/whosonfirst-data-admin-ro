@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.526777,
     "lbl:longitude":25.991052,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.526777,
     "mps:longitude":25.991052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Capu Codrului"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u0443-\u041a\u043e\u0434\u0440\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Capul-Codrului"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -56,7 +59,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +70,7 @@
     "wof:concordances":{
         "gn:id":682772,
         "gp:id":868810,
-        "qs:id":941107,
+        "qs_pg:id":941107,
         "wd:id":"Q12108410"
     },
     "wof:country":"RO",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101833861,
-    "wof:lastmodified":1563575893,
+    "wof:lastmodified":1566610841,
     "wof:name":"Capu Codrului",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

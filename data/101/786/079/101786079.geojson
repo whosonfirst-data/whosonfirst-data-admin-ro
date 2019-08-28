@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.278875,
     "lbl:longitude":22.940659,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.278875,
     "mps:longitude":22.940659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Borla"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":684196,
         "gp:id":867770,
-        "qs:id":409499,
+        "qs_pg:id":409499,
         "wd:id":"Q731548"
     },
     "wof:country":"RO",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101786079,
-    "wof:lastmodified":1561830824,
+    "wof:lastmodified":1566611147,
     "wof:name":"Borla",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

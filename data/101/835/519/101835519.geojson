@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.212817,
     "lbl:longitude":26.302312,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.212817,
     "mps:longitude":26.302312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u043b\u044f \u0414\u0440\u0430\u0433\u0443\u043b\u0443\u0439"
     ],
@@ -44,9 +47,6 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0430 \u0414\u0440\u0430\u0433\u0443\u043b\u0443\u0458"
     ],
-    "name:unk_x_variant":[
-        "Valea Dragu"
-    ],
     "name:vie_x_preferred":[
         "Valea Dragului"
     ],
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +81,6 @@
         "fct:id":"03a59a60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663777,
         "gp:id":882796,
-        "qs:id":413423,
         "qs_pg:id":413423,
         "wd:id":"Q2717802"
     },
@@ -99,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575759,
+    "wof:lastmodified":1566610789,
     "wof:name":"Valea Dragului",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

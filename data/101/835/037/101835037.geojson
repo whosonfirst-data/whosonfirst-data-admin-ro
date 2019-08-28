@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.324672,
     "lbl:longitude":26.551664,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.324672,
     "mps:longitude":26.551664,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cucuie\u021bi"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043a\u0443\u0454\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cucue\u0163ii"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":680027,
         "gp:id":871454,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12115620"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101835037,
-    "wof:lastmodified":1563575753,
+    "wof:lastmodified":1566610787,
     "wof:name":"Cucuie\u0163i",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

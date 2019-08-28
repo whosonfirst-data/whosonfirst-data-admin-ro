@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.179072,
     "lbl:longitude":26.641227,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.179072,
     "mps:longitude":26.641227,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Soci"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":666586,
         "gp:id":880717,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q12154847"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101833729,
-    "wof:lastmodified":1563575956,
+    "wof:lastmodified":1566610863,
     "wof:name":"Soci",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

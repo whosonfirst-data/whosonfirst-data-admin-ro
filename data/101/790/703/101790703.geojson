@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.265179,
     "lbl:longitude":27.386688,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.265179,
     "mps:longitude":27.386688,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gr\u0103di\u0219tea"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0435\u0434\u0456\u0448\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gr\u0103di\u015ftea de Sus"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":676813,
         "gp:id":873178,
-        "qs:id":127582,
         "qs_pg:id":127582,
         "wd:id":"Q13542612"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101790703,
-    "wof:lastmodified":1563575404,
+    "wof:lastmodified":1566610668,
     "wof:name":"Gr\u0103di\u015ftea",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"24.94961,44.86506,24.94961,44.86506",
     "geom:latitude":44.86506,
     "geom:longitude":24.94961,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":12837,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":12837,
     "iso:country":"RO",
+    "lbl:bbox":"24.92961,44.84506,24.96961,44.88506",
     "lbl:latitude":44.86506,
     "lbl:longitude":24.94961,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Partizanii"
     ],
     "qs_pg:aaroncc":"RO",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":1027395,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1125888829,
-    "wof:lastmodified":1509398674,
+    "wof:lastmodified":1566611319,
     "wof:name":"\u015etef\u0103ne\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

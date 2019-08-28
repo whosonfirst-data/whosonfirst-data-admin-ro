@@ -9,15 +9,18 @@
     "geom:bbox":"22.78333,46.38333,22.78333,46.38333",
     "geom:latitude":46.38333,
     "geom:longitude":22.78333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1806,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1806,
     "iso:country":"RO",
+    "lbl:bbox":"22.76333,46.36333,22.80333,46.40333",
     "lbl:latitude":46.38333,
     "lbl:longitude":22.78333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Avram Iancu"
@@ -61,7 +64,7 @@
     "name:srp_x_preferred":[
         "\u0410\u0432\u0440\u0430\u043c \u0408\u0430\u043d\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vidra de Sus"
     ],
     "qs_pg:aaroncc":"RO",
@@ -85,7 +88,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":866478,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125873491,
-    "wof:lastmodified":1564101482,
+    "wof:lastmodified":1566611335,
     "wof:name":"Avram Iancu",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

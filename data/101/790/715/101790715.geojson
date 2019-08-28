@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.363233,
     "lbl:longitude":27.112573,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.363233,
     "mps:longitude":27.112573,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "R\u00e2mnicelu"
     ],
@@ -48,7 +51,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u043c\u043d\u0456\u0447\u0435\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obidi\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -66,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
         "fct:id":"03a3a8a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668882,
         "gp:id":879079,
-        "qs:id":1279308,
+        "qs_pg:id":1279308,
         "wd:id":"Q13572042"
     },
     "wof:country":"RO",
@@ -95,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575392,
+    "wof:lastmodified":1566610665,
     "wof:name":"R\u00e2mnicelu",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

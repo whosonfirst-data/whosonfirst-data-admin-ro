@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.528084,
     "lbl:longitude":27.288475,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.528084,
     "mps:longitude":27.288475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u062f\u0631\u064a\u0634\u064a\u0646\u064a"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,6 @@
     "wof:concordances":{
         "gn:id":686341,
         "gp:id":866244,
-        "qs:id":128122,
         "qs_pg:id":128122,
         "wd:id":"Q2621145"
     },
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101782577,
-    "wof:lastmodified":1563576159,
+    "wof:lastmodified":1566610936,
     "wof:name":"Andrie\u015feni",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

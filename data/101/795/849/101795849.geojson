@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.915381,
     "lbl:longitude":23.712924,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.915381,
     "mps:longitude":23.712924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "M\u0103ce\u0219u de Sus"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0447\u0435\u0448\u0443-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u0103ce\u015fiu-de-Sus"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":674235,
         "gp:id":875090,
-        "qs:id":275261,
         "qs_pg:id":275261,
         "wd:id":"Q2467020"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101795849,
-    "wof:lastmodified":1563576478,
+    "wof:lastmodified":1566611043,
     "wof:name":"M\u0103ce\u015fu de Sus",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

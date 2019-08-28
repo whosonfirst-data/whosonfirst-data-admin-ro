@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.277473,
     "lbl:longitude":25.303494,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.277473,
     "mps:longitude":25.303494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Talpa-Ogr\u0103zile"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":665593,
         "gp:id":881434,
-        "qs:id":1279606,
+        "qs_pg:id":1279606,
         "wd:id":"Q12159826"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101794847,
-    "wof:lastmodified":1563576390,
+    "wof:lastmodified":1566611016,
     "wof:name":"Talpa-Ogr\u0103zile",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",

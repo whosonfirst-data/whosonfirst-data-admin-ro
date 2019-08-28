@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.584253,
     "lbl:longitude":27.020811,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.584253,
     "mps:longitude":27.020811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gura Cali\u021bei"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":676557,
         "gp:id":873369,
-        "qs:id":127571,
         "qs_pg:id":127571,
         "wd:id":"Q14025903"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101845201,
-    "wof:lastmodified":1563575685,
+    "wof:lastmodified":1566610762,
     "wof:name":"Gura Cali\u0163ei",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

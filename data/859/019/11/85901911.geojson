@@ -11,8 +11,10 @@
     "geom:longitude":28.637717,
     "gn:id":"",
     "iso:country":"RO",
+    "lbl:bbox":"28.632717,44.208342,28.642717,44.218342",
     "lbl:latitude":44.213342,
     "lbl:longitude":28.637717,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.217198,
     "mps:longitude":28.634445,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     "name:rum_x_colloquial":[
         "Tabacarie",
         "Taebaecaerie"
-    ],
-    "name:unk_x_variant":[
-        "T\u0103b\u0103c\u0103rie"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751965,
@@ -68,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":881397,
-        "qs:id":1092962,
         "qs_pg:id":1092962
     },
     "wof:country":"RO",
@@ -86,7 +84,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830678,
+    "wof:lastmodified":1566610005,
     "wof:name":"T\u0103b\u0103c\u0103rie",
     "wof:parent_id":101751965,
     "wof:placetype":"neighbourhood",

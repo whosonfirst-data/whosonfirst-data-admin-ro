@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.260901,
     "lbl:longitude":22.12904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.260901,
     "mps:longitude":22.12904,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna Ciuhoi"
     ],
@@ -90,7 +93,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":183,
     "wof:belongsto":[
         102191581,
@@ -99,7 +102,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q5611575"
     },
     "wof:country":"RO",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101787391,
-    "wof:lastmodified":1563576843,
+    "wof:lastmodified":1566611166,
     "wof:name":"S\u00e2niob",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

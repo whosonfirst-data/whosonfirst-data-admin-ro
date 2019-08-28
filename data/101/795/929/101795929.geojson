@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.127698,
     "lbl:longitude":23.902774,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.127698,
     "mps:longitude":23.902774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bratovoe\u0219ti"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":683791,
         "gp:id":868063,
-        "qs:id":1028193,
+        "qs_pg:id":1028193,
         "wd:id":"Q2538619"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101795929,
-    "wof:lastmodified":1563576491,
+    "wof:lastmodified":1566611047,
     "wof:name":"Bratovoe\u015fti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.79427,
     "lbl:longitude":21.241966,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.79427,
     "mps:longitude":21.241966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Neussentesch"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043c\u0431\u0440\u0435\u0432\u0456\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uisente\u015f"
     ],
     "name:vol_x_preferred":[
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":678688,
         "gp:id":871809,
-        "qs:id":127674,
         "qs_pg:id":127674,
         "wd:id":"Q1044083"
     },
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":101753969,
-    "wof:lastmodified":1563575480,
+    "wof:lastmodified":1566610694,
     "wof:name":"Dumbr\u0103vi\u0163a",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

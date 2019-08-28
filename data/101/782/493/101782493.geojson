@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.925687,
     "lbl:longitude":23.485009,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.925687,
     "mps:longitude":23.485009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Huta Certeze"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0442\u0430-\u0427\u0435\u0440\u0442\u0435\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hutta"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":675881,
         "gp:id":873869,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q741529"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101782493,
-    "wof:lastmodified":1563576149,
+    "wof:lastmodified":1566610933,
     "wof:name":"Huta Certeze",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

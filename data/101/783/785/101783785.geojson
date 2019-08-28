@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.701756,
     "lbl:longitude":24.11301,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.701756,
     "mps:longitude":24.11301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Poienile Izei"
     ],
@@ -53,9 +56,6 @@
     "name:srp_x_preferred":[
         "\u041f\u043e\u0458\u0435\u043d\u0438\u043b\u0435 \u0418\u0437\u0435\u0458"
     ],
-    "name:unk_x_variant":[
-        "Poienile Glodului"
-    ],
     "name:vie_x_preferred":[
         "Poienile Izei"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,6 @@
         "fct:id":"03a33bf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669993,
         "gp:id":878261,
-        "qs:id":908889,
         "qs_pg:id":908889,
         "wd:id":"Q1090023"
     },
@@ -108,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576180,
+    "wof:lastmodified":1566610944,
     "wof:name":"Poienile Izei",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

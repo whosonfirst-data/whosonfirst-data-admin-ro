@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.504346,
     "lbl:longitude":24.924712,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.504346,
     "mps:longitude":24.924712,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0445\u0438\u043d\u0434\u0430\u0440\u0438"
     ],
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +99,6 @@
         "fct:id":"03a06d9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677357,
         "gp:id":872800,
-        "qs:id":1027866,
         "qs_pg:id":1027866,
         "wd:id":"Q1092583"
     },
@@ -114,7 +116,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576751,
+    "wof:lastmodified":1566611136,
     "wof:name":"Ghindari",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

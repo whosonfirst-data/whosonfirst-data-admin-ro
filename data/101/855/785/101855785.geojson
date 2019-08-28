@@ -11,12 +11,16 @@
     "geom:longitude":23.952766,
     "gn:population":1695,
     "iso:country":"RO",
+    "lbl:bbox":"23.932766,45.40297,23.972766,45.44297",
     "lbl:latitude":45.42297,
     "lbl:longitude":23.952766,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.42297,
     "mps:longitude":23.952766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Voineasa"
     ],
@@ -47,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u0439\u043d\u044f\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Voineasca"
-    ],
     "name:vie_x_preferred":[
         "Voineasa"
     ],
@@ -70,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +83,6 @@
         "fct:id":"03a61c74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662530,
         "gp:id":883802,
-        "qs:id":275178,
         "qs_pg:id":275178,
         "wd:id":"Q2548640"
     },
@@ -100,7 +100,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576648,
+    "wof:lastmodified":1566611102,
     "wof:name":"Voineasa",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

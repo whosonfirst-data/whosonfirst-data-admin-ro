@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.407398,
     "lbl:longitude":21.502611,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.407398,
     "mps:longitude":21.502611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "M\u0103ureni"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0443\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mori\u0163feld"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -104,7 +107,6 @@
         "fct:id":"03a1d722-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":673660,
         "gp:id":875516,
-        "qs:id":1027709,
         "qs_pg:id":1027709,
         "wd:id":"Q1076604"
     },
@@ -122,7 +124,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576579,
+    "wof:lastmodified":1566611078,
     "wof:name":"M\u0103ureni",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

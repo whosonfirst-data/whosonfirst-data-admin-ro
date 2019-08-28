@@ -9,17 +9,19 @@
     "geom:bbox":"26.38333,45.31667,26.38333,45.31667",
     "geom:latitude":45.31667,
     "geom:longitude":26.38333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":2835,
+    "gn:country":"RO",
+    "gn:fcode":"PPLX",
     "gn:population":2835,
     "iso:country":"RO",
+    "lbl:bbox":"26.37833,45.31167,26.38833,45.32167",
     "lbl:latitude":45.31667,
     "lbl:longitude":26.38333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Babi\u0163a"
     ],
     "qs_pg:aaroncc":"RO",
@@ -34,7 +36,7 @@
     "qs_pg:qs_id":1028287,
     "qs_pg:qs_pg_placetype":"neighbourhood",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1126065099,
-    "wof:lastmodified":1509410384,
+    "wof:lastmodified":1566611366,
     "wof:name":"Babe\u0163i",
     "wof:parent_id":101834805,
     "wof:placetype":"neighbourhood",

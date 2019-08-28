@@ -9,17 +9,19 @@
     "geom:bbox":"25.8182118665,43.9180513001,25.8460597245,43.9351528368",
     "geom:latitude":43.926462,
     "geom:longitude":25.832026,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":3228,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":3228,
     "iso:country":"RO",
     "lbl:latitude":43.925791,
     "lbl:longitude":25.832975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.925791,
     "mps:longitude":25.832975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "St\u0103ne\u0219ti"
     ],
@@ -53,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mijlocu"
     ],
     "name:vie_x_preferred":[
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -100,7 +102,6 @@
     "wof:concordances":{
         "gn:id":666300,
         "gp:id":880925,
-        "qs:id":275206,
         "qs_pg:id":275204,
         "wd:id":"Q2606419"
     },
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":101796049,
-    "wof:lastmodified":1563575630,
+    "wof:lastmodified":1566610744,
     "wof:name":"St\u0103ne\u015fti",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

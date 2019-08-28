@@ -11,12 +11,16 @@
     "geom:longitude":23.133249,
     "gn:population":9924,
     "iso:country":"RO",
+    "lbl:bbox":"23.113249,45.325307,23.153249,45.365307",
     "lbl:latitude":45.345307,
     "lbl:longitude":23.133249,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.345307,
     "mps:longitude":23.133249,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uricani"
     ],
@@ -43,7 +47,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +59,6 @@
         "fct:id":"03a5751c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664163,
         "gp:id":882484,
-        "qs:id":126759,
         "qs_pg:id":126759,
         "wd:id":"Q16898334"
     },
@@ -73,7 +76,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575694,
+    "wof:lastmodified":1566610766,
     "wof:name":"Uricani",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

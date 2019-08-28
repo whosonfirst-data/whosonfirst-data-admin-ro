@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.247385,
     "lbl:longitude":23.934546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.247385,
     "mps:longitude":23.934546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Co\u0219oveni"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0448\u043e\u0432\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Co\u015fovenii de Sus"
     ],
     "name:vol_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":680601,
         "gp:id":870410,
-        "qs:id":1028050,
         "qs_pg:id":1028050,
         "wd:id":"Q1927696"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101794737,
-    "wof:lastmodified":1563576344,
+    "wof:lastmodified":1566610998,
     "wof:name":"Co\u015foveni",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.367751,
     "lbl:longitude":24.867469,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.367751,
     "mps:longitude":24.867469,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ilva Mare"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0432\u0430-\u041c\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Nagyilva"
-    ],
     "name:vie_x_preferred":[
         "Ilva Mare"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +93,6 @@
         "fct:id":"03a116ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675632,
         "gp:id":874037,
-        "qs:id":43146,
         "qs_pg:id":43146,
         "wd:id":"Q1188912"
     },
@@ -111,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575944,
+    "wof:lastmodified":1566610858,
     "wof:name":"Ilva Mare",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

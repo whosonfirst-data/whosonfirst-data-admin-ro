@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.421101,
     "lbl:longitude":24.342735,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.421101,
     "mps:longitude":24.342735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0447\u0438\u0433\u0438\u0443"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043a\u0456\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciblasfalva"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -70,7 +73,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":684905,
         "gp:id":867266,
-        "qs:id":409402,
+        "qs_pg:id":409402,
         "wd:id":"Q852122"
     },
     "wof:country":"RO",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101843687,
-    "wof:lastmodified":1563575702,
+    "wof:lastmodified":1566610768,
     "wof:name":"Bichigiu",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

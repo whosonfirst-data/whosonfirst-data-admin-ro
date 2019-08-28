@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.347716,
     "lbl:longitude":28.160226,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.347716,
     "mps:longitude":28.160226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0440\u0432\u0430\u043d"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":677582,
         "gp:id":872637,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q12094349"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101790865,
-    "wof:lastmodified":1563575426,
+    "wof:lastmodified":1566610675,
     "wof:name":"Garvan",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

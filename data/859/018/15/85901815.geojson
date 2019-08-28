@@ -10,8 +10,10 @@
     "geom:latitude":47.743522,
     "geom:longitude":26.656828,
     "iso:country":"RO",
+    "lbl:bbox":"26.651828,47.738522,26.661828,47.748522",
     "lbl:latitude":47.743522,
     "lbl:longitude":26.656828,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.743017,
     "mps:longitude":26.654368,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ron_x_preferred":[
-        "Luizoaia"
-    ],
-    "name:unk_x_variant":[
         "Luizoaia"
     ],
     "qs:gn_adm0_cc":"RO",
@@ -54,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101752045,
@@ -80,7 +79,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830674,
+    "wof:lastmodified":1566609995,
     "wof:name":"Luizoaia",
     "wof:parent_id":101752045,
     "wof:placetype":"neighbourhood",

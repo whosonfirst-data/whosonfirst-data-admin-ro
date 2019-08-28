@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.542924,
     "lbl:longitude":27.314891,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.542924,
     "mps:longitude":27.314891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bordeasca Veche"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0434\u044f\u0441\u043a\u0430-\u0412\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bordeasca"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":684220,
         "gp:id":867752,
-        "qs:id":185204,
+        "qs_pg:id":185204,
         "wd:id":"Q12083986"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101789887,
-    "wof:lastmodified":1563576934,
+    "wof:lastmodified":1566611199,
     "wof:name":"Bordeasca Veche",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

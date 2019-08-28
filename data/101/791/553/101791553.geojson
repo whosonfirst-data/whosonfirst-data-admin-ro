@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.173894,
     "lbl:longitude":24.847369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.173894,
     "mps:longitude":24.847369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pietro\u0219ani"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041f'\u0454\u0442\u0440\u043e\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pietro\u015fanii"
     ],
     "name:vol_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":670819,
         "gp:id":877594,
-        "qs:id":127292,
         "qs_pg:id":127292,
         "wd:id":"Q2534807"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101791553,
-    "wof:lastmodified":1563575567,
+    "wof:lastmodified":1566610724,
     "wof:name":"Pietro\u015fani",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

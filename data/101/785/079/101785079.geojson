@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.576551,
     "lbl:longitude":23.417531,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.576551,
     "mps:longitude":23.417531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0442\u0443\u043b\u0443\u043d\u0433"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,9 +93,11 @@
         "fct:id":"03a41474-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667883,
         "gp:id":879867,
-        "qs:id":127048,
         "qs_pg:id":58125,
         "wd:id":"Q1126840"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":127048
     },
     "wof:country":"RO",
     "wof:geomhash":"30b0ee8d2e0354ce2e7b39ff1e6ef9d7",
@@ -108,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576088,
+    "wof:lastmodified":1566610910,
     "wof:name":"Satulung",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

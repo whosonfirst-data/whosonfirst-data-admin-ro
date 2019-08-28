@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.75703,
     "lbl:longitude":24.310594,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.75703,
     "mps:longitude":24.310594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gura Padinii"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u0430-\u041f\u0430\u0434\u0456\u043d\u0456\u0439"
     ],
-    "name:unk_x_variant":[
-        "Gura Padini"
-    ],
     "name:vol_x_preferred":[
         "Gura Padinii"
     ],
@@ -70,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +82,7 @@
         "fct:id":"03a0bba8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676503,
         "gp:id":873409,
-        "qs:id":410960,
+        "qs_pg:id":410960,
         "wd:id":"Q2549528"
     },
     "wof:country":"RO",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575643,
+    "wof:lastmodified":1566610748,
     "wof:name":"Gura Padinii",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

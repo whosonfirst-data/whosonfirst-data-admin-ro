@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.23955,
     "lbl:longitude":27.696795,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.23955,
     "mps:longitude":27.696795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u0627\u064a\u0634\u062a\u064a"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":676960,
         "gp:id":873081,
-        "qs:id":127594,
+        "qs_pg:id":127594,
         "wd:id":"Q2607538"
     },
     "wof:country":"RO",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101783891,
-    "wof:lastmodified":1563576203,
+    "wof:lastmodified":1566610949,
     "wof:name":"Gol\u0103ie\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

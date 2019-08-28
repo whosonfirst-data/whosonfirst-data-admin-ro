@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.084948,
     "lbl:longitude":29.088387,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.084948,
     "mps:longitude":29.088387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0445\u043c\u0443\u0434\u0438\u044f"
     ],
@@ -54,9 +57,6 @@
     "name:srp_x_preferred":[
         "\u041c\u0430\u0445\u043c\u0443\u0434\u0438\u0458\u0430"
     ],
-    "name:unk_x_variant":[
-        "Mahmudie"
-    ],
     "name:vie_x_preferred":[
         "Mahmudia"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"03a1acb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674078,
         "gp:id":875212,
-        "qs:id":127464,
         "qs_pg:id":127464,
         "wd:id":"Q970516"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575410,
+    "wof:lastmodified":1566610670,
     "wof:name":"Mahmudia",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

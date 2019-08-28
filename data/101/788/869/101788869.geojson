@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.150544,
     "lbl:longitude":27.531329,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.150544,
     "mps:longitude":27.531329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pogone\u0219ti"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0433\u043e\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pogone\u015ftii"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":670164,
         "gp:id":878114,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2298030"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101788869,
-    "wof:lastmodified":1563576690,
+    "wof:lastmodified":1566611116,
     "wof:name":"Pogone\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

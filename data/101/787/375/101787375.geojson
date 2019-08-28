@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.221244,
     "lbl:longitude":22.031126,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.221244,
     "mps:longitude":22.031126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "S\u0103lard"
     ],
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +97,6 @@
         "fct:id":"03a3e846-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668243,
         "gp:id":879521,
-        "qs:id":631589,
         "qs_pg:id":631589,
         "wd:id":"Q1093221"
     },
@@ -112,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576903,
+    "wof:lastmodified":1566611187,
     "wof:name":"S\u0103lard",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

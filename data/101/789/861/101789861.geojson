@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.136407,
     "lbl:longitude":25.706883,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.136407,
     "mps:longitude":25.706883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Herculian"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0440\u043a\u0443\u043b\u0456\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magyarherm\u00e0ny"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":676239,
         "gp:id":873612,
-        "qs:id":411021,
+        "qs_pg:id":411021,
         "wd:id":"Q713958"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101789861,
-    "wof:lastmodified":1563576943,
+    "wof:lastmodified":1566611202,
     "wof:name":"Herculian",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

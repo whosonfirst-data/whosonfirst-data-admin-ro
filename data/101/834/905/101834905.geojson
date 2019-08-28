@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.633511,
     "lbl:longitude":25.990955,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.633511,
     "mps:longitude":25.990955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Acri\u0219"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0440\u0456\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acri\u015fu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":686695,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12077355"
     },
     "wof:country":"RO",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101834905,
-    "wof:lastmodified":1563576032,
+    "wof:lastmodified":1566610890,
     "wof:name":"Acri\u015f",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

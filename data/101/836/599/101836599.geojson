@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.284277,
     "lbl:longitude":24.555464,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.284277,
     "mps:longitude":24.555464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "V\u00e2lcelele de Sus"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043b\u0447\u0435\u043b\u0435\u043b\u0435-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00eelcelele de Sus"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":662862,
         "gp:id":883570,
-        "qs:id":413646,
+        "qs_pg:id":413646,
         "wd:id":"Q12089358"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101836599,
-    "wof:lastmodified":1563576628,
+    "wof:lastmodified":1566611095,
     "wof:name":"V\u00e2lcelele de Sus",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

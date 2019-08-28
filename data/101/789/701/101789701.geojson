@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.336784,
     "lbl:longitude":21.577328,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.336784,
     "mps:longitude":21.577328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Caporal Alexa"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u043e\u0440\u0430\u043b-\u0410\u043b\u0435\u043a\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cherechiu"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":682798,
         "gp:id":868790,
-        "qs:id":409766,
+        "qs_pg:id":409766,
         "wd:id":"Q755594"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101789701,
-    "wof:lastmodified":1563576923,
+    "wof:lastmodified":1566611195,
     "wof:name":"Caporal Alexa",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

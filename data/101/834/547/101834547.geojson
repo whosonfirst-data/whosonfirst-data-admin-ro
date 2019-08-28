@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.261229,
     "lbl:longitude":25.040581,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.261229,
     "mps:longitude":25.040581,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "C\u00e2mpulung"
     ],
@@ -127,9 +130,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u043c\u043f\u0443\u043b\u0443\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "C\u00e2mpulung"
-    ],
     "name:vie_x_preferred":[
         "C\u00e2mpulung"
     ],
@@ -150,7 +150,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -160,7 +160,7 @@
     "wof:concordances":{
         "gn:id":681850,
         "gp:id":869491,
-        "qs:id":242635,
+        "qs_pg:id":242635,
         "wd:id":"Q736296"
     },
     "wof:country":"RO",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":101834547,
-    "wof:lastmodified":1563576071,
+    "wof:lastmodified":1566610903,
     "wof:name":"Campulung",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

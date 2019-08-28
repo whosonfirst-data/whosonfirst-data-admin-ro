@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.439317,
     "lbl:longitude":21.432949,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.439317,
     "mps:longitude":21.432949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sculia"
     ],
@@ -41,9 +44,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0443\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Szigetfalu"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Timis",
     "qs:a1r":"0",
@@ -58,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +69,7 @@
     "wof:concordances":{
         "gn:id":667565,
         "gp:id":880026,
-        "qs:id":412713,
+        "qs_pg:id":412713,
         "wd:id":"Q751848"
     },
     "wof:country":"RO",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101835913,
-    "wof:lastmodified":1563575771,
+    "wof:lastmodified":1566610793,
     "wof:name":"Sculia",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

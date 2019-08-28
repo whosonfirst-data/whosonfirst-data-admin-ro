@@ -9,14 +9,17 @@
     "geom:bbox":"25.2202393878,44.5082552221,25.2574912215,44.5348838909",
     "geom:latitude":44.521576,
     "geom:longitude":25.238159,
-    "geonames:id":"666717,666716",
+    "gn:id":"666717,666716",
     "iso:country":"RO",
     "lbl:latitude":44.515538,
     "lbl:longitude":25.23322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.515538,
     "mps:longitude":25.23322,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Slobozia"
     ],
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u043e\u0431\u043e\u0437\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Slobozia de Sus"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":462,
     "wof:belongsto":[
         102191581,
@@ -167,9 +170,11 @@
     "wof:concordances":{
         "gn:id":666716,
         "gp:id":880649,
-        "qs:id":6,
-        "qs_pg:id":275210,
+        "qs_pg:id":6,
         "wd:id":"Q215723"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275210
     },
     "wof:country":"RO",
     "wof:geomhash":"3ba12a10886ce301ab60a3985a8cc678",
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":101794091,
-    "wof:lastmodified":1563576359,
+    "wof:lastmodified":1566611005,
     "wof:name":"Slobozia",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

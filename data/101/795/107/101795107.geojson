@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.769487,
     "lbl:longitude":21.570523,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.769487,
     "mps:longitude":21.570523,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pojejena"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0436\u0435\u0436\u0435\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Rumunska Po\u017ee\u017eena"
-    ],
     "name:vie_x_preferred":[
         "Pojejena"
     ],
@@ -84,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +96,6 @@
         "fct:id":"03a33dc4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669980,
         "gp:id":878272,
-        "qs:id":1027529,
         "qs_pg:id":1027529,
         "wd:id":"Q673020"
     },
@@ -114,7 +113,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576471,
+    "wof:lastmodified":1566611041,
     "wof:name":"Pojejena",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

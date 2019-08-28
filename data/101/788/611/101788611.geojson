@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.619023,
     "lbl:longitude":24.067185,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.619023,
     "mps:longitude":24.067185,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Larg\u0103"
     ],
@@ -57,7 +60,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u041b\u0430\u0440\u0433\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0162iguit"
     ],
     "name:vol_x_preferred":[
@@ -77,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,7 +92,7 @@
         "fct:id":"03a70116-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663715,
         "gp:id":15002439,
-        "qs:id":49052,
+        "qs_pg:id":49052,
         "wd:id":"Q1176493"
     },
     "wof:country":"RO",
@@ -106,7 +109,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576683,
+    "wof:lastmodified":1566611114,
     "wof:name":"Valea Larg\u0103",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

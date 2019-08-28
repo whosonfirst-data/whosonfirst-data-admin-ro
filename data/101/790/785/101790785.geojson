@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.892964,
     "lbl:longitude":28.718422,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.892964,
     "mps:longitude":28.718422,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Babadag"
     ],
@@ -39,9 +42,6 @@
     "name:tur_x_variant":[
         "Babada\u011f\u0131"
     ],
-    "name:unk_x_variant":[
-        "Babadau"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Tulcea",
     "qs:a1r":"0",
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +70,6 @@
         "fct:id":"039d379e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685997,
         "gp:id":866498,
-        "qs:id":128089,
         "qs_pg:id":128089,
         "wd:id":"Q16898607"
     },
@@ -88,7 +87,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575391,
+    "wof:lastmodified":1566610664,
     "wof:name":"Babadag",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

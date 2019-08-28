@@ -9,15 +9,18 @@
     "geom:bbox":"27.41667,45.61667,27.41667,45.61667",
     "geom:latitude":45.61667,
     "geom:longitude":27.41667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":8549,
-    "gn:population":3344,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":8549,
     "iso:country":"RO",
+    "lbl:bbox":"27.39667,45.59667,27.43667,45.63667",
     "lbl:latitude":45.61667,
     "lbl:longitude":27.41667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Vulturu"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0443\u043b\u0442\u0443\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vulturul-de-Sus"
     ],
     "qs_pg:aaroncc":"RO",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":275173,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125984311,
-    "wof:lastmodified":1563577372,
+    "wof:lastmodified":1566611360,
     "wof:name":"Vulturu de Sus",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

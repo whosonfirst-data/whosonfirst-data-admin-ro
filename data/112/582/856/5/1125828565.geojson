@@ -9,15 +9,18 @@
     "geom:bbox":"24.41667,44.6,24.41667,44.6",
     "geom:latitude":44.6,
     "geom:longitude":24.41667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1265,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1265,
     "iso:country":"RO",
+    "lbl:bbox":"24.39667,44.58,24.43667,44.62",
     "lbl:latitude":44.6,
     "lbl:longitude":24.41667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041e\u043f\u043e\u0440\u0435\u043b\u0443"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043f\u043e\u0440\u0435\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oporelul"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":876872,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125828565,
-    "wof:lastmodified":1563577448,
+    "wof:lastmodified":1566611385,
     "wof:name":"Oporelu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

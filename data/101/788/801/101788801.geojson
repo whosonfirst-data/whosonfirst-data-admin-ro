@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.765784,
     "lbl:longitude":22.148771,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.765784,
     "mps:longitude":22.148771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u0442\u0435\u0440\u0435"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":662802,
         "gp:id":883611,
-        "qs:id":883824,
+        "qs_pg:id":883824,
         "wd:id":"Q725221"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101788801,
-    "wof:lastmodified":1563576740,
+    "wof:lastmodified":1566611133,
     "wof:name":"Vintere",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

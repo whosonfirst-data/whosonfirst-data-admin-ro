@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.754302,
     "lbl:longitude":28.570574,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":43.754302,
     "mps:longitude":28.570574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u043b\u0430\u043d\u043b\u044a\u043a"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043c\u0430-\u0412\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ilanl\u00e2c"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":43.752222,
     "wd:longitude":28.571111,
@@ -90,7 +93,6 @@
     "wof:concordances":{
         "gn:id":663216,
         "gp:id":883295,
-        "qs:id":550692,
         "qs_pg:id":550692,
         "wd:id":"Q936239",
         "wk:page":"Vama Veche"
@@ -106,7 +108,7 @@
         }
     ],
     "wof:id":101910925,
-    "wof:lastmodified":1563577008,
+    "wof:lastmodified":1566611226,
     "wof:name":"Vama Veche",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

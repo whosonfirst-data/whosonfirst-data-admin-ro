@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":48.216989,
     "lbl:longitude":26.648102,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":48.216989,
     "mps:longitude":26.648102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u0103ltini\u0219"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":671427,
         "gp:id":877150,
-        "qs:id":1027608,
         "qs_pg:id":1027608,
         "wd:id":"Q2534318"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101780169,
-    "wof:lastmodified":1563576909,
+    "wof:lastmodified":1566611189,
     "wof:name":"P\u0103ltini\u015f",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

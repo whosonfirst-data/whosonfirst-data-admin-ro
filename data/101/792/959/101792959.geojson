@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.915856,
     "lbl:longitude":25.958934,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.915856,
     "mps:longitude":25.958934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Strejnicu"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0435\u0436\u043d\u0456\u043a\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Strejnicul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":665985,
         "gp:id":881163,
-        "qs:id":1354307,
         "qs_pg:id":1354307,
         "wd:id":"Q3500298"
     },
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101792959,
-    "wof:lastmodified":1563576552,
+    "wof:lastmodified":1566611068,
     "wof:name":"Strejnicu",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

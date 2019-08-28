@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.708264,
     "lbl:longitude":22.500408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.708264,
     "mps:longitude":22.500408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103pleni"
     ],
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +91,6 @@
         "fct:id":"039e63f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682800,
         "gp:id":868789,
-        "qs:id":1278089,
         "qs_pg:id":1278089,
         "wd:id":"Q379146"
     },
@@ -106,7 +108,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575933,
+    "wof:lastmodified":1566610855,
     "wof:name":"C\u0103pleni",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

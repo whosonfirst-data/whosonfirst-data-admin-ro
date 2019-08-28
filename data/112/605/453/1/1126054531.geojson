@@ -9,15 +9,18 @@
     "geom:bbox":"22.7925,44.85361,22.7925,44.85361",
     "geom:latitude":44.85361,
     "geom:longitude":22.7925,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1416,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1416,
     "iso:country":"RO",
+    "lbl:bbox":"22.7725,44.83361,22.8125,44.87361",
     "lbl:latitude":44.85361,
     "lbl:longitude":22.7925,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "\u0218ovarna"
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u0432\u0430\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sovarna de Jos"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +78,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":880849,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126054531,
-    "wof:lastmodified":1563577138,
+    "wof:lastmodified":1566611291,
     "wof:name":"\u015eovarna",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

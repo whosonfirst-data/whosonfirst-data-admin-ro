@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.261397,
     "lbl:longitude":22.367522,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.261397,
     "mps:longitude":22.367522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0435\u0438"
     ],
@@ -50,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0434\u0436\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogeiul"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -67,7 +70,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":684379,
         "gp:id":867640,
-        "qs:id":1277951,
+        "qs_pg:id":1277951,
         "wd:id":"Q280233"
     },
     "wof:country":"RO",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101833505,
-    "wof:lastmodified":1563575873,
+    "wof:lastmodified":1566610833,
     "wof:name":"Bogei",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

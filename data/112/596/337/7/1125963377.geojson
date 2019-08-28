@@ -9,14 +9,18 @@
     "geom:bbox":"25.91667,47.65,25.91667,47.65",
     "geom:latitude":47.65,
     "geom:longitude":25.91667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RO",
+    "lbl:bbox":"25.89667,47.63,25.93667,47.67",
     "lbl:latitude":47.65,
     "lbl:longitude":25.91667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "P\u00e2rte\u0219tii de Sus"
@@ -36,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0440\u0442\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u0103rte\u015ftii de Sus"
     ],
     "qs_pg:aaroncc":"RO",
@@ -60,7 +64,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877706,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
     "woe:name_adm1":"Suceava",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1125963377,
-    "wof:lastmodified":1561830861,
+    "wof:lastmodified":1566611345,
     "wof:name":"P\u00eerte\u0219tii de Sus",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

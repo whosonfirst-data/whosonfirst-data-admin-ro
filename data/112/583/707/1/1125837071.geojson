@@ -9,15 +9,18 @@
     "geom:bbox":"29.21667,44.98333,29.21667,44.98333",
     "geom:latitude":44.98333,
     "geom:longitude":29.21667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":703,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RO",
+    "lbl:bbox":"29.19667,44.96333,29.23667,45.00333",
     "lbl:latitude":44.98333,
     "lbl:longitude":29.21667,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Dunav\u0103\u021bu de Jos"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u0436\u043d\u0456\u0439 \u0414\u0443\u043d\u0430\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dun\u0103v\u0103\u0163ul-de-Jos"
     ],
     "qs_pg:aaroncc":"RO",
@@ -61,7 +64,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":871844,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125837071,
-    "wof:lastmodified":1563577552,
+    "wof:lastmodified":1566611415,
     "wof:name":"Dunav\u0103\u021bu de Jos",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

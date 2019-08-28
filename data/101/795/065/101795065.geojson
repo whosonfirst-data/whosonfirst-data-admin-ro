@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.547936,
     "lbl:longitude":24.546718,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.547936,
     "mps:longitude":24.546718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "M\u0103rgineni-Slobozia"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":673782,
         "gp:id":875420,
-        "qs:id":411519,
+        "qs_pg:id":411519,
         "wd:id":"Q12122677"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101795065,
-    "wof:lastmodified":1563576452,
+    "wof:lastmodified":1566611036,
     "wof:name":"M\u0103rgineni Slobozia",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

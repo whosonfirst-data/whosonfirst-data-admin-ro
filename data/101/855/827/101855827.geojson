@@ -11,12 +11,16 @@
     "geom:longitude":26.457256,
     "gn:population":4955,
     "iso:country":"RO",
+    "lbl:bbox":"26.437256,46.202038,26.477256,46.242038",
     "lbl:latitude":46.222038,
     "lbl:longitude":26.457256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.222038,
     "mps:longitude":26.457256,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sl\u0103nic-Moldova"
     ],
@@ -44,9 +48,6 @@
     "name:srp_x_preferred":[
         "\u0421\u043b\u0430\u043d\u0438\u043a-\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "B\u0103ile Sl\u0103nic"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bacau",
     "qs:a1r":"0",
@@ -64,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +77,6 @@
         "fct:id":"03a47c52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":666770,
         "gp:id":880579,
-        "qs:id":275212,
         "qs_pg:id":275212,
         "wd:id":"Q16898111"
     },
@@ -94,7 +94,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576645,
+    "wof:lastmodified":1566611101,
     "wof:name":"Slanic-Moldova",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.074682,
     "lbl:longitude":21.775922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.074682,
     "mps:longitude":21.775922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "T\u0103rian"
     ],
@@ -54,7 +57,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":665506,
         "gp:id":881503,
-        "qs:id":413069,
+        "qs_pg:id":413069,
         "wd:id":"Q584655"
     },
     "wof:country":"RO",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101835151,
-    "wof:lastmodified":1561830741,
+    "wof:lastmodified":1566610775,
     "wof:name":"T\u0103rian",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

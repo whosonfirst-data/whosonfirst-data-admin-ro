@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.973918,
     "lbl:longitude":28.624912,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.973918,
     "mps:longitude":28.624912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u043c\u0443\u0442\u043b\u0438\u044f"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Armutlia"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":664461,
         "gp:id":882276,
-        "qs:id":413288,
+        "qs_pg:id":413288,
         "wd:id":"Q3658195"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101790797,
-    "wof:lastmodified":1563575348,
+    "wof:lastmodified":1566610649,
     "wof:name":"Turda",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.057149,
     "lbl:longitude":26.019717,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.057149,
     "mps:longitude":26.019717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lip\u0103ne\u0219ti"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lip\u0103nseti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":674745,
         "gp:id":874698,
-        "qs:id":127495,
         "qs_pg:id":127495,
         "wd:id":"Q14193673"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101834603,
-    "wof:lastmodified":1563575996,
+    "wof:lastmodified":1566610877,
     "wof:name":"Lip\u0103ne\u015fti",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

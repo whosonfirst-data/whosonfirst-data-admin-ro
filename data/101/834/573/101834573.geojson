@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.946764,
     "lbl:longitude":26.163349,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.946764,
     "mps:longitude":26.163349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Valea C\u0103lug\u0103reasc\u0103"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,6 @@
         "fct:id":"03a6fe64-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":663863,
         "gp:id":15002424,
-        "qs:id":1149747,
         "qs_pg:id":1149747,
         "wd:id":"Q6465406"
     },
@@ -94,7 +96,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576019,
+    "wof:lastmodified":1566610885,
     "wof:name":"Valea C\u0103lug\u0103reasc\u0103",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.643934,
     "lbl:longitude":24.507846,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.643934,
     "mps:longitude":24.507846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ceua\u0219u de C\u00e2mpie"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0443\u0430\u0448\u0443-\u0434\u0435-\u041a\u0438\u043c\u043f\u0456\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ceua\u015fu de C\u00eempie"
     ],
     "name:vol_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":682459,
         "gp:id":869035,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1093049"
     },
     "wof:country":"RO",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101788613,
-    "wof:lastmodified":1561830820,
+    "wof:lastmodified":1566611126,
     "wof:name":"Ceua\u015fu de C\u00e2mpie",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

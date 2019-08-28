@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.401183,
     "lbl:longitude":24.74413,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.401183,
     "mps:longitude":24.74413,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Maieru"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0454\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "Major"
-    ],
     "name:vie_x_preferred":[
         "Maieru"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -107,7 +107,6 @@
         "fct:id":"03a1ae50-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674061,
         "gp:id":875222,
-        "qs:id":127462,
         "qs_pg:id":127462,
         "wd:id":"Q1021599"
     },
@@ -125,7 +124,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575919,
+    "wof:lastmodified":1566610850,
     "wof:name":"Maieru",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

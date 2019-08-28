@@ -9,14 +9,17 @@
     "geom:bbox":"24.111864306,46.5968700998,24.1479610352,46.6231262376",
     "geom:latitude":46.611998,
     "geom:longitude":24.128166,
-    "geonames:id":"662266,662267",
+    "gn:id":"662266,662267",
     "iso:country":"RO",
     "lbl:latitude":46.615118,
     "lbl:longitude":24.126935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.615118,
     "mps:longitude":24.126935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zau de C\u00e2mpie"
     ],
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -78,7 +81,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1092538"
     },
     "wof:country":"RO",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101788609,
-    "wof:lastmodified":1563576743,
+    "wof:lastmodified":1566611134,
     "wof:name":"Z\u0103u de C\u00e2mpie",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

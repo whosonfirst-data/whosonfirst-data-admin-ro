@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.493499,
     "lbl:longitude":27.526902,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.493499,
     "mps:longitude":27.526902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gherghe\u0219ti"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0440\u0433\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mice\u015fti"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":677435,
         "gp:id":871628,
-        "qs:id":127617,
         "qs_pg:id":127617,
         "wd:id":"Q2547290"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101787439,
-    "wof:lastmodified":1563576859,
+    "wof:lastmodified":1566611172,
     "wof:name":"Gherghe\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

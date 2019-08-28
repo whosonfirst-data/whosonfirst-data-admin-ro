@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.537264,
     "lbl:longitude":25.50843,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.537264,
     "mps:longitude":25.50843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sadova"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"03a3e418-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668286,
         "gp:id":879495,
-        "qs:id":127123,
         "qs_pg:id":127123,
         "wd:id":"Q2606123"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575922,
+    "wof:lastmodified":1566610851,
     "wof:name":"Sadova",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

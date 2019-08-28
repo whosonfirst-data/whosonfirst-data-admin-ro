@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000332,
-    "geom:area_square_m":2923973.099734,
+    "geom:area_square_m":2923973.099733,
     "geom:bbox":"27.1687586547,44.6035338016,27.2002312059,44.6224161624",
     "geom:latitude":44.613114,
     "geom:longitude":27.182558,
     "iso:country":"RO",
     "lbl:latitude":44.612846,
     "lbl:longitude":27.18232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.612846,
     "mps:longitude":27.18232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ji\u0159\u00ed D\u00f3\u017ea"
     ],
@@ -46,7 +49,7 @@
     "name:pol_x_preferred":[
         "Gy\u00f6rgy D\u00f3zsa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00f2zsa Gy\u00f6rgy"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -65,7 +68,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -75,7 +78,9 @@
     "wof:concordances":{
         "gn:id":677466,
         "gp:id":872721,
-        "qs:id":9,
+        "qs_pg:id":9
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1278544
     },
     "wof:country":"RO",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101792625,
-    "wof:lastmodified":1504310356,
+    "wof:lastmodified":1566611072,
     "wof:name":"Gheorghe Doja",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

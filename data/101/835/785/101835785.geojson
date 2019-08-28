@@ -9,17 +9,19 @@
     "geom:bbox":"25.4066772913,45.0295949985,25.4396294121,45.0574920173",
     "geom:latitude":45.04199,
     "geom:longitude":25.423902,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":9094,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":9094,
     "iso:country":"RO",
     "lbl:latitude":45.041409,
     "lbl:longitude":25.423911,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.041409,
     "mps:longitude":25.423911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Br\u0103ne\u0219ti"
     ],
@@ -41,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Br\u0103ne\u015ftii"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -71,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,13 +84,12 @@
     "wof:concordances":{
         "gn:id":683885,
         "gp:id":879993,
-        "qs:id":127932,
-        "qs_pg:id":127933,
+        "qs_pg:id":127932,
         "wd:id":"Q12084777"
     },
     "wof:concordances_alt":{
         "gn:id":683884,
-        "qs_pg:id":127932
+        "qs_pg:id":127933
     },
     "wof:country":"RO",
     "wof:geomhash":"363a6f1fe1d6445ea6a4e1f095582512",
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":101835785,
-    "wof:lastmodified":1563575761,
+    "wof:lastmodified":1566610790,
     "wof:name":"Br\u0103ne\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

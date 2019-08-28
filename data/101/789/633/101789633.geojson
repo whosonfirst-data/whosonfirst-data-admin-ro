@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.136759,
     "lbl:longitude":24.522743,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.136759,
     "mps:longitude":24.522743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0435\u0440\u0442\u0430\u043d"
     ],
@@ -86,9 +89,6 @@
     "name:ukr_x_variant":[
         "\u0411'\u0454\u0440\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Birthelm"
-    ],
     "name:vie_x_preferred":[
         "Biertan"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -123,7 +123,6 @@
         "fct:id":"039d9efa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":684888,
         "gp:id":867278,
-        "qs:id":127992,
         "qs_pg:id":127992,
         "wd:id":"Q793388"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576942,
+    "wof:lastmodified":1566611202,
     "wof:name":"Biertan",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

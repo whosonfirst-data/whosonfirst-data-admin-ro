@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.328955,
     "lbl:longitude":22.120862,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.328955,
     "mps:longitude":22.120862,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u064a\u0646\u064a"
     ],
@@ -62,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Butty\u00e9n"
     ],
     "name:vie_x_preferred":[
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
         "fct:id":"039e4436-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":683160,
         "gp:id":868533,
-        "qs:id":967532,
         "qs_pg:id":967532,
         "wd:id":"Q852398"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576988,
+    "wof:lastmodified":1566611219,
     "wof:name":"Buteni",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

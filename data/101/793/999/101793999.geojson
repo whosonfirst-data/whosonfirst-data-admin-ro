@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.561772,
     "lbl:longitude":25.619289,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.561772,
     "mps:longitude":25.619289,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Rom\u00e2ne\u0219ti"
     ],
@@ -32,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0438\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rum\u0103ne\u015fti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":668715,
         "gp:id":879199,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q12148770"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101793999,
-    "wof:lastmodified":1563576254,
+    "wof:lastmodified":1566610967,
     "wof:name":"Rom\u00e2ne\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

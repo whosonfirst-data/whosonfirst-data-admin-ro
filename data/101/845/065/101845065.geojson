@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.015799,
     "lbl:longitude":25.661728,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.015799,
     "mps:longitude":25.661728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043f\u043e\u0440\u0443"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043f\u043e\u0440\u0443"
     ],
-    "name:unk_x_variant":[
-        "Toporul"
-    ],
     "name:vie_x_preferred":[
         "Toporu"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,6 @@
         "fct:id":"03a5415a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664724,
         "gp:id":882077,
-        "qs:id":126823,
         "qs_pg:id":126823,
         "wd:id":"Q2718030"
     },
@@ -105,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575665,
+    "wof:lastmodified":1566610756,
     "wof:name":"Toporu",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

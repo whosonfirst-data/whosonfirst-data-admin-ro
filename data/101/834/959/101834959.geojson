@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.53999,
     "lbl:longitude":27.578247,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.53999,
     "mps:longitude":27.578247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "N\u0103moloasa-Sat"
     ],
@@ -52,7 +55,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":672525,
         "gp:id":876345,
-        "qs:id":1083969,
+        "qs_pg:id":1083969,
         "wd:id":"Q12133375"
     },
     "wof:country":"RO",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101834959,
-    "wof:lastmodified":1563576024,
+    "wof:lastmodified":1566610887,
     "wof:name":"N\u0103moloasa Sat",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

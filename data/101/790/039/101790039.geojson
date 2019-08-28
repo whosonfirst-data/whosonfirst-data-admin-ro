@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.190884,
     "lbl:longitude":24.961513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.190884,
     "mps:longitude":24.961513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0441\u043a\u0438\u0437"
     ],
@@ -90,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,6 @@
         "fct:id":"03a4089e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667923,
         "gp:id":879748,
-        "qs:id":278808,
         "qs_pg:id":278808,
         "wd:id":"Q946954"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575387,
+    "wof:lastmodified":1566610662,
     "wof:name":"Saschiz",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

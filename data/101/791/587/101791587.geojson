@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.685149,
     "lbl:longitude":21.899836,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":45.685149,
     "mps:longitude":21.899836,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u063a\u0648\u062c"
     ],
@@ -93,7 +96,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0433\u043e\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "N\u00e9met-Lugos"
     ],
     "name:zho_x_preferred":[
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -127,7 +130,6 @@
         "fct:id":"03a75f08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674531,
         "gp:id":874846,
-        "qs:id":127489,
         "qs_pg:id":127489,
         "wd:id":"Q16898584"
     },
@@ -145,7 +147,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575553,
+    "wof:lastmodified":1566610719,
     "wof:name":"Lugoj",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

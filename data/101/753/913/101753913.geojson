@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.624846,
     "lbl:longitude":22.609256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":44.624846,
     "mps:longitude":22.609256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Schela Cladovei"
     ],
@@ -31,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0435\u043b\u0430-\u041a\u043b\u0430\u0434\u043e\u0432\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Skela Kladovska"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -48,7 +51,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":667688,
         "gp:id":871725,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q4421796"
     },
     "wof:country":"RO",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101753913,
-    "wof:lastmodified":1561830717,
+    "wof:lastmodified":1566610693,
     "wof:name":"Schela Cladovei",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

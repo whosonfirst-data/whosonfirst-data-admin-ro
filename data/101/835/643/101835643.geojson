@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.292883,
     "lbl:longitude":27.635261,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.292883,
     "mps:longitude":27.635261,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jeg\u0103lia"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,6 @@
         "fct:id":"03a139ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":675285,
         "gp:id":874294,
-        "qs:id":127514,
         "qs_pg:id":127514,
         "wd:id":"Q12724887"
     },
@@ -88,7 +90,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575724,
+    "wof:lastmodified":1566610776,
     "wof:name":"Jeg\u0103lia",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

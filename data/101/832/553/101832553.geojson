@@ -12,10 +12,13 @@
     "iso:country":"RO",
     "lbl:latitude":48.108602,
     "lbl:longitude":27.035586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.108602,
     "mps:longitude":27.035586,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vii\u0219oara"
     ],
@@ -87,12 +90,6 @@
     "name:und_x_colloquial":[
         "Viisoara"
     ],
-    "name:und_x_preferred":[
-        "Vii\u015foara"
-    ],
-    "name:unk_x_variant":[
-        "Viishora"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Edine\u0163",
     "qs:a1_alt":"Edinet",
@@ -110,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -121,10 +118,12 @@
         "fct:id":"01a576cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662931,
         "gp:id":883531,
-        "qs:id":293228,
-        "qs_pg:id":988656,
+        "qs_pg:id":293228,
         "wd:id":"Q2440083",
         "wk:page":"Vii\u0219oara, Edine\u021b"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":988656
     },
     "wof:country":"RO",
     "wof:geomhash":"2698daa81343d6b392974ef66bb872f9",
@@ -140,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563575851,
+    "wof:lastmodified":1566610824,
     "wof:name":"Vii\u015foara",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

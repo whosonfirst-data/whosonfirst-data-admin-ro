@@ -12,8 +12,10 @@
     "gn:latitude":46.18333,
     "gn:longitude":23.91667,
     "iso:country":"RO",
+    "lbl:bbox":"23.914411,46.173088,23.924411,46.183088",
     "lbl:latitude":46.178088,
     "lbl:longitude":23.919411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.178319,
     "mps:longitude":23.924933,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:ron_x_preferred":[
-        "Blaj-Sat"
-    ],
-    "name:unk_x_variant":[
         "Blaj-Sat"
     ],
     "qs:gn_adm0_cc":"RO",
@@ -59,7 +58,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101834063,
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":684597,
         "gp:id":867464,
-        "qs:id":1167542,
         "qs_pg:id":1167542
     },
     "wof:country":"RO",
@@ -88,7 +86,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830675,
+    "wof:lastmodified":1566609997,
     "wof:name":"Blaj-Sat",
     "wof:parent_id":101834063,
     "wof:placetype":"neighbourhood",

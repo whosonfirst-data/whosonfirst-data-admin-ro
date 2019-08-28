@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.803315,
     "lbl:longitude":24.093283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.803315,
     "mps:longitude":24.093283,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "D\u0103buleni"
     ],
@@ -47,7 +50,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,6 @@
         "fct:id":"039f8242-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":679841,
         "gp:id":870958,
-        "qs:id":410324,
         "qs_pg:id":410324,
         "wd:id":"Q16898256"
     },
@@ -77,7 +79,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575813,
+    "wof:lastmodified":1566610809,
     "wof:name":"D\u0103buleni",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

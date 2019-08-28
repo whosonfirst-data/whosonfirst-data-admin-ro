@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.348921,
     "lbl:longitude":26.741815,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.348921,
     "mps:longitude":26.741815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0435\u043b\u0435\u0433\u0438\u0443"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u043b\u0435\u0434\u0436\u0443"
     ],
-    "name:unk_x_variant":[
-        "Helegiul"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bacau",
     "qs:a1r":"0",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +78,6 @@
         "fct:id":"03a0d3c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676262,
         "gp:id":873595,
-        "qs:id":967683,
         "qs_pg:id":967683,
         "wd:id":"Q15651341"
     },
@@ -96,7 +95,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576664,
+    "wof:lastmodified":1566611107,
     "wof:name":"Helegiu",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

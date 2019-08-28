@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.971801,
     "lbl:longitude":26.3005,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.971801,
     "mps:longitude":26.3005,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u0103dureni"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0434\u0443\u0440\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buhai"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":671514,
         "gp:id":877055,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q12139329"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101843711,
-    "wof:lastmodified":1563575707,
+    "wof:lastmodified":1566610770,
     "wof:name":"P\u0103dureni",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

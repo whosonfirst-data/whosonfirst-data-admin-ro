@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.266538,
     "lbl:longitude":26.591051,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.266538,
     "mps:longitude":26.591051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nana"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,7 +66,6 @@
         "fct:id":"03a247c0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":672523,
         "gp:id":876346,
-        "qs:id":845275,
         "qs_pg:id":845275,
         "wd:id":"Q12724986"
     },
@@ -81,7 +83,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576249,
+    "wof:lastmodified":1566610965,
     "wof:name":"Nana",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

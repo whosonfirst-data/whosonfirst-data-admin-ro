@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.145799,
     "lbl:longitude":23.986746,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.145799,
     "mps:longitude":23.986746,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Horezu"
     ],
@@ -39,7 +42,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +54,6 @@
         "fct:id":"03a0ed12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":676026,
         "gp:id":873763,
-        "qs:id":278758,
         "qs_pg:id":278758,
         "wd:id":"Q16898646"
     },
@@ -69,7 +71,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576529,
+    "wof:lastmodified":1566611061,
     "wof:name":"Horezu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

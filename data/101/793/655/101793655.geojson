@@ -9,15 +9,18 @@
     "geom:bbox":"25.6221692011,44.4902063231,25.6532569197,44.5058240843",
     "geom:latitude":44.498367,
     "geom:longitude":25.634231,
-    "geonames:id":"682618,682617",
+    "gn:id":"682618,682617",
     "gn:population":2201,
     "iso:country":"RO",
     "lbl:latitude":44.499677,
     "lbl:longitude":25.6327,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.499677,
     "mps:longitude":25.6327,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103scioarele"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":682618,
         "gp:id":868922,
-        "qs:id":1278113,
+        "qs_pg:id":1278113,
         "wd:id":"Q12109703"
     },
     "wof:country":"RO",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101793655,
-    "wof:lastmodified":1563576305,
+    "wof:lastmodified":1566610983,
     "wof:name":"C\u0103scioarele",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.224819,
     "lbl:longitude":22.658944,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.224819,
     "mps:longitude":22.658944,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Z\u0103uan"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":662270,
         "gp:id":883985,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q731483"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101787287,
-    "wof:lastmodified":1563576853,
+    "wof:lastmodified":1566611170,
     "wof:name":"Z\u0103uan",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

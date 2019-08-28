@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.186136,
     "lbl:longitude":23.599812,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.186136,
     "mps:longitude":23.599812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "C\u0103rpini\u0219"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":682648,
         "gp:id":868897,
-        "qs:id":409793,
+        "qs_pg:id":409793,
         "wd:id":"Q12109655"
     },
     "wof:country":"RO",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101792549,
-    "wof:lastmodified":1563576585,
+    "wof:lastmodified":1566611079,
     "wof:name":"C\u0103rpini\u015f",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

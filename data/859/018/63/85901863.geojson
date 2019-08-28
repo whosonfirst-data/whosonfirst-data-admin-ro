@@ -10,8 +10,10 @@
     "geom:latitude":45.104444,
     "geom:longitude":24.356834,
     "iso:country":"RO",
+    "lbl:bbox":"24.351834,45.099444,24.361834,45.109444",
     "lbl:latitude":45.104444,
     "lbl:longitude":24.356834,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.1021,
     "mps:longitude":24.352245,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u0435\u043d\u0430\u0440\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Poenari"
     ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_id":0,
@@ -59,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -86,7 +85,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564096627,
+    "wof:lastmodified":1566609995,
     "wof:name":"Poenari",
     "wof:parent_id":101751969,
     "wof:placetype":"neighbourhood",

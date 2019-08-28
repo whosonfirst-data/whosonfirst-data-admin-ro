@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.43245,
     "lbl:longitude":28.213694,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.43245,
     "mps:longitude":28.213694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vetri\u0219oaia"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,7 +79,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":864945,
-        "qs:id":1029218,
         "qs_pg:id":1029218,
         "wd:id":"Q2549105"
     },
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101787419,
-    "wof:lastmodified":1563576885,
+    "wof:lastmodified":1566611180,
     "wof:name":"Vetri\u015foaia",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

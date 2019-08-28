@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.370728,
     "lbl:longitude":27.923546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.370728,
     "mps:longitude":27.923546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "V\u0103deni"
     ],
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,7 +85,6 @@
         "fct:id":"03a58354-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664020,
         "gp:id":882587,
-        "qs:id":1084549,
         "qs_pg:id":1084549,
         "wd:id":"Q2535722"
     },
@@ -100,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575361,
+    "wof:lastmodified":1566610654,
     "wof:name":"V\u0103deni",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",

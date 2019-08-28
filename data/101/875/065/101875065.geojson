@@ -11,12 +11,16 @@
     "geom:longitude":26.275801,
     "gn:population":1062,
     "iso:country":"RO",
+    "lbl:bbox":"26.255801,47.146321,26.295801,47.186321",
     "lbl:latitude":47.166321,
     "lbl:longitude":26.275801,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.166321,
     "mps:longitude":26.275801,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043e\u0430\u0440\u0430"
     ],
@@ -61,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +76,6 @@
     "wof:concordances":{
         "gn:id":678255,
         "gp:id":872129,
-        "qs:id":1167565,
         "qs_pg:id":1167565,
         "wd:id":"Q12166606"
     },
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101875065,
-    "wof:lastmodified":1563575698,
+    "wof:lastmodified":1566610767,
     "wof:name":"Filioara",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

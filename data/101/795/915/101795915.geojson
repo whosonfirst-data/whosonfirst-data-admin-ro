@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.104469,
     "lbl:longitude":23.627435,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.104469,
     "mps:longitude":23.627435,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u043e\u0432\u0443"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u043e\u0432\u0443"
     ],
-    "name:unk_x_variant":[
-        "Lipovul"
-    ],
     "name:vie_x_preferred":[
         "Lipovu"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,6 @@
         "fct:id":"03a17016-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674726,
         "gp:id":874710,
-        "qs:id":411353,
         "qs_pg:id":411353,
         "wd:id":"Q670699"
     },
@@ -105,7 +104,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576463,
+    "wof:lastmodified":1566611039,
     "wof:name":"Lipovu",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

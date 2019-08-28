@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.562206,
     "lbl:longitude":26.909449,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":46.562206,
     "mps:longitude":26.909449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ace_x_preferred":[
         "Bac\u0103u"
     ],
@@ -222,9 +225,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "B\u00e1k\u00f3"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06a9\u0627\u0624"
     ],
@@ -256,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -268,9 +268,11 @@
         "fct:id":"03a76b24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":685948,
         "gp:id":866528,
-        "qs:id":9,
-        "qs_pg:id":492188,
+        "qs_pg:id":9,
         "wd:id":"Q182679"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":492188
     },
     "wof:country":"RO",
     "wof:geomhash":"c6e3e33a933dbe1b624867bf103562db",
@@ -286,7 +288,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575447,
+    "wof:lastmodified":1566610683,
     "wof:name":"Bac\u0103u",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

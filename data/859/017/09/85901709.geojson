@@ -10,8 +10,10 @@
     "geom:latitude":47.348386,
     "geom:longitude":25.357201,
     "iso:country":"RO",
+    "lbl:bbox":"25.352201,47.343386,25.362201,47.353386",
     "lbl:latitude":47.348386,
     "lbl:longitude":25.357201,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.34825,
     "mps:longitude":25.356647,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u0435\u0448\u0442\u0438"
     ],
-    "name:unk_x_variant":[
-        "C\u0103line\u0219ti"
-    ],
     "name:vol_x_preferred":[
         "C\u0103line\u015fti"
     ],
@@ -86,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101785163,
@@ -112,7 +111,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100367,
+    "wof:lastmodified":1566610002,
     "wof:name":"C\u0103line\u0219ti",
     "wof:parent_id":101785163,
     "wof:placetype":"neighbourhood",

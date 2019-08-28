@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.511736,
     "lbl:longitude":22.863473,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.511736,
     "mps:longitude":22.863473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Livezile"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0432\u0435\u0437\u0456\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "Broscari"
-    ],
     "name:vie_x_preferred":[
         "Livezile"
     ],
@@ -76,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"03a17944-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674647,
         "gp:id":874777,
-        "qs:id":262346,
         "qs_pg:id":262346,
         "wd:id":"Q2465443"
     },
@@ -106,7 +105,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575661,
+    "wof:lastmodified":1566610754,
     "wof:name":"Livezile",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

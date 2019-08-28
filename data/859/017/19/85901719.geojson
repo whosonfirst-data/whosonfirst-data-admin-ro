@@ -12,8 +12,10 @@
     "gn:latitude":45.11667,
     "gn:longitude":24.36667,
     "iso:country":"RO",
+    "lbl:bbox":"24.381212,45.108428,24.391212,45.118428",
     "lbl:latitude":45.113428,
     "lbl:longitude":24.386212,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.119604,
     "mps:longitude":24.368771,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:srp_x_preferred":[
         "\u0427\u0435\u0442\u0430\u0446\u0443\u0458\u0430"
     ],
-    "name:unk_x_variant":[
-        "Cet\u0103\u021buia"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":668872,
@@ -74,7 +73,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":88,
     "wof:belongsto":[
         102191581,
@@ -86,7 +85,6 @@
     "wof:concordances":{
         "gn:id":682240,
         "gp:id":869193,
-        "qs:id":1167547,
         "qs_pg:id":1167547
     },
     "wof:country":"RO",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100365,
+    "wof:lastmodified":1566610001,
     "wof:name":"Cet\u0103\u021buia",
     "wof:parent_id":101753949,
     "wof:placetype":"neighbourhood",

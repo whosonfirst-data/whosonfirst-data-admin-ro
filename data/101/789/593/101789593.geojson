@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.036512,
     "lbl:longitude":25.220569,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.036512,
     "mps:longitude":25.220569,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Rupea"
     ],
@@ -44,9 +47,6 @@
     "name:srp_x_preferred":[
         "\u0420\u0443\u043f\u0435\u0430"
     ],
-    "name:unk_x_variant":[
-        "Cohalm"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Brasov",
     "qs:a1r":"0",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +75,6 @@
         "fct:id":"03a3d3ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":668442,
         "gp:id":879388,
-        "qs:id":1027478,
         "qs_pg:id":1027478,
         "wd:id":"Q16898147"
     },
@@ -93,7 +92,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576921,
+    "wof:lastmodified":1566611195,
     "wof:name":"Rupea",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

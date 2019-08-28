@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.110581,
     "lbl:longitude":26.578056,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":44.110581,
     "mps:longitude":26.578056,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chirnogi"
     ],
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,6 @@
         "fct:id":"039eb18c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682036,
         "gp:id":869349,
-        "qs:id":1028098,
         "qs_pg:id":1028098,
         "wd:id":"Q2620875"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576475,
+    "wof:lastmodified":1566611042,
     "wof:name":"Chirnogi",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

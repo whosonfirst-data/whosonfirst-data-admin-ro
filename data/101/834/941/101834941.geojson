@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.955635,
     "lbl:longitude":27.100715,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.955635,
     "mps:longitude":27.100715,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Movili\u021ba"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":672720,
         "gp:id":876205,
-        "qs:id":127398,
         "qs_pg:id":127398,
         "wd:id":"Q2300614"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101834941,
-    "wof:lastmodified":1563576007,
+    "wof:lastmodified":1566610881,
     "wof:name":"Movili\u0163a",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

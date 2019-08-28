@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.385302,
     "lbl:longitude":23.124934,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.385302,
     "mps:longitude":23.124934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0103l\u0103ci\u021ba"
     ],
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":685720,
         "gp:id":866702,
-        "qs:id":1028284,
         "qs_pg:id":1028284,
         "wd:id":"Q283479"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101794953,
-    "wof:lastmodified":1563576343,
+    "wof:lastmodified":1566610998,
     "wof:name":"B\u0103l\u0103ci\u0163a",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

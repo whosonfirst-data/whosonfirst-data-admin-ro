@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.103418,
     "lbl:longitude":26.5227,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.103418,
     "mps:longitude":26.5227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u021aibucani"
     ],
@@ -60,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0438\u0431\u0443\u043a\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u0162ibucanii de Sus"
-    ],
     "name:vie_x_preferred":[
         "Tibucani"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +97,6 @@
         "fct:id":"03a51252-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":665182,
         "gp:id":881735,
-        "qs:id":126850,
         "qs_pg:id":126850,
         "wd:id":"Q2605681"
     },
@@ -115,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576241,
+    "wof:lastmodified":1566610963,
     "wof:name":"\u0162ibucani",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

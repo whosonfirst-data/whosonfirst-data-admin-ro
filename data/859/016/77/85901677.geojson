@@ -10,8 +10,10 @@
     "geom:latitude":46.305297,
     "geom:longitude":25.294363,
     "iso:country":"RO",
+    "lbl:bbox":"25.289363,46.300297,25.299363,46.310297",
     "lbl:latitude":46.305297,
     "lbl:longitude":25.294363,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.305775,
     "mps:longitude":25.294282,
     "mz:hierarchy_label":0,
@@ -104,9 +106,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043a\u043b\u044f\u043d"
     ],
-    "name:unk_x_variant":[
-        "Beclean"
-    ],
     "name:vie_x_preferred":[
         "Beclean"
     ],
@@ -140,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":135,
     "wof:belongsto":[
         102191581,
@@ -168,7 +167,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574409,
+    "wof:lastmodified":1566609998,
     "wof:name":"Beclean",
     "wof:parent_id":101788755,
     "wof:placetype":"neighbourhood",

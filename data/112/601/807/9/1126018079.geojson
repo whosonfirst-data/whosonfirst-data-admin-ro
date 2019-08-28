@@ -9,15 +9,18 @@
     "geom:bbox":"24.51667,46.76667,24.51667,46.76667",
     "geom:latitude":46.76667,
     "geom:longitude":24.51667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1628,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1628,
     "iso:country":"RO",
+    "lbl:bbox":"24.49667,46.74667,24.53667,46.78667",
     "lbl:latitude":46.76667,
     "lbl:longitude":24.51667,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "F\u0103r\u0103g\u0103u"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0440\u0435\u0433\u0435\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farag\u00f2"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +89,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":871985,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1126018079,
-    "wof:lastmodified":1563577413,
+    "wof:lastmodified":1566611374,
     "wof:name":"F\u0103r\u0103g\u0103u",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

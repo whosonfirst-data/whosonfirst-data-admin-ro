@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.043158,
     "lbl:longitude":22.945473,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":45.043158,
     "mps:longitude":22.945473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tismana"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,6 @@
         "fct:id":"03a52ddc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":664910,
         "gp:id":881939,
-        "qs:id":908980,
         "qs_pg:id":908980,
         "wd:id":"Q16898285"
     },
@@ -73,7 +75,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576293,
+    "wof:lastmodified":1566610980,
     "wof:name":"Tismana",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

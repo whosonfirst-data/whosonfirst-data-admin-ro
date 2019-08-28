@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.712524,
     "lbl:longitude":24.147865,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.712524,
     "mps:longitude":24.147865,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Cisn\u0103die"
     ],
@@ -37,9 +40,6 @@
     "name:rum_x_variant":[
         "Nagydiszn\u00f3d"
     ],
-    "name:unk_x_variant":[
-        "Nagydiszn\u00f3d"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Sibiu",
     "qs:a1r":"0",
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +68,6 @@
         "fct:id":"039ee44a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681502,
         "gp:id":869747,
-        "qs:id":222556,
         "qs_pg:id":222556,
         "wd:id":"Q16898526"
     },
@@ -86,7 +85,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575441,
+    "wof:lastmodified":1566610680,
     "wof:name":"Cisnadie",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

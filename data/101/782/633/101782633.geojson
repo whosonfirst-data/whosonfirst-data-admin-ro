@@ -5,16 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000309,
+    "geom:area_square_m":2572881.563936,
     "geom:bbox":"26.4221988624,47.5977527071,26.4668705889,47.6145671176",
     "geom:latitude":47.605665,
     "geom:longitude":26.444532,
-    "geonames:id":"663045,673570",
+    "gn:id":"663045,673570",
     "iso:country":"RO",
     "lbl:latitude":47.605007,
     "lbl:longitude":26.446393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.605007,
     "mps:longitude":26.446393,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Suceava",
     "qs:a1r":"0",
@@ -29,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +43,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":873543,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"RO",
-    "wof:geomhash":"97eb5a4b6bb408f8a3225fd90dd8ee78",
+    "wof:geomhash":"c02bcdea632de016ea611d695feb4a84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101782633,
-    "wof:lastmodified":1477508543,
+    "wof:lastmodified":1566610925,
     "wof:name":"Vere\u0163ti",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.986339,
     "lbl:longitude":26.643716,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.986339,
     "mps:longitude":26.643716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "B\u0103rg\u0103oani"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":685337,
         "gp:id":866963,
-        "qs:id":1028265,
+        "qs_pg:id":1028265,
         "wd:id":"Q15959439"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101780139,
-    "wof:lastmodified":1563576914,
+    "wof:lastmodified":1566611192,
     "wof:name":"B\u00e2rg\u0103uani",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

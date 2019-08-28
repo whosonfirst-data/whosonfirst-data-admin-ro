@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.952669,
     "lbl:longitude":26.277176,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.952669,
     "mps:longitude":26.277176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lozna"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,9 +78,11 @@
         "fct:id":"03a17dae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":674581,
         "gp:id":874813,
-        "qs:id":411359,
-        "qs_pg:id":1027753,
+        "qs_pg:id":411359,
         "wd:id":"Q2535310"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1027753
     },
     "wof:country":"RO",
     "wof:geomhash":"23a3efce1714b7e066719dcf626c2256",
@@ -93,7 +98,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575845,
+    "wof:lastmodified":1566610822,
     "wof:name":"Lozna",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",

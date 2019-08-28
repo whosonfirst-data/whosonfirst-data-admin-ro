@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.547946,
     "lbl:longitude":22.42988,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.547946,
     "mps:longitude":22.42988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ghighi\u0219eni"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0433\u0456\u0448\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Gyegyes\u00e9ny"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Bihor",
     "qs:a1r":"0",
@@ -64,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +75,7 @@
     "wof:concordances":{
         "gn:id":677399,
         "gp:id":872770,
-        "qs:id":1278558,
+        "qs_pg:id":1278558,
         "wd:id":"Q754503"
     },
     "wof:country":"RO",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101790075,
-    "wof:lastmodified":1563575415,
+    "wof:lastmodified":1566610671,
     "wof:name":"Ghighi\u015feni",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

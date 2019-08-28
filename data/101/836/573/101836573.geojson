@@ -9,17 +9,19 @@
     "geom:bbox":"24.7787510025,44.1085754533,24.8019512336,44.1323190601",
     "geom:latitude":44.124116,
     "geom:longitude":24.791269,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":1957,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":1957,
     "iso:country":"RO",
     "lbl:latitude":44.126086,
     "lbl:longitude":24.790127,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.126086,
     "mps:longitude":24.790127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mih\u0103e\u0219ti"
     ],
@@ -47,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0435\u0454\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mih\u0103e\u015fti-de-Sus"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,13 +96,12 @@
     "wof:concordances":{
         "gn:id":673417,
         "gp:id":875702,
-        "qs:id":127428,
-        "qs_pg:id":275251,
+        "qs_pg:id":127428,
         "wd:id":"Q2719531"
     },
     "wof:concordances_alt":{
         "gn:id":673418,
-        "qs_pg:id":127428
+        "qs_pg:id":275251
     },
     "wof:country":"RO",
     "wof:geomhash":"dab4a21c905c4c950186cda7b986d78e",
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":101836573,
-    "wof:lastmodified":1563576626,
+    "wof:lastmodified":1566611094,
     "wof:name":"Mih\u0103e\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

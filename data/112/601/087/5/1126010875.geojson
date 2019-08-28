@@ -9,15 +9,18 @@
     "geom:bbox":"22.44584,46.57485,22.44584,46.57485",
     "geom:latitude":46.57485,
     "geom:longitude":22.44584,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":3125,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":3125,
     "iso:country":"RO",
+    "lbl:bbox":"22.42584,46.55485,22.46584,46.59485",
     "lbl:latitude":46.57485,
     "lbl:longitude":22.44584,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0420\u0438\u0435\u043d\u0438"
@@ -61,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0454\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "R\u00e9ny"
-    ],
     "name:vie_x_preferred":[
         "Rieni"
     ],
@@ -87,7 +87,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":879059,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1126010875,
-    "wof:lastmodified":1563577411,
+    "wof:lastmodified":1566611373,
     "wof:name":"Rieni",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.906725,
     "lbl:longitude":23.397466,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.906725,
     "mps:longitude":23.397466,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u064a\u0634\u062a\u064a\u0627"
     ],
@@ -65,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0456\u0448\u0442\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cioara"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,7 @@
     "wof:concordances":{
         "gn:id":668144,
         "gp:id":879591,
-        "qs:id":180898,
+        "qs_pg:id":180898,
         "wd:id":"Q663939"
     },
     "wof:country":"RO",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101791105,
-    "wof:lastmodified":1563575494,
+    "wof:lastmodified":1566610699,
     "wof:name":"S\u0103li\u015ftea",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

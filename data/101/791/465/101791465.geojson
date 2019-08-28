@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.496266,
     "lbl:longitude":22.319101,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.496266,
     "mps:longitude":22.319101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Glimboca"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0456\u043c\u0431\u043e\u043a\u0430"
     ],
-    "name:unk_x_variant":[
-        "Novaci"
-    ],
     "name:vie_x_preferred":[
         "Glimboca"
     ],
@@ -81,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +93,6 @@
         "fct:id":"03a08994-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":677072,
         "gp:id":873000,
-        "qs:id":180545,
         "qs_pg:id":180545,
         "wd:id":"Q960344"
     },
@@ -111,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575535,
+    "wof:lastmodified":1566610713,
     "wof:name":"Glimboca",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

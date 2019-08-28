@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.146122,
     "lbl:longitude":22.336859,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.146122,
     "mps:longitude":22.336859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rusca"
     ],
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":668423,
         "gp:id":879401,
-        "qs:id":412559,
+        "qs_pg:id":412559,
         "wd:id":"Q1392579"
     },
     "wof:country":"RO",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101792657,
-    "wof:lastmodified":1563576533,
+    "wof:lastmodified":1566611063,
     "wof:name":"Rusca",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

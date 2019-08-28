@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.105354,
     "lbl:longitude":23.236104,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.105354,
     "mps:longitude":23.236104,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Zlatna"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,6 @@
         "fct:id":"03a70ce2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":662161,
         "gp:id":15002501,
-        "qs:id":81544,
         "qs_pg:id":81544,
         "wd:id":"Q16898081"
     },
@@ -72,7 +74,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576926,
+    "wof:lastmodified":1566611196,
     "wof:name":"Zlatna",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

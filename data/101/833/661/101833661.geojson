@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.772548,
     "lbl:longitude":23.85365,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.772548,
     "mps:longitude":23.85365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dese\u0219ti"
     ],
@@ -78,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,9 +92,11 @@
     "wof:concordances":{
         "gn:id":679461,
         "gp:id":871256,
-        "qs:id":1091755,
         "qs_pg:id":127702,
         "wd:id":"Q904440"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1091755
     },
     "wof:country":"RO",
     "wof:geomhash":"46ec6f066fb678fcd2fcb8b7949520d6",
@@ -104,7 +109,7 @@
         }
     ],
     "wof:id":101833661,
-    "wof:lastmodified":1563575900,
+    "wof:lastmodified":1566610844,
     "wof:name":"Dese\u015fti",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

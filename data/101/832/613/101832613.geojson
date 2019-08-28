@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.848978,
     "lbl:longitude":26.865558,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.848978,
     "mps:longitude":26.865558,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Secueni-Cuciulati"
     ],
@@ -67,7 +70,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,7 +82,7 @@
         "fct:id":"03a4317a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":667471,
         "gp:id":880083,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2605712"
     },
     "wof:country":"RO",
@@ -96,7 +99,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575851,
+    "wof:lastmodified":1566610824,
     "wof:name":"Secuieni",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

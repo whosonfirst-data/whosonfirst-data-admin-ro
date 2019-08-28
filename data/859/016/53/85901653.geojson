@@ -13,8 +13,10 @@
     "gn:longitude":23.06098,
     "gn:population":1355,
     "iso:country":"RO",
+    "lbl:bbox":"23.105878,46.295423,23.115878,46.305423",
     "lbl:latitude":46.300423,
     "lbl:longitude":23.110878,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.291918,
     "mps:longitude":23.101297,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0440\u0443\u0434-\u0421\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Abrud-Sat"
-    ],
     "qs:gn_adm0_cc":"RO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":686712,
@@ -81,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":686710,
         "gp:id":865994,
-        "qs:id":444014,
         "qs_pg:id":444014,
         "wd:id":"Q480831"
     },
@@ -111,7 +109,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563574407,
+    "wof:lastmodified":1566609998,
     "wof:name":"Abrud-Sat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

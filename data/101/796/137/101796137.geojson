@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.992844,
     "lbl:longitude":24.572791,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.992844,
     "mps:longitude":24.572791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sc\u0103ri\u0219oara"
     ],
@@ -41,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0435\u0440\u0456\u0448\u043e\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sc\u0103ri\u015foar"
     ],
     "name:vol_x_preferred":[
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,9 +77,11 @@
     "wof:concordances":{
         "gn:id":667721,
         "gp:id":879912,
-        "qs:id":127027,
-        "qs_pg:id":275220,
+        "qs_pg:id":127027,
         "wd:id":"Q952201"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":275220
     },
     "wof:country":"RO",
     "wof:geomhash":"ea198bcb5e1f2b0f8b2def8a29fbb54a",
@@ -89,7 +94,7 @@
         }
     ],
     "wof:id":101796137,
-    "wof:lastmodified":1563575641,
+    "wof:lastmodified":1566610748,
     "wof:name":"Sc\u0103ri\u015foara",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

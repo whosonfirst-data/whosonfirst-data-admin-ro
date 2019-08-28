@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.729717,
     "lbl:longitude":24.940513,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.729717,
     "mps:longitude":24.940513,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Recea"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0447\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vaida-Recea"
-    ],
     "name:vol_x_preferred":[
         "Recea"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,6 @@
         "fct:id":"03a39a94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":669051,
         "gp:id":878959,
-        "qs:id":1279292,
         "qs_pg:id":1279292,
         "wd:id":"Q1043874"
     },
@@ -108,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575396,
+    "wof:lastmodified":1566610666,
     "wof:name":"Recea",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

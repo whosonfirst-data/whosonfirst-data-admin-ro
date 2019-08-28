@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":43.848139,
     "lbl:longitude":23.775903,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.848139,
     "mps:longitude":23.775903,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nedeia"
     ],
@@ -53,7 +56,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,7 +67,7 @@
     "wof:concordances":{
         "gn:id":672443,
         "gp:id":876398,
-        "qs:id":411776,
+        "qs_pg:id":411776,
         "wd:id":"Q12133179"
     },
     "wof:country":"RO",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101795829,
-    "wof:lastmodified":1563576444,
+    "wof:lastmodified":1566611032,
     "wof:name":"Nedeia",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

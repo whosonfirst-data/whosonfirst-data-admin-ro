@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.515147,
     "lbl:longitude":22.347837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.515147,
     "mps:longitude":22.347837,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "O\u021belu Ro\u0219u"
     ],
@@ -29,7 +32,7 @@
     "name:ron_x_preferred":[
         "O\u021belu Ro\u0219u"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gara Ferdinand"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":671603,
         "gp:id":877010,
-        "qs:id":127330,
         "qs_pg:id":127330,
         "wd:id":"Q16898180"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101791475,
-    "wof:lastmodified":1563575576,
+    "wof:lastmodified":1566610728,
     "wof:name":"O\u0163elu Ro\u015fu",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

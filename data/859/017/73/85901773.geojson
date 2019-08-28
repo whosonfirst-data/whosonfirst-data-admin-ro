@@ -10,8 +10,10 @@
     "geom:latitude":44.381224,
     "geom:longitude":27.854854,
     "iso:country":"RO",
+    "lbl:bbox":"27.849854,44.376224,27.859854,44.386224",
     "lbl:latitude":44.381224,
     "lbl:longitude":27.854854,
+    "lbl:max_zoom":18.0,
     "mps:latitude":44.380576,
     "mps:longitude":27.85357,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "Fete\u0219ti Noui",
         "Fete\u0219ti-Satu Nou"
     ],
-    "name:unk_x_variant":[
-        "Fete\u0219tii Noi"
-    ],
     "qs:gn_id":0,
     "qs:gn_local":0,
     "qs:id":0,
@@ -65,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101835677,
@@ -91,7 +90,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1561830676,
+    "wof:lastmodified":1566610001,
     "wof:name":"Fete\u0219tii Noi",
     "wof:parent_id":101835677,
     "wof:placetype":"neighbourhood",

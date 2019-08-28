@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.680604,
     "lbl:longitude":26.401248,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.680604,
     "mps:longitude":26.401248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Fierbin\u021bii de Sus"
     ],
@@ -38,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0424'\u0454\u0440\u0431\u0456\u043d\u0446\u0456\u0439-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fierbin\u0163i"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +69,7 @@
     "wof:concordances":{
         "gn:id":678284,
         "gp:id":872111,
-        "qs:id":1278480,
+        "qs_pg:id":1278480,
         "wd:id":"Q12165083"
     },
     "wof:country":"RO",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101835689,
-    "wof:lastmodified":1563575731,
+    "wof:lastmodified":1566610779,
     "wof:name":"Fierbin\u0163ii de Sus",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

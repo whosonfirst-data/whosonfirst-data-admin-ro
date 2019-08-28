@@ -9,15 +9,18 @@
     "geom:bbox":"26.21667,44.4,26.21667,44.4",
     "geom:latitude":44.4,
     "geom:longitude":26.21667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":2422,
+    "gn:country":"RO",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"RO",
+    "lbl:bbox":"26.19667,44.38,26.23667,44.42",
     "lbl:latitude":44.4,
     "lbl:longitude":26.21667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "C\u0103\u021belu"
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0446\u0435\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "C\u0103\u0163elul"
     ],
     "qs_pg:aaroncc":"RO",
@@ -64,7 +67,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":868964,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125875397,
-    "wof:lastmodified":1563577281,
+    "wof:lastmodified":1566611336,
     "wof:name":"C\u0103\u021belu",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

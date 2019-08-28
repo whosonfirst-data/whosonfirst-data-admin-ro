@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.331217,
     "lbl:longitude":24.606324,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.331217,
     "mps:longitude":24.606324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u064a\u0641\u0648"
     ],
@@ -60,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0435\u0444\u0443"
     ],
-    "name:unk_x_variant":[
-        "Areful"
-    ],
     "name:vie_x_preferred":[
         "Arefu"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,7 +97,6 @@
         "fct:id":"039d2808-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":686200,
         "gp:id":866346,
-        "qs:id":128117,
         "qs_pg:id":128117,
         "wd:id":"Q610233"
     },
@@ -115,7 +114,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563575967,
+    "wof:lastmodified":1566610866,
     "wof:name":"Arefu",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.760545,
     "lbl:longitude":26.274923,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":45.760545,
     "mps:longitude":26.274923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u0646\u062f\u0627\u0648"
     ],
@@ -71,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u043d\u0434\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "Kom\u00e0ndo"
-    ],
     "name:vie_x_preferred":[
         "Comandau"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -109,7 +109,6 @@
         "fct:id":"039f0eca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":681025,
         "gp:id":870105,
-        "qs:id":1028064,
         "qs_pg:id":1028064,
         "wd:id":"Q430691"
     },
@@ -127,7 +126,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576986,
+    "wof:lastmodified":1566611218,
     "wof:name":"Comand\u0103u",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

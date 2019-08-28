@@ -9,15 +9,18 @@
     "geom:bbox":"23.41667,46.88333,23.41667,46.88333",
     "geom:latitude":46.88333,
     "geom:longitude":23.41667,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2523,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":2523,
     "iso:country":"RO",
+    "lbl:bbox":"23.39667,46.86333,23.43667,46.90333",
     "lbl:latitude":46.88333,
     "lbl:longitude":23.41667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "S\u00e2npaul"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u043f\u0430\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u0103npaul"
     ],
     "name:vie_x_preferred":[
@@ -84,7 +87,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":880448,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125968911,
-    "wof:lastmodified":1563577345,
+    "wof:lastmodified":1566611353,
     "wof:name":"S\u00eenpaul",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

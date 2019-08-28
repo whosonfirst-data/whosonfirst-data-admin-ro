@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.177354,
     "lbl:longitude":23.564256,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.177354,
     "mps:longitude":23.564256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0643\u0627\u0648"
     ],
@@ -80,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u043a\u0435\u0443"
     ],
-    "name:unk_x_variant":[
-        "Cric\u0103ul"
-    ],
     "name:vie_x_preferred":[
         "Cricau"
     ],
@@ -105,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -117,7 +117,6 @@
         "fct:id":"039f5808-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":680248,
         "gp:id":870660,
-        "qs:id":127740,
         "qs_pg:id":127740,
         "wd:id":"Q1009957"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576956,
+    "wof:lastmodified":1566611207,
     "wof:name":"Cric\u0103u",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":45.45,
     "gn:longitude":28.05,
     "iso:country":"RO",
+    "lbl:bbox":"28.03527,45.430773,28.04527,45.440773",
     "lbl:latitude":45.435773,
     "lbl:longitude":28.04027,
+    "lbl:max_zoom":18.0,
     "mps:latitude":45.439489,
     "mps:longitude":28.045944,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:swe_x_preferred":[
         "Baston"
     ],
-    "name:unk_x_variant":[
-        "Baston"
-    ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
     "qs:gn_namadm1":"00",
@@ -78,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":52.713,
     "wd:longitude":-0.352,
     "wd:wordcount":994,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":685288,
         "gp:id":866997,
-        "qs:id":1083036,
         "qs_pg:id":1083036
     },
     "wof:country":"RO",
@@ -110,7 +108,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1564100361,
+    "wof:lastmodified":1566609997,
     "wof:name":"Baston",
     "wof:parent_id":101752007,
     "wof:placetype":"neighbourhood",

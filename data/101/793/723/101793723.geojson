@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.600312,
     "lbl:longitude":26.22706,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":44.600312,
     "mps:longitude":26.22706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dasc\u0103lu"
     ],
@@ -53,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0441\u043a\u0435\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dasc\u0103lul"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,6 @@
     "wof:concordances":{
         "gn:id":679708,
         "gp:id":871046,
-        "qs:id":967636,
         "qs_pg:id":967636,
         "wd:id":"Q1653912"
     },
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101793723,
-    "wof:lastmodified":1563576281,
+    "wof:lastmodified":1566610976,
     "wof:name":"Dasc\u0103lu",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

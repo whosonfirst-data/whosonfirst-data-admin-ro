@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.447135,
     "lbl:longitude":23.787534,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.447135,
     "mps:longitude":23.787534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Goie\u0219ti"
     ],
@@ -64,7 +67,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":676995,
         "gp:id":875766,
-        "qs:id":275286,
+        "qs_pg:id":275286,
         "wd:id":"Q1846314"
     },
     "wof:country":"RO",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101836475,
-    "wof:lastmodified":1563576632,
+    "wof:lastmodified":1566611096,
     "wof:name":"Goie\u015fti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

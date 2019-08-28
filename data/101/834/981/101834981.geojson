@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000481,
+    "geom:area_square_m":4151315.532942,
     "geom:bbox":"28.0004300804,45.7609137749,28.044125268,45.7920483078",
     "geom:latitude":45.772685,
     "geom:longitude":28.022581,
     "iso:country":"RO",
     "lbl:latitude":45.770309,
     "lbl:longitude":28.015038,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.770309,
     "mps:longitude":28.015038,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hbs_x_preferred":[
         "Op\u0161tina M\u0103st\u0103cani"
     ],
@@ -55,7 +60,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -63,10 +68,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"RO",
-    "wof:geomhash":"54d9603f71e9ef6b8fa217a372d13f74",
+    "wof:geomhash":"a3c2d5bb0f08872539d5f22e541df96a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +81,7 @@
         }
     ],
     "wof:id":101834981,
-    "wof:lastmodified":1467245567,
+    "wof:lastmodified":1566610907,
     "wof:name":"Chiraftei",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

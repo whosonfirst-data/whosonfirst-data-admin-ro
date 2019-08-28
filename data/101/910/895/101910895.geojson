@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":46.048981,
     "lbl:longitude":23.512099,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":46.048981,
     "mps:longitude":23.512099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "P\u00e2cli\u0219a"
     ],
@@ -35,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0438\u043a\u043b\u0456\u0448\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u00eecli\u015fa"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,6 @@
     "wof:concordances":{
         "gn:id":670874,
         "gp:id":877552,
-        "qs:id":23712,
         "qs_pg:id":23712,
         "wd:id":"Q823116"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101910895,
-    "wof:lastmodified":1561830842,
+    "wof:lastmodified":1566611225,
     "wof:name":"P\u00eecli\u0219a",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

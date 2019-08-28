@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":47.294682,
     "lbl:longitude":22.78833,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":47.294682,
     "mps:longitude":22.78833,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Giurtelecu \u0218imleului"
     ],
@@ -248,7 +251,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0436\u0443\u0440\u0442\u0435\u043b\u0435\u043a\u0443-\u0428\u0438\u043c\u043b\u0435\u0443\u043b\u0443\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giurtelecul-\u015eimeului"
     ],
     "name:vie_x_preferred":[
@@ -276,7 +279,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -287,10 +290,12 @@
     "wof:concordances":{
         "gn:id":674197,
         "gp:id":875118,
-        "qs:id":9,
-        "qs_pg:id":1278822,
+        "qs_pg:id":9,
         "wd:id":"Q43136",
         "wk:page":"Giurtelecu \u0218imleului"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1278822
     },
     "wof:country":"RO",
     "wof:geomhash":"b8a90e34c2ad9bf55b27d5666c4c5a2c",
@@ -303,7 +308,7 @@
         }
     ],
     "wof:id":101786083,
-    "wof:lastmodified":1563576787,
+    "wof:lastmodified":1566611149,
     "wof:name":"Giurtelecu \u015eimleului",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

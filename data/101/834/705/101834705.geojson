@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.300147,
     "lbl:longitude":25.720882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.300147,
     "mps:longitude":25.720882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Te\u0219ila"
     ],
@@ -58,7 +61,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":665220,
         "gp:id":881710,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q12161119"
     },
     "wof:country":"RO",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101834705,
-    "wof:lastmodified":1563576021,
+    "wof:lastmodified":1566610885,
     "wof:name":"Te\u015fila",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

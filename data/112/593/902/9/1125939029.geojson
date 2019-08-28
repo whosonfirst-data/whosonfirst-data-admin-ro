@@ -9,15 +9,18 @@
     "geom:bbox":"27.18333,46.53333,27.18333,46.53333",
     "geom:latitude":46.53333,
     "geom:longitude":27.18333,
-    "gn:gn_country":"RO",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":2441,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA2",
     "gn:population":2441,
     "iso:country":"RO",
+    "lbl:bbox":"27.16333,46.51333,27.20333,46.55333",
     "lbl:latitude":46.53333,
     "lbl:longitude":27.18333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Filipeni"
@@ -28,7 +31,7 @@
     "name:ron_x_preferred":[
         "Filipeni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lunca"
     ],
     "name:vie_x_preferred":[
@@ -51,7 +54,7 @@
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":872130,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1125939029,
-    "wof:lastmodified":1564101451,
+    "wof:lastmodified":1566611275,
     "wof:name":"Filipeni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":45.418665,
     "lbl:longitude":29.288898,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":45.418665,
     "mps:longitude":29.288898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chilia Veche"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u041a\u0456\u043b\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Kiliya Veki"
-    ],
     "name:vie_x_preferred":[
         "Chilia Veche"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,6 @@
         "fct:id":"039ea98a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":682117,
         "gp:id":869287,
-        "qs:id":127850,
         "qs_pg:id":127850,
         "wd:id":"Q860733"
     },
@@ -108,7 +107,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1563576925,
+    "wof:lastmodified":1566611196,
     "wof:name":"Chilia Veche",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

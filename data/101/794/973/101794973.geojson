@@ -13,10 +13,13 @@
     "iso:country":"RO",
     "lbl:latitude":44.497644,
     "lbl:longitude":22.103675,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.497644,
     "mps:longitude":22.103675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Svini\u021ba"
     ],
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":665653,
         "gp:id":881395,
-        "qs:id":180986,
+        "qs_pg:id":180986,
         "wd:id":"Q278492"
     },
     "wof:country":"RO",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101794973,
-    "wof:lastmodified":1563576405,
+    "wof:lastmodified":1566611022,
     "wof:name":"Svini\u0163a",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
