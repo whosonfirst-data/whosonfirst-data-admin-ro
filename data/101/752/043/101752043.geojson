@@ -336,6 +336,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -357,6 +358,10 @@
         "qs_pg:id":492254
     },
     "wof:country":"RO",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"163ef063249d920cd0bcd09824ccfb30",
     "wof:hierarchy":[
         {
@@ -370,7 +375,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1566610684,
+    "wof:lastmodified":1582311861,
     "wof:name":"Suceava",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
