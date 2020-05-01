@@ -2,8 +2,9 @@
   "id": 1260351515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"23.61667,44.76667,23.61667,44.76667",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna Plopu"
@@ -81,7 +82,7 @@
         "gn:id":670427
     },
     "wof:country":"RO",
-    "wof:geomhash":"751cb1283175c8398bf513fa0f81089b",
+    "wof:geomhash":"cf08c77d87e36b0146234ae44929cf7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,20 +92,22 @@
         }
     ],
     "wof:id":1260351515,
-    "wof:lastmodified":1566610504,
+    "wof:lastmodified":1588368354,
     "wof:name":"Plopu",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1326705481
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    23.61667000000001,
+    23.61667,
     44.76667,
-    23.61667000000001,
+    23.61667,
     44.76667
 ],
-  "geometry": {"coordinates":[23.61667000000001,44.76667],"type":"Point"}
+  "geometry": {"coordinates":[23.61667,44.76667],"type":"Point"}
 }

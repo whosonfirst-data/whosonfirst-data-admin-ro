@@ -2,8 +2,9 @@
   "id": 1243346927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"28.57655,44.61278,28.57655,44.61278",
@@ -29,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u062a\u064a\u0646\u064a\u0644\u064a\u0647"
@@ -93,14 +94,16 @@
         }
     ],
     "wof:id":1243346927,
-    "wof:lastmodified":1566611495,
+    "wof:lastmodified":1588368343,
     "wof:name":"Fantanele",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":1679,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101791495
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

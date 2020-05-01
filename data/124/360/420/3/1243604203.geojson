@@ -2,8 +2,9 @@
   "id": 1243604203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"26.03333,44.75,26.03333,44.75",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,14 +53,16 @@
         }
     ],
     "wof:id":1243604203,
-    "wof:lastmodified":1566611494,
+    "wof:lastmodified":1588368343,
     "wof:name":"Poienarii-Rali",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":963,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101792921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

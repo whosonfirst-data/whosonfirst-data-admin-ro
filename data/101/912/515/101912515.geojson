@@ -2,9 +2,10 @@
   "id": 101912515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:deprecated":"2020-04-29",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.000013,
     "geom:area_square_m":110491.26893,
     "geom:bbox":"23.856579,45.099117,23.861909,45.103702",
@@ -101,14 +102,16 @@
         }
     ],
     "wof:id":101912515,
-    "wof:lastmodified":1588202481,
+    "wof:lastmodified":1588368351,
     "wof:name":"Matee\u0219ti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":3232,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101792837
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

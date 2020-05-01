@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.99566,46.36729,22.99566,46.36729",
-    "geom:latitude":46.36729,
-    "geom:longitude":22.99566,
+    "geom:area":0.000002,
+    "geom:area_square_m":19176.674818,
+    "geom:bbox":"22.986018,46.369567,22.988504,46.371287",
+    "geom:latitude":46.370468,
+    "geom:longitude":22.987298,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425",
     "gn:asciiname":"Bobaresti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bob\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Bobaresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684544
+        "gn:id":684544,
+        "ro-ancpi:id":8452
     },
     "wof:country":"RO",
-    "wof:geomhash":"32e88e315432b23f97a666fdcf700d23",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6394deaf0e11d6ea7fab547ef614534d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,22 +65,24 @@
         }
     ],
     "wof:id":1276887695,
-    "wof:lastmodified":1566610170,
-    "wof:name":"Bobaresti",
+    "wof:lastmodified":1588368355,
+    "wof:name":"Bob\u0103re\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":78,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293102827
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    22.99566,
-    46.36729,
-    22.99566,
-    46.36729
+    22.986018,
+    46.369567,
+    22.988504,
+    46.371287
 ],
-  "geometry": {"coordinates":[22.99566,46.36729],"type":"Point"}
+  "geometry": {"coordinates":[[[22.988366,46.370549],[22.987751,46.369567],[22.986018,46.370389],[22.986927,46.371287],[22.988504,46.370704],[22.988366,46.370549]]],"type":"Polygon"}
 }

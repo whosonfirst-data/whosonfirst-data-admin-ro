@@ -2,8 +2,9 @@
   "id": 1226096211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.36667,45.71667,24.36667,45.71667",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marsa"
@@ -77,7 +78,7 @@
         "gn:id":673092
     },
     "wof:country":"RO",
-    "wof:geomhash":"ab8649d5c049661dd40457e7fb1437a5",
+    "wof:geomhash":"68a46936409977682d3639e9ccec8543",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,20 +88,22 @@
         }
     ],
     "wof:id":1226096211,
-    "wof:lastmodified":1566611712,
+    "wof:lastmodified":1588368355,
     "wof:name":"Marsa",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101855821
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    24.36667000000001,
+    24.36667,
     45.71667,
-    24.36667000000001,
+    24.36667,
     45.71667
 ],
-  "geometry": {"coordinates":[24.36667000000001,45.71667],"type":"Point"}
+  "geometry": {"coordinates":[24.36667,45.71667],"type":"Point"}
 }

@@ -2,11 +2,12 @@
   "id": 1125835215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.936086,44.7033675,27.936086,44.7033675",
+    "geom:bbox":"27.936086,44.703367,27.936086,44.703367",
     "geom:latitude":44.703367,
     "geom:longitude":27.936086,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"RO",
@@ -55,7 +56,7 @@
     },
     "wof:country":"RO",
     "wof:created":1497292684,
-    "wof:geomhash":"40d579b24c60b43e483ad26ba20013b5",
+    "wof:geomhash":"1704f00496c885abfc095b45155ac852",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,20 +66,22 @@
         }
     ],
     "wof:id":1125835215,
-    "wof:lastmodified":1566611416,
+    "wof:lastmodified":1588368347,
     "wof:name":"H\u00eer\u0219ova",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101791501
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     27.936086,
-    44.7033675,
+    44.703367,
     27.936086,
-    44.7033675
+    44.703367
 ],
-  "geometry": {"coordinates":[27.936086,44.7033675],"type":"Point"}
+  "geometry": {"coordinates":[27.936086,44.703367],"type":"Point"}
 }

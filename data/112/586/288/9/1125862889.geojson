@@ -2,8 +2,9 @@
   "id": 1125862889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"23.95,44.33333,23.95,44.33333",
@@ -19,7 +20,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -95,14 +96,16 @@
         }
     ],
     "wof:id":1125862889,
-    "wof:lastmodified":1566611301,
+    "wof:lastmodified":1588368347,
     "wof:name":"Piele\u015ft\u00ed",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":3647,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101845055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

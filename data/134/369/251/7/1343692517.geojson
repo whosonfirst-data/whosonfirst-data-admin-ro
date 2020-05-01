@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21476,44.66851,24.21476,44.66851",
-    "geom:latitude":44.66851,
-    "geom:longitude":24.21476,
+    "geom:area":0.000134,
+    "geom:area_square_m":1179440.497237,
+    "geom:bbox":"24.18854,44.66659,24.217137,44.680793",
+    "geom:latitude":44.67408,
+    "geom:longitude":24.204756,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173597.0",
     "gn:asciiname":"Sutesti",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.19476,44.64851,24.23476,44.68851",
+    "lbl:latitude":44.66851,
+    "lbl:longitude":24.21476,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Sute\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Sutesti"
+    ],
     "name:und_x_variant":[
         "Pietroasa",
         "Sute\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665663
+        "gn:id":665663,
+        "ro-ancpi:id":173604
     },
     "wof:country":"RO",
-    "wof:geomhash":"a44f54930c419a06d01ead5684d0183b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e2f7ff90fc571520133a08f808bfdfd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,22 +73,24 @@
         }
     ],
     "wof:id":1343692517,
-    "wof:lastmodified":1566609944,
-    "wof:name":"Sutesti",
+    "wof:lastmodified":1588368331,
+    "wof:name":"Sute\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":837,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293329033
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    24.21476,
-    44.66851,
-    24.21476,
-    44.66851
+    24.18854,
+    44.66659,
+    24.217137,
+    44.680793
 ],
-  "geometry": {"coordinates":[24.21476,44.66851],"type":"Point"}
+  "geometry": {"coordinates":[[[24.215519,44.672078],[24.217137,44.671458],[24.216881,44.670613],[24.213689,44.66659],[24.208406,44.668352],[24.205241,44.670245],[24.200463,44.672336],[24.19698,44.673862],[24.194657,44.674975],[24.192882,44.67525],[24.191911,44.675645],[24.191465,44.676829],[24.190734,44.677283],[24.18854,44.677975],[24.192792,44.679341],[24.195047,44.677754],[24.202184,44.673995],[24.203088,44.674576],[24.199239,44.677344],[24.200839,44.678121],[24.200143,44.679897],[24.201993,44.680044],[24.202152,44.678245],[24.203815,44.678257],[24.203141,44.680416],[24.205095,44.680793],[24.206361,44.678524],[24.206313,44.676168],[24.207758,44.676485],[24.207489,44.678455],[24.208085,44.68001],[24.209673,44.679638],[24.20955,44.676861],[24.210981,44.674287],[24.212998,44.671984],[24.212482,44.670506],[24.213427,44.670053],[24.214242,44.671265],[24.215519,44.672078]],[[24.210475,44.672043],[24.204603,44.673706],[24.203215,44.67316],[24.209339,44.67079],[24.210475,44.672043]],[[24.207874,44.675835],[24.206645,44.675443],[24.206067,44.67452],[24.209003,44.673737],[24.207874,44.675835]]],"type":"Polygon"}
 }

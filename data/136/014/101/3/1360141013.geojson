@@ -2,8 +2,9 @@
   "id": 1360141013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"26.57165,47.33645,26.57165,47.33645",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0423\u0434\u0430"
@@ -109,14 +110,16 @@
         }
     ],
     "wof:id":1360141013,
-    "wof:lastmodified":1566610615,
+    "wof:lastmodified":1588368334,
     "wof:name":"Uda",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":1624,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101834143
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

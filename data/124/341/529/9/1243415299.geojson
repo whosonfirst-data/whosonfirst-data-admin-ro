@@ -2,8 +2,9 @@
   "id": 1243415299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.45901,44.13539,24.45901,44.13539",
@@ -29,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:und_x_variant":[
         "F\u0103rca\u015fele",
@@ -60,14 +61,16 @@
         }
     ],
     "wof:id":1243415299,
-    "wof:lastmodified":1566611463,
+    "wof:lastmodified":1588368343,
     "wof:name":"Farcasu de Jos",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":1876,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101836577
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

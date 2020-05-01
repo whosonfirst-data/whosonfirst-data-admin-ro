@@ -2,8 +2,9 @@
   "id": 1326964161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"27.07304,44.44227,27.07304,44.44227",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0644\u062c\u0627"
@@ -58,14 +59,16 @@
         }
     ],
     "wof:id":1326964161,
-    "wof:lastmodified":1566609847,
+    "wof:lastmodified":1588368330,
     "wof:name":"Dalga",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
     "wof:population":707,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101793783
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,8 +2,9 @@
   "id": 1360269895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.41075,46.02524,25.41075,46.02524",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Als\u00f3r\u00e1kos"
@@ -55,14 +56,16 @@
         }
     ],
     "wof:id":1360269895,
-    "wof:lastmodified":1566610638,
+    "wof:lastmodified":1588368335,
     "wof:name":"Racos",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":2856,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101789591
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
