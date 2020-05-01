@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.42649,45.10958,22.42649,45.10958",
-    "geom:latitude":45.10958,
-    "geom:longitude":22.42649,
+    "geom:area":0.000025,
+    "geom:area_square_m":216954.657729,
+    "geom:bbox":"22.419071,45.106089,22.425862,45.112753",
+    "geom:latitude":45.108788,
+    "geom:longitude":22.422284,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Gruni",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Gruni"
@@ -36,7 +36,10 @@
     "name:ron_x_preferred":[
         "Gruni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676598
+        "gn:id":676598,
+        "ro-ancpi:id":52302
     },
     "wof:country":"RO",
-    "wof:geomhash":"76f9e5de32828d3e5ebdda0898122a32",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05849deef3d57e93b17cb6d9f47ac530",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1226736853,
-    "wof:lastmodified":1566611626,
+    "wof:lastmodified":1588367031,
     "wof:name":"Gruni",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.42649,
-    45.10958,
-    22.42649,
-    45.10958
+    22.419071,
+    45.106089,
+    22.425862,
+    45.112753
 ],
-  "geometry": {"coordinates":[22.42649,45.10958],"type":"Point"}
+  "geometry": {"coordinates":[[[22.422,45.106089],[22.419161,45.106742],[22.42015,45.108659],[22.42094,45.109805],[22.419071,45.112525],[22.42127,45.112753],[22.422604,45.109974],[22.424742,45.109761],[22.425854,45.108996],[22.425862,45.108092],[22.425628,45.1074],[22.424439,45.106547],[22.422,45.106089]]],"type":"Polygon"}
 }

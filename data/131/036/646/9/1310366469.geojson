@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41518,44.66023,24.41518,44.66023",
-    "geom:latitude":44.66023,
-    "geom:longitude":24.41518,
+    "geom:area":0.000087,
+    "geom:area_square_m":765810.453184,
+    "geom:bbox":"24.405569,44.650407,24.421948,44.66415",
+    "geom:latitude":44.658539,
+    "geom:longitude":24.411623,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126503.0",
     "gn:asciiname":"Miesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.39518,44.64023,24.43518,44.68023",
+    "lbl:latitude":44.66023,
+    "lbl:longitude":24.41518,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Miesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673423
+        "gn:id":673423,
+        "ro-ancpi:id":126549
     },
     "wof:country":"RO",
-    "wof:geomhash":"7300178e413216bc268bd838108dcc1b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0d09d37ef08154ac4668435b15bbdf3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1310366469,
-    "wof:lastmodified":1566610550,
-    "wof:name":"Miesti",
+    "wof:lastmodified":1588366778,
+    "wof:name":"Mie\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":290,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41518,
-    44.66023,
-    24.41518,
-    44.66023
+    24.405569,
+    44.650407,
+    24.421948,
+    44.66415
 ],
-  "geometry": {"coordinates":[24.41518,44.66023],"type":"Point"}
+  "geometry": {"coordinates":[[[24.421948,44.662827],[24.418224,44.661175],[24.413044,44.656932],[24.410397,44.653391],[24.411457,44.650407],[24.407715,44.651008],[24.408553,44.654179],[24.407481,44.654675],[24.405569,44.654805],[24.405598,44.657709],[24.406225,44.659704],[24.411689,44.663395],[24.415097,44.662471],[24.418706,44.66415],[24.421948,44.662827]]],"type":"Polygon"}
 }

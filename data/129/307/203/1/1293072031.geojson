@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.45536,44.6292,28.45536,44.6292",
-    "geom:latitude":44.6292,
-    "geom:longitude":28.45536,
+    "geom:area":0.000183,
+    "geom:area_square_m":1608450.314327,
+    "geom:bbox":"28.44237,44.622485,28.471764,44.636295",
+    "geom:latitude":44.628949,
+    "geom:longitude":28.455279,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61372.0",
     "gn:asciiname":"Ramnicu de Jos",
@@ -26,18 +26,30 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.43536,44.6092,28.47536,44.6492",
+    "lbl:latitude":44.6292,
+    "lbl:longitude":28.45536,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u00e2mnicu de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Ramnicu de Jos"
+    ],
     "name:und_x_variant":[
         "R\u00e2mnicul-de Jos",
         "R\u00e2mnicu-de-Jos",
         "Ramnik de Jos",
         "R\u00eemnicu de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668877
+        "gn:id":668877,
+        "ro-ancpi:id":61425
     },
     "wof:country":"RO",
-    "wof:geomhash":"1c23178519a9f90b022f9d516df6add4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0903ecfa2a6bedbf8582ca07ccbd76df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +75,8 @@
         }
     ],
     "wof:id":1293072031,
-    "wof:lastmodified":1566610025,
-    "wof:name":"Ramnicu de Jos",
+    "wof:lastmodified":1588366671,
+    "wof:name":"R\u00e2mnicu de Jos",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":676,
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.45536,
-    44.6292,
-    28.45536,
-    44.6292
+    28.44237,
+    44.622485,
+    28.471764,
+    44.636295
 ],
-  "geometry": {"coordinates":[28.45536,44.6292],"type":"Point"}
+  "geometry": {"coordinates":[[[28.454749,44.633837],[28.457227,44.633182],[28.458145,44.633924],[28.461608,44.633162],[28.466286,44.631689],[28.467511,44.63292],[28.471764,44.631551],[28.469367,44.629084],[28.467716,44.628465],[28.464849,44.629729],[28.46173,44.626469],[28.459221,44.626977],[28.456918,44.625644],[28.457754,44.625007],[28.454385,44.624109],[28.452464,44.62391],[28.45105,44.623138],[28.449697,44.622846],[28.448311,44.622797],[28.446896,44.623081],[28.44612,44.622485],[28.444853,44.62328],[28.443914,44.623852],[28.442923,44.624227],[28.44237,44.624405],[28.444964,44.627954],[28.44616,44.629271],[28.448061,44.630658],[28.448744,44.630736],[28.449479,44.631905],[28.449891,44.63208],[28.450575,44.63343],[28.451046,44.633418],[28.452543,44.635334],[28.453379,44.636295],[28.454641,44.635497],[28.455484,44.634911],[28.454749,44.633837]]],"type":"Polygon"}
 }

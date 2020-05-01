@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.12624,44.47992,24.12624,44.47992",
-    "geom:latitude":44.47992,
-    "geom:longitude":24.12624,
+    "geom:area":0.000044,
+    "geom:area_square_m":388056.221704,
+    "geom:bbox":"24.120077,44.475753,24.133263,44.48279",
+    "geom:latitude":44.479236,
+    "geom:longitude":24.125433,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127625.0",
     "gn:asciiname":"Morunesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.10624,44.45992,24.14624,44.49992",
+    "lbl:latitude":44.47992,
+    "lbl:longitude":24.12624,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Morune\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Morunesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672839
+        "gn:id":672839,
+        "ro-ancpi:id":127661
     },
     "wof:country":"RO",
-    "wof:geomhash":"6686bf1f2ebcc4f26d8640e998cba5c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"492a273996a5d5b7e1b34c66a9e648b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1326877283,
-    "wof:lastmodified":1566609780,
-    "wof:name":"Morunesti",
+    "wof:lastmodified":1588366625,
+    "wof:name":"Morune\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":409,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12624,
-    44.47992,
-    24.12624,
-    44.47992
+    24.120077,
+    44.475753,
+    24.133263,
+    44.48279
 ],
-  "geometry": {"coordinates":[24.12624,44.47992],"type":"Point"}
+  "geometry": {"coordinates":[[[24.123161,44.481407],[24.123914,44.481383],[24.125721,44.481769],[24.126076,44.481451],[24.126667,44.481448],[24.127402,44.481316],[24.128324,44.4813],[24.128834,44.480879],[24.128617,44.480736],[24.128957,44.480483],[24.12847,44.480216],[24.129319,44.479515],[24.130066,44.479699],[24.130602,44.479786],[24.131886,44.479808],[24.132879,44.479795],[24.133059,44.479642],[24.133263,44.479136],[24.130398,44.479041],[24.13003,44.478677],[24.130544,44.477489],[24.128711,44.477166],[24.126564,44.476814],[24.126241,44.476428],[24.123771,44.475753],[24.123434,44.47636],[24.122452,44.477409],[24.122139,44.477688],[24.122048,44.478335],[24.121853,44.478845],[24.121196,44.478766],[24.120199,44.47907],[24.120077,44.479665],[24.121347,44.479869],[24.121189,44.480444],[24.120864,44.480911],[24.120652,44.481264],[24.120441,44.481624],[24.120474,44.481899],[24.120547,44.48248],[24.122155,44.48279],[24.123161,44.481407]]],"type":"Polygon"}
 }

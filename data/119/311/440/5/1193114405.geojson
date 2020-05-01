@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.30964,45.42809,22.30964,45.42809",
-    "geom:latitude":45.42809,
-    "geom:longitude":22.30964,
+    "geom:area":0.000008,
+    "geom:area_square_m":68534.49935,
+    "geom:bbox":"22.305829,45.425829,22.310044,45.429601",
+    "geom:latitude":45.427594,
+    "geom:longitude":22.307963,
     "gn:admin1_code":"12",
     "gn:admin2_code":"54412.0",
     "gn:asciiname":"Cicleni",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.28964,45.40809,22.32964,45.44809",
+    "lbl:latitude":45.42809,
+    "lbl:longitude":22.30964,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cicleni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681940
+        "gn:id":681940,
+        "ro-ancpi:id":54449
     },
     "wof:country":"RO",
-    "wof:geomhash":"1c6463477e83121b3e2774e0c3c2a808",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7599903bd3533db796a8fb240e38d420",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1193114405,
-    "wof:lastmodified":1566610451,
+    "wof:lastmodified":1588366758,
     "wof:name":"Cicleni",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.30964,
-    45.42809000000001,
-    22.30964,
-    45.42809000000001
+    22.305829,
+    45.425829,
+    22.310044,
+    45.429601
 ],
-  "geometry": {"coordinates":[22.30964,45.42809000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[22.308662,45.426443],[22.307796,45.425829],[22.305829,45.426599],[22.306247,45.427074],[22.308021,45.429601],[22.309012,45.429246],[22.30866,45.428756],[22.310044,45.428445],[22.308662,45.426443]]],"type":"Polygon"}
 }

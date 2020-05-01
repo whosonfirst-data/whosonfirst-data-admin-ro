@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.22453,47.19445,22.22453,47.19445",
-    "geom:latitude":47.19445,
-    "geom:longitude":22.22453,
+    "geom:area":0.000038,
+    "geom:area_square_m":317350.429725,
+    "geom:bbox":"22.202301,47.190672,22.212865,47.197709",
+    "geom:latitude":47.194424,
+    "geom:longitude":22.207633,
     "gn:admin1_code":"05",
     "gn:admin2_code":"31208.0",
     "gn:asciiname":"Gurbesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gurbe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gurbesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676440
+        "gn:id":676440,
+        "ro-ancpi:id":31235
     },
     "wof:country":"RO",
-    "wof:geomhash":"b90eab11f715f5fb68f961bb41f1515d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5232c7a51dc052920efc66e432658151",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1343761343,
-    "wof:lastmodified":1566609925,
-    "wof:name":"Gurbesti",
+    "wof:lastmodified":1588367138,
+    "wof:name":"Gurbe\u015fti",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":168,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.22453,
-    47.19445,
-    22.22453,
-    47.19445
+    22.202301,
+    47.190672,
+    22.212865,
+    47.197709
 ],
-  "geometry": {"coordinates":[22.22453,47.19445],"type":"Point"}
+  "geometry": {"coordinates":[[[22.206615,47.195859],[22.207985,47.195441],[22.209622,47.197474],[22.212011,47.19612],[22.211915,47.19604],[22.212865,47.195471],[22.211569,47.194256],[22.211226,47.194136],[22.210731,47.194152],[22.21017,47.1941],[22.210491,47.193196],[22.210969,47.192576],[22.211264,47.192196],[22.208413,47.190672],[22.207901,47.191286],[22.207004,47.191918],[22.206561,47.192166],[22.206522,47.192303],[22.206478,47.192405],[22.206386,47.192536],[22.205224,47.192079],[22.204731,47.192424],[22.205413,47.192818],[22.204919,47.192982],[22.204067,47.193197],[22.203493,47.193015],[22.202931,47.192981],[22.204399,47.194223],[22.202301,47.19598],[22.204992,47.197709],[22.205921,47.196726],[22.206615,47.195859]]],"type":"Polygon"}
 }

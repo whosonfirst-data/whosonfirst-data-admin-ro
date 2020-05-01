@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.92692,46.3519,22.92692,46.3519",
-    "geom:latitude":46.3519,
-    "geom:longitude":22.92692,
+    "geom:area":0.000014,
+    "geom:area_square_m":122916.25297,
+    "geom:bbox":"22.922673,46.350483,22.931367,46.356413",
+    "geom:latitude":46.353669,
+    "geom:longitude":22.926455,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425",
     "gn:asciiname":"Bordestii Poieni",
@@ -25,16 +25,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.90692,46.3319,22.94692,46.3719",
+    "lbl:latitude":46.3519,
+    "lbl:longitude":22.92692,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Borde\u015ftii Poieni"
+    ],
+    "name:ron_x_variant":[
+        "Bordestii Poieni"
+    ],
     "name:und_x_variant":[
         "Borde\u015fti",
         "Borde\u015ftii-Poenilor"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684207
+        "gn:id":684207,
+        "ro-ancpi:id":8470
     },
     "wof:country":"RO",
-    "wof:geomhash":"f6828eab536a4efd8b01b3be7d754f80",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d00d5bf0ed90f32de674bd6c526e5516",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +71,8 @@
         }
     ],
     "wof:id":1276990723,
-    "wof:lastmodified":1566610250,
-    "wof:name":"Bordestii Poieni",
+    "wof:lastmodified":1588366720,
+    "wof:name":"Borde\u015ftii Poieni",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.92692000000001,
-    46.3519,
-    22.92692000000001,
-    46.3519
+    22.922673,
+    46.350483,
+    22.931367,
+    46.356413
 ],
-  "geometry": {"coordinates":[22.92692000000001,46.3519],"type":"Point"}
+  "geometry": {"coordinates":[[[22.922673,46.355403],[22.924353,46.356413],[22.926734,46.355903],[22.927076,46.355219],[22.926145,46.354727],[22.925524,46.354263],[22.927737,46.352565],[22.929166,46.352562],[22.930136,46.352189],[22.931367,46.350881],[22.930991,46.350483],[22.929235,46.351262],[22.928029,46.351641],[22.9269,46.351729],[22.924321,46.353764],[22.922673,46.355403]]],"type":"Polygon"}
 }

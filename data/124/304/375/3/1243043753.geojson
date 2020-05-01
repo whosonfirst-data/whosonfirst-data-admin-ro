@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.93107,46.12779,27.93107,46.12779",
-    "geom:latitude":46.12779,
-    "geom:longitude":27.93107,
+    "geom:area":0.000004,
+    "geom:area_square_m":36316.513472,
+    "geom:bbox":"27.935047,46.124499,27.943237,46.129307",
+    "geom:latitude":46.126946,
+    "geom:longitude":27.939135,
     "gn:admin1_code":"18",
     "gn:admin2_code":"75356.0",
     "gn:asciiname":"Saseni",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "S\u0103seni"
+    ],
+    "name:ron_x_variant":[
+        "Saseni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667909
+        "gn:id":667909,
+        "ro-ancpi:id":75436
     },
     "wof:country":"RO",
-    "wof:geomhash":"523610ec5167f12eaa29760e1bd3a9eb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"444b4e5d047c2c912057852c045c37cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1243043753,
-    "wof:lastmodified":1566611486,
-    "wof:name":"Saseni",
+    "wof:lastmodified":1588367061,
+    "wof:name":"S\u0103seni",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:population":133,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.93107,
-    46.12779000000001,
-    27.93107,
-    46.12779000000001
+    27.935047,
+    46.124499,
+    27.943237,
+    46.129307
 ],
-  "geometry": {"coordinates":[27.93107,46.12779000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.942461,46.124499],[27.94173,46.12471],[27.940813,46.12517],[27.940025,46.125666],[27.941379,46.126185],[27.942204,46.125868],[27.942203,46.125684],[27.941792,46.125101],[27.943237,46.124929],[27.942461,46.124499]]],[[[27.936037,46.127969],[27.935047,46.128524],[27.936707,46.129245],[27.937198,46.129307],[27.937995,46.128621],[27.936037,46.127969]]]],"type":"MultiPolygon"}
 }

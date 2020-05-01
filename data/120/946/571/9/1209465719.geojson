@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.4184,44.72152,24.4184,44.72152",
-    "geom:latitude":44.72152,
-    "geom:longitude":24.4184,
+    "geom:area":0.000015,
+    "geom:area_square_m":134164.304597,
+    "geom:bbox":"24.420463,44.727406,24.425854,44.733279",
+    "geom:latitude":44.730278,
+    "geom:longitude":24.42342,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127411.0",
     "gn:asciiname":"Greeresti",
@@ -28,19 +28,32 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Greere\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Greeresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676743
+        "gn:id":676743,
+        "ro-ancpi:id":127448
     },
     "wof:country":"RO",
-    "wof:geomhash":"83b916ca9f0e84a4f128660ac3b80400",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd1dca5619c9af6c2051ff3bf26c0a7c",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +61,8 @@
         }
     ],
     "wof:id":1209465719,
-    "wof:lastmodified":1566610319,
-    "wof:name":"Greeresti",
+    "wof:lastmodified":1588367084,
+    "wof:name":"Greere\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":61,
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.4184,
-    44.72152,
-    24.4184,
-    44.72152
+    24.420463,
+    44.727406,
+    24.425854,
+    44.733279
 ],
-  "geometry": {"coordinates":[24.4184,44.72152],"type":"Point"}
+  "geometry": {"coordinates":[[[24.425448,44.733243],[24.425756,44.73187],[24.425501,44.731135],[24.425854,44.730936],[24.425587,44.730683],[24.425087,44.730438],[24.424597,44.729807],[24.424324,44.72904],[24.424059,44.728784],[24.423885,44.728342],[24.423368,44.728059],[24.422136,44.727406],[24.420463,44.728023],[24.420916,44.728522],[24.420693,44.728579],[24.421863,44.730022],[24.422594,44.730773],[24.423017,44.730894],[24.423181,44.731205],[24.422872,44.731359],[24.422977,44.731615],[24.422831,44.731796],[24.422572,44.73214],[24.422562,44.732373],[24.422773,44.732742],[24.424015,44.732595],[24.424716,44.733279],[24.425448,44.733243]]],"type":"Polygon"}
 }

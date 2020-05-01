@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.51667,47.0,26.51667,47.0",
-    "geom:latitude":47.0,
-    "geom:longitude":26.51667,
+    "geom:area":0.000013,
+    "geom:area_square_m":108219.623965,
+    "geom:bbox":"26.536052,46.995449,26.543591,47.004323",
+    "geom:latitude":46.998743,
+    "geom:longitude":26.540251,
     "gn:admin1_code":"28",
     "gn:admin2_code":"124411.0",
     "gn:asciiname":"Deleni",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Deleni"
@@ -60,7 +60,10 @@
     "name:vol_x_preferred":[
         "Deleni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +72,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673917
+        "gn:id":673917,
+        "ro-ancpi:id":124457
     },
     "wof:country":"RO",
-    "wof:geomhash":"b5de818723da0ea78f9c6128bbc12aa6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c144e732c1af97e9db11448ea54a2731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +89,7 @@
         }
     ],
     "wof:id":1309753469,
-    "wof:lastmodified":1566611265,
+    "wof:lastmodified":1588367027,
     "wof:name":"Deleni",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",
@@ -94,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.51667,
-    47.0,
-    26.51667,
-    47.0
+    26.536052,
+    46.995449,
+    26.543591,
+    47.004323
 ],
-  "geometry": {"coordinates":[26.51667,47.0],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.538378,47.000963],[26.539407,46.99967],[26.539348,46.999558],[26.539933,46.998916],[26.540261,46.998509],[26.541329,46.998967],[26.543591,46.996478],[26.540912,46.995449],[26.538823,46.998203],[26.540226,46.998253],[26.539815,46.998643],[26.539567,46.998919],[26.538803,46.999639],[26.538519,47.000098],[26.538176,47.000933],[26.537028,47.000887],[26.536052,47.002353],[26.537196,47.002463],[26.538378,47.000963]]],[[[26.540171,47.003159],[26.540067,47.002556],[26.539731,47.002584],[26.538683,47.003005],[26.539832,47.004323],[26.540171,47.003159]]]],"type":"MultiPolygon"}
 }

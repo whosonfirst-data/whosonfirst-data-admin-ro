@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11235,44.70926,24.11235,44.70926",
-    "geom:latitude":44.70926,
-    "geom:longitude":24.11235,
+    "geom:area":0.000027,
+    "geom:area_square_m":238785.357142,
+    "geom:bbox":"24.104624,44.702826,24.113932,44.710916",
+    "geom:latitude":44.70707,
+    "geom:longitude":24.109497,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170444.0",
     "gn:asciiname":"Dealu Mare",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dealu Mare"
@@ -45,7 +45,10 @@
     "name:srp_x_preferred":[
         "\u0414\u0435\u0430\u043b\u0443 \u041c\u0430\u0440\u0435"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679623
+        "gn:id":679623,
+        "ro-ancpi:id":170471
     },
     "wof:country":"RO",
-    "wof:geomhash":"46dd9c6e0faf0cf62850ec78fdaca4b3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8c862b872dce258be6ca359b59625406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":1260115203,
-    "wof:lastmodified":1566610490,
+    "wof:lastmodified":1588367158,
     "wof:name":"Dealu Mare",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11235,
-    44.70926,
-    24.11235,
-    44.70926
+    24.104624,
+    44.702826,
+    24.113932,
+    44.710916
 ],
-  "geometry": {"coordinates":[24.11235,44.70926],"type":"Point"}
+  "geometry": {"coordinates":[[[24.110899,44.706934],[24.113932,44.703531],[24.111956,44.702826],[24.109042,44.705502],[24.108432,44.705057],[24.107426,44.705815],[24.107879,44.707772],[24.104624,44.709948],[24.106031,44.710916],[24.112166,44.70838],[24.110899,44.706934]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.26593,46.45355,24.26593,46.45355",
-    "geom:latitude":46.45355,
-    "geom:longitude":24.26593,
+    "geom:area":0.000044,
+    "geom:area_square_m":371170.821386,
+    "geom:bbox":"24.256118,46.448722,24.267996,46.456041",
+    "geom:latitude":46.452073,
+    "geom:longitude":24.261678,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117827.0",
     "gn:asciiname":"Sfantu Gheorghe",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:ron_x_variant":[
+        "Sfantu Gheorghe"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667302
+        "gn:id":667302,
+        "ro-ancpi:id":117916
     },
     "wof:country":"RO",
-    "wof:geomhash":"cc9b3858f0d6e85095e16dbaf387acf2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"85c25fa5ecf1e6f6bb6af504b4611c10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1243211449,
-    "wof:lastmodified":1566611530,
-    "wof:name":"Sfantu Gheorghe",
+    "wof:lastmodified":1588367064,
+    "wof:name":"Sf\u00e2ntu Gheorghe",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":336,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.26593,
-    46.45355,
-    24.26593,
-    46.45355
+    24.256118,
+    46.448722,
+    24.267996,
+    46.456041
 ],
-  "geometry": {"coordinates":[24.26593,46.45355],"type":"Point"}
+  "geometry": {"coordinates":[[[24.262914,46.45547],[24.264622,46.455452],[24.264894,46.455661],[24.266244,46.45563],[24.266099,46.455301],[24.267996,46.454379],[24.264984,46.453439],[24.264951,46.453177],[24.264838,46.45275],[24.264689,46.45194],[24.264565,46.450285],[24.264425,46.448722],[24.262706,46.448816],[24.261904,46.448728],[24.261565,46.449313],[24.261196,46.449603],[24.259912,46.44975],[24.258761,46.449034],[24.257878,46.449439],[24.257969,46.449756],[24.256118,46.449903],[24.256306,46.451337],[24.257982,46.453447],[24.261317,46.4536],[24.262601,46.454522],[24.26286,46.455107],[24.262492,46.455203],[24.261775,46.455284],[24.261665,46.455393],[24.261599,46.455974],[24.263056,46.456041],[24.262914,46.45547]]],"type":"Polygon"}
 }

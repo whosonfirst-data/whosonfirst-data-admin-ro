@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.46204,47.41867,22.46204,47.41867",
-    "geom:latitude":47.41867,
-    "geom:longitude":22.46204,
+    "geom:area":0.000018,
+    "geom:area_square_m":147944.846583,
+    "geom:bbox":"22.454808,47.416722,22.46359,47.421023",
+    "geom:latitude":47.418737,
+    "geom:longitude":22.4593,
     "gn:admin1_code":"05",
     "gn:admin2_code":"32045.0",
     "gn:asciiname":"Padureni",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.44204,47.39867,22.48204,47.43867",
+    "lbl:latitude":47.41867,
+    "lbl:longitude":22.46204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ron_x_variant":[
+        "Padureni"
+    ],
     "name:und_x_variant":[
         "Satu de Necaz",
         "P\u0103dureni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671518
+        "gn:id":671518,
+        "ro-ancpi:id":32072
     },
     "wof:country":"RO",
-    "wof:geomhash":"07c94b52e68b66a573505a3341fdfafe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f0ed24c756021ec02c7646b5369c1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293888427,
-    "wof:lastmodified":1566610154,
-    "wof:name":"Padureni",
+    "wof:lastmodified":1588366699,
+    "wof:name":"P\u0103dureni",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":2,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.46204,
-    47.41867,
-    22.46204,
-    47.41867
+    22.454808,
+    47.416722,
+    22.46359,
+    47.421023
 ],
-  "geometry": {"coordinates":[22.46204,47.41867],"type":"Point"}
+  "geometry": {"coordinates":[[[22.461981,47.418428],[22.461369,47.417762],[22.461239,47.417593],[22.461153,47.417415],[22.461127,47.417266],[22.46112,47.417151],[22.461111,47.417021],[22.461042,47.416828],[22.461038,47.416821],[22.461016,47.41687],[22.460621,47.417754],[22.455662,47.416722],[22.454808,47.418463],[22.459715,47.419689],[22.45944,47.42029],[22.462839,47.421023],[22.46326,47.420953],[22.46356,47.420499],[22.46359,47.420481],[22.463493,47.420381],[22.463178,47.420198],[22.462888,47.419991],[22.462562,47.41962],[22.462283,47.419232],[22.46222,47.419074],[22.462134,47.418753],[22.462057,47.418563],[22.461981,47.418428]]],"type":"Polygon"}
 }

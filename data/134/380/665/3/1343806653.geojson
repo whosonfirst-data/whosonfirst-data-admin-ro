@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.79762,45.72313,23.79762,45.72313",
-    "geom:latitude":45.72313,
-    "geom:longitude":23.79762,
+    "geom:area":0.000016,
+    "geom:area_square_m":140403.36732,
+    "geom:bbox":"23.792925,45.720952,23.804482,45.725934",
+    "geom:latitude":45.723526,
+    "geom:longitude":23.797557,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145499.0",
     "gn:asciiname":"Crint",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.77762,45.70313,23.81762,45.74313",
+    "lbl:latitude":45.72313,
+    "lbl:longitude":23.79762,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Crin\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Crint"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680210
+        "gn:id":680210,
+        "ro-ancpi:id":145532
     },
     "wof:country":"RO",
-    "wof:geomhash":"bfe0db9189684e8e341fad77363564ef",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"67bc9c52f54d318ee239bb0446d08e53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1343806653,
-    "wof:lastmodified":1566609980,
-    "wof:name":"Crint",
+    "wof:lastmodified":1588366668,
+    "wof:name":"Crin\u0163",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":1,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.79762,
-    45.72313,
-    23.79762,
-    45.72313
+    23.792925,
+    45.720952,
+    23.804482,
+    45.725934
 ],
-  "geometry": {"coordinates":[23.79762,45.72313],"type":"Point"}
+  "geometry": {"coordinates":[[[23.804482,45.725575],[23.800945,45.724157],[23.797905,45.722897],[23.794254,45.720952],[23.792925,45.721617],[23.795017,45.723956],[23.800792,45.725427],[23.801366,45.724929],[23.804136,45.725934],[23.804482,45.725575]]],"type":"Polygon"}
 }

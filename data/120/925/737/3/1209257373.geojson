@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.88325,46.41417,27.88325,46.41417",
-    "geom:latitude":46.41417,
-    "geom:longitude":27.88325,
+    "geom:area":0.000091,
+    "geom:area_square_m":774284.180643,
+    "geom:bbox":"27.870633,46.409583,27.889219,46.418361",
+    "geom:latitude":46.413966,
+    "geom:longitude":27.880907,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165817.0",
     "gn:asciiname":"Gura Idrici",
@@ -25,22 +25,35 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.86325,46.39417,27.90325,46.43417",
+    "lbl:latitude":46.41417,
+    "lbl:longitude":27.88325,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gura Idrici"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676524
+        "gn:id":676524,
+        "ro-ancpi:id":165853
     },
     "wof:country":"RO",
-    "wof:geomhash":"7f447b2e45443cd0e4e39bed674d4c56",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c49afee16a45f610263eb477d4769094",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1209257373,
-    "wof:lastmodified":1566610336,
+    "wof:lastmodified":1588366737,
     "wof:name":"Gura Idrici",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.88325,
-    46.41417,
-    27.88325,
-    46.41417
+    27.870633,
+    46.409583,
+    27.889219,
+    46.418361
 ],
-  "geometry": {"coordinates":[27.88325,46.41417],"type":"Point"}
+  "geometry": {"coordinates":[[[27.881395,46.417238],[27.885273,46.416579],[27.886521,46.416721],[27.887245,46.414572],[27.88752,46.413228],[27.889062,46.413036],[27.889219,46.412009],[27.888754,46.411714],[27.888393,46.411379],[27.888324,46.410977],[27.888378,46.410355],[27.887488,46.4102],[27.887423,46.410539],[27.886255,46.410305],[27.88621,46.409676],[27.884353,46.409583],[27.882493,46.410396],[27.879009,46.411365],[27.870633,46.413682],[27.873688,46.413845],[27.873945,46.413964],[27.873969,46.414419],[27.874555,46.41467],[27.874563,46.41482],[27.871845,46.415214],[27.871847,46.415645],[27.872337,46.41581],[27.872393,46.416883],[27.872861,46.416836],[27.87357,46.417087],[27.873966,46.416844],[27.874252,46.416823],[27.874335,46.417245],[27.878217,46.416949],[27.878814,46.418361],[27.880179,46.418327],[27.880072,46.418003],[27.880552,46.417842],[27.881395,46.417238]]],"type":"Polygon"}
 }

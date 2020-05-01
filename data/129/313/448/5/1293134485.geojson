@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.22685,45.06519,24.22685,45.06519",
-    "geom:latitude":45.06519,
-    "geom:longitude":24.22685,
+    "geom:area":0.000098,
+    "geom:area_square_m":859084.647599,
+    "geom:bbox":"24.212461,45.055358,24.240228,45.073164",
+    "geom:latitude":45.064818,
+    "geom:longitude":24.224199,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171325.0",
     "gn:asciiname":"Vulpuesti",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.20685,45.04519,24.24685,45.08519",
+    "lbl:latitude":45.06519,
+    "lbl:longitude":24.22685,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Vulpue\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Vulpuesti"
+    ],
     "name:und_x_variant":[
         "Vulpe\u015fti",
         "Vulpue\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662407
+        "gn:id":662407,
+        "ro-ancpi:id":171450
     },
     "wof:country":"RO",
-    "wof:geomhash":"17061b7c60237be54f3013572cbba579",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a769c450b9087da7dc3a80e43987582e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293134485,
-    "wof:lastmodified":1566610081,
-    "wof:name":"Vulpuesti",
+    "wof:lastmodified":1588366683,
+    "wof:name":"Vulpue\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":411,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.22685,
-    45.06519,
-    24.22685,
-    45.06519
+    24.212461,
+    45.055358,
+    24.240228,
+    45.073164
 ],
-  "geometry": {"coordinates":[24.22685,45.06519],"type":"Point"}
+  "geometry": {"coordinates":[[[24.22046,45.060211],[24.220767,45.061878],[24.221412,45.06316],[24.220925,45.064109],[24.223231,45.065039],[24.221821,45.066089],[24.219867,45.067531],[24.216432,45.067959],[24.212999,45.066706],[24.212461,45.068115],[24.214898,45.069291],[24.217246,45.071102],[24.214987,45.071482],[24.215203,45.073164],[24.218575,45.073075],[24.219877,45.072646],[24.220861,45.070632],[24.222001,45.068944],[24.222679,45.067465],[24.223626,45.066793],[24.225749,45.066059],[24.232451,45.062897],[24.234299,45.061921],[24.240228,45.059813],[24.239288,45.058549],[24.234421,45.060212],[24.232861,45.060611],[24.232777,45.059466],[24.230805,45.059283],[24.230642,45.061034],[24.224925,45.063637],[24.222805,45.062662],[24.223223,45.061252],[24.222593,45.060668],[24.222893,45.05913],[24.224467,45.057714],[24.225859,45.056508],[24.226193,45.055394],[24.225038,45.055358],[24.224767,45.05619],[24.221914,45.057823],[24.22046,45.060211]]],"type":"Polygon"}
 }

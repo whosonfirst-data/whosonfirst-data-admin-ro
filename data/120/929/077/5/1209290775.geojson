@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.35891,44.36479,23.35891,44.36479",
-    "geom:latitude":44.36479,
-    "geom:longitude":23.35891,
+    "geom:area":0.000074,
+    "geom:area_square_m":657782.691711,
+    "geom:bbox":"23.345284,44.36065,23.37341,44.365629",
+    "geom:latitude":44.36373,
+    "geom:longitude":23.360199,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74135.0",
     "gn:asciiname":"Rachita de Sus",
@@ -25,22 +25,38 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.33891,44.34479,23.37891,44.38479",
+    "lbl:latitude":44.36479,
+    "lbl:longitude":23.35891,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "R\u0103chita de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Rachita de Sus"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669378
+        "gn:id":669378,
+        "ro-ancpi:id":74153
     },
     "wof:country":"RO",
-    "wof:geomhash":"abf0cfd4e50628cd0aad2c0eed26f54f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ad87d4d5371e519c1c47e872eec385f2",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +64,8 @@
         }
     ],
     "wof:id":1209290775,
-    "wof:lastmodified":1566610373,
-    "wof:name":"Rachita de Sus",
+    "wof:lastmodified":1588366744,
+    "wof:name":"R\u0103chita de Sus",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":285,
@@ -60,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.35891,
-    44.36479,
-    23.35891,
-    44.36479
+    23.345284,
+    44.36065,
+    23.37341,
+    44.365629
 ],
-  "geometry": {"coordinates":[23.35891,44.36479],"type":"Point"}
+  "geometry": {"coordinates":[[[23.371545,44.365167],[23.371597,44.364467],[23.373112,44.364483],[23.37341,44.363879],[23.373403,44.36342],[23.372947,44.363329],[23.372133,44.363201],[23.371178,44.363362],[23.371112,44.361911],[23.369321,44.361868],[23.369337,44.362475],[23.367242,44.362488],[23.366106,44.36163],[23.364999,44.36065],[23.364213,44.360779],[23.36511,44.362252],[23.364059,44.362415],[23.363449,44.362489],[23.363294,44.362177],[23.360977,44.362593],[23.359503,44.36256],[23.35556,44.362408],[23.352255,44.362307],[23.348299,44.362536],[23.345284,44.36283],[23.345335,44.363768],[23.345422,44.364855],[23.348685,44.364687],[23.348744,44.364327],[23.352184,44.364423],[23.354557,44.364863],[23.35561,44.364923],[23.357392,44.365278],[23.3602,44.365412],[23.363787,44.365569],[23.365912,44.365629],[23.368791,44.365525],[23.369554,44.365261],[23.371152,44.365249],[23.371545,44.365167]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.39077,45.86913,24.39077,45.86913",
-    "geom:latitude":45.86913,
-    "geom:longitude":24.39077,
+    "geom:area":0.000065,
+    "geom:area_square_m":561714.89354,
+    "geom:bbox":"24.381967,45.86468,24.394983,45.872194",
+    "geom:latitude":45.868452,
+    "geom:longitude":24.388549,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145140.0",
     "gn:asciiname":"Tichindeal",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.37077,45.84913,24.41077,45.88913",
+    "lbl:latitude":45.86913,
+    "lbl:longitude":24.39077,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u0162ichindeal"
+    ],
+    "name:ron_x_variant":[
+        "Tichindeal"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665173
+        "gn:id":665173,
+        "ro-ancpi:id":145195
     },
     "wof:country":"RO",
-    "wof:geomhash":"8ed9e0503754894794bffbbb735a3e82",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f782914158173459f705fd8fe863035",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1277136075,
-    "wof:lastmodified":1566610212,
-    "wof:name":"Tichindeal",
+    "wof:lastmodified":1588366713,
+    "wof:name":"\u0162ichindeal",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":152,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.39077,
-    45.86913,
-    24.39077,
-    45.86913
+    24.381967,
+    45.86468,
+    24.394983,
+    45.872194
 ],
-  "geometry": {"coordinates":[24.39077,45.86913],"type":"Point"}
+  "geometry": {"coordinates":[[[24.394983,45.871044],[24.394847,45.869371],[24.394093,45.869429],[24.394472,45.867187],[24.392534,45.866849],[24.390367,45.866043],[24.388718,45.86468],[24.386481,45.864775],[24.383802,45.865304],[24.381967,45.866423],[24.382938,45.868505],[24.384065,45.868438],[24.385028,45.869492],[24.383879,45.869819],[24.384053,45.870103],[24.386709,45.872194],[24.394983,45.871044]]],"type":"Polygon"}
 }

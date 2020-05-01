@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.25051,45.13693,24.25051,45.13693",
-    "geom:latitude":45.13693,
-    "geom:longitude":24.25051,
+    "geom:area":0.00003,
+    "geom:area_square_m":262310.570642,
+    "geom:bbox":"24.266128,45.130555,24.274825,45.138091",
+    "geom:latitude":45.134009,
+    "geom:longitude":24.269362,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172082.0",
     "gn:asciiname":"Vladuceni",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Vl\u0103duceni"
+    ],
+    "name:ron_x_variant":[
+        "Vladuceni"
+    ],
     "name:und_x_variant":[
         "Vl\u0103diceni",
         "Vl\u0103duceni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662580
+        "gn:id":662580,
+        "ro-ancpi:id":172144
     },
     "wof:country":"RO",
-    "wof:geomhash":"12cd258550e53de113abded160b88bf3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a0efbb9ccfe07ac9555749c7fa6b488a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1276370743,
-    "wof:lastmodified":1566610255,
-    "wof:name":"Vladuceni",
+    "wof:lastmodified":1588367025,
+    "wof:name":"Vl\u0103duceni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":581,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.25051,
-    45.13693,
-    24.25051,
-    45.13693
+    24.266128,
+    45.130555,
+    24.274825,
+    45.138091
 ],
-  "geometry": {"coordinates":[24.25051,45.13693],"type":"Point"}
+  "geometry": {"coordinates":[[[24.270601,45.136971],[24.271084,45.135196],[24.269198,45.135265],[24.269198,45.134229],[24.272754,45.132707],[24.274825,45.130653],[24.273199,45.130674],[24.271067,45.1318],[24.270604,45.131285],[24.268749,45.130555],[24.267055,45.131155],[24.267545,45.133558],[24.266723,45.134342],[24.266128,45.136241],[24.267727,45.138091],[24.270231,45.137748],[24.270601,45.136971]]],"type":"Polygon"}
 }

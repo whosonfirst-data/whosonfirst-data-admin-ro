@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.38976,44.52442,23.38976,44.52442",
-    "geom:latitude":44.52442,
-    "geom:longitude":23.38976,
+    "geom:area":0.000025,
+    "geom:area_square_m":223612.100126,
+    "geom:bbox":"23.382968,44.519993,23.392787,44.526641",
+    "geom:latitude":44.523709,
+    "geom:longitude":23.388824,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70744.0",
     "gn:asciiname":"Teascu din Deal",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.36976,44.50442,23.40976,44.54442",
+    "lbl:latitude":44.52442,
+    "lbl:longitude":23.38976,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Teascu Din Deal"
+    ],
+    "name:ron_x_variant":[
+        "Teascu din Deal"
+    ],
     "name:und_x_variant":[
         "Teascul din Deal",
         "Teascu din Deal"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665365
+        "gn:id":665365,
+        "ro-ancpi:id":70851
     },
     "wof:country":"RO",
-    "wof:geomhash":"194b4700b5b21d875768ad069e61528d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d8a9128b9cf465dacb10db5bb3db46c8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293660755,
-    "wof:lastmodified":1566610089,
-    "wof:name":"Teascu din Deal",
+    "wof:lastmodified":1588366685,
+    "wof:name":"Teascu Din Deal",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":92,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.38976,
-    44.52442,
-    23.38976,
-    44.52442
+    23.382968,
+    44.519993,
+    23.392787,
+    44.526641
 ],
-  "geometry": {"coordinates":[23.38976,44.52442],"type":"Point"}
+  "geometry": {"coordinates":[[[23.392547,44.522597],[23.39229,44.521285],[23.392787,44.520811],[23.392041,44.520307],[23.391684,44.519993],[23.391266,44.520259],[23.391048,44.521004],[23.390564,44.52131],[23.389148,44.522249],[23.388382,44.52208],[23.387632,44.522502],[23.385841,44.523624],[23.385574,44.523904],[23.386023,44.524515],[23.382968,44.525906],[23.383548,44.526431],[23.383934,44.526641],[23.387411,44.525631],[23.389309,44.525285],[23.390234,44.52503],[23.391704,44.524374],[23.392057,44.52407],[23.392632,44.523881],[23.392547,44.522597]]],"type":"Polygon"}
 }

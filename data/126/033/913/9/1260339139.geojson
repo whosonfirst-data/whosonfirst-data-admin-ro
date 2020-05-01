@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21441,44.29084,24.21441,44.29084",
-    "geom:latitude":44.29084,
-    "geom:longitude":24.21441,
+    "geom:area":0.000021,
+    "geom:area_square_m":189590.647482,
+    "geom:bbox":"24.205738,44.28922,24.214333,44.297088",
+    "geom:latitude":44.293024,
+    "geom:longitude":24.209715,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128178.0",
     "gn:asciiname":"Butoi",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Butoi"
+    ],
     "name:und_x_variant":[
         "Butoiul",
         "Butoiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683144
+        "gn:id":683144,
+        "ro-ancpi:id":128196
     },
     "wof:country":"RO",
-    "wof:geomhash":"534bf1c0d8d2b7d740045489cfec60c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6dfe44fd53090cfbdaa8cf653db67697",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1260339139,
-    "wof:lastmodified":1566610508,
+    "wof:lastmodified":1588367017,
     "wof:name":"Butoi",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.21441,
-    44.29084,
-    24.21441,
-    44.29084
+    24.205738,
+    44.28922,
+    24.214333,
+    44.297088
 ],
-  "geometry": {"coordinates":[24.21441,44.29084],"type":"Point"}
+  "geometry": {"coordinates":[[[24.214333,44.292074],[24.214122,44.29185],[24.213851,44.291477],[24.213034,44.290589],[24.212467,44.289947],[24.21167,44.28922],[24.211109,44.289774],[24.211465,44.289983],[24.210431,44.290609],[24.210007,44.290954],[24.209053,44.291618],[24.208002,44.291853],[24.208019,44.292335],[24.207313,44.29405],[24.207022,44.294707],[24.205738,44.296123],[24.206434,44.296506],[24.207388,44.297088],[24.207392,44.297085],[24.208539,44.296331],[24.208178,44.295883],[24.208928,44.295082],[24.210201,44.293898],[24.212316,44.292605],[24.212245,44.292383],[24.21259,44.292026],[24.212993,44.291826],[24.213711,44.291505],[24.214139,44.292135],[24.214333,44.292074]]],"type":"Polygon"}
 }

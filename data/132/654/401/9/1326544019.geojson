@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.00292,46.32301,23.00292,46.32301",
-    "geom:latitude":46.32301,
-    "geom:longitude":23.00292,
+    "geom:area":0.000009,
+    "geom:area_square_m":79694.251614,
+    "geom:bbox":"22.998296,46.323201,23.002696,46.327222",
+    "geom:latitude":46.325278,
+    "geom:longitude":23.000275,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Surdesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Surde\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Surdesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665742
+        "gn:id":665742,
+        "ro-ancpi:id":7703
     },
     "wof:country":"RO",
-    "wof:geomhash":"4131e4ecc6e1eab8a0b13552174d7ac5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f98a28444e276fc16e3dbad8921f0a70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1326544019,
-    "wof:lastmodified":1566609854,
-    "wof:name":"Surdesti",
+    "wof:lastmodified":1588367036,
+    "wof:name":"Surde\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":52,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.00292,
-    46.32301,
-    23.00292,
-    46.32301
+    22.998296,
+    46.323201,
+    23.002696,
+    46.327222
 ],
-  "geometry": {"coordinates":[23.00292,46.32301],"type":"Point"}
+  "geometry": {"coordinates":[[[23.001326,46.326554],[23.001958,46.326706],[23.002696,46.326568],[23.002579,46.325674],[23.001884,46.325014],[23.00043,46.324717],[23.000227,46.323201],[22.998484,46.323406],[22.998296,46.324858],[22.99879,46.325054],[22.999538,46.326128],[22.999532,46.326297],[22.999453,46.326606],[22.999059,46.326749],[22.999268,46.327222],[23.001326,46.326554]]],"type":"Polygon"}
 }

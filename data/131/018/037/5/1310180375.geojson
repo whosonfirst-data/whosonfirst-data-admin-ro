@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.425,45.13793,23.425,45.13793",
-    "geom:latitude":45.13793,
-    "geom:longitude":23.425,
+    "geom:area":0.000015,
+    "geom:area_square_m":133357.336536,
+    "geom:bbox":"23.423621,45.134591,23.428516,45.140223",
+    "geom:latitude":45.137101,
+    "geom:longitude":23.425632,
     "gn:admin1_code":"19",
     "gn:admin2_code":"80908",
     "gn:asciiname":"Gamani",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.405,45.11793,23.445,45.15793",
+    "lbl:latitude":45.13793,
+    "lbl:longitude":23.425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "G\u0103mani"
+    ],
+    "name:ron_x_variant":[
+        "Gamani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10942981
+        "gn:id":10942981,
+        "ro-ancpi:id":80944
     },
     "wof:country":"RO",
-    "wof:geomhash":"1cea68f430ba7acbd2d561f9a27d50b6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2a9e1af78272427adbdd093fa0067a21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1310180375,
-    "wof:lastmodified":1566610569,
-    "wof:name":"Gamani",
+    "wof:lastmodified":1588366781,
+    "wof:name":"G\u0103mani",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":58,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.425,
-    45.13793,
-    23.425,
-    45.13793
+    23.423621,
+    45.134591,
+    23.428516,
+    45.140223
 ],
-  "geometry": {"coordinates":[23.425,45.13793],"type":"Point"}
+  "geometry": {"coordinates":[[[23.428516,45.135549],[23.428421,45.134681],[23.42623,45.134591],[23.426104,45.135467],[23.424308,45.13525],[23.423827,45.136651],[23.423621,45.138561],[23.424141,45.140036],[23.42553,45.140223],[23.426427,45.137926],[23.426592,45.136881],[23.427274,45.136819],[23.428516,45.135549]]],"type":"Polygon"}
 }

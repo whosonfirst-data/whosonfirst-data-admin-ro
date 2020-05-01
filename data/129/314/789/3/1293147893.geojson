@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34738,44.50232,24.34738,44.50232",
-    "geom:latitude":44.50232,
-    "geom:longitude":24.34738,
+    "geom:area":0.000054,
+    "geom:area_square_m":473306.882642,
+    "geom:bbox":"24.339701,44.498694,24.349375,44.506809",
+    "geom:latitude":44.502493,
+    "geom:longitude":24.344422,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126433.0",
     "gn:asciiname":"Raitiu",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.32738,44.48232,24.36738,44.52232",
+    "lbl:latitude":44.50232,
+    "lbl:longitude":24.34738,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Rai\u0163iu"
+    ],
+    "name:ron_x_variant":[
+        "Raitiu"
+    ],
     "name:und_x_variant":[
         "Rai\u0163iul",
         "Rai\u0163iu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669200
+        "gn:id":669200,
+        "ro-ancpi:id":126497
     },
     "wof:country":"RO",
-    "wof:geomhash":"20e92a8c5bb70d89488eeaff341cc02c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e9ca0dbf355c20c99cb9dd4320c0a40b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293147893,
-    "wof:lastmodified":1566610084,
-    "wof:name":"Raitiu",
+    "wof:lastmodified":1588366684,
+    "wof:name":"Rai\u0163iu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":251,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34738,
-    44.50232000000001,
-    24.34738,
-    44.50232000000001
+    24.339701,
+    44.498694,
+    24.349375,
+    44.506809
 ],
-  "geometry": {"coordinates":[24.34738,44.50232000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.346816,44.499391],[24.342906,44.498694],[24.339822,44.499421],[24.339701,44.501338],[24.341517,44.503017],[24.341946,44.504581],[24.341281,44.506317],[24.346534,44.506809],[24.349375,44.501252],[24.346816,44.499391]]],"type":"Polygon"}
 }

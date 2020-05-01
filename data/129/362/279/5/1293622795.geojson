@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.55,47.25,23.55,47.25",
-    "geom:latitude":47.25,
-    "geom:longitude":23.55,
+    "geom:area":0.000098,
+    "geom:area_square_m":823343.415948,
+    "geom:bbox":"23.527424,47.245952,23.567092,47.255399",
+    "geom:latitude":47.250482,
+    "geom:longitude":23.54908,
     "gn:admin1_code":"31",
     "gn:admin2_code":"142499.0",
     "gn:asciiname":"Fantanele-Rus",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.53,47.23,23.57,47.27",
+    "lbl:latitude":47.25,
+    "lbl:longitude":23.55,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "F\u00e2nt\u00e2nele Rus"
+    ],
+    "name:ron_x_variant":[
+        "Fantanele-Rus"
+    ],
     "name:und_x_variant":[
         "Iapa",
         "F\u00eent\u00eenele-Rus",
         "F\u00eent\u00eenele"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678137
+        "gn:id":678137,
+        "ro-ancpi:id":142523
     },
     "wof:country":"RO",
-    "wof:geomhash":"f52124824a221eba9e0f344d8eafefbf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c8db857f680d20151665efb05b3ec52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293622795,
-    "wof:lastmodified":1566610033,
-    "wof:name":"Fantanele-Rus",
+    "wof:lastmodified":1588366673,
+    "wof:name":"F\u00e2nt\u00e2nele Rus",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.55,
-    47.25,
-    23.55,
-    47.25
+    23.527424,
+    47.245952,
+    23.567092,
+    47.255399
 ],
-  "geometry": {"coordinates":[23.55,47.25],"type":"Point"}
+  "geometry": {"coordinates":[[[23.563955,47.254746],[23.564114,47.254666],[23.565887,47.25529],[23.567092,47.253813],[23.564242,47.253655],[23.562979,47.253502],[23.564078,47.249875],[23.561897,47.249893],[23.561558,47.251343],[23.560709,47.251061],[23.560401,47.251396],[23.559007,47.25066],[23.555204,47.250599],[23.555266,47.250156],[23.552457,47.249555],[23.551505,47.248768],[23.549188,47.247543],[23.55021,47.246888],[23.549217,47.246351],[23.547785,47.245952],[23.545873,47.246573],[23.546329,47.247224],[23.545964,47.248393],[23.536329,47.248143],[23.527424,47.248798],[23.527741,47.249361],[23.528308,47.250282],[23.533867,47.250594],[23.539409,47.249347],[23.539316,47.249884],[23.540125,47.249894],[23.540564,47.249672],[23.547806,47.250561],[23.548867,47.25226],[23.550974,47.251662],[23.55484,47.252111],[23.555656,47.254213],[23.559006,47.254418],[23.559536,47.253341],[23.560687,47.253415],[23.562471,47.254562],[23.562384,47.254763],[23.563071,47.255399],[23.563955,47.254746]]],"type":"Polygon"}
 }

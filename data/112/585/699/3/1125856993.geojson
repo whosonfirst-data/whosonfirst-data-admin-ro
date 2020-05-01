@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.95,44.5,23.95,44.5",
-    "geom:latitude":44.5,
-    "geom:longitude":23.95,
+    "geom:area":0.000063,
+    "geom:area_square_m":558531.540065,
+    "geom:bbox":"23.935252,44.502652,23.949515,44.521709",
+    "geom:latitude":44.511414,
+    "geom:longitude":23.942144,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1502,
@@ -41,6 +41,9 @@
         "Dobre\u021bu"
     ],
     "name:ron_x_preferred":[
+        "Dobre\u0163u"
+    ],
+    "name:ron_x_variant":[
         "Dobre\u021bu"
     ],
     "name:srp_x_preferred":[
@@ -66,7 +69,10 @@
     "qs_pg:pop_sr":3,
     "qs_pg:qs_id":275309,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -78,11 +84,15 @@
     "wof:concordances":{
         "gn:id":679242,
         "qs_pg:id":275309,
+        "ro-ancpi:id":126683,
         "wd:id":"Q2292746"
     },
     "wof:country":"RO",
     "wof:created":1497293662,
-    "wof:geomhash":"9ae1e787cac93908ee781197c2124209",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"eaf258a2802b31f7a5315c1caea3290c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1125856993,
-    "wof:lastmodified":1566611400,
+    "wof:lastmodified":1588367081,
     "wof:name":"Dobre\u0163u",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -104,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.95,
-    44.5,
-    23.95,
-    44.5
+    23.935252,
+    44.502652,
+    23.949515,
+    44.521709
 ],
-  "geometry": {"coordinates":[23.95,44.5],"type":"Point"}
+  "geometry": {"coordinates":[[[23.949515,44.504336],[23.945327,44.502652],[23.943448,44.506013],[23.939741,44.510509],[23.939563,44.511785],[23.939553,44.511856],[23.939266,44.513912],[23.938481,44.516675],[23.936823,44.518738],[23.935252,44.520998],[23.93746,44.521709],[23.939839,44.518772],[23.94098,44.517321],[23.941798,44.514287],[23.943031,44.511577],[23.944437,44.510271],[23.945589,44.508866],[23.946102,44.507007],[23.94819,44.505689],[23.949515,44.504336]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.07192,46.95179,25.07192,46.95179",
-    "geom:latitude":46.95179,
-    "geom:longitude":25.07192,
+    "geom:area":0.000024,
+    "geom:area_square_m":205844.233638,
+    "geom:bbox":"25.070507,46.947675,25.079833,46.953825",
+    "geom:latitude":46.95132,
+    "geom:longitude":25.075786,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118058.0",
     "gn:asciiname":"Salard",
@@ -26,15 +26,27 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.05192,46.93179,25.09192,46.97179",
+    "lbl:latitude":46.95179,
+    "lbl:longitude":25.07192,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "S\u0103lard"
+    ],
+    "name:ron_x_variant":[
+        "Salard"
+    ],
     "name:und_x_variant":[
         "Szal\u00e0rd"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668244
+        "gn:id":668244,
+        "ro-ancpi:id":118085
     },
     "wof:country":"RO",
-    "wof:geomhash":"47f390a7c8a529fc18e74102180b96da",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9acd06e10ca12e1d4474d08935c184da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +71,8 @@
         }
     ],
     "wof:id":1327381649,
-    "wof:lastmodified":1566609763,
-    "wof:name":"Salard",
+    "wof:lastmodified":1588366622,
+    "wof:name":"S\u0103lard",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.07192,
-    46.95179,
-    25.07192,
-    46.95179
+    25.070507,
+    46.947675,
+    25.079833,
+    46.953825
 ],
-  "geometry": {"coordinates":[25.07192,46.95179],"type":"Point"}
+  "geometry": {"coordinates":[[[25.078702,46.952544],[25.079702,46.951858],[25.079833,46.951298],[25.079252,46.950613],[25.07854,46.950253],[25.07688,46.949821],[25.07601,46.949335],[25.075719,46.94874],[25.076009,46.948379],[25.075507,46.947675],[25.074559,46.947712],[25.074587,46.949011],[25.075168,46.94993],[25.07372,46.950491],[25.072851,46.950762],[25.072008,46.951033],[25.070507,46.951701],[25.071035,46.952206],[25.071536,46.952404],[25.072562,46.95188],[25.073064,46.952566],[25.076226,46.953267],[25.07599,46.9537],[25.077729,46.953825],[25.077939,46.953482],[25.078702,46.952544]]],"type":"Polygon"}
 }

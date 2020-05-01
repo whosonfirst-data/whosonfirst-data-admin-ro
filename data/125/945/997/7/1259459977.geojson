@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.7764,44.70313,21.7764,44.70313",
-    "geom:latitude":44.70313,
-    "geom:longitude":21.7764,
+    "geom:area":0.000012,
+    "geom:area_square_m":101460.635769,
+    "geom:bbox":"21.772587,44.700232,21.780732,44.705274",
+    "geom:latitude":44.702915,
+    "geom:longitude":21.777096,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53853.0",
     "gn:asciiname":"Martinovat",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.7564,44.68313,21.7964,44.72313",
+    "lbl:latitude":44.70313,
+    "lbl:longitude":21.7764,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Martinov\u0103\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Martinovat"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673729
+        "gn:id":673729,
+        "ro-ancpi:id":53979
     },
     "wof:country":"RO",
-    "wof:geomhash":"24b3ab613619739ddb99629bb718e31b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"04b980b29d2d56e118d0d0e2d5d3e42b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1259459977,
-    "wof:lastmodified":1566611596,
-    "wof:name":"Martinovat",
+    "wof:lastmodified":1588366862,
+    "wof:name":"Martinov\u0103\u0163",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":22,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.7764,
-    44.70313,
-    21.7764,
-    44.70313
+    21.772587,
+    44.700232,
+    21.780732,
+    44.705274
 ],
-  "geometry": {"coordinates":[21.7764,44.70313],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.778534,44.705274],[21.780463,44.703701],[21.780732,44.703153],[21.780395,44.702981],[21.780519,44.702321],[21.779274,44.702116],[21.778877,44.702822],[21.778687,44.70274],[21.778479,44.703359],[21.776522,44.70294],[21.775298,44.702127],[21.774318,44.701897],[21.774694,44.70136],[21.773243,44.700794],[21.772587,44.7013],[21.773878,44.702085],[21.773694,44.70234],[21.776465,44.703947],[21.776967,44.703666],[21.777637,44.704091],[21.777873,44.704908],[21.778321,44.705206],[21.778534,44.705274]]],[[[21.775966,44.700515],[21.775074,44.700232],[21.77454,44.70103],[21.77545,44.701411],[21.775889,44.700922],[21.775966,44.700515]]]],"type":"MultiPolygon"}
 }

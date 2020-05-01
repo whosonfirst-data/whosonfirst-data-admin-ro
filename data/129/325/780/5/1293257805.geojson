@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.61813,44.77692,23.61813,44.77692",
-    "geom:latitude":44.77692,
-    "geom:longitude":23.61813,
+    "geom:area":0.000063,
+    "geom:area_square_m":555596.844537,
+    "geom:bbox":"23.616173,44.762515,23.629567,44.777341",
+    "geom:latitude":44.770599,
+    "geom:longitude":23.623028,
     "gn:admin1_code":"19",
     "gn:admin2_code":"79497.0",
     "gn:asciiname":"Cetatea",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cetatea"
@@ -47,7 +47,10 @@
         "C\u0103lug\u0103ru",
         "C\u0103lug\u0103rul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -56,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682261
+        "gn:id":682261,
+        "ro-ancpi:id":79549
     },
     "wof:country":"RO",
-    "wof:geomhash":"899f58936014d62c26c685912be0322a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"865374ae40ea1c29837ebc82eaa77c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":1293257805,
-    "wof:lastmodified":1566610086,
+    "wof:lastmodified":1588367048,
     "wof:name":"Cetatea",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -81,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.61813,
-    44.77692,
-    23.61813,
-    44.77692
+    23.616173,
+    44.762515,
+    23.629567,
+    44.777341
 ],
-  "geometry": {"coordinates":[23.61813,44.77692],"type":"Point"}
+  "geometry": {"coordinates":[[[23.629567,44.76359],[23.628669,44.762515],[23.62626,44.7636],[23.625454,44.764604],[23.625514,44.768024],[23.624426,44.768923],[23.622903,44.768651],[23.620402,44.769127],[23.620056,44.770238],[23.619991,44.771427],[23.617904,44.77244],[23.616173,44.773433],[23.617309,44.774992],[23.616304,44.776854],[23.616755,44.777341],[23.620755,44.775161],[23.622842,44.774173],[23.624885,44.773488],[23.626017,44.772261],[23.626057,44.770615],[23.626435,44.769682],[23.627743,44.768482],[23.628469,44.767883],[23.627924,44.766888],[23.628536,44.765072],[23.629567,44.76359]]],"type":"Polygon"}
 }

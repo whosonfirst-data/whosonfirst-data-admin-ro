@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.6,46.2,26.6,46.2",
-    "geom:latitude":46.2,
-    "geom:longitude":26.6,
+    "geom:area":0.000024,
+    "geom:area_square_m":205559.386159,
+    "geom:bbox":"26.593701,46.202428,26.602809,46.207153",
+    "geom:latitude":46.204763,
+    "geom:longitude":26.599253,
     "gn:admin1_code":"04",
     "gn:admin2_code":"23797.0",
     "gn:asciiname":"Calcai",
@@ -28,16 +28,25 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Z\u00f6ldlonka"
+    ],
+    "name:ron_x_preferred":[
+        "C\u0103lc\u00e2i"
+    ],
+    "name:ron_x_variant":[
+        "Calcai"
     ],
     "name:und_x_variant":[
         "C\u0103lc\u00e2iul",
         "C\u0103lc\u00eeiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682999
+        "gn:id":682999,
+        "ro-ancpi:id":23813
     },
     "wof:country":"RO",
-    "wof:geomhash":"e9a18f5a9792ed4334421d0767d9c4a1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"68c23778ae3fbd48ac6b3bc6e368b388",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +72,8 @@
         }
     ],
     "wof:id":1326730953,
-    "wof:lastmodified":1566609778,
-    "wof:name":"Calcai",
+    "wof:lastmodified":1588367140,
+    "wof:name":"C\u0103lc\u00e2i",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":452,
@@ -71,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.6,
-    46.2,
-    26.6,
-    46.2
+    26.593701,
+    46.202428,
+    26.602809,
+    46.207153
 ],
-  "geometry": {"coordinates":[26.6,46.2],"type":"Point"}
+  "geometry": {"coordinates":[[[26.602122,46.20575],[26.602767,46.204193],[26.602809,46.202721],[26.602652,46.202715],[26.600894,46.202681],[26.599861,46.202586],[26.599105,46.202428],[26.598927,46.202557],[26.598435,46.202715],[26.597819,46.202791],[26.597253,46.203312],[26.596957,46.20525],[26.595273,46.205231],[26.594559,46.205283],[26.593806,46.205235],[26.593701,46.205791],[26.594661,46.205887],[26.595256,46.205913],[26.595307,46.206013],[26.596135,46.206153],[26.596503,46.206291],[26.596855,46.206319],[26.596733,46.206708],[26.597549,46.206848],[26.598332,46.207114],[26.598612,46.207153],[26.598963,46.207122],[26.602122,46.20575]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23793,44.76561,24.23793,44.76561",
-    "geom:latitude":44.76561,
-    "geom:longitude":24.23793,
+    "geom:area":0.000047,
+    "geom:area_square_m":415969.268054,
+    "geom:bbox":"24.22244,44.76416,24.237957,44.768495",
+    "geom:latitude":44.766376,
+    "geom:longitude":24.231334,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171879.0",
     "gn:asciiname":"Silea",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0644\u0626\u0627"
@@ -132,7 +132,10 @@
     "name:zho_x_preferred":[
         "\u897f\u83b1\u4e9a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -141,10 +144,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667208
+        "gn:id":667208,
+        "ro-ancpi:id":171922
     },
     "wof:country":"RO",
-    "wof:geomhash":"7eac195d9abf2823f083838e33ef8f2e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9222ef917d658699fff38f44d3f91ea5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +161,7 @@
         }
     ],
     "wof:id":1327061001,
-    "wof:lastmodified":1566609754,
+    "wof:lastmodified":1588367087,
     "wof:name":"Silea",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -166,10 +173,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23793,
-    44.76561,
-    24.23793,
-    44.76561
+    24.22244,
+    44.76416,
+    24.237957,
+    44.768495
 ],
-  "geometry": {"coordinates":[24.23793,44.76561],"type":"Point"}
+  "geometry": {"coordinates":[[[24.237261,44.764259],[24.235754,44.764402],[24.234988,44.764302],[24.233903,44.76416],[24.231852,44.764797],[24.22981,44.764745],[24.226508,44.764493],[24.225699,44.764659],[24.225815,44.766058],[24.224126,44.765721],[24.222484,44.76592],[24.22244,44.767203],[24.227515,44.767544],[24.23084,44.768122],[24.233066,44.768443],[24.237957,44.768495],[24.237261,44.764259]]],"type":"Polygon"}
 }

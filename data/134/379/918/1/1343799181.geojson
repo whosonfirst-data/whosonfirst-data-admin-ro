@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.12416,44.94697,24.12416,44.94697",
-    "geom:latitude":44.94697,
-    "geom:longitude":24.12416,
+    "geom:area":0.000029,
+    "geom:area_square_m":251165.987742,
+    "geom:bbox":"24.117497,44.9425,24.129291,44.951248",
+    "geom:latitude":44.94666,
+    "geom:longitude":24.123205,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172377.0",
     "gn:asciiname":"Valea Caselor",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.10416,44.92697,24.14416,44.96697",
+    "lbl:latitude":44.94697,
+    "lbl:longitude":24.12416,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Caselor"
@@ -49,7 +51,11 @@
     "name:und_x_variant":[
         "Mahalaua Caselor"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663853
+        "gn:id":663853,
+        "ro-ancpi:id":172448
     },
     "wof:country":"RO",
-    "wof:geomhash":"c8d149f87ce061381562108b11d884de",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"454c77a049f011fb8120990e2953f1c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1343799181,
-    "wof:lastmodified":1566609914,
+    "wof:lastmodified":1588366654,
     "wof:name":"Valea Caselor",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12416,
-    44.94697,
-    24.12416,
-    44.94697
+    24.117497,
+    44.9425,
+    24.129291,
+    44.951248
 ],
-  "geometry": {"coordinates":[24.12416,44.94697],"type":"Point"}
+  "geometry": {"coordinates":[[[24.129291,44.950162],[24.119991,44.9425],[24.117497,44.943049],[24.119365,44.945476],[24.127783,44.951248],[24.129291,44.950162]]],"type":"Polygon"}
 }

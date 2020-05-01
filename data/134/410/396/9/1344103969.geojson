@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2128,44.48465,24.2128,44.48465",
-    "geom:latitude":44.48465,
-    "geom:longitude":24.2128,
+    "geom:area":0.0001,
+    "geom:area_square_m":881552.803883,
+    "geom:bbox":"24.19966,44.477784,24.224875,44.489054",
+    "geom:latitude":44.483714,
+    "geom:longitude":24.212133,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128221.0",
     "gn:asciiname":"Cocorasti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.1928,44.46465,24.2328,44.50465",
+    "lbl:latitude":44.48465,
+    "lbl:longitude":24.2128,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cocor\u0103\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cocorasti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681204
+        "gn:id":681204,
+        "ro-ancpi:id":128267
     },
     "wof:country":"RO",
-    "wof:geomhash":"6df5b62340d5b52633fa10cd68d1c61f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3244def265a6c2aced8abdc4e01a8358",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1344103969,
-    "wof:lastmodified":1566609961,
-    "wof:name":"Cocorasti",
+    "wof:lastmodified":1588366664,
+    "wof:name":"Cocor\u0103\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":578,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2128,
-    44.48465,
-    24.2128,
-    44.48465
+    24.19966,
+    44.477784,
+    24.224875,
+    44.489054
 ],
-  "geometry": {"coordinates":[24.2128,44.48465],"type":"Point"}
+  "geometry": {"coordinates":[[[24.205102,44.489054],[24.206405,44.488061],[24.209387,44.48642],[24.20998,44.487332],[24.211177,44.48695],[24.213175,44.485791],[24.214955,44.484682],[24.216243,44.483566],[24.217473,44.484931],[24.218089,44.484416],[24.217087,44.48389],[24.224875,44.481746],[24.222562,44.477784],[24.221549,44.479003],[24.219108,44.479856],[24.21249,44.481036],[24.209342,44.481236],[24.207831,44.482452],[24.206056,44.482462],[24.205596,44.484197],[24.20287,44.485381],[24.200526,44.485989],[24.200582,44.487364],[24.19966,44.487571],[24.201348,44.488705],[24.203609,44.488262],[24.205102,44.489054]]],"type":"Polygon"}
 }

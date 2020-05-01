@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.55803,45.49397,27.55803,45.49397",
-    "geom:latitude":45.49397,
-    "geom:longitude":27.55803,
+    "geom:area":0.00001,
+    "geom:area_square_m":87834.635264,
+    "geom:bbox":"27.553397,45.491643,27.559922,45.494928",
+    "geom:latitude":45.493501,
+    "geom:longitude":27.556761,
     "gn:admin1_code":"18",
     "gn:admin2_code":"76763.0",
     "gn:asciiname":"Crangeni",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.53803,45.47397,27.57803,45.51397",
+    "lbl:latitude":45.49397,
+    "lbl:longitude":27.55803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cr\u00e2ngeni"
+    ],
+    "name:ron_x_variant":[
+        "Crangeni"
+    ],
     "name:und_x_variant":[
         "Cr\u00e2ngeni",
         "Cr\u00eengeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680228
+        "gn:id":680228,
+        "ro-ancpi:id":76781
     },
     "wof:country":"RO",
-    "wof:geomhash":"ced94840181e868c4a2bf32f4a777904",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f3236e5227866d3b08cefd530de9909",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1309769471,
-    "wof:lastmodified":1566611246,
-    "wof:name":"Crangeni",
+    "wof:lastmodified":1588366805,
+    "wof:name":"Cr\u00e2ngeni",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:population":8,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.55803,
-    45.49397,
-    27.55803,
-    45.49397
+    27.553397,
+    45.491643,
+    27.559922,
+    45.494928
 ],
-  "geometry": {"coordinates":[27.55803,45.49397],"type":"Point"}
+  "geometry": {"coordinates":[[[27.559922,45.493466],[27.557808,45.491643],[27.555385,45.493105],[27.553397,45.494317],[27.554057,45.494928],[27.557206,45.494483],[27.559922,45.493466]]],"type":"Polygon"}
 }

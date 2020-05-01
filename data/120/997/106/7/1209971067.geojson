@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.30667,46.51763,24.30667,46.51763",
-    "geom:latitude":46.51763,
-    "geom:longitude":24.30667,
+    "geom:area":0.000005,
+    "geom:area_square_m":39913.886078,
+    "geom:bbox":"24.304567,46.516471,24.308595,46.517812",
+    "geom:latitude":46.517172,
+    "geom:longitude":24.306455,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117667.0",
     "gn:asciiname":"Tablaseni",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.28667,46.49763,24.32667,46.53763",
+    "lbl:latitude":46.51763,
+    "lbl:longitude":24.30667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "T\u0103bl\u0103\u015feni"
+    ],
+    "name:ron_x_variant":[
+        "Tablaseni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665639
+        "gn:id":665639,
+        "ro-ancpi:id":117765
     },
     "wof:country":"RO",
-    "wof:geomhash":"12420ba7de4918b19e3cd0433c037d94",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5f6282e719e9a53e3628deba7b4b6015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1209971067,
-    "wof:lastmodified":1566610303,
-    "wof:name":"Tablaseni",
+    "wof:lastmodified":1588366730,
+    "wof:name":"T\u0103bl\u0103\u015feni",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":25,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.30667,
-    46.51763,
-    24.30667,
-    46.51763
+    24.304567,
+    46.516471,
+    24.308595,
+    46.517812
 ],
-  "geometry": {"coordinates":[24.30667,46.51763],"type":"Point"}
+  "geometry": {"coordinates":[[[24.308595,46.517745],[24.307986,46.516471],[24.304567,46.516587],[24.304584,46.517812],[24.308003,46.517765],[24.308595,46.517745]]],"type":"Polygon"}
 }

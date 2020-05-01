@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.97205,46.29959,22.97205,46.29959",
-    "geom:latitude":46.29959,
-    "geom:longitude":22.97205,
+    "geom:area":0.000039,
+    "geom:area_square_m":337200.750797,
+    "geom:bbox":"22.966253,46.296226,22.979495,46.308209",
+    "geom:latitude":46.301147,
+    "geom:longitude":22.972285,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Poiana",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.95205,46.27959,22.99205,46.31959",
+    "lbl:latitude":46.29959,
+    "lbl:longitude":22.97205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Poiana"
@@ -70,17 +72,25 @@
     "name:vol_x_preferred":[
         "Poiana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670142
+        "gn:id":670142,
+        "ro-ancpi:id":7678
     },
     "wof:country":"RO",
-    "wof:geomhash":"6ef9c997aa7861cb547138a11d9fee12",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"75dc8d6a4acfb32290f5abf42c1380d7",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -88,7 +98,7 @@
         }
     ],
     "wof:id":1209525005,
-    "wof:lastmodified":1566610306,
+    "wof:lastmodified":1588366732,
     "wof:name":"Poiana",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -100,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.97205,
-    46.29959,
-    22.97205,
-    46.29959
+    22.966253,
+    46.296226,
+    22.979495,
+    46.308209
 ],
-  "geometry": {"coordinates":[22.97205,46.29959],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.975831,46.300149],[22.976407,46.29987],[22.978963,46.299987],[22.979495,46.298868],[22.976551,46.298762],[22.976507,46.297848],[22.974716,46.297351],[22.973825,46.298374],[22.972382,46.298223],[22.970816,46.297909],[22.969071,46.297343],[22.968055,46.296226],[22.966253,46.297035],[22.967055,46.298196],[22.968294,46.298974],[22.970569,46.299695],[22.970511,46.302559],[22.972205,46.302815],[22.972514,46.300267],[22.975831,46.300149]]],[[[22.974572,46.305438],[22.971026,46.30482],[22.969398,46.307603],[22.972246,46.308209],[22.972779,46.307072],[22.974466,46.306923],[22.974572,46.305438]]]],"type":"MultiPolygon"}
 }

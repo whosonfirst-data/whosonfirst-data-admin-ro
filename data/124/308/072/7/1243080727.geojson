@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.25151,46.27055,22.25151,46.27055",
-    "geom:latitude":46.27055,
-    "geom:longitude":22.25151,
+    "geom:area":0.0001,
+    "geom:area_square_m":850780.279551,
+    "geom:bbox":"22.242223,46.264589,22.256489,46.276125",
+    "geom:latitude":46.270538,
+    "geom:longitude":22.249314,
     "gn:admin1_code":"02",
     "gn:admin2_code":"9743.0",
     "gn:asciiname":"Radesti",
@@ -25,13 +25,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.23151,46.25055,22.27151,46.29055",
+    "lbl:latitude":46.27055,
+    "lbl:longitude":22.25151,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
-        "R\u0103de\u0219ti"
+        "R\u0103de\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "R\u0103de\u0219ti",
+        "Radesti"
     ],
     "name:und_x_variant":[
         "Boze\u015fti",
@@ -40,7 +46,11 @@
         "Boz\u00f3sd",
         "Bogyesd"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669273
+        "gn:id":669273,
+        "ro-ancpi:id":9789
     },
     "wof:country":"RO",
-    "wof:geomhash":"24d87fe165e2f7f34c5d87b81ac32714",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"743fca457d9081a848fc5f977089f05b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,8 +76,8 @@
         }
     ],
     "wof:id":1243080727,
-    "wof:lastmodified":1566611429,
-    "wof:name":"Radesti",
+    "wof:lastmodified":1588366822,
+    "wof:name":"R\u0103de\u015fti",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":578,
@@ -74,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.25151,
-    46.27055,
-    22.25151,
-    46.27055
+    22.242223,
+    46.264589,
+    22.256489,
+    46.276125
 ],
-  "geometry": {"coordinates":[22.25151,46.27055],"type":"Point"}
+  "geometry": {"coordinates":[[[22.256489,46.273966],[22.252124,46.264972],[22.249015,46.265704],[22.249532,46.264688],[22.2491,46.264589],[22.248454,46.265803],[22.242223,46.267266],[22.243407,46.269479],[22.242841,46.269866],[22.243654,46.271592],[22.244236,46.271309],[22.246738,46.276125],[22.256489,46.273966]]],"type":"Polygon"}
 }

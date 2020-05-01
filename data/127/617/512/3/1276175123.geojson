@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.98715,47.04104,25.98715,47.04104",
-    "geom:latitude":47.04104,
-    "geom:longitude":25.98715,
+    "geom:area":0.00007,
+    "geom:area_square_m":589974.411456,
+    "geom:bbox":"25.978974,47.025274,25.990858,47.043747",
+    "geom:latitude":47.03695,
+    "geom:longitude":25.985833,
     "gn:admin1_code":"28",
     "gn:admin2_code":"122025",
     "gn:asciiname":"Paraul Mare",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.96715,47.02104,26.00715,47.06104",
+    "lbl:latitude":47.04104,
+    "lbl:longitude":25.98715,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u00e2r\u00e2ul Mare"
+    ],
+    "name:ron_x_variant":[
+        "Paraul Mare"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11001747
+        "gn:id":11001747,
+        "ro-ancpi:id":122052
     },
     "wof:country":"RO",
-    "wof:geomhash":"ff28b3c5eaef62efa28b10a1e6f9fa05",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"79f68c055a5f82030d442e5dcaf42b62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1276175123,
-    "wof:lastmodified":1566610175,
-    "wof:name":"Paraul Mare",
+    "wof:lastmodified":1588366703,
+    "wof:name":"P\u00e2r\u00e2ul Mare",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:population":139,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.98715,
-    47.04104,
-    25.98715,
-    47.04104
+    25.978974,
+    47.025274,
+    25.990858,
+    47.043747
 ],
-  "geometry": {"coordinates":[25.98715,47.04104],"type":"Point"}
+  "geometry": {"coordinates":[[[25.978974,47.043063],[25.979619,47.043198],[25.979444,47.043416],[25.979374,47.043502],[25.979309,47.043556],[25.979337,47.043747],[25.987361,47.04276],[25.987366,47.042709],[25.987334,47.042702],[25.987302,47.042694],[25.987254,47.042679],[25.987282,47.042654],[25.98731,47.042629],[25.987347,47.042591],[25.987385,47.042554],[25.987412,47.042511],[25.98744,47.042469],[25.987461,47.042436],[25.987482,47.042404],[25.987492,47.042377],[25.987509,47.042327],[25.98753,47.042264],[25.987552,47.042187],[25.987567,47.042105],[25.987573,47.042062],[25.987714,47.041425],[25.987782,47.040932],[25.988656,47.037399],[25.987314,47.037174],[25.988107,47.035232],[25.989377,47.032226],[25.990745,47.028919],[25.990858,47.025334],[25.98919,47.025274],[25.98893,47.030232],[25.986855,47.03136],[25.986239,47.034387],[25.983254,47.034344],[25.983181,47.038745],[25.982563,47.039374],[25.981113,47.04089],[25.978974,47.043063]]],"type":"Polygon"}
 }

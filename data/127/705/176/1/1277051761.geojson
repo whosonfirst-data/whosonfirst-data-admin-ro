@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.36731,46.07071,27.36731,46.07071",
-    "geom:latitude":46.07071,
-    "geom:longitude":27.36731,
+    "geom:area":0.000077,
+    "geom:area_square_m":662266.673885,
+    "geom:bbox":"27.356079,46.060158,27.369473,46.07766",
+    "geom:latitude":46.068664,
+    "geom:longitude":27.364147,
     "gn:admin1_code":"18",
     "gn:admin2_code":"75766.0",
     "gn:asciiname":"Corcioveni",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Corcioveni"
+    ],
     "name:und_x_variant":[
         "Corciovenii",
         "Corcioveni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680845
+        "gn:id":680845,
+        "ro-ancpi:id":75784
     },
     "wof:country":"RO",
-    "wof:geomhash":"bbf7fb85070dbe36284231828084a2d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"31361b7be39a56d8ac69a17dd11d32c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1277051761,
-    "wof:lastmodified":1566610216,
+    "wof:lastmodified":1588367048,
     "wof:name":"Corcioveni",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36731,
-    46.07071,
-    27.36731,
-    46.07071
+    27.356079,
+    46.060158,
+    27.369473,
+    46.07766
 ],
-  "geometry": {"coordinates":[27.36731,46.07071],"type":"Point"}
+  "geometry": {"coordinates":[[[27.369471,46.065152],[27.369473,46.061869],[27.368529,46.060158],[27.367109,46.060432],[27.364764,46.06191],[27.361285,46.066986],[27.359214,46.070771],[27.356079,46.074849],[27.35743,46.075523],[27.358534,46.074381],[27.363609,46.067175],[27.365789,46.063885],[27.36726,46.062397],[27.36744,46.064721],[27.366428,46.066944],[27.364481,46.068244],[27.363436,46.070587],[27.362309,46.072103],[27.360863,46.072862],[27.361964,46.074066],[27.360681,46.077524],[27.362117,46.07766],[27.363174,46.07671],[27.363944,46.073543],[27.365858,46.072575],[27.368328,46.068525],[27.36785,46.068457],[27.369471,46.065152]]],"type":"Polygon"}
 }

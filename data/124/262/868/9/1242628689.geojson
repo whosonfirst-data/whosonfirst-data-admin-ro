@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.29151,45.53952,27.29151,45.53952",
-    "geom:latitude":45.53952,
-    "geom:longitude":27.29151,
+    "geom:area":0.000104,
+    "geom:area_square_m":898877.767223,
+    "geom:bbox":"27.280143,45.533424,27.297755,45.544178",
+    "geom:latitude":45.539075,
+    "geom:longitude":27.289423,
     "gn:admin1_code":"40",
     "gn:admin2_code":"177986",
     "gn:asciiname":"Bordeasca Noua",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.27151,45.51952,27.31151,45.55952",
+    "lbl:latitude":45.53952,
+    "lbl:longitude":27.29151,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bordeasca Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Bordeasca Noua"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684221
+        "gn:id":684221,
+        "ro-ancpi:id":178000
     },
     "wof:country":"RO",
-    "wof:geomhash":"0b948347bac0da2042820a912c2f8b25",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f4e9ca69dffaaee0fb2cf01cae9b4d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1242628689,
-    "wof:lastmodified":1566611509,
-    "wof:name":"Bordeasca Noua",
+    "wof:lastmodified":1588366839,
+    "wof:name":"Bordeasca Nou\u0103",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
     "wof:population":463,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.29151,
-    45.53952,
-    27.29151,
-    45.53952
+    27.280143,
+    45.533424,
+    27.297755,
+    45.544178
 ],
-  "geometry": {"coordinates":[27.29151,45.53952],"type":"Point"}
+  "geometry": {"coordinates":[[[27.2849,45.544178],[27.286008,45.543713],[27.286217,45.543711],[27.28642,45.543735],[27.287533,45.543932],[27.28767,45.543938],[27.287807,45.543926],[27.288211,45.543754],[27.29106,45.542532],[27.291259,45.542578],[27.294066,45.541321],[27.295966,45.540511],[27.29648,45.540286],[27.296332,45.539893],[27.297191,45.539591],[27.296755,45.538552],[27.296668,45.538445],[27.297755,45.538066],[27.296633,45.536718],[27.294573,45.534338],[27.293773,45.533424],[27.291966,45.53416],[27.289315,45.53527],[27.280143,45.539121],[27.280689,45.539784],[27.28019,45.539998],[27.28024,45.540058],[27.280892,45.540808],[27.281712,45.540434],[27.283616,45.54252],[27.283552,45.542561],[27.283626,45.542616],[27.2849,45.544178]]],"type":"Polygon"}
 }

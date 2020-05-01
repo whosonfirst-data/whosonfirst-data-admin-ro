@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.99484,44.31371,22.99484,44.31371",
-    "geom:latitude":44.31371,
-    "geom:longitude":22.99484,
+    "geom:area":0.000018,
+    "geom:area_square_m":163300.932854,
+    "geom:bbox":"22.986983,44.311342,22.997451,44.314984",
+    "geom:latitude":44.313089,
+    "geom:longitude":22.992363,
     "gn:admin1_code":"26",
     "gn:admin2_code":"113395.0",
     "gn:asciiname":"Satu Nou",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.97484,44.29371,23.01484,44.33371",
+    "lbl:latitude":44.31371,
+    "lbl:longitude":22.99484,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Satu Nou"
@@ -51,7 +53,11 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0442\u0443-\u041d\u043e\u0443"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -59,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667857
+        "gn:id":667857,
+        "ro-ancpi:id":113457
     },
     "wof:country":"RO",
-    "wof:geomhash":"d490ebf15f36c476cfe621633360e53c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"23ec5ea83e9ca1cc764994be37bba0a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +82,7 @@
         }
     ],
     "wof:id":1276729523,
-    "wof:lastmodified":1566610164,
+    "wof:lastmodified":1588366701,
     "wof:name":"Satu Nou",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -82,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.99484,
-    44.31371,
-    22.99484,
-    44.31371
+    22.986983,
+    44.311342,
+    22.997451,
+    44.314984
 ],
-  "geometry": {"coordinates":[22.99484,44.31371],"type":"Point"}
+  "geometry": {"coordinates":[[[22.994422,44.314984],[22.995266,44.313367],[22.996886,44.313834],[22.997451,44.312855],[22.992042,44.311342],[22.991492,44.312716],[22.987773,44.311757],[22.986983,44.313002],[22.990797,44.314064],[22.994422,44.314984]]],"type":"Polygon"}
 }

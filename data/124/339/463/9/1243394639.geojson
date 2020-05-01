@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2091,44.73268,24.2091,44.73268",
-    "geom:latitude":44.73268,
-    "geom:longitude":24.2091,
+    "geom:area":0.000078,
+    "geom:area_square_m":689146.630387,
+    "geom:bbox":"24.202804,44.720289,24.219804,44.739631",
+    "geom:latitude":44.728282,
+    "geom:longitude":24.210578,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174520.0",
     "gn:asciiname":"Mitrofani",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Mitrofani"
@@ -50,6 +50,9 @@
         "Mitrofani"
     ],
     "name:ron_x_preferred":[
+        "Mitrofani"
+    ],
+    "name:ron_x_variant":[
         "Comuna Mitrofani"
     ],
     "name:srp_x_preferred":[
@@ -64,7 +67,10 @@
     "name:zho_x_preferred":[
         "\u7c73\u7279\u7f85\u6cd5\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,10 +80,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":673045,
+        "ro-ancpi:id":173659,
         "wk:page":"Mitrofani"
     },
     "wof:country":"RO",
-    "wof:geomhash":"35f6ebeef4250e9f588f1e246fd4b85e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"076e82e42ed290b1d4be0cf5149d01b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +97,7 @@
         }
     ],
     "wof:id":1243394639,
-    "wof:lastmodified":1566611432,
+    "wof:lastmodified":1588367014,
     "wof:name":"Mitrofani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -99,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2091,
-    44.73268,
-    24.2091,
-    44.73268
+    24.202804,
+    44.720289,
+    24.219804,
+    44.739631
 ],
-  "geometry": {"coordinates":[24.2091,44.73268],"type":"Point"}
+  "geometry": {"coordinates":[[[24.217132,44.72073],[24.214596,44.720289],[24.214382,44.720434],[24.212046,44.722285],[24.209488,44.724552],[24.208197,44.72745],[24.206981,44.729519],[24.205607,44.729392],[24.205445,44.73027],[24.206515,44.730509],[24.204487,44.735582],[24.203525,44.73751],[24.202804,44.739245],[24.204717,44.739631],[24.207188,44.735755],[24.208327,44.732056],[24.20899,44.732134],[24.209341,44.731214],[24.208807,44.731139],[24.209059,44.730108],[24.209385,44.729199],[24.210657,44.728364],[24.210669,44.726037],[24.211469,44.726137],[24.211811,44.726654],[24.211846,44.727702],[24.211783,44.728669],[24.211579,44.729049],[24.21049,44.72956],[24.210438,44.731513],[24.212133,44.731684],[24.213262,44.727507],[24.214328,44.727887],[24.215157,44.726681],[24.214436,44.726387],[24.21574,44.724101],[24.217003,44.722071],[24.218371,44.72228],[24.219775,44.721579],[24.219804,44.720664],[24.217132,44.72073]]],"type":"Polygon"}
 }

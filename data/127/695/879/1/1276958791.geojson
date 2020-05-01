@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.77368,44.72833,21.77368,44.72833",
-    "geom:latitude":44.72833,
-    "geom:longitude":21.77368,
+    "geom:area":0.000012,
+    "geom:area_square_m":104427.877443,
+    "geom:bbox":"21.77006,44.725625,21.775767,44.730857",
+    "geom:latitude":44.728149,
+    "geom:longitude":21.773065,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53853.0",
     "gn:asciiname":"Frasinis",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.75368,44.70833,21.79368,44.74833",
+    "lbl:latitude":44.72833,
+    "lbl:longitude":21.77368,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Fr\u0103sini\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Frasinis"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677943
+        "gn:id":677943,
+        "ro-ancpi:id":53933
     },
     "wof:country":"RO",
-    "wof:geomhash":"3a19ac9cad3e96a8a655241d29073bad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"44bd7cc0f446703febf784d6285a6e56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1276958791,
-    "wof:lastmodified":1566610208,
-    "wof:name":"Frasinis",
+    "wof:lastmodified":1588366711,
+    "wof:name":"Fr\u0103sini\u015f",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":52,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.77368,
-    44.72833,
-    21.77368,
-    44.72833
+    21.77006,
+    44.725625,
+    21.775767,
+    44.730857
 ],
-  "geometry": {"coordinates":[21.77368,44.72833],"type":"Point"}
+  "geometry": {"coordinates":[[[21.772911,44.730156],[21.773379,44.72986],[21.773951,44.728621],[21.774141,44.72829],[21.775445,44.727166],[21.775767,44.72628],[21.774139,44.725907],[21.773995,44.726122],[21.773434,44.726499],[21.772949,44.725625],[21.772415,44.726315],[21.772124,44.727127],[21.771583,44.727841],[21.771452,44.728087],[21.771473,44.728219],[21.771659,44.728379],[21.772055,44.728462],[21.772405,44.728567],[21.77254,44.729031],[21.772618,44.72952],[21.772349,44.729753],[21.772125,44.729771],[21.771953,44.729575],[21.771705,44.729326],[21.771268,44.729282],[21.770754,44.72941],[21.770145,44.729658],[21.77006,44.730072],[21.770519,44.73022],[21.771539,44.730103],[21.77169,44.730285],[21.771475,44.730545],[21.77148,44.730842],[21.771986,44.730857],[21.772493,44.730848],[21.773067,44.730733],[21.772911,44.730156]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.70343,47.60707,26.70343,47.60707",
-    "geom:latitude":47.60707,
-    "geom:longitude":26.70343,
+    "geom:area":0.000011,
+    "geom:area_square_m":88276.497949,
+    "geom:bbox":"26.699517,47.609139,26.704341,47.612969",
+    "geom:latitude":47.611085,
+    "geom:longitude":26.701968,
     "gn:admin1_code":"07",
     "gn:admin2_code":"36907.0",
     "gn:asciiname":"Unguroaia",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Unguroaia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664208
+        "gn:id":664208,
+        "ro-ancpi:id":36943
     },
     "wof:country":"RO",
-    "wof:geomhash":"5828d52464f0aa4475c061fa648f108c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"844b5619e7f7a378398d3f82494b2c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1293680989,
-    "wof:lastmodified":1566610090,
+    "wof:lastmodified":1588367137,
     "wof:name":"Unguroaia",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.70343,
-    47.60707,
-    26.70343,
-    47.60707
+    26.699517,
+    47.609139,
+    26.704341,
+    47.612969
 ],
-  "geometry": {"coordinates":[26.70343,47.60707],"type":"Point"}
+  "geometry": {"coordinates":[[[26.704341,47.612204],[26.703123,47.611065],[26.703006,47.610942],[26.703663,47.610545],[26.703018,47.609775],[26.703208,47.609501],[26.703515,47.609195],[26.703318,47.609168],[26.703061,47.609139],[26.702659,47.609187],[26.702257,47.609213],[26.701997,47.60925],[26.701824,47.609245],[26.701623,47.609239],[26.70143,47.609197],[26.701292,47.60918],[26.701212,47.609193],[26.701153,47.609219],[26.701111,47.60928],[26.700937,47.609691],[26.699907,47.611476],[26.699517,47.612271],[26.700087,47.612375],[26.70023,47.612105],[26.70113,47.612317],[26.701032,47.61245],[26.701314,47.612562],[26.701558,47.612238],[26.702326,47.612735],[26.702641,47.612969],[26.704341,47.612204]]],"type":"Polygon"}
 }

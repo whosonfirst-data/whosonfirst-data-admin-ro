@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.75743,47.35353,22.75743,47.35353",
-    "geom:latitude":47.35353,
-    "geom:longitude":22.75743,
+    "geom:area":0.000011,
+    "geom:area_square_m":94006.133932,
+    "geom:bbox":"22.757612,47.352264,22.765776,47.356054",
+    "geom:latitude":47.35404,
+    "geom:longitude":22.760932,
     "gn:admin1_code":"31",
     "gn:admin2_code":"142881.0",
     "gn:asciiname":"Tarmure",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u0162\u0103rmure"
+    ],
+    "name:ron_x_variant":[
+        "Tarmure"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665493
+        "gn:id":665493,
+        "ro-ancpi:id":142943
     },
     "wof:country":"RO",
-    "wof:geomhash":"bfbf3b6720b0e679908ec25c49ac097f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05f42058ff9b9a17540a3acb0f474003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1326959381,
-    "wof:lastmodified":1566609797,
-    "wof:name":"Tarmure",
+    "wof:lastmodified":1588367077,
+    "wof:name":"\u0162\u0103rmure",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":5,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.75743,
-    47.35353,
-    22.75743,
-    47.35353
+    22.757612,
+    47.352264,
+    22.765776,
+    47.356054
 ],
-  "geometry": {"coordinates":[22.75743,47.35353],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.76347,47.353893],[22.762669,47.353329],[22.762051,47.352908],[22.761526,47.353132],[22.761158,47.353311],[22.760181,47.352849],[22.758918,47.352264],[22.75814,47.353195],[22.757612,47.353908],[22.758764,47.354292],[22.759727,47.354684],[22.7603,47.35494],[22.760852,47.355301],[22.761527,47.355571],[22.761952,47.355696],[22.764019,47.3543],[22.76347,47.353893]]],[[[22.765776,47.355828],[22.765312,47.355422],[22.76489,47.355659],[22.765371,47.356054],[22.765776,47.355828]]]],"type":"MultiPolygon"}
 }

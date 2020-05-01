@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.71808,47.23355,25.71808,47.23355",
-    "geom:latitude":47.23355,
-    "geom:longitude":25.71808,
+    "geom:area":0.000037,
+    "geom:area_square_m":310540.178369,
+    "geom:bbox":"25.711218,47.227142,25.723954,47.233884",
+    "geom:latitude":47.230988,
+    "geom:longitude":25.717941,
     "gn:admin1_code":"34",
     "gn:admin2_code":"147358.0",
     "gn:asciiname":"Haleasa",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "H\u0103leasa"
+    ],
+    "name:ron_x_variant":[
+        "Haleasa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676365
+        "gn:id":676365,
+        "ro-ancpi:id":147401
     },
     "wof:country":"RO",
-    "wof:geomhash":"7e70654633136963a34ebc2fa431d20d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c3464c8ef61b450577ba26e47afe078b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1309847009,
-    "wof:lastmodified":1566611236,
-    "wof:name":"Haleasa",
+    "wof:lastmodified":1588367079,
+    "wof:name":"H\u0103leasa",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":269,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.71808,
-    47.23355,
-    25.71808,
-    47.23355
+    25.711218,
+    47.227142,
+    25.723954,
+    47.233884
 ],
-  "geometry": {"coordinates":[25.71808,47.23355],"type":"Point"}
+  "geometry": {"coordinates":[[[25.723184,47.229738],[25.722178,47.227968],[25.722338,47.227334],[25.722051,47.227142],[25.720091,47.228706],[25.719294,47.228992],[25.717937,47.228948],[25.716882,47.229209],[25.715418,47.229869],[25.713077,47.23151],[25.712278,47.232641],[25.711218,47.233413],[25.711746,47.233844],[25.711779,47.233872],[25.711795,47.233884],[25.713106,47.233516],[25.713893,47.233415],[25.716913,47.233308],[25.719398,47.232721],[25.720426,47.232134],[25.720714,47.23197],[25.721106,47.231746],[25.722783,47.230698],[25.723954,47.230348],[25.723946,47.230327],[25.723931,47.230289],[25.72382,47.229997],[25.723184,47.229738]]],"type":"Polygon"}
 }

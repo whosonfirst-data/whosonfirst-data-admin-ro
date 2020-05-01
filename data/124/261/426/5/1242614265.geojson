@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.45853,44.95353,24.45853,44.95353",
-    "geom:latitude":44.95353,
-    "geom:longitude":24.45853,
+    "geom:area":0.000098,
+    "geom:area_square_m":855396.18843,
+    "geom:bbox":"24.447701,44.946554,24.465236,44.967744",
+    "geom:latitude":44.955867,
+    "geom:longitude":24.456522,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404.0",
     "gn:asciiname":"Dealu Scheiului",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.43853,44.93353,24.47853,44.97353",
+    "lbl:latitude":44.95353,
+    "lbl:longitude":24.45853,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dealu Scheiului"
+    ],
     "name:und_x_variant":[
         "Dealul Scheiul",
         "Dealu Scheiului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679584
+        "gn:id":679584,
+        "ro-ancpi:id":169459
     },
     "wof:country":"RO",
-    "wof:geomhash":"45d182df6908020bfd5ac38b96b1d5bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"774550e8bf952b73a11ae44e644b98a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1242614265,
-    "wof:lastmodified":1566611452,
+    "wof:lastmodified":1588366826,
     "wof:name":"Dealu Scheiului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.45853,
-    44.95353,
-    24.45853,
-    44.95353
+    24.447701,
+    44.946554,
+    24.465236,
+    44.967744
 ],
-  "geometry": {"coordinates":[24.45853,44.95353],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.453205,44.946554],[24.447701,44.949298],[24.453081,44.952023],[24.454402,44.954173],[24.453301,44.955299],[24.455624,44.95799],[24.45877,44.962232],[24.458574,44.965268],[24.461951,44.966667],[24.462976,44.967744],[24.464617,44.967224],[24.465236,44.966619],[24.4645,44.966108],[24.464167,44.966143],[24.463829,44.966812],[24.463369,44.966828],[24.463138,44.96639],[24.461444,44.963257],[24.461558,44.960042],[24.459418,44.955805],[24.458527,44.952526],[24.454964,44.947983],[24.453205,44.946554]]],[[[24.45221,44.95569],[24.451301,44.954771],[24.450944,44.954867],[24.4507,44.954632],[24.450053,44.954853],[24.450252,44.955622],[24.450667,44.956626],[24.452088,44.957052],[24.452837,44.956092],[24.451935,44.955776],[24.45221,44.95569]]]],"type":"MultiPolygon"}
 }

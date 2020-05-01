@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.21314,46.64397,27.21314,46.64397",
-    "geom:latitude":46.64397,
-    "geom:longitude":27.21314,
+    "geom:area_square_m":1709.713682,
+    "geom:bbox":"27.208716,46.646509,27.209365,46.646957",
+    "geom:latitude":46.646768,
+    "geom:longitude":27.209029,
     "gn:admin1_code":"04",
     "gn:admin2_code":"21891.0",
     "gn:asciiname":"Poiana",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Poiana"
@@ -66,7 +66,10 @@
     "name:vol_x_preferred":[
         "Poiana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -74,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670135
+        "gn:id":670135,
+        "ro-ancpi:id":21926
     },
     "wof:country":"RO",
-    "wof:geomhash":"355a970c5328d19260c6ff398e7be5f1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f466cdf1a0bed3fc4bba491742e857e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +94,7 @@
         }
     ],
     "wof:id":1276547429,
-    "wof:lastmodified":1566610267,
+    "wof:lastmodified":1588367135,
     "wof:name":"Poiana",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -97,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.21314000000001,
-    46.64397,
-    27.21314000000001,
-    46.64397
+    27.208716,
+    46.646509,
+    27.209365,
+    46.646957
 ],
-  "geometry": {"coordinates":[27.21314000000001,46.64397],"type":"Point"}
+  "geometry": {"coordinates":[[[27.208728,46.646659],[27.208766,46.646957],[27.209365,46.646937],[27.209182,46.646509],[27.208716,46.646659],[27.208728,46.646659]]],"type":"Polygon"}
 }

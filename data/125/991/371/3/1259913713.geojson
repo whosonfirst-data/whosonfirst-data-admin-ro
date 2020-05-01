@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.83155,44.77804,23.83155,44.77804",
-    "geom:latitude":44.77804,
-    "geom:longitude":23.83155,
+    "geom:area":0.000019,
+    "geom:area_square_m":164859.300231,
+    "geom:bbox":"23.822218,44.767423,23.835322,44.775886",
+    "geom:latitude":44.771889,
+    "geom:longitude":23.828504,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174290.0",
     "gn:asciiname":"Ciortesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciorte\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ciortesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681635
+        "gn:id":681635,
+        "ro-ancpi:id":174325
     },
     "wof:country":"RO",
-    "wof:geomhash":"cea54fced263e3ca0c91fb48d3c2e391",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1bd3402c39a2af1525e5662ffe4b538c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1259913713,
-    "wof:lastmodified":1566611540,
-    "wof:name":"Ciortesti",
+    "wof:lastmodified":1588367152,
+    "wof:name":"Ciorte\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":97,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.83155,
-    44.77804,
-    23.83155,
-    44.77804
+    23.822218,
+    44.767423,
+    23.835322,
+    44.775886
 ],
-  "geometry": {"coordinates":[23.83155,44.77804],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.822277,44.771175],[23.824636,44.771623],[23.824742,44.771491],[23.824744,44.771105],[23.82476,44.770707],[23.825061,44.770057],[23.825676,44.769261],[23.826822,44.767855],[23.825428,44.767423],[23.824936,44.767873],[23.823644,44.768991],[23.823268,44.769353],[23.82241,44.769555],[23.822218,44.770701],[23.822277,44.771175]]],[[[23.834606,44.77577],[23.835322,44.773721],[23.834451,44.773377],[23.832517,44.775134],[23.830411,44.774553],[23.830034,44.775343],[23.832862,44.775886],[23.834606,44.77577]]],[[[23.833354,44.772517],[23.829076,44.771522],[23.828748,44.772223],[23.832835,44.773372],[23.833354,44.772517]]]],"type":"MultiPolygon"}
 }

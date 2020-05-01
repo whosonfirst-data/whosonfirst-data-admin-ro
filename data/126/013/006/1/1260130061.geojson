@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.01768,45.22086,26.01768,45.22086",
-    "geom:latitude":45.22086,
-    "geom:longitude":26.01768,
+    "geom:area":0.000003,
+    "geom:area_square_m":28849.822287,
+    "geom:bbox":"26.001679,45.222348,26.005724,45.224083",
+    "geom:latitude":45.223066,
+    "geom:longitude":26.003313,
     "gn:admin1_code":"30",
     "gn:admin2_code":"135725.0",
     "gn:asciiname":"Stubeiu",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u015etubeiu"
+    ],
+    "name:ron_x_variant":[
+        "Stubeiu"
+    ],
     "name:und_x_variant":[
         "Stiubei",
         "\u015etiubeiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666086
+        "gn:id":666086,
+        "ro-ancpi:id":135761
     },
     "wof:country":"RO",
-    "wof:geomhash":"73bef33c9416743a9309b300033ff4e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"06214dc47588601e39d1111cd53fc5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1260130061,
-    "wof:lastmodified":1566610470,
-    "wof:name":"Stubeiu",
+    "wof:lastmodified":1588367084,
+    "wof:name":"\u015etubeiu",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":606,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.01768,
-    45.22086,
-    26.01768,
-    45.22086
+    26.001679,
+    45.222348,
+    26.005724,
+    45.224083
 ],
-  "geometry": {"coordinates":[26.01768,45.22086],"type":"Point"}
+  "geometry": {"coordinates":[[[26.002438,45.224083],[26.002585,45.223625],[26.003661,45.223853],[26.004121,45.223004],[26.005509,45.223007],[26.005724,45.222764],[26.005618,45.222531],[26.005222,45.22244],[26.004981,45.222721],[26.002359,45.222348],[26.001679,45.223411],[26.002438,45.224083]]],"type":"Polygon"}
 }

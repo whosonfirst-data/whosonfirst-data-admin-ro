@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.071,46.41428,23.071,46.41428",
-    "geom:latitude":46.41428,
-    "geom:longitude":23.071,
+    "geom:area":0.000007,
+    "geom:area_square_m":59913.674868,
+    "geom:bbox":"23.070067,46.411809,23.076494,46.415898",
+    "geom:latitude":46.413926,
+    "geom:longitude":23.073403,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039.0",
     "gn:asciiname":"Dambureni",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "D\u00e2mbureni"
+    ],
+    "name:ron_x_variant":[
+        "Dambureni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679378
+        "gn:id":679378,
+        "ro-ancpi:id":3137
     },
     "wof:country":"RO",
-    "wof:geomhash":"1176fd558bf0c1bbd070550ad4c0ae8a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"85037ab5fc91d24dbce7f9cdb45a04ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1276661393,
-    "wof:lastmodified":1566610204,
-    "wof:name":"Dambureni",
+    "wof:lastmodified":1588367105,
+    "wof:name":"D\u00e2mbureni",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":48,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.071,
-    46.41428,
-    23.071,
-    46.41428
+    23.070067,
+    46.411809,
+    23.076494,
+    46.415898
 ],
-  "geometry": {"coordinates":[23.071,46.41428],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.074227,46.412271],[23.073877,46.411809],[23.071573,46.412673],[23.071717,46.413182],[23.070067,46.413654],[23.070378,46.414122],[23.073821,46.41339],[23.073539,46.412655],[23.074227,46.412271]]],[[[23.076494,46.414955],[23.076117,46.413996],[23.072535,46.415345],[23.072912,46.415898],[23.076494,46.414955]]]],"type":"MultiPolygon"}
 }

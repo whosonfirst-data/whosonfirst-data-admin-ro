@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.54066,45.01533,22.54066,45.01533",
-    "geom:latitude":45.01533,
-    "geom:longitude":22.54066,
+    "geom:area":0.000015,
+    "geom:area_square_m":133352.667158,
+    "geom:bbox":"22.539435,45.018095,22.546008,45.022155",
+    "geom:latitude":45.020162,
+    "geom:longitude":22.543046,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Inelet",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Inele\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Inelet"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675608
+        "gn:id":675608,
+        "ro-ancpi:id":52339
     },
     "wof:country":"RO",
-    "wof:geomhash":"49ee57a996b1197980928de269d063fe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f04755011e98c1a7eac4031f079fac06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1327114637,
-    "wof:lastmodified":1566609867,
-    "wof:name":"Inelet",
+    "wof:lastmodified":1588367032,
+    "wof:name":"Inele\u0163",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":47,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.54066,
-    45.01533,
-    22.54066,
-    45.01533
+    22.539435,
+    45.018095,
+    22.546008,
+    45.022155
 ],
-  "geometry": {"coordinates":[22.54066,45.01533],"type":"Point"}
+  "geometry": {"coordinates":[[[22.546008,45.020199],[22.544368,45.01887],[22.543955,45.018903],[22.54382,45.018272],[22.541641,45.018095],[22.540959,45.01952],[22.540035,45.020407],[22.539435,45.020836],[22.54071,45.021034],[22.543704,45.021949],[22.544894,45.022155],[22.546008,45.020199]]],"type":"Polygon"}
 }

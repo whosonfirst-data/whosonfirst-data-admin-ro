@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.64197,45.75963,21.64197,45.75963",
-    "geom:latitude":45.75963,
-    "geom:longitude":21.64197,
+    "geom:area":0.000021,
+    "geom:area_square_m":182353.766328,
+    "geom:bbox":"21.635519,45.756037,21.644677,45.761511",
+    "geom:latitude":45.759289,
+    "geom:longitude":21.640007,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158966.0",
     "gn:asciiname":"Topolovatu Mic",
@@ -26,18 +26,30 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.62197,45.73963,21.66197,45.77963",
+    "lbl:latitude":45.75963,
+    "lbl:longitude":21.64197,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Topolov\u0103\u0163u Mic"
+    ],
+    "name:ron_x_variant":[
+        "Topolovatu Mic"
+    ],
     "name:und_x_variant":[
         "Kistopoly",
         "Topolov\u0103tul Mic",
         "Topolovecz",
         "Topolov\u0103\u0163u Mic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664730
+        "gn:id":664730,
+        "ro-ancpi:id":159026
     },
     "wof:country":"RO",
-    "wof:geomhash":"081a6e2e77c10678655ad28fa163d034",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46110b36589d117e837321ca8d679f9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +75,8 @@
         }
     ],
     "wof:id":1293927943,
-    "wof:lastmodified":1566610088,
-    "wof:name":"Topolovatu Mic",
+    "wof:lastmodified":1588366685,
+    "wof:name":"Topolov\u0103\u0163u Mic",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":148,
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.64197,
-    45.75963,
-    21.64197,
-    45.75963
+    21.635519,
+    45.756037,
+    21.644677,
+    45.761511
 ],
-  "geometry": {"coordinates":[21.64197,45.75963],"type":"Point"}
+  "geometry": {"coordinates":[[[21.640172,45.757951],[21.640759,45.757319],[21.639603,45.756758],[21.639034,45.757393],[21.636168,45.756037],[21.635519,45.756736],[21.638379,45.758173],[21.636836,45.759948],[21.640575,45.761511],[21.644677,45.761455],[21.643118,45.760709],[21.643965,45.759865],[21.640172,45.757951]]],"type":"Polygon"}
 }

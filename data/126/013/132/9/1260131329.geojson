@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.43029,46.709,27.43029,46.709",
-    "geom:latitude":46.709,
-    "geom:longitude":27.43029,
+    "geom:area":0.000002,
+    "geom:area_square_m":15992.39982,
+    "geom:bbox":"27.432399,46.705956,27.43454,46.707473",
+    "geom:latitude":46.706781,
+    "geom:longitude":27.433595,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165611.0",
     "gn:asciiname":"Hordila",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Hordila"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +44,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676031
+        "gn:id":676031,
+        "ro-ancpi:id":165666
     },
     "wof:country":"RO",
-    "wof:geomhash":"8583f213f7a8701c97e3c2eacfb23049",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2f867e528e617ab446c122cdceb3d348",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +61,7 @@
         }
     ],
     "wof:id":1260131329,
-    "wof:lastmodified":1566610469,
+    "wof:lastmodified":1588367034,
     "wof:name":"Hordila",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.43029000000001,
-    46.709,
-    27.43029000000001,
-    46.709
+    27.432399,
+    46.705956,
+    27.43454,
+    46.707473
 ],
-  "geometry": {"coordinates":[27.43029000000001,46.709],"type":"Point"}
+  "geometry": {"coordinates":[[[27.434465,46.707473],[27.434271,46.706758],[27.434321,46.70657],[27.43454,46.706387],[27.43443,46.705956],[27.433677,46.706396],[27.432399,46.706285],[27.432633,46.707016],[27.432956,46.706978],[27.433372,46.707416],[27.434465,46.707473]]],"type":"Polygon"}
 }

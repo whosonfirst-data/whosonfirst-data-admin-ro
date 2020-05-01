@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.01394,44.921,24.01394,44.921",
-    "geom:latitude":44.921,
-    "geom:longitude":24.01394,
+    "geom:area":0.000096,
+    "geom:area_square_m":843033.224726,
+    "geom:bbox":"23.997872,44.913549,24.01766,44.928885",
+    "geom:latitude":44.921573,
+    "geom:longitude":24.008343,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170792.0",
     "gn:asciiname":"Scorusu",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Scoru\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Scorusu"
+    ],
     "name:und_x_variant":[
         "Fistigoi",
         "Scoru\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667579
+        "gn:id":667579,
+        "ro-ancpi:id":170845
     },
     "wof:country":"RO",
-    "wof:geomhash":"27f4873617c753ba16261bef9ed08648",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"779f3e1a0aff60b15afbb4b6ae07bc59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1293037373,
-    "wof:lastmodified":1566610092,
-    "wof:name":"Scorusu",
+    "wof:lastmodified":1588367087,
+    "wof:name":"Scoru\u015fu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":295,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.01394,
-    44.92100000000001,
-    24.01394,
-    44.92100000000001
+    23.997872,
+    44.913549,
+    24.01766,
+    44.928885
 ],
-  "geometry": {"coordinates":[24.01394,44.92100000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.015719,44.928885],[24.01766,44.922302],[24.014112,44.921636],[24.013671,44.922176],[24.012904,44.924042],[23.997872,44.920642],[24.000007,44.924541],[24.006996,44.924909],[24.007078,44.925727],[24.01239,44.92608],[24.011889,44.927335],[24.015719,44.928885]]],[[[24.010707,44.915585],[24.006143,44.913549],[24.003139,44.913658],[24.003574,44.918064],[24.008975,44.919655],[24.010822,44.916313],[24.010707,44.915585]]]],"type":"MultiPolygon"}
 }

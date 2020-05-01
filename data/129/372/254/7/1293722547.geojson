@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.72112,46.43451,26.72112,46.43451",
-    "geom:latitude":46.43451,
-    "geom:longitude":26.72112,
+    "geom:area":0.000008,
+    "geom:area_square_m":64366.046331,
+    "geom:bbox":"26.716054,46.432478,26.721365,46.434967",
+    "geom:latitude":46.433802,
+    "geom:longitude":26.718861,
     "gn:admin1_code":"04",
     "gn:admin2_code":"25148.0",
     "gn:asciiname":"Tisa",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Tisa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664930
+        "gn:id":664930,
+        "ro-ancpi:id":25200
     },
     "wof:country":"RO",
-    "wof:geomhash":"8a98332fde1fd08eba56974fbe986a45",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e34f89fc3a54dcf7f894525dd7cb52b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1293722547,
-    "wof:lastmodified":1566610148,
+    "wof:lastmodified":1588367072,
     "wof:name":"Tisa",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.72112000000001,
-    46.43451,
-    26.72112000000001,
-    46.43451
+    26.716054,
+    46.432478,
+    26.721365,
+    46.434967
 ],
-  "geometry": {"coordinates":[26.72112000000001,46.43451],"type":"Point"}
+  "geometry": {"coordinates":[[[26.719448,46.434822],[26.720291,46.434569],[26.721196,46.433735],[26.721365,46.433448],[26.721336,46.43313],[26.721257,46.432805],[26.720925,46.432674],[26.720722,46.432478],[26.720056,46.432721],[26.72023,46.43303],[26.719676,46.433192],[26.719312,46.433112],[26.718877,46.433136],[26.718726,46.433274],[26.718662,46.433343],[26.718258,46.433304],[26.717848,46.433299],[26.717594,46.433348],[26.716787,46.432753],[26.716054,46.433467],[26.716616,46.433758],[26.716606,46.434484],[26.71733,46.434737],[26.71858,46.43464],[26.71864,46.434967],[26.719448,46.434822]]],"type":"Polygon"}
 }

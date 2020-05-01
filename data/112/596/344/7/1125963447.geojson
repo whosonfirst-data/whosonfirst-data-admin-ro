@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.26667,45.35,24.26667,45.35",
-    "geom:latitude":45.35,
-    "geom:longitude":24.26667,
+    "geom:area":0.000011,
+    "geom:area_square_m":94729.537401,
+    "geom:bbox":"24.270708,45.354773,24.281492,45.356648",
+    "geom:latitude":45.355927,
+    "geom:longitude":24.276122,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -34,6 +34,9 @@
     "name:ron_x_preferred":[
         "Proieni"
     ],
+    "name:ron_x_variant":[
+        "Proeni"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0454\u043d\u044c"
     ],
@@ -57,7 +60,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":878590,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -74,11 +80,15 @@
         "gn:id":669574,
         "gp:id":878590,
         "qs_pg:id":506578,
+        "ro-ancpi:id":167865,
         "wd:id":"Q12145255"
     },
     "wof:country":"RO",
     "wof:created":1497297886,
-    "wof:geomhash":"375d02cf5dac4abe4467b63cfff0a8de",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"29368bfeb324d0af6455eb037e3805b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,8 +98,8 @@
         }
     ],
     "wof:id":1125963447,
-    "wof:lastmodified":1566611355,
-    "wof:name":"Proeni",
+    "wof:lastmodified":1588367014,
+    "wof:name":"Proieni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":90,
@@ -100,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.26667,
-    45.35,
-    24.26667,
-    45.35
+    24.270708,
+    45.354773,
+    24.281492,
+    45.356648
 ],
-  "geometry": {"coordinates":[24.26667,45.35],"type":"Point"}
+  "geometry": {"coordinates":[[[24.280995,45.35578],[24.281492,45.355019],[24.280614,45.354773],[24.279542,45.354902],[24.276765,45.355753],[24.273868,45.355643],[24.270708,45.355511],[24.270842,45.356598],[24.277507,45.356648],[24.280995,45.35578]]],"type":"Polygon"}
 }

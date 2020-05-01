@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.48797,44.99614,26.48797,44.99614",
-    "geom:latitude":44.99614,
-    "geom:longitude":26.48797,
+    "geom:area":0.000017,
+    "geom:area_square_m":144515.527586,
+    "geom:bbox":"26.482266,44.992717,26.488545,44.997432",
+    "geom:latitude":44.995131,
+    "geom:longitude":26.48539,
     "gn:admin1_code":"30",
     "gn:admin2_code":"132164.0",
     "gn:asciiname":"Crangurile",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Cr\u00e2ngurile"
+    ],
+    "name:ron_x_variant":[
+        "Crangurile"
+    ],
     "name:und_x_variant":[
         "M\u0103r\u0103cini",
         "Cr\u00eengurile"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680215
+        "gn:id":680215,
+        "ro-ancpi:id":132208
     },
     "wof:country":"RO",
-    "wof:geomhash":"f3a5d0012927197f4f2b2415d3c0bad7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"66189374657d6ace4f884de040b71bf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1344207525,
-    "wof:lastmodified":1566609967,
-    "wof:name":"Crangurile",
+    "wof:lastmodified":1588367085,
+    "wof:name":"Cr\u00e2ngurile",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.48797,
-    44.99614,
-    26.48797,
-    44.99614
+    26.482266,
+    44.992717,
+    26.488545,
+    44.997432
 ],
-  "geometry": {"coordinates":[26.48797,44.99614],"type":"Point"}
+  "geometry": {"coordinates":[[[26.488545,44.994506],[26.484223,44.992717],[26.482266,44.995941],[26.486626,44.997432],[26.488545,44.994506]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.98326,46.33629,22.98326,46.33629",
-    "geom:latitude":46.33629,
-    "geom:longitude":22.98326,
+    "geom:area":0.000052,
+    "geom:area_square_m":442833.06356,
+    "geom:bbox":"22.974924,46.328705,22.988479,46.340494",
+    "geom:latitude":46.334047,
+    "geom:longitude":22.981219,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Peles",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.96326,46.31629,23.00326,46.35629",
+    "lbl:latitude":46.33629,
+    "lbl:longitude":22.98326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pele\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Peles"
+    ],
     "name:und_x_variant":[
         "Sohodol-Pele\u015f",
         "Pele\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671175
+        "gn:id":671175,
+        "ro-ancpi:id":7669
     },
     "wof:country":"RO",
-    "wof:geomhash":"312c471f783083807ff2db8e5a1684b3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4594c352f71566bf139f17634948996e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1343276031,
-    "wof:lastmodified":1566609972,
-    "wof:name":"Peles",
+    "wof:lastmodified":1588366666,
+    "wof:name":"Pele\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":74,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.98326,
-    46.33629000000001,
-    22.98326,
-    46.33629000000001
+    22.974924,
+    46.328705,
+    22.988479,
+    46.340494
 ],
-  "geometry": {"coordinates":[22.98326,46.33629000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.982371,46.33707],[22.98394,46.336074],[22.985837,46.336721],[22.988479,46.335694],[22.985845,46.333487],[22.983583,46.334751],[22.982734,46.333727],[22.981455,46.333351],[22.980762,46.333104],[22.980114,46.332159],[22.981445,46.331608],[22.984341,46.330188],[22.984575,46.329336],[22.982142,46.328705],[22.980298,46.330759],[22.977712,46.329971],[22.976904,46.330781],[22.975047,46.330941],[22.974924,46.331498],[22.976335,46.332266],[22.978835,46.332931],[22.97835,46.334203],[22.977763,46.334182],[22.977424,46.335024],[22.977835,46.335835],[22.978978,46.336302],[22.980697,46.337502],[22.981528,46.338503],[22.982719,46.33888],[22.983399,46.338238],[22.982371,46.33707]]],[[[22.97786,46.338738],[22.976428,46.338499],[22.976406,46.339902],[22.977678,46.340494],[22.97786,46.338738]]]],"type":"MultiPolygon"}
 }

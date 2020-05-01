@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.01739,45.66085,23.01739,45.66085",
-    "geom:latitude":45.66085,
-    "geom:longitude":23.01739,
+    "geom:area":0.000082,
+    "geom:area_square_m":710310.002129,
+    "geom:bbox":"23.009732,45.654565,23.021884,45.667631",
+    "geom:latitude":45.661085,
+    "geom:longitude":23.015482,
     "gn:admin1_code":"21",
     "gn:admin2_code":"88644",
     "gn:asciiname":"Bretea Romana",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.99739,45.64085,23.03739,45.68085",
+    "lbl:latitude":45.66085,
+    "lbl:longitude":23.01739,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Bretea Rom\u00e2n\u0103"
@@ -53,7 +55,11 @@
         "Bretea Rom\u00e2n\u0103"
     ],
     "name:ron_x_preferred":[
-        "Comuna Bretea Rom\u00e2n\u0103"
+        "Bretea Rom\u00e2n\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Bretea Rom\u00e2n\u0103",
+        "Bretea Romana"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0440\u0435\u0442\u0435\u0430 \u0420\u043e\u043c\u0430\u043d\u0430"
@@ -74,7 +80,11 @@
     "name:zho_x_preferred":[
         "\u5e03\u96f7\u6cf0\u4e9e\u7f85\u99ac\u8a25\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,10 +94,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":683710,
+        "ro-ancpi:id":88653,
         "wk:page":"Bretea_Rom%C3%A2n%C4%83"
     },
     "wof:country":"RO",
-    "wof:geomhash":"a24faf9959aecc79c37704b9e5ffd0b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"087f6aeeacbe8127df6ac11d51c88b68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,8 +111,8 @@
         }
     ],
     "wof:id":1292974881,
-    "wof:lastmodified":1566610118,
-    "wof:name":"Bretea Romana",
+    "wof:lastmodified":1588366691,
+    "wof:name":"Bretea Rom\u00e2n\u0103",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":301,
@@ -109,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.01739,
-    45.66085,
-    23.01739,
-    45.66085
+    23.009732,
+    45.654565,
+    23.021884,
+    45.667631
 ],
-  "geometry": {"coordinates":[23.01739,45.66085],"type":"Point"}
+  "geometry": {"coordinates":[[[23.021884,45.661812],[23.021843,45.661289],[23.021549,45.661158],[23.021281,45.661154],[23.020495,45.661454],[23.020001,45.66109],[23.020614,45.66062],[23.020523,45.659824],[23.020447,45.659425],[23.020882,45.658931],[23.019826,45.658453],[23.015999,45.656234],[23.015013,45.655416],[23.015347,45.655147],[23.014174,45.654565],[23.01309,45.655683],[23.013015,45.656218],[23.012702,45.657141],[23.012319,45.657945],[23.011976,45.658174],[23.011073,45.658278],[23.010712,45.658455],[23.010068,45.659267],[23.009732,45.659784],[23.010219,45.661246],[23.011293,45.66252],[23.013279,45.663904],[23.013308,45.665186],[23.013441,45.667582],[23.015049,45.667631],[23.017547,45.665562],[23.0192,45.664357],[23.019602,45.663089],[23.019658,45.662359],[23.020822,45.662337],[23.020954,45.661963],[23.021884,45.661812]]],"type":"Polygon"}
 }

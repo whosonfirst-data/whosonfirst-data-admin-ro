@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.74573,47.87646,26.74573,47.87646",
-    "geom:latitude":47.87646,
-    "geom:longitude":26.74573,
+    "geom:area":0.000005,
+    "geom:area_square_m":37715.289027,
+    "geom:bbox":"26.740323,47.86083,26.743617,47.863543",
+    "geom:latitude":47.862227,
+    "geom:longitude":26.741849,
     "gn:admin1_code":"07",
     "gn:admin2_code":"39532.0",
     "gn:asciiname":"Valea Grajdului",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Grajdului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +44,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663749
+        "gn:id":663749,
+        "ro-ancpi:id":39596
     },
     "wof:country":"RO",
-    "wof:geomhash":"ce7d7949f78a0bedfe3c316bff883b00",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"633f51635de37c209e136d1fc1c53fc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +61,7 @@
         }
     ],
     "wof:id":1242572161,
-    "wof:lastmodified":1566611446,
+    "wof:lastmodified":1588367144,
     "wof:name":"Valea Grajdului",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.74573,
-    47.87646,
-    26.74573,
-    47.87646
+    26.740323,
+    47.86083,
+    26.743617,
+    47.863543
 ],
-  "geometry": {"coordinates":[26.74573,47.87646],"type":"Point"}
+  "geometry": {"coordinates":[[[26.743617,47.862306],[26.740973,47.86083],[26.740762,47.861261],[26.740323,47.861614],[26.741007,47.86286],[26.742381,47.863543],[26.743617,47.862306]]],"type":"Polygon"}
 }

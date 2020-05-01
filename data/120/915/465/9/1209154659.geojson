@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.55495,45.98241,21.55495,45.98241",
-    "geom:latitude":45.98241,
-    "geom:longitude":21.55495,
+    "geom:area":0.000021,
+    "geom:area_square_m":176551.340593,
+    "geom:bbox":"21.549266,45.98013,21.557779,45.983426",
+    "geom:latitude":45.981668,
+    "geom:longitude":21.553547,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156035",
     "gn:asciiname":"Altringen",
@@ -26,27 +26,40 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.53495,45.96241,21.57495,46.00241",
+    "lbl:latitude":45.98241,
+    "lbl:longitude":21.55495,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Altringen"
+    ],
     "name:und_x_variant":[
         "Rekeshely",
         "Kisr\u00e9kas",
         "Altringen"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686429
+        "gn:id":686429,
+        "ro-ancpi:id":156053
     },
     "wof:country":"RO",
-    "wof:geomhash":"1037bf50521875193b57ca6e06d60355",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9bfba0d0dc917811a064983b99f6fcfe",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":1209154659,
-    "wof:lastmodified":1566610321,
+    "wof:lastmodified":1588366734,
     "wof:name":"Altringen",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.55495,
-    45.98241,
-    21.55495,
-    45.98241
+    21.549266,
+    45.98013,
+    21.557779,
+    45.983426
 ],
-  "geometry": {"coordinates":[21.55495,45.98241],"type":"Point"}
+  "geometry": {"coordinates":[[[21.555676,45.983377],[21.55597,45.982092],[21.556514,45.982134],[21.557422,45.982185],[21.55757,45.98148],[21.557779,45.980332],[21.554883,45.98013],[21.554799,45.980574],[21.551108,45.980173],[21.551074,45.980678],[21.549335,45.980432],[21.549266,45.981621],[21.550316,45.981959],[21.550206,45.982659],[21.55146,45.982799],[21.551379,45.983426],[21.553762,45.983346],[21.554945,45.983367],[21.555676,45.983377]]],"type":"Polygon"}
 }

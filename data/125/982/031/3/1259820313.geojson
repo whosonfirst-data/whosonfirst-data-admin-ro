@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.88833,44.6866,23.88833,44.6866",
-    "geom:latitude":44.6866,
-    "geom:longitude":23.88833,
+    "geom:area":0.000023,
+    "geom:area_square_m":201037.337766,
+    "geom:bbox":"23.88083,44.684471,23.892632,44.688408",
+    "geom:latitude":44.686307,
+    "geom:longitude":23.886198,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174511.0",
     "gn:asciiname":"Lacustenii de Jos",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.86833,44.6666,23.90833,44.7066",
+    "lbl:latitude":44.6866,
+    "lbl:longitude":23.88833,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "L\u0103custenii de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Lacustenii de Jos"
+    ],
     "name:und_x_variant":[
         "Risipi\u0163i",
         "L\u0103custenii de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675090
+        "gn:id":675090,
+        "ro-ancpi:id":174398
     },
     "wof:country":"RO",
-    "wof:geomhash":"f257f6868be36d95afe6e881f7abcd35",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c529d1a8f34600cfbac434c92a2ba6d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1259820313,
-    "wof:lastmodified":1566611567,
-    "wof:name":"Lacustenii de Jos",
+    "wof:lastmodified":1588366854,
+    "wof:name":"L\u0103custenii de Jos",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":270,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.88833,
-    44.6866,
-    23.88833,
-    44.6866
+    23.88083,
+    44.684471,
+    23.892632,
+    44.688408
 ],
-  "geometry": {"coordinates":[23.88833,44.6866],"type":"Point"}
+  "geometry": {"coordinates":[[[23.88876,44.688245],[23.887439,44.68686],[23.892632,44.685712],[23.892138,44.684471],[23.891846,44.684514],[23.887779,44.685359],[23.883616,44.684876],[23.883701,44.685724],[23.88083,44.685768],[23.881579,44.688202],[23.883574,44.687689],[23.886033,44.687344],[23.887846,44.688408],[23.88876,44.688245]]],"type":"Polygon"}
 }

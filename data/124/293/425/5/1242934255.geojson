@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41244,44.69782,24.41244,44.69782",
-    "geom:latitude":44.69782,
-    "geom:longitude":24.41244,
+    "geom:area":0.000091,
+    "geom:area_square_m":796114.052087,
+    "geom:bbox":"24.408323,44.673767,24.413779,44.706507",
+    "geom:latitude":44.690636,
+    "geom:longitude":24.411144,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126503.0",
     "gn:asciiname":"Spataru",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Sp\u0103taru"
+    ],
+    "name:ron_x_variant":[
+        "Spataru"
+    ],
     "name:und_x_variant":[
         "Sp\u0103tarul",
         "Sp\u0103taru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666375
+        "gn:id":666375,
+        "ro-ancpi:id":126576
     },
     "wof:country":"RO",
-    "wof:geomhash":"67613373a151d7606762ed2d19c1eb4e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b4576e25bbb151ac8db787f95eca4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1242934255,
-    "wof:lastmodified":1566611457,
-    "wof:name":"Spataru",
+    "wof:lastmodified":1588367075,
+    "wof:name":"Sp\u0103taru",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":430,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41244,
-    44.69782,
-    24.41244,
-    44.69782
+    24.408323,
+    44.673767,
+    24.413779,
+    44.706507
 ],
-  "geometry": {"coordinates":[24.41244,44.69782],"type":"Point"}
+  "geometry": {"coordinates":[[[24.411804,44.70622],[24.410837,44.702437],[24.412235,44.702241],[24.411877,44.70121],[24.412452,44.694976],[24.412996,44.69336],[24.41296,44.689886],[24.413779,44.688],[24.413202,44.683107],[24.412593,44.681315],[24.412364,44.679256],[24.412535,44.675215],[24.412481,44.673767],[24.41053,44.674265],[24.409633,44.675509],[24.409936,44.676486],[24.410394,44.679159],[24.409932,44.682571],[24.410628,44.6842],[24.410669,44.688298],[24.409388,44.693778],[24.409338,44.698615],[24.408323,44.698649],[24.408574,44.701752],[24.408869,44.704281],[24.408832,44.705426],[24.409835,44.705312],[24.410465,44.706507],[24.411804,44.70622]]],"type":"Polygon"}
 }

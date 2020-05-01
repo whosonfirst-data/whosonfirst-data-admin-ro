@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.45622,46.03219,23.45622,46.03219",
-    "geom:latitude":46.03219,
-    "geom:longitude":23.45622,
+    "geom:area":0.000003,
+    "geom:area_square_m":26191.178339,
+    "geom:bbox":"23.452105,46.030582,23.456161,46.032166",
+    "geom:latitude":46.03147,
+    "geom:longitude":23.454117,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8826.0",
     "gn:asciiname":"Poienita",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Poieni\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Poienita"
+    ],
     "name:und_x_variant":[
         "Jidovina",
         "Poieni\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669987
+        "gn:id":669987,
+        "ro-ancpi:id":8951
     },
     "wof:country":"RO",
-    "wof:geomhash":"0937ffe7054203de11665357b0f59b86",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"97a131fd8d7362b8f0a4a8acf79c4ec5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1343472637,
-    "wof:lastmodified":1566609931,
-    "wof:name":"Poienita",
+    "wof:lastmodified":1588367081,
+    "wof:name":"Poieni\u0163a",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":48,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.45622,
-    46.03219,
-    23.45622,
-    46.03219
+    23.452105,
+    46.030582,
+    23.456161,
+    46.032166
 ],
-  "geometry": {"coordinates":[23.45622,46.03219],"type":"Point"}
+  "geometry": {"coordinates":[[[23.452429,46.032166],[23.452544,46.032079],[23.452738,46.032008],[23.452957,46.031965],[23.45324,46.031952],[23.453436,46.031875],[23.453683,46.031782],[23.453955,46.031739],[23.454313,46.031721],[23.45474,46.031819],[23.455482,46.032004],[23.456055,46.032071],[23.456161,46.03182],[23.455913,46.031711],[23.456066,46.031441],[23.454183,46.030928],[23.45421,46.030652],[23.453829,46.030582],[23.453066,46.031139],[23.452105,46.031701],[23.45233,46.031925],[23.452429,46.032166]]],"type":"Polygon"}
 }

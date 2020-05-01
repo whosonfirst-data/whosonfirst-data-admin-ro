@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.52311,44.62933,24.52311,44.62933",
-    "geom:latitude":44.62933,
-    "geom:longitude":24.52311,
+    "geom:area":0.000024,
+    "geom:area_square_m":207150.445818,
+    "geom:bbox":"24.512585,44.623144,24.521457,44.630859",
+    "geom:latitude":44.627023,
+    "geom:longitude":24.516766,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128711.0",
     "gn:asciiname":"Rusciori",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rusciori"
@@ -46,7 +46,10 @@
     "name:und_x_variant":[
         "Rusceori"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668414
+        "gn:id":668414,
+        "ro-ancpi:id":128837
     },
     "wof:country":"RO",
-    "wof:geomhash":"c1302ad822965075a08e03e5d493f720",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c8ddbe86d481a6e5d80fd5b5e7bd044",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":1243122961,
-    "wof:lastmodified":1566611468,
+    "wof:lastmodified":1588367084,
     "wof:name":"Rusciori",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -80,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.52311,
-    44.62933,
-    24.52311,
-    44.62933
+    24.512585,
+    44.623144,
+    24.521457,
+    44.630859
 ],
-  "geometry": {"coordinates":[24.52311,44.62933],"type":"Point"}
+  "geometry": {"coordinates":[[[24.521457,44.623843],[24.519886,44.623144],[24.517052,44.624811],[24.51697,44.624889],[24.514341,44.627393],[24.512585,44.629952],[24.515157,44.630859],[24.51891,44.626361],[24.521457,44.623843]]],"type":"Polygon"}
 }

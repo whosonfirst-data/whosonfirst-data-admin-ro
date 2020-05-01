@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.03091,45.7108,21.03091,45.7108",
-    "geom:latitude":45.7108,
-    "geom:longitude":21.03091,
+    "geom:area":0.000129,
+    "geom:area_square_m":1117665.698634,
+    "geom:bbox":"21.019925,45.707619,21.042128,45.715611",
+    "geom:latitude":45.711178,
+    "geom:longitude":21.030576,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158699.0",
     "gn:asciiname":"Sanmihaiu German",
@@ -26,11 +26,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.01091,45.6908,21.05091,45.7308",
+    "lbl:latitude":45.7108,
+    "lbl:longitude":21.03091,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u00e2nmihaiu German"
+    ],
+    "name:ron_x_variant":[
+        "Sanmihaiu German"
+    ],
     "name:und_x_variant":[
         "B\u00e9gaszentmih\u00e1ly",
         "S\u00e2nmihaiul-German",
@@ -40,7 +48,11 @@
         "Ol\u00e1h-Szent-Mih\u00e1ly",
         "S\u00e2nmihaiu German"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666982
+        "gn:id":666982,
+        "ro-ancpi:id":158715
     },
     "wof:country":"RO",
-    "wof:geomhash":"7d0c75a8442cba20eb1880cf157a8a7e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c478d8fa429ae34bb6d035ef2dc503a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,8 +78,8 @@
         }
     ],
     "wof:id":1327074369,
-    "wof:lastmodified":1566609765,
-    "wof:name":"Sanmihaiu German",
+    "wof:lastmodified":1588366622,
+    "wof:name":"S\u00e2nmihaiu German",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":658,
@@ -74,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.03091,
-    45.7108,
-    21.03091,
-    45.7108
+    21.019925,
+    45.707619,
+    21.042128,
+    45.715611
 ],
-  "geometry": {"coordinates":[21.03091,45.7108],"type":"Point"}
+  "geometry": {"coordinates":[[[21.030937,45.714402],[21.032628,45.714045],[21.036308,45.71393],[21.037851,45.713882],[21.038458,45.71386],[21.038931,45.713848],[21.039148,45.713845],[21.039241,45.715091],[21.042128,45.714626],[21.042029,45.712672],[21.040549,45.71273],[21.040181,45.710217],[21.039985,45.709518],[21.039801,45.709064],[21.038353,45.70911],[21.038181,45.707619],[21.032325,45.707714],[21.030265,45.707753],[21.029771,45.707772],[21.025869,45.707819],[21.021704,45.707894],[21.021316,45.707901],[21.02127,45.708557],[21.020375,45.708582],[21.019925,45.708594],[21.019997,45.709756],[21.020892,45.70972],[21.021352,45.709739],[21.021235,45.710563],[21.021008,45.710556],[21.020452,45.710565],[21.020214,45.710569],[21.020367,45.713306],[21.020766,45.713192],[21.020924,45.713766],[21.021156,45.713823],[21.021243,45.714281],[21.021666,45.714265],[21.023562,45.714209],[21.025527,45.714178],[21.026838,45.714147],[21.027755,45.714141],[21.028629,45.714111],[21.029388,45.715496],[21.030852,45.715611],[21.030937,45.714402]]],"type":"Polygon"}
 }

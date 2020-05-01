@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.25338,45.68827,24.25338,45.68827",
-    "geom:latitude":45.68827,
-    "geom:longitude":24.25338,
+    "geom:area":0.000007,
+    "geom:area_square_m":64126.441727,
+    "geom:bbox":"24.2519,45.686884,24.256221,45.690325",
+    "geom:latitude":45.688703,
+    "geom:longitude":24.254194,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145827.0",
     "gn:asciiname":"Colonia Talmaciu",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.23338,45.66827,24.27338,45.70827",
+    "lbl:latitude":45.68827,
+    "lbl:longitude":24.25338,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Colonia T\u0103lmaciu"
+    ],
+    "name:ron_x_variant":[
+        "Colonia Talmaciu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681066
+        "gn:id":681066,
+        "ro-ancpi:id":145854
     },
     "wof:country":"RO",
-    "wof:geomhash":"5ba2582347f31191008019025ae0f6c5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2aeec352ec14eee152a1b2a9707c86c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1193213591,
-    "wof:lastmodified":1566610460,
-    "wof:name":"Colonia Talmaciu",
+    "wof:lastmodified":1588366761,
+    "wof:name":"Colonia T\u0103lmaciu",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":197,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.25338,
-    45.68827,
-    24.25338,
-    45.68827
+    24.2519,
+    45.686884,
+    24.256221,
+    45.690325
 ],
-  "geometry": {"coordinates":[24.25338,45.68827],"type":"Point"}
+  "geometry": {"coordinates":[[[24.254988,45.689784],[24.256221,45.686884],[24.254818,45.686902],[24.254156,45.688199],[24.253118,45.687913],[24.2519,45.689645],[24.254431,45.690325],[24.254988,45.689784]]],"type":"Polygon"}
 }

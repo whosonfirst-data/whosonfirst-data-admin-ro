@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.7313,44.62683,22.7313,44.62683",
-    "geom:latitude":44.62683,
-    "geom:longitude":22.7313,
+    "geom:area":0.00005,
+    "geom:area_square_m":439893.177053,
+    "geom:bbox":"22.725275,44.621427,22.734519,44.631751",
+    "geom:latitude":44.626564,
+    "geom:longitude":22.72992,
     "gn:admin1_code":"26",
     "gn:admin2_code":"109826.0",
     "gn:asciiname":"Dedovita Noua",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.7113,44.60683,22.7513,44.64683",
+    "lbl:latitude":44.62683,
+    "lbl:longitude":22.7313,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dedovi\u0163a Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Dedovita Noua"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679559
+        "gn:id":679559,
+        "ro-ancpi:id":109853
     },
     "wof:country":"RO",
-    "wof:geomhash":"32a620663ebcd43c444ad04f53e8ea62",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eecd6f3e9bb926e678e554da5d48307f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1310062555,
-    "wof:lastmodified":1566610562,
-    "wof:name":"Dedovita Noua",
+    "wof:lastmodified":1588366780,
+    "wof:name":"Dedovi\u0163a Nou\u0103",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":421,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.7313,
-    44.62683,
-    22.7313,
-    44.62683
+    22.725275,
+    44.621427,
+    22.734519,
+    44.631751
 ],
-  "geometry": {"coordinates":[22.7313,44.62683],"type":"Point"}
+  "geometry": {"coordinates":[[[22.727279,44.621794],[22.726863,44.621917],[22.727115,44.62223],[22.725706,44.622533],[22.725275,44.622626],[22.729795,44.631751],[22.734519,44.630826],[22.730414,44.621772],[22.729753,44.621842],[22.729547,44.621572],[22.728712,44.621793],[22.728516,44.621427],[22.727279,44.621794]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.36388,44.97524,24.36388,44.97524",
-    "geom:latitude":44.97524,
-    "geom:longitude":24.36388,
+    "geom:area":0.000007,
+    "geom:area_square_m":61051.692407,
+    "geom:bbox":"24.349668,44.968219,24.355942,44.972021",
+    "geom:latitude":44.970134,
+    "geom:longitude":24.352664,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Valea Viei",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Viei"
@@ -42,7 +42,10 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0430 \u0412\u0438\u0435\u0458"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663317
+        "gn:id":663317,
+        "ro-ancpi:id":171799
     },
     "wof:country":"RO",
-    "wof:geomhash":"60885232dd7e59f4d207121a2e02aa89",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6193a0e822e7599d309edd10a7bfc883",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":1260115257,
-    "wof:lastmodified":1566610490,
+    "wof:lastmodified":1588367112,
     "wof:name":"Valea Viei",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36388,
-    44.97524,
-    24.36388,
-    44.97524
+    24.349668,
+    44.968219,
+    24.355942,
+    44.972021
 ],
-  "geometry": {"coordinates":[24.36388,44.97524],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.351352,44.972021],[24.353207,44.970871],[24.354779,44.970792],[24.355663,44.969844],[24.355942,44.969296],[24.355843,44.968969],[24.354487,44.968724],[24.354218,44.969446],[24.353455,44.970699],[24.352855,44.970628],[24.352096,44.970731],[24.351974,44.971105],[24.35009,44.971022],[24.350056,44.971917],[24.351352,44.972021]]],[[[24.350967,44.968387],[24.349668,44.968219],[24.349678,44.969481],[24.351005,44.969435],[24.350967,44.968387]]]],"type":"MultiPolygon"}
 }

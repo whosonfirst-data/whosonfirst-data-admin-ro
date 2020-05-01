@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.90081,44.47752,23.90081,44.47752",
-    "geom:latitude":44.47752,
-    "geom:longitude":23.90081,
+    "geom:area":0.000021,
+    "geom:area_square_m":187952.955574,
+    "geom:bbox":"23.898074,44.471719,23.905784,44.479418",
+    "geom:latitude":44.474827,
+    "geom:longitude":23.901535,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130124.0",
     "gn:asciiname":"Simniceni",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Simniceni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667100
+        "gn:id":667100,
+        "ro-ancpi:id":130204
     },
     "wof:country":"RO",
-    "wof:geomhash":"56beb8c1646a4ade92b09485bcadb88b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e40fb7d1b013f40d81fa55615a02f99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1360036091,
-    "wof:lastmodified":1566610642,
+    "wof:lastmodified":1588367151,
     "wof:name":"Simniceni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.90081,
-    44.47752,
-    23.90081,
-    44.47752
+    23.898074,
+    44.471719,
+    23.905784,
+    44.479418
 ],
-  "geometry": {"coordinates":[23.90081,44.47752],"type":"Point"}
+  "geometry": {"coordinates":[[[23.905784,44.473914],[23.904194,44.471719],[23.900767,44.47308],[23.90063,44.472851],[23.899118,44.473544],[23.900278,44.474621],[23.898291,44.476659],[23.898074,44.477847],[23.898993,44.479418],[23.900043,44.47878],[23.899041,44.478023],[23.899898,44.477534],[23.901075,44.476333],[23.902427,44.475327],[23.905784,44.473914]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08333,44.91667,24.08333,44.91667",
-    "geom:latitude":44.91667,
-    "geom:longitude":24.08333,
+    "geom:area":0.000035,
+    "geom:area_square_m":303713.610253,
+    "geom:bbox":"24.063945,44.903598,24.071965,44.914827",
+    "geom:latitude":44.909277,
+    "geom:longitude":24.068723,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2280,
@@ -19,11 +19,14 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:msa_x_preferred":[
         "Roe\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Roe\u015fti"
     ],
     "qs_pg:aaroncc":"RO",
     "qs_pg:gn_country":"RO",
@@ -36,7 +39,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":1027491,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -47,11 +53,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":668766,
-        "qs_pg:id":1027491
+        "qs_pg:id":1027491,
+        "ro-ancpi:id":172590
     },
     "wof:country":"RO",
     "wof:created":1497290225,
-    "wof:geomhash":"787e3347b992e435a3f3fac1fb5e6286",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"dda8a059a6c3fe9d374f219c1e2d293e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1125775095,
-    "wof:lastmodified":1566611411,
+    "wof:lastmodified":1588367016,
     "wof:name":"Roe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -73,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08333,
-    44.91667,
-    24.08333,
-    44.91667
+    24.063945,
+    44.903598,
+    24.071965,
+    44.914827
 ],
-  "geometry": {"coordinates":[24.08333,44.91667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.071965,44.914531],[24.071302,44.911395],[24.071016,44.906767],[24.067903,44.906584],[24.066566,44.905212],[24.066131,44.903878],[24.06495,44.903598],[24.063945,44.904479],[24.065013,44.906397],[24.065779,44.907604],[24.066487,44.907564],[24.067237,44.908371],[24.068534,44.910979],[24.068487,44.912345],[24.068942,44.914475],[24.069026,44.914827],[24.071965,44.914531]]],"type":"Polygon"}
 }

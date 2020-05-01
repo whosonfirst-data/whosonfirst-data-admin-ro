@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.60448,45.84901,24.60448,45.84901",
-    "geom:latitude":45.84901,
-    "geom:longitude":24.60448,
+    "geom:area":0.000054,
+    "geom:area_square_m":463485.320924,
+    "geom:bbox":"24.59511,45.844035,24.607843,45.853",
+    "geom:latitude":45.848808,
+    "geom:longitude":24.601868,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144456.0",
     "gn:asciiname":"Sasaus",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.58448,45.82901,24.62448,45.86901",
+    "lbl:latitude":45.84901,
+    "lbl:longitude":24.60448,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "S\u0103s\u0103u\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Sasaus"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667933
+        "gn:id":667933,
+        "ro-ancpi:id":144474
     },
     "wof:country":"RO",
-    "wof:geomhash":"61653ed88442b8ee12af11da0dd4c026",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"15ec265c19f8ec9d27c853af89ea8e27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1309854563,
-    "wof:lastmodified":1566611244,
-    "wof:name":"Sasaus",
+    "wof:lastmodified":1588367162,
+    "wof:name":"S\u0103s\u0103u\u015f",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":195,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.60448,
-    45.84901,
-    24.60448,
-    45.84901
+    24.59511,
+    45.844035,
+    24.607843,
+    45.853
 ],
-  "geometry": {"coordinates":[24.60448,45.84901],"type":"Point"}
+  "geometry": {"coordinates":[[[24.602581,45.852675],[24.604468,45.850955],[24.606827,45.851582],[24.607843,45.850492],[24.605842,45.849753],[24.605647,45.848651],[24.605355,45.847109],[24.604102,45.844206],[24.601817,45.844035],[24.601447,45.845306],[24.600952,45.846615],[24.600285,45.846895],[24.598229,45.8471],[24.595132,45.846983],[24.59511,45.847606],[24.596002,45.847668],[24.595945,45.848562],[24.597762,45.848769],[24.597656,45.84966],[24.599201,45.849891],[24.598742,45.852436],[24.600964,45.853],[24.602581,45.852675]]],"type":"Polygon"}
 }

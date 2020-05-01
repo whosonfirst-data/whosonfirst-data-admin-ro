@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.3846,45.14571,24.3846,45.14571",
-    "geom:latitude":45.14571,
-    "geom:longitude":24.3846,
+    "geom:area":0.000147,
+    "geom:area_square_m":1277809.831824,
+    "geom:bbox":"24.375733,45.133278,24.39131,45.151933",
+    "geom:latitude":45.141757,
+    "geom:longitude":24.382707,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168880.0",
     "gn:asciiname":"Olteni",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.3646,45.12571,24.4046,45.16571",
+    "lbl:latitude":45.14571,
+    "lbl:longitude":24.3846,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Olteni"
@@ -46,6 +48,9 @@
         "Olteni"
     ],
     "name:ron_x_preferred":[
+        "Olteni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Olteni"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +68,11 @@
     "name:zho_x_preferred":[
         "\u5967\u723e\u6cf0\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +81,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671842
+        "gn:id":671842,
+        "ro-ancpi:id":168899
     },
     "wof:country":"RO",
-    "wof:geomhash":"af056dfb50344da86fbf2889eadcc4fa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dcdb57dbeb0c61ec5f40dad6c4520309",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +98,7 @@
         }
     ],
     "wof:id":1259416625,
-    "wof:lastmodified":1566611561,
+    "wof:lastmodified":1588366852,
     "wof:name":"Olteni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -97,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.3846,
-    45.14571,
-    24.3846,
-    45.14571
+    24.375733,
+    45.133278,
+    24.39131,
+    45.151933
 ],
-  "geometry": {"coordinates":[24.3846,45.14571],"type":"Point"}
+  "geometry": {"coordinates":[[[24.389969,45.136854],[24.386467,45.135211],[24.386276,45.135925],[24.384681,45.136262],[24.381225,45.133278],[24.379164,45.134219],[24.379532,45.136992],[24.376619,45.143891],[24.376057,45.145055],[24.375733,45.146187],[24.375954,45.146806],[24.377135,45.147085],[24.378664,45.148341],[24.376336,45.149106],[24.37642,45.151213],[24.376712,45.151933],[24.378277,45.150944],[24.380905,45.149126],[24.383837,45.14689],[24.387945,45.143406],[24.389806,45.141164],[24.390739,45.139783],[24.39131,45.137881],[24.389969,45.136854]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.39473,46.74754,24.39473,46.74754",
-    "geom:latitude":46.74754,
-    "geom:longitude":24.39473,
+    "geom:area":0.000004,
+    "geom:area_square_m":38129.097314,
+    "geom:bbox":"24.390017,46.743182,24.392565,46.746017",
+    "geom:latitude":46.744666,
+    "geom:longitude":24.391338,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118995.0",
     "gn:asciiname":"Obarsie",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ob\u00e2r\u015fie"
+    ],
+    "name:ron_x_variant":[
+        "Obarsie"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672067
+        "gn:id":672067,
+        "ro-ancpi:id":119082
     },
     "wof:country":"RO",
-    "wof:geomhash":"16cd158cb0eb66452b8ee0a605783d0c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f5443a4b2b8a94d74c2596303009e7da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +64,8 @@
         }
     ],
     "wof:id":1242828623,
-    "wof:lastmodified":1566611506,
-    "wof:name":"Obarsie",
+    "wof:lastmodified":1588367016,
+    "wof:name":"Ob\u00e2r\u015fie",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.39473,
-    46.74754,
-    24.39473,
-    46.74754
+    24.390017,
+    46.743182,
+    24.392565,
+    46.746017
 ],
-  "geometry": {"coordinates":[24.39473,46.74754],"type":"Point"}
+  "geometry": {"coordinates":[[[24.392478,46.743753],[24.390974,46.743182],[24.390017,46.745787],[24.391363,46.746017],[24.392565,46.744681],[24.392478,46.743753]]],"type":"Polygon"}
 }

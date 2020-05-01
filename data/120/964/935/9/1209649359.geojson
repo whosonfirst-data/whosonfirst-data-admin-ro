@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.88798,44.87184,23.88798,44.87184",
-    "geom:latitude":44.87184,
-    "geom:longitude":23.88798,
+    "geom:area":0.000145,
+    "geom:area_square_m":1269108.013356,
+    "geom:bbox":"23.876509,44.852253,23.896331,44.877893",
+    "geom:latitude":44.868169,
+    "geom:longitude":23.887952,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172698.0",
     "gn:asciiname":"Pertesti",
@@ -25,22 +25,38 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.86798,44.85184,23.90798,44.89184",
+    "lbl:latitude":44.87184,
+    "lbl:longitude":23.88798,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Perte\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Pertesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671091
+        "gn:id":671091,
+        "ro-ancpi:id":172769
     },
     "wof:country":"RO",
-    "wof:geomhash":"75729ecc34f79bad4f62d797c89f639d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd5c26e873294b1e8a67a3479b7251cf",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +64,8 @@
         }
     ],
     "wof:id":1209649359,
-    "wof:lastmodified":1566610305,
-    "wof:name":"Pertesti",
+    "wof:lastmodified":1588366731,
+    "wof:name":"Perte\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":162,
@@ -60,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.88798,
-    44.87184,
-    23.88798,
-    44.87184
+    23.876509,
+    44.852253,
+    23.896331,
+    44.877893
 ],
-  "geometry": {"coordinates":[23.88798,44.87184],"type":"Point"}
+  "geometry": {"coordinates":[[[23.892943,44.870238],[23.893601,44.865938],[23.895375,44.860048],[23.895903,44.858833],[23.895245,44.857625],[23.89568,44.855992],[23.896331,44.852321],[23.89487,44.852253],[23.893731,44.85489],[23.889525,44.865791],[23.890611,44.869245],[23.883734,44.864626],[23.881393,44.86646],[23.886962,44.869865],[23.876641,44.870521],[23.876509,44.872529],[23.881624,44.87298],[23.881811,44.873193],[23.881947,44.873349],[23.882526,44.874009],[23.881323,44.877893],[23.889802,44.877791],[23.889667,44.875638],[23.886118,44.875155],[23.886385,44.874404],[23.888307,44.872881],[23.890125,44.871349],[23.891514,44.870735],[23.892943,44.870238]]],"type":"Polygon"}
 }

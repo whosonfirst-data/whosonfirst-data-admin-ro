@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.93909,44.44668,23.93909,44.44668",
-    "geom:latitude":44.44668,
-    "geom:longitude":23.93909,
+    "geom:area":0.000092,
+    "geom:area_square_m":811264.669728,
+    "geom:bbox":"23.93143,44.439813,23.9498,44.450995",
+    "geom:latitude":44.445306,
+    "geom:longitude":23.940708,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130124.0",
     "gn:asciiname":"Pescaresti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.91909,44.42668,23.95909,44.46668",
+    "lbl:latitude":44.44668,
+    "lbl:longitude":23.93909,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pesc\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Pescaresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671087
+        "gn:id":671087,
+        "ro-ancpi:id":130179
     },
     "wof:country":"RO",
-    "wof:geomhash":"b13c19c33003596a31d5bbdb01e247a7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4685767ae4b009b4a7670395b2ede25d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1193239469,
-    "wof:lastmodified":1566610427,
-    "wof:name":"Pescaresti",
+    "wof:lastmodified":1588366753,
+    "wof:name":"Pesc\u0103re\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":502,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.93909,
-    44.44668,
-    23.93909,
-    44.44668
+    23.93143,
+    44.439813,
+    23.9498,
+    44.450995
 ],
-  "geometry": {"coordinates":[23.93909,44.44668],"type":"Point"}
+  "geometry": {"coordinates":[[[23.931902,44.446984],[23.933222,44.447874],[23.93143,44.449179],[23.932496,44.449896],[23.934644,44.450995],[23.939773,44.446973],[23.941777,44.448473],[23.94645,44.446964],[23.9498,44.443568],[23.942709,44.439813],[23.933769,44.446075],[23.931902,44.446984]]],"type":"Polygon"}
 }

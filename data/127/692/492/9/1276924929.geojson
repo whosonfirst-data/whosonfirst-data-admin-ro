@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.55558,45.81517,24.55558,45.81517",
-    "geom:latitude":45.81517,
-    "geom:longitude":24.55558,
+    "geom:area":0.000017,
+    "geom:area_square_m":145942.064243,
+    "geom:bbox":"24.549889,45.813129,24.555726,45.818986",
+    "geom:latitude":45.816058,
+    "geom:longitude":24.552622,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144508.0",
     "gn:asciiname":"Poienita",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Poieni\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Poienita"
+    ],
     "name:und_x_variant":[
         "G\u0103inari",
         "Poieni\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669988
+        "gn:id":669988,
+        "ro-ancpi:id":144526
     },
     "wof:country":"RO",
-    "wof:geomhash":"76af9f8eb0cca61e3318e2b28e1c1265",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8c6904383abfee8e9427479aa1113e72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1276924929,
-    "wof:lastmodified":1566610204,
-    "wof:name":"Poienita",
+    "wof:lastmodified":1588367088,
+    "wof:name":"Poieni\u0163a",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":32,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.55558,
-    45.81517,
-    24.55558,
-    45.81517
+    24.549889,
+    45.813129,
+    24.555726,
+    45.818986
 ],
-  "geometry": {"coordinates":[24.55558,45.81517],"type":"Point"}
+  "geometry": {"coordinates":[[[24.555726,45.813857],[24.555066,45.813129],[24.551736,45.814058],[24.55118,45.814434],[24.551028,45.81641],[24.549889,45.818559],[24.552745,45.818986],[24.5546,45.815299],[24.554163,45.814895],[24.555726,45.813857]]],"type":"Polygon"}
 }

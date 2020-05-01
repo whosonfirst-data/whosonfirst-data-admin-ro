@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.02219,44.77634,24.02219,44.77634",
-    "geom:latitude":44.77634,
-    "geom:longitude":24.02219,
+    "geom:area":0.000036,
+    "geom:area_square_m":317187.355614,
+    "geom:bbox":"24.016137,44.771125,24.065943,44.7793",
+    "geom:latitude":44.775456,
+    "geom:longitude":24.02571,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171101.0",
     "gn:asciiname":"Zavoieni",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Z\u0103voieni"
+    ],
+    "name:ron_x_variant":[
+        "Zavoieni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662256
+        "gn:id":662256,
+        "ro-ancpi:id":171192
     },
     "wof:country":"RO",
-    "wof:geomhash":"78e7acd9c1bd80fa8f8b277f48d7f61a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b959adb3600a141e3feea28942eb2bf0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1276911317,
-    "wof:lastmodified":1566610261,
-    "wof:name":"Zavoieni",
+    "wof:lastmodified":1588367024,
+    "wof:name":"Z\u0103voieni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":292,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.02219,
-    44.77634000000001,
-    24.02219,
-    44.77634000000001
+    24.016137,
+    44.771125,
+    24.065943,
+    44.7793
 ],
-  "geometry": {"coordinates":[24.02219,44.77634000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.021135,44.774985],[24.021856,44.774736],[24.023848,44.775647],[24.027091,44.776696],[24.030526,44.777057],[24.03119,44.775914],[24.026763,44.774932],[24.022761,44.774233],[24.017545,44.771125],[24.016137,44.771776],[24.018082,44.773274],[24.019613,44.775967],[24.021205,44.7793],[24.024217,44.779224],[24.021135,44.774985]]],[[[24.065943,44.776491],[24.065875,44.774993],[24.064049,44.775143],[24.064234,44.776525],[24.064236,44.776543],[24.065943,44.776491]]]],"type":"MultiPolygon"}
 }

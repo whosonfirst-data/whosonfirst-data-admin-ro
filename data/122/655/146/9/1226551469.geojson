@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.72563,44.73848,24.72563,44.73848",
-    "geom:latitude":44.73848,
-    "geom:longitude":24.72563,
+    "geom:area":0.000081,
+    "geom:area_square_m":709545.995291,
+    "geom:bbox":"24.717002,44.730913,24.731446,44.746368",
+    "geom:latitude":44.73894,
+    "geom:longitude":24.724118,
     "gn:admin1_code":"03",
     "gn:admin2_code":"18581.0",
     "gn:asciiname":"Dealu Bradului",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.70563,44.71848,24.74563,44.75848",
+    "lbl:latitude":44.73848,
+    "lbl:longitude":24.72563,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dealu Bradului"
+    ],
     "name:und_x_variant":[
         "Dealul-Bradului",
         "Dealu Bradului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679665
+        "gn:id":679665,
+        "ro-ancpi:id":18616
     },
     "wof:country":"RO",
-    "wof:geomhash":"6d6844c1529e91ea1b86d3858581c3bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c26fe6398e11b77e2438535e49c0d926",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1226551469,
-    "wof:lastmodified":1566611691,
+    "wof:lastmodified":1588366885,
     "wof:name":"Dealu Bradului",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.72563,
-    44.73848,
-    24.72563,
-    44.73848
+    24.717002,
+    44.730913,
+    24.731446,
+    44.746368
 ],
-  "geometry": {"coordinates":[24.72563,44.73848],"type":"Point"}
+  "geometry": {"coordinates":[[[24.721346,44.743897],[24.72242,44.7427],[24.723359,44.74291],[24.725083,44.741345],[24.725442,44.740815],[24.726833,44.741026],[24.728007,44.739368],[24.727102,44.739066],[24.728242,44.737707],[24.730153,44.73755],[24.730899,44.737391],[24.731163,44.736215],[24.729643,44.735934],[24.729872,44.735242],[24.730682,44.73536],[24.730848,44.734677],[24.730985,44.73297],[24.731446,44.731356],[24.731027,44.730916],[24.729667,44.730913],[24.728238,44.731856],[24.727877,44.73287],[24.726996,44.734344],[24.726407,44.735474],[24.725529,44.736348],[24.723199,44.736019],[24.722514,44.737033],[24.721403,44.738899],[24.719516,44.738969],[24.718906,44.739547],[24.718054,44.740611],[24.717714,44.740861],[24.717002,44.74255],[24.717032,44.744139],[24.717317,44.746332],[24.718528,44.746368],[24.721346,44.743897]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.38595,47.27477,27.38595,47.27477",
-    "geom:latitude":47.27477,
-    "geom:longitude":27.38595,
+    "geom:area":0.000109,
+    "geom:area_square_m":916549.774435,
+    "geom:bbox":"27.37807,47.264137,27.391492,47.279231",
+    "geom:latitude":47.272149,
+    "geom:longitude":27.385471,
     "gn:admin1_code":"23",
     "gn:admin2_code":"98738.0",
     "gn:asciiname":"Ursoaia",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.36595,47.25477,27.40595,47.29477",
+    "lbl:latitude":47.27477,
+    "lbl:longitude":27.38595,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ursoaia"
@@ -49,7 +51,11 @@
     "name:und_x_variant":[
         "Ursoaei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664091
+        "gn:id":664091,
+        "ro-ancpi:id":98765
     },
     "wof:country":"RO",
-    "wof:geomhash":"439cccc97e3d4137d861ea2be311fcb3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0fcc36a41704548b91028dc402273501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1327392221,
-    "wof:lastmodified":1566609753,
+    "wof:lastmodified":1588366620,
     "wof:name":"Ursoaia",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.38595,
-    47.27477,
-    27.38595,
-    47.27477
+    27.37807,
+    47.264137,
+    27.391492,
+    47.279231
 ],
-  "geometry": {"coordinates":[27.38595,47.27477],"type":"Point"}
+  "geometry": {"coordinates":[[[27.385184,47.278623],[27.385995,47.277653],[27.387896,47.278685],[27.388767,47.278057],[27.388623,47.27792],[27.389556,47.277061],[27.388508,47.276363],[27.388984,47.275951],[27.387706,47.275341],[27.389521,47.2732],[27.390826,47.271922],[27.391116,47.27129],[27.391358,47.271004],[27.391321,47.270443],[27.391492,47.269543],[27.391452,47.268973],[27.390747,47.268704],[27.390975,47.268441],[27.388662,47.267483],[27.390876,47.265282],[27.388117,47.264137],[27.386983,47.265517],[27.386494,47.26534],[27.384948,47.26725],[27.383226,47.269116],[27.382563,47.268801],[27.381418,47.268394],[27.380552,47.269435],[27.380914,47.270152],[27.381496,47.271157],[27.379856,47.273116],[27.37874,47.272428],[27.378085,47.273143],[27.378397,47.273361],[27.37807,47.27439],[27.384525,47.279231],[27.385184,47.278623]]],"type":"Polygon"}
 }

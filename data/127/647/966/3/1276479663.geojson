@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35136,44.93325,24.35136,44.93325",
-    "geom:latitude":44.93325,
-    "geom:longitude":24.35136,
+    "geom:area":0.000094,
+    "geom:area_square_m":823969.663902,
+    "geom:bbox":"24.334757,44.923558,24.356415,44.93963",
+    "geom:latitude":44.931671,
+    "geom:longitude":24.345877,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173374.0",
     "gn:asciiname":"Malu",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.33136,44.91325,24.37136,44.95325",
+    "lbl:latitude":44.93325,
+    "lbl:longitude":24.35136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Malu"
@@ -46,10 +48,17 @@
     "name:new_x_preferred":[
         "\u092e\u093e\u0932\u0941"
     ],
+    "name:ron_x_preferred":[
+        "Malu"
+    ],
     "name:und_x_variant":[
         "Malul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673994
+        "gn:id":673994,
+        "ro-ancpi:id":173472
     },
     "wof:country":"RO",
-    "wof:geomhash":"c2185ddc7585c334e6374a9236363554",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29b3e5fd7ca8aff177147364baf50707",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +84,7 @@
         }
     ],
     "wof:id":1276479663,
-    "wof:lastmodified":1566610230,
+    "wof:lastmodified":1588366716,
     "wof:name":"Malu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -83,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35136,
-    44.93325,
-    24.35136,
-    44.93325
+    24.334757,
+    44.923558,
+    24.356415,
+    44.93963
 ],
-  "geometry": {"coordinates":[24.35136,44.93325],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.339476,44.923558],[24.337943,44.925604],[24.339426,44.9278],[24.334757,44.929336],[24.33961,44.933696],[24.342647,44.932017],[24.348589,44.934641],[24.35633,44.933927],[24.356415,44.931962],[24.353724,44.930875],[24.347119,44.931284],[24.343989,44.930105],[24.341646,44.926161],[24.339476,44.923558]]],[[[24.353021,44.935481],[24.350331,44.935359],[24.350351,44.935784],[24.351717,44.936182],[24.354096,44.93963],[24.356371,44.939112],[24.355947,44.936861],[24.353021,44.935481]]]],"type":"MultiPolygon"}
 }

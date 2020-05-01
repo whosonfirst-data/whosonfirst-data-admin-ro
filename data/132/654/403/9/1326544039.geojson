@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.79958,46.48639,22.79958,46.48639",
-    "geom:latitude":46.48639,
-    "geom:longitude":22.79958,
+    "geom:area":0.000007,
+    "geom:area_square_m":56400.040618,
+    "geom:bbox":"22.807394,46.482165,22.810683,46.485491",
+    "geom:latitude":46.484181,
+    "geom:longitude":22.809216,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4525.0",
     "gn:asciiname":"Plisti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pli\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Plisti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670479
+        "gn:id":670479,
+        "ro-ancpi:id":4669
     },
     "wof:country":"RO",
-    "wof:geomhash":"6257d499bb09a9a2041e0a53ae335428",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7508a027ab2728db2ed044783d80d2e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1326544039,
-    "wof:lastmodified":1566609854,
-    "wof:name":"Plisti",
+    "wof:lastmodified":1588367106,
+    "wof:name":"Pli\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":38,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.79958,
-    46.48639,
-    22.79958,
-    46.48639
+    22.807394,
+    46.482165,
+    22.810683,
+    46.485491
 ],
-  "geometry": {"coordinates":[22.79958,46.48639],"type":"Point"}
+  "geometry": {"coordinates":[[[22.810001,46.485491],[22.810476,46.485135],[22.810683,46.483998],[22.810347,46.483294],[22.809221,46.482165],[22.808523,46.483162],[22.808872,46.483662],[22.808514,46.483903],[22.807654,46.483764],[22.807394,46.484378],[22.808237,46.48548],[22.810001,46.485491]]],"type":"Polygon"}
 }

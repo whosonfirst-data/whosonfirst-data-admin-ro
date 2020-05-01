@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.16654,47.88863,27.16654,47.88863",
-    "geom:latitude":47.88863,
-    "geom:longitude":27.16654,
+    "geom:area":0.000016,
+    "geom:area_square_m":134146.210355,
+    "geom:bbox":"27.170529,47.863433,27.177151,47.867972",
+    "geom:latitude":47.86575,
+    "geom:longitude":27.174432,
     "gn:admin1_code":"07",
     "gn:admin2_code":"38731.0",
     "gn:asciiname":"Rasca",
@@ -28,12 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rasca"
     ],
     "name:deu_x_preferred":[
+        "Rasca"
+    ],
+    "name:ron_x_preferred":[
+        "R\u00e2\u015fca"
+    ],
+    "name:ron_x_variant":[
         "Rasca"
     ],
     "name:slk_x_preferred":[
@@ -45,7 +51,10 @@
     "name:und_x_variant":[
         "R\u00ee\u015fca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -53,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668839
+        "gn:id":668839,
+        "ro-ancpi:id":38802
     },
     "wof:country":"RO",
-    "wof:geomhash":"340f8da822503b97281aac907793103d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8cbd6d9a766441acfe427bac7ca512ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,8 +79,8 @@
         }
     ],
     "wof:id":1360006957,
-    "wof:lastmodified":1566610619,
-    "wof:name":"Rasca",
+    "wof:lastmodified":1588367144,
+    "wof:name":"R\u00e2\u015fca",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -76,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.16654,
-    47.88863,
-    27.16654,
-    47.88863
+    27.170529,
+    47.863433,
+    27.177151,
+    47.867972
 ],
-  "geometry": {"coordinates":[27.16654,47.88863],"type":"Point"}
+  "geometry": {"coordinates":[[[27.175745,47.864201],[27.175005,47.863433],[27.172291,47.864633],[27.170529,47.866062],[27.177001,47.867972],[27.17705,47.86778],[27.17711,47.867433],[27.177131,47.867229],[27.177141,47.867037],[27.177151,47.866863],[27.177137,47.866642],[27.177096,47.866376],[27.177017,47.866121],[27.176956,47.865905],[27.176841,47.865634],[27.176728,47.865412],[27.176547,47.865107],[27.176121,47.86461],[27.175745,47.864201]]],"type":"Polygon"}
 }

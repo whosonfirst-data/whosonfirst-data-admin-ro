@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.43928,44.31,23.43928,44.31",
-    "geom:latitude":44.31,
-    "geom:longitude":23.43928,
+    "geom:area":0.000031,
+    "geom:area_square_m":270142.302014,
+    "geom:bbox":"23.433645,44.307129,23.442205,44.312116",
+    "geom:latitude":44.309723,
+    "geom:longitude":23.43776,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74359.0",
     "gn:asciiname":"Floran",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.41928,44.29,23.45928,44.33",
+    "lbl:latitude":44.31,
+    "lbl:longitude":23.43928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Floran"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678074
+        "gn:id":678074,
+        "ro-ancpi:id":74395
     },
     "wof:country":"RO",
-    "wof:geomhash":"586b2fdbe5b457acf82dd1cf253717f2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fe45c231cfbbbaea7676588f57185694",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1209992803,
-    "wof:lastmodified":1566610307,
+    "wof:lastmodified":1588366732,
     "wof:name":"Floran",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.43928,
-    44.31,
-    23.43928,
-    44.31
+    23.433645,
+    44.307129,
+    23.442205,
+    44.312116
 ],
-  "geometry": {"coordinates":[23.43928,44.31],"type":"Point"}
+  "geometry": {"coordinates":[[[23.441597,44.310578],[23.441519,44.310116],[23.442205,44.310035],[23.44215,44.3079],[23.44202,44.307753],[23.441696,44.307598],[23.441413,44.307461],[23.440902,44.307375],[23.440409,44.307278],[23.440084,44.307129],[23.438925,44.307139],[23.439221,44.310174],[23.437279,44.310194],[23.437125,44.308676],[23.436864,44.308682],[23.436562,44.307322],[23.433645,44.3073],[23.43407,44.308915],[23.4337,44.309008],[23.434101,44.310941],[23.434003,44.31095],[23.433819,44.310972],[23.433796,44.310974],[23.434165,44.312116],[23.435773,44.312072],[23.438858,44.311873],[23.440165,44.311759],[23.440936,44.31175],[23.440947,44.311056],[23.441689,44.31097],[23.441597,44.310578]]],"type":"Polygon"}
 }

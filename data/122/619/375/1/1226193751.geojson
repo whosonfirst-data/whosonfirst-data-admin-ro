@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.44577,46.74718,27.44577,46.74718",
-    "geom:latitude":46.74718,
-    "geom:longitude":27.44577,
+    "geom:area":0.000018,
+    "geom:area_square_m":149949.977432,
+    "geom:bbox":"27.441743,46.745,27.449942,46.750608",
+    "geom:latitude":46.747964,
+    "geom:longitude":27.445292,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165130",
     "gn:asciiname":"Valcele",
@@ -28,12 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "V\u00e2lcele"
+    ],
+    "name:ron_x_variant":[
+        "Valcele"
+    ],
     "name:und_x_variant":[
         "V\u00eelcele"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11002927
+        "gn:id":11002927,
+        "ro-ancpi:id":165176
     },
     "wof:country":"RO",
-    "wof:geomhash":"e53eb6f1237acc23eb6d4002cd611f8a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6925a6810c9317100180b3fb718a9108",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1226193751,
-    "wof:lastmodified":1566611619,
-    "wof:name":"Valcele",
+    "wof:lastmodified":1588367092,
+    "wof:name":"V\u00e2lcele",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":70,
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.44577,
-    46.74718,
-    27.44577,
-    46.74718
+    27.441743,
+    46.745,
+    27.449942,
+    46.750608
 ],
-  "geometry": {"coordinates":[27.44577,46.74718],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.444431,46.747451],[27.442654,46.746083],[27.442523,46.746108],[27.441743,46.746961],[27.443535,46.749906],[27.443837,46.750608],[27.446816,46.74981],[27.445924,46.748917],[27.444431,46.747451]]],[[[27.44569,46.745235],[27.445399,46.745],[27.44421,46.745485],[27.445338,46.746715],[27.447098,46.748221],[27.448754,46.749369],[27.449942,46.748966],[27.44569,46.745235]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.34643,45.80544,23.34643,45.80544",
-    "geom:latitude":45.80544,
-    "geom:longitude":23.34643,
+    "geom:area":0.000006,
+    "geom:area_square_m":54193.977636,
+    "geom:bbox":"23.342531,45.802393,23.346648,45.806177",
+    "geom:latitude":45.804317,
+    "geom:longitude":23.344536,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1696.0",
     "gn:asciiname":"Feteni",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Fe\u0163eni"
+    ],
+    "name:ron_x_variant":[
+        "Feteni"
+    ],
     "name:und_x_variant":[
         "Fe\u0163ele",
         "Fe\u0163eni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678307
+        "gn:id":678307,
+        "ro-ancpi:id":1749
     },
     "wof:country":"RO",
-    "wof:geomhash":"dbbf951500ae3983e5278b7981baf28e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"526c302d0b5e828d3b513f903e84977b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1326547669,
-    "wof:lastmodified":1566609854,
-    "wof:name":"Feteni",
+    "wof:lastmodified":1588367035,
+    "wof:name":"Fe\u0163eni",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":119,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.34643,
-    45.80544,
-    23.34643,
-    45.80544
+    23.342531,
+    45.802393,
+    23.346648,
+    45.806177
 ],
-  "geometry": {"coordinates":[23.34643,45.80544],"type":"Point"}
+  "geometry": {"coordinates":[[[23.345509,45.805948],[23.345404,45.805643],[23.345085,45.805209],[23.345452,45.805025],[23.345201,45.804777],[23.344394,45.805169],[23.34407,45.804899],[23.344748,45.804395],[23.345092,45.803954],[23.345882,45.804361],[23.346648,45.803905],[23.346351,45.80373],[23.345992,45.803583],[23.345829,45.803277],[23.344735,45.802393],[23.34413,45.802679],[23.344381,45.803538],[23.342531,45.803913],[23.342738,45.804243],[23.343233,45.8045],[23.343758,45.805687],[23.343617,45.806177],[23.344481,45.806097],[23.345509,45.805948]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38305,45.12056,24.38305,45.12056",
-    "geom:latitude":45.12056,
-    "geom:longitude":24.38305,
+    "geom:area":0.000159,
+    "geom:area_square_m":1388972.782548,
+    "geom:bbox":"24.377365,45.112838,24.40441,45.124298",
+    "geom:latitude":45.11886,
+    "geom:longitude":24.39041,
     "gn:admin1_code":"39",
     "gn:admin2_code":"167473.0",
     "gn:asciiname":"Lespezi",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.36305,45.10056,24.40305,45.14056",
+    "lbl:latitude":45.12056,
+    "lbl:longitude":24.38305,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u0628\u064a\u0632\u064a"
@@ -56,6 +58,9 @@
         "Lespezi"
     ],
     "name:ron_x_preferred":[
+        "Lespezi"
+    ],
+    "name:ron_x_variant":[
         "Comuna Lespezi"
     ],
     "name:srp_x_preferred":[
@@ -76,7 +81,11 @@
     "name:zho_x_preferred":[
         "\u840a\u65af\u4f69\u6fdf\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,10 +94,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674849
+        "gn:id":674849,
+        "ro-ancpi:id":167614
     },
     "wof:country":"RO",
-    "wof:geomhash":"c3cc6345a43b700516b5ee6a3b6ed2cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9261137c18694efc02565983b9987bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +111,7 @@
         }
     ],
     "wof:id":1343798053,
-    "wof:lastmodified":1566609913,
+    "wof:lastmodified":1588366654,
     "wof:name":"Lespezi",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -110,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38305,
-    45.12056,
-    24.38305,
-    45.12056
+    24.377365,
+    45.112838,
+    24.40441,
+    45.124298
 ],
-  "geometry": {"coordinates":[24.38305,45.12056],"type":"Point"}
+  "geometry": {"coordinates":[[[24.40441,45.114545],[24.399179,45.113964],[24.396683,45.114106],[24.396609,45.113611],[24.394621,45.112838],[24.393489,45.114216],[24.392707,45.114594],[24.390238,45.115951],[24.388756,45.116409],[24.3871,45.116415],[24.385107,45.116135],[24.383095,45.115813],[24.377365,45.120852],[24.378876,45.121786],[24.380036,45.122866],[24.381833,45.123969],[24.383533,45.124298],[24.38575,45.123557],[24.386812,45.123732],[24.388851,45.122161],[24.390314,45.122263],[24.390922,45.122605],[24.391275,45.121948],[24.394229,45.121982],[24.395426,45.12197],[24.395441,45.123082],[24.397436,45.123168],[24.3985,45.120743],[24.400426,45.117268],[24.40441,45.114545]]],"type":"Polygon"}
 }

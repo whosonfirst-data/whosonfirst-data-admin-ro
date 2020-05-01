@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.14595,46.34828,23.14595,46.34828",
-    "geom:latitude":46.34828,
-    "geom:longitude":23.14595,
+    "geom:area":0.000016,
+    "geom:area_square_m":139351.813336,
+    "geom:bbox":"23.14142,46.340772,23.147281,46.345671",
+    "geom:latitude":46.343309,
+    "geom:longitude":23.144157,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039.0",
     "gn:asciiname":"Perjesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Perje\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Perjesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671100
+        "gn:id":671100,
+        "ro-ancpi:id":3253
     },
     "wof:country":"RO",
-    "wof:geomhash":"d3903ecc0667d6b0233d219707b8b8e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"912b442ad6179b93f2896cf566543b49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1259492953,
-    "wof:lastmodified":1566611566,
-    "wof:name":"Perjesti",
+    "wof:lastmodified":1588367089,
+    "wof:name":"Perje\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":21,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.14595,
-    46.34828,
-    23.14595,
-    46.34828
+    23.14142,
+    46.340772,
+    23.147281,
+    46.345671
 ],
-  "geometry": {"coordinates":[23.14595,46.34828],"type":"Point"}
+  "geometry": {"coordinates":[[[23.144319,46.345671],[23.144413,46.344578],[23.147281,46.343757],[23.147181,46.343212],[23.146203,46.342637],[23.14601,46.341319],[23.144699,46.340772],[23.143515,46.341394],[23.14142,46.343678],[23.142131,46.34512],[23.142092,46.34558],[23.144319,46.345671]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.88333,47.3,23.88333,47.3",
-    "geom:latitude":47.3,
-    "geom:longitude":23.88333,
+    "geom:area":0.000017,
+    "geom:area_square_m":138872.170351,
+    "geom:bbox":"23.896287,47.277725,23.918808,47.284192",
+    "geom:latitude":47.281345,
+    "geom:longitude":23.904802,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":2720,
@@ -40,6 +40,9 @@
     "name:ron_x_preferred":[
         "Dosu Bricii"
     ],
+    "name:ron_x_variant":[
+        "Dosu Biricii"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u0441\u0443 \u0411\u0438\u0440\u0438\u0447\u0438"
     ],
@@ -57,7 +60,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":1027957,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -69,11 +75,15 @@
     "wof:concordances":{
         "gn:id":679046,
         "qs_pg:id":1027957,
+        "ro-ancpi:id":57109,
         "wd:id":"Q8085102"
     },
     "wof:country":"RO",
     "wof:created":1497295353,
-    "wof:geomhash":"4a8d268c55a458551d3d9369626aaf4e",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"b5dd02e6517008d8bb29ef2dbfe2d016",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,8 +93,8 @@
         }
     ],
     "wof:id":1125891739,
-    "wof:lastmodified":1566611324,
-    "wof:name":"Dosu Biricii",
+    "wof:lastmodified":1588367149,
+    "wof:name":"Dosu Bricii",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":7,
@@ -95,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.88333,
-    47.3,
-    23.88333,
-    47.3
+    23.896287,
+    47.277725,
+    23.918808,
+    47.284192
 ],
-  "geometry": {"coordinates":[23.88333,47.3],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.898478,47.280674],[23.898886,47.279795],[23.899868,47.279921],[23.901269,47.279496],[23.901373,47.278925],[23.898589,47.278916],[23.897247,47.277725],[23.896287,47.27843],[23.896766,47.278747],[23.897154,47.279707],[23.896491,47.281867],[23.897348,47.282116],[23.897557,47.282715],[23.899541,47.282516],[23.898864,47.281488],[23.8982,47.281414],[23.898478,47.280674]]],[[[23.918808,47.282324],[23.917166,47.281899],[23.916139,47.282779],[23.915351,47.283072],[23.913181,47.283441],[23.91321,47.284119],[23.914109,47.284192],[23.917183,47.284045],[23.917992,47.282783],[23.918808,47.282324]]]],"type":"MultiPolygon"}
 }

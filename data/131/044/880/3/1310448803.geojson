@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.4,43.81667,24.4,43.81667",
-    "geom:latitude":43.81667,
-    "geom:longitude":24.4,
+    "geom:area":0.000125,
+    "geom:area_square_m":1115582.133284,
+    "geom:bbox":"24.40147,43.802043,24.419263,43.812244",
+    "geom:latitude":43.8068,
+    "geom:longitude":24.408295,
     "gn:admin1_code":"29",
     "gn:admin2_code":"125542.0",
     "gn:asciiname":"Vartopu",
@@ -28,12 +28,21 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "V\u00e2rtopu"
+    ],
+    "name:ron_x_variant":[
+        "Vartopu"
+    ],
     "name:und_x_variant":[
         "V\u00eertopu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662728
+        "gn:id":662728,
+        "ro-ancpi:id":125579
     },
     "wof:country":"RO",
-    "wof:geomhash":"0ac5de71a567b4ba4a579d67a4bf2b7d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0f670b35e45413aaa46e3dbb660f7989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1310448803,
-    "wof:lastmodified":1566610574,
-    "wof:name":"Vartopu",
+    "wof:lastmodified":1588367026,
+    "wof:name":"V\u00e2rtopu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":425,
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.4,
-    43.81667,
-    24.4,
-    43.81667
+    24.40147,
+    43.802043,
+    24.419263,
+    43.812244
 ],
-  "geometry": {"coordinates":[24.4,43.81667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.419211,43.808283],[24.419263,43.806961],[24.415646,43.807223],[24.415115,43.802043],[24.40147,43.802421],[24.401876,43.812244],[24.411011,43.812095],[24.411125,43.80855],[24.412797,43.808447],[24.419211,43.808283]]],"type":"Polygon"}
 }

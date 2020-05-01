@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.57294,44.36628,24.57294,44.36628",
-    "geom:latitude":44.36628,
-    "geom:longitude":24.57294,
+    "geom:area":0.000052,
+    "geom:area_square_m":460909.58254,
+    "geom:bbox":"24.56861,44.358319,24.575237,44.372253",
+    "geom:latitude":44.365215,
+    "geom:longitude":24.571487,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128659.0",
     "gn:asciiname":"Mosteni",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.55294,44.34628,24.59294,44.38628",
+    "lbl:latitude":44.36628,
+    "lbl:longitude":24.57294,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mo\u015fteni"
+    ],
+    "name:ron_x_variant":[
+        "Mosteni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672801
+        "gn:id":672801,
+        "ro-ancpi:id":128702
     },
     "wof:country":"RO",
-    "wof:geomhash":"bf6cc398f271eb270a21b96dbecbf582",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6c6cde87a36402ff4c7683d6f17d3b38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1326791741,
-    "wof:lastmodified":1566609831,
-    "wof:name":"Mosteni",
+    "wof:lastmodified":1588366638,
+    "wof:name":"Mo\u015fteni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":347,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.57294,
-    44.36628,
-    24.57294,
-    44.36628
+    24.56861,
+    44.358319,
+    24.575237,
+    44.372253
 ],
-  "geometry": {"coordinates":[24.57294,44.36628],"type":"Point"}
+  "geometry": {"coordinates":[[[24.573102,44.358319],[24.571383,44.358831],[24.569798,44.359293],[24.570274,44.363164],[24.568629,44.367355],[24.56861,44.367902],[24.56905,44.370963],[24.568751,44.372129],[24.571228,44.372253],[24.571974,44.370004],[24.572982,44.366688],[24.575237,44.366128],[24.57412,44.36323],[24.573959,44.362173],[24.573728,44.361226],[24.573623,44.360199],[24.573435,44.359142],[24.573102,44.358319]]],"type":"Polygon"}
 }

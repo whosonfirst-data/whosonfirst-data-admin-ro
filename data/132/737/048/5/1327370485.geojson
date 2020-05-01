@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29783,44.94619,24.29783,44.94619",
-    "geom:latitude":44.94619,
-    "geom:longitude":24.29783,
+    "geom:area":0.000118,
+    "geom:area_square_m":1033501.237029,
+    "geom:bbox":"24.279026,44.940039,24.33232,44.954697",
+    "geom:latitude":44.947484,
+    "geom:longitude":24.303284,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169994.0",
     "gn:asciiname":"Cocoru",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.27783,44.92619,24.31783,44.96619",
+    "lbl:latitude":44.94619,
+    "lbl:longitude":24.29783,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cocoru"
+    ],
     "name:und_x_variant":[
         "Cocorul",
         "Cocoru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681193
+        "gn:id":681193,
+        "ro-ancpi:id":170033
     },
     "wof:country":"RO",
-    "wof:geomhash":"2e927b9813be9918bfc387f9e6da6282",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c710e8fe375a9dc6b8aafa4003a60f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1327370485,
-    "wof:lastmodified":1566609758,
+    "wof:lastmodified":1588366621,
     "wof:name":"Cocoru",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29783,
-    44.94619,
-    24.29783,
-    44.94619
+    24.279026,
+    44.940039,
+    24.33232,
+    44.954697
 ],
-  "geometry": {"coordinates":[24.29783,44.94619],"type":"Point"}
+  "geometry": {"coordinates":[[[24.33232,44.953033],[24.298835,44.945206],[24.283143,44.941365],[24.2834,44.940638],[24.280012,44.940039],[24.279026,44.942469],[24.280932,44.942808],[24.293796,44.946506],[24.291693,44.947825],[24.292991,44.948712],[24.294736,44.947768],[24.29675,44.95077],[24.298739,44.950129],[24.296274,44.946371],[24.298814,44.946939],[24.319554,44.951914],[24.330929,44.954697],[24.33232,44.953033]]],"type":"Polygon"}
 }

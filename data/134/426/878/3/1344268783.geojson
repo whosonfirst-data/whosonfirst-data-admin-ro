@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.08328,44.83615,25.08328,44.83615",
-    "geom:latitude":44.83615,
-    "geom:longitude":25.08328,
+    "geom:area":0.000027,
+    "geom:area_square_m":233401.230684,
+    "geom:bbox":"25.080067,44.832587,25.088398,44.840892",
+    "geom:latitude":44.837229,
+    "geom:longitude":25.083152,
     "gn:admin1_code":"03",
     "gn:admin2_code":"13757.0",
     "gn:asciiname":"Tiganesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.06328,44.81615,25.10328,44.85615",
+    "lbl:latitude":44.83615,
+    "lbl:longitude":25.08328,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u0162ig\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Tiganesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665138
+        "gn:id":665138,
+        "ro-ancpi:id":13800
     },
     "wof:country":"RO",
-    "wof:geomhash":"f1534814fddcf42ff751faeb16b440a9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d6c9cc78ad5584248fc25ac0b55c00c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1344268783,
-    "wof:lastmodified":1566609958,
-    "wof:name":"Tiganesti",
+    "wof:lastmodified":1588366663,
+    "wof:name":"\u0162ig\u0103ne\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":375,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.08328,
-    44.83615,
-    25.08328,
-    44.83615
+    25.080067,
+    44.832587,
+    25.088398,
+    44.840892
 ],
-  "geometry": {"coordinates":[25.08328,44.83615],"type":"Point"}
+  "geometry": {"coordinates":[[[25.088398,44.840114],[25.088113,44.839326],[25.087811,44.838826],[25.084997,44.839325],[25.083968,44.837025],[25.083195,44.835218],[25.082852,44.833477],[25.082809,44.833024],[25.082654,44.832834],[25.082438,44.832587],[25.082149,44.83262],[25.081528,44.832707],[25.081554,44.832892],[25.081465,44.832897],[25.080853,44.833065],[25.080079,44.833297],[25.080079,44.833294],[25.080067,44.833297],[25.080075,44.833614],[25.080268,44.835161],[25.080335,44.835599],[25.08077,44.836552],[25.081046,44.837206],[25.081383,44.837935],[25.082301,44.839977],[25.082559,44.840553],[25.083905,44.840239],[25.084216,44.840892],[25.088398,44.840114]]],"type":"Polygon"}
 }

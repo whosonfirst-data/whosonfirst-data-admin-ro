@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38333,44.9,24.38333,44.9",
-    "geom:latitude":44.9,
-    "geom:longitude":24.38333,
+    "geom:area":0.000048,
+    "geom:area_square_m":416594.199731,
+    "geom:bbox":"24.355637,44.893146,24.380481,44.900123",
+    "geom:latitude":44.896693,
+    "geom:longitude":24.368923,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":4316,
@@ -41,6 +41,9 @@
         "Stoile\u0219ti"
     ],
     "name:ron_x_preferred":[
+        "Stoile\u015fti"
+    ],
+    "name:ron_x_variant":[
         "Stoile\u0219ti"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +66,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":126909,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -75,11 +81,15 @@
     "wof:concordances":{
         "gn:id":666050,
         "qs_pg:id":126909,
+        "ro-ancpi:id":173383,
         "wd:id":"Q2280881"
     },
     "wof:country":"RO",
     "wof:created":1497290883,
-    "wof:geomhash":"203ef1cc2cd64ab2e96f6124236c743f",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"4b3a2a22a8da7b0544b5bfd04bd753a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1125791569,
-    "wof:lastmodified":1566611405,
+    "wof:lastmodified":1588367087,
     "wof:name":"Stoile\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -101,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38333,
-    44.9,
-    24.38333,
-    44.9
+    24.355637,
+    44.893146,
+    24.380481,
+    44.900123
 ],
-  "geometry": {"coordinates":[24.38333,44.9],"type":"Point"}
+  "geometry": {"coordinates":[[[24.380481,44.899326],[24.376873,44.896293],[24.372266,44.895446],[24.369431,44.895797],[24.36754,44.894485],[24.36739,44.893171],[24.36541,44.893146],[24.366724,44.89584],[24.365124,44.895789],[24.361954,44.896578],[24.359736,44.895391],[24.355776,44.894723],[24.355637,44.896073],[24.361881,44.897591],[24.3657,44.897416],[24.368194,44.897462],[24.371489,44.897056],[24.374379,44.898044],[24.378634,44.900123],[24.379214,44.899979],[24.380481,44.899326]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.93354,44.16185,24.93354,44.16185",
-    "geom:latitude":44.16185,
-    "geom:longitude":24.93354,
+    "geom:area":0.000007,
+    "geom:area_square_m":59348.171323,
+    "geom:bbox":"24.92948,44.159398,24.933763,44.162522",
+    "geom:latitude":44.160811,
+    "geom:longitude":24.93162,
     "gn:admin1_code":"35",
     "gn:admin2_code":"154013.0",
     "gn:asciiname":"Viile",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Viile"
@@ -50,7 +50,10 @@
         "Cioc",
         "Ciocu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662944
+        "gn:id":662944,
+        "ro-ancpi:id":154059
     },
     "wof:country":"RO",
-    "wof:geomhash":"a06e647ecf485c53c6cd56bfe4a7ecfe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c5af6a4636e89409b20c6284dce0c681",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":1309759529,
-    "wof:lastmodified":1566611265,
+    "wof:lastmodified":1588367107,
     "wof:name":"Viile",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
@@ -84,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.93354,
-    44.16185,
-    24.93354,
-    44.16185
+    24.92948,
+    44.159398,
+    24.933763,
+    44.162522
 ],
-  "geometry": {"coordinates":[24.93354,44.16185],"type":"Point"}
+  "geometry": {"coordinates":[[[24.933763,44.1605],[24.932631,44.159398],[24.931975,44.159514],[24.929942,44.160516],[24.92948,44.160796],[24.930118,44.161424],[24.930972,44.162522],[24.931483,44.162149],[24.932245,44.161598],[24.933005,44.161052],[24.933763,44.1605]]],"type":"Polygon"}
 }

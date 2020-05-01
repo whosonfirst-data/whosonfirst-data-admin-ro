@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.18548,46.12699,21.18548,46.12699",
-    "geom:latitude":46.12699,
-    "geom:longitude":21.18548,
+    "geom:area":0.000028,
+    "geom:area_square_m":237186.574719,
+    "geom:bbox":"21.178567,46.124501,21.18905,46.12905",
+    "geom:latitude":46.126656,
+    "geom:longitude":21.183479,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10827.0",
     "gn:asciiname":"Calugareni",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.16548,46.10699,21.20548,46.14699",
+    "lbl:latitude":46.12699,
+    "lbl:longitude":21.18548,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:ron_x_variant":[
+        "Calugareni"
+    ],
     "name:und_x_variant":[
         "Vinga",
         "C\u0103lug\u0103reni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682906
+        "gn:id":682906,
+        "ro-ancpi:id":10854
     },
     "wof:country":"RO",
-    "wof:geomhash":"218ed09d1df32689f6a966c4c60191cd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e1c70bf39d2eef66f9e1830ec6f2a92f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1276456553,
-    "wof:lastmodified":1566610177,
-    "wof:name":"Calugareni",
+    "wof:lastmodified":1588366704,
+    "wof:name":"C\u0103lug\u0103reni",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":244,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.18548,
-    46.12699,
-    21.18548,
-    46.12699
+    21.178567,
+    46.124501,
+    21.18905,
+    46.12905
 ],
-  "geometry": {"coordinates":[21.18548,46.12699],"type":"Point"}
+  "geometry": {"coordinates":[[[21.187083,46.128283],[21.187304,46.126958],[21.188875,46.127033],[21.18905,46.126077],[21.188924,46.126074],[21.1884,46.126048],[21.187567,46.126007],[21.187149,46.125988],[21.186288,46.125948],[21.186345,46.125039],[21.181359,46.124863],[21.179879,46.124501],[21.178567,46.127554],[21.179381,46.127675],[21.178936,46.128604],[21.179355,46.128668],[21.179774,46.127768],[21.180281,46.127798],[21.18025,46.12789],[21.180203,46.128087],[21.182247,46.127952],[21.182293,46.127567],[21.184225,46.127544],[21.184125,46.12876],[21.186396,46.12905],[21.187083,46.128283]]],"type":"Polygon"}
 }

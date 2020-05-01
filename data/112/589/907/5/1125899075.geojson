@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.31667,45.41667,24.31667,45.41667",
-    "geom:latitude":45.41667,
-    "geom:longitude":24.31667,
+    "geom:area":0.000075,
+    "geom:area_square_m":654985.491378,
+    "geom:bbox":"24.297463,45.403995,24.322713,45.416303",
+    "geom:latitude":45.41025,
+    "geom:longitude":24.31081,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1824,
@@ -19,9 +19,12 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ron_x_preferred":[
+        "Racovi\u0163a"
+    ],
     "qs_pg:aaroncc":"RO",
     "qs_pg:gn_country":"RO",
     "qs_pg:gn_fcode":"PPLA2",
@@ -33,7 +36,10 @@
     "qs_pg:pop_sr":3,
     "qs_pg:qs_id":1027505,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -44,11 +50,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":669322,
-        "qs_pg:id":1027505
+        "qs_pg:id":1027505,
+        "ro-ancpi:id":172518
     },
     "wof:country":"RO",
     "wof:created":1497295726,
-    "wof:geomhash":"54617df066bfa98cff9aca4dadfb82f5",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"4c5aeebd499ae667b75d971af8352077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1125899075,
-    "wof:lastmodified":1566611321,
+    "wof:lastmodified":1588367159,
     "wof:name":"Racovi\u0163a",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.31667,
-    45.41667,
-    24.31667,
-    45.41667
+    24.297463,
+    45.403995,
+    24.322713,
+    45.416303
 ],
-  "geometry": {"coordinates":[24.31667,45.41667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.304566,45.41276],[24.305234,45.411792],[24.305555,45.411973],[24.306915,45.412856],[24.307746,45.413463],[24.308248,45.413724],[24.309178,45.413501],[24.309178,45.413085],[24.312556,45.412986],[24.313571,45.411462],[24.314184,45.411637],[24.317065,45.41252],[24.318756,45.410559],[24.322713,45.407707],[24.321674,45.406635],[24.315154,45.410299],[24.312506,45.409596],[24.313017,45.408256],[24.311824,45.40795],[24.311847,45.40729],[24.311527,45.405428],[24.312981,45.404123],[24.311658,45.403995],[24.310605,45.404754],[24.309425,45.405033],[24.309383,45.405686],[24.307074,45.40841],[24.303812,45.412196],[24.301477,45.414168],[24.297463,45.415689],[24.297568,45.416303],[24.300644,45.415736],[24.303188,45.414268],[24.304566,45.41276]]],"type":"Polygon"}
 }

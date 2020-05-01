@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.83333,46.6,24.83333,46.6",
-    "geom:latitude":46.6,
-    "geom:longitude":24.83333,
+    "geom:area":0.000057,
+    "geom:area_square_m":483990.725341,
+    "geom:bbox":"24.823759,46.593806,24.839756,46.60819",
+    "geom:latitude":46.59981,
+    "geom:longitude":24.831021,
     "gn:admin1_code":"27",
     "gn:admin2_code":"120076.0",
     "gn:asciiname":"Grausorul",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.81333,46.58,24.85333,46.62",
+    "lbl:latitude":46.6,
+    "lbl:longitude":24.83333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Gr\u00e2u\u015forul"
+    ],
+    "name:ron_x_variant":[
+        "Grausorul"
+    ],
     "name:und_x_variant":[
         "Buza",
         "Buzah\u00e0za",
         "Gr\u00eeu\u015forul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676709
+        "gn:id":676709,
+        "ro-ancpi:id":120094
     },
     "wof:country":"RO",
-    "wof:geomhash":"a73f682c7f5061252493552a6f4e0321",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6fd2fed112f6bfcaf68136b8c50eaaaa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1310449319,
-    "wof:lastmodified":1566610573,
-    "wof:name":"Grausorul",
+    "wof:lastmodified":1588366782,
+    "wof:name":"Gr\u00e2u\u015forul",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.83333,
-    46.6,
-    24.83333,
-    46.6
+    24.823759,
+    46.593806,
+    24.839756,
+    46.60819
 ],
-  "geometry": {"coordinates":[24.83333,46.6],"type":"Point"}
+  "geometry": {"coordinates":[[[24.839756,46.607602],[24.838221,46.605532],[24.836846,46.603343],[24.835747,46.601687],[24.834978,46.600716],[24.834162,46.599868],[24.833435,46.599216],[24.832464,46.598366],[24.831377,46.597456],[24.826951,46.593806],[24.825501,46.594718],[24.823851,46.59577],[24.823793,46.59692],[24.823759,46.597731],[24.82467,46.598087],[24.826125,46.59851],[24.827058,46.599032],[24.828422,46.599646],[24.828943,46.599896],[24.828677,46.60017],[24.830301,46.600838],[24.831764,46.601629],[24.832895,46.602474],[24.833204,46.602614],[24.83322,46.603083],[24.833334,46.603394],[24.834226,46.603614],[24.835584,46.604571],[24.836033,46.605019],[24.83603,46.606389],[24.836365,46.607037],[24.837259,46.606545],[24.837577,46.606631],[24.83792,46.606978],[24.838254,46.607715],[24.838623,46.60819],[24.839756,46.607602]]],"type":"Polygon"}
 }

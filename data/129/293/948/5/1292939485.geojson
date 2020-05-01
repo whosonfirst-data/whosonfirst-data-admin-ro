@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.63701,47.359,23.63701,47.359",
-    "geom:latitude":47.359,
-    "geom:longitude":23.63701,
+    "geom:area":0.000021,
+    "geom:area_square_m":178559.773741,
+    "geom:bbox":"23.632732,47.355735,23.641703,47.359508",
+    "geom:latitude":47.357597,
+    "geom:longitude":23.637424,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141580.0",
     "gn:asciiname":"Maleni",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "M\u0103leni"
+    ],
+    "name:ron_x_variant":[
+        "Maleni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674018
+        "gn:id":674018,
+        "ro-ancpi:id":141651
     },
     "wof:country":"RO",
-    "wof:geomhash":"40669ddd0c6f515f5c34ae7ba0318995",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6ea38890a82e26c1bca25f09e89dddd4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1292939485,
-    "wof:lastmodified":1566610056,
-    "wof:name":"Maleni",
+    "wof:lastmodified":1588367076,
+    "wof:name":"M\u0103leni",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":14,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.63701,
-    47.359,
-    23.63701,
-    47.359
+    23.632732,
+    47.355735,
+    23.641703,
+    47.359508
 ],
-  "geometry": {"coordinates":[23.63701,47.359],"type":"Point"}
+  "geometry": {"coordinates":[[[23.637992,47.355849],[23.637025,47.355838],[23.636322,47.355842],[23.636366,47.356188],[23.635557,47.356191],[23.635284,47.356558],[23.634691,47.357077],[23.634234,47.357083],[23.634133,47.356879],[23.632732,47.357388],[23.633966,47.35929],[23.634184,47.35939],[23.634958,47.359031],[23.636748,47.358631],[23.63718,47.358735],[23.63768,47.358777],[23.638101,47.358826],[23.638649,47.359048],[23.638957,47.359374],[23.639302,47.359508],[23.639904,47.35891],[23.640631,47.358871],[23.641416,47.358418],[23.641703,47.357275],[23.641406,47.357201],[23.640947,47.357268],[23.640617,47.357108],[23.640483,47.356861],[23.640329,47.35616],[23.640374,47.355954],[23.63916,47.356021],[23.638481,47.355735],[23.637992,47.355849]]],"type":"Polygon"}
 }

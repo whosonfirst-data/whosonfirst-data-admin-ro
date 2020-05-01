@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23403,45.09998,24.23403,45.09998",
-    "geom:latitude":45.09998,
-    "geom:longitude":24.23403,
+    "geom:area":0.000063,
+    "geom:area_square_m":549314.293758,
+    "geom:bbox":"24.217927,45.104351,24.230883,45.111918",
+    "geom:latitude":45.108393,
+    "geom:longitude":24.224979,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168960.0",
     "gn:asciiname":"Coasta Mare",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Coasta Mare"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681263
+        "gn:id":681263,
+        "ro-ancpi:id":168988
     },
     "wof:country":"RO",
-    "wof:geomhash":"043b3e8004f14cca05108b1bef8c5454",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9ccd3047b83113eb49b5f546625dc6a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1293237679,
-    "wof:lastmodified":1566610069,
+    "wof:lastmodified":1588367159,
     "wof:name":"Coasta Mare",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23403,
-    45.09998,
-    24.23403,
-    45.09998
+    24.217927,
+    45.104351,
+    24.230883,
+    45.111918
 ],
-  "geometry": {"coordinates":[24.23403,45.09998],"type":"Point"}
+  "geometry": {"coordinates":[[[24.230152,45.10694],[24.225983,45.104351],[24.219474,45.106867],[24.217927,45.109357],[24.220435,45.110387],[24.226721,45.111918],[24.229927,45.111106],[24.230883,45.10885],[24.230152,45.10694]]],"type":"Polygon"}
 }

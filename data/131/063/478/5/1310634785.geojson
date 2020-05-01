@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.22066,45.06126,24.22066,45.06126",
-    "geom:latitude":45.06126,
-    "geom:longitude":24.22066,
+    "geom:area":0.000037,
+    "geom:area_square_m":326461.192975,
+    "geom:bbox":"24.211849,45.058449,24.221412,45.065222",
+    "geom:latitude":45.061888,
+    "geom:longitude":24.216888,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171325.0",
     "gn:asciiname":"Scarisoara",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Sc\u0103ri\u015foara"
+    ],
+    "name:ron_x_variant":[
+        "Scarisoara"
+    ],
     "name:und_x_variant":[
         "\u0162ig\u0103nia",
         "Sc\u0103ri\u015foara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667724
+        "gn:id":667724,
+        "ro-ancpi:id":171432
     },
     "wof:country":"RO",
-    "wof:geomhash":"380c4aa203147ca1e7854df7d662dd6b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f6c2fbc299e5b2c8cd54b8d657e1e535",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1310634785,
-    "wof:lastmodified":1566610555,
-    "wof:name":"Scarisoara",
+    "wof:lastmodified":1588367025,
+    "wof:name":"Sc\u0103ri\u015foara",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":404,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.22066,
-    45.06126,
-    24.22066,
-    45.06126
+    24.211849,
+    45.058449,
+    24.221412,
+    45.065222
 ],
-  "geometry": {"coordinates":[24.22066,45.06126],"type":"Point"}
+  "geometry": {"coordinates":[[[24.220925,45.064109],[24.221412,45.06316],[24.220767,45.061878],[24.22046,45.060211],[24.216343,45.058449],[24.214459,45.059185],[24.213114,45.05984],[24.213234,45.061282],[24.21419,45.061373],[24.215519,45.06182],[24.215147,45.062793],[24.211849,45.063406],[24.212192,45.064567],[24.21443,45.064144],[24.214994,45.065222],[24.216974,45.064727],[24.218324,45.063761],[24.21922,45.063852],[24.220925,45.064109]]],"type":"Polygon"}
 }

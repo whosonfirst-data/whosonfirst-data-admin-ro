@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34556,46.06099,24.34556,46.06099",
-    "geom:latitude":46.06099,
-    "geom:longitude":24.34556,
+    "geom:area":0.000049,
+    "geom:area_square_m":418323.945615,
+    "geom:bbox":"24.333161,46.054536,24.350298,46.063652",
+    "geom:latitude":46.05947,
+    "geom:longitude":24.342724,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145961.0",
     "gn:asciiname":"Motis",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Moti\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Motis"
+    ],
     "name:und_x_variant":[
         "Moti\u015ful",
         "Moti\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672772
+        "gn:id":672772,
+        "ro-ancpi:id":145989
     },
     "wof:country":"RO",
-    "wof:geomhash":"fc18e0a88b300c79e49993117099d58c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"385fd6f4cfffe8fe484247988029f984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1310246161,
-    "wof:lastmodified":1566610517,
-    "wof:name":"Motis",
+    "wof:lastmodified":1588367153,
+    "wof:name":"Moti\u015f",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":470,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34556,
-    46.06099,
-    24.34556,
-    46.06099
+    24.333161,
+    46.054536,
+    24.350298,
+    46.063652
 ],
-  "geometry": {"coordinates":[24.34556,46.06099],"type":"Point"}
+  "geometry": {"coordinates":[[[24.344814,46.062033],[24.344609,46.060949],[24.346233,46.059322],[24.348505,46.058607],[24.349888,46.05892],[24.350298,46.058148],[24.348769,46.057898],[24.34868,46.057682],[24.348505,46.05711],[24.349081,46.056161],[24.350276,46.055318],[24.348954,46.054536],[24.346415,46.05614],[24.343846,46.057483],[24.342651,46.058326],[24.342883,46.058747],[24.340524,46.059291],[24.339664,46.059553],[24.338805,46.059675],[24.337602,46.059643],[24.336364,46.059382],[24.333889,46.058999],[24.333161,46.06034],[24.334304,46.060867],[24.335211,46.061266],[24.336739,46.061655],[24.33895,46.061661],[24.341101,46.061364],[24.34238,46.062763],[24.34474,46.063652],[24.345197,46.062573],[24.344814,46.062033]]],"type":"Polygon"}
 }

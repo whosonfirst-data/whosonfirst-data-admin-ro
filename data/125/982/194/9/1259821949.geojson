@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.28533,45.74466,27.28533,45.74466",
-    "geom:latitude":45.74466,
-    "geom:longitude":27.28533,
+    "geom:area":0.000084,
+    "geom:area_square_m":727444.51272,
+    "geom:bbox":"27.274346,45.739811,27.291367,45.748332",
+    "geom:latitude":45.743476,
+    "geom:longitude":27.283986,
     "gn:admin1_code":"40",
     "gn:admin2_code":"178607.0",
     "gn:asciiname":"Mircestii Vechi",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.26533,45.72466,27.30533,45.76466",
+    "lbl:latitude":45.74466,
+    "lbl:longitude":27.28533,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Mirce\u015ftii Vechi"
+    ],
+    "name:ron_x_variant":[
+        "Mircestii Vechi"
+    ],
     "name:und_x_variant":[
         "Mirce\u015fti-Vechi",
         "Mirce\u015ftii Vechi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673133
+        "gn:id":673133,
+        "ro-ancpi:id":178652
     },
     "wof:country":"RO",
-    "wof:geomhash":"d27aa24a1379264173fa02a05e622b3a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"22379f3cd860659a3907bec975b8c1cd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1259821949,
-    "wof:lastmodified":1566611567,
-    "wof:name":"Mircestii Vechi",
+    "wof:lastmodified":1588366854,
+    "wof:name":"Mirce\u015ftii Vechi",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
     "wof:population":179,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.28533,
-    45.74466,
-    27.28533,
-    45.74466
+    27.274346,
+    45.739811,
+    27.291367,
+    45.748332
 ],
-  "geometry": {"coordinates":[27.28533,45.74466],"type":"Point"}
+  "geometry": {"coordinates":[[[27.289393,45.747117],[27.289849,45.747016],[27.290495,45.747066],[27.291367,45.746986],[27.291067,45.744958],[27.291029,45.74438],[27.290846,45.742881],[27.286065,45.740393],[27.285885,45.739811],[27.282788,45.740006],[27.282729,45.739812],[27.277009,45.73983],[27.277398,45.740774],[27.276904,45.740873],[27.277328,45.741864],[27.274586,45.742359],[27.274728,45.743026],[27.274712,45.743351],[27.274346,45.743768],[27.274365,45.744122],[27.277298,45.744149],[27.279209,45.744258],[27.280602,45.744466],[27.281376,45.744608],[27.282061,45.744882],[27.282552,45.745195],[27.282951,45.745574],[27.283317,45.746044],[27.283631,45.746405],[27.283829,45.746663],[27.284067,45.746776],[27.284466,45.746796],[27.285043,45.746955],[27.285792,45.747189],[27.286261,45.74727],[27.285973,45.747991],[27.286481,45.748277],[27.287086,45.748328],[27.287645,45.748332],[27.288455,45.748214],[27.289209,45.748074],[27.289549,45.747942],[27.289393,45.747117]]],"type":"Polygon"}
 }

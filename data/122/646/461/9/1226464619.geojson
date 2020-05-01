@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.14118,47.32346,24.14118,47.32346",
-    "geom:latitude":47.32346,
-    "geom:longitude":24.14118,
+    "geom:area":0.000001,
+    "geom:area_square_m":11683.93071,
+    "geom:bbox":"24.140775,47.321361,24.142058,47.323466",
+    "geom:latitude":47.322284,
+    "geom:longitude":24.141345,
     "gn:admin1_code":"06",
     "gn:admin2_code":"34547.0",
     "gn:asciiname":"Sesuri Spermezeu-Vale",
@@ -28,13 +28,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u015ee\u015furi Spermezeu-Vale"
+    ],
+    "name:ron_x_variant":[
+        "Sesuri Spermezeu-Vale"
+    ],
     "name:und_x_variant":[
         "\u015eesuri Spermezeu",
         "Spermezeu-\u015eesuri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666367
+        "gn:id":666367,
+        "ro-ancpi:id":34609
     },
     "wof:country":"RO",
-    "wof:geomhash":"c726dd28a94f4ee0952188743fde1280",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4dbbd5706814017e9f7c10209ae31c7e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1226464619,
-    "wof:lastmodified":1566611686,
-    "wof:name":"Sesuri Spermezeu-Vale",
+    "wof:lastmodified":1588367144,
+    "wof:name":"\u015ee\u015furi Spermezeu-Vale",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",
     "wof:population":109,
@@ -68,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.14118,
-    47.32346,
-    24.14118,
-    47.32346
+    24.140775,
+    47.321361,
+    24.142058,
+    47.323466
 ],
-  "geometry": {"coordinates":[24.14118,47.32346],"type":"Point"}
+  "geometry": {"coordinates":[[[24.142058,47.321429],[24.141784,47.321361],[24.141462,47.321391],[24.141228,47.321573],[24.141146,47.321665],[24.141102,47.321735],[24.141011,47.321981],[24.140854,47.322403],[24.140807,47.322565],[24.140777,47.32276],[24.140775,47.32283],[24.140788,47.322906],[24.140936,47.323083],[24.141052,47.323241],[24.141086,47.323328],[24.141109,47.323466],[24.141383,47.323259],[24.141477,47.322957],[24.14162,47.322368],[24.142048,47.32157],[24.142058,47.321429]]],"type":"Polygon"}
 }

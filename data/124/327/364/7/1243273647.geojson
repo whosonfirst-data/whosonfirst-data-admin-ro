@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.51385,46.35369,23.51385,46.35369",
-    "geom:latitude":46.35369,
-    "geom:longitude":23.51385,
+    "geom:area":0.000007,
+    "geom:area_square_m":60640.074882,
+    "geom:bbox":"23.515988,46.354861,23.524474,46.359131",
+    "geom:latitude":46.357012,
+    "geom:longitude":23.520303,
     "gn:admin1_code":"01",
     "gn:admin2_code":"6627",
     "gn:asciiname":"Valea Fagetului",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea F\u0103getului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Fagetului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10861181
+        "gn:id":10861181,
+        "ro-ancpi:id":6707
     },
     "wof:country":"RO",
-    "wof:geomhash":"0471b8eaefd69a88abe938c0508f875c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"45a2419fa509007ff89635247285bbb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1243273647,
-    "wof:lastmodified":1566611519,
-    "wof:name":"Valea Fagetului",
+    "wof:lastmodified":1588367125,
+    "wof:name":"Valea F\u0103getului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":37,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.51385,
-    46.35369,
-    23.51385,
-    46.35369
+    23.515988,
+    46.354861,
+    23.524474,
+    46.359131
 ],
-  "geometry": {"coordinates":[23.51385,46.35369],"type":"Point"}
+  "geometry": {"coordinates":[[[23.521672,46.356996],[23.520954,46.356396],[23.519458,46.356258],[23.51866,46.355977],[23.518349,46.355461],[23.517353,46.355217],[23.516617,46.354861],[23.515988,46.355306],[23.516477,46.355626],[23.517558,46.356127],[23.519093,46.356956],[23.520996,46.357305],[23.521338,46.358257],[23.522716,46.358879],[23.523864,46.359131],[23.524474,46.358277],[23.522925,46.358071],[23.522123,46.357922],[23.521773,46.357422],[23.521672,46.356996]]],"type":"Polygon"}
 }

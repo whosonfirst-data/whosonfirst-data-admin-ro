@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.75295,44.35603,23.75295,44.35603",
-    "geom:latitude":44.35603,
-    "geom:longitude":23.75295,
+    "geom:area":0.000053,
+    "geom:area_square_m":467073.476307,
+    "geom:bbox":"23.744322,44.35125,23.753944,44.361437",
+    "geom:latitude":44.355881,
+    "geom:longitude":23.748786,
     "gn:admin1_code":"17",
     "gn:admin2_code":"69900.0",
     "gn:asciiname":"Izvorul Rece",
@@ -29,14 +29,20 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Izvorul Rece"
+    ],
     "name:und_x_variant":[
         "At\u00eerna\u0163i",
         "At\u00e2rnati",
         "Izvorul Rece"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675315
+        "gn:id":675315,
+        "ro-ancpi:id":70076
     },
     "wof:country":"RO",
-    "wof:geomhash":"902781b3d97476db4c6fc9b9eec79b97",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5aaa4ad93b146cb7b99a0477af928e39",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1276524105,
-    "wof:lastmodified":1566610252,
+    "wof:lastmodified":1588367098,
     "wof:name":"Izvorul Rece",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.75295,
-    44.35603,
-    23.75295,
-    44.35603
+    23.744322,
+    44.35125,
+    23.753944,
+    44.361437
 ],
-  "geometry": {"coordinates":[23.75295,44.35603],"type":"Point"}
+  "geometry": {"coordinates":[[[23.750716,44.358267],[23.751009,44.357789],[23.751427,44.357162],[23.751744,44.35661],[23.752243,44.355478],[23.752512,44.354847],[23.752846,44.354104],[23.753024,44.35368],[23.753381,44.353072],[23.753944,44.352228],[23.750438,44.351724],[23.749684,44.352281],[23.748531,44.352035],[23.74722,44.35262],[23.745187,44.35125],[23.744322,44.351589],[23.745367,44.352582],[23.746274,44.35349],[23.745637,44.357242],[23.74539,44.360082],[23.745818,44.360636],[23.747952,44.361437],[23.74888,44.360523],[23.749412,44.359999],[23.749737,44.359654],[23.750054,44.359271],[23.750394,44.358789],[23.750656,44.358364],[23.750716,44.358267]]],"type":"Polygon"}
 }

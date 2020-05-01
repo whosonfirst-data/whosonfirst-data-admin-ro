@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.56143,47.34289,23.56143,47.34289",
-    "geom:latitude":47.34289,
-    "geom:longitude":23.56143,
+    "geom:area":0.000061,
+    "geom:area_square_m":513546.049406,
+    "geom:bbox":"23.552439,47.337886,23.563768,47.348449",
+    "geom:latitude":47.342729,
+    "geom:longitude":23.557847,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141580.0",
     "gn:asciiname":"Negreni",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Negreni"
@@ -45,7 +45,10 @@
     "name:srp_x_preferred":[
         "\u041d\u0435\u0433\u0440\u0435\u043d\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672391
+        "gn:id":672391,
+        "ro-ancpi:id":141660
     },
     "wof:country":"RO",
-    "wof:geomhash":"93e79136429b68ca309db4a07b91dff2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5ae30e48634327d713e831e0c755cac3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":1293329659,
-    "wof:lastmodified":1566610095,
+    "wof:lastmodified":1588367092,
     "wof:name":"Negreni",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.56143,
-    47.34289,
-    23.56143,
-    47.34289
+    23.552439,
+    47.337886,
+    23.563768,
+    47.348449
 ],
-  "geometry": {"coordinates":[23.56143,47.34289],"type":"Point"}
+  "geometry": {"coordinates":[[[23.557407,47.347183],[23.557849,47.346794],[23.557934,47.347006],[23.559199,47.346925],[23.559317,47.345926],[23.559493,47.345153],[23.559882,47.344567],[23.560855,47.344375],[23.561031,47.342866],[23.562355,47.342782],[23.562621,47.341437],[23.563768,47.340424],[23.562172,47.339608],[23.562562,47.339223],[23.561422,47.338018],[23.561329,47.337886],[23.559756,47.3384],[23.558594,47.33881],[23.555013,47.340515],[23.553072,47.341769],[23.552439,47.34364],[23.552823,47.344466],[23.55373,47.344801],[23.554416,47.344932],[23.554339,47.346352],[23.555694,47.346312],[23.555686,47.348374],[23.557128,47.348449],[23.557407,47.347183]]],"type":"Polygon"}
 }

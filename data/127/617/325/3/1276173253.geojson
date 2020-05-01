@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.05849,47.78099,23.05849,47.78099",
-    "geom:latitude":47.78099,
-    "geom:longitude":23.05849,
+    "geom:area":0.00001,
+    "geom:area_square_m":83443.592472,
+    "geom:bbox":"23.054213,47.784221,23.060387,47.78745",
+    "geom:latitude":47.785828,
+    "geom:longitude":23.057631,
     "gn:admin1_code":"32",
     "gn:admin2_code":"138280.0",
     "gn:asciiname":"Eteni",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Eteni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +44,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678523
+        "gn:id":678523,
+        "ro-ancpi:id":138324
     },
     "wof:country":"RO",
-    "wof:geomhash":"da2e569a23216714dd587fd5b7d1c664",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aca6a8e2211c99a81440bc731ab94d68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +61,7 @@
         }
     ],
     "wof:id":1276173253,
-    "wof:lastmodified":1566610174,
+    "wof:lastmodified":1588367111,
     "wof:name":"Eteni",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.05849,
-    47.78099,
-    23.05849,
-    47.78099
+    23.054213,
+    47.784221,
+    23.060387,
+    47.78745
 ],
-  "geometry": {"coordinates":[23.05849,47.78099],"type":"Point"}
+  "geometry": {"coordinates":[[[23.060387,47.786195],[23.059814,47.784221],[23.059814,47.784221],[23.058797,47.78444],[23.057401,47.78477],[23.056638,47.784932],[23.056346,47.785031],[23.056193,47.785127],[23.056046,47.785278],[23.055623,47.785762],[23.055326,47.786097],[23.054982,47.786496],[23.054445,47.787093],[23.054334,47.787179],[23.054213,47.787242],[23.05425,47.78745],[23.055797,47.787131],[23.060387,47.786195]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.79144,46.38226,22.79144,46.38226",
-    "geom:latitude":46.38226,
-    "geom:longitude":22.79144,
+    "geom:area":0.000021,
+    "geom:area_square_m":179519.869233,
+    "geom:bbox":"22.764025,46.366514,22.772504,46.371575",
+    "geom:latitude":46.369186,
+    "geom:longitude":22.768887,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Verdesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Verde\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Verdesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663050
+        "gn:id":663050,
+        "ro-ancpi:id":2899
     },
     "wof:country":"RO",
-    "wof:geomhash":"f54e20d43080fab2fd52dcda39d3bb07",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2086c1fde8e6fed7396786852d927f96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1276133003,
-    "wof:lastmodified":1566610220,
-    "wof:name":"Verdesti",
+    "wof:lastmodified":1588367036,
+    "wof:name":"Verde\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":100,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.79144,
-    46.38226,
-    22.79144,
-    46.38226
+    22.764025,
+    46.366514,
+    22.772504,
+    46.371575
 ],
-  "geometry": {"coordinates":[22.79144,46.38226],"type":"Point"}
+  "geometry": {"coordinates":[[[22.771817,46.366514],[22.764025,46.369641],[22.767484,46.371575],[22.768575,46.370953],[22.770028,46.370354],[22.771331,46.370662],[22.772504,46.367453],[22.771817,46.366514]]],"type":"Polygon"}
 }

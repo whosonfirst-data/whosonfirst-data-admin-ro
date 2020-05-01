@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24301,44.82276,24.24301,44.82276",
-    "geom:latitude":44.82276,
-    "geom:longitude":24.24301,
+    "geom:area":0.000069,
+    "geom:area_square_m":604175.997924,
+    "geom:bbox":"24.237057,44.81361,24.2468,44.827587",
+    "geom:latitude":44.821015,
+    "geom:longitude":24.242608,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170514.0",
     "gn:asciiname":"Dealu Mare",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.22301,44.80276,24.26301,44.84276",
+    "lbl:latitude":44.82276,
+    "lbl:longitude":24.24301,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dealu Mare"
@@ -49,7 +51,11 @@
     "name:und_x_variant":[
         "\u0162\u0103c\u0103liile"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679622
+        "gn:id":679622,
+        "ro-ancpi:id":170541
     },
     "wof:country":"RO",
-    "wof:geomhash":"8ebe087d75ae88f62a041b330bdcebe6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"026f64e01b6433a3eac3c6c480cfb2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1259518109,
-    "wof:lastmodified":1566611587,
+    "wof:lastmodified":1588366860,
     "wof:name":"Dealu Mare",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24301,
-    44.82276,
-    24.24301,
-    44.82276
+    24.237057,
+    44.81361,
+    24.2468,
+    44.827587
 ],
-  "geometry": {"coordinates":[24.24301,44.82276],"type":"Point"}
+  "geometry": {"coordinates":[[[24.245736,44.826867],[24.246508,44.823349],[24.2468,44.815501],[24.24457,44.815333],[24.244513,44.815582],[24.244229,44.820768],[24.241833,44.820867],[24.24149,44.818376],[24.239552,44.81641],[24.240872,44.814217],[24.23889,44.81361],[24.237057,44.815953],[24.239766,44.820547],[24.239768,44.822404],[24.237611,44.82283],[24.237542,44.823959],[24.239102,44.824008],[24.242322,44.824585],[24.241514,44.826666],[24.242248,44.82713],[24.244442,44.827587],[24.245736,44.826867]]],"type":"Polygon"}
 }

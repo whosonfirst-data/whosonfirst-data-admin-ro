@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.41667,46.25,23.41667,46.25",
-    "geom:latitude":46.25,
-    "geom:longitude":23.41667,
+    "geom:area":0.000081,
+    "geom:area_square_m":696951.914734,
+    "geom:bbox":"23.402986,46.233681,23.419151,46.248574",
+    "geom:latitude":46.240486,
+    "geom:longitude":23.410334,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":860,
@@ -61,6 +61,9 @@
     "name:ron_x_preferred":[
         "\u00centregalde"
     ],
+    "name:ron_x_variant":[
+        "Intregalde"
+    ],
     "name:sqi_x_preferred":[
         "\u00centregalde"
     ],
@@ -97,7 +100,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":874079,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -114,11 +120,15 @@
         "gn:id":675581,
         "gp:id":874079,
         "qs_pg:id":111700,
+        "ro-ancpi:id":4990,
         "wd:id":"Q980510"
     },
     "wof:country":"RO",
     "wof:created":1497300151,
-    "wof:geomhash":"702cd00ae97962cca9b5998c96a4f7d8",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"1c510cfdbd18732186463c74b6bb503b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,8 +138,8 @@
         }
     ],
     "wof:id":1126008929,
-    "wof:lastmodified":1566611377,
-    "wof:name":"Intregalde",
+    "wof:lastmodified":1588367080,
+    "wof:name":"\u00centregalde",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":860,
@@ -140,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.41667,
-    46.25,
-    23.41667,
-    46.25
+    23.402986,
+    46.233681,
+    23.419151,
+    46.248574
 ],
-  "geometry": {"coordinates":[23.41667,46.25],"type":"Point"}
+  "geometry": {"coordinates":[[[23.419151,46.247202],[23.413547,46.242838],[23.408926,46.240547],[23.409596,46.238717],[23.414575,46.235058],[23.412263,46.234142],[23.411269,46.234599],[23.407965,46.233681],[23.404314,46.236209],[23.402986,46.237123],[23.405288,46.2401],[23.406271,46.241931],[23.410892,46.244222],[23.413853,46.247886],[23.417159,46.248574],[23.419151,46.247202]]],"type":"Polygon"}
 }

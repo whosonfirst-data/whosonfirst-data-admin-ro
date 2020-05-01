@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.74848,44.68003,25.74848,44.68003",
-    "geom:latitude":44.68003,
-    "geom:longitude":25.74848,
+    "geom:area":0.000018,
+    "geom:area_square_m":161963.921885,
+    "geom:bbox":"25.742517,44.677445,25.75334,44.683226",
+    "geom:latitude":44.679789,
+    "geom:longitude":25.747364,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68627",
     "gn:asciiname":"Balanesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103l\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Balanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685695
+        "gn:id":685695,
+        "ro-ancpi:id":68645
     },
     "wof:country":"RO",
-    "wof:geomhash":"471e78c48939f37f215586ff04c7a15f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"440f4fcbd2bed9a9f5ebd64fd4944951",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226722557,
-    "wof:lastmodified":1566611610,
-    "wof:name":"Balanesti",
+    "wof:lastmodified":1588367020,
+    "wof:name":"B\u0103l\u0103ne\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":215,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.74848,
-    44.68003,
-    25.74848,
-    44.68003
+    25.742517,
+    44.677445,
+    25.75334,
+    44.683226
 ],
-  "geometry": {"coordinates":[25.74848,44.68003],"type":"Point"}
+  "geometry": {"coordinates":[[[25.75334,44.678598],[25.752617,44.678219],[25.752474,44.678097],[25.752629,44.678061],[25.752738,44.678033],[25.75306,44.67796],[25.752991,44.677848],[25.752841,44.677606],[25.752604,44.677445],[25.748036,44.678465],[25.748116,44.678075],[25.746329,44.67764],[25.744888,44.680645],[25.742517,44.68211],[25.742859,44.682396],[25.742571,44.682583],[25.743414,44.683226],[25.74575,44.681921],[25.746575,44.681182],[25.747037,44.680476],[25.747535,44.680222],[25.747888,44.679839],[25.753019,44.678667],[25.75334,44.678598]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.66915,45.81866,22.66915,45.81866",
-    "geom:latitude":45.81866,
-    "geom:longitude":22.66915,
+    "geom:area":0.000006,
+    "geom:area_square_m":53501.839956,
+    "geom:bbox":"22.666183,45.815776,22.66863,45.82003",
+    "geom:latitude":45.818004,
+    "geom:longitude":22.667531,
     "gn:admin1_code":"21",
     "gn:admin2_code":"89151.0",
     "gn:asciiname":"Merisoru de Munte",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Meri\u015foru de Munte"
+    ],
+    "name:ron_x_variant":[
+        "Merisoru de Munte"
+    ],
     "name:und_x_variant":[
         "Meri\u015forul de-Munte",
         "Meri\u015foru de Munte"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673541
+        "gn:id":673541,
+        "ro-ancpi:id":89197
     },
     "wof:country":"RO",
-    "wof:geomhash":"5fcfee8f11f6f6c431c58e3aa6dbc1d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13c5257a3c451b591f0d39d019fdf687",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1192992407,
-    "wof:lastmodified":1566610447,
-    "wof:name":"Merisoru de Munte",
+    "wof:lastmodified":1588367066,
+    "wof:name":"Meri\u015foru de Munte",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":51,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.66915,
-    45.81866,
-    22.66915,
-    45.81866
+    22.666183,
+    45.815776,
+    22.66863,
+    45.82003
 ],
-  "geometry": {"coordinates":[22.66915,45.81866],"type":"Point"}
+  "geometry": {"coordinates":[[[22.668526,45.82003],[22.66863,45.818971],[22.667908,45.817629],[22.668293,45.816403],[22.668512,45.815797],[22.668502,45.815778],[22.668296,45.815776],[22.668002,45.815806],[22.667588,45.815896],[22.667407,45.815955],[22.667315,45.816239],[22.667295,45.8164],[22.667359,45.816512],[22.667369,45.816606],[22.667357,45.816637],[22.667271,45.816648],[22.6666,45.816632],[22.666183,45.817599],[22.666439,45.818],[22.666779,45.818508],[22.667045,45.818909],[22.666958,45.819591],[22.666953,45.819788],[22.666923,45.819909],[22.66764,45.819902],[22.668526,45.82003]]],"type":"Polygon"}
 }

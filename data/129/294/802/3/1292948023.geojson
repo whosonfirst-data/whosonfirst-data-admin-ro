@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41537,44.56283,24.41537,44.56283",
-    "geom:latitude":44.56283,
-    "geom:longitude":24.41537,
+    "geom:area":0.000037,
+    "geom:area_square_m":323074.948762,
+    "geom:bbox":"24.407455,44.552881,24.418563,44.567634",
+    "geom:latitude":44.561115,
+    "geom:longitude":24.412722,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127858",
     "gn:asciiname":"Beria de Jos",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Beria de Jos"
+    ],
     "name:und_x_variant":[
         "Beria Mic\u0103",
         "Beria de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685011
+        "gn:id":685011,
+        "ro-ancpi:id":127876
     },
     "wof:country":"RO",
-    "wof:geomhash":"1934ecdb97dc31140f15d0ec97a7db79",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5da0e7c3a2917aa7f69bcf4dec1b1945",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1292948023,
-    "wof:lastmodified":1566610054,
+    "wof:lastmodified":1588367017,
     "wof:name":"Beria de Jos",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41537000000001,
-    44.56283,
-    24.41537000000001,
-    44.56283
+    24.407455,
+    44.552881,
+    24.418563,
+    44.567634
 ],
-  "geometry": {"coordinates":[24.41537000000001,44.56283],"type":"Point"}
+  "geometry": {"coordinates":[[[24.418563,44.566854],[24.417494,44.565727],[24.417016,44.565821],[24.415564,44.563778],[24.414057,44.561026],[24.413515,44.560319],[24.411475,44.557694],[24.409554,44.552881],[24.407455,44.553374],[24.408773,44.55546],[24.411836,44.562379],[24.412465,44.564527],[24.413297,44.566056],[24.414489,44.565674],[24.41585,44.567634],[24.416199,44.567506],[24.417207,44.567257],[24.418563,44.566854]]],"type":"Polygon"}
 }

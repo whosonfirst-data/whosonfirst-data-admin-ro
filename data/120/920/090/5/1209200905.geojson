@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.06606,46.83761,23.06606,46.83761",
-    "geom:latitude":46.83761,
-    "geom:longitude":23.06606,
+    "geom:area":0.000034,
+    "geom:area_square_m":289086.349395,
+    "geom:bbox":"23.060664,46.830661,23.069035,46.842739",
+    "geom:latitude":46.836924,
+    "geom:longitude":23.06465,
     "gn:admin1_code":"13",
     "gn:admin2_code":"58204.0",
     "gn:asciiname":"Nearsova",
@@ -28,19 +28,32 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Near\u015fova"
+    ],
+    "name:ron_x_variant":[
+        "Nearsova"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672458
+        "gn:id":672458,
+        "ro-ancpi:id":58231
     },
     "wof:country":"RO",
-    "wof:geomhash":"b007bd3b13f312ed888a850132db1277",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"71eb9dfa658cb255a0db87372cde457f",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +61,8 @@
         }
     ],
     "wof:id":1209200905,
-    "wof:lastmodified":1566610375,
-    "wof:name":"Nearsova",
+    "wof:lastmodified":1588367029,
+    "wof:name":"Near\u015fova",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":204,
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.06606,
-    46.83761,
-    23.06606,
-    46.83761
+    23.060664,
+    46.830661,
+    23.069035,
+    46.842739
 ],
-  "geometry": {"coordinates":[23.06606,46.83761],"type":"Point"}
+  "geometry": {"coordinates":[[[23.067497,46.838187],[23.067199,46.837746],[23.066062,46.837746],[23.065789,46.837649],[23.065664,46.836965],[23.065573,46.835732],[23.064828,46.833415],[23.064333,46.832089],[23.064235,46.83161],[23.063193,46.831441],[23.063096,46.831456],[23.062931,46.831382],[23.062745,46.831107],[23.062388,46.830661],[23.060664,46.831169],[23.061957,46.833113],[23.062681,46.834058],[23.062805,46.835456],[23.062869,46.836924],[23.06345,46.838236],[23.063509,46.83842],[23.063456,46.838713],[23.063143,46.839226],[23.063009,46.839557],[23.063319,46.840015],[23.064283,46.840538],[23.066237,46.841735],[23.067081,46.842739],[23.068599,46.842409],[23.069035,46.842322],[23.068206,46.84125],[23.067439,46.840292],[23.067018,46.839216],[23.066723,46.838707],[23.067497,46.838187]]],"type":"Polygon"}
 }

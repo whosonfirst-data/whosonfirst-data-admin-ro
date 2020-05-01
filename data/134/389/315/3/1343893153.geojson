@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.71531,47.1571,22.71531,47.1571",
-    "geom:latitude":47.1571,
-    "geom:longitude":22.71531,
+    "geom:area":0.000067,
+    "geom:area_square_m":560723.50705,
+    "geom:bbox":"22.706977,47.149753,22.72199,47.160803",
+    "geom:latitude":47.155664,
+    "geom:longitude":22.715463,
     "gn:admin1_code":"31",
     "gn:admin2_code":"180037",
     "gn:asciiname":"Bozies",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.69531,47.1371,22.73531,47.1771",
+    "lbl:latitude":47.1571,
+    "lbl:longitude":22.71531,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bozie\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Bozies"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683993
+        "gn:id":683993,
+        "ro-ancpi:id":142275
     },
     "wof:country":"RO",
-    "wof:geomhash":"10276b28848bea811c6ab42577687c7f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb093f222df0773048b5c0c6908e845a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1343893153,
-    "wof:lastmodified":1566609976,
-    "wof:name":"Bozies",
+    "wof:lastmodified":1588366667,
+    "wof:name":"Bozie\u015f",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":352,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.71531,
-    47.1571,
-    22.71531,
-    47.1571
+    22.706977,
+    47.149753,
+    22.72199,
+    47.160803
 ],
-  "geometry": {"coordinates":[22.71531,47.1571],"type":"Point"}
+  "geometry": {"coordinates":[[[22.712498,47.159744],[22.715082,47.158983],[22.715698,47.159163],[22.7165,47.158973],[22.71932,47.157069],[22.719304,47.156115],[22.719606,47.155232],[22.721385,47.154287],[22.720331,47.152836],[22.721509,47.152117],[22.721069,47.151772],[22.72199,47.151289],[22.721582,47.150961],[22.720746,47.150362],[22.719632,47.149753],[22.719181,47.150049],[22.717312,47.151268],[22.715519,47.152206],[22.714305,47.153378],[22.713581,47.154098],[22.712771,47.154778],[22.712449,47.155973],[22.71184,47.157163],[22.711395,47.157888],[22.709392,47.15681],[22.708346,47.157409],[22.706977,47.158301],[22.707323,47.15858],[22.70795,47.159033],[22.709452,47.160074],[22.710601,47.160803],[22.712498,47.159744]]],"type":"Polygon"}
 }

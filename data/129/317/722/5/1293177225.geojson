@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.05018,46.6895,24.05018,46.6895",
-    "geom:latitude":46.6895,
-    "geom:longitude":24.05018,
+    "geom:area":0.000006,
+    "geom:area_square_m":48837.093768,
+    "geom:bbox":"24.047205,46.686384,24.050765,46.691409",
+    "geom:latitude":46.689397,
+    "geom:longitude":24.048405,
     "gn:admin1_code":"13",
     "gn:admin2_code":"57742.0",
     "gn:asciiname":"Padurea Iacobeni",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u0103durea Iacobeni"
+    ],
+    "name:ron_x_variant":[
+        "Padurea Iacobeni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671544
+        "gn:id":671544,
+        "ro-ancpi:id":57797
     },
     "wof:country":"RO",
-    "wof:geomhash":"283b325213d7fd0fbb53c0b0569f30cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4c9bca898d3b1ef1ad7f2c298835fa3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293177225,
-    "wof:lastmodified":1566610139,
-    "wof:name":"Padurea Iacobeni",
+    "wof:lastmodified":1588367019,
+    "wof:name":"P\u0103durea Iacobeni",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":44,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.05018,
-    46.6895,
-    24.05018,
-    46.6895
+    24.047205,
+    46.686384,
+    24.050765,
+    46.691409
 ],
-  "geometry": {"coordinates":[24.05018,46.6895],"type":"Point"}
+  "geometry": {"coordinates":[[[24.048757,46.689029],[24.049132,46.688272],[24.049206,46.688073],[24.049454,46.68776],[24.049694,46.687491],[24.050207,46.687742],[24.050473,46.68754],[24.050057,46.68724],[24.050765,46.686759],[24.049863,46.686384],[24.049341,46.686909],[24.049915,46.687118],[24.04951,46.687497],[24.048947,46.688274],[24.047387,46.688228],[24.047213,46.688804],[24.047609,46.688863],[24.047205,46.690397],[24.047211,46.69137],[24.048812,46.691409],[24.049048,46.689942],[24.048476,46.689855],[24.048757,46.689029]]],"type":"Polygon"}
 }

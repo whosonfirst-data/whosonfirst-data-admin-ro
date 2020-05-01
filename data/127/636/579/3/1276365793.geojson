@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.57111,44.46694,25.57111,44.46694",
-    "geom:latitude":44.46694,
-    "geom:longitude":25.57111,
+    "geom:area":0.000016,
+    "geom:area_square_m":142553.59201,
+    "geom:bbox":"25.56755,44.464006,25.574132,44.470464",
+    "geom:latitude":44.467492,
+    "geom:longitude":25.571202,
     "gn:admin1_code":"42",
     "gn:admin2_code":"105972.0",
     "gn:asciiname":"Valcelele",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.55111,44.44694,25.59111,44.48694",
+    "lbl:latitude":44.46694,
+    "lbl:longitude":25.57111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "V\u00e2lcele"
+    ],
+    "name:ron_x_variant":[
+        "Valcelele"
+    ],
     "name:und_x_variant":[
         "Belimoaica",
         "V\u00eelcelele",
         "V\u00e2lcelele"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662877
+        "gn:id":662877,
+        "ro-ancpi:id":106032
     },
     "wof:country":"RO",
-    "wof:geomhash":"aea81980aaebef5e2770fd2ef78c329c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d6d8b9c0abecfbc7b8e43d63dd584e68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1276365793,
-    "wof:lastmodified":1566610270,
-    "wof:name":"Valcelele",
+    "wof:lastmodified":1588366724,
+    "wof:name":"V\u00e2lcele",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.57111,
-    44.46694,
-    25.57111,
-    44.46694
+    25.56755,
+    44.464006,
+    25.574132,
+    44.470464
 ],
-  "geometry": {"coordinates":[25.57111,44.46694],"type":"Point"}
+  "geometry": {"coordinates":[[[25.574132,44.464421],[25.572314,44.464006],[25.572066,44.464303],[25.57162,44.464822],[25.571149,44.465378],[25.571612,44.465555],[25.571041,44.466434],[25.56755,44.469999],[25.569126,44.470248],[25.570691,44.470464],[25.573007,44.467028],[25.574132,44.464421]]],"type":"Polygon"}
 }

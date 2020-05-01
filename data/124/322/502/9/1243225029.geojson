@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.77487,46.79721,26.77487,46.79721",
-    "geom:latitude":46.79721,
-    "geom:longitude":26.77487,
+    "geom:area":0.000025,
+    "geom:area_square_m":214243.590402,
+    "geom:bbox":"26.769022,46.79388,26.77687,46.800464",
+    "geom:latitude":46.797556,
+    "geom:longitude":26.773248,
     "gn:admin1_code":"28",
     "gn:admin2_code":"121153.0",
     "gn:asciiname":"Tutcanii din Deal",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.75487,46.77721,26.79487,46.81721",
+    "lbl:latitude":46.79721,
+    "lbl:longitude":26.77487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u0162u\u0163canii Din Deal"
+    ],
+    "name:ron_x_variant":[
+        "Tutcanii din Deal"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664409
+        "gn:id":664409,
+        "ro-ancpi:id":121224
     },
     "wof:country":"RO",
-    "wof:geomhash":"fc3bd94bfa4b6dd5598d72119e12ca43",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0b5ed33e05c6a33ce0fc3d626d48785e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1243225029,
-    "wof:lastmodified":1566611477,
-    "wof:name":"Tutcanii din Deal",
+    "wof:lastmodified":1588366831,
+    "wof:name":"\u0162u\u0163canii Din Deal",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:population":70,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.77487,
-    46.79721,
-    26.77487,
-    46.79721
+    26.769022,
+    46.79388,
+    26.77687,
+    46.800464
 ],
-  "geometry": {"coordinates":[26.77487,46.79721],"type":"Point"}
+  "geometry": {"coordinates":[[[26.770828,46.800464],[26.772055,46.800053],[26.773403,46.80004],[26.773419,46.799233],[26.774826,46.799381],[26.775495,46.798053],[26.775666,46.797845],[26.775772,46.797811],[26.776553,46.797969],[26.77687,46.796634],[26.776653,46.796123],[26.775651,46.796157],[26.77548,46.794934],[26.776274,46.79482],[26.775945,46.79388],[26.775287,46.793987],[26.775377,46.794711],[26.774056,46.794756],[26.772773,46.795077],[26.772832,46.795969],[26.771954,46.795975],[26.771778,46.796035],[26.77122,46.797014],[26.770309,46.798049],[26.769932,46.798311],[26.769022,46.799212],[26.770828,46.800464]]],"type":"Polygon"}
 }

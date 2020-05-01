@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.27617,44.12339,24.27617,44.12339",
-    "geom:latitude":44.12339,
-    "geom:longitude":24.27617,
+    "geom:area":0.000044,
+    "geom:area_square_m":391803.798037,
+    "geom:bbox":"24.267414,44.121738,24.282661,44.125779",
+    "geom:latitude":44.123477,
+    "geom:longitude":24.273835,
     "gn:admin1_code":"29",
     "gn:admin2_code":"125490.0",
     "gn:asciiname":"Liiceni",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.25617,44.10339,24.29617,44.14339",
+    "lbl:latitude":44.12339,
+    "lbl:longitude":24.27617,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Liiceni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674789
+        "gn:id":674789,
+        "ro-ancpi:id":125524
     },
     "wof:country":"RO",
-    "wof:geomhash":"e8ae02957f6cd1e04b582c7d0c2079e5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a2dd15ec07d118892df2cba9ca0da01e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1259544683,
-    "wof:lastmodified":1566611535,
+    "wof:lastmodified":1588366846,
     "wof:name":"Liiceni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.27617,
-    44.12339,
-    24.27617,
-    44.12339
+    24.267414,
+    44.121738,
+    24.282661,
+    44.125779
 ],
-  "geometry": {"coordinates":[24.27617,44.12339],"type":"Point"}
+  "geometry": {"coordinates":[[[24.2675,44.122302],[24.267414,44.125779],[24.275047,44.125295],[24.277782,44.124312],[24.282661,44.122971],[24.282374,44.121738],[24.274374,44.121989],[24.270789,44.121785],[24.268296,44.12194],[24.2675,44.122302]]],"type":"Polygon"}
 }

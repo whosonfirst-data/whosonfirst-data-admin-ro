@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.92608,44.19008,22.92608,44.19008",
-    "geom:latitude":44.19008,
-    "geom:longitude":22.92608,
+    "geom:area":0.000067,
+    "geom:area_square_m":590650.768858,
+    "geom:bbox":"22.914822,44.183961,22.932242,44.196857",
+    "geom:latitude":44.190514,
+    "geom:longitude":22.923513,
     "gn:admin1_code":"26",
     "gn:admin2_code":"111444.0",
     "gn:asciiname":"Cujmiru Mic",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.90608,44.17008,22.94608,44.21008",
+    "lbl:latitude":44.19008,
+    "lbl:longitude":22.92608,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cujmiru Mic"
+    ],
     "name:und_x_variant":[
         "Cujmiral Mic",
         "Cujmiru Mic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679977
+        "gn:id":679977,
+        "ro-ancpi:id":111471
     },
     "wof:country":"RO",
-    "wof:geomhash":"5558559ae81a7a4e2bb37f8dbeee2d05",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"107382d9029730e3e73abdb69e34ceb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1310657605,
-    "wof:lastmodified":1566610541,
+    "wof:lastmodified":1588366776,
     "wof:name":"Cujmiru Mic",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.92608,
-    44.19008,
-    22.92608,
-    44.19008
+    22.914822,
+    44.183961,
+    22.932242,
+    44.196857
 ],
-  "geometry": {"coordinates":[22.92608,44.19008],"type":"Point"}
+  "geometry": {"coordinates":[[[22.927318,44.189977],[22.932242,44.186193],[22.92923,44.183961],[22.928719,44.1844],[22.927526,44.185322],[22.923935,44.188148],[22.923525,44.187815],[22.920595,44.19017],[22.918582,44.191901],[22.914822,44.19476],[22.917405,44.196377],[22.918235,44.19683],[22.918286,44.196857],[22.918566,44.196646],[22.918831,44.196448],[22.919432,44.195995],[22.919669,44.195817],[22.920098,44.195494],[22.920239,44.195388],[22.92036,44.195289],[22.920533,44.195147],[22.920786,44.194941],[22.92094,44.194815],[22.921845,44.194188],[22.927318,44.189977]]],"type":"Polygon"}
 }

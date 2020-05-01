@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29208,43.90032,24.29208,43.90032",
-    "geom:latitude":43.90032,
-    "geom:longitude":24.29208,
+    "geom:area":0.000088,
+    "geom:area_square_m":786144.945982,
+    "geom:bbox":"24.283448,43.89507,24.299145,43.904146",
+    "geom:latitude":43.899446,
+    "geom:longitude":24.289741,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127750.0",
     "gn:asciiname":"Campu Parului",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.27208,43.88032,24.31208,43.92032",
+    "lbl:latitude":43.90032,
+    "lbl:longitude":24.29208,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u00e2mpu P\u0103rului"
+    ],
+    "name:ron_x_variant":[
+        "Campu Parului"
+    ],
     "name:und_x_variant":[
         "C\u00e2mpul P\u0103rului",
         "C\u00eempu P\u0103rului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681838
+        "gn:id":681838,
+        "ro-ancpi:id":127778
     },
     "wof:country":"RO",
-    "wof:geomhash":"2e52d81568a1a8c23497574a6461e374",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"289ca80ea3ccae7c2417314b0c9d163b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1360235625,
-    "wof:lastmodified":1566610609,
-    "wof:name":"Campu Parului",
+    "wof:lastmodified":1588366791,
+    "wof:name":"C\u00e2mpu P\u0103rului",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":508,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29208,
-    43.90032,
-    24.29208,
-    43.90032
+    24.283448,
+    43.89507,
+    24.299145,
+    43.904146
 ],
-  "geometry": {"coordinates":[24.29208,43.90032],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.297175,43.899231],[24.296942,43.898003],[24.295198,43.898266],[24.294629,43.89507],[24.283448,43.89622],[24.2836,43.896885],[24.284107,43.900582],[24.285292,43.904146],[24.294793,43.903015],[24.294181,43.89952],[24.297175,43.899231]]],[[[24.299145,43.898474],[24.299026,43.897211],[24.298175,43.89728],[24.298305,43.89851],[24.299145,43.898474]]]],"type":"MultiPolygon"}
 }

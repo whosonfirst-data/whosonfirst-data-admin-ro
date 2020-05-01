@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11667,44.96667,24.11667,44.96667",
-    "geom:latitude":44.96667,
-    "geom:longitude":24.11667,
+    "geom:area":0.000023,
+    "geom:area_square_m":197446.05987,
+    "geom:bbox":"24.106044,44.968391,24.114321,44.974418",
+    "geom:latitude":44.971238,
+    "geom:longitude":24.110074,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172377.0",
     "gn:asciiname":"Meieni",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Meieni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673622
+        "gn:id":673622,
+        "ro-ancpi:id":172420
     },
     "wof:country":"RO",
-    "wof:geomhash":"246fd3c689bba785ae348b0687655a71",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b9be56a3570db919e22427307f1012e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1259517129,
-    "wof:lastmodified":1566611587,
+    "wof:lastmodified":1588367087,
     "wof:name":"Meieni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
-    44.96667,
-    24.11667000000001,
-    44.96667
+    24.106044,
+    44.968391,
+    24.114321,
+    44.974418
 ],
-  "geometry": {"coordinates":[24.11667000000001,44.96667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.114321,44.969872],[24.112201,44.968649],[24.111474,44.968589],[24.11072,44.96924],[24.10823,44.968391],[24.107844,44.968851],[24.109501,44.969597],[24.106044,44.973339],[24.107255,44.97351],[24.107449,44.973738],[24.109077,44.974418],[24.112019,44.971609],[24.114321,44.969872]]],"type":"Polygon"}
 }

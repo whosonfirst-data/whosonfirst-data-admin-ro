@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.39523,47.20026,23.39523,47.20026",
-    "geom:latitude":47.20026,
-    "geom:longitude":23.39523,
+    "geom:area":0.000023,
+    "geom:area_square_m":191356.96585,
+    "geom:bbox":"23.390666,47.192231,23.397094,47.202455",
+    "geom:latitude":47.197558,
+    "geom:longitude":23.394377,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141232.0",
     "gn:asciiname":"Fabrica",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Fabrica"
+    ],
     "name:und_x_variant":[
         "Fabrica de Zahar",
         "Fabrica"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678515
+        "gn:id":678515,
+        "ro-ancpi:id":141287
     },
     "wof:country":"RO",
-    "wof:geomhash":"573e65d86a8fb43e6199ef4859f95c65",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8a1666bf4fd526e9a03a43152ba65d65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1276581099,
-    "wof:lastmodified":1566610197,
+    "wof:lastmodified":1588367154,
     "wof:name":"Fabrica",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.39523,
-    47.20026,
-    23.39523,
-    47.20026
+    23.390666,
+    47.192231,
+    23.397094,
+    47.202455
 ],
-  "geometry": {"coordinates":[23.39523,47.20026],"type":"Point"}
+  "geometry": {"coordinates":[[[23.392638,47.202455],[23.393017,47.202045],[23.394265,47.200353],[23.394919,47.199528],[23.395203,47.19918],[23.395803,47.198302],[23.396085,47.198003],[23.396467,47.19575],[23.397094,47.192504],[23.39557,47.192231],[23.395248,47.192939],[23.394225,47.192746],[23.394062,47.193154],[23.395067,47.193371],[23.394534,47.194636],[23.394163,47.196344],[23.394151,47.196576],[23.3942,47.196837],[23.394206,47.197133],[23.394148,47.197519],[23.393131,47.198923],[23.391164,47.200464],[23.390941,47.200873],[23.390839,47.20116],[23.390758,47.201451],[23.390666,47.202125],[23.391523,47.202098],[23.391847,47.202152],[23.392047,47.202208],[23.392307,47.202292],[23.392638,47.202455]]],"type":"Polygon"}
 }

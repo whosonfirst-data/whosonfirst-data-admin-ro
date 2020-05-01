@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.96335,45.79519,21.96335,45.79519",
-    "geom:latitude":45.79519,
-    "geom:longitude":21.96335,
+    "geom:area":0.000095,
+    "geom:area_square_m":816802.998441,
+    "geom:bbox":"21.954146,45.791796,21.971436,45.799736",
+    "geom:latitude":45.795224,
+    "geom:longitude":21.962461,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155840.0",
     "gn:asciiname":"Cliciova",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.94335,45.77519,21.98335,45.81519",
+    "lbl:latitude":45.79519,
+    "lbl:longitude":21.96335,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cliciova"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681335
+        "gn:id":681335,
+        "ro-ancpi:id":155877
     },
     "wof:country":"RO",
-    "wof:geomhash":"dc61af26d3a83a70b085178adedfeca5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"518ba22195dbe8c69b54b02f02c51315",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1293542347,
-    "wof:lastmodified":1566610034,
+    "wof:lastmodified":1588366673,
     "wof:name":"Cliciova",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.96335,
-    45.79519000000001,
-    21.96335,
-    45.79519000000001
+    21.954146,
+    45.791796,
+    21.971436,
+    45.799736
 ],
-  "geometry": {"coordinates":[21.96335,45.79519000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.966495,45.797263],[21.966419,45.796756],[21.971029,45.796941],[21.971111,45.796064],[21.971207,45.795871],[21.971391,45.794089],[21.971402,45.794045],[21.971436,45.793048],[21.967315,45.792813],[21.958812,45.792281],[21.954733,45.79203],[21.954281,45.795313],[21.954146,45.797792],[21.963679,45.798474],[21.963791,45.799583],[21.965484,45.799736],[21.966207,45.798133],[21.966519,45.797768],[21.966495,45.797263]]],[[[21.968787,45.791954],[21.966579,45.791796],[21.96606,45.791863],[21.965783,45.792216],[21.965841,45.792335],[21.966171,45.792416],[21.968844,45.792559],[21.970694,45.79268],[21.970765,45.792087],[21.968787,45.791954]]]],"type":"MultiPolygon"}
 }

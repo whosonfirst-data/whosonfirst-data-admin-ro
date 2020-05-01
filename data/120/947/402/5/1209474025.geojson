@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34781,45.97185,24.34781,45.97185",
-    "geom:latitude":45.97185,
-    "geom:longitude":24.34781,
+    "geom:area":0.000028,
+    "geom:area_square_m":241629.593353,
+    "geom:bbox":"24.338999,45.968046,24.351345,45.973463",
+    "geom:latitude":45.970906,
+    "geom:longitude":24.344873,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145042.0",
     "gn:asciiname":"Salcau",
@@ -29,23 +29,36 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u015ealc\u0103u"
+    ],
+    "name:ron_x_variant":[
+        "Salcau"
+    ],
     "name:und_x_variant":[
         "Salc\u0103ul",
         "\u015ealc\u0103u"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668220
+        "gn:id":668220,
+        "ro-ancpi:id":145097
     },
     "wof:country":"RO",
-    "wof:geomhash":"d5b0844df05fa3cb550fbd397a4d9ddc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29eac6bcdee01802a606b02c53248aff",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -53,8 +66,8 @@
         }
     ],
     "wof:id":1209474025,
-    "wof:lastmodified":1566610328,
-    "wof:name":"Salcau",
+    "wof:lastmodified":1588367078,
+    "wof:name":"\u015ealc\u0103u",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":119,
@@ -65,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34781,
-    45.97185,
-    24.34781,
-    45.97185
+    24.338999,
+    45.968046,
+    24.351345,
+    45.973463
 ],
-  "geometry": {"coordinates":[24.34781,45.97185],"type":"Point"}
+  "geometry": {"coordinates":[[[24.346444,45.97226],[24.351345,45.969028],[24.349313,45.968046],[24.34697,45.969484],[24.346146,45.968919],[24.345168,45.970055],[24.342732,45.970124],[24.342033,45.969579],[24.340047,45.970551],[24.341005,45.971871],[24.338999,45.972451],[24.339499,45.973463],[24.346444,45.97226]]],"type":"Polygon"}
 }

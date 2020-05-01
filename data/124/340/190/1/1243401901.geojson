@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.21502,46.76795,25.21502,46.76795",
-    "geom:latitude":46.76795,
-    "geom:longitude":25.21502,
+    "geom:area":0.000012,
+    "geom:area_square_m":101138.052261,
+    "geom:bbox":"25.210691,46.765407,25.216157,46.770227",
+    "geom:latitude":46.767895,
+    "geom:longitude":25.213881,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117550.0",
     "gn:asciiname":"Lapusna",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.19502,46.74795,25.23502,46.78795",
+    "lbl:latitude":46.76795,
+    "lbl:longitude":25.21502,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "L\u0103pu\u015fna"
+    ],
+    "name:ron_x_variant":[
+        "Lapusna"
+    ],
     "name:und_x_variant":[
         "Laposnya",
         "L\u0103pu\u015fna"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675039
+        "gn:id":675039,
+        "ro-ancpi:id":117612
     },
     "wof:country":"RO",
-    "wof:geomhash":"71b2742edbca53e7aa764842effd4d10",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ec1db11b3c3e230b22770c7a16be035b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1243401901,
-    "wof:lastmodified":1566611472,
-    "wof:name":"Lapusna",
+    "wof:lastmodified":1588366830,
+    "wof:name":"L\u0103pu\u015fna",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":71,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.21502000000001,
-    46.76795,
-    25.21502000000001,
-    46.76795
+    25.210691,
+    46.765407,
+    25.216157,
+    46.770227
 ],
-  "geometry": {"coordinates":[25.21502000000001,46.76795],"type":"Point"}
+  "geometry": {"coordinates":[[[25.212933,46.769573],[25.213866,46.769118],[25.214721,46.769307],[25.216115,46.767663],[25.216157,46.767088],[25.215933,46.766159],[25.215085,46.76579],[25.214148,46.765407],[25.213876,46.765997],[25.213417,46.766731],[25.212541,46.767881],[25.211303,46.76913],[25.210691,46.770054],[25.21112,46.770227],[25.21168,46.769999],[25.212933,46.769573]]],"type":"Polygon"}
 }

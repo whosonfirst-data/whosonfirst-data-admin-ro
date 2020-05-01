@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.14719,44.55521,24.14719,44.55521",
-    "geom:latitude":44.55521,
-    "geom:longitude":24.14719,
+    "geom:area":0.00002,
+    "geom:area_square_m":173351.775059,
+    "geom:bbox":"24.141668,44.552231,24.149089,44.55654",
+    "geom:latitude":44.554413,
+    "geom:longitude":24.145314,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126166.0",
     "gn:asciiname":"Stupina",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stupina"
@@ -51,7 +51,10 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0443\u043f\u0456\u043d\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665894
+        "gn:id":665894,
+        "ro-ancpi:id":126219
     },
     "wof:country":"RO",
-    "wof:geomhash":"7795b665c39da779a150c908876acd63",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"28af86b3bc03d8f725d48f9d63aa9950",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":1226203469,
-    "wof:lastmodified":1566611629,
+    "wof:lastmodified":1588367017,
     "wof:name":"Stupina",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -85,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.14719,
-    44.55521,
-    24.14719,
-    44.55521
+    24.141668,
+    44.552231,
+    24.149089,
+    44.55654
 ],
-  "geometry": {"coordinates":[24.14719,44.55521],"type":"Point"}
+  "geometry": {"coordinates":[[[24.145651,44.552237],[24.144855,44.552231],[24.141668,44.55384],[24.142652,44.5553],[24.144231,44.556166],[24.144877,44.55641],[24.146152,44.55654],[24.147641,44.556461],[24.147094,44.555184],[24.149089,44.554824],[24.147958,44.553438],[24.146441,44.552648],[24.145651,44.552237]]],"type":"Polygon"}
 }

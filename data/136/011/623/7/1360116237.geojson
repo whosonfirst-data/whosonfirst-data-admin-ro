@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11726,44.75478,24.11726,44.75478",
-    "geom:latitude":44.75478,
-    "geom:longitude":24.11726,
+    "geom:area":0.000054,
+    "geom:area_square_m":470849.023461,
+    "geom:bbox":"24.106367,44.75094,24.119913,44.75873",
+    "geom:latitude":44.754819,
+    "geom:longitude":24.113502,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170444.0",
     "gn:asciiname":"Gusoianca",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.09726,44.73478,24.13726,44.77478",
+    "lbl:latitude":44.75478,
+    "lbl:longitude":24.11726,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gu\u015foianca"
+    ],
+    "name:ron_x_variant":[
+        "Gusoianca"
+    ],
     "name:und_x_variant":[
         "Episcopia",
         "Gu\u015foianca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676424
+        "gn:id":676424,
+        "ro-ancpi:id":170480
     },
     "wof:country":"RO",
-    "wof:geomhash":"576a9508c90e1a86045dd6566313d7f3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6ec1d706ec4ff447238d6616530b8d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1360116237,
-    "wof:lastmodified":1566610630,
-    "wof:name":"Gusoianca",
+    "wof:lastmodified":1588366796,
+    "wof:name":"Gu\u015foianca",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":396,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11726,
-    44.75478,
-    24.11726,
-    44.75478
+    24.106367,
+    44.75094,
+    24.119913,
+    44.75873
 ],
-  "geometry": {"coordinates":[24.11726,44.75478],"type":"Point"}
+  "geometry": {"coordinates":[[[24.116701,44.756039],[24.119913,44.752209],[24.118355,44.750997],[24.114749,44.752526],[24.111977,44.751075],[24.111083,44.75094],[24.110726,44.753209],[24.109147,44.755647],[24.106367,44.75703],[24.107684,44.757602],[24.110473,44.75793],[24.113842,44.75873],[24.116701,44.756039]]],"type":"Polygon"}
 }

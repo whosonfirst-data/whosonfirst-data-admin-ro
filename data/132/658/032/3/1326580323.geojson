@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38082,44.23916,24.38082,44.23916",
-    "geom:latitude":44.23916,
-    "geom:longitude":24.38082,
+    "geom:area":0.000112,
+    "geom:area_square_m":995923.343773,
+    "geom:bbox":"24.363952,44.232111,24.386317,44.242074",
+    "geom:latitude":44.237691,
+    "geom:longitude":24.374769,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126978.0",
     "gn:asciiname":"Cioroiu",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.36082,44.21916,24.40082,44.25916",
+    "lbl:latitude":44.23916,
+    "lbl:longitude":24.38082,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cioroiu"
+    ],
     "name:und_x_variant":[
         "Cioroiul",
         "Cioroiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681641
+        "gn:id":681641,
+        "ro-ancpi:id":127000
     },
     "wof:country":"RO",
-    "wof:geomhash":"aa4c62e11f58d6ba5255026475bcc2a2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b8201dd94ff5c4508715e1e326aa5e31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1326580323,
-    "wof:lastmodified":1566609789,
+    "wof:lastmodified":1588366627,
     "wof:name":"Cioroiu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38082,
-    44.23916,
-    24.38082,
-    44.23916
+    24.363952,
+    44.232111,
+    24.386317,
+    44.242074
 ],
-  "geometry": {"coordinates":[24.38082,44.23916],"type":"Point"}
+  "geometry": {"coordinates":[[[24.364642,44.239062],[24.366213,44.239232],[24.366105,44.241063],[24.374309,44.241151],[24.375109,44.241177],[24.375477,44.241411],[24.380721,44.242074],[24.380286,44.239259],[24.382395,44.239213],[24.382421,44.236848],[24.382352,44.235515],[24.385793,44.235257],[24.386317,44.232111],[24.376887,44.234967],[24.37719,44.235347],[24.375579,44.235896],[24.373307,44.236438],[24.371489,44.236593],[24.371651,44.235821],[24.368506,44.235585],[24.366807,44.235834],[24.366644,44.234786],[24.363952,44.234188],[24.364642,44.239062]]],"type":"Polygon"}
 }

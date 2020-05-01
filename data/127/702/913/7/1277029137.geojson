@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.94947,44.2705,22.94947,44.2705",
-    "geom:latitude":44.2705,
-    "geom:longitude":22.94947,
+    "geom:area":0.000031,
+    "geom:area_square_m":274875.941118,
+    "geom:bbox":"22.944225,44.267394,22.950443,44.274366",
+    "geom:latitude":44.271118,
+    "geom:longitude":22.947395,
     "gn:admin1_code":"26",
     "gn:admin2_code":"113395.0",
     "gn:asciiname":"Magurele",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.92947,44.2505,22.96947,44.2905",
+    "lbl:latitude":44.2705,
+    "lbl:longitude":22.94947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u0103gurele"
+    ],
+    "name:ron_x_variant":[
+        "Magurele"
+    ],
     "name:und_x_variant":[
         "M\u0103gureni",
         "M\u0103gurele"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674118
+        "gn:id":674118,
+        "ro-ancpi:id":113439
     },
     "wof:country":"RO",
-    "wof:geomhash":"4c2137e3e69859059fe9c42ec1688018",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"92e7284b0a655d78a3bc50476b45af3f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1277029137,
-    "wof:lastmodified":1566610217,
-    "wof:name":"Magurele",
+    "wof:lastmodified":1588366713,
+    "wof:name":"M\u0103gurele",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":134,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.94947,
-    44.2705,
-    22.94947,
-    44.2705
+    22.944225,
+    44.267394,
+    22.950443,
+    44.274366
 ],
-  "geometry": {"coordinates":[22.94947,44.2705],"type":"Point"}
+  "geometry": {"coordinates":[[[22.949436,44.268484],[22.949453,44.268004],[22.948835,44.267958],[22.948865,44.267462],[22.948154,44.267394],[22.948046,44.267704],[22.946591,44.26756],[22.946463,44.268081],[22.94569,44.267988],[22.945093,44.27113],[22.944225,44.274366],[22.949107,44.274341],[22.949724,44.271662],[22.950443,44.268511],[22.949436,44.268484]]],"type":"Polygon"}
 }

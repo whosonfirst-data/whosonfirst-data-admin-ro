@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34684,44.04244,24.34684,44.04244",
-    "geom:latitude":44.04244,
-    "geom:longitude":24.34684,
+    "geom:area":0.000066,
+    "geom:area_square_m":587171.053861,
+    "geom:bbox":"24.337429,44.038067,24.354264,44.046019",
+    "geom:latitude":44.042426,
+    "geom:longitude":24.345498,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128524.0",
     "gn:asciiname":"Redisoara",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.32684,44.02244,24.36684,44.06244",
+    "lbl:latitude":44.04244,
+    "lbl:longitude":24.34684,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Redi\u015foara"
+    ],
+    "name:ron_x_variant":[
+        "Redisoara"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669023
+        "gn:id":669023,
+        "ro-ancpi:id":128542
     },
     "wof:country":"RO",
-    "wof:geomhash":"4da3f258dbceaebbacd93cd82323fdda",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dc78456fde1f22f2f638214604d4dc9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1276614983,
-    "wof:lastmodified":1566610205,
-    "wof:name":"Redisoara",
+    "wof:lastmodified":1588366711,
+    "wof:name":"Redi\u015foara",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":666,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34684,
-    44.04244,
-    24.34684,
-    44.04244
+    24.337429,
+    44.038067,
+    24.354264,
+    44.046019
 ],
-  "geometry": {"coordinates":[24.34684,44.04244],"type":"Point"}
+  "geometry": {"coordinates":[[[24.350275,44.042752],[24.35326,44.042608],[24.353367,44.043706],[24.354264,44.043632],[24.353981,44.042221],[24.350413,44.042438],[24.350439,44.040112],[24.351111,44.04003],[24.351132,44.039503],[24.348356,44.039691],[24.348205,44.038496],[24.346638,44.038594],[24.346614,44.038067],[24.344731,44.038314],[24.344809,44.039998],[24.341464,44.04026],[24.340061,44.040536],[24.340257,44.043274],[24.337429,44.043424],[24.337511,44.044279],[24.342296,44.044953],[24.342553,44.046019],[24.346468,44.04544],[24.350379,44.045215],[24.350275,44.042752]]],"type":"Polygon"}
 }

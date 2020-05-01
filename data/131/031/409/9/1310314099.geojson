@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.20864,46.43478,22.20864,46.43478",
-    "geom:latitude":46.43478,
-    "geom:longitude":22.20864,
+    "geom:area":0.000049,
+    "geom:area_square_m":414314.643736,
+    "geom:bbox":"22.204369,46.42796,22.211265,46.440722",
+    "geom:latitude":46.434333,
+    "geom:longitude":22.207631,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10649.0",
     "gn:asciiname":"Neagra",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.18864,46.41478,22.22864,46.45478",
+    "lbl:latitude":46.43478,
+    "lbl:longitude":22.20864,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Neagra"
@@ -49,7 +51,11 @@
         "Kisfeketefalu",
         "Nyagra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672478
+        "gn:id":672478,
+        "ro-ancpi:id":10685
     },
     "wof:country":"RO",
-    "wof:geomhash":"9b134dba8fdf4c34754cb5b4ad210146",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fae9eb32739255a6e4844b7ad0bd635f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1310314099,
-    "wof:lastmodified":1566610551,
+    "wof:lastmodified":1588366778,
     "wof:name":"Neagra",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.20864,
-    46.43478,
-    22.20864,
-    46.43478
+    22.204369,
+    46.42796,
+    22.211265,
+    46.440722
 ],
-  "geometry": {"coordinates":[22.20864,46.43478],"type":"Point"}
+  "geometry": {"coordinates":[[[22.208194,46.440722],[22.208654,46.438426],[22.209276,46.434483],[22.210144,46.431911],[22.210888,46.431973],[22.211087,46.431408],[22.210325,46.431318],[22.211265,46.428454],[22.207582,46.42796],[22.206867,46.430203],[22.20532,46.433914],[22.205383,46.434284],[22.204922,46.437724],[22.204795,46.438368],[22.2046,46.439139],[22.204369,46.439996],[22.204412,46.440374],[22.205582,46.440392],[22.208194,46.440722]]],"type":"Polygon"}
 }

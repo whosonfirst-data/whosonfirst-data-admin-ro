@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.76542,44.81298,27.76542,44.81298",
-    "geom:latitude":44.81298,
-    "geom:longitude":27.76542,
+    "geom:area":0.000062,
+    "geom:area_square_m":544588.784465,
+    "geom:bbox":"27.758601,44.808013,27.772396,44.816668",
+    "geom:latitude":44.81236,
+    "geom:longitude":27.765015,
     "gn:admin1_code":"08",
     "gn:admin2_code":"42842",
     "gn:asciiname":"Bertestii de Sus",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.74542,44.79298,27.78542,44.83298",
+    "lbl:latitude":44.81298,
+    "lbl:longitude":27.76542,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Berte\u015ftii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Bertestii de Sus"
+    ],
     "name:und_x_variant":[
         "Bertesti-de-Sus",
         "Bere\u015ftii-de-Sus",
         "Berte\u015ftii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684981
+        "gn:id":684981,
+        "ro-ancpi:id":42860
     },
     "wof:country":"RO",
-    "wof:geomhash":"a12e34659b9e0de2376c363502c215f7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2d864fbe4b8a3585188e6074cefcf571",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1327119883,
-    "wof:lastmodified":1566609867,
-    "wof:name":"Bertestii de Sus",
+    "wof:lastmodified":1588366645,
+    "wof:name":"Berte\u015ftii de Sus",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":374,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.76542,
-    44.81298,
-    27.76542,
-    44.81298
+    27.758601,
+    44.808013,
+    27.772396,
+    44.816668
 ],
-  "geometry": {"coordinates":[27.76542,44.81298],"type":"Point"}
+  "geometry": {"coordinates":[[[27.763479,44.816668],[27.763761,44.816152],[27.763869,44.816167],[27.76391,44.816127],[27.764066,44.816004],[27.765102,44.816051],[27.765013,44.81495],[27.765067,44.814907],[27.769817,44.812414],[27.771709,44.81141],[27.771641,44.811245],[27.772396,44.811068],[27.771829,44.809814],[27.771179,44.810031],[27.771043,44.80997],[27.77099,44.809852],[27.770868,44.809577],[27.770807,44.808685],[27.770782,44.808549],[27.770592,44.808344],[27.770436,44.808356],[27.770209,44.808251],[27.769969,44.808013],[27.76901,44.808326],[27.764238,44.809856],[27.764264,44.80995],[27.763357,44.810264],[27.763126,44.810146],[27.761467,44.810678],[27.76145,44.810726],[27.761424,44.810857],[27.759912,44.811321],[27.760458,44.812308],[27.758603,44.812845],[27.758601,44.81289],[27.758633,44.813409],[27.759184,44.814374],[27.759713,44.815393],[27.759933,44.815829],[27.760069,44.816587],[27.760549,44.816594],[27.763479,44.816668]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.57872,43.97195,24.57872,43.97195",
-    "geom:latitude":43.97195,
-    "geom:longitude":24.57872,
+    "geom:area":0.0001,
+    "geom:area_square_m":888153.113696,
+    "geom:bbox":"24.569145,43.966816,24.584298,43.975872",
+    "geom:latitude":43.971495,
+    "geom:longitude":24.577235,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128613.0",
     "gn:asciiname":"Plaviceni",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.55872,43.95195,24.59872,43.99195",
+    "lbl:latitude":43.97195,
+    "lbl:longitude":24.57872,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pl\u0103viceni"
+    ],
+    "name:ron_x_variant":[
+        "Plaviceni"
+    ],
     "name:und_x_variant":[
         "Pl\u0103viceanca",
         "Pl\u0103viceni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670539
+        "gn:id":670539,
+        "ro-ancpi:id":128631
     },
     "wof:country":"RO",
-    "wof:geomhash":"483de600934b53faac50bd6a37cea27a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"97dca4cd4bbeb95bd1fd981ffb9439ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1243133273,
-    "wof:lastmodified":1566611476,
-    "wof:name":"Plaviceni",
+    "wof:lastmodified":1588366831,
+    "wof:name":"Pl\u0103viceni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":839,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.57872,
-    43.97195,
-    24.57872,
-    43.97195
+    24.569145,
+    43.966816,
+    24.584298,
+    43.975872
 ],
-  "geometry": {"coordinates":[24.57872,43.97195],"type":"Point"}
+  "geometry": {"coordinates":[[[24.580288,43.97585],[24.583644,43.974663],[24.584298,43.966969],[24.581749,43.966816],[24.580582,43.968787],[24.570744,43.967597],[24.569648,43.971851],[24.569145,43.97393],[24.576934,43.975042],[24.577164,43.975872],[24.580288,43.97585]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.43177,46.74117,24.43177,46.74117",
-    "geom:latitude":46.74117,
-    "geom:longitude":24.43177,
+    "geom:area":0.000003,
+    "geom:area_square_m":25879.829058,
+    "geom:bbox":"24.426353,46.738742,24.433147,46.742013",
+    "geom:latitude":46.740254,
+    "geom:longitude":24.429865,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118995.0",
     "gn:asciiname":"Curete",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cure\u0163e"
+    ],
+    "name:ron_x_variant":[
+        "Curete"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679928
+        "gn:id":679928,
+        "ro-ancpi:id":119046
     },
     "wof:country":"RO",
-    "wof:geomhash":"c82bb3425bb2a05995c7aef316af63a3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"278223b1251031e342ba1dad5585b35d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1259827105,
-    "wof:lastmodified":1566611568,
-    "wof:name":"Curete",
+    "wof:lastmodified":1588367065,
+    "wof:name":"Cure\u0163e",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":16,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.43177,
-    46.74117,
-    24.43177,
-    46.74117
+    24.426353,
+    46.738742,
+    24.433147,
+    46.742013
 ],
-  "geometry": {"coordinates":[24.43177,46.74117],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.433147,46.738875],[24.431767,46.738742],[24.431533,46.739416],[24.43276,46.739711],[24.433147,46.738875]]],[[[24.427933,46.740155],[24.426749,46.739845],[24.426353,46.740607],[24.427644,46.740917],[24.427933,46.740155]]],[[[24.430789,46.741445],[24.430247,46.7407],[24.429349,46.740948],[24.430211,46.742013],[24.430789,46.741445]]]],"type":"MultiPolygon"}
 }

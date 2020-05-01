@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.00144,44.79535,24.00144,44.79535",
-    "geom:latitude":44.79535,
-    "geom:longitude":24.00144,
+    "geom:area":0.000044,
+    "geom:area_square_m":382583.175863,
+    "geom:bbox":"23.996225,44.790019,24.001764,44.806371",
+    "geom:latitude":44.798665,
+    "geom:longitude":23.999243,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681",
     "gn:asciiname":"Becsani",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bec\u015fani"
+    ],
+    "name:ron_x_variant":[
+        "Becsani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685199
+        "gn:id":685199,
+        "ro-ancpi:id":169716
     },
     "wof:country":"RO",
-    "wof:geomhash":"91e59e2981eded29b44836c7f64b9476",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eaabaf7a174638bc4823b4462c44f316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1343495155,
-    "wof:lastmodified":1566609929,
-    "wof:name":"Becsani",
+    "wof:lastmodified":1588367013,
+    "wof:name":"Bec\u015fani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":126,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.00144,
-    44.79535,
-    24.00144,
-    44.79535
+    23.996225,
+    44.790019,
+    24.001764,
+    44.806371
 ],
-  "geometry": {"coordinates":[24.00144,44.79535],"type":"Point"}
+  "geometry": {"coordinates":[[[23.99823,44.806259],[23.999292,44.802924],[24.001764,44.803048],[24.001413,44.800594],[24.000812,44.795994],[24.000629,44.790019],[23.998904,44.790284],[23.997637,44.795072],[23.998641,44.79503],[23.998523,44.799777],[23.996225,44.804046],[23.996399,44.806371],[23.99823,44.806259]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.33465,44.83967,25.33465,44.83967",
-    "geom:latitude":44.83967,
-    "geom:longitude":25.33465,
+    "geom:area":0.000026,
+    "geom:area_square_m":230029.890456,
+    "geom:bbox":"25.326465,44.837223,25.335855,44.847955",
+    "geom:latitude":44.842144,
+    "geom:longitude":25.331343,
     "gn:admin1_code":"16",
     "gn:admin2_code":"66580.0",
     "gn:asciiname":"Mislea",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.31465,44.81967,25.35465,44.85967",
+    "lbl:latitude":44.83967,
+    "lbl:longitude":25.33465,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mislea"
@@ -39,7 +41,11 @@
     "name:ron_x_preferred":[
         "Mislea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673066
+        "gn:id":673066,
+        "ro-ancpi:id":66679
     },
     "wof:country":"RO",
-    "wof:geomhash":"ae506c3907a38c3b848dc607a2ed3cb4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7ab2cc321a5914e9cec9b85904c7a24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1193250841,
-    "wof:lastmodified":1566610434,
+    "wof:lastmodified":1588366755,
     "wof:name":"Mislea",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -73,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.33465,
-    44.83967,
-    25.33465,
-    44.83967
+    25.326465,
+    44.837223,
+    25.335855,
+    44.847955
 ],
-  "geometry": {"coordinates":[25.33465,44.83967],"type":"Point"}
+  "geometry": {"coordinates":[[[25.334852,44.837223],[25.33266,44.83744],[25.332225,44.838493],[25.331868,44.838452],[25.331558,44.839327],[25.331652,44.8398],[25.331134,44.840669],[25.330156,44.842367],[25.329582,44.842227],[25.329033,44.84344],[25.329656,44.843597],[25.329435,44.844171],[25.32889,44.84471],[25.327949,44.845587],[25.326958,44.84657],[25.326465,44.847363],[25.328087,44.847955],[25.328499,44.84741],[25.330019,44.846006],[25.330861,44.845236],[25.331795,44.84306],[25.333151,44.840699],[25.3336,44.840839],[25.334045,44.840224],[25.334576,44.840246],[25.33472,44.839218],[25.334104,44.83906],[25.334153,44.838794],[25.335855,44.838931],[25.335764,44.837537],[25.334702,44.837558],[25.334852,44.837223]]],"type":"Polygon"}
 }

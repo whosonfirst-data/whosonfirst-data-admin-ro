@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.03428,45.78328,26.03428,45.78328",
-    "geom:latitude":45.78328,
-    "geom:longitude":26.03428,
+    "geom:area":0.000053,
+    "geom:area_square_m":458022.274233,
+    "geom:bbox":"26.028667,45.778261,26.042734,45.787905",
+    "geom:latitude":45.782202,
+    "geom:longitude":26.034953,
     "gn:admin1_code":"15",
     "gn:admin2_code":"63937.0",
     "gn:asciiname":"Dobolii de Sus",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.01428,45.76328,26.05428,45.80328",
+    "lbl:latitude":45.78328,
+    "lbl:longitude":26.03428,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dobolii de Sus"
+    ],
     "name:und_x_variant":[
         "Feldoboly",
         "Dobolii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679273
+        "gn:id":679273,
+        "ro-ancpi:id":63964
     },
     "wof:country":"RO",
-    "wof:geomhash":"39cc09e35430a34ff26e9e7521a691b7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ffd1c330af2d4def67398b91b4d1a11f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1226723195,
-    "wof:lastmodified":1566611610,
+    "wof:lastmodified":1588366865,
     "wof:name":"Dobolii de Sus",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.03428,
-    45.78328,
-    26.03428,
-    45.78328
+    26.028667,
+    45.778261,
+    26.042734,
+    45.787905
 ],
-  "geometry": {"coordinates":[26.03428,45.78328],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.036304,45.78454],[26.037018,45.784399],[26.036983,45.784784],[26.038546,45.784829],[26.03908,45.785356],[26.039475,45.785337],[26.039438,45.785038],[26.041285,45.784857],[26.041054,45.783561],[26.038851,45.783506],[26.038127,45.783416],[26.038426,45.782285],[26.037719,45.781885],[26.038223,45.77958],[26.037973,45.77897],[26.037409,45.778655],[26.036876,45.778636],[26.036111,45.778653],[26.034558,45.778261],[26.033146,45.778467],[26.032506,45.778903],[26.031894,45.779365],[26.032062,45.779767],[26.030099,45.78063],[26.028667,45.781893],[26.028865,45.782382],[26.030562,45.783125],[26.030958,45.783121],[26.031608,45.783416],[26.031526,45.783641],[26.0326,45.785576],[26.035703,45.784995],[26.035524,45.78457],[26.036304,45.78454]]],[[[26.042019,45.786972],[26.041592,45.786588],[26.040237,45.787789],[26.041985,45.787905],[26.042734,45.787408],[26.042019,45.786972]]]],"type":"MultiPolygon"}
 }

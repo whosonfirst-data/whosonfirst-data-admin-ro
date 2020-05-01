@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.53176,44.66934,24.53176,44.66934",
-    "geom:latitude":44.66934,
-    "geom:longitude":24.53176,
+    "geom:area":0.000033,
+    "geom:area_square_m":294261.753601,
+    "geom:bbox":"24.526579,44.666463,24.536158,44.677695",
+    "geom:latitude":44.671085,
+    "geom:longitude":24.530273,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128301.0",
     "gn:asciiname":"Surpeni",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.51176,44.64934,24.55176,44.68934",
+    "lbl:latitude":44.66934,
+    "lbl:longitude":24.53176,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Surpeni"
+    ],
     "name:und_x_variant":[
         "Surpenii",
         "Surpeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665714
+        "gn:id":665714,
+        "ro-ancpi:id":128365
     },
     "wof:country":"RO",
-    "wof:geomhash":"9121c25d41728a9a2d9b3126f709586c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"50f4e3fee736236a4e2eda2613100813",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1276815243,
-    "wof:lastmodified":1566610169,
+    "wof:lastmodified":1588366702,
     "wof:name":"Surpeni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.53176,
-    44.66934000000001,
-    24.53176,
-    44.66934000000001
+    24.526579,
+    44.666463,
+    24.536158,
+    44.677695
 ],
-  "geometry": {"coordinates":[24.53176,44.66934000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.536158,44.667878],[24.535978,44.666463],[24.533719,44.666732],[24.528945,44.668169],[24.527496,44.672662],[24.526579,44.67472],[24.527193,44.674959],[24.526886,44.677695],[24.528402,44.677667],[24.53039,44.671411],[24.532085,44.669484],[24.536158,44.667878]]],"type":"Polygon"}
 }

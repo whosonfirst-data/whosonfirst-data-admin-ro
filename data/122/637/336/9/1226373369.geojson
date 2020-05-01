@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.43097,45.26309,24.43097,45.26309",
-    "geom:latitude":45.26309,
-    "geom:longitude":24.43097,
+    "geom:area":0.000033,
+    "geom:area_square_m":283434.244119,
+    "geom:bbox":"24.417147,45.264281,24.42315,45.277159",
+    "geom:latitude":45.270938,
+    "geom:longitude":24.420623,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168675",
     "gn:asciiname":"Bradisor",
@@ -29,14 +29,23 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Br\u0103di\u015for"
+    ],
+    "name:ron_x_variant":[
+        "Bradisor"
+    ],
     "name:und_x_variant":[
         "Br\u0103di\u015foru",
         "Br\u0103di\u015forul",
         "Br\u0103di\u015for"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683936
+        "gn:id":683936,
+        "ro-ancpi:id":168700
     },
     "wof:country":"RO",
-    "wof:geomhash":"707e6b98cc32e3a2dbb8053c808cf55c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"841f2be732ee9b76b64694bf205c000f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +71,8 @@
         }
     ],
     "wof:id":1226373369,
-    "wof:lastmodified":1566611693,
-    "wof:name":"Bradisor",
+    "wof:lastmodified":1588367025,
+    "wof:name":"Br\u0103di\u015for",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":56,
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.43097,
-    45.26309000000001,
-    24.43097,
-    45.26309000000001
+    24.417147,
+    45.264281,
+    24.42315,
+    45.277159
 ],
-  "geometry": {"coordinates":[24.43097,45.26309000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.422168,45.264307],[24.420376,45.264281],[24.419359,45.264451],[24.419379,45.265786],[24.419954,45.265781],[24.419942,45.267008],[24.419128,45.267067],[24.419202,45.267633],[24.420015,45.267582],[24.420039,45.268509],[24.418986,45.268632],[24.419113,45.269477],[24.418537,45.269514],[24.418437,45.270438],[24.419668,45.27038],[24.419831,45.271364],[24.417147,45.271971],[24.417309,45.272721],[24.419864,45.272288],[24.419933,45.273279],[24.417379,45.274748],[24.418001,45.27533],[24.420342,45.274118],[24.420709,45.274606],[24.421485,45.277159],[24.42315,45.277148],[24.422017,45.271778],[24.421422,45.266585],[24.422168,45.264307]]],"type":"Polygon"}
 }

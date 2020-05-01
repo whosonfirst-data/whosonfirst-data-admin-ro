@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"29.29839,45.35784,29.29839,45.35784",
-    "geom:latitude":45.35784,
-    "geom:longitude":29.29839,
+    "geom:area":0.000037,
+    "geom:area_square_m":320670.181502,
+    "geom:bbox":"29.294382,45.344139,29.303096,45.3547",
+    "geom:latitude":45.349859,
+    "geom:longitude":29.29836,
     "gn:admin1_code":"37",
     "gn:admin2_code":"160172.0",
     "gn:asciiname":"Caslita",
@@ -28,21 +28,34 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "C\u00e2\u015fli\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Caslita"
+    ],
     "name:und_x_variant":[
         "C\u00ee\u0219li\u021ba"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681508
+        "gn:id":681508,
+        "ro-ancpi:id":160190
     },
     "wof:country":"RO",
-    "wof:geomhash":"0e8c58995c1f53467236a88dd80e630a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7cc06be2a111dde6138b107b5cb77cfc",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -50,8 +63,8 @@
         }
     ],
     "wof:id":1209658359,
-    "wof:lastmodified":1566610286,
-    "wof:name":"Caslita",
+    "wof:lastmodified":1588367157,
+    "wof:name":"C\u00e2\u015fli\u0163a",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.29839,
-    45.35784,
-    29.29839,
-    45.35784
+    29.294382,
+    45.344139,
+    29.303096,
+    45.3547
 ],
-  "geometry": {"coordinates":[29.29839,45.35784],"type":"Point"}
+  "geometry": {"coordinates":[[[29.298617,45.352011],[29.299029,45.350952],[29.300007,45.351059],[29.300427,45.349867],[29.302559,45.350158],[29.303096,45.34895],[29.301513,45.347595],[29.300312,45.347472],[29.300031,45.345119],[29.299456,45.344139],[29.297692,45.34456],[29.298572,45.346062],[29.296387,45.349552],[29.295615,45.350362],[29.29559,45.351598],[29.295391,45.35211],[29.294438,45.352997],[29.294382,45.354499],[29.297324,45.3547],[29.298617,45.352011]]],"type":"Polygon"}
 }

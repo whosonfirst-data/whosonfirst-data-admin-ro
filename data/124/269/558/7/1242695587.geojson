@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.97866,46.34027,22.97866,46.34027",
-    "geom:latitude":46.34027,
-    "geom:longitude":22.97866,
+    "geom:area":0.00001,
+    "geom:area_square_m":89555.429259,
+    "geom:bbox":"22.967949,46.328974,22.973235,46.335336",
+    "geom:latitude":46.331994,
+    "geom:longitude":22.970023,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Hoanca",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Hoanc\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Hoanca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676136
+        "gn:id":676136,
+        "ro-ancpi:id":7552
     },
     "wof:country":"RO",
-    "wof:geomhash":"049b5387b13b07096d1ac7e81e5c8f26",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd7cb9c7d7bb2b47db7e691430e818ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1242695587,
-    "wof:lastmodified":1566611461,
-    "wof:name":"Hoanca",
+    "wof:lastmodified":1588367126,
+    "wof:name":"Hoanc\u0103",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":101,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.97866,
-    46.34027,
-    22.97866,
-    46.34027
+    22.967949,
+    46.328974,
+    22.973235,
+    46.335336
 ],
-  "geometry": {"coordinates":[22.97866,46.34027],"type":"Point"}
+  "geometry": {"coordinates":[[[22.970771,46.335336],[22.970998,46.334622],[22.969199,46.334258],[22.969643,46.332446],[22.970817,46.331343],[22.97167,46.330394],[22.972559,46.329851],[22.973235,46.329548],[22.972658,46.329335],[22.972596,46.329321],[22.972409,46.329279],[22.972206,46.329241],[22.971989,46.3292],[22.971772,46.329164],[22.971513,46.329113],[22.97086,46.328974],[22.968724,46.331684],[22.967949,46.33486],[22.970771,46.335336]]],"type":"Polygon"}
 }

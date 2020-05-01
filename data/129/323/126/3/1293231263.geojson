@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24175,45.0082,24.24175,45.0082",
-    "geom:latitude":45.0082,
-    "geom:longitude":24.24175,
+    "geom:area":0.000073,
+    "geom:area_square_m":642364.874218,
+    "geom:bbox":"24.231757,44.99594,24.244725,45.012923",
+    "geom:latitude":45.006745,
+    "geom:longitude":24.239496,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171325",
     "gn:asciiname":"Arsanca",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.22175,44.9882,24.26175,45.0282",
+    "lbl:latitude":45.0082,
+    "lbl:longitude":24.24175,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Arsanca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686122
+        "gn:id":686122,
+        "ro-ancpi:id":171343
     },
     "wof:country":"RO",
-    "wof:geomhash":"7ee58a83b30e82bcb37ee84cf98954d8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9af88a7d8b04f5e9852216020ac233b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1293231263,
-    "wof:lastmodified":1566610068,
+    "wof:lastmodified":1588366681,
     "wof:name":"Arsanca",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24175,
-    45.0082,
-    24.24175,
-    45.0082
+    24.231757,
+    44.99594,
+    24.244725,
+    45.012923
 ],
-  "geometry": {"coordinates":[24.24175,45.0082],"type":"Point"}
+  "geometry": {"coordinates":[[[24.244725,45.012317],[24.244714,45.01222],[24.244672,45.012065],[24.244654,45.012001],[24.244349,45.011298],[24.243477,45.00925],[24.243159,45.00852],[24.242434,45.006816],[24.241934,45.005657],[24.241526,45.004673],[24.241465,45.004477],[24.241449,45.004312],[24.241488,45.003678],[24.241599,45.001962],[24.241682,45.000027],[24.241772,44.998925],[24.241781,44.998711],[24.24177,44.998591],[24.241747,44.998452],[24.241736,44.998301],[24.241719,44.997685],[24.241647,44.996507],[24.241628,44.996141],[24.238865,44.99594],[24.238597,44.999469],[24.240423,44.999437],[24.240411,45.005019],[24.231757,45.007238],[24.232739,45.00912],[24.235391,45.008558],[24.238244,45.011703],[24.238342,45.012642],[24.240306,45.012923],[24.244658,45.012327],[24.244725,45.012317]]],"type":"Polygon"}
 }

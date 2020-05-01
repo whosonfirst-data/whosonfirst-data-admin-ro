@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29157,44.78568,24.29157,44.78568",
-    "geom:latitude":44.78568,
-    "geom:longitude":24.29157,
+    "geom:area":0.000057,
+    "geom:area_square_m":496992.386604,
+    "geom:bbox":"24.283227,44.782688,24.301472,44.792899",
+    "geom:latitude":44.78721,
+    "geom:longitude":24.29241,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169547",
     "gn:asciiname":"Buciumeni",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.27157,44.76568,24.31157,44.80568",
+    "lbl:latitude":44.78568,
+    "lbl:longitude":24.29157,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Buciumeni"
@@ -51,7 +53,11 @@
     "name:vol_x_preferred":[
         "Buciumeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683567
+        "gn:id":683567,
+        "ro-ancpi:id":169565
     },
     "wof:country":"RO",
-    "wof:geomhash":"376722d8cdf448d5576f79a428013324",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"491f6158ae9e8213df8817322d134a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +83,7 @@
         }
     ],
     "wof:id":1277016851,
-    "wof:lastmodified":1566610156,
+    "wof:lastmodified":1588366699,
     "wof:name":"Buciumeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -85,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29157,
-    44.78568,
-    24.29157,
-    44.78568
+    24.283227,
+    44.782688,
+    24.301472,
+    44.792899
 ],
-  "geometry": {"coordinates":[24.29157,44.78568],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.297732,44.791421],[24.291745,44.784593],[24.286863,44.784373],[24.283227,44.789642],[24.286252,44.790496],[24.287229,44.787857],[24.290179,44.787245],[24.294193,44.790675],[24.297221,44.792899],[24.297732,44.791421]]],[[[24.301472,44.783337],[24.299144,44.782688],[24.297989,44.784499],[24.29864,44.787247],[24.300696,44.78774],[24.301472,44.783337]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.01667,44.66667,23.01667,44.66667",
-    "geom:latitude":44.66667,
-    "geom:longitude":23.01667,
+    "geom:area":0.000009,
+    "geom:area_square_m":77291.329429,
+    "geom:bbox":"23.010619,44.679586,23.015034,44.683055",
+    "geom:latitude":44.681619,
+    "geom:longitude":23.012754,
     "gn:admin1_code":"26",
     "gn:admin2_code":"111275.0",
     "gn:asciiname":"Parvulesti",
@@ -28,12 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "P\u00e2rvule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Parvulesti"
+    ],
     "name:und_x_variant":[
         "P\u00eervule\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670672
+        "gn:id":670672,
+        "ro-ancpi:id":111373
     },
     "wof:country":"RO",
-    "wof:geomhash":"4f3e94ebb751680cd3e1e2b526605730",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0b673cfa01e0055eb3de34aeb600632b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1327290767,
-    "wof:lastmodified":1566609869,
-    "wof:name":"Parvulesti",
+    "wof:lastmodified":1588367115,
+    "wof:name":"P\u00e2rvule\u015fti",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":93,
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.01667,
-    44.66667,
-    23.01667,
-    44.66667
+    23.010619,
+    44.679586,
+    23.015034,
+    44.683055
 ],
-  "geometry": {"coordinates":[23.01667,44.66667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.014867,44.683007],[23.014783,44.682516],[23.014901,44.682269],[23.015034,44.681602],[23.014044,44.681621],[23.013881,44.681184],[23.013535,44.681178],[23.01338,44.68053],[23.013253,44.680528],[23.013223,44.680407],[23.013119,44.679811],[23.012465,44.679586],[23.012165,44.679614],[23.012065,44.680621],[23.010619,44.680638],[23.010727,44.682168],[23.011702,44.682107],[23.011775,44.682685],[23.012443,44.682675],[23.012456,44.683055],[23.014867,44.683007]]],"type":"Polygon"}
 }

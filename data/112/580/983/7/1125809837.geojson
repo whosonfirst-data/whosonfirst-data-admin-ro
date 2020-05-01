@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91667,45.76667,23.91667,45.76667",
-    "geom:latitude":45.76667,
-    "geom:longitude":23.91667,
+    "geom:area":0.000052,
+    "geom:area_square_m":448600.021222,
+    "geom:bbox":"23.898694,45.760585,23.917101,45.768622",
+    "geom:latitude":45.765347,
+    "geom:longitude":23.908827,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -19,11 +19,14 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:hun_x_preferred":[
         "Szibiel"
+    ],
+    "name:ron_x_preferred":[
+        "Sibiel"
     ],
     "qs_pg:aaroncc":"RO",
     "qs_pg:gn_country":"RO",
@@ -45,7 +48,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":880235,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -61,11 +67,15 @@
     "wof:concordances":{
         "gn:id":667278,
         "gp:id":880235,
-        "qs_pg:id":1083404
+        "qs_pg:id":1083404,
+        "ro-ancpi:id":145587
     },
     "wof:country":"RO",
     "wof:created":1497291610,
-    "wof:geomhash":"9460918c7730ed482a6ceb4152cb460b",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"fabc30a40674a3be15accbb1f0994591",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +85,7 @@
         }
     ],
     "wof:id":1125809837,
-    "wof:lastmodified":1566611332,
+    "wof:lastmodified":1588366814,
     "wof:name":"Sibiel",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -87,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.91667,
-    45.76667,
-    23.91667,
-    45.76667
+    23.898694,
+    45.760585,
+    23.917101,
+    45.768622
 ],
-  "geometry": {"coordinates":[23.91667,45.76667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.917101,45.766892],[23.916486,45.765077],[23.915054,45.765602],[23.912886,45.765294],[23.908866,45.765326],[23.908736,45.764271],[23.908593,45.762809],[23.90677,45.760635],[23.905687,45.76084],[23.905387,45.761268],[23.906408,45.764213],[23.905677,45.764353],[23.905154,45.763854],[23.903724,45.763133],[23.902103,45.762842],[23.90096,45.761753],[23.899117,45.760585],[23.898694,45.76118],[23.899331,45.761693],[23.900535,45.763342],[23.902526,45.76413],[23.90509,45.765233],[23.905221,45.765764],[23.905997,45.767509],[23.907545,45.768012],[23.911913,45.768152],[23.916031,45.768622],[23.916493,45.767752],[23.917101,45.766892]]],"type":"Polygon"}
 }

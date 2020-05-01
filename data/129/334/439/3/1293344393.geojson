@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41845,45.97752,24.41845,45.97752",
-    "geom:latitude":45.97752,
-    "geom:longitude":24.41845,
+    "geom:area":0.000051,
+    "geom:area_square_m":440533.028232,
+    "geom:bbox":"24.412513,45.971036,24.422624,45.98277",
+    "geom:latitude":45.977308,
+    "geom:longitude":24.41676,
     "gn:admin1_code":"33",
     "gn:admin2_code":"143888.0",
     "gn:asciiname":"Ghijasa de Sus",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.39845,45.95752,24.43845,45.99752",
+    "lbl:latitude":45.97752,
+    "lbl:longitude":24.41845,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ghijasa de Sus"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677395
+        "gn:id":677395,
+        "ro-ancpi:id":143913
     },
     "wof:country":"RO",
-    "wof:geomhash":"ade83cf8701cfd15ea32f8353bd0e5ed",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d0acb352202bb89143c86d12289573d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1293344393,
-    "wof:lastmodified":1566610106,
+    "wof:lastmodified":1588366689,
     "wof:name":"Ghijasa de Sus",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41845,
-    45.97752,
-    24.41845,
-    45.97752
+    24.412513,
+    45.971036,
+    24.422624,
+    45.98277
 ],
-  "geometry": {"coordinates":[24.41845,45.97752],"type":"Point"}
+  "geometry": {"coordinates":[[[24.4181,45.972231],[24.415628,45.971036],[24.413846,45.972425],[24.414282,45.973583],[24.412513,45.973928],[24.413896,45.97897],[24.415088,45.980613],[24.417373,45.980979],[24.419016,45.981904],[24.419902,45.982433],[24.420702,45.98277],[24.422624,45.980915],[24.419852,45.978893],[24.418722,45.977528],[24.416648,45.973349],[24.4181,45.972231]]],"type":"Polygon"}
 }

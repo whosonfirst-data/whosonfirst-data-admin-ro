@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.92988,45.39369,25.92988,45.39369",
-    "geom:latitude":45.39369,
-    "geom:longitude":25.92988,
+    "geom:area":0.000006,
+    "geom:area_square_m":51845.142595,
+    "geom:bbox":"25.927354,45.392059,25.932102,45.39496",
+    "geom:latitude":45.393624,
+    "geom:longitude":25.930127,
     "gn:admin1_code":"30",
     "gn:admin2_code":"134096.0",
     "gn:asciiname":"Manastirea Suzana",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.90988,45.37369,25.94988,45.41369",
+    "lbl:latitude":45.39369,
+    "lbl:longitude":25.92988,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "M\u00e2n\u0103stirea Suzana"
+    ],
+    "name:ron_x_variant":[
+        "Manastirea Suzana"
+    ],
     "name:und_x_variant":[
         "M\u00e2n\u0103stirea-Suzana",
         "Mon\u0103stirea Suzanna",
         "M\u00een\u0103stirea Suzana"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673236
+        "gn:id":673236,
+        "ro-ancpi:id":134167
     },
     "wof:country":"RO",
-    "wof:geomhash":"29bb43a899d5331ac0a828fbe39a9886",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"16d92c425977eace9c85f9c9c0d3450f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1242933753,
-    "wof:lastmodified":1566611459,
-    "wof:name":"Manastirea Suzana",
+    "wof:lastmodified":1588366827,
+    "wof:name":"M\u00e2n\u0103stirea Suzana",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.92988,
-    45.39369,
-    25.92988,
-    45.39369
+    25.927354,
+    45.392059,
+    25.932102,
+    45.39496
 ],
-  "geometry": {"coordinates":[25.92988,45.39369],"type":"Point"}
+  "geometry": {"coordinates":[[[25.930938,45.394175],[25.931116,45.393976],[25.931193,45.394262],[25.931386,45.394464],[25.931641,45.394589],[25.931923,45.394651],[25.932102,45.394573],[25.932003,45.394038],[25.931678,45.392996],[25.931308,45.392489],[25.930912,45.392059],[25.93039,45.392198],[25.930158,45.392365],[25.930215,45.392524],[25.93028,45.392644],[25.929992,45.392742],[25.929579,45.392931],[25.929312,45.393181],[25.929127,45.393482],[25.928886,45.393669],[25.928381,45.393724],[25.928139,45.393853],[25.927952,45.394027],[25.927691,45.39415],[25.927532,45.394381],[25.927354,45.394526],[25.928026,45.39496],[25.92878,45.394367],[25.930938,45.394175]]],"type":"Polygon"}
 }

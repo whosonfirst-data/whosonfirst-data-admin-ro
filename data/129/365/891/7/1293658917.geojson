@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.49638,45.22708,25.49638,45.22708",
-    "geom:latitude":45.22708,
-    "geom:longitude":25.49638,
+    "geom:area":0.000074,
+    "geom:area_square_m":641032.493143,
+    "geom:bbox":"25.485839,45.222543,25.502027,45.23063",
+    "geom:latitude":45.226289,
+    "geom:longitude":25.494708,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68182.0",
     "gn:asciiname":"Muscel",
@@ -26,21 +26,30 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.47638,45.20708,25.51638,45.24708",
+    "lbl:latitude":45.22708,
+    "lbl:longitude":25.49638,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Muscel"
     ],
     "name:ron_x_preferred":[
+        "Mu\u015fcel"
+    ],
+    "name:ron_x_variant":[
         "Muscel"
     ],
     "name:und_x_variant":[
         "Muscelui"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672591
+        "gn:id":672591,
+        "ro-ancpi:id":68235
     },
     "wof:country":"RO",
-    "wof:geomhash":"08314045d900e40bed979c9149b1566d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5856559d5bc4c57e0d83a0d0057c4fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,8 +75,8 @@
         }
     ],
     "wof:id":1293658917,
-    "wof:lastmodified":1566610031,
-    "wof:name":"Muscel",
+    "wof:lastmodified":1588366672,
+    "wof:name":"Mu\u015fcel",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":121,
@@ -74,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.49638,
-    45.22708,
-    25.49638,
-    45.22708
+    25.485839,
+    45.222543,
+    25.502027,
+    45.23063
 ],
-  "geometry": {"coordinates":[25.49638,45.22708],"type":"Point"}
+  "geometry": {"coordinates":[[[25.4934,45.23063],[25.495002,45.228898],[25.496282,45.229791],[25.497696,45.230222],[25.500434,45.228656],[25.50166,45.227387],[25.502027,45.226098],[25.501536,45.224959],[25.499431,45.224166],[25.496812,45.223546],[25.492917,45.222543],[25.491621,45.223763],[25.489139,45.223143],[25.488077,45.223584],[25.487874,45.223925],[25.488843,45.224601],[25.487036,45.226455],[25.485839,45.227286],[25.488771,45.228318],[25.49096,45.2269],[25.493728,45.228734],[25.492364,45.230173],[25.4934,45.23063]]],"type":"Polygon"}
 }

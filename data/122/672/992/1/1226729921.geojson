@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.54553,44.8706,21.54553,44.8706",
-    "geom:latitude":44.8706,
-    "geom:longitude":21.54553,
+    "geom:area":0.000034,
+    "geom:area_square_m":297398.371448,
+    "geom:bbox":"21.537036,44.867413,21.547503,44.88025",
+    "geom:latitude":44.871316,
+    "geom:longitude":21.543095,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53345.0",
     "gn:asciiname":"Lescovita",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.52553,44.8506,21.56553,44.8906",
+    "lbl:latitude":44.8706,
+    "lbl:longitude":21.54553,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Lescovi\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Lescovita"
+    ],
     "name:und_x_variant":[
         "Leskovica",
         "Lescovi\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674859
+        "gn:id":674859,
+        "ro-ancpi:id":53363
     },
     "wof:country":"RO",
-    "wof:geomhash":"163ab1d3cb2d3a0b43fdac6cce12cbfb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8d40a829da13e491bae9ee4d559e4a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1226729921,
-    "wof:lastmodified":1566611609,
-    "wof:name":"Lescovita",
+    "wof:lastmodified":1588366865,
+    "wof:name":"Lescovi\u0163a",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":432,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.54553,
-    44.8706,
-    21.54553,
-    44.8706
+    21.537036,
+    44.867413,
+    21.547503,
+    44.88025
 ],
-  "geometry": {"coordinates":[21.54553,44.8706],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.545825,44.870127],[21.547503,44.869191],[21.547393,44.868996],[21.546944,44.869069],[21.546873,44.868759],[21.54638,44.868721],[21.545348,44.868845],[21.544965,44.868597],[21.545234,44.868163],[21.54375,44.867812],[21.542512,44.868738],[21.5415,44.869272],[21.540277,44.867413],[21.538286,44.868336],[21.538961,44.869204],[21.539457,44.869539],[21.53983,44.869979],[21.539991,44.87043],[21.540719,44.870825],[21.541943,44.871163],[21.542211,44.871539],[21.542192,44.872733],[21.542551,44.873591],[21.543059,44.874171],[21.544517,44.875015],[21.546328,44.874858],[21.546147,44.873741],[21.545763,44.872983],[21.545662,44.872952],[21.545595,44.871499],[21.546563,44.871024],[21.546303,44.870737],[21.545825,44.870127]]],[[[21.538651,44.880059],[21.538341,44.878813],[21.537036,44.87891],[21.537276,44.88025],[21.538651,44.880059]]]],"type":"MultiPolygon"}
 }

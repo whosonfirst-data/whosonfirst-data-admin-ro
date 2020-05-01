@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11456,44.41933,24.11456,44.41933",
-    "geom:latitude":44.41933,
-    "geom:longitude":24.11456,
+    "geom:area":0.000011,
+    "geom:area_square_m":95486.126557,
+    "geom:bbox":"24.111068,44.416588,24.114725,44.421335",
+    "geom:latitude":44.418987,
+    "geom:longitude":24.112927,
     "gn:admin1_code":"29",
     "gn:admin2_code":"125873.0",
     "gn:asciiname":"Govora",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Govora"
@@ -42,7 +42,10 @@
     "name:srp_x_preferred":[
         "\u0413\u043e\u0432\u043e\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676849
+        "gn:id":676849,
+        "ro-ancpi:id":125935
     },
     "wof:country":"RO",
-    "wof:geomhash":"5c3d48fb2eca3a270a6b2a5b2aca1572",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f5170cdb932cfb0ac6c70806d91c3cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":1326877295,
-    "wof:lastmodified":1566609781,
+    "wof:lastmodified":1588367155,
     "wof:name":"Govora",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11456,
-    44.41933,
-    24.11456,
-    44.41933
+    24.111068,
+    44.416588,
+    24.114725,
+    44.421335
 ],
-  "geometry": {"coordinates":[24.11456,44.41933],"type":"Point"}
+  "geometry": {"coordinates":[[[24.114725,44.420528],[24.113241,44.416588],[24.111068,44.416833],[24.112101,44.420358],[24.112579,44.421189],[24.114412,44.421335],[24.114725,44.420528]]],"type":"Polygon"}
 }

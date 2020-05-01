@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.86559,46.30217,22.86559,46.30217",
-    "geom:latitude":46.30217,
-    "geom:longitude":22.86559,
+    "geom:area":0.000002,
+    "geom:area_square_m":17918.272819,
+    "geom:bbox":"22.860397,46.302174,22.864501,46.306631",
+    "geom:latitude":46.303048,
+    "geom:longitude":22.863701,
     "gn:admin1_code":"21",
     "gn:admin2_code":"88350.0",
     "gn:asciiname":"Dragu-Brad",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dragu-Brad"
+    ],
     "name:und_x_variant":[
         "Purcari",
         "Dragu-Brad"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678892
+        "gn:id":678892,
+        "ro-ancpi:id":88396
     },
     "wof:country":"RO",
-    "wof:geomhash":"98910718328c1ae35a14c9ba28a2deab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3536517a44bacf557f29b3538a0633f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1243222663,
-    "wof:lastmodified":1566611478,
+    "wof:lastmodified":1588367067,
     "wof:name":"Dragu-Brad",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.86559,
-    46.30217,
-    22.86559,
-    46.30217
+    22.860397,
+    46.302174,
+    22.864501,
+    46.306631
 ],
-  "geometry": {"coordinates":[22.86559,46.30217],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.864207,46.303732],[22.864205,46.303216],[22.864429,46.30322],[22.864489,46.302408],[22.864501,46.302243],[22.862999,46.302174],[22.862976,46.302258],[22.862853,46.302923],[22.86341,46.302991],[22.863439,46.303514],[22.863827,46.304274],[22.864213,46.304122],[22.864106,46.303789],[22.864207,46.303732]]],[[[22.860671,46.306442],[22.860456,46.306412],[22.860397,46.306588],[22.860654,46.306631],[22.860671,46.306442]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.97945,46.29439,22.97945,46.29439",
-    "geom:latitude":46.29439,
-    "geom:longitude":22.97945,
+    "geom:area":0.000013,
+    "geom:area_square_m":110259.246012,
+    "geom:bbox":"22.973982,46.291957,22.981345,46.294653",
+    "geom:latitude":46.293286,
+    "geom:longitude":22.977725,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Toci",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:fas_x_preferred":[
         "\u062a\u0648\u0633\u06cc"
@@ -48,6 +48,9 @@
     "name:por_x_preferred":[
         "Toci"
     ],
+    "name:ron_x_preferred":[
+        "Toci"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0441\u0438"
     ],
@@ -60,7 +63,10 @@
     "name:swe_x_preferred":[
         "Toci"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +75,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664875
+        "gn:id":664875,
+        "ro-ancpi:id":7730
     },
     "wof:country":"RO",
-    "wof:geomhash":"453a9dfc44e2242b6cc364ae2ea11514",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0da3d2e469548731e0fff9f449c3a84a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +92,7 @@
         }
     ],
     "wof:id":1209729601,
-    "wof:lastmodified":1566610402,
+    "wof:lastmodified":1588367037,
     "wof:name":"Toci",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -94,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.97945,
-    46.29439,
-    22.97945,
-    46.29439
+    22.973982,
+    46.291957,
+    22.981345,
+    46.294653
 ],
-  "geometry": {"coordinates":[22.97945,46.29439],"type":"Point"}
+  "geometry": {"coordinates":[[[22.981344,46.293176],[22.981345,46.292312],[22.976355,46.291957],[22.975373,46.293124],[22.974857,46.293128],[22.973982,46.294539],[22.976825,46.294653],[22.976841,46.29408],[22.979423,46.294263],[22.980224,46.294318],[22.980252,46.293352],[22.981344,46.293176]]],"type":"Polygon"}
 }

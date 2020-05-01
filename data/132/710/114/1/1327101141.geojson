@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24044,46.51307,24.24044,46.51307",
-    "geom:latitude":46.51307,
-    "geom:longitude":24.24044,
+    "geom:area":0.000007,
+    "geom:area_square_m":57400.054216,
+    "geom:bbox":"24.225461,46.508052,24.231086,46.511613",
+    "geom:latitude":46.510214,
+    "geom:longitude":24.22855,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117827.0",
     "gn:asciiname":"Racamet",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Racame\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Racamet"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669406
+        "gn:id":669406,
+        "ro-ancpi:id":117890
     },
     "wof:country":"RO",
-    "wof:geomhash":"03f8a15a9c7672b6632f68216da56948",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8c936e928d949c3ce0289904564ca8da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1327101141,
-    "wof:lastmodified":1566609865,
-    "wof:name":"Racamet",
+    "wof:lastmodified":1588367040,
+    "wof:name":"Racame\u0163",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":33,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24044,
-    46.51307,
-    24.24044,
-    46.51307
+    24.225461,
+    46.508052,
+    24.231086,
+    46.511613
 ],
-  "geometry": {"coordinates":[24.24044,46.51307],"type":"Point"}
+  "geometry": {"coordinates":[[[24.228287,46.51077],[24.228538,46.510738],[24.229198,46.510765],[24.229837,46.511176],[24.230914,46.509524],[24.231086,46.508686],[24.230335,46.508052],[24.229892,46.508495],[24.230363,46.508786],[24.229918,46.509347],[24.229422,46.509514],[24.229175,46.509565],[24.228734,46.50985],[24.227439,46.510156],[24.225461,46.510444],[24.225748,46.511613],[24.227577,46.511166],[24.228287,46.51077]]],"type":"Polygon"}
 }

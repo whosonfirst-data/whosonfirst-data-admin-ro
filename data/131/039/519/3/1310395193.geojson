@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.86667,45.75,24.86667,45.75",
-    "geom:latitude":45.75,
-    "geom:longitude":24.86667,
+    "geom:area":0.000059,
+    "geom:area_square_m":505296.05331,
+    "geom:bbox":"24.862884,45.743405,24.873687,45.755573",
+    "geom:latitude":45.749162,
+    "geom:longitude":24.869984,
     "gn:admin1_code":"09",
     "gn:admin2_code":"41346.0",
     "gn:asciiname":"Pojorta",
@@ -28,15 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Posorta"
     ],
+    "name:ron_x_preferred":[
+        "Pojorta"
+    ],
     "name:und_x_variant":[
         "Pojor\u00eeta"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669969
+        "gn:id":669969,
+        "ro-ancpi:id":41373
     },
     "wof:country":"RO",
-    "wof:geomhash":"75eaae5c2c825423b462ebf2f8066adf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6644230b091e99004bb7d76fb13b3407",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1310395193,
-    "wof:lastmodified":1566610561,
+    "wof:lastmodified":1588367147,
     "wof:name":"Pojorta",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.86667000000001,
-    45.75,
-    24.86667000000001,
-    45.75
+    24.862884,
+    45.743405,
+    24.873687,
+    45.755573
 ],
-  "geometry": {"coordinates":[24.86667000000001,45.75],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.872928,45.743896],[24.869129,45.743405],[24.867702,45.745976],[24.866456,45.747782],[24.865954,45.74959],[24.868165,45.749958],[24.86824,45.750927],[24.868139,45.751709],[24.86761,45.754803],[24.871483,45.755573],[24.871987,45.753666],[24.872589,45.751319],[24.873687,45.748939],[24.87185,45.748432],[24.873524,45.744122],[24.872928,45.743896]]],[[[24.864015,45.746179],[24.86375,45.746079],[24.863255,45.746545],[24.862884,45.746825],[24.863099,45.747102],[24.863723,45.747181],[24.864175,45.746624],[24.864015,45.746179]]]],"type":"MultiPolygon"}
 }

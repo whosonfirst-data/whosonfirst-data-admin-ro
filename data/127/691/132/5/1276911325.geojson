@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.96667,44.81667,23.96667,44.81667",
-    "geom:latitude":44.81667,
-    "geom:longitude":23.96667,
+    "geom:area":0.000023,
+    "geom:area_square_m":201988.087848,
+    "geom:bbox":"23.965877,44.812441,23.972417,44.820676",
+    "geom:latitude":44.816819,
+    "geom:longitude":23.968806,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Cuci",
@@ -28,15 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Cuci"
+    ],
+    "name:ron_x_preferred":[
         "Cuci"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0443\u0447\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680046
+        "gn:id":680046,
+        "ro-ancpi:id":169734
     },
     "wof:country":"RO",
-    "wof:geomhash":"c7040e7109f6e5055214fe5b251564fd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8bdd9d5792d2487ee58f2c3243bdae3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1276911325,
-    "wof:lastmodified":1566610260,
+    "wof:lastmodified":1588367016,
     "wof:name":"Cuci",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.96667,
-    44.81667,
-    23.96667,
-    44.81667
+    23.965877,
+    44.812441,
+    23.972417,
+    44.820676
 ],
-  "geometry": {"coordinates":[23.96667,44.81667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.972417,44.819915],[23.967494,44.812441],[23.965877,44.812631],[23.965995,44.81401],[23.969032,44.820676],[23.972417,44.819915]]],"type":"Polygon"}
 }

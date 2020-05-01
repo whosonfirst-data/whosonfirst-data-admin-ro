@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.84478,46.44518,22.84478,46.44518",
-    "geom:latitude":46.44518,
-    "geom:longitude":22.84478,
+    "geom:area":0.000005,
+    "geom:area_square_m":43934.481002,
+    "geom:bbox":"22.833759,46.43395,22.842053,46.441855",
+    "geom:latitude":46.437988,
+    "geom:longitude":22.838454,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4525.0",
     "gn:asciiname":"Huzaresti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Huz\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Huzaresti"
+    ],
     "name:und_x_variant":[
         "Husare\u015fti",
         "Huz\u0103re\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675875
+        "gn:id":675875,
+        "ro-ancpi:id":4614
     },
     "wof:country":"RO",
-    "wof:geomhash":"63e936bcde9bdb335895b79f24526b5e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"49a0e9ca0075d4d1a1a3ee73d7bbdbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1259597217,
-    "wof:lastmodified":1566611578,
-    "wof:name":"Huzaresti",
+    "wof:lastmodified":1588367124,
+    "wof:name":"Huz\u0103re\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":111,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.84478,
-    46.44518,
-    22.84478,
-    46.44518
+    22.833759,
+    46.43395,
+    22.842053,
+    46.441855
 ],
-  "geometry": {"coordinates":[22.84478,46.44518],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.842053,46.4403],[22.841494,46.439498],[22.840563,46.439759],[22.840163,46.441543],[22.84083,46.441855],[22.841316,46.441696],[22.842053,46.4403]]],[[[22.835235,46.434127],[22.834185,46.43395],[22.833759,46.43446],[22.835008,46.435297],[22.836564,46.434892],[22.836587,46.434472],[22.836189,46.434372],[22.835235,46.434127]]]],"type":"MultiPolygon"}
 }

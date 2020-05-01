@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21001,46.5355,24.21001,46.5355",
-    "geom:latitude":46.5355,
-    "geom:longitude":24.21001,
+    "geom:area":0.000009,
+    "geom:area_square_m":79206.150974,
+    "geom:bbox":"24.208541,46.533285,24.21169,46.536995",
+    "geom:latitude":46.535083,
+    "geom:longitude":24.210033,
     "gn:admin1_code":"27",
     "gn:admin2_code":"119386",
     "gn:asciiname":"Valisoara",
@@ -25,15 +25,27 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.19001,46.5155,24.23001,46.5555",
+    "lbl:latitude":46.5355,
+    "lbl:longitude":24.21001,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "S\u00e1rkih\u00edd"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "V\u0103li\u015foara"
+    ],
+    "name:ron_x_variant":[
+        "Valisoara"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11001520
+        "gn:id":11001520,
+        "ro-ancpi:id":119448
     },
     "wof:country":"RO",
-    "wof:geomhash":"7571a5f8f5c3cd8ece8e802c1da595a3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1dd82772a924523bca99a6cbc1af5499",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +71,8 @@
         }
     ],
     "wof:id":1276930795,
-    "wof:lastmodified":1566610199,
-    "wof:name":"Valisoara",
+    "wof:lastmodified":1588366710,
+    "wof:name":"V\u0103li\u015foara",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":3,
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.21001,
-    46.5355,
-    24.21001,
-    46.5355
+    24.208541,
+    46.533285,
+    24.21169,
+    46.536995
 ],
-  "geometry": {"coordinates":[24.21001,46.5355],"type":"Point"}
+  "geometry": {"coordinates":[[[24.21108,46.536773],[24.21169,46.533285],[24.20881,46.533485],[24.208541,46.536995],[24.210005,46.536807],[24.21108,46.536773]]],"type":"Polygon"}
 }

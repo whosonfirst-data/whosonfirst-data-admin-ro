@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.96235,45.17164,23.96235,45.17164",
-    "geom:latitude":45.17164,
-    "geom:longitude":23.96235,
+    "geom:area":0.00007,
+    "geom:area_square_m":613048.943701,
+    "geom:bbox":"23.948623,45.16592,23.965736,45.185499",
+    "geom:latitude":45.174705,
+    "geom:longitude":23.95831,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168041.0",
     "gn:asciiname":"Ursani",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.94235,45.15164,23.98235,45.19164",
+    "lbl:latitude":45.17164,
+    "lbl:longitude":23.96235,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ur\u015fani"
+    ],
+    "name:ron_x_variant":[
+        "Ursani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664119
+        "gn:id":664119,
+        "ro-ancpi:id":168112
     },
     "wof:country":"RO",
-    "wof:geomhash":"aeb48cfb7790788671d54aee35bf95df",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9971025736695872dd29409f2d9c00b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1209953545,
-    "wof:lastmodified":1566610343,
-    "wof:name":"Ursani",
+    "wof:lastmodified":1588366738,
+    "wof:name":"Ur\u015fani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":483,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.96235,
-    45.17164,
-    23.96235,
-    45.17164
+    23.948623,
+    45.16592,
+    23.965736,
+    45.185499
 ],
-  "geometry": {"coordinates":[23.96235,45.17164],"type":"Point"}
+  "geometry": {"coordinates":[[[23.954458,45.179341],[23.955855,45.177962],[23.957686,45.178759],[23.959541,45.176944],[23.961479,45.173828],[23.962453,45.171985],[23.965736,45.169921],[23.965695,45.169055],[23.965309,45.166797],[23.964073,45.16592],[23.961771,45.167706],[23.959609,45.16939],[23.959187,45.17029],[23.959581,45.170911],[23.957166,45.173577],[23.956178,45.174727],[23.956233,45.17604],[23.954248,45.178141],[23.95326,45.177795],[23.948623,45.18439],[23.950412,45.185499],[23.951188,45.18443],[23.953462,45.181366],[23.954788,45.179651],[23.954458,45.179341]]],"type":"Polygon"}
 }

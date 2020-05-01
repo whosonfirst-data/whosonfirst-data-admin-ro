@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.23789,47.8436,26.23789,47.8436",
-    "geom:latitude":47.8436,
-    "geom:longitude":26.23789,
+    "geom:area":0.000076,
+    "geom:area_square_m":629218.770789,
+    "geom:bbox":"26.217069,47.844018,26.237918,47.852931",
+    "geom:latitude":47.84844,
+    "geom:longitude":26.228577,
     "gn:admin1_code":"34",
     "gn:admin2_code":"151246.0",
     "gn:asciiname":"Tautesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "T\u0103ute\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Tautesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665389
+        "gn:id":665389,
+        "ro-ancpi:id":151335
     },
     "wof:country":"RO",
-    "wof:geomhash":"de12f50080fc1e90e99e6fdb8d777bad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5ec778a5629a49e80b819ed71a67d21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1310258609,
-    "wof:lastmodified":1566610534,
-    "wof:name":"Tautesti",
+    "wof:lastmodified":1588367138,
+    "wof:name":"T\u0103ute\u015fti",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":192,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.23789,
-    47.8436,
-    26.23789,
-    47.8436
+    26.217069,
+    47.844018,
+    26.237918,
+    47.852931
 ],
-  "geometry": {"coordinates":[26.23789,47.8436],"type":"Point"}
+  "geometry": {"coordinates":[[[26.231066,47.844965],[26.231203,47.844918],[26.230821,47.844636],[26.230737,47.844573],[26.230229,47.844199],[26.229983,47.844018],[26.225021,47.845658],[26.219874,47.847382],[26.217536,47.845953],[26.217069,47.846122],[26.217103,47.846614],[26.219569,47.848189],[26.219662,47.848248],[26.220343,47.848683],[26.2225,47.848066],[26.226385,47.852931],[26.228337,47.852427],[26.227535,47.851241],[26.230816,47.848657],[26.232016,47.849465],[26.231381,47.849949],[26.235507,47.852799],[26.237918,47.850913],[26.235877,47.849076],[26.235575,47.848805],[26.23534,47.848646],[26.233271,47.847248],[26.234324,47.846821],[26.23322,47.846054],[26.231889,47.846512],[26.229973,47.845348],[26.229946,47.845331],[26.230673,47.845082],[26.231066,47.844965]]],"type":"Polygon"}
 }

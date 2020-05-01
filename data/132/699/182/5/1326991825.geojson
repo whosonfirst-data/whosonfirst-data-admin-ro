@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.98849,46.54739,25.98849,46.54739",
-    "geom:latitude":46.54739,
-    "geom:longitude":25.98849,
+    "geom:area":0.000081,
+    "geom:area_square_m":692358.063455,
+    "geom:bbox":"25.974071,46.533411,26.015122,46.552269",
+    "geom:latitude":46.543554,
+    "geom:longitude":25.992244,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84656.0",
     "gn:asciiname":"Valea Boros",
@@ -29,14 +29,23 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Boro\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Valea Boros"
+    ],
     "name:und_x_variant":[
         "Vala Boro\u015f",
         "Borospatak",
         "Valea Boro\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663891
+        "gn:id":663891,
+        "ro-ancpi:id":84718
     },
     "wof:country":"RO",
-    "wof:geomhash":"864c5c122d13de0f860955c39b97c2e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"25cca6a9f5b4ad08e350927ee48c26f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +71,8 @@
         }
     ],
     "wof:id":1326991825,
-    "wof:lastmodified":1566609841,
-    "wof:name":"Valea Boros",
+    "wof:lastmodified":1588367043,
+    "wof:name":"Valea Boro\u015f",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":432,
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.98849,
-    46.54739,
-    25.98849,
-    46.54739
+    25.974071,
+    46.533411,
+    26.015122,
+    46.552269
 ],
-  "geometry": {"coordinates":[25.98849,46.54739],"type":"Point"}
+  "geometry": {"coordinates":[[[25.974071,46.550481],[25.97513,46.552269],[25.975294,46.552206],[25.978217,46.551356],[25.983053,46.549296],[25.989443,46.546836],[25.995267,46.542332],[25.999194,46.540741],[25.999555,46.541121],[26.00854,46.537033],[26.00772,46.536651],[26.009917,46.535327],[26.013821,46.534603],[26.015122,46.533841],[26.014649,46.533411],[26.014039,46.53373],[26.007415,46.535105],[26.005948,46.536527],[26.004424,46.537302],[26.000799,46.538104],[25.99691,46.539975],[25.994869,46.540527],[25.994518,46.539772],[25.99365,46.539938],[25.994319,46.540981],[25.988632,46.544263],[25.987812,46.545167],[25.974544,46.550347],[25.974071,46.550481]]],"type":"Polygon"}
 }

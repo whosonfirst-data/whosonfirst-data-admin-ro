@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.24713,45.00725,23.24713,45.00725",
-    "geom:latitude":45.00725,
-    "geom:longitude":23.24713,
+    "geom:area":0.000016,
+    "geom:area_square_m":139331.686279,
+    "geom:bbox":"23.241576,45.002022,23.246902,45.007775",
+    "geom:latitude":45.00457,
+    "geom:longitude":23.244289,
     "gn:admin1_code":"19",
     "gn:admin2_code":"77910.0",
     "gn:asciiname":"Voinigesti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Voinige\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Voinigesti"
+    ],
     "name:und_x_variant":[
         "Voine\u015fti",
         "Voinige\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662511
+        "gn:id":662511,
+        "ro-ancpi:id":78007
     },
     "wof:country":"RO",
-    "wof:geomhash":"ffee709a5c65106f7da8f1cdac5671f6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ab9fa51cac152fc4b40c8f288bd6cb24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1310576323,
-    "wof:lastmodified":1566610592,
-    "wof:name":"Voinigesti",
+    "wof:lastmodified":1588367044,
+    "wof:name":"Voinige\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":119,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.24713,
-    45.00725,
-    23.24713,
-    45.00725
+    23.241576,
+    45.002022,
+    23.246902,
+    45.007775
 ],
-  "geometry": {"coordinates":[23.24713,45.00725],"type":"Point"}
+  "geometry": {"coordinates":[[[23.244746,45.002489],[23.244283,45.002022],[23.242537,45.002285],[23.241576,45.002536],[23.241848,45.003652],[23.242087,45.004743],[23.24387,45.005471],[23.244892,45.007775],[23.246868,45.007017],[23.246383,45.006372],[23.246902,45.006134],[23.245969,45.005278],[23.24581,45.004784],[23.245942,45.003973],[23.245602,45.003325],[23.244746,45.002489]]],"type":"Polygon"}
 }

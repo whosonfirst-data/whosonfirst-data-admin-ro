@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.48503,45.01588,22.48503,45.01588",
-    "geom:latitude":45.01588,
-    "geom:longitude":22.48503,
+    "geom:area":0.00001,
+    "geom:area_square_m":86829.300552,
+    "geom:bbox":"22.482408,45.014233,22.487847,45.017117",
+    "geom:latitude":45.015745,
+    "geom:longitude":22.485313,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Prisacina",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.46503,44.99588,22.50503,45.03588",
+    "lbl:latitude":45.01588,
+    "lbl:longitude":22.48503,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Prisacina"
+    ],
     "name:und_x_variant":[
         "Presacina",
         "Prisacina"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669612
+        "gn:id":669612,
+        "ro-ancpi:id":52437
     },
     "wof:country":"RO",
-    "wof:geomhash":"be405aca549260f963b2272c83a2d29b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"47ef2d655a78b55cfe2bfaf1ab6d7105",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1259570095,
-    "wof:lastmodified":1566611571,
+    "wof:lastmodified":1588366856,
     "wof:name":"Prisacina",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.48503,
-    45.01588,
-    22.48503,
-    45.01588
+    22.482408,
+    45.014233,
+    22.487847,
+    45.017117
 ],
-  "geometry": {"coordinates":[22.48503,45.01588],"type":"Point"}
+  "geometry": {"coordinates":[[[22.486579,45.017117],[22.487088,45.016182],[22.487308,45.016211],[22.487847,45.015758],[22.487812,45.014233],[22.485909,45.014757],[22.485551,45.014586],[22.483612,45.015209],[22.482884,45.015226],[22.482408,45.015855],[22.482489,45.016712],[22.483326,45.016905],[22.484625,45.016492],[22.484856,45.016656],[22.486579,45.017117]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.53239,44.44079,28.53239,44.44079",
-    "geom:latitude":44.44079,
-    "geom:longitude":28.53239,
+    "geom:area":0.00007,
+    "geom:area_square_m":616013.550075,
+    "geom:bbox":"28.527508,44.432823,28.534769,44.448337",
+    "geom:latitude":44.440936,
+    "geom:longitude":28.530605,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62191.0",
     "gn:asciiname":"Palazu Mic",
@@ -26,17 +26,26 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.51239,44.42079,28.55239,44.46079",
+    "lbl:latitude":44.44079,
+    "lbl:longitude":28.53239,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Palazu Mic"
+    ],
     "name:und_x_variant":[
         "Palazul-Mic",
         "Palaz Mik",
         "Palazu Mic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671458
+        "gn:id":671458,
+        "ro-ancpi:id":62226
     },
     "wof:country":"RO",
-    "wof:geomhash":"73c3f5e561c8415ea98f2a40a1514941",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"499a3bf08c516081fed5eff5988ed6db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1209887025,
-    "wof:lastmodified":1566610397,
+    "wof:lastmodified":1588366749,
     "wof:name":"Palazu Mic",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.53239,
-    44.44079,
-    28.53239,
-    44.44079
+    28.527508,
+    44.432823,
+    28.534769,
+    44.448337
 ],
-  "geometry": {"coordinates":[28.53239,44.44079],"type":"Point"}
+  "geometry": {"coordinates":[[[28.532917,44.448337],[28.532947,44.447537],[28.533359,44.447533],[28.533373,44.447083],[28.534254,44.447098],[28.53415,44.445854],[28.534769,44.445832],[28.534696,44.444857],[28.531917,44.444997],[28.531891,44.443744],[28.531845,44.442996],[28.532966,44.442998],[28.532966,44.442623],[28.532601,44.442599],[28.532463,44.439278],[28.533447,44.439294],[28.533389,44.437304],[28.533554,44.437299],[28.533595,44.434948],[28.531141,44.43495],[28.531126,44.432823],[28.529082,44.432824],[28.529036,44.435328],[28.528013,44.435519],[28.528205,44.437846],[28.52835,44.439598],[28.528312,44.43971],[28.527508,44.441379],[28.527678,44.444477],[28.527588,44.446785],[28.529627,44.447014],[28.529621,44.447345],[28.530226,44.447358],[28.531655,44.447443],[28.531652,44.448335],[28.532917,44.448337]]],"type":"Polygon"}
 }

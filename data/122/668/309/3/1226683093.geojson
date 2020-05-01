@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.47039,44.9798,24.47039,44.9798",
-    "geom:latitude":44.9798,
-    "geom:longitude":24.47039,
+    "geom:area":0.000015,
+    "geom:area_square_m":131584.266775,
+    "geom:bbox":"24.463228,44.97529,24.479782,44.984228",
+    "geom:latitude":44.98022,
+    "geom:longitude":24.471284,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Tufanii",
@@ -29,14 +29,20 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Tufanii"
+    ],
     "name:und_x_variant":[
         "\u015eocariciu",
         "S\u0103cauriciul",
         "Tufanii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664550
+        "gn:id":664550,
+        "ro-ancpi:id":171771
     },
     "wof:country":"RO",
-    "wof:geomhash":"a487e60ed95d4d8cd98a203cb84d7fac",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ed7927fa5411290d8bfd78a867a072e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1226683093,
-    "wof:lastmodified":1566611648,
+    "wof:lastmodified":1588367156,
     "wof:name":"Tufanii",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.47039,
-    44.9798,
-    24.47039,
-    44.9798
+    24.463228,
+    44.97529,
+    24.479782,
+    44.984228
 ],
-  "geometry": {"coordinates":[24.47039,44.9798],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.470888,44.979415],[24.470292,44.978821],[24.469317,44.979309],[24.469149,44.978676],[24.467914,44.978758],[24.467907,44.981447],[24.469494,44.981409],[24.469633,44.98013],[24.470888,44.979415]]],[[[24.472381,44.984228],[24.473755,44.984181],[24.474291,44.984183],[24.474339,44.981586],[24.472496,44.981611],[24.472381,44.984228]]],[[[24.465299,44.97787],[24.465191,44.976611],[24.463228,44.976824],[24.463353,44.977961],[24.465299,44.97787]]],[[[24.479782,44.980519],[24.478354,44.978969],[24.477646,44.979311],[24.478997,44.980749],[24.479782,44.980519]]],[[[24.479023,44.976282],[24.478989,44.97529],[24.477969,44.9753],[24.477989,44.976292],[24.479023,44.976282]]]],"type":"MultiPolygon"}
 }

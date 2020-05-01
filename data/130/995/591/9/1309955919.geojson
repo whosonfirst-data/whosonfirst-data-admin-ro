@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.02308,45.25621,26.02308,45.25621",
-    "geom:latitude":45.25621,
-    "geom:longitude":26.02308,
+    "geom:area":0.000079,
+    "geom:area_square_m":691499.303469,
+    "geom:bbox":"26.015494,45.249962,26.034672,45.259368",
+    "geom:latitude":45.254612,
+    "geom:longitude":26.024343,
     "gn:admin1_code":"30",
     "gn:admin2_code":"133795.0",
     "gn:asciiname":"Malu Vanat",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.00308,45.23621,26.04308,45.27621",
+    "lbl:latitude":45.25621,
+    "lbl:longitude":26.02308,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Malu V\u00e2n\u0103t"
+    ],
+    "name:ron_x_variant":[
+        "Malu Vanat"
+    ],
     "name:und_x_variant":[
         "Malu V\u00e2n\u0103t",
         "Malu V\u00een\u0103t"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673959
+        "gn:id":673959,
+        "ro-ancpi:id":133848
     },
     "wof:country":"RO",
-    "wof:geomhash":"7bb9477f5a8df38f71ab022233ce5bf3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"22c2151828a7155ff00480baf397da72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1309955919,
-    "wof:lastmodified":1566611250,
-    "wof:name":"Malu Vanat",
+    "wof:lastmodified":1588366806,
+    "wof:name":"Malu V\u00e2n\u0103t",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":884,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.02308,
-    45.25621,
-    26.02308,
-    45.25621
+    26.015494,
+    45.249962,
+    26.034672,
+    45.259368
 ],
-  "geometry": {"coordinates":[26.02308,45.25621],"type":"Point"}
+  "geometry": {"coordinates":[[[26.018777,45.258714],[26.019403,45.257792],[26.021374,45.257309],[26.023709,45.256863],[26.027729,45.257397],[26.02869,45.256409],[26.02864,45.255274],[26.030784,45.25512],[26.030718,45.253893],[26.034627,45.253558],[26.034672,45.252794],[26.033896,45.251914],[26.031619,45.252007],[26.030976,45.250372],[26.029998,45.250453],[26.028876,45.252187],[26.027559,45.252085],[26.02771,45.251505],[26.025935,45.25112],[26.026091,45.250045],[26.024964,45.249962],[26.024359,45.250422],[26.023317,45.251346],[26.022707,45.253167],[26.021884,45.254496],[26.017068,45.253668],[26.016672,45.254394],[26.015982,45.256132],[26.015494,45.257982],[26.015611,45.258995],[26.015669,45.259008],[26.016635,45.259215],[26.017558,45.259368],[26.018777,45.258714]]],"type":"Polygon"}
 }

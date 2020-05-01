@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.51638,46.07475,27.51638,46.07475",
-    "geom:latitude":46.07475,
-    "geom:longitude":27.51638,
+    "geom:area":0.000012,
+    "geom:area_square_m":100281.686639,
+    "geom:bbox":"27.509389,46.072217,27.519685,46.07538",
+    "geom:latitude":46.073958,
+    "geom:longitude":27.514392,
     "gn:admin1_code":"18",
     "gn:admin2_code":"76406.0",
     "gn:asciiname":"Gefu",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.49638,46.05475,27.53638,46.09475",
+    "lbl:latitude":46.07475,
+    "lbl:longitude":27.51638,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gefu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677540
+        "gn:id":677540,
+        "ro-ancpi:id":76433
     },
     "wof:country":"RO",
-    "wof:geomhash":"7e20c2856d8ccaba4e3fd6258016b7c7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"628ea1ed9337f20671d2ee24ca841561",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1277051631,
-    "wof:lastmodified":1566610216,
+    "wof:lastmodified":1588366713,
     "wof:name":"Gefu",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.51638,
-    46.07475,
-    27.51638,
-    46.07475
+    27.509389,
+    46.072217,
+    27.519685,
+    46.07538
 ],
-  "geometry": {"coordinates":[27.51638,46.07475],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.511677,46.07538],[27.513204,46.074937],[27.515149,46.074983],[27.515111,46.074384],[27.514159,46.074009],[27.512085,46.073673],[27.510001,46.072411],[27.509389,46.073127],[27.510722,46.074049],[27.510429,46.074358],[27.511677,46.07538]]],[[[27.519685,46.072961],[27.518479,46.072217],[27.517312,46.073058],[27.516479,46.073814],[27.516327,46.075068],[27.516837,46.075325],[27.519685,46.072961]]]],"type":"MultiPolygon"}
 }

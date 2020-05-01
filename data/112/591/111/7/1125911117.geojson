@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35,45.98333,24.35,45.98333",
-    "geom:latitude":45.98333,
-    "geom:longitude":24.35,
+    "geom:area":0.000041,
+    "geom:area_square_m":352696.402538,
+    "geom:bbox":"24.338895,45.984937,24.351824,45.992331",
+    "geom:latitude":45.989189,
+    "geom:longitude":24.3457,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1050,
@@ -82,7 +82,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":875730,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -99,11 +102,15 @@
         "gn:id":673396,
         "gp:id":875730,
         "qs_pg:id":127426,
+        "ro-ancpi:id":145051,
         "wd:id":"Q1077845"
     },
     "wof:country":"RO",
     "wof:created":1497296141,
-    "wof:geomhash":"004324a0cc6e972e522854aa934fae00",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"757653f994778b138e15d1b742e955d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -113,7 +120,7 @@
         }
     ],
     "wof:id":1125911117,
-    "wof:lastmodified":1566611357,
+    "wof:lastmodified":1588367078,
     "wof:name":"Mih\u0103ileni",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -125,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35,
-    45.98333,
-    24.35,
-    45.98333
+    24.338895,
+    45.984937,
+    24.351824,
+    45.992331
 ],
-  "geometry": {"coordinates":[24.35,45.98333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.351824,45.991573],[24.349005,45.98836],[24.348499,45.988134],[24.34789,45.988467],[24.347557,45.988231],[24.348298,45.986829],[24.347399,45.986465],[24.346864,45.987275],[24.346312,45.987159],[24.345038,45.986788],[24.343835,45.986472],[24.339735,45.984937],[24.338895,45.985996],[24.340137,45.986303],[24.342062,45.987047],[24.342739,45.987564],[24.341741,45.988685],[24.343144,45.989587],[24.342061,45.990438],[24.345469,45.992331],[24.351824,45.991573]]],"type":"Polygon"}
 }

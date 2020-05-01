@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.29208,47.69574,22.29208,47.69574",
-    "geom:latitude":47.69574,
-    "geom:longitude":22.29208,
+    "geom:area":0.000004,
+    "geom:area_square_m":32713.398937,
+    "geom:bbox":"22.297799,47.709609,22.300601,47.714816",
+    "geom:latitude":47.712612,
+    "geom:longitude":22.298863,
     "gn:admin1_code":"32",
     "gn:admin2_code":"179882.0",
     "gn:asciiname":"Viisoara",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Vii\u015foara"
+    ],
+    "name:ron_x_variant":[
+        "Viisoara"
+    ],
     "name:und_x_variant":[
         "Ponivas",
         "Vii\u015foara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662915
+        "gn:id":662915,
+        "ro-ancpi:id":138725
     },
     "wof:country":"RO",
-    "wof:geomhash":"52338285449395d337c5dfa4400bdacb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bea1a2c12a396a4cf8b64d0ccfa513f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1260139947,
-    "wof:lastmodified":1566610471,
-    "wof:name":"Viisoara",
+    "wof:lastmodified":1588367089,
+    "wof:name":"Vii\u015foara",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":9,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.29208,
-    47.69574,
-    22.29208,
-    47.69574
+    22.297799,
+    47.709609,
+    22.300601,
+    47.714816
 ],
-  "geometry": {"coordinates":[22.29208,47.69574],"type":"Point"}
+  "geometry": {"coordinates":[[[22.297799,47.709655],[22.297816,47.710531],[22.297913,47.711324],[22.298102,47.712254],[22.298443,47.713406],[22.298712,47.714236],[22.29867,47.714816],[22.299046,47.714774],[22.299781,47.714539],[22.299727,47.714369],[22.300601,47.714104],[22.300444,47.713511],[22.298789,47.7137],[22.298458,47.712851],[22.298859,47.71281],[22.298807,47.712371],[22.299007,47.71235],[22.298846,47.711615],[22.298182,47.711667],[22.298106,47.711202],[22.299123,47.711066],[22.299046,47.71061],[22.298045,47.710687],[22.297957,47.710223],[22.298445,47.710175],[22.298337,47.709609],[22.297799,47.709655]]],"type":"Polygon"}
 }

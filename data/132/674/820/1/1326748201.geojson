@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.91955,46.40938,22.91955,46.40938",
-    "geom:latitude":46.40938,
-    "geom:longitude":22.91955,
+    "geom:area":0.000004,
+    "geom:area_square_m":30477.127213,
+    "geom:bbox":"22.91615,46.403684,22.919465,46.405203",
+    "geom:latitude":46.404481,
+    "geom:longitude":22.917608,
     "gn:admin1_code":"01",
     "gn:admin2_code":"6271.0",
     "gn:asciiname":"Morcanesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Morc\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Morcanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672865
+        "gn:id":672865,
+        "ro-ancpi:id":6351
     },
     "wof:country":"RO",
-    "wof:geomhash":"7bf785a7f2e81803c2175ca4ac24ec58",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c2bf9046f93b75cfad3d7f18f6654f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1326748201,
-    "wof:lastmodified":1566609776,
-    "wof:name":"Morcanesti",
+    "wof:lastmodified":1588367125,
+    "wof:name":"Morc\u0103ne\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":46,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.91955,
-    46.40938,
-    22.91955,
-    46.40938
+    22.91615,
+    46.403684,
+    22.919465,
+    46.405203
 ],
-  "geometry": {"coordinates":[22.91955,46.40938],"type":"Point"}
+  "geometry": {"coordinates":[[[22.918272,46.404276],[22.918234,46.403775],[22.91615,46.403684],[22.916453,46.405106],[22.918726,46.405203],[22.919465,46.404565],[22.918828,46.404216],[22.918272,46.404276]]],"type":"Polygon"}
 }

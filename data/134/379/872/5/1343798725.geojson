@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.01352,45.01788,24.01352,45.01788",
-    "geom:latitude":45.01788,
-    "geom:longitude":24.01352,
+    "geom:area":0.000099,
+    "geom:area_square_m":863165.21254,
+    "geom:bbox":"23.994538,45.011196,24.021002,45.031183",
+    "geom:latitude":45.021925,
+    "geom:longitude":24.007209,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169039",
     "gn:asciiname":"Armasesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.99352,44.99788,24.03352,45.03788",
+    "lbl:latitude":45.01788,
+    "lbl:longitude":24.01352,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Arm\u0103\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Armasesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686144
+        "gn:id":686144,
+        "ro-ancpi:id":169048
     },
     "wof:country":"RO",
-    "wof:geomhash":"4534effafa0c37c275bf75ab5b01268b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ad42b62be20bd74edf903224b735e57f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1343798725,
-    "wof:lastmodified":1566609913,
-    "wof:name":"Armasesti",
+    "wof:lastmodified":1588366654,
+    "wof:name":"Arm\u0103\u015fe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":743,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.01352,
-    45.01788,
-    24.01352,
-    45.01788
+    23.994538,
+    45.011196,
+    24.021002,
+    45.031183
 ],
-  "geometry": {"coordinates":[24.01352,45.01788],"type":"Point"}
+  "geometry": {"coordinates":[[[24.02022,45.012815],[24.018851,45.011196],[24.016519,45.012699],[24.011834,45.014704],[24.008619,45.017233],[24.006708,45.019389],[24.005849,45.021846],[24.003886,45.023935],[23.999156,45.02655],[23.994538,45.028881],[23.995071,45.030575],[23.997362,45.031183],[24.000735,45.029565],[24.004022,45.028028],[24.004775,45.0291],[24.006609,45.028281],[24.006069,45.027043],[24.006752,45.026214],[24.008028,45.022382],[24.0095,45.019604],[24.013512,45.017895],[24.01466,45.01652],[24.017712,45.015209],[24.021002,45.013739],[24.02022,45.012815]]],"type":"Polygon"}
 }

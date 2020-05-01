@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.05214,44.81052,24.05214,44.81052",
-    "geom:latitude":44.81052,
-    "geom:longitude":24.05214,
+    "geom:area":0.00004,
+    "geom:area_square_m":350996.605753,
+    "geom:bbox":"24.034048,44.808987,24.063651,44.813586",
+    "geom:latitude":44.810773,
+    "geom:longitude":24.05088,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173132.0",
     "gn:asciiname":"Valea Lunga",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.03214,44.79052,24.07214,44.83052",
+    "lbl:latitude":44.81052,
+    "lbl:longitude":24.05214,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Lunga"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663680
+        "gn:id":663680,
+        "ro-ancpi:id":173212
     },
     "wof:country":"RO",
-    "wof:geomhash":"e03c4c3175e95d20bba26ad001d1c0e3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d4d22fbba7e7c1611a91628cd7c0f384",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1343988345,
-    "wof:lastmodified":1566609885,
-    "wof:name":"Valea Lunga",
+    "wof:lastmodified":1588366648,
+    "wof:name":"Valea Lung\u0103",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":178,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.05214,
-    44.81052,
-    24.05214,
-    44.81052
+    24.034048,
+    44.808987,
+    24.063651,
+    44.813586
 ],
-  "geometry": {"coordinates":[24.05214,44.81052],"type":"Point"}
+  "geometry": {"coordinates":[[[24.061184,44.811244],[24.055259,44.809535],[24.050383,44.809443],[24.044796,44.808987],[24.041599,44.809343],[24.039146,44.81019],[24.036063,44.810113],[24.036196,44.810727],[24.035297,44.810872],[24.034048,44.81053],[24.034311,44.811936],[24.037441,44.81135],[24.040213,44.810736],[24.042585,44.810398],[24.045999,44.809993],[24.048397,44.810269],[24.051082,44.810572],[24.051463,44.811341],[24.052719,44.811326],[24.052481,44.810558],[24.05309,44.810563],[24.053298,44.811025],[24.059732,44.812329],[24.060469,44.81328],[24.063548,44.813586],[24.063651,44.811698],[24.061184,44.811244]]],"type":"Polygon"}
 }

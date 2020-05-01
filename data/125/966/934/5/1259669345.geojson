@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.9,44.8,27.9,44.8",
-    "geom:latitude":44.8,
-    "geom:longitude":27.9,
+    "geom:area":0.000017,
+    "geom:area_square_m":150129.401987,
+    "geom:bbox":"27.89906,44.80766,27.905795,44.812382",
+    "geom:latitude":44.810137,
+    "geom:longitude":27.902455,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43493.0",
     "gn:asciiname":"Nedelcu",
@@ -28,13 +28,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Nedeicu"
+    ],
+    "name:ron_x_variant":[
+        "Nedelcu"
+    ],
     "name:und_x_variant":[
         "Nedelcul",
         "Nedelcu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672441
+        "gn:id":672441,
+        "ro-ancpi:id":43536
     },
     "wof:country":"RO",
-    "wof:geomhash":"c370b40ddfa21015a27135a86787c896",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"00721525f4cacf7b9f6a49f43de944c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1259669345,
-    "wof:lastmodified":1566611575,
-    "wof:name":"Nedelcu",
+    "wof:lastmodified":1588367147,
+    "wof:name":"Nedeicu",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.9,
-    44.8,
-    27.9,
-    44.8
+    27.89906,
+    44.80766,
+    27.905795,
+    44.812382
 ],
-  "geometry": {"coordinates":[27.9,44.8],"type":"Point"}
+  "geometry": {"coordinates":[[[27.903277,44.808503],[27.902617,44.80766],[27.90192,44.808029],[27.901103,44.808454],[27.899095,44.809717],[27.89906,44.809999],[27.900229,44.811163],[27.901854,44.811596],[27.904066,44.812382],[27.904904,44.811395],[27.905795,44.810494],[27.904713,44.809591],[27.903277,44.808503]]],"type":"Polygon"}
 }

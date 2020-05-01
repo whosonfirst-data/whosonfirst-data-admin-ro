@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.85,46.51667,22.85,46.51667",
-    "geom:latitude":46.51667,
-    "geom:longitude":22.85,
+    "geom:area":0.000014,
+    "geom:area_square_m":116366.026326,
+    "geom:bbox":"22.83529,46.506304,22.840682,46.516279",
+    "geom:latitude":46.510824,
+    "geom:longitude":22.838163,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7197.0",
     "gn:asciiname":"Dealu Ordancusii",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Dealu Ord\u00e2ncu\u015fii"
+    ],
+    "name:ron_x_variant":[
+        "Dealu Ordancusii"
+    ],
     "name:und_x_variant":[
         "Dealul Ordancusii",
         "Dealu Ord\u00eencu\u015fii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679596
+        "gn:id":679596,
+        "ro-ancpi:id":4561
     },
     "wof:country":"RO",
-    "wof:geomhash":"11f6242932a40799d00a124308c0da43",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a59df61e67824c87dc201a4a31b11d97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1293407765,
-    "wof:lastmodified":1566610079,
-    "wof:name":"Dealu Ordancusii",
+    "wof:lastmodified":1588367106,
+    "wof:name":"Dealu Ord\u00e2ncu\u015fii",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.85,
-    46.51667,
-    22.85,
-    46.51667
+    22.83529,
+    46.506304,
+    22.840682,
+    46.516279
 ],
-  "geometry": {"coordinates":[22.85,46.51667],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.83922,46.506843],[22.838399,46.506304],[22.837162,46.506339],[22.83679,46.507214],[22.83745,46.507924],[22.83833,46.508754],[22.838481,46.510258],[22.840298,46.511193],[22.840682,46.510716],[22.839406,46.509946],[22.839694,46.50907],[22.839404,46.508571],[22.839511,46.507652],[22.840048,46.506859],[22.83922,46.506843]]],[[[22.837996,46.51478],[22.839888,46.512418],[22.838777,46.512267],[22.838018,46.51338],[22.836947,46.513336],[22.83529,46.515979],[22.836071,46.516279],[22.836742,46.515421],[22.837996,46.51478]]]],"type":"MultiPolygon"}
 }

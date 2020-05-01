@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.56833,44.57035,27.56833,44.57035",
-    "geom:latitude":44.57035,
-    "geom:longitude":27.56833,
+    "geom:area":0.000045,
+    "geom:area_square_m":394679.32303,
+    "geom:bbox":"27.561764,44.565719,27.57036,44.573217",
+    "geom:latitude":44.56978,
+    "geom:longitude":27.565992,
     "gn:admin1_code":"22",
     "gn:admin2_code":"94535.0",
     "gn:asciiname":"Gura Vaii",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.54833,44.55035,27.58833,44.59035",
+    "lbl:latitude":44.57035,
+    "lbl:longitude":27.56833,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gura V\u0103ii"
+    ],
+    "name:ron_x_variant":[
+        "Gura Vaii"
+    ],
     "name:und_x_variant":[
         "Gura V\u0103ii Nou\u0103",
         "Gura V\u0103ei",
         "Gura V\u0103ii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676471
+        "gn:id":676471,
+        "ro-ancpi:id":94553
     },
     "wof:country":"RO",
-    "wof:geomhash":"5420295c19287543ba6d322f35b12f20",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cb1ed6af2e3e7ab997f47a64bdc90e34",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1343816543,
-    "wof:lastmodified":1566609985,
-    "wof:name":"Gura Vaii",
+    "wof:lastmodified":1588366670,
+    "wof:name":"Gura V\u0103ii",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
     "wof:population":311,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.56833,
-    44.57035,
-    27.56833,
-    44.57035
+    27.561764,
+    44.565719,
+    27.57036,
+    44.573217
 ],
-  "geometry": {"coordinates":[27.56833,44.57035],"type":"Point"}
+  "geometry": {"coordinates":[[[27.568651,44.566865],[27.567153,44.566375],[27.564474,44.565719],[27.564375,44.566546],[27.563847,44.5665],[27.563483,44.566581],[27.562958,44.566532],[27.562362,44.569463],[27.561764,44.572187],[27.56952,44.573217],[27.57036,44.569805],[27.570087,44.569306],[27.569685,44.569036],[27.567772,44.568181],[27.568651,44.566865]]],"type":"Polygon"}
 }

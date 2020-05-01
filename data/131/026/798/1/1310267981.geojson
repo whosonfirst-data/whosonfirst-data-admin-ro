@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.32603,45.94533,27.32603,45.94533",
-    "geom:latitude":45.94533,
-    "geom:longitude":27.32603,
+    "geom:area":0.000011,
+    "geom:area_square_m":94540.950089,
+    "geom:bbox":"27.322645,45.944269,27.329773,45.946859",
+    "geom:latitude":45.945781,
+    "geom:longitude":27.325995,
     "gn:admin1_code":"18",
     "gn:admin2_code":"76807",
     "gn:asciiname":"Branistea",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.30603,45.92533,27.34603,45.96533",
+    "lbl:latitude":45.94533,
+    "lbl:longitude":27.32603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Br\u0103ni\u015ftea"
+    ],
+    "name:ron_x_variant":[
+        "Branistea"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683860
+        "gn:id":683860,
+        "ro-ancpi:id":76825
     },
     "wof:country":"RO",
-    "wof:geomhash":"164cbf5e701e1dc4d2cea3164501db16",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d56c0c371b692f094597af556f4b50d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1310267981,
-    "wof:lastmodified":1566610579,
-    "wof:name":"Branistea",
+    "wof:lastmodified":1588366783,
+    "wof:name":"Br\u0103ni\u015ftea",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:population":49,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.32603,
-    45.94533,
-    27.32603,
-    45.94533
+    27.322645,
+    45.944269,
+    27.329773,
+    45.946859
 ],
-  "geometry": {"coordinates":[27.32603,45.94533],"type":"Point"}
+  "geometry": {"coordinates":[[[27.329616,45.946849],[27.329773,45.945502],[27.32789,45.94556],[27.327912,45.945052],[27.325899,45.945063],[27.325594,45.94496],[27.324601,45.944771],[27.323309,45.944269],[27.323167,45.944641],[27.322907,45.944556],[27.322645,45.945478],[27.323099,45.945737],[27.323049,45.946595],[27.325052,45.946345],[27.325079,45.946633],[27.325924,45.946695],[27.32616,45.946521],[27.327159,45.946859],[27.328356,45.946785],[27.328577,45.946552],[27.329616,45.946849]]],"type":"Polygon"}
 }

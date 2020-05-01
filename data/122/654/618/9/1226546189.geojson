@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.34856,46.50109,27.34856,46.50109",
-    "geom:latitude":46.50109,
-    "geom:longitude":27.34856,
+    "geom:area":0.000009,
+    "geom:area_square_m":77581.817512,
+    "geom:bbox":"27.342861,46.49845,27.35171,46.502376",
+    "geom:latitude":46.500567,
+    "geom:longitude":27.345877,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24837.0",
     "gn:asciiname":"Farcasa",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Farca\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Farcasa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678439
+        "gn:id":678439,
+        "ro-ancpi:id":24917
     },
     "wof:country":"RO",
-    "wof:geomhash":"a3ea6b322d5f8a492525dee5717691f5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5ce69bbf5c60f72ec3a31e138a555aca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226546189,
-    "wof:lastmodified":1566611703,
-    "wof:name":"Farcasa",
+    "wof:lastmodified":1588367080,
+    "wof:name":"Farca\u015fa",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":67,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.34856,
-    46.50109000000001,
-    27.34856,
-    46.50109000000001
+    27.342861,
+    46.49845,
+    27.35171,
+    46.502376
 ],
-  "geometry": {"coordinates":[27.34856,46.50109000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.345447,46.502376],[27.346082,46.50183],[27.346341,46.501861],[27.347474,46.500741],[27.348297,46.500522],[27.348551,46.499678],[27.347481,46.499489],[27.347177,46.50006],[27.346761,46.500163],[27.34574,46.499678],[27.345304,46.500209],[27.344023,46.500069],[27.344006,46.499683],[27.344141,46.499466],[27.342987,46.49939],[27.342861,46.500689],[27.343585,46.501165],[27.344082,46.50128],[27.344162,46.501023],[27.345148,46.501065],[27.344903,46.50153],[27.344545,46.501469],[27.344388,46.501708],[27.344383,46.502121],[27.345447,46.502376]]],[[[27.351649,46.498683],[27.35171,46.49845],[27.351107,46.49845],[27.351091,46.498617],[27.350736,46.498608],[27.350583,46.499178],[27.35123,46.499238],[27.351491,46.499004],[27.351649,46.498683]]]],"type":"MultiPolygon"}
 }

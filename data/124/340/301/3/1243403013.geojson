@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.48817,45.98942,24.48817,45.98942",
-    "geom:latitude":45.98942,
-    "geom:longitude":24.48817,
+    "geom:area":0.000076,
+    "geom:area_square_m":650062.896971,
+    "geom:bbox":"24.478333,45.984513,24.493896,45.995415",
+    "geom:latitude":45.98943,
+    "geom:longitude":24.485971,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144232.0",
     "gn:asciiname":"Ighisu Vechi",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.46817,45.96942,24.50817,46.00942",
+    "lbl:latitude":45.98942,
+    "lbl:longitude":24.48817,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ighi\u015fu Vechi"
+    ],
+    "name:ron_x_variant":[
+        "Ighisu Vechi"
+    ],
     "name:und_x_variant":[
         "Ighi\u015fdorfu Rom\u00een",
         "Ighi\u015ful-Vechi",
         "Ighi\u015fu Vechi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675705
+        "gn:id":675705,
+        "ro-ancpi:id":144269
     },
     "wof:country":"RO",
-    "wof:geomhash":"c3763f09dee2a7f3355b62c2fe872e6b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"93bdc31e83215ab670d2f42e15415433",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1243403013,
-    "wof:lastmodified":1566611471,
-    "wof:name":"Ighisu Vechi",
+    "wof:lastmodified":1588366830,
+    "wof:name":"Ighi\u015fu Vechi",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":378,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.48817,
-    45.98942,
-    24.48817,
-    45.98942
+    24.478333,
+    45.984513,
+    24.493896,
+    45.995415
 ],
-  "geometry": {"coordinates":[24.48817,45.98942],"type":"Point"}
+  "geometry": {"coordinates":[[[24.487736,45.991815],[24.488505,45.991581],[24.489954,45.991611],[24.491179,45.991806],[24.491242,45.992353],[24.491962,45.992377],[24.491988,45.991403],[24.493896,45.991554],[24.49382,45.990532],[24.492048,45.990453],[24.492018,45.990013],[24.490756,45.990019],[24.490819,45.988708],[24.488619,45.988805],[24.488727,45.986406],[24.489854,45.986126],[24.491268,45.986191],[24.491607,45.984589],[24.490517,45.984513],[24.488606,45.984671],[24.486254,45.985841],[24.483543,45.985971],[24.481556,45.985107],[24.481317,45.985212],[24.480132,45.986122],[24.481587,45.987352],[24.481719,45.987756],[24.480771,45.988648],[24.478333,45.990526],[24.48368,45.991108],[24.483192,45.994112],[24.48768,45.995415],[24.4876,45.993548],[24.486837,45.993141],[24.487151,45.992406],[24.487736,45.991815]]],"type":"Polygon"}
 }

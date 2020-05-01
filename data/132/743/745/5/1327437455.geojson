@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.34444,46.52605,27.34444,46.52605",
-    "geom:latitude":46.52605,
-    "geom:longitude":27.34444,
+    "geom:area":0.000022,
+    "geom:area_square_m":189205.141831,
+    "geom:bbox":"27.340128,46.522997,27.351828,46.529101",
+    "geom:latitude":46.525922,
+    "geom:longitude":27.345271,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24837.0",
     "gn:asciiname":"Magazia",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.32444,46.50605,27.36444,46.54605",
+    "lbl:latitude":46.52605,
+    "lbl:longitude":27.34444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Magazia"
@@ -42,7 +44,11 @@
     "name:ron_x_preferred":[
         "Magazia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674191
+        "gn:id":674191,
+        "ro-ancpi:id":24944
     },
     "wof:country":"RO",
-    "wof:geomhash":"bf564214da98f72b8cded39b02e8dd1a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0d5b9e3fc7ecbde03f7cb6a03f1687ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":1327437455,
-    "wof:lastmodified":1566609856,
+    "wof:lastmodified":1588366643,
     "wof:name":"Magazia",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.34444,
-    46.52605,
-    27.34444,
-    46.52605
+    27.340128,
+    46.522997,
+    27.351828,
+    46.529101
 ],
-  "geometry": {"coordinates":[27.34444,46.52605],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.344001,46.529101],[27.344857,46.526355],[27.345338,46.526434],[27.345671,46.525615],[27.345236,46.524913],[27.345314,46.524569],[27.346088,46.523309],[27.345265,46.523008],[27.344734,46.523921],[27.344103,46.523806],[27.343496,46.524225],[27.343376,46.524431],[27.342835,46.524264],[27.34264,46.524446],[27.341988,46.524256],[27.3409,46.52636],[27.340382,46.526294],[27.340128,46.526807],[27.341153,46.527104],[27.341198,46.527306],[27.343228,46.527848],[27.343038,46.528954],[27.344001,46.529101]]],[[[27.349393,46.528294],[27.349917,46.527217],[27.350458,46.527383],[27.351354,46.525524],[27.350761,46.525435],[27.351828,46.52328],[27.350767,46.522997],[27.349879,46.525466],[27.348517,46.52802],[27.349393,46.528294]]]],"type":"MultiPolygon"}
 }

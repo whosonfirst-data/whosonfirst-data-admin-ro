@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.79078,44.69024,21.79078,44.69024",
-    "geom:latitude":44.69024,
-    "geom:longitude":21.79078,
+    "geom:area":0.000015,
+    "geom:area_square_m":136118.096314,
+    "geom:bbox":"21.787009,44.685957,21.791507,44.694572",
+    "geom:latitude":44.690371,
+    "geom:longitude":21.789517,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53853.0",
     "gn:asciiname":"Lucacevat",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.77078,44.67024,21.81078,44.71024",
+    "lbl:latitude":44.69024,
+    "lbl:longitude":21.79078,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Lucacev\u0103\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Lucacevat"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674565
+        "gn:id":674565,
+        "ro-ancpi:id":53960
     },
     "wof:country":"RO",
-    "wof:geomhash":"0f4cec752e79d47f2d91657dfbe6a88e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cbae9078bd6396f434fd97ab0e532e19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1259859581,
-    "wof:lastmodified":1566611565,
-    "wof:name":"Lucacevat",
+    "wof:lastmodified":1588366853,
+    "wof:name":"Lucacev\u0103\u0163",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":43,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.79078,
-    44.69024,
-    21.79078,
-    44.69024
+    21.787009,
+    44.685957,
+    21.791507,
+    44.694572
 ],
-  "geometry": {"coordinates":[21.79078,44.69024],"type":"Point"}
+  "geometry": {"coordinates":[[[21.788523,44.693408],[21.788816,44.692894],[21.790156,44.693189],[21.790655,44.692408],[21.790511,44.691556],[21.791399,44.690706],[21.791507,44.69005],[21.790803,44.688909],[21.790754,44.688271],[21.790941,44.687507],[21.790566,44.687333],[21.790576,44.686307],[21.790501,44.686134],[21.789695,44.685957],[21.789408,44.68809],[21.788533,44.687843],[21.788795,44.688321],[21.788449,44.68849],[21.788812,44.689398],[21.788437,44.690125],[21.787627,44.689612],[21.787452,44.690216],[21.788082,44.690756],[21.789076,44.690798],[21.789187,44.690401],[21.789597,44.689849],[21.790065,44.689811],[21.789626,44.691257],[21.788655,44.691838],[21.787904,44.692654],[21.787009,44.693114],[21.787498,44.694106],[21.787953,44.694572],[21.78882,44.693665],[21.788523,44.693408]]],"type":"Polygon"}
 }

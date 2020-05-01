@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000193,
-    "geom:area_square_m":1716719.050801,
-    "geom:bbox":"24.2779020089,43.8499992335,24.3007102668,43.8629991338",
-    "geom:latitude":43.856882,
-    "geom:longitude":24.288986,
+    "geom:area":0.000295,
+    "geom:area_square_m":2625869.815034,
+    "geom:bbox":"24.275735,43.847231,24.303281,43.864932",
+    "geom:latitude":43.855979,
+    "geom:longitude":24.289262,
     "iso:country":"RO",
     "lbl:latitude":43.857015,
     "lbl:longitude":24.288986,
@@ -41,10 +41,10 @@
         "Urzica"
     ],
     "name:ron_x_preferred":[
-        "Comuna Urzica"
+        "Urzica"
     ],
     "name:ron_x_variant":[
-        "Urzica"
+        "Comuna Urzica"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0437\u0456\u043a\u0430"
@@ -67,8 +67,10 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":52,
     "wof:belongsto":[
@@ -79,10 +81,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "qs_pg:id":7,
+        "ro-ancpi:id":129638,
         "wd:id":"Q2719825"
     },
     "wof:country":"RO",
-    "wof:geomhash":"d30178defb02e25e8013bbb240ff9418",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"1a1cfd1cf3433f8197108d93f30b8c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":101796107,
-    "wof:lastmodified":1566610747,
+    "wof:lastmodified":1588366913,
     "wof:name":"Urzica",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -102,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.27790200889558,
-    43.84999923351268,
-    24.30071026675643,
-    43.86299913382766
+    24.275735,
+    43.847231,
+    24.303281,
+    43.864932
 ],
-  "geometry": {"coordinates":[[[24.30071026675643,43.8590321169051],[24.29959714050324,43.85461469466838],[24.2983733095557,43.85478610711596],[24.29748304272334,43.85125213305662],[24.29625927664625,43.85142351881359],[24.2960367503822,43.8505400189062],[24.29358923447791,43.85088274085643],[24.29336675292529,43.84999923351268],[24.29214300309991,43.85017056970662],[24.29236546681705,43.85105408009946],[24.28991791207966,43.85139671512115],[24.29014034916315,43.85228023027554],[24.27790200889558,43.853992566535],[24.27945807267685,43.86017734857353],[24.2782340781672,43.86034852383523],[24.27890104463114,43.86299913382766],[24.29726108576142,43.86042984613647],[24.2970384868928,43.85954635654616],[24.30071026675643,43.8590321169051]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[24.303281,43.858682],[24.297775,43.847231],[24.275735,43.852835],[24.280431,43.864932],[24.303281,43.858682]]],"type":"Polygon"}
 }

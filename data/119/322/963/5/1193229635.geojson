@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.51616,46.15352,27.51616,46.15352",
-    "geom:latitude":46.15352,
-    "geom:longitude":27.51616,
+    "geom:area":0.000025,
+    "geom:area_square_m":216776.690372,
+    "geom:bbox":"27.511809,46.150197,27.518907,46.156909",
+    "geom:latitude":46.15306,
+    "geom:longitude":27.515183,
     "gn:admin1_code":"38",
     "gn:admin2_code":"167259",
     "gn:asciiname":"Belcesti",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.49616,46.13352,27.53616,46.17352",
+    "lbl:latitude":46.15352,
+    "lbl:longitude":27.51616,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Belce\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Belcesti"
+    ],
     "name:und_x_variant":[
         "Belce\u015ftii",
         "Belce\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685164
+        "gn:id":685164,
+        "ro-ancpi:id":164561
     },
     "wof:country":"RO",
-    "wof:geomhash":"876b5e8e4b0fec7527bcb364cca02ad2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d368ad87da5e0a5d065d5dcb42c0f5a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1193229635,
-    "wof:lastmodified":1566610432,
-    "wof:name":"Belcesti",
+    "wof:lastmodified":1588366754,
+    "wof:name":"Belce\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":109,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.51616,
-    46.15352,
-    27.51616,
-    46.15352
+    27.511809,
+    46.150197,
+    27.518907,
+    46.156909
 ],
-  "geometry": {"coordinates":[27.51616,46.15352],"type":"Point"}
+  "geometry": {"coordinates":[[[27.518526,46.153403],[27.518684,46.152632],[27.517523,46.152699],[27.517989,46.151986],[27.518907,46.151056],[27.518246,46.15102],[27.518377,46.150417],[27.514922,46.150197],[27.514831,46.150737],[27.513909,46.150699],[27.513758,46.151249],[27.513753,46.151269],[27.513373,46.151249],[27.513325,46.151246],[27.513179,46.151766],[27.513253,46.151773],[27.51333,46.15178],[27.513215,46.15194],[27.513123,46.152068],[27.511887,46.15206],[27.511847,46.152424],[27.511818,46.152688],[27.511809,46.152765],[27.512747,46.152842],[27.512943,46.153146],[27.512943,46.153147],[27.512943,46.153148],[27.512941,46.153523],[27.512751,46.153531],[27.51263,46.154109],[27.512622,46.154144],[27.512388,46.154701],[27.512278,46.154962],[27.513446,46.155016],[27.513553,46.155021],[27.513487,46.155596],[27.51341,46.15625],[27.513463,46.156776],[27.514227,46.156909],[27.515419,46.156906],[27.515554,46.155504],[27.51561,46.154921],[27.516088,46.154033],[27.516395,46.153461],[27.518526,46.153403]]],"type":"Polygon"}
 }

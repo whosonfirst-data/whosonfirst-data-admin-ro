@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.72384,45.21492,24.72384,45.21492",
-    "geom:latitude":45.21492,
-    "geom:longitude":24.72384,
+    "geom:area":0.000003,
+    "geom:area_square_m":28629.590965,
+    "geom:bbox":"24.720276,45.213478,24.724127,45.215727",
+    "geom:latitude":45.214676,
+    "geom:longitude":24.722146,
     "gn:admin1_code":"03",
     "gn:admin2_code":"19695.0",
     "gn:asciiname":"Ruginoasa",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ruginoasa"
@@ -60,7 +60,10 @@
     "name:vol_x_preferred":[
         "Ruginoasa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +72,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668492
+        "gn:id":668492,
+        "ro-ancpi:id":19766
     },
     "wof:country":"RO",
-    "wof:geomhash":"9d96e9e5f99e1902ce4ae88ebc3d98f5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"554816b14e190e44fe5b99caa14aca74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +89,7 @@
         }
     ],
     "wof:id":1243370999,
-    "wof:lastmodified":1566611428,
+    "wof:lastmodified":1588367117,
     "wof:name":"Ruginoasa",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -94,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.72384,
-    45.21492,
-    24.72384,
-    45.21492
+    24.720276,
+    45.213478,
+    24.724127,
+    45.215727
 ],
-  "geometry": {"coordinates":[24.72384,45.21492],"type":"Point"}
+  "geometry": {"coordinates":[[[24.722696,45.21434],[24.722691,45.214105],[24.722048,45.214112],[24.722007,45.21396],[24.721188,45.213478],[24.720511,45.213947],[24.720307,45.214196],[24.720276,45.214361],[24.720493,45.214499],[24.720717,45.214517],[24.721343,45.21454],[24.72142,45.2146],[24.721558,45.214882],[24.721735,45.215042],[24.721944,45.215187],[24.722183,45.215322],[24.72257,45.215492],[24.722872,45.215593],[24.72317,45.215663],[24.723612,45.215727],[24.724125,45.215564],[24.724127,45.215181],[24.723991,45.215042],[24.723223,45.214968],[24.722776,45.214942],[24.722582,45.214567],[24.722132,45.214484],[24.722082,45.214423],[24.722696,45.21434]]],"type":"Polygon"}
 }

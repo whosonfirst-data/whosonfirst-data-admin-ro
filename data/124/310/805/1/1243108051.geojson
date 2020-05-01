@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.22098,44.11687,25.22098,44.11687",
-    "geom:latitude":44.11687,
-    "geom:longitude":25.22098,
+    "geom:area":0.000022,
+    "geom:area_square_m":194605.830684,
+    "geom:bbox":"25.215381,44.114167,25.222654,44.119455",
+    "geom:latitude":44.117031,
+    "geom:longitude":25.219018,
     "gn:admin1_code":"35",
     "gn:admin2_code":"152350.0",
     "gn:asciiname":"Marita",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.20098,44.09687,25.24098,44.13687",
+    "lbl:latitude":44.11687,
+    "lbl:longitude":25.22098,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Marita"
@@ -40,11 +42,21 @@
     "name:pol_x_preferred":[
         "Marita"
     ],
+    "name:ron_x_preferred":[
+        "Mari\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Marita"
+    ],
     "name:und_x_variant":[
         "Masi\u0163a",
         "Mari\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673769
+        "gn:id":673769,
+        "ro-ancpi:id":152403
     },
     "wof:country":"RO",
-    "wof:geomhash":"9624806930c63289e7ab8856cbfddd67",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f84e04bced7a13576f0aa43d6643f26b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,8 +82,8 @@
         }
     ],
     "wof:id":1243108051,
-    "wof:lastmodified":1566611527,
-    "wof:name":"Marita",
+    "wof:lastmodified":1588366844,
+    "wof:name":"Mari\u0163a",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":122,
@@ -78,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.22098,
-    44.11687,
-    25.22098,
-    44.11687
+    25.215381,
+    44.114167,
+    25.222654,
+    44.119455
 ],
-  "geometry": {"coordinates":[25.22098,44.11687],"type":"Point"}
+  "geometry": {"coordinates":[[[25.219599,44.11845],[25.220087,44.118306],[25.220583,44.118411],[25.220746,44.118299],[25.221397,44.118426],[25.221426,44.118148],[25.221247,44.117861],[25.22118,44.117642],[25.221305,44.117402],[25.221526,44.117306],[25.22183,44.117359],[25.222052,44.11738],[25.222451,44.117235],[25.222654,44.116286],[25.222291,44.115999],[25.221446,44.115611],[25.2216,44.11536],[25.221029,44.114972],[25.220096,44.114638],[25.218732,44.114167],[25.217687,44.115507],[25.217821,44.11564],[25.216715,44.11666],[25.216368,44.116906],[25.216046,44.117898],[25.215701,44.118554],[25.215381,44.119024],[25.216398,44.119337],[25.216977,44.11945],[25.219121,44.119455],[25.219054,44.118995],[25.21909,44.118718],[25.219422,44.118499],[25.219599,44.11845]]],"type":"Polygon"}
 }

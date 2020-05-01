@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.93852,45.14745,24.93852,45.14745",
-    "geom:latitude":45.14745,
-    "geom:longitude":24.93852,
+    "geom:area":0.000012,
+    "geom:area_square_m":101601.317904,
+    "geom:bbox":"24.95671,45.152217,24.964964,45.156387",
+    "geom:latitude":45.154764,
+    "geom:longitude":24.961531,
     "gn:admin1_code":"03",
     "gn:admin2_code":"19999.0",
     "gn:asciiname":"Putina",
@@ -28,12 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Putina"
     ],
     "name:por_x_preferred":[
+        "Putina"
+    ],
+    "name:ron_x_preferred":[
         "Putina"
     ],
     "name:rus_x_preferred":[
@@ -42,7 +45,10 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0438\u043d\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669448
+        "gn:id":669448,
+        "ro-ancpi:id":20037
     },
     "wof:country":"RO",
-    "wof:geomhash":"ce2ac156b8555900428938481dbe7d61",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e2c1abbaeff171f58f481057a43d6713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":1343965683,
-    "wof:lastmodified":1566609883,
+    "wof:lastmodified":1588367115,
     "wof:name":"Putina",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.93852,
-    45.14745,
-    24.93852,
-    45.14745
+    24.95671,
+    45.152217,
+    24.964964,
+    45.156387
 ],
-  "geometry": {"coordinates":[24.93852,45.14745],"type":"Point"}
+  "geometry": {"coordinates":[[[24.95886,45.155911],[24.959516,45.1556],[24.960111,45.155637],[24.960905,45.155772],[24.961465,45.155912],[24.962371,45.155687],[24.962984,45.155614],[24.963458,45.155803],[24.964161,45.155908],[24.964454,45.155328],[24.964878,45.154614],[24.964964,45.154341],[24.964352,45.15406],[24.96386,45.153944],[24.963955,45.153047],[24.963921,45.152559],[24.963309,45.15229],[24.963033,45.152217],[24.962653,45.152443],[24.962359,45.152998],[24.962298,45.153651],[24.962436,45.154286],[24.962246,45.154804],[24.962211,45.155012],[24.961547,45.155042],[24.960555,45.15495],[24.959282,45.154891],[24.958091,45.154976],[24.957487,45.154903],[24.956797,45.154951],[24.95671,45.155964],[24.957237,45.156387],[24.957703,45.156118],[24.95823,45.156027],[24.95886,45.155911]]],"type":"Polygon"}
 }

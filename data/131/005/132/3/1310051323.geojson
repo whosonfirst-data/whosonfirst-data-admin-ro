@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.68032,47.63931,22.68032,47.63931",
-    "geom:latitude":47.63931,
-    "geom:longitude":22.68032,
+    "geom:area":0.000099,
+    "geom:area_square_m":826829.507992,
+    "geom:bbox":"22.670053,47.632518,22.684274,47.646098",
+    "geom:latitude":47.639621,
+    "geom:longitude":22.677588,
     "gn:admin1_code":"32",
     "gn:admin2_code":"137443.0",
     "gn:asciiname":"Criseni",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.66032,47.61931,22.70032,47.65931",
+    "lbl:latitude":47.63931,
+    "lbl:longitude":22.68032,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cri\u015feni"
+    ],
+    "name:ron_x_variant":[
+        "Criseni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680191
+        "gn:id":680191,
+        "ro-ancpi:id":137461
     },
     "wof:country":"RO",
-    "wof:geomhash":"fb9b075411d0a6492bce18b73b1f3e02",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2ef1ffbd57662c54474864ca9015f266",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1310051323,
-    "wof:lastmodified":1566610597,
-    "wof:name":"Criseni",
+    "wof:lastmodified":1588366789,
+    "wof:name":"Cri\u015feni",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":256,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.68032,
-    47.63931,
-    22.68032,
-    47.63931
+    22.670053,
+    47.632518,
+    22.684274,
+    47.646098
 ],
-  "geometry": {"coordinates":[22.68032,47.63931],"type":"Point"}
+  "geometry": {"coordinates":[[[22.672863,47.646083],[22.673082,47.645824],[22.673875,47.646098],[22.674306,47.645842],[22.675284,47.645441],[22.678743,47.643748],[22.679346,47.64342],[22.681227,47.642289],[22.683987,47.640071],[22.681202,47.639371],[22.684149,47.635568],[22.684274,47.63538],[22.682791,47.635017],[22.684117,47.633421],[22.680544,47.632518],[22.679407,47.634135],[22.678405,47.633881],[22.676105,47.636942],[22.67392,47.636189],[22.67205,47.638731],[22.674154,47.639546],[22.672615,47.641505],[22.670978,47.643639],[22.670506,47.64424],[22.670562,47.644268],[22.670585,47.644299],[22.670053,47.64496],[22.671236,47.645442],[22.672705,47.646021],[22.672863,47.646083]]],"type":"Polygon"}
 }

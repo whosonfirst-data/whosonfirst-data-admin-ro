@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.93088,46.52634,22.93088,46.52634",
-    "geom:latitude":46.52634,
-    "geom:longitude":22.93088,
+    "geom:area":0.000036,
+    "geom:area_square_m":309295.707861,
+    "geom:bbox":"22.920113,46.523477,22.935222,46.531981",
+    "geom:latitude":46.526582,
+    "geom:longitude":22.92779,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4767.0",
     "gn:asciiname":"Trifesti",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.91088,46.50634,22.95088,46.54634",
+    "lbl:latitude":46.52634,
+    "lbl:longitude":22.93088,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Trife\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Trifesti"
+    ],
     "name:und_x_variant":[
         "Tife\u015fti",
         "Trife\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664611
+        "gn:id":664611,
+        "ro-ancpi:id":4909
     },
     "wof:country":"RO",
-    "wof:geomhash":"d22cb168359cc206804feba2936a646c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cdfd6e6e83dfe8723060601855dbaef6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1344061185,
-    "wof:lastmodified":1566609908,
-    "wof:name":"Trifesti",
+    "wof:lastmodified":1588366653,
+    "wof:name":"Trife\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":108,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.93088,
-    46.52634000000001,
-    22.93088,
-    46.52634000000001
+    22.920113,
+    46.523477,
+    22.935222,
+    46.531981
 ],
-  "geometry": {"coordinates":[22.93088,46.52634000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[22.933033,46.52871],[22.931015,46.52739],[22.930874,46.526718],[22.931026,46.525257],[22.931539,46.524884],[22.932637,46.525191],[22.934355,46.525212],[22.934557,46.525024],[22.934423,46.524697],[22.934326,46.524138],[22.933283,46.5235],[22.931509,46.523477],[22.930186,46.524325],[22.92885,46.524128],[22.92581,46.524599],[22.925691,46.525171],[22.921252,46.525569],[22.920567,46.527415],[22.920113,46.529047],[22.92109,46.529834],[22.921739,46.529922],[22.921722,46.529219],[22.922794,46.527782],[22.924215,46.527003],[22.925503,46.527162],[22.926693,46.525836],[22.926832,46.525804],[22.927782,46.52585],[22.928574,46.526207],[22.929318,46.52663],[22.930302,46.527636],[22.93126,46.528138],[22.931834,46.529243],[22.932262,46.530025],[22.932996,46.530039],[22.934087,46.530096],[22.934269,46.530651],[22.934258,46.530949],[22.934504,46.531981],[22.935222,46.531957],[22.934981,46.529366],[22.933844,46.529364],[22.933033,46.52871]]],"type":"Polygon"}
 }

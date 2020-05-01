@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.43747,44.86403,24.43747,44.86403",
-    "geom:latitude":44.86403,
-    "geom:longitude":24.43747,
+    "geom:area":0.000106,
+    "geom:area_square_m":927774.502305,
+    "geom:bbox":"24.423802,44.854321,24.440183,44.866862",
+    "geom:latitude":44.862832,
+    "geom:longitude":24.43229,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404.0",
     "gn:asciiname":"Ciresul",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.41747,44.84403,24.45747,44.88403",
+    "lbl:latitude":44.86403,
+    "lbl:longitude":24.43747,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cire\u015ful"
+    ],
+    "name:ron_x_variant":[
+        "Ciresul"
+    ],
     "name:und_x_variant":[
         "Surdeni",
         "Surdenii",
         "Cire\u015ful"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681589
+        "gn:id":681589,
+        "ro-ancpi:id":169440
     },
     "wof:country":"RO",
-    "wof:geomhash":"9d5164d28b8cebd6e4bf188c37ffc9df",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4741d59054baacc6b273f32892305bcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1310238651,
-    "wof:lastmodified":1566610519,
-    "wof:name":"Ciresul",
+    "wof:lastmodified":1588366772,
+    "wof:name":"Cire\u015ful",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":224,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.43747,
-    44.86403,
-    24.43747,
-    44.86403
+    24.423802,
+    44.854321,
+    24.440183,
+    44.866862
 ],
-  "geometry": {"coordinates":[24.43747,44.86403],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.438579,44.861316],[24.436601,44.859034],[24.434865,44.859529],[24.433212,44.858948],[24.432087,44.859289],[24.430335,44.858812],[24.427725,44.858903],[24.426795,44.861622],[24.423802,44.863489],[24.425314,44.864853],[24.425271,44.865473],[24.425735,44.866367],[24.43067,44.866862],[24.440183,44.866857],[24.439912,44.864705],[24.438949,44.8634],[24.438579,44.861316]]],[[[24.432516,44.855644],[24.431349,44.854321],[24.428467,44.85552],[24.429905,44.857026],[24.432516,44.855644]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.31122,45.3496,21.31122,45.3496",
-    "geom:latitude":45.3496,
-    "geom:longitude":21.31122,
+    "geom:area":0.000081,
+    "geom:area_square_m":707675.424955,
+    "geom:bbox":"21.303116,45.342702,21.316905,45.353182",
+    "geom:latitude":45.348162,
+    "geom:longitude":21.310151,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156669.0",
     "gn:asciiname":"Rovinita Mica",
@@ -26,11 +26,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.29122,45.3296,21.33122,45.3696",
+    "lbl:latitude":45.3496,
+    "lbl:longitude":21.31122,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Rovini\u0163a Mic\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Rovinita Mica"
+    ],
     "name:und_x_variant":[
         "Kisomor",
         "Omoru Mic",
@@ -40,7 +48,11 @@
         "Omori Nadpusta",
         "Rovini\u0163a Mic\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668549
+        "gn:id":668549,
+        "ro-ancpi:id":156703
     },
     "wof:country":"RO",
-    "wof:geomhash":"24d60cfc5938e119330c44ef5d117d4e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e4a7365a11b2a5c7639e69112c10a3a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,8 +78,8 @@
         }
     ],
     "wof:id":1293040991,
-    "wof:lastmodified":1566610094,
-    "wof:name":"Rovinita Mica",
+    "wof:lastmodified":1588366686,
+    "wof:name":"Rovini\u0163a Mic\u0103",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":14,
@@ -74,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.31122,
-    45.3496,
-    21.31122,
-    45.3496
+    21.303116,
+    45.342702,
+    21.316905,
+    45.353182
 ],
-  "geometry": {"coordinates":[21.31122,45.3496],"type":"Point"}
+  "geometry": {"coordinates":[[[21.310176,45.353182],[21.310971,45.352466],[21.311617,45.352814],[21.312542,45.352024],[21.313116,45.35235],[21.314065,45.351541],[21.314308,45.351654],[21.31478,45.351859],[21.315035,45.351823],[21.315678,45.351214],[21.313786,45.350154],[21.314208,45.349815],[21.314773,45.349833],[21.314956,45.349701],[21.315133,45.349778],[21.315793,45.349237],[21.316108,45.348979],[21.314767,45.348259],[21.315532,45.347568],[21.316213,45.347917],[21.316905,45.347338],[21.316862,45.346892],[21.310939,45.343661],[21.309199,45.342702],[21.308347,45.343504],[21.307793,45.343987],[21.306558,45.344986],[21.304816,45.346395],[21.305579,45.34684],[21.30512,45.346855],[21.304411,45.347471],[21.304993,45.347782],[21.304206,45.348488],[21.304209,45.34855],[21.304143,45.34867],[21.30378,45.348679],[21.303116,45.349247],[21.305316,45.350496],[21.310176,45.353182]]],"type":"Polygon"}
 }

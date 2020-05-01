@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.20567,46.73964,27.20567,46.73964",
-    "geom:latitude":46.73964,
-    "geom:longitude":27.20567,
+    "geom:area":0.000009,
+    "geom:area_square_m":72460.238337,
+    "geom:bbox":"27.20185,46.736341,27.205226,46.741157",
+    "geom:latitude":46.738706,
+    "geom:longitude":27.203602,
     "gn:admin1_code":"04",
     "gn:admin2_code":"23207.0",
     "gn:asciiname":"Valea Marului",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea M\u0103rului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Marului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663592
+        "gn:id":663592,
+        "ro-ancpi:id":23261
     },
     "wof:country":"RO",
-    "wof:geomhash":"15d6997704f12f3a7172355251186dc4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2739ce601fe93e0611b45ab3a08beb67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226243629,
-    "wof:lastmodified":1566611680,
-    "wof:name":"Valea Marului",
+    "wof:lastmodified":1588367142,
+    "wof:name":"Valea M\u0103rului",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":37,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.20567,
-    46.73964,
-    27.20567,
-    46.73964
+    27.20185,
+    46.736341,
+    27.205226,
+    46.741157
 ],
-  "geometry": {"coordinates":[27.20567,46.73964],"type":"Point"}
+  "geometry": {"coordinates":[[[27.20477,46.737942],[27.20495,46.737657],[27.203606,46.737683],[27.203444,46.736519],[27.202312,46.736341],[27.20185,46.73671],[27.202194,46.737916],[27.20248,46.737904],[27.202581,46.738748],[27.202817,46.739405],[27.2033,46.740281],[27.203732,46.740933],[27.203918,46.741157],[27.204381,46.74105],[27.204874,46.740962],[27.204869,46.740385],[27.205001,46.739858],[27.205226,46.739297],[27.204631,46.738961],[27.20477,46.737942]]],"type":"Polygon"}
 }

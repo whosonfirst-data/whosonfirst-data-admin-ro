@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.83855,46.46897,27.83855,46.46897",
-    "geom:latitude":46.46897,
-    "geom:longitude":27.83855,
+    "geom:area":0.000027,
+    "geom:area_square_m":228043.165241,
+    "geom:bbox":"27.833404,46.463923,27.842419,46.471347",
+    "geom:latitude":46.467979,
+    "geom:longitude":27.838195,
     "gn:admin1_code":"38",
     "gn:admin2_code":"162014.0",
     "gn:asciiname":"Gura Albesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.81855,46.44897,27.85855,46.48897",
+    "lbl:latitude":46.46897,
+    "lbl:longitude":27.83855,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gura Albe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gura Albesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676571
+        "gn:id":676571,
+        "ro-ancpi:id":162050
     },
     "wof:country":"RO",
-    "wof:geomhash":"f9e70c99e145cf9ff8a5f0e2631bf89e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5972f47bb2dddb39f452d6cb32177204",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1259434275,
-    "wof:lastmodified":1566611602,
-    "wof:name":"Gura Albesti",
+    "wof:lastmodified":1588366863,
+    "wof:name":"Gura Albe\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":142,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.83855,
-    46.46897,
-    27.83855,
-    46.46897
+    27.833404,
+    46.463923,
+    27.842419,
+    46.471347
 ],
-  "geometry": {"coordinates":[27.83855,46.46897],"type":"Point"}
+  "geometry": {"coordinates":[[[27.841247,46.466905],[27.841434,46.466402],[27.842006,46.466469],[27.842217,46.465973],[27.841128,46.465763],[27.842419,46.463923],[27.8409,46.464108],[27.840937,46.464503],[27.840232,46.465644],[27.840448,46.465981],[27.839852,46.465969],[27.839302,46.466441],[27.839009,46.466472],[27.838412,46.466626],[27.837515,46.466843],[27.836794,46.46693],[27.836669,46.466474],[27.83553,46.466669],[27.835397,46.466436],[27.833404,46.466499],[27.833484,46.467277],[27.834826,46.46736],[27.834996,46.468783],[27.835336,46.468797],[27.836616,46.471347],[27.839126,46.471026],[27.838578,46.469865],[27.838876,46.469823],[27.838822,46.469599],[27.839987,46.46948],[27.839943,46.46892],[27.840858,46.468887],[27.840929,46.46768],[27.842153,46.467472],[27.842214,46.467045],[27.841247,46.466905]]],"type":"Polygon"}
 }

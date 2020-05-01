@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.46434,45.21777,24.46434,45.21777",
-    "geom:latitude":45.21777,
-    "geom:longitude":24.46434,
+    "geom:area":0.00001,
+    "geom:area_square_m":88751.310974,
+    "geom:bbox":"24.457869,45.217102,24.463277,45.225188",
+    "geom:latitude":45.221563,
+    "geom:longitude":24.461258,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172812.0",
     "gn:asciiname":"Caligi",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u0103ligi"
+    ],
+    "name:ron_x_variant":[
+        "Caligi"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682977
+        "gn:id":682977,
+        "ro-ancpi:id":172830
     },
     "wof:country":"RO",
-    "wof:geomhash":"59f702891ad510ae03e1f0e469e659f6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0289c662feb125a014c42c84ec7a7ece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293518551,
-    "wof:lastmodified":1566610101,
-    "wof:name":"Caligi",
+    "wof:lastmodified":1588367026,
+    "wof:name":"C\u0103ligi",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":71,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.46434,
-    45.21777,
-    24.46434,
-    45.21777
+    24.457869,
+    45.217102,
+    24.463277,
+    45.225188
 ],
-  "geometry": {"coordinates":[24.46434,45.21777],"type":"Point"}
+  "geometry": {"coordinates":[[[24.458843,45.225188],[24.461431,45.223754],[24.462825,45.223805],[24.462827,45.223504],[24.461559,45.223462],[24.461906,45.222669],[24.462052,45.221881],[24.462211,45.220994],[24.462787,45.219862],[24.462136,45.219628],[24.462224,45.219336],[24.462259,45.219037],[24.463169,45.217983],[24.463277,45.217132],[24.4627,45.217102],[24.462619,45.217723],[24.461318,45.218924],[24.46102,45.220175],[24.460851,45.221409],[24.460142,45.222684],[24.460655,45.223484],[24.459391,45.224365],[24.45865,45.224148],[24.457869,45.224544],[24.458843,45.225188]]],"type":"Polygon"}
 }

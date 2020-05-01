@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.99085,44.62895,23.99085,44.62895",
-    "geom:latitude":44.62895,
-    "geom:longitude":23.99085,
+    "geom:area":0.000032,
+    "geom:area_square_m":277317.379543,
+    "geom:bbox":"23.987568,44.627807,24.003869,44.630613",
+    "geom:latitude":44.629222,
+    "geom:longitude":23.995815,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174502.0",
     "gn:asciiname":"Colelia",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.97085,44.60895,24.01085,44.64895",
+    "lbl:latitude":44.62895,
+    "lbl:longitude":23.99085,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Colelia"
@@ -51,7 +53,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u840a\u5229\u4e9e\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681121
+        "gn:id":681121,
+        "ro-ancpi:id":169636
     },
     "wof:country":"RO",
-    "wof:geomhash":"f82d2d1396f28ac7929e9491672eca24",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6595b69d4aecd8bc96ed910b7b97781f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +83,7 @@
         }
     ],
     "wof:id":1226572489,
-    "wof:lastmodified":1566611650,
+    "wof:lastmodified":1588366875,
     "wof:name":"Colelia",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -85,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.99085,
-    44.62895,
-    23.99085,
-    44.62895
+    23.987568,
+    44.627807,
+    24.003869,
+    44.630613
 ],
-  "geometry": {"coordinates":[23.99085,44.62895],"type":"Point"}
+  "geometry": {"coordinates":[[[23.987788,44.629725],[23.98793,44.629714],[23.988091,44.629724],[23.988236,44.629755],[23.988334,44.629784],[23.988751,44.629764],[23.989155,44.629753],[23.989412,44.63004],[23.989588,44.630044],[23.989891,44.630036],[23.990153,44.630036],[23.990326,44.63005],[23.99038,44.630055],[23.990385,44.630055],[23.990546,44.630061],[23.990588,44.629844],[23.990787,44.629865],[23.991126,44.629898],[23.991364,44.629924],[23.991351,44.629977],[23.991674,44.630031],[23.991928,44.630081],[23.995028,44.629885],[23.995179,44.63048],[23.996464,44.630606],[23.998214,44.6302],[24.00373,44.630613],[24.003869,44.628776],[23.991767,44.627807],[23.988461,44.628275],[23.987568,44.628708],[23.987786,44.629713],[23.987788,44.629724],[23.987788,44.629725]]],"type":"Polygon"}
 }

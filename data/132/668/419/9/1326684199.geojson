@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.47928,46.77368,24.47928,46.77368",
-    "geom:latitude":46.77368,
-    "geom:longitude":24.47928,
+    "geom:area":0.000008,
+    "geom:area_square_m":68620.881177,
+    "geom:bbox":"24.47666,46.771908,24.4816,46.775094",
+    "geom:latitude":46.773404,
+    "geom:longitude":24.479093,
     "gn:admin1_code":"27",
     "gn:admin2_code":"116723.0",
     "gn:asciiname":"Hodaia",
@@ -26,17 +26,26 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.45928,46.75368,24.49928,46.79368",
+    "lbl:latitude":46.77368,
+    "lbl:longitude":24.47928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Hodaia"
+    ],
     "name:und_x_variant":[
         "Hodoaia",
         "Hod\u00e0ja",
         "Hodaia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676121
+        "gn:id":676121,
+        "ro-ancpi:id":116750
     },
     "wof:country":"RO",
-    "wof:geomhash":"3a2e25578357d5468fa91dceeddf83f3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e3760c3d8c7a8c1b4ace8a0d47e0e74c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1326684199,
-    "wof:lastmodified":1566609799,
+    "wof:lastmodified":1588366630,
     "wof:name":"Hodaia",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.47928,
-    46.77368,
-    24.47928,
-    46.77368
+    24.47666,
+    46.771908,
+    24.4816,
+    46.775094
 ],
-  "geometry": {"coordinates":[24.47928,46.77368],"type":"Point"}
+  "geometry": {"coordinates":[[[24.479612,46.775094],[24.480287,46.773696],[24.480512,46.773512],[24.4816,46.773386],[24.480804,46.772289],[24.480165,46.772379],[24.479878,46.771908],[24.478789,46.772157],[24.477923,46.77253],[24.477333,46.773244],[24.47666,46.774457],[24.477129,46.774636],[24.477515,46.774114],[24.479612,46.775094]]],"type":"Polygon"}
 }

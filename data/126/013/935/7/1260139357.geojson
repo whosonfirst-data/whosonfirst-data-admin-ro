@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.95579,45.88564,23.95579,45.88564",
-    "geom:latitude":45.88564,
-    "geom:longitude":23.95579,
+    "geom:area":0.000102,
+    "geom:area_square_m":880716.780004,
+    "geom:bbox":"23.941708,45.881796,23.963081,45.893407",
+    "geom:latitude":45.886621,
+    "geom:longitude":23.953778,
     "gn:admin1_code":"33",
     "gn:admin2_code":"143851.0",
     "gn:asciiname":"Toparcea",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.93579,45.86564,23.97579,45.90564",
+    "lbl:latitude":45.88564,
+    "lbl:longitude":23.95579,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Top\u00e2rcea"
+    ],
+    "name:ron_x_variant":[
+        "Toparcea"
+    ],
     "name:und_x_variant":[
         "Top\u00e2rcea",
         "Top\u00eercea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664764
+        "gn:id":664764,
+        "ro-ancpi:id":143879
     },
     "wof:country":"RO",
-    "wof:geomhash":"6e89a5a5c52c4967931758c7cf6a8f4f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cf69a352d9b28753e0595f9eb284bc12",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1260139357,
-    "wof:lastmodified":1566610471,
-    "wof:name":"Toparcea",
+    "wof:lastmodified":1588366763,
+    "wof:name":"Top\u00e2rcea",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":245,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.95579,
-    45.88564,
-    23.95579,
-    45.88564
+    23.941708,
+    45.881796,
+    23.963081,
+    45.893407
 ],
-  "geometry": {"coordinates":[23.95579,45.88564],"type":"Point"}
+  "geometry": {"coordinates":[[[23.959615,45.892731],[23.957832,45.888762],[23.960162,45.888211],[23.961458,45.890057],[23.963081,45.890822],[23.963051,45.887804],[23.962688,45.887169],[23.960769,45.884866],[23.959934,45.883793],[23.957388,45.884949],[23.95677,45.884265],[23.957114,45.884137],[23.95601,45.882031],[23.953654,45.881796],[23.953272,45.882138],[23.952202,45.882771],[23.95233,45.882982],[23.952954,45.883612],[23.950386,45.885133],[23.949492,45.882699],[23.946957,45.883283],[23.947169,45.883871],[23.947468,45.884216],[23.947287,45.884726],[23.947091,45.885209],[23.943862,45.884584],[23.942316,45.884248],[23.941708,45.884861],[23.943339,45.885186],[23.942783,45.885729],[23.942991,45.886433],[23.944088,45.887063],[23.945052,45.888417],[23.948512,45.88807],[23.949006,45.888122],[23.949869,45.888487],[23.950266,45.889134],[23.951533,45.888884],[23.953596,45.888962],[23.955418,45.889098],[23.956025,45.889497],[23.958265,45.893407],[23.95964,45.893209],[23.959615,45.892731]]],"type":"Polygon"}
 }

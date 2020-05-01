@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91937,46.64776,23.91937,46.64776",
-    "geom:latitude":46.64776,
-    "geom:longitude":23.91937,
+    "geom:area":0.000009,
+    "geom:area_square_m":72710.949812,
+    "geom:bbox":"23.916946,46.645546,23.923085,46.649368",
+    "geom:latitude":46.647568,
+    "geom:longitude":23.919799,
     "gn:admin1_code":"13",
     "gn:admin2_code":"56844",
     "gn:asciiname":"Andici",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.89937,46.62776,23.93937,46.66776",
+    "lbl:latitude":46.64776,
+    "lbl:longitude":23.91937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Andici"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686361
+        "gn:id":686361,
+        "ro-ancpi:id":56862
     },
     "wof:country":"RO",
-    "wof:geomhash":"e79d44966e3458329424375054e3f9c3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f7e1bba566206c82c809d38040826427",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +64,7 @@
         }
     ],
     "wof:id":1276857569,
-    "wof:lastmodified":1566610228,
+    "wof:lastmodified":1588366716,
     "wof:name":"Andici",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
@@ -61,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.91937,
-    46.64776,
-    23.91937,
-    46.64776
+    23.916946,
+    46.645546,
+    23.923085,
+    46.649368
 ],
-  "geometry": {"coordinates":[23.91937,46.64776],"type":"Point"}
+  "geometry": {"coordinates":[[[23.923085,46.646649],[23.922312,46.645546],[23.920629,46.646436],[23.91897,46.647179],[23.918267,46.647413],[23.917527,46.647567],[23.916946,46.648172],[23.917495,46.648734],[23.917622,46.648809],[23.917728,46.649368],[23.919384,46.648983],[23.920247,46.648404],[23.920689,46.647647],[23.922105,46.646899],[23.923085,46.646649]]],"type":"Polygon"}
 }

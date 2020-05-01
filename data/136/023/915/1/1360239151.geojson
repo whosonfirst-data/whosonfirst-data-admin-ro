@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.72308,46.56007,24.72308,46.56007",
-    "geom:latitude":46.56007,
-    "geom:longitude":24.72308,
+    "geom:area":0.000034,
+    "geom:area_square_m":285781.053938,
+    "geom:bbox":"24.718207,46.556195,24.728518,46.56405",
+    "geom:latitude":46.559596,
+    "geom:longitude":24.722681,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118281.0",
     "gn:asciiname":"Veta",
@@ -26,11 +26,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.70308,46.54007,24.74308,46.58007",
+    "lbl:latitude":46.56007,
+    "lbl:longitude":24.72308,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ve\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Veta"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c47\u0c1f"
     ],
@@ -38,7 +46,11 @@
         "Vecze",
         "Ve\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663022
+        "gn:id":663022,
+        "ro-ancpi:id":118361
     },
     "wof:country":"RO",
-    "wof:geomhash":"1deecafd8b6c85b2f271e557b106bbaa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f138a963f332ac3f98d4bce858a8529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +76,8 @@
         }
     ],
     "wof:id":1360239151,
-    "wof:lastmodified":1566610608,
-    "wof:name":"Veta",
+    "wof:lastmodified":1588366791,
+    "wof:name":"Ve\u0163a",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":61,
@@ -72,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.72308,
-    46.56007,
-    24.72308,
-    46.56007
+    24.718207,
+    46.556195,
+    24.728518,
+    46.56405
 ],
-  "geometry": {"coordinates":[24.72308,46.56007],"type":"Point"}
+  "geometry": {"coordinates":[[[24.728518,46.563536],[24.727347,46.562838],[24.726636,46.562616],[24.725513,46.561934],[24.72587,46.561559],[24.725648,46.561002],[24.723694,46.560188],[24.724851,46.559],[24.724525,46.558792],[24.725329,46.55838],[24.725533,46.557865],[24.72517,46.556956],[24.724887,46.556563],[24.721753,46.557095],[24.720521,46.556732],[24.720202,46.556391],[24.718932,46.556195],[24.718774,46.556371],[24.718832,46.556468],[24.718417,46.55664],[24.71848,46.556737],[24.718229,46.556845],[24.718808,46.557582],[24.718207,46.557817],[24.718305,46.558138],[24.718714,46.558276],[24.718917,46.558776],[24.719435,46.559131],[24.719858,46.55948],[24.719321,46.560188],[24.719934,46.560447],[24.719624,46.560801],[24.720312,46.561014],[24.722072,46.561573],[24.723907,46.562469],[24.724568,46.563125],[24.726142,46.563791],[24.726584,46.563351],[24.727946,46.56405],[24.728518,46.563536]]],"type":"Polygon"}
 }

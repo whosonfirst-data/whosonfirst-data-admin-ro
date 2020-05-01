@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.9,46.41667,24.9,46.41667",
-    "geom:latitude":46.41667,
-    "geom:longitude":24.9,
+    "geom:area":0.000014,
+    "geom:area_square_m":115774.885581,
+    "geom:bbox":"24.903626,46.422564,24.915535,46.425203",
+    "geom:latitude":46.424259,
+    "geom:longitude":24.909265,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -138,7 +138,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":867240,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -155,11 +158,15 @@
         "gn:id":684941,
         "gp:id":867240,
         "qs_pg:id":994410,
+        "ro-ancpi:id":119368,
         "wd:id":"Q853641"
     },
     "wof:country":"RO",
     "wof:created":1497298707,
-    "wof:geomhash":"23f3eae611d4bcee344e10fe842fadec",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"c71ec51f37b678abe55404a10656b34b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +176,7 @@
         }
     ],
     "wof:id":1125983927,
-    "wof:lastmodified":1566611360,
+    "wof:lastmodified":1588367065,
     "wof:name":"Bezidu Nou",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -181,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.9,
-    46.41667,
-    24.9,
-    46.41667
+    24.903626,
+    46.422564,
+    24.915535,
+    46.425203
 ],
-  "geometry": {"coordinates":[24.9,46.41667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.915535,46.42491],[24.915517,46.42436],[24.91437,46.424278],[24.913185,46.42425],[24.911942,46.424048],[24.911942,46.423591],[24.911223,46.424007],[24.910018,46.423939],[24.908911,46.423656],[24.907473,46.42352],[24.90623,46.423197],[24.905939,46.423062],[24.904366,46.422564],[24.903626,46.423168],[24.904306,46.423437],[24.904811,46.423531],[24.90516,46.424002],[24.905567,46.424674],[24.906343,46.425186],[24.907005,46.424743],[24.908365,46.424865],[24.909608,46.425094],[24.911901,46.425203],[24.91365,46.425151],[24.914524,46.425125],[24.915535,46.42491]]],"type":"Polygon"}
 }

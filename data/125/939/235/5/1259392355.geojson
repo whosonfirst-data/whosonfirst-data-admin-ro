@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.74553,46.47978,22.74553,46.47978",
-    "geom:latitude":46.47978,
-    "geom:longitude":22.74553,
+    "geom:area":0.000004,
+    "geom:area_square_m":30390.416531,
+    "geom:bbox":"22.742735,46.478501,22.745442,46.480944",
+    "geom:latitude":46.47949,
+    "geom:longitude":22.744072,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2381",
     "gn:asciiname":"Avramesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Avr\u0103me\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Avramesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686023
+        "gn:id":686023,
+        "ro-ancpi:id":2407
     },
     "wof:country":"RO",
-    "wof:geomhash":"2a78fe0c33fd39e97b87c687df7d5790",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8783cf605da50017dd2f54b58ddec736",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1259392355,
-    "wof:lastmodified":1566611545,
-    "wof:name":"Avramesti",
+    "wof:lastmodified":1588367126,
+    "wof:name":"Avr\u0103me\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":56,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.74553,
-    46.47978,
-    22.74553,
-    46.47978
+    22.742735,
+    46.478501,
+    22.745442,
+    46.480944
 ],
-  "geometry": {"coordinates":[22.74553,46.47978],"type":"Point"}
+  "geometry": {"coordinates":[[[22.744423,46.480841],[22.744476,46.48041],[22.744907,46.479763],[22.745442,46.478762],[22.743414,46.478501],[22.742735,46.479553],[22.743357,46.479893],[22.743548,46.480405],[22.744373,46.480944],[22.744423,46.480841]]],"type":"Polygon"}
 }

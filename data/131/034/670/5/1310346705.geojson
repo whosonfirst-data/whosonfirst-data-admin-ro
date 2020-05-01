@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.4336,46.04773,24.4336,46.04773",
-    "geom:latitude":46.04773,
-    "geom:longitude":24.4336,
+    "geom:area":0.000055,
+    "geom:area_square_m":470280.667909,
+    "geom:bbox":"24.423354,46.043007,24.438672,46.051322",
+    "geom:latitude":46.047069,
+    "geom:longitude":24.431666,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145104",
     "gn:asciiname":"Alma Vii",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.4136,46.02773,24.4536,46.06773",
+    "lbl:latitude":46.04773,
+    "lbl:longitude":24.4336,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Alma Vii"
+    ],
     "name:und_x_variant":[
         "Alma \u00eentre Vii",
         "Alma Vii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686435
+        "gn:id":686435,
+        "ro-ancpi:id":145122
     },
     "wof:country":"RO",
-    "wof:geomhash":"5ee4ed8f310fc50995183a7adee62082",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3cf3c5eb2478d4da56345b9d46c38c4c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1310346705,
-    "wof:lastmodified":1566610596,
+    "wof:lastmodified":1588366788,
     "wof:name":"Alma Vii",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.4336,
-    46.04773,
-    24.4336,
-    46.04773
+    24.423354,
+    46.043007,
+    24.438672,
+    46.051322
 ],
-  "geometry": {"coordinates":[24.4336,46.04773],"type":"Point"}
+  "geometry": {"coordinates":[[[24.434377,46.047892],[24.437813,46.045317],[24.438672,46.044629],[24.436898,46.043077],[24.434682,46.043007],[24.429192,46.046422],[24.427604,46.046077],[24.42603,46.047158],[24.424617,46.046458],[24.423354,46.047678],[24.431955,46.051322],[24.434331,46.049632],[24.433401,46.048797],[24.434377,46.047892]]],"type":"Polygon"}
 }

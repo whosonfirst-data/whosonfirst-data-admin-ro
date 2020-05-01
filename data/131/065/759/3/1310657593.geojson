@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.85446,44.58987,22.85446,44.58987",
-    "geom:latitude":44.58987,
-    "geom:longitude":22.85446,
+    "geom:area":0.000039,
+    "geom:area_square_m":341231.821849,
+    "geom:bbox":"22.842447,44.585631,22.857439,44.593674",
+    "geom:latitude":44.589502,
+    "geom:longitude":22.850977,
     "gn:admin1_code":"26",
     "gn:admin2_code":"113233.0",
     "gn:asciiname":"Garnita",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.83446,44.56987,22.87446,44.60987",
+    "lbl:latitude":44.58987,
+    "lbl:longitude":22.85446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "G\u00e2rni\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Garnita"
+    ],
     "name:und_x_variant":[
         "G\u00eerni\u0163a",
         "G\u00e2rni\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677161
+        "gn:id":677161,
+        "ro-ancpi:id":113322
     },
     "wof:country":"RO",
-    "wof:geomhash":"36c68c69041144a92e6fb4cb009527b6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c68d1b4f08c5990573486dd134fd6321",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1310657593,
-    "wof:lastmodified":1566610541,
-    "wof:name":"Garnita",
+    "wof:lastmodified":1588366776,
+    "wof:name":"G\u00e2rni\u0163a",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":72,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.85446,
-    44.58987,
-    22.85446,
-    44.58987
+    22.842447,
+    44.585631,
+    22.857439,
+    44.593674
 ],
-  "geometry": {"coordinates":[22.85446,44.58987],"type":"Point"}
+  "geometry": {"coordinates":[[[22.85734,44.590126],[22.857439,44.588738],[22.856538,44.588738],[22.856598,44.587803],[22.855244,44.587709],[22.854427,44.588011],[22.853687,44.587868],[22.853722,44.586289],[22.852978,44.586258],[22.852946,44.586463],[22.851891,44.5864],[22.85161,44.586198],[22.851239,44.586156],[22.851269,44.585676],[22.849805,44.585631],[22.849656,44.587345],[22.852136,44.587564],[22.852067,44.588773],[22.850934,44.588871],[22.848808,44.588496],[22.845732,44.588171],[22.845605,44.58922],[22.848301,44.590156],[22.850857,44.58962],[22.850912,44.589899],[22.847183,44.591148],[22.844572,44.592171],[22.842447,44.593063],[22.84293,44.593674],[22.843699,44.593395],[22.84432,44.593119],[22.845336,44.592949],[22.847341,44.592178],[22.848512,44.591977],[22.849984,44.591593],[22.851173,44.591273],[22.852906,44.590902],[22.854351,44.590509],[22.857316,44.590282],[22.85734,44.590126]]],"type":"Polygon"}
 }

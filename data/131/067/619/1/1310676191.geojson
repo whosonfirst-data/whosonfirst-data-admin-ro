@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.99592,44.93499,22.99592,44.93499",
-    "geom:latitude":44.93499,
-    "geom:longitude":22.99592,
+    "geom:area":0.000007,
+    "geom:area_square_m":64974.306145,
+    "geom:bbox":"22.991078,44.932721,22.998277,44.937094",
+    "geom:latitude":44.934569,
+    "geom:longitude":22.994278,
     "gn:admin1_code":"19",
     "gn:admin2_code":"79656.0",
     "gn:asciiname":"Zorzila",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Zorzila"
+    ],
     "name:und_x_variant":[
         "Zorila",
         "Zorzila"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662123
+        "gn:id":662123,
+        "ro-ancpi:id":79727
     },
     "wof:country":"RO",
-    "wof:geomhash":"51540c2ef4990dc411636921a57d45e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"06ee4e58c56b53014913f692ac8cdddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1310676191,
-    "wof:lastmodified":1566610603,
+    "wof:lastmodified":1588367129,
     "wof:name":"Zorzila",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.99592,
-    44.93499,
-    22.99592,
-    44.93499
+    22.991078,
+    44.932721,
+    22.998277,
+    44.937094
 ],
-  "geometry": {"coordinates":[22.99592,44.93499],"type":"Point"}
+  "geometry": {"coordinates":[[[22.992501,44.936333],[22.993135,44.935598],[22.993844,44.935362],[22.994082,44.935066],[22.994804,44.934449],[22.995736,44.934055],[22.996829,44.93376],[22.997532,44.933542],[22.997812,44.933481],[22.99787,44.933592],[22.998277,44.933453],[22.997901,44.932721],[22.997056,44.932977],[22.996203,44.933204],[22.995277,44.933166],[22.994526,44.933394],[22.993584,44.934087],[22.992859,44.934477],[22.992407,44.934852],[22.992037,44.935117],[22.992182,44.935383],[22.992553,44.935697],[22.992304,44.936022],[22.991608,44.935585],[22.991078,44.936037],[22.99202,44.937094],[22.992742,44.936792],[22.992501,44.936333]]],"type":"Polygon"}
 }

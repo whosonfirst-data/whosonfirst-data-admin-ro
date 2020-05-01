@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.52883,44.55712,25.52883,44.55712",
-    "geom:latitude":44.55712,
-    "geom:longitude":25.52883,
+    "geom:area":0.000031,
+    "geom:area_square_m":276109.236849,
+    "geom:bbox":"25.521747,44.552655,25.530666,44.560007",
+    "geom:latitude":44.556262,
+    "geom:longitude":25.526353,
     "gn:admin1_code":"16",
     "gn:admin2_code":"66857.0",
     "gn:asciiname":"Podu Corbencii",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.50883,44.53712,25.54883,44.57712",
+    "lbl:latitude":44.55712,
+    "lbl:longitude":25.52883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Podu Corbencii"
+    ],
     "name:und_x_variant":[
         "Podul Corbencii",
         "Podu Corbencii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670310
+        "gn:id":670310,
+        "ro-ancpi:id":66919
     },
     "wof:country":"RO",
-    "wof:geomhash":"47a556752ad39995b73945e827a1e4d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"56d5d94a13669cda15c21d60ccbbc077",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1293661713,
-    "wof:lastmodified":1566610089,
+    "wof:lastmodified":1588366685,
     "wof:name":"Podu Corbencii",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.52883,
-    44.55712,
-    25.52883,
-    44.55712
+    25.521747,
+    44.552655,
+    25.530666,
+    44.560007
 ],
-  "geometry": {"coordinates":[25.52883,44.55712],"type":"Point"}
+  "geometry": {"coordinates":[[[25.529469,44.559334],[25.529764,44.558378],[25.530512,44.557167],[25.530666,44.556968],[25.530649,44.556478],[25.530558,44.556261],[25.530416,44.556089],[25.529231,44.555631],[25.528748,44.555652],[25.528317,44.55579],[25.527312,44.555502],[25.527474,44.555069],[25.526866,44.55498],[25.526906,44.553826],[25.524881,44.553168],[25.523846,44.552715],[25.523444,44.552655],[25.522783,44.55272],[25.522404,44.552885],[25.522211,44.55308],[25.522356,44.553529],[25.522556,44.554094],[25.522527,44.554459],[25.522047,44.555399],[25.521747,44.555781],[25.523106,44.556023],[25.523976,44.556251],[25.524281,44.55639],[25.524538,44.556714],[25.524605,44.556776],[25.526702,44.557162],[25.52636,44.557809],[25.52577,44.558443],[25.524896,44.559421],[25.525442,44.559353],[25.525988,44.559379],[25.526637,44.559456],[25.527408,44.559727],[25.527947,44.560007],[25.528502,44.55983],[25.529007,44.559655],[25.529399,44.559457],[25.529469,44.559334]]],"type":"Polygon"}
 }

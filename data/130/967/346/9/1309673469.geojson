@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.17704,46.80228,27.17704,46.80228",
-    "geom:latitude":46.80228,
-    "geom:longitude":27.17704,
+    "geom:area":0.000021,
+    "geom:area_square_m":177455.00899,
+    "geom:bbox":"27.171895,46.797199,27.181644,46.803104",
+    "geom:latitude":46.800293,
+    "geom:longitude":27.177004,
     "gn:admin1_code":"28",
     "gn:admin2_code":"123255.0",
     "gn:asciiname":"Ciornei",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciornei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681654
+        "gn:id":681654,
+        "ro-ancpi:id":123273
     },
     "wof:country":"RO",
-    "wof:geomhash":"acc7c10eeabe3196cefd275a00814b9b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2d8dc8b72beb711fdd7a34ee208bfeee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1309673469,
-    "wof:lastmodified":1566611252,
+    "wof:lastmodified":1588367152,
     "wof:name":"Ciornei",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.17704,
-    46.80228,
-    27.17704,
-    46.80228
+    27.171895,
+    46.797199,
+    27.181644,
+    46.803104
 ],
-  "geometry": {"coordinates":[27.17704,46.80228],"type":"Point"}
+  "geometry": {"coordinates":[[[27.177498,46.801887],[27.179025,46.800968],[27.180055,46.799953],[27.181644,46.798121],[27.179973,46.797459],[27.179178,46.798319],[27.176801,46.797199],[27.1762,46.798348],[27.177798,46.799127],[27.175338,46.801103],[27.174495,46.801145],[27.172992,46.801091],[27.172908,46.801412],[27.172175,46.801396],[27.171895,46.80217],[27.17191,46.802534],[27.172172,46.802748],[27.173224,46.803104],[27.17537,46.802424],[27.1764,46.802204],[27.177498,46.801887]]],"type":"Polygon"}
 }

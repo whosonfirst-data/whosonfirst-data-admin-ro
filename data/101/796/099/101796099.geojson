@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000079,
-    "geom:area_square_m":708676.522064,
-    "geom:bbox":"24.6287699935,43.7829255779,24.6408166126,43.7919275075",
-    "geom:latitude":43.787348,
-    "geom:longitude":24.635115,
+    "geom:area":0.000087,
+    "geom:area_square_m":778970.784608,
+    "geom:bbox":"24.62927,43.783351,24.640382,43.792578",
+    "geom:latitude":43.787784,
+    "geom:longitude":24.635255,
     "gn:population":1102,
     "iso:country":"RO",
     "lbl:latitude":43.787361,
@@ -56,8 +56,10 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -70,10 +72,14 @@
         "gn:id":664122,
         "gp:id":882510,
         "qs_pg:id":413341,
+        "ro-ancpi:id":125604,
         "wd:id":"Q4302748"
     },
     "wof:country":"RO",
-    "wof:geomhash":"3a27fa65e993920af6c4acc1f059e0ce",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
+    "wof:geomhash":"6a44e541048eb361cb23cffcfb3645d8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101796099,
-    "wof:lastmodified":1566610745,
+    "wof:lastmodified":1588366913,
     "wof:name":"Ursa",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -95,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.62876999346145,
-    43.78292557789337,
-    24.6408166125712,
-    43.79192750753612
+    24.62927,
+    43.783351,
+    24.640382,
+    43.792578
 ],
-  "geometry": {"coordinates":[[[24.6408166125712,43.79157663491202],[24.63922455483254,43.7853981207403],[24.64044612692686,43.78522268455396],[24.63999130086472,43.78345738865926],[24.6375482209088,43.78380823412823],[24.63732085712161,43.78292557789337],[24.62876999346145,43.78415306012317],[24.62990628474688,43.78856643651181],[24.63112794503661,43.78839110969278],[24.63203721481074,43.79192177365309],[24.63814577157234,43.79104486054524],[24.63837320063402,43.79192750753612],[24.6408166125712,43.79157663491202]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[24.640382,43.792547],[24.639822,43.783351],[24.629641,43.783589],[24.62927,43.78863],[24.631743,43.788601],[24.632008,43.792578],[24.640382,43.792547]]],"type":"Polygon"}
 }

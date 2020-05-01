@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.99963,44.8,24.99963,44.8",
-    "geom:latitude":44.8,
-    "geom:longitude":24.99963,
+    "geom:area":0.000045,
+    "geom:area_square_m":395630.770555,
+    "geom:bbox":"24.981693,44.794215,25.012188,44.804922",
+    "geom:latitude":44.799413,
+    "geom:longitude":24.996736,
     "gn:admin1_code":"03",
     "gn:admin2_code":"15233.0",
     "gn:asciiname":"Catanele",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Catanele"
@@ -42,7 +42,10 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0435\u043b\u0435"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682566
+        "gn:id":682566,
+        "ro-ancpi:id":15251
     },
     "wof:country":"RO",
-    "wof:geomhash":"cf970e9be324f399155324f485100a4b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e7bd02747b2f087adedd4c982d1e6eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":1344258869,
-    "wof:lastmodified":1566609899,
+    "wof:lastmodified":1588367134,
     "wof:name":"Catanele",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -76,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.99963,
-    44.8,
-    24.99963,
-    44.8
+    24.981693,
+    44.794215,
+    25.012188,
+    44.804922
 ],
-  "geometry": {"coordinates":[24.99963,44.8],"type":"Point"}
+  "geometry": {"coordinates":[[[24.981693,44.803847],[24.98229,44.804922],[24.998141,44.800116],[25.005036,44.798131],[25.005186,44.798359],[25.00627,44.798036],[25.006099,44.797786],[25.012188,44.796069],[25.01162,44.795018],[25.001599,44.797964],[25.001434,44.797697],[25.001211,44.797749],[25.001081,44.797596],[25.000547,44.797749],[25.000831,44.798213],[24.998251,44.798983],[24.995824,44.794215],[24.994937,44.794625],[24.994535,44.794941],[24.996139,44.797979],[24.995732,44.798071],[24.995912,44.798457],[24.996345,44.798357],[24.996943,44.799384],[24.995743,44.799668],[24.995525,44.799245],[24.992959,44.799957],[24.993201,44.800372],[24.988305,44.80186],[24.984472,44.803067],[24.982438,44.803623],[24.981693,44.803847]]],"type":"Polygon"}
 }

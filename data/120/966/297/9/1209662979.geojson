@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.89915,46.40018,24.89915,46.40018",
-    "geom:latitude":46.40018,
-    "geom:longitude":24.89915,
+    "geom:area":0.000012,
+    "geom:area_square_m":99301.883851,
+    "geom:bbox":"24.892337,46.398113,24.899722,46.40334",
+    "geom:latitude":46.400549,
+    "geom:longitude":24.895973,
     "gn:admin1_code":"27",
     "gn:admin2_code":"119331.0",
     "gn:asciiname":"Lotu",
@@ -29,23 +29,36 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Lo\u0163u"
+    ],
+    "name:ron_x_variant":[
+        "Lotu"
+    ],
     "name:und_x_variant":[
         "L\u00f2cz",
         "Lo\u0163u"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674595
+        "gn:id":674595,
+        "ro-ancpi:id":119377
     },
     "wof:country":"RO",
-    "wof:geomhash":"795787d9e5afea6cba79499e864a456f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4ed841b563885d40e89b88ac6922d133",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -53,8 +66,8 @@
         }
     ],
     "wof:id":1209662979,
-    "wof:lastmodified":1566610347,
-    "wof:name":"Lotu",
+    "wof:lastmodified":1588367065,
+    "wof:name":"Lo\u0163u",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":15,
@@ -65,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.89915,
-    46.40018,
-    24.89915,
-    46.40018
+    24.892337,
+    46.398113,
+    24.899722,
+    46.40334
 ],
-  "geometry": {"coordinates":[24.89915,46.40018],"type":"Point"}
+  "geometry": {"coordinates":[[[24.89279,46.40334],[24.89473,46.401916],[24.89545,46.402416],[24.897577,46.400422],[24.898011,46.399766],[24.899722,46.399026],[24.898323,46.398113],[24.896837,46.39901],[24.896302,46.398995],[24.896053,46.399494],[24.895558,46.399736],[24.894878,46.399949],[24.893701,46.401045],[24.893206,46.401302],[24.893742,46.401601],[24.892337,46.403026],[24.89279,46.40334]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.13333,46.55,24.13333,46.55",
-    "geom:latitude":46.55,
-    "geom:longitude":24.13333,
+    "geom:area":0.000048,
+    "geom:area_square_m":410291.98147,
+    "geom:bbox":"24.107911,46.537398,24.125584,46.543317",
+    "geom:latitude":46.54054,
+    "geom:longitude":24.116022,
     "gn:admin1_code":"27",
     "gn:admin2_code":"119386.0",
     "gn:asciiname":"Zapodea",
@@ -28,12 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Zapodia"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Z\u0103podea"
+    ],
+    "name:ron_x_variant":[
+        "Zapodea"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662299
+        "gn:id":662299,
+        "ro-ancpi:id":119457
     },
     "wof:country":"RO",
-    "wof:geomhash":"3ec415460f4db9816381174ba8d68c0b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8dfa9c24295c8eb5cb741b0ce1083f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1243401883,
-    "wof:lastmodified":1566611471,
-    "wof:name":"Zapodea",
+    "wof:lastmodified":1588367132,
+    "wof:name":"Z\u0103podea",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":172,
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.13333,
-    46.55,
-    24.13333,
-    46.55
+    24.107911,
+    46.537398,
+    24.125584,
+    46.543317
 ],
-  "geometry": {"coordinates":[24.13333,46.55],"type":"Point"}
+  "geometry": {"coordinates":[[[24.123503,46.543317],[24.125584,46.541818],[24.122359,46.540711],[24.121934,46.54114],[24.1202,46.540574],[24.118743,46.540106],[24.12004,46.539683],[24.119842,46.538983],[24.121003,46.538343],[24.120146,46.537398],[24.118063,46.539066],[24.117476,46.538725],[24.115966,46.539387],[24.114631,46.537885],[24.113967,46.537952],[24.112251,46.53842],[24.109977,46.538907],[24.107911,46.539493],[24.108781,46.541713],[24.110109,46.541531],[24.11081,46.541295],[24.111247,46.542285],[24.112443,46.541621],[24.114172,46.542524],[24.115903,46.541118],[24.116484,46.541868],[24.117553,46.54255],[24.119012,46.542874],[24.120028,46.541953],[24.123503,46.543317]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.8297,46.4129,25.8297,46.4129",
-    "geom:latitude":46.4129,
-    "geom:longitude":25.8297,
+    "geom:area":0.000111,
+    "geom:area_square_m":947392.862272,
+    "geom:bbox":"25.821593,46.404498,25.835141,46.42515",
+    "geom:latitude":46.413966,
+    "geom:longitude":25.828526,
     "gn:admin1_code":"20",
     "gn:admin2_code":"83375.0",
     "gn:asciiname":"Delnita",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.8097,46.3929,25.8497,46.4329",
+    "lbl:latitude":46.4129,
+    "lbl:longitude":25.8297,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Delni\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Delnita"
+    ],
     "name:und_x_variant":[
         "Delne",
         "Delni\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679494
+        "gn:id":679494,
+        "ro-ancpi:id":83393
     },
     "wof:country":"RO",
-    "wof:geomhash":"afbef616a56322a220415f45a48c2382",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6cdd1d259f6df1f76ac2758071bb87ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1226404207,
-    "wof:lastmodified":1566611679,
-    "wof:name":"Delnita",
+    "wof:lastmodified":1588366882,
+    "wof:name":"Delni\u0163a",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":593,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.8297,
-    46.4129,
-    25.8297,
-    46.4129
+    25.821593,
+    46.404498,
+    25.835141,
+    46.42515
 ],
-  "geometry": {"coordinates":[25.8297,46.4129],"type":"Point"}
+  "geometry": {"coordinates":[[[25.827876,46.40521],[25.827248,46.405223],[25.826873,46.405273],[25.826702,46.405371],[25.826588,46.405016],[25.826413,46.404498],[25.82511,46.404552],[25.824991,46.405877],[25.822028,46.405561],[25.822678,46.409137],[25.821593,46.409261],[25.82203,46.412395],[25.824814,46.411937],[25.825732,46.412935],[25.82726,46.416314],[25.830207,46.420124],[25.830178,46.420714],[25.828836,46.421262],[25.830116,46.423679],[25.831449,46.42515],[25.833911,46.42366],[25.832697,46.422747],[25.834351,46.422132],[25.835141,46.418297],[25.834285,46.41821],[25.832975,46.4163],[25.831153,46.413942],[25.829373,46.410373],[25.830681,46.410274],[25.830016,46.407681],[25.828015,46.407754],[25.827876,46.40521]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.1961,46.36454,23.1961,46.36454",
-    "geom:latitude":46.36454,
-    "geom:longitude":23.1961,
+    "geom:area":0.000008,
+    "geom:area_square_m":69759.040255,
+    "geom:bbox":"23.189905,46.35887,23.193665,46.36315",
+    "geom:latitude":46.361056,
+    "geom:longitude":23.191959,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5336.0",
     "gn:asciiname":"Posogani",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Po\u015fogani"
+    ],
+    "name:ron_x_variant":[
+        "Posogani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669797
+        "gn:id":669797,
+        "ro-ancpi:id":5498
     },
     "wof:country":"RO",
-    "wof:geomhash":"0b97365ed95acda869dd91cda0fead51",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"824b3420e0da19d3494c48c12f5e2518",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1310423367,
-    "wof:lastmodified":1566610562,
-    "wof:name":"Posogani",
+    "wof:lastmodified":1588367081,
+    "wof:name":"Po\u015fogani",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":80,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.1961,
-    46.36454000000001,
-    23.1961,
-    46.36454000000001
+    23.189905,
+    46.35887,
+    23.193665,
+    46.36315
 ],
-  "geometry": {"coordinates":[23.1961,46.36454000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[23.193225,46.36315],[23.193533,46.362982],[23.192685,46.362144],[23.193665,46.361777],[23.19321,46.360802],[23.193372,46.360468],[23.193394,46.360199],[23.193028,46.360121],[23.19271,46.359567],[23.19243,46.35887],[23.191856,46.358934],[23.191581,46.359289],[23.1915,46.359944],[23.191504,46.360228],[23.190873,46.360314],[23.190677,46.360729],[23.189905,46.360797],[23.189958,46.361227],[23.190244,46.36157],[23.190955,46.362306],[23.191366,46.362684],[23.192338,46.36231],[23.193225,46.36315]]],"type":"Polygon"}
 }

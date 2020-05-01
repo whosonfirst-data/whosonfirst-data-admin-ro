@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.28333,45.33333,24.28333,45.33333",
-    "geom:latitude":45.33333,
-    "geom:longitude":24.28333,
+    "geom:area":0.000002,
+    "geom:area_square_m":14060.522227,
+    "geom:bbox":"24.278482,45.336247,24.281443,45.337576",
+    "geom:latitude":45.336848,
+    "geom:longitude":24.279992,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -66,7 +66,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":883322,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -83,11 +86,15 @@
         "gn:id":663185,
         "gp:id":883322,
         "qs_pg:id":937424,
+        "ro-ancpi:id":167883,
         "wd:id":"Q12088616"
     },
     "wof:country":"RO",
     "wof:created":1497300469,
-    "wof:geomhash":"1869fc99c273d00a47b4d3ed54c83beb",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"da10083d9d9bdceffb3bc5abee228831",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +104,7 @@
         }
     ],
     "wof:id":1126014523,
-    "wof:lastmodified":1566611369,
+    "wof:lastmodified":1588367025,
     "wof:name":"V\u0103ratica",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -109,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28333,
-    45.33333,
-    24.28333,
-    45.33333
+    24.278482,
+    45.336247,
+    24.281443,
+    45.337576
 ],
-  "geometry": {"coordinates":[24.28333,45.33333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.281443,45.336691],[24.281306,45.336247],[24.280365,45.336366],[24.279456,45.33666],[24.279161,45.336834],[24.279088,45.336877],[24.278482,45.337235],[24.278957,45.337576],[24.279849,45.337157],[24.281443,45.336691]]],"type":"Polygon"}
 }

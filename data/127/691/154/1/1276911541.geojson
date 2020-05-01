@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.88728,44.73214,23.88728,44.73214",
-    "geom:latitude":44.73214,
-    "geom:longitude":23.88728,
+    "geom:area":0.00004,
+    "geom:area_square_m":348247.007497,
+    "geom:bbox":"23.877838,44.728043,23.896368,44.735035",
+    "geom:latitude":44.731149,
+    "geom:longitude":23.886649,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174511.0",
     "gn:asciiname":"Lacustenii de Sus",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "L\u0103custenii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Lacustenii de Sus"
+    ],
     "name:und_x_variant":[
         "Biserica",
         "L\u0103custenii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675089
+        "gn:id":675089,
+        "ro-ancpi:id":174405
     },
     "wof:country":"RO",
-    "wof:geomhash":"901469ce4dac3517a25428484793e48e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c8eeece9686be74973148c957d83b9be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1276911541,
-    "wof:lastmodified":1566610261,
-    "wof:name":"Lacustenii de Sus",
+    "wof:lastmodified":1588367023,
+    "wof:name":"L\u0103custenii de Sus",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":332,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.88728,
-    44.73214,
-    23.88728,
-    44.73214
+    23.877838,
+    44.728043,
+    23.896368,
+    44.735035
 ],
-  "geometry": {"coordinates":[23.88728,44.73214],"type":"Point"}
+  "geometry": {"coordinates":[[[23.892228,44.728656],[23.889723,44.729028],[23.889498,44.729073],[23.888105,44.729353],[23.886297,44.729868],[23.884953,44.730624],[23.884636,44.729361],[23.883622,44.729435],[23.884002,44.730604],[23.878583,44.732008],[23.878161,44.732718],[23.877838,44.733472],[23.878437,44.733653],[23.88392,44.732116],[23.883691,44.732647],[23.880712,44.734015],[23.88079,44.734092],[23.880875,44.734135],[23.880973,44.734184],[23.881071,44.734233],[23.881163,44.734279],[23.881262,44.734338],[23.881362,44.734398],[23.881529,44.734514],[23.881574,44.734538],[23.881659,44.734583],[23.881854,44.734489],[23.882759,44.735035],[23.883603,44.734488],[23.885779,44.732962],[23.886838,44.731927],[23.887425,44.731311],[23.889047,44.730858],[23.889729,44.730982],[23.891162,44.730663],[23.896368,44.729607],[23.896362,44.728043],[23.892228,44.728656]]],"type":"Polygon"}
 }

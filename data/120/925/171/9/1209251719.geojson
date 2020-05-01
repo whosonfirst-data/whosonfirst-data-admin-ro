@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2434,44.99839,24.2434,44.99839",
-    "geom:latitude":44.99839,
-    "geom:longitude":24.2434,
+    "geom:area":0.000024,
+    "geom:area_square_m":205862.542032,
+    "geom:bbox":"24.238865,44.992202,24.246633,44.996263",
+    "geom:latitude":44.994504,
+    "geom:longitude":24.242684,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171325.0",
     "gn:asciiname":"Rugetu",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rugetu"
@@ -37,20 +37,30 @@
     "name:deu_x_preferred":[
         "Rugetu"
     ],
+    "name:ron_x_preferred":[
+        "Rugetu"
+    ],
     "name:und_x_variant":[
         "Rugel"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668504
+        "gn:id":668504,
+        "ro-ancpi:id":171423
     },
     "wof:country":"RO",
-    "wof:geomhash":"6d0d301880d593319fb13bb918e15f50",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"43e7a365dd54bb152ba7cb1ed8b0404e",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1209251719,
-    "wof:lastmodified":1566610337,
+    "wof:lastmodified":1588367087,
     "wof:name":"Rugetu",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2434,
-    44.99839,
-    24.2434,
-    44.99839
+    24.238865,
+    44.992202,
+    24.246633,
+    44.996263
 ],
-  "geometry": {"coordinates":[24.2434,44.99839],"type":"Point"}
+  "geometry": {"coordinates":[[[24.244167,44.992361],[24.240393,44.992202],[24.238902,44.995452],[24.238865,44.99594],[24.241628,44.996141],[24.242983,44.996239],[24.246633,44.996263],[24.246538,44.99394],[24.244146,44.993924],[24.244167,44.992361]]],"type":"Polygon"}
 }

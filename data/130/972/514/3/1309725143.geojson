@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.17559,46.13851,21.17559,46.13851",
-    "geom:latitude":46.13851,
-    "geom:longitude":21.17559,
+    "geom:area":0.000029,
+    "geom:area_square_m":247700.179483,
+    "geom:bbox":"21.167682,46.13571,21.175522,46.143008",
+    "geom:latitude":46.139061,
+    "geom:longitude":21.171289,
     "gn:admin1_code":"02",
     "gn:admin2_code":"11584",
     "gn:asciiname":"Bodrogu Vechi",
@@ -29,15 +29,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bodrogu Vechi"
+    ],
     "name:und_x_variant":[
         "Hodosch",
         "\u00d3bodrog",
         "Hodo\u015f-Bodrog",
         "Bodrogu Vechi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684443
+        "gn:id":684443,
+        "ro-ancpi:id":11600
     },
     "wof:country":"RO",
-    "wof:geomhash":"ca198134359e91d0e3a6adcc6218d7df",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"02702f7f33f9d1b915473255bb1052be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1309725143,
-    "wof:lastmodified":1566611268,
+    "wof:lastmodified":1588367109,
     "wof:name":"Bodrogu Vechi",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.17559,
-    46.13851,
-    21.17559,
-    46.13851
+    21.167682,
+    46.13571,
+    21.175522,
+    46.143008
 ],
-  "geometry": {"coordinates":[21.17559,46.13851],"type":"Point"}
+  "geometry": {"coordinates":[[[21.17026,46.143008],[21.170647,46.140334],[21.172346,46.140517],[21.172993,46.140483],[21.175522,46.139263],[21.17466,46.138507],[21.174194,46.137516],[21.174073,46.135982],[21.174071,46.135946],[21.173822,46.135952],[21.173644,46.135956],[21.173384,46.135963],[21.173322,46.135972],[21.171652,46.135781],[21.171293,46.136312],[21.169894,46.135994],[21.168741,46.13571],[21.168659,46.136117],[21.169697,46.136446],[21.169611,46.137209],[21.170215,46.137339],[21.169102,46.139687],[21.168726,46.139758],[21.168385,46.139829],[21.168336,46.139876],[21.168318,46.139929],[21.16829,46.140038],[21.168233,46.14025],[21.168151,46.140581],[21.168047,46.14101],[21.167963,46.14147],[21.167867,46.14199],[21.167851,46.142082],[21.167757,46.142529],[21.167684,46.142926],[21.167682,46.142933],[21.17026,46.143008]]],"type":"Polygon"}
 }

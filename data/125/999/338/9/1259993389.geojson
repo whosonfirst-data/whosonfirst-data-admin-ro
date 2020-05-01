@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.81944,46.05298,23.81944,46.05298",
-    "geom:latitude":46.05298,
-    "geom:longitude":23.81944,
+    "geom:area":0.000009,
+    "geom:area_square_m":75152.892019,
+    "geom:bbox":"23.814317,46.050264,23.820055,46.053516",
+    "geom:latitude":46.051819,
+    "geom:longitude":23.816952,
     "gn:admin1_code":"01",
     "gn:admin2_code":"6164.0",
     "gn:asciiname":"Maghierat",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.79944,46.03298,23.83944,46.07298",
+    "lbl:latitude":46.05298,
+    "lbl:longitude":23.81944,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u0103ghierat"
+    ],
+    "name:ron_x_variant":[
+        "Maghierat"
+    ],
     "name:und_x_variant":[
         "Maghiarat",
         "M\u0103ghierat"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674174
+        "gn:id":674174,
+        "ro-ancpi:id":6191
     },
     "wof:country":"RO",
-    "wof:geomhash":"d71987de00710d44c7f37f8884a1ceee",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c035c35c6b7449c8caf05d65f7dad432",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1259993389,
-    "wof:lastmodified":1566611550,
-    "wof:name":"Maghierat",
+    "wof:lastmodified":1588366850,
+    "wof:name":"M\u0103ghierat",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":12,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.81944,
-    46.05298,
-    23.81944,
-    46.05298
+    23.814317,
+    46.050264,
+    23.820055,
+    46.053516
 ],
-  "geometry": {"coordinates":[23.81944,46.05298],"type":"Point"}
+  "geometry": {"coordinates":[[[23.814317,46.052279],[23.81783,46.05274],[23.817872,46.052961],[23.818176,46.053009],[23.818169,46.052788],[23.819227,46.052931],[23.819209,46.053492],[23.819975,46.053516],[23.820055,46.05302],[23.819624,46.052923],[23.819516,46.052345],[23.819234,46.052294],[23.818865,46.05233],[23.818647,46.0517],[23.818105,46.05058],[23.817665,46.050675],[23.817477,46.050264],[23.817321,46.050291],[23.817447,46.050597],[23.817349,46.050632],[23.817392,46.050753],[23.817247,46.050779],[23.817126,46.050549],[23.816893,46.050647],[23.815642,46.050919],[23.815612,46.050722],[23.814469,46.050843],[23.814317,46.052279]]],"type":"Polygon"}
 }

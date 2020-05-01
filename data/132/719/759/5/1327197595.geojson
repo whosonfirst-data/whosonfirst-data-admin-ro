@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.73969,44.54805,23.73969,44.54805",
-    "geom:latitude":44.54805,
-    "geom:longitude":23.73969,
+    "geom:area":0.000025,
+    "geom:area_square_m":216060.654678,
+    "geom:bbox":"23.733439,44.543967,23.74166,44.551688",
+    "geom:latitude":44.54784,
+    "geom:longitude":23.73782,
     "gn:admin1_code":"17",
     "gn:admin2_code":"73102.0",
     "gn:asciiname":"Godeni",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u062f\u064a\u0646"
@@ -52,6 +52,9 @@
         "Godeni"
     ],
     "name:ron_x_preferred":[
+        "Godeni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Godeni"
     ],
     "name:sqi_x_preferred":[
@@ -72,7 +75,10 @@
     "name:zho_x_preferred":[
         "\u6208\u4ee3\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,10 +87,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677006
+        "gn:id":677006,
+        "ro-ancpi:id":73148
     },
     "wof:country":"RO",
-    "wof:geomhash":"bc688bb4cc993c22cd6ba1ddcd5f8745",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b64cc671d7c1c397a65594c44eb6a72c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +104,7 @@
         }
     ],
     "wof:id":1327197595,
-    "wof:lastmodified":1566609857,
+    "wof:lastmodified":1588367048,
     "wof:name":"Godeni",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -106,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.73969,
-    44.54805,
-    23.73969,
-    44.54805
+    23.733439,
+    44.543967,
+    23.74166,
+    44.551688
 ],
-  "geometry": {"coordinates":[23.73969,44.54805],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.736717,44.550292],[23.737722,44.549199],[23.738493,44.549245],[23.738734,44.549005],[23.739134,44.547466],[23.740477,44.547658],[23.740813,44.546035],[23.74143,44.545957],[23.74166,44.544978],[23.741596,44.544341],[23.739916,44.543967],[23.739265,44.544446],[23.739133,44.545108],[23.738818,44.545133],[23.736742,44.546775],[23.736064,44.546674],[23.735358,44.547854],[23.735679,44.54811],[23.735517,44.54837],[23.734789,44.549325],[23.734139,44.54915],[23.73345,44.550124],[23.733439,44.550629],[23.734268,44.551013],[23.735331,44.551445],[23.735596,44.551308],[23.736039,44.550789],[23.736717,44.550292]]],[[[23.741382,44.551177],[23.74019,44.550653],[23.740032,44.550701],[23.740167,44.551688],[23.741617,44.551604],[23.741382,44.551177]]]],"type":"MultiPolygon"}
 }

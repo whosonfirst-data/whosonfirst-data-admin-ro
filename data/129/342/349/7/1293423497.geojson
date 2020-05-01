@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.92276,44.26473,25.92276,44.26473",
-    "geom:latitude":44.26473,
-    "geom:longitude":25.92276,
+    "geom:area":0.000029,
+    "geom:area_square_m":257569.063934,
+    "geom:bbox":"25.916289,44.261583,25.9259,44.26994",
+    "geom:latitude":44.264937,
+    "geom:longitude":25.920904,
     "gn:admin1_code":"42",
     "gn:admin2_code":"103693.0",
     "gn:asciiname":"Chirculesti",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.90276,44.24473,25.94276,44.28473",
+    "lbl:latitude":44.26473,
+    "lbl:longitude":25.92276,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Chircule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Chirculesti"
+    ],
     "name:und_x_variant":[
         "St\u0103ne\u015fti-Chircule\u015fti",
         "Chircule\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682059
+        "gn:id":682059,
+        "ro-ancpi:id":103728
     },
     "wof:country":"RO",
-    "wof:geomhash":"4c3e65e7a876d6c9ee13dd546e8dad88",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b099bfb6c259d5d5a355581ec3365374",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293423497,
-    "wof:lastmodified":1566610126,
-    "wof:name":"Chirculesti",
+    "wof:lastmodified":1588366693,
+    "wof:name":"Chircule\u015fti",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":113,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.92276,
-    44.26473,
-    25.92276,
-    44.26473
+    25.916289,
+    44.261583,
+    25.9259,
+    44.26994
 ],
-  "geometry": {"coordinates":[25.92276,44.26473],"type":"Point"}
+  "geometry": {"coordinates":[[[25.924207,44.266093],[25.923506,44.26495],[25.923226,44.265105],[25.923094,44.264984],[25.92355,44.264706],[25.921827,44.263369],[25.920908,44.262697],[25.920572,44.262648],[25.921089,44.262032],[25.920432,44.261583],[25.91983,44.261796],[25.919289,44.261865],[25.918613,44.261929],[25.917972,44.261947],[25.917478,44.262031],[25.91718,44.262078],[25.916958,44.262159],[25.91671,44.262279],[25.916433,44.262456],[25.916409,44.262695],[25.916355,44.263077],[25.916305,44.263462],[25.916289,44.2637],[25.916299,44.263852],[25.916518,44.264043],[25.917913,44.265037],[25.918716,44.265027],[25.919812,44.26577],[25.92095,44.266405],[25.921502,44.266885],[25.922737,44.267655],[25.924181,44.268727],[25.924069,44.268918],[25.923362,44.269604],[25.923786,44.26994],[25.924006,44.269738],[25.924269,44.269611],[25.9247,44.269234],[25.925316,44.26876],[25.925594,44.26861],[25.9259,44.268446],[25.924462,44.267293],[25.924567,44.26647],[25.924207,44.266093]]],"type":"Polygon"}
 }

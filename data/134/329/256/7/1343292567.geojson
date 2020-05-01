@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.31752,45.00298,24.31752,45.00298",
-    "geom:latitude":45.00298,
-    "geom:longitude":24.31752,
+    "geom:area":0.000083,
+    "geom:area_square_m":729889.983323,
+    "geom:bbox":"24.310578,44.999263,24.326642,45.009429",
+    "geom:latitude":45.003424,
+    "geom:longitude":24.318041,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168791",
     "gn:asciiname":"Bercioiu",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.29752,44.98298,24.33752,45.02298",
+    "lbl:latitude":45.00298,
+    "lbl:longitude":24.31752,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bercioiu"
+    ],
     "name:und_x_variant":[
         "Bercioiul",
         "Bercioiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685063
+        "gn:id":685063,
+        "ro-ancpi:id":168826
     },
     "wof:country":"RO",
-    "wof:geomhash":"b37ace124a1ea270def88eb97216d14b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0a3cf1638691584223fe8bbd7d77c406",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1343292567,
-    "wof:lastmodified":1566609973,
+    "wof:lastmodified":1588366666,
     "wof:name":"Bercioiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.31752,
-    45.00298,
-    24.31752,
-    45.00298
+    24.310578,
+    44.999263,
+    24.326642,
+    45.009429
 ],
-  "geometry": {"coordinates":[24.31752,45.00298],"type":"Point"}
+  "geometry": {"coordinates":[[[24.319572,45.008559],[24.321991,45.008162],[24.321486,45.005432],[24.322674,45.004337],[24.324477,45.003471],[24.3254,45.002855],[24.326642,45.002297],[24.325168,45.000621],[24.322601,45.000465],[24.319961,44.999672],[24.316818,44.999384],[24.315445,44.999263],[24.31374,45.00027],[24.312076,45.001235],[24.312711,45.001436],[24.312882,45.00213],[24.310578,45.00319],[24.311636,45.004651],[24.313294,45.004266],[24.313033,45.006101],[24.313229,45.00801],[24.312926,45.008347],[24.314208,45.009429],[24.315948,45.008818],[24.316156,45.00475],[24.317991,45.004591],[24.319565,45.006183],[24.319572,45.008559]]],"type":"Polygon"}
 }

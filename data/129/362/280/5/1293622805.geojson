@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.27975,45.51749,24.27975,45.51749",
-    "geom:latitude":45.51749,
-    "geom:longitude":24.27975,
+    "geom:area":0.000008,
+    "geom:area_square_m":71736.912266,
+    "geom:bbox":"24.274368,45.515397,24.278627,45.518347",
+    "geom:latitude":45.517002,
+    "geom:longitude":24.27639,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169119.0",
     "gn:asciiname":"Rau Vadului",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u00e2u Vadului"
+    ],
+    "name:ron_x_variant":[
+        "Rau Vadului"
+    ],
     "name:und_x_variant":[
         "R\u00e2ul Vadului",
         "R\u00eeu Vadului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668805
+        "gn:id":668805,
+        "ro-ancpi:id":169164
     },
     "wof:country":"RO",
-    "wof:geomhash":"878ec454888c8e256a231571e290deba",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"819a63887228f2db8558ad7c72f4ee50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1293622805,
-    "wof:lastmodified":1566610032,
-    "wof:name":"Rau Vadului",
+    "wof:lastmodified":1588367160,
+    "wof:name":"R\u00e2u Vadului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":69,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.27975,
-    45.51749,
-    24.27975,
-    45.51749
+    24.274368,
+    45.515397,
+    24.278627,
+    45.518347
 ],
-  "geometry": {"coordinates":[24.27975,45.51749],"type":"Point"}
+  "geometry": {"coordinates":[[[24.277318,45.515704],[24.276593,45.515397],[24.275444,45.515413],[24.274368,45.518347],[24.277209,45.518156],[24.278627,45.5178],[24.277318,45.515704]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.59147,44.04229,24.59147,44.04229",
-    "geom:latitude":44.04229,
-    "geom:longitude":24.59147,
+    "geom:area":0.000158,
+    "geom:area_square_m":1400801.186645,
+    "geom:bbox":"24.583367,44.035149,24.597804,44.057289",
+    "geom:latitude":44.045173,
+    "geom:longitude":24.590959,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129040.0",
     "gn:asciiname":"Frunzaru",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.57147,44.02229,24.61147,44.06229",
+    "lbl:latitude":44.04229,
+    "lbl:longitude":24.59147,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Frunzaru"
+    ],
     "name:und_x_variant":[
         "Frunzarul",
         "Frunzaru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677859
+        "gn:id":677859,
+        "ro-ancpi:id":129077
     },
     "wof:country":"RO",
-    "wof:geomhash":"55b9fa71260216faa4e6237cd1c7c9b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a40816aa113a8ee85b2c0b76a4226d38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1193228923,
-    "wof:lastmodified":1566610432,
+    "wof:lastmodified":1588366755,
     "wof:name":"Frunzaru",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.59147,
-    44.04229,
-    24.59147,
-    44.04229
+    24.583367,
+    44.035149,
+    24.597804,
+    44.057289
 ],
-  "geometry": {"coordinates":[24.59147,44.04229],"type":"Point"}
+  "geometry": {"coordinates":[[[24.596121,44.036378],[24.588951,44.035149],[24.588491,44.035821],[24.59051,44.036266],[24.589674,44.040098],[24.584761,44.041301],[24.583367,44.045288],[24.587361,44.045485],[24.587531,44.046488],[24.586932,44.047653],[24.584749,44.050042],[24.58699,44.052064],[24.590942,44.053162],[24.589029,44.05631],[24.592461,44.057289],[24.595212,44.054234],[24.591714,44.05332],[24.593993,44.048942],[24.594749,44.046927],[24.594324,44.045853],[24.597376,44.045139],[24.594919,44.042141],[24.597804,44.038006],[24.596121,44.036378]]],"type":"Polygon"}
 }

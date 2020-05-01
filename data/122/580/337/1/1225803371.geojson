@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.02087,47.01097,28.02087,47.01097",
-    "geom:latitude":47.01097,
-    "geom:longitude":28.02087,
+    "geom:area":0.000067,
+    "geom:area_square_m":561065.943443,
+    "geom:bbox":"28.011194,47.006804,28.02541,47.017259",
+    "geom:latitude":47.012121,
+    "geom:longitude":28.019306,
     "gn:admin1_code":"23",
     "gn:admin2_code":"97394.0",
     "gn:asciiname":"Salageni",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.00087,46.99097,28.04087,47.03097",
+    "lbl:latitude":47.01097,
+    "lbl:longitude":28.02087,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u0103l\u0103geni"
+    ],
+    "name:ron_x_variant":[
+        "Salageni"
+    ],
     "name:und_x_variant":[
         "S\u0103l\u0103jeni",
         "S\u0103l\u0103geni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668247
+        "gn:id":668247,
+        "ro-ancpi:id":97429
     },
     "wof:country":"RO",
-    "wof:geomhash":"32beded939fe7fd60a14661e1a6618ed",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"454986d7690f17eabdd803152c914b27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1225803371,
-    "wof:lastmodified":1566611658,
-    "wof:name":"Salageni",
+    "wof:lastmodified":1588366877,
+    "wof:name":"S\u0103l\u0103geni",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":87,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.02087,
-    47.01097,
-    28.02087,
-    47.01097
+    28.011194,
+    47.006804,
+    28.02541,
+    47.017259
 ],
-  "geometry": {"coordinates":[28.02087,47.01097],"type":"Point"}
+  "geometry": {"coordinates":[[[28.023347,47.014368],[28.023977,47.013612],[28.025007,47.012343],[28.025098,47.012222],[28.025113,47.012201],[28.025114,47.0122],[28.024191,47.011291],[28.023381,47.010622],[28.021102,47.008541],[28.019124,47.006804],[28.01694,47.008065],[28.018358,47.009126],[28.016625,47.010347],[28.015682,47.009634],[28.01519,47.009913],[28.014152,47.010334],[28.013628,47.010538],[28.01279,47.010821],[28.012122,47.010852],[28.011194,47.010827],[28.011617,47.011157],[28.01342,47.012652],[28.015808,47.014849],[28.016311,47.014815],[28.01656,47.015163],[28.020417,47.014344],[28.020844,47.014967],[28.021913,47.016003],[28.021798,47.016141],[28.023113,47.017259],[28.024516,47.016567],[28.02541,47.015615],[28.023347,47.014368]]],"type":"Polygon"}
 }

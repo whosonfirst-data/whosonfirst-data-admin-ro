@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.13815,44.70389,24.13815,44.70389",
-    "geom:latitude":44.70389,
-    "geom:longitude":24.13815,
+    "geom:area":0.000035,
+    "geom:area_square_m":310173.077245,
+    "geom:bbox":"24.123902,44.700849,24.139873,44.709004",
+    "geom:latitude":44.704825,
+    "geom:longitude":24.131986,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170444.0",
     "gn:asciiname":"Sparleni",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.11815,44.68389,24.15815,44.72389",
+    "lbl:latitude":44.70389,
+    "lbl:longitude":24.13815,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Sp\u00e2rleni"
+    ],
+    "name:ron_x_variant":[
+        "Sparleni"
+    ],
     "name:und_x_variant":[
         "Sp\u00e2rleni",
         "Sp\u00eerleni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666342
+        "gn:id":666342,
+        "ro-ancpi:id":170505
     },
     "wof:country":"RO",
-    "wof:geomhash":"2514696dee5c592f6578a309bb5265e9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a2f357f35ad2fce05538ebb192717a93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1310441771,
-    "wof:lastmodified":1566610575,
-    "wof:name":"Sparleni",
+    "wof:lastmodified":1588366783,
+    "wof:name":"Sp\u00e2rleni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":635,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.13815,
-    44.70389,
-    24.13815,
-    44.70389
+    24.123902,
+    44.700849,
+    24.139873,
+    44.709004
 ],
-  "geometry": {"coordinates":[24.13815,44.70389],"type":"Point"}
+  "geometry": {"coordinates":[[[24.131882,44.705987],[24.136773,44.703918],[24.137572,44.704345],[24.139873,44.703061],[24.138759,44.702133],[24.139221,44.701773],[24.138564,44.700849],[24.134131,44.702845],[24.12706,44.70526],[24.123902,44.708146],[24.125956,44.709004],[24.128889,44.706863],[24.131882,44.705987]]],"type":"Polygon"}
 }

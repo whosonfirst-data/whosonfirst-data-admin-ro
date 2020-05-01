@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.12696,46.60115,24.12696,46.60115",
-    "geom:latitude":46.60115,
-    "geom:longitude":24.12696,
+    "geom:area":0.000034,
+    "geom:area_square_m":287404.832933,
+    "geom:bbox":"24.117328,46.594826,24.129772,46.601978",
+    "geom:latitude":46.598993,
+    "geom:longitude":24.123583,
     "gn:admin1_code":"27",
     "gn:admin2_code":"120370.0",
     "gn:asciiname":"Gaura Sangerului",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gaura S\u00e2ngerului"
+    ],
+    "name:ron_x_variant":[
+        "Gaura Sangerului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677574
+        "gn:id":677574,
+        "ro-ancpi:id":120432
     },
     "wof:country":"RO",
-    "wof:geomhash":"1010860138aa0fe77134c098db74d402",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7afd3603c1eb619fa3e26cb244a13c98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1209769869,
-    "wof:lastmodified":1566610336,
-    "wof:name":"Gaura Sangerului",
+    "wof:lastmodified":1588367040,
+    "wof:name":"Gaura S\u00e2ngerului",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":119,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12696,
-    46.60115,
-    24.12696,
-    46.60115
+    24.117328,
+    46.594826,
+    24.129772,
+    46.601978
 ],
-  "geometry": {"coordinates":[24.12696,46.60115],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.123272,46.601978],[24.125458,46.600938],[24.125598,46.601118],[24.125824,46.601043],[24.125785,46.600942],[24.125981,46.600861],[24.125933,46.600763],[24.127085,46.600251],[24.127815,46.599626],[24.12757,46.599157],[24.128457,46.598654],[24.129772,46.597267],[24.128614,46.596601],[24.127866,46.597092],[24.127105,46.597771],[24.126303,46.598577],[24.123726,46.597087],[24.123866,46.596867],[24.12224,46.596237],[24.121149,46.597484],[24.120326,46.598254],[24.120774,46.598425],[24.120349,46.598971],[24.118232,46.598179],[24.118444,46.597918],[24.117927,46.597747],[24.117328,46.598411],[24.118223,46.59874],[24.117643,46.59943],[24.119961,46.600323],[24.120766,46.600488],[24.123272,46.601978]]],[[[24.125022,46.595132],[24.124246,46.594826],[24.12374,46.595545],[24.124565,46.595878],[24.124888,46.595485],[24.125022,46.595132]]]],"type":"MultiPolygon"}
 }

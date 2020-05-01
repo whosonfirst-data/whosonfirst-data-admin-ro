@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.59747,47.31924,23.59747,47.31924",
-    "geom:latitude":47.31924,
-    "geom:longitude":23.59747,
+    "geom:area":0.000045,
+    "geom:area_square_m":380485.230686,
+    "geom:bbox":"23.588544,47.314508,23.599161,47.322449",
+    "geom:latitude":47.318303,
+    "geom:longitude":23.59362,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141580.0",
     "gn:asciiname":"Podisu",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Podi\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Podisu"
+    ],
     "name:und_x_variant":[
         "Ciumeni",
         "Podi\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670321
+        "gn:id":670321,
+        "ro-ancpi:id":141688
     },
     "wof:country":"RO",
-    "wof:geomhash":"685f6e8c7b2cf9773a5bb494895cc615",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73a0a89a6e6538f28777bd6da932a617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1276160047,
-    "wof:lastmodified":1566610188,
-    "wof:name":"Podisu",
+    "wof:lastmodified":1588367088,
+    "wof:name":"Podi\u015fu",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":198,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.59747,
-    47.31924,
-    23.59747,
-    47.31924
+    23.588544,
+    47.314508,
+    23.599161,
+    47.322449
 ],
-  "geometry": {"coordinates":[23.59747,47.31924],"type":"Point"}
+  "geometry": {"coordinates":[[[23.592288,47.322449],[23.592473,47.321458],[23.593021,47.321524],[23.593375,47.320751],[23.595168,47.320792],[23.595176,47.321048],[23.596332,47.321101],[23.596425,47.319201],[23.599059,47.319183],[23.599161,47.318585],[23.598797,47.317026],[23.597554,47.316962],[23.596321,47.316534],[23.596373,47.314538],[23.595184,47.314642],[23.594945,47.316035],[23.591594,47.315268],[23.591053,47.314508],[23.589688,47.314779],[23.588544,47.31518],[23.591034,47.316759],[23.59087,47.319137],[23.589207,47.319077],[23.589109,47.320601],[23.590308,47.320684],[23.590411,47.322269],[23.592288,47.322449]]],"type":"Polygon"}
 }

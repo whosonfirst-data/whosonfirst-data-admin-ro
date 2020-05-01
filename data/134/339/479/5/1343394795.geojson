@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.44439,44.48711,26.44439,44.48711",
-    "geom:latitude":44.48711,
-    "geom:longitude":26.44439,
+    "geom:area":0.000044,
+    "geom:area_square_m":389833.992959,
+    "geom:bbox":"26.436251,44.483574,26.448735,44.49079",
+    "geom:latitude":44.487697,
+    "geom:longitude":26.443753,
     "gn:admin1_code":"41",
     "gn:admin2_code":"101083.0",
     "gn:asciiname":"Candeasca",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.42439,44.46711,26.46439,44.50711",
+    "lbl:latitude":44.48711,
+    "lbl:longitude":26.44439,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u00e2ndeasca"
+    ],
+    "name:ron_x_variant":[
+        "Candeasca"
+    ],
     "name:und_x_variant":[
         "C\u00e2ndeasca",
         "C\u00eendeasca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681824
+        "gn:id":681824,
+        "ro-ancpi:id":101109
     },
     "wof:country":"RO",
-    "wof:geomhash":"d96c537178049ac53bf7c0f3e2f4b148",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"56a98d431e97a32a7cab0297bd48793d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1343394795,
-    "wof:lastmodified":1566609888,
-    "wof:name":"Candeasca",
+    "wof:lastmodified":1588366649,
+    "wof:name":"C\u00e2ndeasca",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
     "wof:population":396,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.44439,
-    44.48711,
-    26.44439,
-    44.48711
+    26.436251,
+    44.483574,
+    26.448735,
+    44.49079
 ],
-  "geometry": {"coordinates":[26.44439,44.48711],"type":"Point"}
+  "geometry": {"coordinates":[[[26.446895,44.490087],[26.448018,44.487952],[26.448735,44.48666],[26.447221,44.485793],[26.448479,44.484891],[26.44771,44.484452],[26.445686,44.486037],[26.445294,44.485718],[26.445859,44.485299],[26.446716,44.484752],[26.446341,44.484376],[26.446576,44.484011],[26.445668,44.483574],[26.443871,44.484888],[26.443793,44.485232],[26.441982,44.486253],[26.440257,44.48562],[26.440145,44.485933],[26.440025,44.487144],[26.439442,44.487788],[26.437834,44.4886],[26.436251,44.489038],[26.436452,44.489491],[26.438396,44.48921],[26.439447,44.489727],[26.440829,44.48994],[26.441474,44.489957],[26.445057,44.49079],[26.446895,44.490087]]],"type":"Polygon"}
 }

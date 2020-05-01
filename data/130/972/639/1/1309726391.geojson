@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.09624,46.42027,23.09624,46.42027",
-    "geom:latitude":46.42027,
-    "geom:longitude":23.09624,
+    "geom:area":0.00001,
+    "geom:area_square_m":89410.219756,
+    "geom:bbox":"23.088408,46.432855,23.093386,46.436788",
+    "geom:latitude":46.435164,
+    "geom:longitude":23.090572,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039",
     "gn:asciiname":"Balesti-Catun",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103le\u015fti-C\u0103tun"
+    ],
+    "name:ron_x_variant":[
+        "Balesti-Catun"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685622
+        "gn:id":685622,
+        "ro-ancpi:id":3075
     },
     "wof:country":"RO",
-    "wof:geomhash":"027185f9b12a1c5fbf34ea74e5ea086f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0696d4a1a9fd77241d30712f7777391f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1309726391,
-    "wof:lastmodified":1566611268,
-    "wof:name":"Balesti-Catun",
+    "wof:lastmodified":1588366628,
+    "wof:name":"B\u0103le\u015fti-C\u0103tun",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":85,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.09624,
-    46.42027,
-    23.09624,
-    46.42027
+    23.088408,
+    46.432855,
+    23.093386,
+    46.436788
 ],
-  "geometry": {"coordinates":[23.09624,46.42027],"type":"Point"}
+  "geometry": {"coordinates":[[[23.089903,46.432915],[23.089846,46.432855],[23.089472,46.433476],[23.088715,46.434065],[23.088646,46.434155],[23.088595,46.434266],[23.088543,46.434469],[23.088527,46.434583],[23.08909,46.435268],[23.089122,46.435542],[23.088408,46.435956],[23.090326,46.436788],[23.091151,46.436605],[23.092304,46.436624],[23.092598,46.436354],[23.093094,46.436354],[23.093386,46.435802],[23.092256,46.4355],[23.091433,46.433839],[23.090333,46.433384],[23.089903,46.432915]]],"type":"Polygon"}
 }

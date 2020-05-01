@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.78828,44.20392,24.78828,44.20392",
-    "geom:latitude":44.20392,
-    "geom:longitude":24.78828,
+    "geom:area":0.000057,
+    "geom:area_square_m":506177.731935,
+    "geom:bbox":"24.779551,44.201246,24.794379,44.207981",
+    "geom:latitude":44.204052,
+    "geom:longitude":24.787183,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129763.0",
     "gn:asciiname":"Tirisneag",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.76828,44.18392,24.80828,44.22392",
+    "lbl:latitude":44.20392,
+    "lbl:longitude":24.78828,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Tiri\u015fneag"
+    ],
+    "name:ron_x_variant":[
+        "Tirisneag"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664983
+        "gn:id":664983,
+        "ro-ancpi:id":129807
     },
     "wof:country":"RO",
-    "wof:geomhash":"636fa63e7b65074098283f0a567b5a29",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ab4bdb14b49c26dde9295809526756a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1293440519,
-    "wof:lastmodified":1566610151,
-    "wof:name":"Tirisneag",
+    "wof:lastmodified":1588366698,
+    "wof:name":"Tiri\u015fneag",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":357,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.78828,
-    44.20392,
-    24.78828,
-    44.20392
+    24.779551,
+    44.201246,
+    24.794379,
+    44.207981
 ],
-  "geometry": {"coordinates":[24.78828,44.20392],"type":"Point"}
+  "geometry": {"coordinates":[[[24.794379,44.203219],[24.787938,44.201246],[24.786387,44.201743],[24.784689,44.201314],[24.781582,44.201599],[24.779551,44.203941],[24.789361,44.207651],[24.790078,44.207981],[24.794379,44.203219]]],"type":"Polygon"}
 }

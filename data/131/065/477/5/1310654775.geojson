@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.27766,46.00035,24.27766,46.00035",
-    "geom:latitude":46.00035,
-    "geom:longitude":24.27766,
+    "geom:area":0.000024,
+    "geom:area_square_m":208193.848021,
+    "geom:bbox":"24.273286,45.997073,24.284181,46.001053",
+    "geom:latitude":45.999045,
+    "geom:longitude":24.278506,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145667.0",
     "gn:asciiname":"Mighindoala",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.25766,45.98035,24.29766,46.02035",
+    "lbl:latitude":46.00035,
+    "lbl:longitude":24.27766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mighindoala"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673422
+        "gn:id":673422,
+        "ro-ancpi:id":145701
     },
     "wof:country":"RO",
-    "wof:geomhash":"5f20d5437b89196ccb3285bd46cb48eb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"32495f4c4bf7c60219c2e729ae1e4150",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1310654775,
-    "wof:lastmodified":1566610540,
+    "wof:lastmodified":1588366775,
     "wof:name":"Mighindoala",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.27766,
-    46.00035,
-    24.27766,
-    46.00035
+    24.273286,
+    45.997073,
+    24.284181,
+    46.001053
 ],
-  "geometry": {"coordinates":[24.27766,46.00035],"type":"Point"}
+  "geometry": {"coordinates":[[[24.284181,45.999035],[24.283404,45.997073],[24.281178,45.997588],[24.278486,45.998016],[24.274317,45.998053],[24.273286,45.999226],[24.273904,46.000149],[24.274995,46.001053],[24.275793,46.000734],[24.280281,46.000285],[24.280836,45.999668],[24.283434,45.99917],[24.284181,45.999035]]],"type":"Polygon"}
 }

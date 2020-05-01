@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.35841,46.89864,25.35841,46.89864",
-    "geom:latitude":46.89864,
-    "geom:longitude":25.35841,
+    "geom:area":0.000018,
+    "geom:area_square_m":151454.02448,
+    "geom:bbox":"25.349922,46.890434,25.359772,46.902485",
+    "geom:latitude":46.896936,
+    "geom:longitude":25.35558,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84460.0",
     "gn:asciiname":"Zapodea",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Z\u0103podea"
+    ],
+    "name:ron_x_variant":[
+        "Zapodea"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662303
+        "gn:id":662303,
+        "ro-ancpi:id":84549
     },
     "wof:country":"RO",
-    "wof:geomhash":"4ae72c46228751129a14a4556725f491",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f9008b20f6a7628b148a02e9fbae10e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226103931,
-    "wof:lastmodified":1566611614,
-    "wof:name":"Zapodea",
+    "wof:lastmodified":1588367118,
+    "wof:name":"Z\u0103podea",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":21,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.35841,
-    46.89864,
-    25.35841,
-    46.89864
+    25.349922,
+    46.890434,
+    25.359772,
+    46.902485
 ],
-  "geometry": {"coordinates":[25.35841,46.89864],"type":"Point"}
+  "geometry": {"coordinates":[[[25.352925,46.892285],[25.350298,46.890434],[25.349922,46.890635],[25.352807,46.893407],[25.352429,46.893567],[25.352985,46.894387],[25.352175,46.894683],[25.352893,46.89547],[25.354361,46.896511],[25.35681,46.898986],[25.358579,46.902427],[25.359685,46.902485],[25.359772,46.902288],[25.359337,46.901119],[25.359487,46.900311],[25.359342,46.899476],[25.358243,46.899021],[25.355015,46.895465],[25.354523,46.89445],[25.352709,46.892341],[25.352925,46.892285]]],"type":"Polygon"}
 }

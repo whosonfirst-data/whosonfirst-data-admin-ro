@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.12212,46.34041,28.12212,46.34041",
-    "geom:latitude":46.34041,
-    "geom:longitude":28.12212,
+    "geom:area":0.000103,
+    "geom:area_square_m":877014.302416,
+    "geom:bbox":"28.110999,46.334939,28.129081,46.34591",
+    "geom:latitude":46.340951,
+    "geom:longitude":28.121019,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163832",
     "gn:asciiname":"Bozia",
@@ -25,22 +25,35 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.10212,46.32041,28.14212,46.36041",
+    "lbl:latitude":46.34041,
+    "lbl:longitude":28.12212,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bozia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684005
+        "gn:id":684005,
+        "ro-ancpi:id":163869
     },
     "wof:country":"RO",
-    "wof:geomhash":"9cfe7b8d89f31f740ae8945b468c30bd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f5aeae750572db57b1ae87b23f3d637",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1209666775,
-    "wof:lastmodified":1566610347,
+    "wof:lastmodified":1588366739,
     "wof:name":"Bozia",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.12212,
-    46.34041,
-    28.12212,
-    46.34041
+    28.110999,
+    46.334939,
+    28.129081,
+    46.34591
 ],
-  "geometry": {"coordinates":[28.12212,46.34041],"type":"Point"}
+  "geometry": {"coordinates":[[[28.128093,46.338673],[28.128368,46.337354],[28.129081,46.336301],[28.128437,46.335811],[28.128571,46.335692],[28.128814,46.335469],[28.127605,46.334939],[28.125235,46.337072],[28.12408,46.33778],[28.11919,46.337753],[28.114916,46.338984],[28.112775,46.339489],[28.110999,46.340752],[28.111029,46.340812],[28.112408,46.342027],[28.113955,46.342842],[28.116527,46.344245],[28.11893,46.344996],[28.123339,46.34591],[28.124631,46.345764],[28.125358,46.343751],[28.127366,46.341255],[28.128768,46.33927],[28.128093,46.338673]]],"type":"Polygon"}
 }

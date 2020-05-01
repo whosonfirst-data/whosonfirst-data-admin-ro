@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.36466,46.5734,27.36466,46.5734",
-    "geom:latitude":46.5734,
-    "geom:longitude":27.36466,
+    "geom:area":0.000036,
+    "geom:area_square_m":301993.818948,
+    "geom:bbox":"27.358555,46.570316,27.370491,46.577193",
+    "geom:latitude":46.573589,
+    "geom:longitude":27.363959,
     "gn:admin1_code":"38",
     "gn:admin2_code":"166869.0",
     "gn:asciiname":"Uricari",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.34466,46.5534,27.38466,46.5934",
+    "lbl:latitude":46.5734,
+    "lbl:longitude":27.36466,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Uricari"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664159
+        "gn:id":664159,
+        "ro-ancpi:id":166976
     },
     "wof:country":"RO",
-    "wof:geomhash":"47d091af97bb56e0bbf81ad4033acd26",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"133b08a52bcfa21fe056ffd364ec763d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1242729409,
-    "wof:lastmodified":1566611443,
+    "wof:lastmodified":1588366824,
     "wof:name":"Uricari",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36466,
-    46.5734,
-    27.36466,
-    46.5734
+    27.358555,
+    46.570316,
+    27.370491,
+    46.577193
 ],
-  "geometry": {"coordinates":[27.36466,46.5734],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.360107,46.575564],[27.360497,46.575157],[27.361811,46.575346],[27.362419,46.575164],[27.362657,46.574976],[27.363086,46.575045],[27.363587,46.575022],[27.363727,46.574752],[27.365462,46.575023],[27.366143,46.575002],[27.367228,46.574921],[27.367541,46.5737],[27.367259,46.572273],[27.366126,46.572117],[27.366317,46.571325],[27.36325,46.570522],[27.362581,46.570316],[27.362087,46.570933],[27.361749,46.571657],[27.360455,46.571562],[27.360237,46.572206],[27.359995,46.572759],[27.358803,46.572569],[27.358783,46.572752],[27.35868,46.573654],[27.358555,46.574277],[27.359578,46.574491],[27.359651,46.57509],[27.359478,46.575472],[27.360107,46.575564]]],[[[27.370491,46.575669],[27.36801,46.575309],[27.367206,46.575856],[27.366798,46.576661],[27.36996,46.577193],[27.370439,46.576241],[27.370491,46.575669]]]],"type":"MultiPolygon"}
 }

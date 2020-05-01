@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.36667,46.1,27.36667,46.1",
-    "geom:latitude":46.1,
-    "geom:longitude":27.36667,
+    "geom:area":0.000117,
+    "geom:area_square_m":1000306.604463,
+    "geom:bbox":"27.385164,46.095152,27.395314,46.118569",
+    "geom:latitude":46.105757,
+    "geom:longitude":27.38953,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2341,
@@ -57,7 +57,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":1027369,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -69,11 +72,15 @@
     "wof:concordances":{
         "gn:id":665545,
         "qs_pg:id":1027369,
+        "ro-ancpi:id":177888,
         "wd:id":"Q12725228"
     },
     "wof:country":"RO",
     "wof:created":1497295718,
-    "wof:geomhash":"41fb49620ed00436b655d9056f6d4cb8",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"cc561e740981c02772ce74f61f86769f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,7 +90,7 @@
         }
     ],
     "wof:id":1125898853,
-    "wof:lastmodified":1566611328,
+    "wof:lastmodified":1588367122,
     "wof:name":"T\u0103n\u0103soaia",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
@@ -95,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36667,
-    46.1,
-    27.36667,
-    46.1
+    27.385164,
+    46.095152,
+    27.395314,
+    46.118569
 ],
-  "geometry": {"coordinates":[27.36667,46.1],"type":"Point"}
+  "geometry": {"coordinates":[[[27.390725,46.109386],[27.391646,46.106353],[27.393639,46.106641],[27.39404,46.105427],[27.395314,46.102918],[27.391913,46.102516],[27.392037,46.101566],[27.392428,46.099479],[27.393151,46.097111],[27.393571,46.09538],[27.388006,46.095152],[27.387838,46.097643],[27.387615,46.100116],[27.387116,46.103857],[27.385164,46.103876],[27.38538,46.106024],[27.385324,46.10759],[27.386832,46.10763],[27.386726,46.110431],[27.386719,46.114578],[27.386861,46.118349],[27.39009,46.118569],[27.390171,46.115668],[27.39052,46.112762],[27.390725,46.109386]]],"type":"Polygon"}
 }

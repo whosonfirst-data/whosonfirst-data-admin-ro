@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.11667,46.33333,23.11667,46.33333",
-    "geom:latitude":46.33333,
-    "geom:longitude":23.11667,
+    "geom:area":0.000003,
+    "geom:area_square_m":29797.098362,
+    "geom:bbox":"23.129166,46.320028,23.132534,46.322002",
+    "geom:latitude":46.321124,
+    "geom:longitude":23.130966,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039.0",
     "gn:asciiname":"Varsi-Rontu",
@@ -28,13 +28,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "V\u00e2r\u015fi-Rontu"
+    ],
+    "name:ron_x_variant":[
+        "Varsi-Rontu"
+    ],
     "name:und_x_variant":[
         "V\u00e2r\u015f",
         "V\u00eer\u015fi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662750
+        "gn:id":662750,
+        "ro-ancpi:id":3360
     },
     "wof:country":"RO",
-    "wof:geomhash":"bdbd795259b7a5d167e7abf9cec33550",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"28fc190e1acc8d66b3ce3b39b5379618",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1210020415,
-    "wof:lastmodified":1566610413,
-    "wof:name":"Varsi-Rontu",
+    "wof:lastmodified":1588367089,
+    "wof:name":"V\u00e2r\u015fi-Rontu",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":7,
@@ -68,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.11667000000001,
-    46.33333,
-    23.11667000000001,
-    46.33333
+    23.129166,
+    46.320028,
+    23.132534,
+    46.322002
 ],
-  "geometry": {"coordinates":[23.11667000000001,46.33333],"type":"Point"}
+  "geometry": {"coordinates":[[[23.132534,46.32131],[23.132125,46.320334],[23.131377,46.320667],[23.131297,46.320598],[23.13149,46.320465],[23.131258,46.320314],[23.131403,46.320135],[23.13123,46.320042],[23.131195,46.320028],[23.131165,46.320102],[23.13114,46.320164],[23.131085,46.320259],[23.131042,46.320334],[23.130946,46.320438],[23.130889,46.320466],[23.130829,46.320495],[23.130739,46.320538],[23.130679,46.320561],[23.130543,46.320613],[23.130454,46.320633],[23.13038,46.320647],[23.130287,46.320664],[23.13024,46.320677],[23.130134,46.320705],[23.130055,46.320727],[23.129954,46.320776],[23.129724,46.320631],[23.129166,46.321144],[23.129378,46.321389],[23.130495,46.321789],[23.131045,46.322002],[23.131676,46.321721],[23.132534,46.32131]]],"type":"Polygon"}
 }

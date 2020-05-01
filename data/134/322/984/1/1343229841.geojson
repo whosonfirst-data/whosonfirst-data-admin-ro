@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.60146,47.46818,23.60146,47.46818",
-    "geom:latitude":47.46818,
-    "geom:longitude":23.60146,
+    "geom:area":0.000018,
+    "geom:area_square_m":150299.220953,
+    "geom:bbox":"23.597588,47.45107,23.614808,47.457722",
+    "geom:latitude":47.453376,
+    "geom:longitude":23.604227,
     "gn:admin1_code":"25",
     "gn:admin2_code":"109176.0",
     "gn:asciiname":"Codru Butesii",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Codru Butesii"
+    ],
     "name:und_x_variant":[
         "Buteasa-Codru",
         "Codru Butesii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681165
+        "gn:id":681165,
+        "ro-ancpi:id":109229
     },
     "wof:country":"RO",
-    "wof:geomhash":"1bf5790555b0d8ad237bc3d5368c52ab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dc47221b56395e71199e705ca3f673f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1343229841,
-    "wof:lastmodified":1566609932,
+    "wof:lastmodified":1588367107,
     "wof:name":"Codru Butesii",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.60146,
-    47.46818,
-    23.60146,
-    47.46818
+    23.597588,
+    47.45107,
+    23.614808,
+    47.457722
 ],
-  "geometry": {"coordinates":[23.60146,47.46818],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.604689,47.454881],[23.604993,47.454577],[23.605442,47.454783],[23.606888,47.452518],[23.605499,47.452594],[23.603674,47.451986],[23.602687,47.451481],[23.601761,47.451269],[23.6008,47.451505],[23.599289,47.45107],[23.599094,47.451576],[23.598272,47.451705],[23.597588,47.452637],[23.600072,47.453284],[23.600754,47.452383],[23.6028,47.453255],[23.602672,47.453809],[23.60415,47.454644],[23.604689,47.454881]]],[[[23.614808,47.456483],[23.613243,47.455493],[23.612729,47.456026],[23.613087,47.456246],[23.611947,47.457266],[23.61273,47.457722],[23.614207,47.456876],[23.614808,47.456483]]]],"type":"MultiPolygon"}
 }

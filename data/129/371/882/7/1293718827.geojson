@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.3308,45.41996,24.3308,45.41996",
-    "geom:latitude":45.41996,
-    "geom:longitude":24.3308,
+    "geom:area":0.000031,
+    "geom:area_square_m":266631.39878,
+    "geom:bbox":"24.325764,45.418219,24.335724,45.424474",
+    "geom:latitude":45.421442,
+    "geom:longitude":24.330539,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172509",
     "gn:asciiname":"Blanoiu",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.3108,45.39996,24.3508,45.43996",
+    "lbl:latitude":45.41996,
+    "lbl:longitude":24.3308,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bl\u0103noiu"
+    ],
+    "name:ron_x_variant":[
+        "Blanoiu"
+    ],
     "name:und_x_variant":[
         "Bl\u0103noiul",
         "Bl\u0103noiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684593
+        "gn:id":684593,
+        "ro-ancpi:id":172536
     },
     "wof:country":"RO",
-    "wof:geomhash":"a18f7c06126267ff666d864bd4ad00b1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3efa668538e9730d2d89354b90844254",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293718827,
-    "wof:lastmodified":1566610074,
-    "wof:name":"Blanoiu",
+    "wof:lastmodified":1588366682,
+    "wof:name":"Bl\u0103noiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":82,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.3308,
-    45.41996,
-    24.3308,
-    45.41996
+    24.325764,
+    45.418219,
+    24.335724,
+    45.424474
 ],
-  "geometry": {"coordinates":[24.3308,45.41996],"type":"Point"}
+  "geometry": {"coordinates":[[[24.330515,45.422846],[24.331729,45.422474],[24.333284,45.423158],[24.335032,45.421642],[24.334209,45.420229],[24.335724,45.418546],[24.334518,45.418219],[24.333105,45.419773],[24.328863,45.419109],[24.326372,45.422253],[24.325764,45.423918],[24.32774,45.424474],[24.330515,45.422846]]],"type":"Polygon"}
 }

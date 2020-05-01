@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.63024,44.76041,23.63024,44.76041",
-    "geom:latitude":44.76041,
-    "geom:longitude":23.63024,
+    "geom:area":0.000003,
+    "geom:area_square_m":27142.550265,
+    "geom:bbox":"23.621048,44.761768,23.625858,44.762572",
+    "geom:latitude":44.762125,
+    "geom:longitude":23.623378,
     "gn:admin1_code":"19",
     "gn:admin2_code":"79497.0",
     "gn:asciiname":"Dealu Spirei",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dealu Spirei"
+    ],
     "name:und_x_variant":[
         "Dealul Spirei",
         "Dealu Spirei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679580
+        "gn:id":679580,
+        "ro-ancpi:id":79567
     },
     "wof:country":"RO",
-    "wof:geomhash":"2e72c7c2f859aca8c09865842edd44be",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"531610fbc39f169e7dc6dba1e29224ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1243338823,
-    "wof:lastmodified":1566611496,
+    "wof:lastmodified":1588367046,
     "wof:name":"Dealu Spirei",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.63024,
-    44.76041,
-    23.63024,
-    44.76041
+    23.621048,
+    44.761768,
+    23.625858,
+    44.762572
 ],
-  "geometry": {"coordinates":[23.63024,44.76041],"type":"Point"}
+  "geometry": {"coordinates":[[[23.625858,44.761807],[23.625857,44.761807],[23.621539,44.761769],[23.621154,44.761768],[23.621048,44.76234],[23.621915,44.762463],[23.623305,44.76246],[23.623645,44.762537],[23.624395,44.762572],[23.62512,44.762449],[23.625731,44.762061],[23.625858,44.761807]]],"type":"Polygon"}
 }

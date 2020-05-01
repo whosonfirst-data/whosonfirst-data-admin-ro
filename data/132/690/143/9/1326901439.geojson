@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.52686,44.481,28.52686,44.481",
-    "geom:latitude":44.481,
-    "geom:longitude":28.52686,
+    "geom:area":0.00007,
+    "geom:area_square_m":620452.634776,
+    "geom:bbox":"28.517064,44.473714,28.53502,44.485181",
+    "geom:latitude":44.480707,
+    "geom:longitude":28.525852,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61372.0",
     "gn:asciiname":"Gura Dobrogei",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.50686,44.461,28.54686,44.501",
+    "lbl:latitude":44.481,
+    "lbl:longitude":28.52686,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gura Dobrogei"
+    ],
     "name:und_x_variant":[
         "Cavargic",
         "Gura Dobrogei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676541
+        "gn:id":676541,
+        "ro-ancpi:id":61416
     },
     "wof:country":"RO",
-    "wof:geomhash":"94d9044c558e79b39b4ae5a0cebe1c46",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9bcc302990716dad6ea57b333831d471",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1326901439,
-    "wof:lastmodified":1566609842,
+    "wof:lastmodified":1588366641,
     "wof:name":"Gura Dobrogei",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.52686,
-    44.481,
-    28.52686,
-    44.481
+    28.517064,
+    44.473714,
+    28.53502,
+    44.485181
 ],
-  "geometry": {"coordinates":[28.52686,44.481],"type":"Point"}
+  "geometry": {"coordinates":[[[28.529693,44.483838],[28.530727,44.483669],[28.531354,44.483948],[28.53186,44.48365],[28.533255,44.483531],[28.534249,44.483569],[28.535018,44.483481],[28.53502,44.483124],[28.53492,44.48255],[28.53473,44.481685],[28.531784,44.480555],[28.531054,44.480239],[28.527691,44.479035],[28.524505,44.479025],[28.524113,44.478819],[28.524192,44.478666],[28.52296,44.478145],[28.521392,44.476844],[28.519994,44.477426],[28.520574,44.47613],[28.517874,44.473714],[28.517312,44.474521],[28.517064,44.475784],[28.519137,44.477052],[28.519308,44.477658],[28.518322,44.478861],[28.521499,44.480572],[28.521765,44.482174],[28.527511,44.485181],[28.529693,44.483838]]],"type":"Polygon"}
 }

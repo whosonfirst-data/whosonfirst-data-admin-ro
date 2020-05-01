@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.7687,46.43691,22.7687,46.43691",
-    "geom:latitude":46.43691,
-    "geom:longitude":22.7687,
+    "geom:area":0.000008,
+    "geom:area_square_m":68601.049089,
+    "geom:bbox":"22.779035,46.433876,22.78398,46.436868",
+    "geom:latitude":46.435431,
+    "geom:longitude":22.781552,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4525.0",
     "gn:asciiname":"Scoarta",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Scoar\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Scoarta"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667611
+        "gn:id":667611,
+        "ro-ancpi:id":4678
     },
     "wof:country":"RO",
-    "wof:geomhash":"747adf0e02bd7d7a00fe95e1eaede52a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5a2cb2d8cc4a80caec745efbf0dca4ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293700855,
-    "wof:lastmodified":1566610063,
-    "wof:name":"Scoarta",
+    "wof:lastmodified":1588367090,
+    "wof:name":"Scoar\u0163a",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":28,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.7687,
-    46.43691,
-    22.7687,
-    46.43691
+    22.779035,
+    46.433876,
+    22.78398,
+    46.436868
 ],
-  "geometry": {"coordinates":[22.7687,46.43691],"type":"Point"}
+  "geometry": {"coordinates":[[[22.78398,46.436778],[22.78344,46.43568],[22.783122,46.434693],[22.7813,46.434896],[22.781427,46.434413],[22.78129,46.433965],[22.780542,46.433876],[22.780078,46.434139],[22.779392,46.434011],[22.779035,46.434572],[22.779374,46.435337],[22.780349,46.435422],[22.780716,46.435775],[22.781411,46.436868],[22.78398,46.436778]]],"type":"Polygon"}
 }

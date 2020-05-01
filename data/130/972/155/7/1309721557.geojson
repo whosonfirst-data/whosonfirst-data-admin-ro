@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.83333,46.38333,22.83333,46.38333",
-    "geom:latitude":46.38333,
-    "geom:longitude":22.83333,
+    "geom:area":0.000007,
+    "geom:area_square_m":60581.871645,
+    "geom:bbox":"22.821813,46.369204,22.825886,46.372803",
+    "geom:latitude":46.370981,
+    "geom:longitude":22.823631,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Carasti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "C\u00e2r\u0103\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Carasti"
+    ],
     "name:und_x_variant":[
         "C\u0103re\u015fti",
         "C\u00eer\u0103\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681622
+        "gn:id":681622,
+        "ro-ancpi:id":2666
     },
     "wof:country":"RO",
-    "wof:geomhash":"548b386149826b5d66f43690d1573ed3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"11e69ec9f3bed5749285d4703fa0f16e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1309721557,
-    "wof:lastmodified":1566611268,
-    "wof:name":"Carasti",
+    "wof:lastmodified":1588367124,
+    "wof:name":"C\u00e2r\u0103\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.83333,
-    46.38333,
-    22.83333,
-    46.38333
+    22.821813,
+    46.369204,
+    22.825886,
+    46.372803
 ],
-  "geometry": {"coordinates":[22.83333,46.38333],"type":"Point"}
+  "geometry": {"coordinates":[[[22.824411,46.372543],[22.82458,46.372177],[22.824655,46.371374],[22.82448,46.37081],[22.825117,46.37041],[22.825886,46.369434],[22.825508,46.369204],[22.824291,46.369849],[22.8229,46.370287],[22.822514,46.369881],[22.821849,46.369888],[22.821813,46.370957],[22.823429,46.372803],[22.824411,46.372543]]],"type":"Polygon"}
 }

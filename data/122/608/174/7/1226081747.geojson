@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.3699,44.9956,24.3699,44.9956",
-    "geom:latitude":44.9956,
-    "geom:longitude":24.3699,
+    "geom:area":0.000056,
+    "geom:area_square_m":485933.46723,
+    "geom:bbox":"24.365226,44.993285,24.38325,45.001424",
+    "geom:latitude":44.996563,
+    "geom:longitude":24.372279,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628",
     "gn:asciiname":"Banesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.3499,44.9756,24.3899,45.0156",
+    "lbl:latitude":44.9956,
+    "lbl:longitude":24.3699,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Banesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685463
+        "gn:id":685463,
+        "ro-ancpi:id":171646
     },
     "wof:country":"RO",
-    "wof:geomhash":"2367d2e9dfaac25e887dc8a6b42ecac7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e94e63b30f19126401d5b82446918b23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1226081747,
-    "wof:lastmodified":1566611694,
-    "wof:name":"Banesti",
+    "wof:lastmodified":1588366886,
+    "wof:name":"B\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":108,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.3699,
-    44.9956,
-    24.3699,
-    44.9956
+    24.365226,
+    44.993285,
+    24.38325,
+    45.001424
 ],
-  "geometry": {"coordinates":[24.3699,44.9956],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.373462,45.00007],[24.370916,44.996812],[24.372235,44.99338],[24.36667,44.994104],[24.365808,44.995441],[24.367689,44.996403],[24.365226,44.998151],[24.36746,45.00103],[24.370053,45.000051],[24.370471,45.001424],[24.373462,45.00007]]],[[[24.38325,44.995975],[24.382299,44.993285],[24.376273,44.993285],[24.37513,44.995301],[24.38325,44.995975]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.39238,43.94653,24.39238,43.94653",
-    "geom:latitude":43.94653,
-    "geom:longitude":24.39238,
+    "geom:area":0.000091,
+    "geom:area_square_m":808494.157873,
+    "geom:bbox":"24.380359,43.939136,24.402703,43.9485",
+    "geom:latitude":43.944352,
+    "geom:longitude":24.390184,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130320.0",
     "gn:asciiname":"Gradinile",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.37238,43.92653,24.41238,43.96653",
+    "lbl:latitude":43.94653,
+    "lbl:longitude":24.39238,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Gr\u0103dinile"
@@ -47,7 +49,11 @@
         "Gr\u0103dinile"
     ],
     "name:ron_x_preferred":[
-        "Comuna Gr\u0103dinile"
+        "Gr\u0103dinile"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Gr\u0103dinile",
+        "Gradinile"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0440\u0430\u0434\u0438\u043d\u0438\u043b\u0435"
@@ -64,7 +70,11 @@
     "name:zho_x_preferred":[
         "\u683c\u52d2\u8fea\u5c3c\u52d2\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,10 +84,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":676825,
+        "ro-ancpi:id":129219,
         "wk:page":"Gr%C4%83dinile"
     },
     "wof:country":"RO",
-    "wof:geomhash":"6cc65f09235296b3589506e18f7f7b53",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"82c25dca96f2e69d2638831a307cf5d1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,8 +101,8 @@
         }
     ],
     "wof:id":1326576737,
-    "wof:lastmodified":1566609800,
-    "wof:name":"Gradinile",
+    "wof:lastmodified":1588366630,
+    "wof:name":"Gr\u0103dinile",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":553,
@@ -99,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.39238,
-    43.94653,
-    24.39238,
-    43.94653
+    24.380359,
+    43.939136,
+    24.402703,
+    43.9485
 ],
-  "geometry": {"coordinates":[24.39238,43.94653],"type":"Point"}
+  "geometry": {"coordinates":[[[24.402703,43.944898],[24.402205,43.944266],[24.399502,43.944034],[24.394155,43.944045],[24.394337,43.943372],[24.393993,43.941255],[24.389892,43.939136],[24.388176,43.942299],[24.381891,43.941993],[24.380359,43.945279],[24.383262,43.946076],[24.38885,43.947411],[24.393388,43.9485],[24.393824,43.947438],[24.396231,43.946333],[24.399442,43.945764],[24.402703,43.944898]]],"type":"Polygon"}
 }

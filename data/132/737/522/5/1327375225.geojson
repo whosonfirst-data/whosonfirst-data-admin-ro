@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.47253,46.03258,24.47253,46.03258",
-    "geom:latitude":46.03258,
-    "geom:longitude":24.47253,
+    "geom:area":0.00004,
+    "geom:area_square_m":342448.745914,
+    "geom:bbox":"24.464031,46.027757,24.475196,46.037446",
+    "geom:latitude":46.032627,
+    "geom:longitude":24.47003,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144232.0",
     "gn:asciiname":"Zlagna",
@@ -25,18 +25,27 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.45253,46.01258,24.49253,46.05258",
+    "lbl:latitude":46.03258,
+    "lbl:longitude":24.47253,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:epo_x_preferred":[
+        "Zlagna"
+    ],
+    "name:ron_x_preferred":[
         "Zlagna"
     ],
     "name:srp_x_preferred":[
         "\u0417\u043b\u0430\u0433\u043d\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662175
+        "gn:id":662175,
+        "ro-ancpi:id":144296
     },
     "wof:country":"RO",
-    "wof:geomhash":"b36d09ef88e00072232d61e0c45a5f9f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ef77d3fac38a79dcf6a93c3d82cc9a27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1327375225,
-    "wof:lastmodified":1566609759,
+    "wof:lastmodified":1588366621,
     "wof:name":"Zlagna",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.47253,
-    46.03258,
-    24.47253,
-    46.03258
+    24.464031,
+    46.027757,
+    24.475196,
+    46.037446
 ],
-  "geometry": {"coordinates":[24.47253,46.03258],"type":"Point"}
+  "geometry": {"coordinates":[[[24.472368,46.037279],[24.471559,46.034224],[24.471636,46.032599],[24.471994,46.032554],[24.475108,46.033365],[24.475196,46.032171],[24.472594,46.031477],[24.472902,46.031116],[24.472598,46.029506],[24.470995,46.029525],[24.470693,46.027757],[24.468281,46.028396],[24.468788,46.029802],[24.469212,46.030627],[24.468113,46.031416],[24.466019,46.032314],[24.464031,46.033154],[24.4652,46.0343],[24.466731,46.033512],[24.467341,46.033435],[24.468137,46.033757],[24.469269,46.036859],[24.470513,46.03668],[24.47072,46.037446],[24.472368,46.037279]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.3837,44.35073,24.3837,44.35073",
-    "geom:latitude":44.35073,
-    "geom:longitude":24.3837,
+    "geom:area":0.000007,
+    "geom:area_square_m":65274.67178,
+    "geom:bbox":"24.380583,44.34924,24.383237,44.35292",
+    "geom:latitude":44.351,
+    "geom:longitude":24.381938,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127563.0",
     "gn:asciiname":"Stejaru",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stejaru"
@@ -49,7 +49,10 @@
     "name:und_x_variant":[
         "Stejarul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666191
+        "gn:id":666191,
+        "ro-ancpi:id":127616
     },
     "wof:country":"RO",
-    "wof:geomhash":"bcda57f863a8c60d9b9850784920c4f1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0b3ecbcac3c05b915131fa37d9865746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":1259644629,
-    "wof:lastmodified":1566611548,
+    "wof:lastmodified":1588367151,
     "wof:name":"Stejaru",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -83,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.3837,
-    44.35073,
-    24.3837,
-    44.35073
+    24.380583,
+    44.34924,
+    24.383237,
+    44.35292
 ],
-  "geometry": {"coordinates":[24.3837,44.35073],"type":"Point"}
+  "geometry": {"coordinates":[[[24.383237,44.349378],[24.380735,44.34924],[24.380665,44.349604],[24.380896,44.349721],[24.380798,44.350598],[24.3813,44.350651],[24.380583,44.352675],[24.382728,44.35292],[24.383237,44.349378]]],"type":"Polygon"}
 }

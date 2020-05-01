@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.07695,45.69031,24.07695,45.69031",
-    "geom:latitude":45.69031,
-    "geom:longitude":24.07695,
+    "geom:area":0.000004,
+    "geom:area_square_m":30946.8025,
+    "geom:bbox":"24.073818,45.689105,24.076732,45.691232",
+    "geom:latitude":45.690109,
+    "geom:longitude":24.075087,
     "gn:admin1_code":"33",
     "gn:admin2_code":"143520.0",
     "gn:asciiname":"Prislop",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Prislop"
+    ],
     "name:und_x_variant":[
         "Colonia Prislop",
         "Prislop"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +51,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":669598,
+        "ro-ancpi:id":143548,
         "wk:page":"Prislop%2C_Sibiu"
     },
     "wof:country":"RO",
-    "wof:geomhash":"43c107314f450fa6199f716ca932d851",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6cf39c06c8f782c34ef0bb50fe85ec14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1277022503,
-    "wof:lastmodified":1566610217,
+    "wof:lastmodified":1588367153,
     "wof:name":"Prislop",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.07695,
-    45.69031,
-    24.07695,
-    45.69031
+    24.073818,
+    45.689105,
+    24.076732,
+    45.691232
 ],
-  "geometry": {"coordinates":[24.07695,45.69031],"type":"Point"}
+  "geometry": {"coordinates":[[[24.076732,45.689554],[24.074352,45.689105],[24.073818,45.691222],[24.074943,45.691232],[24.075005,45.690516],[24.076213,45.690514],[24.076732,45.689554]]],"type":"Polygon"}
 }

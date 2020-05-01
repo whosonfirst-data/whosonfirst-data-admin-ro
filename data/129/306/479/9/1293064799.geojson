@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.59966,44.30218,23.59966,44.30218",
-    "geom:latitude":44.30218,
-    "geom:longitude":23.59966,
+    "geom:area":0.000004,
+    "geom:area_square_m":37870.621952,
+    "geom:bbox":"23.594317,44.301588,23.597308,44.30393",
+    "geom:latitude":44.302872,
+    "geom:longitude":23.595693,
     "gn:admin1_code":"17",
     "gn:admin2_code":"69964.0",
     "gn:asciiname":"Italieni",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Italieni"
+    ],
     "name:und_x_variant":[
         "Italienii",
         "Italieni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675460
+        "gn:id":675460,
+        "ro-ancpi:id":69991
     },
     "wof:country":"RO",
-    "wof:geomhash":"71336eb1755788c39c0ae841870f74a3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5f551fd8eda8ad8037cdb5527a765eb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":1293064799,
-    "wof:lastmodified":1566610040,
+    "wof:lastmodified":1588367098,
     "wof:name":"Italieni",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.59966,
-    44.30218,
-    23.59966,
-    44.30218
+    23.594317,
+    44.301588,
+    23.597308,
+    44.30393
 ],
-  "geometry": {"coordinates":[23.59966,44.30218],"type":"Point"}
+  "geometry": {"coordinates":[[[23.597308,44.30393],[23.59727,44.302885],[23.595877,44.302895],[23.595895,44.301588],[23.594317,44.301633],[23.594411,44.30287],[23.594818,44.302915],[23.595073,44.303274],[23.595131,44.303924],[23.597308,44.30393]]],"type":"Polygon"}
 }

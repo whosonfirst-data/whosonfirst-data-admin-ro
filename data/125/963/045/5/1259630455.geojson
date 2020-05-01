@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.31078,44.23161,24.31078,44.23161",
-    "geom:latitude":44.23161,
-    "geom:longitude":24.31078,
+    "geom:area":0.000037,
+    "geom:area_square_m":327506.714002,
+    "geom:bbox":"24.303722,44.227841,24.315948,44.234345",
+    "geom:latitude":44.230991,
+    "geom:longitude":24.309786,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130357",
     "gn:asciiname":"Bobu",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.29078,44.21161,24.33078,44.25161",
+    "lbl:latitude":44.23161,
+    "lbl:longitude":24.31078,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bobu"
@@ -49,7 +51,11 @@
     "name:und_x_variant":[
         "Bobul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684513
+        "gn:id":684513,
+        "ro-ancpi:id":126843
     },
     "wof:country":"RO",
-    "wof:geomhash":"b6d1cd25734ec1fa379f9c3ad67d0d51",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5a7e6f7a5f766361fa0965bce46cd5b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1259630455,
-    "wof:lastmodified":1566611546,
+    "wof:lastmodified":1588366849,
     "wof:name":"Bobu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.31078,
-    44.23161,
-    24.31078,
-    44.23161
+    24.303722,
+    44.227841,
+    24.315948,
+    44.234345
 ],
-  "geometry": {"coordinates":[24.31078,44.23161],"type":"Point"}
+  "geometry": {"coordinates":[[[24.306785,44.234345],[24.313596,44.231259],[24.313809,44.23158],[24.315948,44.230501],[24.314652,44.229369],[24.31415,44.227841],[24.310818,44.228768],[24.307299,44.229986],[24.305562,44.230344],[24.303722,44.231103],[24.306785,44.234345]]],"type":"Polygon"}
 }

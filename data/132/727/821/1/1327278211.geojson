@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.2,45.76667,22.2,45.76667",
-    "geom:latitude":45.76667,
-    "geom:longitude":22.2,
+    "geom:area":0.000039,
+    "geom:area_square_m":338956.406857,
+    "geom:bbox":"22.194723,45.764627,22.203783,45.772315",
+    "geom:latitude":45.76887,
+    "geom:longitude":22.198836,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156927.0",
     "gn:asciiname":"Dragsinesti",
@@ -28,13 +28,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Dr\u0103gsine\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Dragsinesti"
+    ],
     "name:und_x_variant":[
         "Dr\u0103c\u015fine\u015fti",
         "Dr\u0103g\u015fine\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678895
+        "gn:id":678895,
+        "ro-ancpi:id":156945
     },
     "wof:country":"RO",
-    "wof:geomhash":"6657296fad17a3beaccd729fcfad831c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4cd1da158df6f2a27333893c9b83aa69",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1327278211,
-    "wof:lastmodified":1566609871,
-    "wof:name":"Dragsinesti",
+    "wof:lastmodified":1588367139,
+    "wof:name":"Dr\u0103gsine\u015fti",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.2,
-    45.76667,
-    22.2,
-    45.76667
+    22.194723,
+    45.764627,
+    22.203783,
+    45.772315
 ],
-  "geometry": {"coordinates":[22.2,45.76667],"type":"Point"}
+  "geometry": {"coordinates":[[[22.197304,45.77137],[22.199131,45.771341],[22.199786,45.771361],[22.202526,45.771656],[22.20294,45.77069],[22.20313,45.770322],[22.203178,45.770047],[22.203313,45.769892],[22.203671,45.768673],[22.203783,45.768284],[22.202376,45.768159],[22.202644,45.766997],[22.201011,45.766836],[22.200703,45.768029],[22.19893,45.767825],[22.199261,45.766647],[22.198327,45.766518],[22.198423,45.765324],[22.198466,45.765037],[22.198269,45.765006],[22.197078,45.764627],[22.195916,45.765795],[22.195338,45.767034],[22.194935,45.76761],[22.194723,45.768254],[22.195292,45.76871],[22.195483,45.769331],[22.195421,45.770138],[22.195642,45.770482],[22.195509,45.770941],[22.195586,45.771524],[22.195836,45.772315],[22.196523,45.772298],[22.196811,45.771367],[22.197304,45.77137]]],"type":"Polygon"}
 }

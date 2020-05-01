@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21848,44.92418,24.21848,44.92418",
-    "geom:latitude":44.92418,
-    "geom:longitude":24.21848,
+    "geom:area":0.000027,
+    "geom:area_square_m":238445.706754,
+    "geom:bbox":"24.212452,44.920836,24.219676,44.926542",
+    "geom:latitude":44.923989,
+    "geom:longitude":24.21625,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173686.0",
     "gn:asciiname":"Slavitesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.19848,44.90418,24.23848,44.94418",
+    "lbl:latitude":44.92418,
+    "lbl:longitude":24.21848,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Sl\u0103vite\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Slavitesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666733
+        "gn:id":666733,
+        "ro-ancpi:id":173720
     },
     "wof:country":"RO",
-    "wof:geomhash":"814e1d649e8786893abf2c8ae5b55ae8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"97300eccc817aa496f5791d515453e52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1243490407,
-    "wof:lastmodified":1566611469,
-    "wof:name":"Slavitesti",
+    "wof:lastmodified":1588366829,
+    "wof:name":"Sl\u0103vite\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":289,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.21848,
-    44.92418,
-    24.21848,
-    44.92418
+    24.212452,
+    44.920836,
+    24.219676,
+    44.926542
 ],
-  "geometry": {"coordinates":[24.21848,44.92418],"type":"Point"}
+  "geometry": {"coordinates":[[[24.219676,44.922575],[24.214238,44.920836],[24.213455,44.922022],[24.212915,44.922971],[24.21539,44.924145],[24.215333,44.92486],[24.212452,44.925248],[24.21253,44.926542],[24.219147,44.926214],[24.219676,44.922575]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.26873,46.95038,25.26873,46.95038",
-    "geom:latitude":46.95038,
-    "geom:longitude":25.26873,
+    "geom:area":0.000173,
+    "geom:area_square_m":1460686.945947,
+    "geom:bbox":"25.252205,46.946694,25.282754,46.957729",
+    "geom:latitude":46.951979,
+    "geom:longitude":25.267059,
     "gn:admin1_code":"27",
     "gn:admin2_code":"119625.0",
     "gn:asciiname":"Ciobotani",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.24873,46.93038,25.28873,46.97038",
+    "lbl:latitude":46.95038,
+    "lbl:longitude":25.26873,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ciobotani"
+    ],
     "name:und_x_variant":[
         "Csobot\u00e0n",
         "Ciobotani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681769
+        "gn:id":681769,
+        "ro-ancpi:id":119643
     },
     "wof:country":"RO",
-    "wof:geomhash":"91367507ace503926bd2458a178fb211",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"198e5019c28b0f3864e860287512389e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1259731091,
-    "wof:lastmodified":1566611591,
+    "wof:lastmodified":1588366861,
     "wof:name":"Ciobotani",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.26873,
-    46.95038,
-    25.26873,
-    46.95038
+    25.252205,
+    46.946694,
+    25.282754,
+    46.957729
 ],
-  "geometry": {"coordinates":[25.26873,46.95038],"type":"Point"}
+  "geometry": {"coordinates":[[[25.277991,46.956907],[25.279006,46.956062],[25.282238,46.956054],[25.282729,46.955885],[25.282754,46.954105],[25.280993,46.953147],[25.278493,46.951975],[25.27656,46.951739],[25.273889,46.951384],[25.271596,46.949562],[25.268991,46.948365],[25.26681,46.947601],[25.263714,46.946694],[25.261923,46.946722],[25.260415,46.947062],[25.258976,46.94733],[25.256659,46.947503],[25.255078,46.947483],[25.253359,46.947992],[25.252205,46.948908],[25.252839,46.949364],[25.254249,46.950371],[25.255416,46.952076],[25.255843,46.95335],[25.258102,46.955486],[25.259609,46.954737],[25.261677,46.953794],[25.263992,46.953163],[25.265993,46.952894],[25.267292,46.952891],[25.265715,46.95352],[25.26808,46.95592],[25.270645,46.956034],[25.272685,46.95651],[25.274237,46.957709],[25.276204,46.957729],[25.276657,46.957006],[25.277991,46.956907]]],"type":"Polygon"}
 }

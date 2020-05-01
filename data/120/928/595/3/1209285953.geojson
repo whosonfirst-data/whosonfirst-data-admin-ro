@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.67107,44.08581,23.67107,44.08581",
-    "geom:latitude":44.08581,
-    "geom:longitude":23.67107,
+    "geom:area":0.000043,
+    "geom:area_square_m":382694.05101,
+    "geom:bbox":"23.665715,44.080756,23.680586,44.091666",
+    "geom:latitude":44.085473,
+    "geom:longitude":23.669545,
     "gn:admin1_code":"17",
     "gn:admin2_code":"71698.0",
     "gn:asciiname":"Malaica",
@@ -25,22 +25,35 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.65107,44.06581,23.69107,44.10581",
+    "lbl:latitude":44.08581,
+    "lbl:longitude":23.67107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Malaica"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674035
+        "gn:id":674035,
+        "ro-ancpi:id":71714
     },
     "wof:country":"RO",
-    "wof:geomhash":"b93519a30dfb02a93bdb83a13a2f1aa1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0f9d62d3c9fac69fff04519ebc8d311a",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1209285953,
-    "wof:lastmodified":1566610394,
+    "wof:lastmodified":1588366748,
     "wof:name":"Malaica",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.67107,
-    44.08581,
-    23.67107,
-    44.08581
+    23.665715,
+    44.080756,
+    23.680586,
+    44.091666
 ],
-  "geometry": {"coordinates":[23.67107,44.08581],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.6738,44.081336],[23.673506,44.080756],[23.671681,44.0812],[23.671279,44.081306],[23.671012,44.080859],[23.666034,44.08202],[23.665715,44.083834],[23.667037,44.083954],[23.667896,44.088043],[23.667953,44.090064],[23.668059,44.091666],[23.670521,44.091607],[23.670566,44.088304],[23.672203,44.086834],[23.671503,44.084967],[23.671566,44.082218],[23.6738,44.081336]]],[[[23.680586,44.083331],[23.680399,44.082884],[23.679314,44.083079],[23.679529,44.083576],[23.680586,44.083331]]]],"type":"MultiPolygon"}
 }

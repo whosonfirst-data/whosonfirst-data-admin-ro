@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.85341,46.37419,22.85341,46.37419",
-    "geom:latitude":46.37419,
-    "geom:longitude":22.85341,
+    "geom:area":0.000013,
+    "geom:area_square_m":113252.749666,
+    "geom:bbox":"22.828451,46.373213,22.837426,46.37788",
+    "geom:latitude":46.375512,
+    "geom:longitude":22.831918,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Patrutesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u0103tru\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Patrutesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671249
+        "gn:id":671249,
+        "ro-ancpi:id":2808
     },
     "wof:country":"RO",
-    "wof:geomhash":"34a56a080d3930cac8eaa4bb1251d1f1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c9da98dc79afce66c47cdab4b1f5e70c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226056891,
-    "wof:lastmodified":1566611635,
-    "wof:name":"Patrutesti",
+    "wof:lastmodified":1588367124,
+    "wof:name":"P\u0103tru\u0163e\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":65,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.85341,
-    46.37419000000001,
-    22.85341,
-    46.37419000000001
+    22.828451,
+    46.373213,
+    22.837426,
+    46.37788
 ],
-  "geometry": {"coordinates":[22.85341,46.37419000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.834027,46.375862],[22.832931,46.374596],[22.830742,46.374911],[22.829818,46.373213],[22.828451,46.373535],[22.830249,46.376133],[22.829267,46.376555],[22.829958,46.377447],[22.830974,46.37788],[22.832714,46.376924],[22.83203,46.376229],[22.834027,46.375862]]],[[[22.836694,46.374219],[22.835182,46.373617],[22.835332,46.374912],[22.836297,46.375088],[22.836461,46.37552],[22.837426,46.37571],[22.837254,46.374744],[22.836522,46.37471],[22.836694,46.374219]]]],"type":"MultiPolygon"}
 }

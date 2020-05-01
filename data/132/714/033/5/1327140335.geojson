@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.81577,46.68769,26.81577,46.68769",
-    "geom:latitude":46.68769,
-    "geom:longitude":26.81577,
+    "geom:area":0.000008,
+    "geom:area_square_m":71721.304966,
+    "geom:bbox":"26.811233,46.686367,26.815172,46.689841",
+    "geom:latitude":46.68793,
+    "geom:longitude":26.812962,
     "gn:admin1_code":"04",
     "gn:admin2_code":"26379.0",
     "gn:asciiname":"Fagetel",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "F\u0103ge\u0163el"
+    ],
+    "name:ron_x_variant":[
+        "Fagetel"
+    ],
     "name:und_x_variant":[
         "F\u0103getelul",
         "F\u0103ge\u0163el"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678483
+        "gn:id":678483,
+        "ro-ancpi:id":21301
     },
     "wof:country":"RO",
-    "wof:geomhash":"3fa50a72ba46bcafd853d53c724b7036",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6e19db4c246fc9f8d9fe160bae28bcc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1327140335,
-    "wof:lastmodified":1566609804,
-    "wof:name":"Fagetel",
+    "wof:lastmodified":1588367139,
+    "wof:name":"F\u0103ge\u0163el",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":5,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.81577,
-    46.68769,
-    26.81577,
-    46.68769
+    26.811233,
+    46.686367,
+    26.815172,
+    46.689841
 ],
-  "geometry": {"coordinates":[26.81577,46.68769],"type":"Point"}
+  "geometry": {"coordinates":[[[26.814548,46.686763],[26.813911,46.686367],[26.813418,46.686474],[26.812312,46.68641],[26.81155,46.687303],[26.81151,46.688132],[26.811321,46.688796],[26.811487,46.68921],[26.811233,46.689417],[26.812645,46.689841],[26.815172,46.687369],[26.814548,46.686763]]],"type":"Polygon"}
 }

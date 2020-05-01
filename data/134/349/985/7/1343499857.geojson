@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.83118,46.74529,27.83118,46.74529",
-    "geom:latitude":46.74529,
-    "geom:longitude":27.83118,
+    "geom:area":0.000088,
+    "geom:area_square_m":743961.062726,
+    "geom:bbox":"27.812183,46.739177,27.8363,46.750511",
+    "geom:latitude":46.745174,
+    "geom:longitude":27.828218,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165899.0",
     "gn:asciiname":"Valea Silistei",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.81118,46.72529,27.85118,46.76529",
+    "lbl:latitude":46.74529,
+    "lbl:longitude":27.83118,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Sili\u015ftei"
+    ],
+    "name:ron_x_variant":[
+        "Valea Silistei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663397
+        "gn:id":663397,
+        "ro-ancpi:id":165960
     },
     "wof:country":"RO",
-    "wof:geomhash":"97f8bc258d5607c7be68f16681b56568",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"40bba3e63cca40a6a00cc4e7f4b67f24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1343499857,
-    "wof:lastmodified":1566609928,
-    "wof:name":"Valea Silistei",
+    "wof:lastmodified":1588366657,
+    "wof:name":"Valea Sili\u015ftei",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":345,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.83118,
-    46.74529,
-    27.83118,
-    46.74529
+    27.812183,
+    46.739177,
+    27.8363,
+    46.750511
 ],
-  "geometry": {"coordinates":[27.83118,46.74529],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.828954,46.750511],[27.829563,46.74882],[27.830954,46.74704],[27.831364,46.747131],[27.83178,46.746499],[27.833086,46.745501],[27.834352,46.745613],[27.834516,46.744609],[27.8363,46.742263],[27.83147,46.740301],[27.827361,46.739177],[27.826874,46.740747],[27.825933,46.742534],[27.824441,46.745955],[27.823769,46.74756],[27.822622,46.748541],[27.822404,46.749004],[27.820551,46.749314],[27.821155,46.750162],[27.822986,46.749901],[27.824473,46.749964],[27.825439,46.750381],[27.828954,46.750511]]],[[[27.814174,46.748216],[27.812862,46.748036],[27.812586,46.748998],[27.812183,46.750104],[27.813715,46.749949],[27.814174,46.748216]]],[[[27.816219,46.747476],[27.816672,46.747125],[27.816228,46.746963],[27.816334,46.746847],[27.815787,46.746634],[27.814966,46.747143],[27.815409,46.747286],[27.815554,46.747238],[27.816219,46.747476]]]],"type":"MultiPolygon"}
 }

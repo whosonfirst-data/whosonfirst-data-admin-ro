@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.70872,45.96631,23.70872,45.96631",
-    "geom:latitude":45.96631,
-    "geom:longitude":23.70872,
+    "geom:area":0.000008,
+    "geom:area_square_m":65829.037504,
+    "geom:bbox":"23.703126,45.965702,23.710757,45.967183",
+    "geom:latitude":45.966378,
+    "geom:longitude":23.707102,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7945.0",
     "gn:asciiname":"Carpen",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.68872,45.94631,23.72872,45.98631",
+    "lbl:latitude":45.96631,
+    "lbl:longitude":23.70872,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Carpen"
@@ -46,6 +48,9 @@
         "Carpen"
     ],
     "name:ron_x_preferred":[
+        "Carpen"
+    ],
+    "name:ron_x_variant":[
         "Comuna Carpen"
     ],
     "name:srp_x_preferred":[
@@ -63,17 +68,25 @@
     "name:zho_x_preferred":[
         "\u5361\u723e\u5f6d\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682671
+        "gn:id":682671,
+        "ro-ancpi:id":7963
     },
     "wof:country":"RO",
-    "wof:geomhash":"c899d55059d0b5554ce9253519f9daf8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3200e2c17005cf25a2f84fcf61886600",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -81,7 +94,7 @@
         }
     ],
     "wof:id":1209629207,
-    "wof:lastmodified":1566610292,
+    "wof:lastmodified":1588366728,
     "wof:name":"Carpen",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -93,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.70872,
-    45.96631,
-    23.70872,
-    45.96631
+    23.703126,
+    45.965702,
+    23.710757,
+    45.967183
 ],
-  "geometry": {"coordinates":[23.70872,45.96631],"type":"Point"}
+  "geometry": {"coordinates":[[[23.710757,45.966299],[23.709406,45.965823],[23.708242,45.965702],[23.706626,45.96571],[23.704851,45.965921],[23.703682,45.965975],[23.703126,45.966484],[23.70379,45.967183],[23.70493,45.966708],[23.706604,45.966686],[23.706609,45.966957],[23.707491,45.967035],[23.707604,45.966749],[23.710511,45.967156],[23.710757,45.966299]]],"type":"Polygon"}
 }

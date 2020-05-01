@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.41534,46.62929,22.41534,46.62929",
-    "geom:latitude":46.62929,
-    "geom:longitude":22.41534,
+    "geom:area":0.000012,
+    "geom:area_square_m":98886.777055,
+    "geom:bbox":"22.412156,46.626338,22.415283,46.631614",
+    "geom:latitude":46.628858,
+    "geom:longitude":22.413623,
     "gn:admin1_code":"05",
     "gn:admin2_code":"29243.0",
     "gn:asciiname":"Tiganestii de Beius",
@@ -28,16 +28,23 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
-        "\u021aig\u0103ne\u0219tii de Beiu\u0219"
+        "\u0162ig\u0103ne\u015ftii de Beiu\u015f"
+    ],
+    "name:ron_x_variant":[
+        "\u021aig\u0103ne\u0219tii de Beiu\u0219",
+        "Tiganestii de Beius"
     ],
     "name:und_x_variant":[
         "Cig\u00e1nyosd",
         "Cziganyesd"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665133
+        "gn:id":665133,
+        "ro-ancpi:id":29332
     },
     "wof:country":"RO",
-    "wof:geomhash":"34795ec18902de91e430063ae999edd5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a53b5178127c34ffe97a84dd786dab5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +70,8 @@
         }
     ],
     "wof:id":1327356293,
-    "wof:lastmodified":1566609819,
-    "wof:name":"Tiganestii de Beius",
+    "wof:lastmodified":1588367143,
+    "wof:name":"\u0162ig\u0103ne\u015ftii de Beiu\u015f",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":374,
@@ -71,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.41534,
-    46.62929000000001,
-    22.41534,
-    46.62929000000001
+    22.412156,
+    46.626338,
+    22.415283,
+    46.631614
 ],
-  "geometry": {"coordinates":[22.41534,46.62929000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[22.414876,46.631137],[22.414767,46.630705],[22.414629,46.630699],[22.414552,46.630464],[22.414619,46.629766],[22.414724,46.629004],[22.414949,46.628339],[22.415094,46.627534],[22.415217,46.626919],[22.415281,46.62674],[22.415283,46.626695],[22.415207,46.626635],[22.414876,46.626583],[22.414459,46.626352],[22.414315,46.626338],[22.414204,46.626453],[22.414049,46.626596],[22.413902,46.626822],[22.413607,46.626722],[22.413447,46.626577],[22.413333,46.626598],[22.413103,46.626651],[22.412858,46.626697],[22.412484,46.626962],[22.412409,46.626986],[22.412283,46.627468],[22.412502,46.627498],[22.412279,46.62898],[22.412156,46.631052],[22.412926,46.631099],[22.413299,46.631116],[22.413921,46.631058],[22.413761,46.631596],[22.414214,46.631614],[22.414269,46.631219],[22.414876,46.631137]]],"type":"Polygon"}
 }

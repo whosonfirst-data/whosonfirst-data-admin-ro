@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.58352,46.07817,22.58352,46.07817",
-    "geom:latitude":46.07817,
-    "geom:longitude":22.58352,
+    "geom:area":0.000003,
+    "geom:area_square_m":26148.046967,
+    "geom:bbox":"22.579603,46.076215,22.583822,46.078008",
+    "geom:latitude":46.077232,
+    "geom:longitude":22.581745,
     "gn:admin1_code":"21",
     "gn:admin2_code":"92177",
     "gn:asciiname":"Braseu",
@@ -29,14 +29,23 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Br\u0103\u015feu"
+    ],
+    "name:ron_x_variant":[
+        "Braseu"
+    ],
     "name:und_x_variant":[
         "Br\u0103\u015feul",
         "Bra\u015fcu",
         "Br\u0103\u015feu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683845
+        "gn:id":683845,
+        "ro-ancpi:id":92211
     },
     "wof:country":"RO",
-    "wof:geomhash":"ac29782e72313c68768db28faeacca16",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"907499eace07ce6735e8dd72eeec8d11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +71,8 @@
         }
     ],
     "wof:id":1292959829,
-    "wof:lastmodified":1566610053,
-    "wof:name":"Braseu",
+    "wof:lastmodified":1588367120,
+    "wof:name":"Br\u0103\u015feu",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":31,
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.58352,
-    46.07817,
-    22.58352,
-    46.07817
+    22.579603,
+    46.076215,
+    22.583822,
+    46.078008
 ],
-  "geometry": {"coordinates":[22.58352,46.07817],"type":"Point"}
+  "geometry": {"coordinates":[[[22.583593,46.077294],[22.583417,46.076961],[22.582549,46.077098],[22.582249,46.077121],[22.581739,46.076933],[22.581184,46.076893],[22.580799,46.076547],[22.58052,46.07652],[22.580481,46.076382],[22.580466,46.076215],[22.580324,46.076233],[22.579654,46.076694],[22.579603,46.076745],[22.58007,46.077004],[22.580343,46.077234],[22.580649,46.077492],[22.580919,46.07756],[22.581551,46.077612],[22.581829,46.077639],[22.582145,46.07784],[22.58252,46.077967],[22.582735,46.078008],[22.583287,46.077802],[22.583822,46.077683],[22.583593,46.077294]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.81667,46.45,22.81667,46.45",
-    "geom:latitude":46.45,
-    "geom:longitude":22.81667,
+    "geom:area":0.000009,
+    "geom:area_square_m":80510.704186,
+    "geom:bbox":"22.792161,46.434688,22.808896,46.439068",
+    "geom:latitude":46.436473,
+    "geom:longitude":22.798849,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -38,6 +38,9 @@
         "Suce\u0219ti"
     ],
     "name:ron_x_preferred":[
+        "Suce\u015fti"
+    ],
+    "name:ron_x_variant":[
         "Suce\u0219ti"
     ],
     "name:srp_x_preferred":[
@@ -66,7 +69,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":15002364,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -83,11 +89,15 @@
         "gn:id":665847,
         "gp:id":15002364,
         "qs_pg:id":1102950,
+        "ro-ancpi:id":4687,
         "wd:id":"Q7420187"
     },
     "wof:country":"RO",
     "wof:created":1497293840,
-    "wof:geomhash":"335fd558916db1100c9320e1db98a759",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"10120b5c30eda19fffc0c9bd2291226c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,8 +107,8 @@
         }
     ],
     "wof:id":1125861313,
-    "wof:lastmodified":1566611307,
-    "wof:name":"Suce\u0219ti",
+    "wof:lastmodified":1588367090,
+    "wof:name":"Suce\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":71,
@@ -109,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.81667,
-    46.45,
-    22.81667,
-    46.45
+    22.792161,
+    46.434688,
+    22.808896,
+    46.439068
 ],
-  "geometry": {"coordinates":[22.81667,46.45],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.795376,46.436586],[22.795882,46.436285],[22.795643,46.435897],[22.794454,46.436392],[22.79339,46.436166],[22.793902,46.434817],[22.793128,46.434688],[22.792256,46.435127],[22.792161,46.436358],[22.793976,46.436714],[22.793725,46.437096],[22.795307,46.437537],[22.79582,46.437096],[22.795376,46.436586]]],[[[22.808674,46.437505],[22.808225,46.437486],[22.807091,46.438086],[22.806752,46.438711],[22.808087,46.439068],[22.808896,46.437955],[22.808674,46.437505]]],[[[22.803499,46.435623],[22.801653,46.435287],[22.801454,46.436153],[22.803312,46.436551],[22.803499,46.435623]]],[[[22.798437,46.435484],[22.797937,46.434863],[22.796494,46.435323],[22.796798,46.435981],[22.798437,46.435484]]]],"type":"MultiPolygon"}
 }

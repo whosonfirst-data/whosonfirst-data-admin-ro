@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.97785,46.35476,27.97785,46.35476",
-    "geom:latitude":46.35476,
-    "geom:longitude":27.97785,
+    "geom:area":0.000016,
+    "geom:area_square_m":135290.600451,
+    "geom:bbox":"27.971987,46.352591,27.977251,46.357044",
+    "geom:latitude":46.354467,
+    "geom:longitude":27.974815,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163903.0",
     "gn:asciiname":"Popeni",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Popeni"
@@ -45,17 +45,24 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0435\u043d\u044c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669922
+        "gn:id":669922,
+        "ro-ancpi:id":163949
     },
     "wof:country":"RO",
-    "wof:geomhash":"7bb9eedfc8d042982fec2f0f31fb0b11",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ff8ddb486c8b0b8df2fc25c667ef9f16",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":1209357545,
-    "wof:lastmodified":1566610351,
+    "wof:lastmodified":1588367034,
     "wof:name":"Popeni",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -75,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.97785,
-    46.35476,
-    27.97785,
-    46.35476
+    27.971987,
+    46.352591,
+    27.977251,
+    46.357044
 ],
-  "geometry": {"coordinates":[27.97785,46.35476],"type":"Point"}
+  "geometry": {"coordinates":[[[27.977192,46.356497],[27.977251,46.355852],[27.977088,46.354991],[27.976857,46.354438],[27.976891,46.353838],[27.976458,46.352591],[27.975508,46.352632],[27.975425,46.352623],[27.975416,46.352623],[27.972375,46.352877],[27.971987,46.353313],[27.972045,46.353644],[27.972221,46.354964],[27.972482,46.355516],[27.973346,46.355494],[27.974333,46.355447],[27.974353,46.356326],[27.976295,46.356208],[27.976412,46.356694],[27.976479,46.357044],[27.977213,46.357],[27.977192,46.356497]]],"type":"Polygon"}
 }

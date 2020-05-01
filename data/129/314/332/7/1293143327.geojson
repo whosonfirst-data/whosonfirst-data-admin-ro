@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.23319,45.90568,27.23319,45.90568",
-    "geom:latitude":45.90568,
-    "geom:longitude":27.23319,
+    "geom:area":0.000022,
+    "geom:area_square_m":192552.55506,
+    "geom:bbox":"27.225397,45.903393,27.235841,45.908685",
+    "geom:latitude":45.905849,
+    "geom:longitude":27.230772,
     "gn:admin1_code":"40",
     "gn:admin2_code":"174922.0",
     "gn:asciiname":"Modruzeni",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.21319,45.88568,27.25319,45.92568",
+    "lbl:latitude":45.90568,
+    "lbl:longitude":27.23319,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Modruzeni"
+    ],
     "name:und_x_variant":[
         "Modruzenii",
         "Modruzeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672970
+        "gn:id":672970,
+        "ro-ancpi:id":174986
     },
     "wof:country":"RO",
-    "wof:geomhash":"6f55da2124e060380d8cf67c8aa86713",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30a76810f74cd813802bca7f2cec23d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1293143327,
-    "wof:lastmodified":1566610083,
+    "wof:lastmodified":1588366684,
     "wof:name":"Modruzeni",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.23319,
-    45.90568,
-    27.23319,
-    45.90568
+    27.225397,
+    45.903393,
+    27.235841,
+    45.908685
 ],
-  "geometry": {"coordinates":[27.23319,45.90568],"type":"Point"}
+  "geometry": {"coordinates":[[[27.230039,45.907396],[27.230703,45.906841],[27.231721,45.907061],[27.231843,45.907099],[27.232315,45.9068],[27.232777,45.906469],[27.233623,45.906115],[27.234301,45.905614],[27.234583,45.905373],[27.235003,45.90508],[27.235266,45.904885],[27.23574,45.904593],[27.235841,45.904325],[27.235377,45.904212],[27.234158,45.903967],[27.233659,45.90387],[27.233649,45.903816],[27.233581,45.903808],[27.233346,45.903761],[27.231365,45.903393],[27.230886,45.903944],[27.230042,45.904517],[27.229474,45.904895],[27.229189,45.904836],[27.22894,45.905311],[27.227192,45.904962],[27.22697,45.90559],[27.22922,45.906067],[27.226639,45.90751],[27.225397,45.908124],[27.228427,45.908685],[27.230039,45.907396]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.68206,46.17569,23.68206,46.17569",
-    "geom:latitude":46.17569,
-    "geom:longitude":23.68206,
+    "geom:area":0.000011,
+    "geom:area_square_m":94843.378927,
+    "geom:bbox":"23.653207,46.174864,23.673596,46.182271",
+    "geom:latitude":46.177344,
+    "geom:longitude":23.658378,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8096.0",
     "gn:asciiname":"Coslariu Nou",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Co\u015flariu Nou"
+    ],
+    "name:ron_x_variant":[
+        "Coslariu Nou"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680629
+        "gn:id":680629,
+        "ro-ancpi:id":8130
     },
     "wof:country":"RO",
-    "wof:geomhash":"9cf61df25b4e198e06b85348afbe0504",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e37c8be49e82ecee10a754576c49a148",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226060495,
-    "wof:lastmodified":1566611697,
-    "wof:name":"Coslariu Nou",
+    "wof:lastmodified":1588367106,
+    "wof:name":"Co\u015flariu Nou",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":95,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.68206,
-    46.17569,
-    23.68206,
-    46.17569
+    23.653207,
+    46.174864,
+    23.673596,
+    46.182271
 ],
-  "geometry": {"coordinates":[23.68206,46.17569],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.661645,46.174941],[23.65754,46.174864],[23.657494,46.176399],[23.661643,46.176459],[23.661645,46.174941]]],[[[23.657523,46.181959],[23.656797,46.18074],[23.654825,46.181085],[23.655466,46.182271],[23.657523,46.181959]]],[[[23.654188,46.176252],[23.654058,46.176033],[23.653311,46.176151],[23.653518,46.177244],[23.653207,46.177266],[23.653316,46.177653],[23.654414,46.177561],[23.654918,46.177476],[23.65484,46.177347],[23.654747,46.177192],[23.654648,46.177025],[23.654513,46.176799],[23.654407,46.17662],[23.654282,46.17641],[23.654188,46.176252]]],[[[23.673596,46.178068],[23.673495,46.177669],[23.672468,46.177798],[23.672544,46.178159],[23.673596,46.178068]]]],"type":"MultiPolygon"}
 }

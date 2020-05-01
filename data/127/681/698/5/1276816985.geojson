@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.50269,45.95582,24.50269,45.95582",
-    "geom:latitude":45.95582,
-    "geom:longitude":24.50269,
+    "geom:area":0.000038,
+    "geom:area_square_m":322840.941379,
+    "geom:bbox":"24.494509,45.950754,24.507637,45.960507",
+    "geom:latitude":45.955174,
+    "geom:longitude":24.500953,
     "gn:admin1_code":"33",
     "gn:admin2_code":"143888",
     "gn:asciiname":"Benesti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bene\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Benesti"
+    ],
     "name:und_x_variant":[
         "Bendorf",
         "Bene\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685108
+        "gn:id":685108,
+        "ro-ancpi:id":143904
     },
     "wof:country":"RO",
-    "wof:geomhash":"23601b7ac0c73216bdb5fc182cf7555e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cf787c92441470df1dffc010191e9d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1276816985,
-    "wof:lastmodified":1566610168,
-    "wof:name":"Benesti",
+    "wof:lastmodified":1588367107,
+    "wof:name":"Bene\u015fti",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":292,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.50269,
-    45.95582,
-    24.50269,
-    45.95582
+    24.494509,
+    45.950754,
+    24.507637,
+    45.960507
 ],
-  "geometry": {"coordinates":[24.50269,45.95582],"type":"Point"}
+  "geometry": {"coordinates":[[[24.507637,45.952884],[24.506443,45.950754],[24.500104,45.953214],[24.494509,45.959249],[24.495318,45.960507],[24.501543,45.956565],[24.501108,45.955925],[24.507637,45.952884]]],"type":"Polygon"}
 }

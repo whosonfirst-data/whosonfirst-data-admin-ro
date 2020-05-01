@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.39284,47.658,22.39284,47.658",
-    "geom:latitude":47.658,
-    "geom:longitude":22.39284,
+    "geom:area":0.000051,
+    "geom:area_square_m":428570.487413,
+    "geom:bbox":"22.385076,47.654572,22.395793,47.662227",
+    "geom:latitude":47.658437,
+    "geom:longitude":22.390313,
     "gn:admin1_code":"32",
     "gn:admin2_code":"138663.0",
     "gn:asciiname":"Marna Noua",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.37284,47.638,22.41284,47.678",
+    "lbl:latitude":47.658,
+    "lbl:longitude":22.39284,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Marna Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Marna Noua"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673755
+        "gn:id":673755,
+        "ro-ancpi:id":138716
     },
     "wof:country":"RO",
-    "wof:geomhash":"3c628d17b3711f15976e897873f16547",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4019e49a8aa5b321d937408ef3a9d0cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1259925737,
-    "wof:lastmodified":1566611576,
-    "wof:name":"Marna Noua",
+    "wof:lastmodified":1588366857,
+    "wof:name":"Marna Nou\u0103",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":339,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.39284,
-    47.658,
-    22.39284,
-    47.658
+    22.385076,
+    47.654572,
+    22.395793,
+    47.662227
 ],
-  "geometry": {"coordinates":[22.39284,47.658],"type":"Point"}
+  "geometry": {"coordinates":[[[22.388586,47.661828],[22.391064,47.661014],[22.391548,47.66166],[22.394976,47.660497],[22.395094,47.660447],[22.394776,47.659984],[22.39453,47.659758],[22.394368,47.659811],[22.393845,47.659011],[22.395513,47.658496],[22.394848,47.657452],[22.395793,47.657154],[22.395273,47.656281],[22.394941,47.656254],[22.394846,47.656097],[22.394188,47.65629],[22.393825,47.655696],[22.391971,47.656258],[22.390715,47.654572],[22.386767,47.655846],[22.385882,47.656146],[22.386525,47.657024],[22.386199,47.657119],[22.386359,47.657352],[22.385519,47.657649],[22.386847,47.659534],[22.385076,47.660206],[22.386044,47.660776],[22.38577,47.660977],[22.386528,47.661462],[22.386956,47.661424],[22.388558,47.662175],[22.388671,47.662227],[22.388907,47.662051],[22.388586,47.661828]]],"type":"Polygon"}
 }

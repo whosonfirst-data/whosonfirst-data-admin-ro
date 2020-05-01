@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.41555,45.09704,22.41555,45.09704",
-    "geom:latitude":45.09704,
-    "geom:longitude":22.41555,
+    "geom:area":0.000005,
+    "geom:area_square_m":41617.248287,
+    "geom:bbox":"22.411013,45.095962,22.415718,45.097903",
+    "geom:latitude":45.096837,
+    "geom:longitude":22.413535,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Pogara de Sus",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pogara de Sus"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670169
+        "gn:id":670169,
+        "ro-ancpi:id":52400
     },
     "wof:country":"RO",
-    "wof:geomhash":"3c798e88091755c86b7e43bb048e5aef",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"59a014f7fef83f58f0ad4ef031b5d42b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1242851581,
-    "wof:lastmodified":1566611507,
+    "wof:lastmodified":1588367030,
     "wof:name":"Pogara de Sus",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.41555,
-    45.09704,
-    22.41555,
-    45.09704
+    22.411013,
+    45.095962,
+    22.415718,
+    45.097903
 ],
-  "geometry": {"coordinates":[22.41555,45.09704],"type":"Point"}
+  "geometry": {"coordinates":[[[22.415479,45.096925],[22.415339,45.096579],[22.415391,45.096279],[22.415378,45.096155],[22.415362,45.096015],[22.415362,45.09597],[22.415286,45.095962],[22.414012,45.096371],[22.413307,45.096259],[22.412035,45.096252],[22.411045,45.09644],[22.411024,45.096499],[22.411013,45.096578],[22.411043,45.096654],[22.411182,45.096785],[22.411208,45.096884],[22.411162,45.097033],[22.41106,45.097306],[22.412749,45.097295],[22.413833,45.096862],[22.414787,45.097903],[22.41565,45.097636],[22.415718,45.097612],[22.415617,45.097444],[22.415539,45.097271],[22.415498,45.097129],[22.415479,45.096925]]],"type":"Polygon"}
 }

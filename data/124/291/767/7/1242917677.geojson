@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.84547,45.77581,21.84547,45.77581",
-    "geom:latitude":45.77581,
-    "geom:longitude":21.84547,
+    "geom:area":0.000057,
+    "geom:area_square_m":493914.084572,
+    "geom:bbox":"21.837428,45.77177,21.854091,45.779394",
+    "geom:latitude":45.775395,
+    "geom:longitude":21.844712,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156473.0",
     "gn:asciiname":"Paru",
@@ -26,15 +26,23 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.82547,45.75581,21.86547,45.79581",
+    "lbl:latitude":45.77581,
+    "lbl:longitude":21.84547,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Paru"
     ],
     "name:fra_x_preferred":[
+        "Paru"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103ru"
+    ],
+    "name:ron_x_variant":[
         "Paru"
     ],
     "name:scn_x_preferred":[
@@ -44,7 +52,11 @@
         "P\u0103rul",
         "P\u0103ru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -53,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671313
+        "gn:id":671313,
+        "ro-ancpi:id":156507
     },
     "wof:country":"RO",
-    "wof:geomhash":"b3ddc927643dee4a0e22cc5a5673cfe8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"204ad3459f34aa94ef7ee99c69366217",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,8 +82,8 @@
         }
     ],
     "wof:id":1242917677,
-    "wof:lastmodified":1566611511,
-    "wof:name":"Paru",
+    "wof:lastmodified":1588366840,
+    "wof:name":"P\u0103ru",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":285,
@@ -78,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.84547,
-    45.77581,
-    21.84547,
-    45.77581
+    21.837428,
+    45.77177,
+    21.854091,
+    45.779394
 ],
-  "geometry": {"coordinates":[21.84547,45.77581],"type":"Point"}
+  "geometry": {"coordinates":[[[21.849087,45.77799],[21.850136,45.775786],[21.851383,45.77595],[21.854091,45.774104],[21.853258,45.773623],[21.851607,45.774419],[21.849181,45.773974],[21.848346,45.774622],[21.843651,45.773623],[21.843945,45.772848],[21.841273,45.77177],[21.840998,45.772127],[21.838337,45.771879],[21.837428,45.773751],[21.839926,45.774339],[21.838699,45.77673],[21.840105,45.77698],[21.844687,45.777942],[21.845541,45.778117],[21.845409,45.778444],[21.845962,45.778554],[21.846776,45.778766],[21.847375,45.778936],[21.847297,45.779096],[21.848978,45.779394],[21.849087,45.77799]]],"type":"Polygon"}
 }

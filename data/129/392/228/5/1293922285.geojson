@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.12083,46.63757,28.12083,46.63757",
-    "geom:latitude":46.63757,
-    "geom:longitude":28.12083,
+    "geom:area":0.000042,
+    "geom:area_square_m":360455.015963,
+    "geom:bbox":"28.115169,46.633319,28.123119,46.642075",
+    "geom:latitude":46.637512,
+    "geom:longitude":28.118984,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165979",
     "gn:asciiname":"Bogdana-Voloseni",
@@ -26,17 +26,26 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.10083,46.61757,28.14083,46.65757",
+    "lbl:latitude":46.63757,
+    "lbl:longitude":28.12083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bogdana-Voloseni"
+    ],
     "name:und_x_variant":[
         "Voloseni Bogdana",
         "Bogdan-Volo\u015feni",
         "Bogdana Voloseni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684407
+        "gn:id":684407,
+        "ro-ancpi:id":165997
     },
     "wof:country":"RO",
-    "wof:geomhash":"c625edbe18cc740cdabae8d3bf5fa8e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bff98507ce4934e1cd078cb7c234f465",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1293922285,
-    "wof:lastmodified":1566610087,
+    "wof:lastmodified":1588366685,
     "wof:name":"Bogdana-Voloseni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.12083,
-    46.63757,
-    28.12083,
-    46.63757
+    28.115169,
+    46.633319,
+    28.123119,
+    46.642075
 ],
-  "geometry": {"coordinates":[28.12083,46.63757],"type":"Point"}
+  "geometry": {"coordinates":[[[28.120901,46.640691],[28.122731,46.638318],[28.123119,46.636773],[28.123114,46.635798],[28.118776,46.634751],[28.118952,46.634363],[28.118109,46.634088],[28.118215,46.633855],[28.118291,46.633674],[28.116536,46.633319],[28.11617,46.634173],[28.115819,46.634131],[28.115169,46.635303],[28.1156,46.636246],[28.115175,46.637138],[28.116011,46.637366],[28.115369,46.638385],[28.116355,46.638719],[28.115994,46.639426],[28.116366,46.639662],[28.116882,46.639466],[28.117782,46.639702],[28.118045,46.639801],[28.117681,46.640194],[28.117446,46.640544],[28.118323,46.640599],[28.118054,46.640962],[28.11783,46.641349],[28.117721,46.641519],[28.119892,46.642075],[28.120901,46.640691]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.13082,47.92005,27.13082,47.92005",
-    "geom:latitude":47.92005,
-    "geom:longitude":27.13082,
+    "geom:area":0.000035,
+    "geom:area_square_m":291511.989561,
+    "geom:bbox":"27.141877,47.897114,27.154753,47.903563",
+    "geom:latitude":47.90011,
+    "geom:longitude":27.148134,
     "gn:admin1_code":"07",
     "gn:admin2_code":"38731.0",
     "gn:asciiname":"Movila Rupta",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Movila Rupt\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Movila Rupta"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672741
+        "gn:id":672741,
+        "ro-ancpi:id":38777
     },
     "wof:country":"RO",
-    "wof:geomhash":"bd6d00fd0989eecba8946dad19c3ca41",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0d34a572d26166db1be843c4c467aa7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +64,8 @@
         }
     ],
     "wof:id":1310693241,
-    "wof:lastmodified":1566610602,
-    "wof:name":"Movila Rupta",
+    "wof:lastmodified":1588366653,
+    "wof:name":"Movila Rupt\u0103",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.13082,
-    47.92005,
-    27.13082,
-    47.92005
+    27.141877,
+    47.897114,
+    27.154753,
+    47.903563
 ],
-  "geometry": {"coordinates":[27.13082,47.92005],"type":"Point"}
+  "geometry": {"coordinates":[[[27.154753,47.898244],[27.153349,47.897114],[27.152564,47.897377],[27.15221,47.897488],[27.151424,47.897762],[27.150777,47.897941],[27.149275,47.898341],[27.149017,47.898405],[27.14862,47.898483],[27.148209,47.898572],[27.14772,47.898668],[27.147227,47.898773],[27.146506,47.898912],[27.146084,47.898973],[27.145797,47.89901],[27.145556,47.89905],[27.145185,47.899092],[27.144684,47.899145],[27.144048,47.8992],[27.14334,47.899254],[27.142236,47.899327],[27.141877,47.899946],[27.146889,47.903563],[27.150824,47.900739],[27.154753,47.898244]]],"type":"Polygon"}
 }

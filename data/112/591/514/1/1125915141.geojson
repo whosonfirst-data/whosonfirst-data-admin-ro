@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.48333,45.0,22.48333,45.0",
-    "geom:latitude":45.0,
-    "geom:longitude":22.48333,
+    "geom:area":0.000004,
+    "geom:area_square_m":37235.187112,
+    "geom:bbox":"22.46573,45.005328,22.469188,45.006976",
+    "geom:latitude":45.006228,
+    "geom:longitude":22.467485,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -66,7 +66,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":871393,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -83,11 +86,15 @@
         "gn:id":679261,
         "gp:id":871393,
         "qs_pg:id":1035982,
+        "ro-ancpi:id":52286,
         "wd:id":"Q620309"
     },
     "wof:country":"RO",
     "wof:created":1497296292,
-    "wof:geomhash":"b4015703749f5648e0e70ffc9e3611f9",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"b0ce816248bd498b4d0c4ad9e6197fff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +104,7 @@
         }
     ],
     "wof:id":1125915141,
-    "wof:lastmodified":1566611360,
+    "wof:lastmodified":1588367031,
     "wof:name":"Dobraia",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -109,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.48333,
-    45.0,
-    22.48333,
-    45.0
+    22.46573,
+    45.005328,
+    22.469188,
+    45.006976
 ],
-  "geometry": {"coordinates":[22.48333,45.0],"type":"Point"}
+  "geometry": {"coordinates":[[[22.46913,45.006776],[22.469188,45.00561],[22.467972,45.005641],[22.467416,45.005328],[22.46709,45.005336],[22.46573,45.006145],[22.465867,45.006976],[22.46913,45.006776]]],"type":"Polygon"}
 }

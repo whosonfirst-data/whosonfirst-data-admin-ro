@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.78544,46.39906,22.78544,46.39906",
-    "geom:latitude":46.39906,
-    "geom:longitude":22.78544,
+    "geom:area":0.000019,
+    "geom:area_square_m":158742.754139,
+    "geom:bbox":"22.783351,46.400774,22.793486,46.406107",
+    "geom:latitude":46.403707,
+    "geom:longitude":22.787946,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Calugaresti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u0103lug\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Calugaresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682893
+        "gn:id":682893,
+        "ro-ancpi:id":2639
     },
     "wof:country":"RO",
-    "wof:geomhash":"edf5603bb88d57fa152e25dc3cfc6b7f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b819a1bbb1eee380173d3c5bc5a93dee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1243077199,
-    "wof:lastmodified":1566611420,
-    "wof:name":"Calugaresti",
+    "wof:lastmodified":1588367123,
+    "wof:name":"C\u0103lug\u0103re\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":113,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.78544,
-    46.39906,
-    22.78544,
-    46.39906
+    22.783351,
+    46.400774,
+    22.793486,
+    46.406107
 ],
-  "geometry": {"coordinates":[22.78544,46.39906],"type":"Point"}
+  "geometry": {"coordinates":[[[22.793486,46.405546],[22.792438,46.40459],[22.789706,46.404708],[22.788293,46.402101],[22.787155,46.401852],[22.78562,46.400774],[22.783351,46.401609],[22.784101,46.402346],[22.785028,46.402222],[22.786815,46.405519],[22.788308,46.405232],[22.790244,46.406107],[22.793486,46.405546]]],"type":"Polygon"}
 }

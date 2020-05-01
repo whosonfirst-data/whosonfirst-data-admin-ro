@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.20716,44.58536,26.20716,44.58536",
-    "geom:latitude":44.58536,
-    "geom:longitude":26.20716,
+    "geom:area":0.000023,
+    "geom:area_square_m":200072.739818,
+    "geom:bbox":"26.200239,44.582557,26.209182,44.587525",
+    "geom:latitude":44.585117,
+    "geom:longitude":26.204979,
     "gn:admin1_code":"43",
     "gn:admin2_code":"102473.0",
     "gn:asciiname":"Runcu",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.18716,44.56536,26.22716,44.60536",
+    "lbl:latitude":44.58536,
+    "lbl:longitude":26.20716,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Runcu"
@@ -58,7 +60,11 @@
     "name:vol_x_preferred":[
         "Runcu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668470
+        "gn:id":668470,
+        "ro-ancpi:id":102516
     },
     "wof:country":"RO",
-    "wof:geomhash":"537d2d79810a8e9a48dd22dc9f8d70ff",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1ae363db6ea899138e67506fb4567c35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1343988359,
-    "wof:lastmodified":1566609885,
+    "wof:lastmodified":1588366648,
     "wof:name":"Runcu",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",
@@ -92,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.20716,
-    44.58536,
-    26.20716,
-    44.58536
+    26.200239,
+    44.582557,
+    26.209182,
+    44.587525
 ],
-  "geometry": {"coordinates":[26.20716,44.58536],"type":"Point"}
+  "geometry": {"coordinates":[[[26.205511,44.587525],[26.20658,44.586155],[26.208345,44.5846],[26.209182,44.583252],[26.203723,44.582557],[26.202907,44.58649],[26.200387,44.585936],[26.200239,44.587196],[26.205511,44.587525]]],"type":"Polygon"}
 }

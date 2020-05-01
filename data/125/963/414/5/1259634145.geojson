@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.55911,44.4063,24.55911,44.4063",
-    "geom:latitude":44.4063,
-    "geom:longitude":24.55911,
+    "geom:area":0.00009,
+    "geom:area_square_m":797657.917166,
+    "geom:bbox":"24.545894,44.389952,24.562122,44.402226",
+    "geom:latitude":44.3958,
+    "geom:longitude":24.553863,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128052.0",
     "gn:asciiname":"Mierlestii de Sus",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mierle\u015ftii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Mierlestii de Sus"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673428
+        "gn:id":673428,
+        "ro-ancpi:id":128098
     },
     "wof:country":"RO",
-    "wof:geomhash":"abec1dff815204242921c615a30aace0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bd5112d357a99b6e42a5fc4ed195991e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1259634145,
-    "wof:lastmodified":1566611546,
-    "wof:name":"Mierlestii de Sus",
+    "wof:lastmodified":1588366881,
+    "wof:name":"Mierle\u015ftii de Sus",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":715,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.55911,
-    44.4063,
-    24.55911,
-    44.4063
+    24.545894,
+    44.389952,
+    24.562122,
+    44.402226
 ],
-  "geometry": {"coordinates":[24.55911,44.4063],"type":"Point"}
+  "geometry": {"coordinates":[[[24.560441,44.402148],[24.560443,44.402132],[24.560978,44.401704],[24.561622,44.401703],[24.562122,44.401444],[24.56191,44.398256],[24.557405,44.397133],[24.55694,44.395653],[24.555782,44.393601],[24.556491,44.392149],[24.552158,44.390449],[24.550573,44.390717],[24.548743,44.39044],[24.548383,44.39036],[24.548386,44.390129],[24.54607,44.389952],[24.545894,44.390867],[24.547226,44.391034],[24.546255,44.394948],[24.549722,44.395606],[24.549393,44.396575],[24.551188,44.396854],[24.550937,44.398493],[24.551471,44.398455],[24.552563,44.398812],[24.554472,44.39889],[24.555166,44.398188],[24.555582,44.398854],[24.555926,44.39967],[24.556027,44.400157],[24.557007,44.400533],[24.557188,44.400715],[24.556889,44.401091],[24.556309,44.401434],[24.555608,44.401448],[24.555546,44.402226],[24.555576,44.402222],[24.558134,44.401802],[24.560441,44.402148]]],"type":"Polygon"}
 }

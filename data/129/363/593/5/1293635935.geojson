@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.87653,44.84717,25.87653,44.84717",
-    "geom:latitude":44.84717,
-    "geom:longitude":25.87653,
+    "geom:area":0.000068,
+    "geom:area_square_m":596893.786879,
+    "geom:bbox":"25.865413,44.842622,25.880544,44.852049",
+    "geom:latitude":44.846942,
+    "geom:longitude":25.872462,
     "gn:admin1_code":"30",
     "gn:admin2_code":"136241.0",
     "gn:asciiname":"Cocorastii Grind",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.85653,44.82717,25.89653,44.86717",
+    "lbl:latitude":44.84717,
+    "lbl:longitude":25.87653,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cocor\u0103\u015ftii Grind"
+    ],
+    "name:ron_x_variant":[
+        "Cocorastii Grind"
+    ],
     "name:und_x_variant":[
         "Grindu",
         "Cocorastii-Grind",
         "Cocor\u0103\u015fti-Grind"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681203
+        "gn:id":681203,
+        "ro-ancpi:id":134256
     },
     "wof:country":"RO",
-    "wof:geomhash":"d25c62c5fd21666094327c492c1cc37e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9811bed85ab26dd3bb8ca1626ff07029",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1293635935,
-    "wof:lastmodified":1566610046,
-    "wof:name":"Cocorastii Grind",
+    "wof:lastmodified":1588366676,
+    "wof:name":"Cocor\u0103\u015ftii Grind",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":847,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.87653,
-    44.84717,
-    25.87653,
-    44.84717
+    25.865413,
+    44.842622,
+    25.880544,
+    44.852049
 ],
-  "geometry": {"coordinates":[25.87653,44.84717],"type":"Point"}
+  "geometry": {"coordinates":[[[25.878388,44.844793],[25.874734,44.843413],[25.870966,44.842622],[25.870051,44.843905],[25.869763,44.843839],[25.868966,44.844674],[25.867486,44.845368],[25.866452,44.845959],[25.866473,44.846692],[25.867374,44.846881],[25.865413,44.848868],[25.86722,44.849801],[25.869098,44.847991],[25.870814,44.848686],[25.869868,44.850595],[25.873515,44.852049],[25.874031,44.85034],[25.875147,44.850458],[25.876576,44.847912],[25.877328,44.847991],[25.877394,44.847303],[25.878845,44.847113],[25.87979,44.847705],[25.880544,44.847006],[25.8798,44.846609],[25.878097,44.846814],[25.877321,44.846544],[25.878388,44.844793]]],"type":"Polygon"}
 }

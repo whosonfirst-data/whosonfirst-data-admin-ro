@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.37124,45.04866,24.37124,45.04866",
-    "geom:latitude":45.04866,
-    "geom:longitude":24.37124,
+    "geom:area":0.000077,
+    "geom:area_square_m":673917.625227,
+    "geom:bbox":"24.351257,45.038676,24.371929,45.051134",
+    "geom:latitude":45.044584,
+    "geom:longitude":24.362617,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168791",
     "gn:asciiname":"Barza",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.35124,45.02866,24.39124,45.06866",
+    "lbl:latitude":45.04866,
+    "lbl:longitude":24.37124,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Barza"
@@ -57,7 +59,11 @@
     "name:vie_x_preferred":[
         "Barza"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,10 +72,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685316
+        "gn:id":685316,
+        "ro-ancpi:id":168817
     },
     "wof:country":"RO",
-    "wof:geomhash":"0bdef5249d1d4c0edd72268bc0b764f7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ee79d0e741a38e7e2a126a43900f1117",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +89,7 @@
         }
     ],
     "wof:id":1292934583,
-    "wof:lastmodified":1566610056,
+    "wof:lastmodified":1588366678,
     "wof:name":"Barza",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -91,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.37124,
-    45.04866,
-    24.37124,
-    45.04866
+    24.351257,
+    45.038676,
+    24.371929,
+    45.051134
 ],
-  "geometry": {"coordinates":[24.37124,45.04866],"type":"Point"}
+  "geometry": {"coordinates":[[[24.371929,45.048379],[24.369613,45.046901],[24.367837,45.044047],[24.36538,45.042733],[24.36378,45.043233],[24.35724,45.04118],[24.361988,45.039568],[24.360829,45.038676],[24.355097,45.040358],[24.351257,45.039205],[24.351473,45.041241],[24.351794,45.04158],[24.352549,45.042378],[24.357295,45.043328],[24.362121,45.044316],[24.360519,45.044985],[24.362679,45.046637],[24.365339,45.048875],[24.369826,45.051134],[24.371659,45.049268],[24.371929,45.048379]]],"type":"Polygon"}
 }

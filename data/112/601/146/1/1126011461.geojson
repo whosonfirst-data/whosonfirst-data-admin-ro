@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.33333,46.23333,22.33333,46.23333",
-    "geom:latitude":46.23333,
-    "geom:longitude":22.33333,
+    "geom:area":0.000027,
+    "geom:area_square_m":233247.011826,
+    "geom:bbox":"22.331581,46.237907,22.3388,46.246787",
+    "geom:latitude":46.242249,
+    "geom:longitude":22.335464,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1397,
@@ -98,7 +98,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":868079,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -115,11 +118,15 @@
         "gn:id":683769,
         "gp:id":868079,
         "qs_pg:id":127931,
+        "ro-ancpi:id":10248,
         "wd:id":"Q1047450"
     },
     "wof:country":"RO",
     "wof:created":1497300298,
-    "wof:geomhash":"90e12cf3de84c2f97e356a00098ef717",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"a8546071f311a061e7de9c31452fc054",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":1126011461,
-    "wof:lastmodified":1566611376,
+    "wof:lastmodified":1588367110,
     "wof:name":"Brazii",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
@@ -141,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.33333,
-    46.23333,
-    22.33333,
-    46.23333
+    22.331581,
+    46.237907,
+    22.3388,
+    46.246787
 ],
-  "geometry": {"coordinates":[22.33333,46.23333],"type":"Point"}
+  "geometry": {"coordinates":[[[22.337297,46.246787],[22.3388,46.246364],[22.337727,46.244513],[22.338706,46.244209],[22.337361,46.241746],[22.335851,46.239841],[22.335589,46.239498],[22.33489,46.239736],[22.333803,46.237907],[22.333459,46.238004],[22.333343,46.23804],[22.333004,46.23814],[22.332776,46.2382],[22.332638,46.237969],[22.332134,46.238057],[22.331581,46.238637],[22.332166,46.239682],[22.334393,46.243216],[22.336443,46.246567],[22.337067,46.246453],[22.337297,46.246787]]],"type":"Polygon"}
 }

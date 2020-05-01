@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2187,45.92869,24.2187,45.92869",
-    "geom:latitude":45.92869,
-    "geom:longitude":24.2187,
+    "geom:area":0.000366,
+    "geom:area_square_m":3151299.178832,
+    "geom:bbox":"24.193178,45.919903,24.233814,45.939148",
+    "geom:latitude":45.928731,
+    "geom:longitude":24.213931,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145603",
     "gn:asciiname":"Padureni",
@@ -25,15 +25,27 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.1987,45.90869,24.2387,45.94869",
+    "lbl:latitude":45.92869,
+    "lbl:longitude":24.2187,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Erdeih\u00e1zak"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ron_x_variant":[
+        "Padureni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11002473
+        "gn:id":11002473,
+        "ro-ancpi:id":145630
     },
     "wof:country":"RO",
-    "wof:geomhash":"b53cdeff316d84dda1526685cb243000",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"348efdaa410a865577dec6015860ef7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +71,8 @@
         }
     ],
     "wof:id":1360125979,
-    "wof:lastmodified":1566610613,
-    "wof:name":"Padureni",
+    "wof:lastmodified":1588366792,
+    "wof:name":"P\u0103dureni",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":3,
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2187,
-    45.92869,
-    24.2187,
-    45.92869
+    24.193178,
+    45.919903,
+    24.233814,
+    45.939148
 ],
-  "geometry": {"coordinates":[24.2187,45.92869],"type":"Point"}
+  "geometry": {"coordinates":[[[24.233472,45.934164],[24.233814,45.931294],[24.224074,45.932392],[24.223708,45.925902],[24.219247,45.921411],[24.193955,45.919903],[24.193178,45.921983],[24.201985,45.924217],[24.201057,45.931017],[24.213436,45.933275],[24.213027,45.938688],[24.216715,45.939148],[24.222372,45.938346],[24.226852,45.935596],[24.233472,45.934164]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.82303,44.77391,23.82303,44.77391",
-    "geom:latitude":44.77391,
-    "geom:longitude":23.82303,
+    "geom:area":0.000013,
+    "geom:area_square_m":112008.978548,
+    "geom:bbox":"23.817758,44.771175,23.824636,44.779791",
+    "geom:latitude":44.774489,
+    "geom:longitude":23.821176,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174290.0",
     "gn:asciiname":"Dealu Glameia",
@@ -28,19 +28,32 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dealu Gl\u0103meia"
+    ],
+    "name:ron_x_variant":[
+        "Dealu Glameia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679637
+        "gn:id":679637,
+        "ro-ancpi:id":174343
     },
     "wof:country":"RO",
-    "wof:geomhash":"fc9ad4b49d0e69ee44b93f9b3a04c8bc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a1d2f9292faeea7f2d700baebbf22723",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +61,8 @@
         }
     ],
     "wof:id":1209449479,
-    "wof:lastmodified":1566610396,
-    "wof:name":"Dealu Glameia",
+    "wof:lastmodified":1588367024,
+    "wof:name":"Dealu Gl\u0103meia",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":53,
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.82303,
-    44.77391,
-    23.82303,
-    44.77391
+    23.817758,
+    44.771175,
+    23.824636,
+    44.779791
 ],
-  "geometry": {"coordinates":[23.82303,44.77391],"type":"Point"}
+  "geometry": {"coordinates":[[[23.824636,44.771623],[23.822277,44.771175],[23.822341,44.771687],[23.822317,44.772246],[23.821929,44.772636],[23.821307,44.772623],[23.82089,44.773113],[23.820375,44.773329],[23.81961,44.774211],[23.81924,44.775122],[23.819368,44.775476],[23.819478,44.776332],[23.819658,44.777306],[23.819181,44.77831],[23.818646,44.779084],[23.817758,44.779718],[23.818802,44.779791],[23.819738,44.778158],[23.82032,44.77701],[23.820662,44.775977],[23.821395,44.775274],[23.822145,44.774221],[23.822533,44.773583],[23.823179,44.773264],[23.82366,44.77278],[23.824472,44.771826],[23.824636,44.771623]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.94118,44.84105,25.94118,44.84105",
-    "geom:latitude":44.84105,
-    "geom:longitude":25.94118,
+    "geom:area":0.000025,
+    "geom:area_square_m":221016.737143,
+    "geom:bbox":"25.933387,44.837502,25.944599,44.843275",
+    "geom:latitude":44.840424,
+    "geom:longitude":25.938603,
     "gn:admin1_code":"30",
     "gn:admin2_code":"136241.0",
     "gn:asciiname":"Piatra",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.92118,44.82105,25.96118,44.86105",
+    "lbl:latitude":44.84105,
+    "lbl:longitude":25.94118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Piatra"
@@ -54,7 +56,11 @@
     "name:vie_x_preferred":[
         "Piatra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,10 +69,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670920
+        "gn:id":670920,
+        "ro-ancpi:id":134309
     },
     "wof:country":"RO",
-    "wof:geomhash":"5284762b2450a5d8b969ce273a87d7ec",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4604cce142370213cdb6c5859a219395",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +86,7 @@
         }
     ],
     "wof:id":1225894579,
-    "wof:lastmodified":1566611657,
+    "wof:lastmodified":1588366877,
     "wof:name":"Piatra",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
@@ -88,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.94118,
-    44.84105,
-    25.94118,
-    44.84105
+    25.933387,
+    44.837502,
+    25.944599,
+    44.843275
 ],
-  "geometry": {"coordinates":[25.94118,44.84105],"type":"Point"}
+  "geometry": {"coordinates":[[[25.938919,44.842287],[25.938789,44.841676],[25.941257,44.841271],[25.941343,44.840525],[25.942203,44.840183],[25.942664,44.83938],[25.944599,44.839186],[25.944054,44.837962],[25.94293,44.838356],[25.941633,44.838755],[25.940826,44.839117],[25.94028,44.838669],[25.939113,44.837502],[25.937448,44.837865],[25.938672,44.839893],[25.937271,44.840081],[25.933387,44.841103],[25.933625,44.842628],[25.935585,44.84218],[25.935586,44.843275],[25.937802,44.84255],[25.938919,44.842287]]],"type":"Polygon"}
 }

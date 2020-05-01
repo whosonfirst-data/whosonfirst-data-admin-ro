@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.25877,46.63686,24.25877,46.63686",
-    "geom:latitude":46.63686,
-    "geom:longitude":24.25877,
+    "geom:area":0.000007,
+    "geom:area_square_m":58269.696713,
+    "geom:bbox":"24.255777,46.634642,24.258347,46.638745",
+    "geom:latitude":46.636796,
+    "geom:longitude":24.256831,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118824",
     "gn:asciiname":"Bologaia",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bologaia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684263
+        "gn:id":684263,
+        "ro-ancpi:id":118842
     },
     "wof:country":"RO",
-    "wof:geomhash":"2cf5c5ca7b8a6be0bc640fcb8099c50b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9d197fdb78d830c796156ba992aaf3a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1259550165,
-    "wof:lastmodified":1566611551,
+    "wof:lastmodified":1588367064,
     "wof:name":"Bologaia",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.25877,
-    46.63686,
-    24.25877,
-    46.63686
+    24.255777,
+    46.634642,
+    24.258347,
+    46.638745
 ],
-  "geometry": {"coordinates":[24.25877,46.63686],"type":"Point"}
+  "geometry": {"coordinates":[[[24.258274,46.635319],[24.257575,46.634642],[24.255819,46.635607],[24.255777,46.638745],[24.257022,46.638687],[24.258347,46.636981],[24.257107,46.636683],[24.257226,46.636341],[24.258274,46.635319]]],"type":"Polygon"}
 }

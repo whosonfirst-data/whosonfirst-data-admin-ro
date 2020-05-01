@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41367,45.35158,24.41367,45.35158",
-    "geom:latitude":45.35158,
-    "geom:longitude":24.41367,
+    "geom:area":0.000009,
+    "geom:area_square_m":81606.930691,
+    "geom:bbox":"24.408445,45.347256,24.41308,45.350879",
+    "geom:latitude":45.349206,
+    "geom:longitude":24.411091,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172153.0",
     "gn:asciiname":"Surdoiu",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Surdoiu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665734
+        "gn:id":665734,
+        "ro-ancpi:id":172251
     },
     "wof:country":"RO",
-    "wof:geomhash":"478eb256cc844d04fcd8d89c1b70273a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0d7ed0f384e2a361e98849cb060c28c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1276479559,
-    "wof:lastmodified":1566610230,
+    "wof:lastmodified":1588367152,
     "wof:name":"Surdoiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41367,
-    45.35158,
-    24.41367,
-    45.35158
+    24.408445,
+    45.347256,
+    24.41308,
+    45.350879
 ],
-  "geometry": {"coordinates":[24.41367,45.35158],"type":"Point"}
+  "geometry": {"coordinates":[[[24.41308,45.350202],[24.412371,45.347273],[24.411176,45.347256],[24.411028,45.348742],[24.410672,45.348903],[24.409736,45.348195],[24.408445,45.348926],[24.410342,45.350879],[24.41308,45.350202]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.50562,44.73705,25.50562,44.73705",
-    "geom:latitude":44.73705,
-    "geom:longitude":25.50562,
+    "geom:area":0.000014,
+    "geom:area_square_m":126919.084339,
+    "geom:bbox":"25.499282,44.733918,25.506236,44.738566",
+    "geom:latitude":44.736471,
+    "geom:longitude":25.502663,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68789.0",
     "gn:asciiname":"Catunu",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.48562,44.71705,25.52562,44.75705",
+    "lbl:latitude":44.73705,
+    "lbl:longitude":25.50562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u0103tunu"
+    ],
+    "name:ron_x_variant":[
+        "Catunu"
+    ],
     "name:und_x_variant":[
         "C\u00e2rciuma lui Vi\u015fan",
         "C\u00eerciuma lui Vi\u015fan",
         "C\u0103tunu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682534
+        "gn:id":682534,
+        "ro-ancpi:id":68805
     },
     "wof:country":"RO",
-    "wof:geomhash":"e109b9f41a7a97d7ed09afa68422e5cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"78a985a76a9067121d69ef2a26792ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1225916687,
-    "wof:lastmodified":1566611664,
-    "wof:name":"Catunu",
+    "wof:lastmodified":1588366879,
+    "wof:name":"C\u0103tunu",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":180,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.50562,
-    44.73705,
-    25.50562,
-    44.73705
+    25.499282,
+    44.733918,
+    25.506236,
+    44.738566
 ],
-  "geometry": {"coordinates":[25.50562,44.73705],"type":"Point"}
+  "geometry": {"coordinates":[[[25.505672,44.738081],[25.505912,44.737879],[25.506095,44.737435],[25.506236,44.737024],[25.50514,44.736748],[25.505232,44.736548],[25.504733,44.736406],[25.505023,44.735847],[25.504228,44.735596],[25.504049,44.735881],[25.503846,44.735826],[25.503729,44.736049],[25.502668,44.735662],[25.502872,44.735273],[25.502155,44.735088],[25.502226,44.73491],[25.501929,44.734786],[25.502044,44.734257],[25.501301,44.73402],[25.500942,44.733918],[25.501056,44.734542],[25.50032,44.734549],[25.500314,44.734914],[25.500536,44.734932],[25.500617,44.735275],[25.499282,44.735544],[25.49962,44.736263],[25.499826,44.736764],[25.501536,44.737208],[25.501459,44.737359],[25.502125,44.737597],[25.501945,44.737905],[25.502596,44.738053],[25.502826,44.737819],[25.503275,44.738035],[25.504446,44.738004],[25.504705,44.738014],[25.504771,44.738435],[25.50514,44.738566],[25.505341,44.738336],[25.505672,44.738081]]],"type":"Polygon"}
 }

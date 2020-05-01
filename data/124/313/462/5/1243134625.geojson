@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.24491,45.07306,23.24491,45.07306",
-    "geom:latitude":45.07306,
-    "geom:longitude":23.24491,
+    "geom:area":0.00003,
+    "geom:area_square_m":258556.504262,
+    "geom:bbox":"23.238392,45.064597,23.249422,45.079146",
+    "geom:latitude":45.071683,
+    "geom:longitude":23.242641,
     "gn:admin1_code":"19",
     "gn:admin2_code":"77812.0",
     "gn:asciiname":"Polata",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Polata"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669965
+        "gn:id":669965,
+        "ro-ancpi:id":77867
     },
     "wof:country":"RO",
-    "wof:geomhash":"ccb09d9644923d05212b9c604460c012",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"836de6abd4be2448eb9854b61bfe81d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1243134625,
-    "wof:lastmodified":1566611474,
+    "wof:lastmodified":1588367044,
     "wof:name":"Polata",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.24491,
-    45.07306,
-    23.24491,
-    45.07306
+    23.238392,
+    45.064597,
+    23.249422,
+    45.079146
 ],
-  "geometry": {"coordinates":[23.24491,45.07306],"type":"Point"}
+  "geometry": {"coordinates":[[[23.24002,45.064597],[23.238392,45.065309],[23.238532,45.065946],[23.238926,45.067745],[23.242173,45.07358],[23.243225,45.075435],[23.24408,45.075553],[23.24816,45.079146],[23.249422,45.078781],[23.245444,45.075285],[23.245919,45.074717],[23.244815,45.074513],[23.244205,45.073312],[23.24351,45.071888],[23.242822,45.07041],[23.242729,45.070313],[23.242512,45.070079],[23.242363,45.069908],[23.242116,45.069645],[23.241995,45.06938],[23.241718,45.068693],[23.240888,45.066666],[23.240246,45.065103],[23.240138,45.064847],[23.24002,45.064597]]],"type":"Polygon"}
 }

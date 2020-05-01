@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.49928,44.26915,27.49928,44.26915",
-    "geom:latitude":44.26915,
-    "geom:longitude":27.49928,
+    "geom:area":0.000119,
+    "geom:area_square_m":1053074.501642,
+    "geom:bbox":"27.488943,44.260163,27.505652,44.27196",
+    "geom:latitude":44.267339,
+    "geom:longitude":27.49668,
     "gn:admin1_code":"41",
     "gn:admin2_code":"93325.0",
     "gn:asciiname":"Libertatea",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.47928,44.24915,27.51928,44.28915",
+    "lbl:latitude":44.26915,
+    "lbl:longitude":27.49928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:hrv_x_preferred":[
         "Libertatea"
@@ -47,7 +49,11 @@
         "Br\u0103tienio",
         "Br\u0103tieni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -55,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674812
+        "gn:id":674812,
+        "ro-ancpi:id":93352
     },
     "wof:country":"RO",
-    "wof:geomhash":"d30669725e77a10ea9e24b769d905bfb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fed788390af1ac34932ac2b47f799d99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1360022065,
-    "wof:lastmodified":1566610649,
+    "wof:lastmodified":1588366799,
     "wof:name":"Libertatea",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
@@ -78,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.49928,
-    44.26915,
-    27.49928,
-    44.26915
+    27.488943,
+    44.260163,
+    27.505652,
+    44.27196
 ],
-  "geometry": {"coordinates":[27.49928,44.26915],"type":"Point"}
+  "geometry": {"coordinates":[[[27.498289,44.265518],[27.49848,44.264228],[27.498734,44.263369],[27.495065,44.26302],[27.49455,44.262963],[27.494602,44.262753],[27.494967,44.260428],[27.491405,44.260163],[27.490797,44.26381],[27.492656,44.263887],[27.492572,44.265126],[27.489823,44.264909],[27.489332,44.268794],[27.488943,44.270945],[27.497705,44.271404],[27.500946,44.271665],[27.504654,44.27196],[27.505231,44.268496],[27.505652,44.265884],[27.498289,44.265518]]],"type":"Polygon"}
 }

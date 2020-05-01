@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.57643,44.71279,24.57643,44.71279",
-    "geom:latitude":44.71279,
-    "geom:longitude":24.57643,
+    "geom:area":0.000067,
+    "geom:area_square_m":587173.698164,
+    "geom:bbox":"24.568685,44.709229,24.580242,44.721945",
+    "geom:latitude":44.715791,
+    "geom:longitude":24.574444,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128962.0",
     "gn:asciiname":"Davidesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.55643,44.69279,24.59643,44.73279",
+    "lbl:latitude":44.71279,
+    "lbl:longitude":24.57643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Davide\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Davidesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679702
+        "gn:id":679702,
+        "ro-ancpi:id":128999
     },
     "wof:country":"RO",
-    "wof:geomhash":"bb4ca0f3a335c27917b79246819ed12a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"82b9c3daa3fe46149a8f166e0e022728",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1277020743,
-    "wof:lastmodified":1566610218,
-    "wof:name":"Davidesti",
+    "wof:lastmodified":1588366714,
+    "wof:name":"Davide\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":94,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.57643,
-    44.71279000000001,
-    24.57643,
-    44.71279000000001
+    24.568685,
+    44.709229,
+    24.580242,
+    44.721945
 ],
-  "geometry": {"coordinates":[24.57643,44.71279000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.580242,44.711198],[24.575667,44.709229],[24.570031,44.717183],[24.568685,44.719674],[24.575339,44.721945],[24.577107,44.718746],[24.575062,44.71819],[24.580242,44.711198]]],"type":"Polygon"}
 }

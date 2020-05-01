@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.06556,46.79389,28.06556,46.79389",
-    "geom:latitude":46.79389,
-    "geom:longitude":28.06556,
+    "geom:area":0.00004,
+    "geom:area_square_m":337870.704996,
+    "geom:bbox":"28.060986,46.79106,28.073253,46.798364",
+    "geom:latitude":46.795011,
+    "geom:longitude":28.067736,
     "gn:admin1_code":"38",
     "gn:admin2_code":"162149.0",
     "gn:asciiname":"Mihail Kogalniceanu",
@@ -25,17 +25,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.04556,46.77389,28.08556,46.81389",
+    "lbl:latitude":46.79389,
+    "lbl:longitude":28.06556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ron_x_variant":[
+        "Mihail Kogalniceanu"
+    ],
     "name:und_x_variant":[
         "R\u00eepi",
         "Mihail-Cog\u0103lniceanu",
         "Mihail Kog\u0103lniceanu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673376
+        "gn:id":673376,
+        "ro-ancpi:id":162176
     },
     "wof:country":"RO",
-    "wof:geomhash":"ba7cffcddb7850b4a77ed762a3f8e5c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0abd72882214a3a99b8e3e19434fee03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +72,8 @@
         }
     ],
     "wof:id":1259931679,
-    "wof:lastmodified":1566611578,
-    "wof:name":"Mihail Kogalniceanu",
+    "wof:lastmodified":1588366858,
+    "wof:name":"Mihail Kog\u0103lniceanu",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.06556,
-    46.79389000000001,
-    28.06556,
-    46.79389000000001
+    28.060986,
+    46.79106,
+    28.073253,
+    46.798364
 ],
-  "geometry": {"coordinates":[28.06556,46.79389000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[28.065976,46.798364],[28.066989,46.797328],[28.06852,46.797741],[28.06933,46.797114],[28.068464,46.796447],[28.070951,46.796434],[28.072381,46.795099],[28.072818,46.795228],[28.073253,46.794964],[28.072741,46.794598],[28.071918,46.794507],[28.072267,46.794175],[28.071625,46.793672],[28.071268,46.793879],[28.071132,46.793278],[28.071546,46.793],[28.072821,46.791294],[28.072132,46.79106],[28.071105,46.79235],[28.069341,46.791375],[28.068703,46.79159],[28.068262,46.791905],[28.067979,46.792215],[28.067764,46.792576],[28.066502,46.7932],[28.065132,46.793663],[28.065482,46.79437],[28.065215,46.794377],[28.064374,46.795725],[28.063632,46.795822],[28.06194,46.795325],[28.060986,46.796416],[28.065976,46.798364]]],"type":"Polygon"}
 }

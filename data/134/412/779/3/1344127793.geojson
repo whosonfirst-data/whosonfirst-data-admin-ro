@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.46523,44.65127,28.46523,44.65127",
-    "geom:latitude":44.65127,
-    "geom:longitude":28.46523,
+    "geom:area":0.000073,
+    "geom:area_square_m":639778.771284,
+    "geom:bbox":"28.45851,44.643778,28.469162,44.65672",
+    "geom:latitude":44.650621,
+    "geom:longitude":28.463831,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61372.0",
     "gn:asciiname":"Ramnicu de Sus",
@@ -26,18 +26,30 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.44523,44.63127,28.48523,44.67127",
+    "lbl:latitude":44.65127,
+    "lbl:longitude":28.46523,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u00e2mnicu de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Ramnicu de Sus"
+    ],
     "name:und_x_variant":[
         "R\u00e2mnicul-de Sus",
         "Ramnik de Sus",
         "R\u00e2mnicu-de-Sus",
         "R\u00eemnicu de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668876
+        "gn:id":668876,
+        "ro-ancpi:id":61434
     },
     "wof:country":"RO",
-    "wof:geomhash":"27ae25ebabeb90bdf80d539938462794",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"de4c6e293d791d3308800e2b566fe8b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +75,8 @@
         }
     ],
     "wof:id":1344127793,
-    "wof:lastmodified":1566609904,
-    "wof:name":"Ramnicu de Sus",
+    "wof:lastmodified":1588366652,
+    "wof:name":"R\u00e2mnicu de Sus",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":114,
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.46523,
-    44.65127,
-    28.46523,
-    44.65127
+    28.45851,
+    44.643778,
+    28.469162,
+    44.65672
 ],
-  "geometry": {"coordinates":[28.46523,44.65127],"type":"Point"}
+  "geometry": {"coordinates":[[[28.46626,44.64849],[28.461921,44.643778],[28.45851,44.643989],[28.459147,44.645456],[28.460634,44.648516],[28.460878,44.649027],[28.461663,44.652713],[28.460378,44.653159],[28.462271,44.656146],[28.463502,44.656372],[28.464132,44.65672],[28.465912,44.655812],[28.466702,44.655459],[28.467408,44.655409],[28.468536,44.654979],[28.468757,44.654302],[28.469162,44.653861],[28.46915,44.653664],[28.468636,44.652548],[28.46838,44.651619],[28.46626,44.64849]]],"type":"Polygon"}
 }

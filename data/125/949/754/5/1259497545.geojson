@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.28333,46.28333,23.28333,46.28333",
-    "geom:latitude":46.28333,
-    "geom:longitude":23.28333,
+    "geom:area":0.000014,
+    "geom:area_square_m":116112.992188,
+    "geom:bbox":"23.261146,46.300608,23.269785,46.304612",
+    "geom:latitude":46.302216,
+    "geom:longitude":23.265574,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5826.0",
     "gn:asciiname":"Valea Barlutesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea B\u00e2rlu\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Valea Barlutesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663911
+        "gn:id":663911,
+        "ro-ancpi:id":5988
     },
     "wof:country":"RO",
-    "wof:geomhash":"4a275c1cbd319c39089d99643db0d7ec",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e84c1e2f8e1e4c6f32925d5f61c922e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +64,8 @@
         }
     ],
     "wof:id":1259497545,
-    "wof:lastmodified":1566611566,
-    "wof:name":"Valea Barlutesti",
+    "wof:lastmodified":1588367036,
+    "wof:name":"Valea B\u00e2rlu\u0163e\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.28333,
-    46.28333,
-    23.28333,
-    46.28333
+    23.261146,
+    46.300608,
+    23.269785,
+    46.304612
 ],
-  "geometry": {"coordinates":[23.28333,46.28333],"type":"Point"}
+  "geometry": {"coordinates":[[[23.263462,46.30227],[23.262759,46.301764],[23.261429,46.30176],[23.261428,46.302363],[23.262678,46.302336],[23.262989,46.302441],[23.262913,46.302731],[23.262425,46.302809],[23.262268,46.303367],[23.262394,46.303493],[23.262274,46.30386],[23.261708,46.30401],[23.261146,46.304322],[23.261366,46.304612],[23.262189,46.304406],[23.263097,46.30394],[23.263629,46.303224],[23.26434,46.302628],[23.265793,46.302175],[23.266399,46.302957],[23.267573,46.302724],[23.26905,46.303809],[23.269785,46.303518],[23.268351,46.302264],[23.269385,46.301852],[23.268353,46.300608],[23.266924,46.301359],[23.266103,46.300659],[23.265039,46.301323],[23.264994,46.300634],[23.263519,46.301064],[23.263649,46.302237],[23.263462,46.30227]]],"type":"Polygon"}
 }

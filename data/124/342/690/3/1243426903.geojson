@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.34403,44.81139,25.34403,44.81139",
-    "geom:latitude":44.81139,
-    "geom:longitude":25.34403,
+    "geom:area":0.000024,
+    "geom:area_square_m":213945.546997,
+    "geom:bbox":"25.338634,44.801774,25.344081,44.815766",
+    "geom:latitude":44.80891,
+    "geom:longitude":25.341737,
     "gn:admin1_code":"16",
     "gn:admin2_code":"66580.0",
     "gn:asciiname":"Craciunesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cr\u0103ciune\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Craciunesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680370
+        "gn:id":680370,
+        "ro-ancpi:id":66642
     },
     "wof:country":"RO",
-    "wof:geomhash":"944aaa2321166eafe8130a14b4e76594",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6c7fd34e7e1e485b75cc47b6ac0b40f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1243426903,
-    "wof:lastmodified":1566611524,
-    "wof:name":"Craciunesti",
+    "wof:lastmodified":1588367020,
+    "wof:name":"Cr\u0103ciune\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":356,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.34403,
-    44.81139,
-    25.34403,
-    44.81139
+    25.338634,
+    44.801774,
+    25.344081,
+    44.815766
 ],
-  "geometry": {"coordinates":[25.34403,44.81139],"type":"Point"}
+  "geometry": {"coordinates":[[[25.341326,44.801774],[25.338634,44.802144],[25.339747,44.802323],[25.340214,44.804088],[25.340714,44.805947],[25.342372,44.808381],[25.341772,44.810787],[25.341465,44.810776],[25.341335,44.811178],[25.341642,44.811242],[25.341207,44.812082],[25.340482,44.812858],[25.339855,44.813146],[25.340346,44.813926],[25.340374,44.81434],[25.339613,44.814381],[25.339934,44.815553],[25.341843,44.815766],[25.341742,44.814089],[25.341468,44.814072],[25.342391,44.812941],[25.34322,44.811462],[25.343765,44.811053],[25.343934,44.810083],[25.343566,44.809754],[25.344081,44.808412],[25.343757,44.808271],[25.343562,44.807645],[25.343736,44.807597],[25.343459,44.807114],[25.343261,44.807162],[25.342198,44.805606],[25.341823,44.803935],[25.341326,44.801774]]],"type":"Polygon"}
 }

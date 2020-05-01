@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.97999,44.99197,25.97999,44.99197",
-    "geom:latitude":44.99197,
-    "geom:longitude":25.97999,
+    "geom:area":0.000083,
+    "geom:area_square_m":722096.188482,
+    "geom:bbox":"25.970523,44.98273,25.985179,44.997161",
+    "geom:latitude":44.99037,
+    "geom:longitude":25.977888,
     "gn:admin1_code":"30",
     "gn:admin2_code":"130847.0",
     "gn:asciiname":"Paulestii Noi",
@@ -29,14 +29,23 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "P\u0103ule\u015ftii Noi"
+    ],
+    "name:ron_x_variant":[
+        "Paulestii Noi"
+    ],
     "name:und_x_variant":[
         "Degera\u0163ii",
         "Degera\u0163i",
         "P\u0103ule\u015ftii Noi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671221
+        "gn:id":671221,
+        "ro-ancpi:id":130883
     },
     "wof:country":"RO",
-    "wof:geomhash":"5aefed1cafc1c3871b841555e5c82f36",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"28512e9ce27dbda30b8ea36b39e39bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +71,8 @@
         }
     ],
     "wof:id":1226403087,
-    "wof:lastmodified":1566611678,
-    "wof:name":"Paulestii Noi",
+    "wof:lastmodified":1588367075,
+    "wof:name":"P\u0103ule\u015ftii Noi",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":300,
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.97999,
-    44.99197,
-    25.97999,
-    44.99197
+    25.970523,
+    44.98273,
+    25.985179,
+    44.997161
 ],
-  "geometry": {"coordinates":[25.97999,44.99197],"type":"Point"}
+  "geometry": {"coordinates":[[[25.970931,44.991951],[25.971722,44.993079],[25.973266,44.995063],[25.973751,44.995483],[25.97534,44.997161],[25.980819,44.994019],[25.980389,44.993362],[25.979094,44.99233],[25.97924,44.992242],[25.982211,44.99016],[25.981619,44.989661],[25.982902,44.988905],[25.982522,44.988635],[25.985105,44.987394],[25.983323,44.98552],[25.985179,44.983613],[25.984084,44.983206],[25.983711,44.983764],[25.980082,44.98273],[25.97859,44.985461],[25.980506,44.986849],[25.980905,44.987152],[25.98119,44.986975],[25.981731,44.987414],[25.981571,44.987745],[25.981077,44.988562],[25.980897,44.98868],[25.9804,44.988778],[25.978321,44.988641],[25.977026,44.988732],[25.976658,44.988655],[25.976362,44.988865],[25.975797,44.989544],[25.97547,44.989712],[25.974865,44.98892],[25.973569,44.989438],[25.971344,44.990232],[25.970523,44.990409],[25.971242,44.991395],[25.970931,44.991951]]],"type":"Polygon"}
 }

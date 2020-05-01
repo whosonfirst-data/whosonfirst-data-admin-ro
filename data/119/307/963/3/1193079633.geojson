@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.17649,46.52787,28.17649,46.52787",
-    "geom:latitude":46.52787,
-    "geom:longitude":28.17649,
+    "geom:area":0.000046,
+    "geom:area_square_m":388059.051629,
+    "geom:bbox":"28.169454,46.492196,28.181603,46.519933",
+    "geom:latitude":46.50381,
+    "geom:longitude":28.174695,
     "gn:admin1_code":"38",
     "gn:admin2_code":"164749.0",
     "gn:asciiname":"Lunca Veche",
@@ -29,14 +29,20 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Lunca Veche"
+    ],
     "name:und_x_variant":[
         "Lunca",
         "Lunca Nou\u0103",
         "Lunca Veche"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674370
+        "gn:id":674370,
+        "ro-ancpi:id":164794
     },
     "wof:country":"RO",
-    "wof:geomhash":"29e68c323c97c95d5595c14d544afe38",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d8af8c5b630f5ee47f21853b6f75b0df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1193079633,
-    "wof:lastmodified":1566610414,
+    "wof:lastmodified":1588367079,
     "wof:name":"Lunca Veche",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.17649,
-    46.52787,
-    28.17649,
-    46.52787
+    28.169454,
+    46.492196,
+    28.181603,
+    46.519933
 ],
-  "geometry": {"coordinates":[28.17649,46.52787],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.175323,46.500218],[28.172976,46.500039],[28.171977,46.500926],[28.171272,46.501895],[28.169454,46.505483],[28.172087,46.506406],[28.173286,46.503904],[28.175323,46.500218]]],[[[28.179042,46.492345],[28.178034,46.492196],[28.175639,46.493889],[28.174471,46.496033],[28.176846,46.496994],[28.177312,46.496454],[28.181603,46.492507],[28.179042,46.492345]]],[[[28.173832,46.515329],[28.173735,46.515158],[28.172405,46.515405],[28.172571,46.51635],[28.173112,46.519757],[28.176525,46.519933],[28.176552,46.519702],[28.176564,46.51944],[28.17656,46.51937],[28.176538,46.519292],[28.176503,46.519196],[28.176444,46.519069],[28.17631,46.518856],[28.175679,46.517999],[28.175259,46.517391],[28.174783,46.516739],[28.174065,46.515718],[28.173832,46.515329]]]],"type":"MultiPolygon"}
 }

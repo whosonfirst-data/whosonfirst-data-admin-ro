@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.1982,44.96371,26.1982,44.96371",
-    "geom:latitude":44.96371,
-    "geom:longitude":26.1982,
+    "geom:area":0.000008,
+    "geom:area_square_m":71506.596432,
+    "geom:bbox":"26.193524,44.968506,26.199461,44.978824",
+    "geom:latitude":44.97142,
+    "geom:longitude":26.196665,
     "gn:admin1_code":"30",
     "gn:admin2_code":"135949.0",
     "gn:asciiname":"Valea Larga",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Larg\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Larga"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663719
+        "gn:id":663719,
+        "ro-ancpi:id":136036
     },
     "wof:country":"RO",
-    "wof:geomhash":"a0f82c169451449f58fdb5f194bd8c8d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5811ae97257a226e0bd53513753dbfcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293844547,
-    "wof:lastmodified":1566610065,
-    "wof:name":"Valea Larga",
+    "wof:lastmodified":1588367076,
+    "wof:name":"Valea Larg\u0103",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":747,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.1982,
-    44.96371,
-    26.1982,
-    44.96371
+    26.193524,
+    44.968506,
+    26.199461,
+    44.978824
 ],
-  "geometry": {"coordinates":[26.1982,44.96371],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.194764,44.968506],[26.193857,44.968589],[26.193524,44.968803],[26.195026,44.969969],[26.195691,44.970728],[26.195867,44.970632],[26.195977,44.970795],[26.19586,44.970933],[26.19635,44.971537],[26.19687,44.971348],[26.197129,44.971717],[26.198552,44.971035],[26.198058,44.970231],[26.197815,44.970336],[26.197712,44.970164],[26.197855,44.969888],[26.197391,44.97007],[26.19653,44.969256],[26.195941,44.968696],[26.195394,44.969078],[26.194764,44.968506]]],[[[26.199304,44.977164],[26.199245,44.976811],[26.198931,44.976858],[26.198792,44.97696],[26.198548,44.977165],[26.198152,44.977456],[26.198493,44.978362],[26.198572,44.978765],[26.199034,44.978824],[26.199006,44.978158],[26.199187,44.977837],[26.19921,44.977682],[26.199461,44.977378],[26.199304,44.977164]]]],"type":"MultiPolygon"}
 }

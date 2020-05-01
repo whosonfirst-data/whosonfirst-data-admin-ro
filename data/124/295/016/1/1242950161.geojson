@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.41136,45.02625,22.41136,45.02625",
-    "geom:latitude":45.02625,
-    "geom:longitude":22.41136,
+    "geom:area":0.000011,
+    "geom:area_square_m":94601.714981,
+    "geom:bbox":"22.41045,45.023097,22.413516,45.030738",
+    "geom:latitude":45.027416,
+    "geom:longitude":22.4117,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160",
     "gn:asciiname":"Cracu Teiului",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.39136,45.00625,22.43136,45.04625",
+    "lbl:latitude":45.02625,
+    "lbl:longitude":22.41136,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cracu Teiului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":837977
+        "gn:id":837977,
+        "ro-ancpi:id":52277
     },
     "wof:country":"RO",
-    "wof:geomhash":"101422525026530b14fdb21e911c6e58",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"49728edbfdc4eb81a58d4044e762d3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1242950161,
-    "wof:lastmodified":1566611453,
+    "wof:lastmodified":1588366826,
     "wof:name":"Cracu Teiului",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.41136,
-    45.02625,
-    22.41136,
-    45.02625
+    22.41045,
+    45.023097,
+    22.413516,
+    45.030738
 ],
-  "geometry": {"coordinates":[22.41136,45.02625],"type":"Point"}
+  "geometry": {"coordinates":[[[22.413516,45.028721],[22.413069,45.027418],[22.412191,45.027378],[22.411874,45.027009],[22.411597,45.026499],[22.411482,45.025829],[22.411587,45.025281],[22.41194,45.02515],[22.412046,45.023981],[22.41206,45.023205],[22.411578,45.023097],[22.410994,45.024143],[22.410708,45.02478],[22.410598,45.026252],[22.41045,45.027258],[22.411036,45.028303],[22.410798,45.028295],[22.411042,45.029503],[22.411202,45.030313],[22.411739,45.030738],[22.412638,45.030357],[22.412613,45.02959],[22.412942,45.028943],[22.413516,45.028721]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.17691,46.39162,22.17691,46.39162",
-    "geom:latitude":46.39162,
-    "geom:longitude":22.17691,
+    "geom:area":0.000025,
+    "geom:area_square_m":212327.942909,
+    "geom:bbox":"22.170487,46.388296,22.178011,46.394839",
+    "geom:latitude":46.391483,
+    "geom:longitude":22.174382,
     "gn:admin1_code":"02",
     "gn:admin2_code":"9690.0",
     "gn:asciiname":"Donceni",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.15691,46.37162,22.19691,46.41162",
+    "lbl:latitude":46.39162,
+    "lbl:longitude":22.17691,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
         "Donceni"
@@ -37,7 +39,11 @@
         "Doncs\u00e9ny",
         "Dancsfalva"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679103
+        "gn:id":679103,
+        "ro-ancpi:id":9716
     },
     "wof:country":"RO",
-    "wof:geomhash":"9ba2ea18ee07a4d84d89aaee6d72307a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dc56d4456271cb554da9ce740690eb22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1310414703,
-    "wof:lastmodified":1566610525,
+    "wof:lastmodified":1588366773,
     "wof:name":"Donceni",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.17691,
-    46.39162,
-    22.17691,
-    46.39162
+    22.170487,
+    46.388296,
+    22.178011,
+    46.394839
 ],
-  "geometry": {"coordinates":[22.17691,46.39162],"type":"Point"}
+  "geometry": {"coordinates":[[[22.176757,46.389258],[22.176575,46.389006],[22.175843,46.389165],[22.17419,46.388296],[22.172501,46.389801],[22.170487,46.391711],[22.171201,46.392093],[22.173517,46.393383],[22.173027,46.393985],[22.174417,46.394805],[22.174508,46.394839],[22.176761,46.392845],[22.178011,46.391546],[22.176817,46.390966],[22.176503,46.390253],[22.176226,46.389735],[22.176757,46.389258]]],"type":"Polygon"}
 }

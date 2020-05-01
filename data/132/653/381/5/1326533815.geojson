@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.846,46.52457,22.846,46.52457",
-    "geom:latitude":46.52457,
-    "geom:longitude":22.846,
+    "geom:area":0.000012,
+    "geom:area_square_m":98796.32432,
+    "geom:bbox":"22.848966,46.522393,22.854644,46.525959",
+    "geom:latitude":46.524197,
+    "geom:longitude":22.851572,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7197.0",
     "gn:asciiname":"Sfoartea",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Sfoartea"
+    ],
     "name:und_x_variant":[
         "Sfortea",
         "Sfoartea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667287
+        "gn:id":667287,
+        "ro-ancpi:id":7311
     },
     "wof:country":"RO",
-    "wof:geomhash":"8a483e7ab1f2a699a40ef5f7b8ac9062",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6e38443712f9d6d850459cf1ccf802e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1326533815,
-    "wof:lastmodified":1566609853,
+    "wof:lastmodified":1588367113,
     "wof:name":"Sfoartea",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.846,
-    46.52457,
-    22.846,
-    46.52457
+    22.848966,
+    46.522393,
+    22.854644,
+    46.525959
 ],
-  "geometry": {"coordinates":[22.846,46.52457],"type":"Point"}
+  "geometry": {"coordinates":[[[22.851622,46.525889],[22.851894,46.525288],[22.853497,46.524029],[22.854644,46.524073],[22.854496,46.522393],[22.849051,46.523705],[22.848966,46.525295],[22.849953,46.525959],[22.851622,46.525889]]],"type":"Polygon"}
 }

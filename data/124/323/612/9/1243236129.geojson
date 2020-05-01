@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.25901,44.70434,25.25901,44.70434",
-    "geom:latitude":44.70434,
-    "geom:longitude":25.25901,
+    "geom:area":0.000043,
+    "geom:area_square_m":379893.321397,
+    "geom:bbox":"25.248114,44.699779,25.266309,44.707036",
+    "geom:latitude":44.703955,
+    "geom:longitude":25.258171,
     "gn:admin1_code":"16",
     "gn:admin2_code":"65752.0",
     "gn:asciiname":"Potlogeni-Deal",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.23901,44.68434,25.27901,44.72434",
+    "lbl:latitude":44.70434,
+    "lbl:longitude":25.25901,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Potlogeni-Deal"
+    ],
     "name:und_x_variant":[
         "Potlogenii din Deal",
         "Potlogeni Deal"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669755
+        "gn:id":669755,
+        "ro-ancpi:id":65814
     },
     "wof:country":"RO",
-    "wof:geomhash":"3f0b396e3a9cbcccfd63b319e95810c3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"456c19b95b3bf6d570f0d9525b927320",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1243236129,
-    "wof:lastmodified":1566611467,
+    "wof:lastmodified":1588366829,
     "wof:name":"Potlogeni-Deal",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.25901,
-    44.70434,
-    25.25901,
-    44.70434
+    25.248114,
+    44.699779,
+    25.266309,
+    44.707036
 ],
-  "geometry": {"coordinates":[25.25901,44.70434],"type":"Point"}
+  "geometry": {"coordinates":[[[25.266309,44.700698],[25.265222,44.699779],[25.261579,44.702139],[25.260353,44.699866],[25.259908,44.700257],[25.259843,44.70081],[25.259638,44.701296],[25.25918,44.701726],[25.257766,44.702143],[25.258096,44.702728],[25.254975,44.703778],[25.25334,44.704077],[25.253744,44.704658],[25.248114,44.706075],[25.248261,44.706443],[25.248312,44.70657],[25.248498,44.707036],[25.253456,44.705935],[25.253866,44.7067],[25.255354,44.706292],[25.255821,44.706296],[25.256036,44.706514],[25.256151,44.706428],[25.256708,44.706013],[25.257195,44.705821],[25.257361,44.705711],[25.257982,44.705729],[25.258304,44.705933],[25.259306,44.706107],[25.260207,44.705929],[25.261214,44.705526],[25.261257,44.705519],[25.262715,44.705289],[25.262159,44.703391],[25.266309,44.700698]]],"type":"Polygon"}
 }

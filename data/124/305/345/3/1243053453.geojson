@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.21095,45.19336,27.21095,45.19336",
-    "geom:latitude":45.19336,
-    "geom:longitude":27.21095,
+    "geom:area":0.000063,
+    "geom:area_square_m":550210.026728,
+    "geom:bbox":"27.203304,45.18629,27.219219,45.196545",
+    "geom:latitude":45.192015,
+    "geom:longitude":27.21056,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43180.0",
     "gn:asciiname":"Zamfiresti",
@@ -26,11 +26,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.19095,45.17336,27.23095,45.21336",
+    "lbl:latitude":45.19336,
+    "lbl:longitude":27.21095,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Zamfire\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Zamfiresti"
+    ],
     "name:und_x_variant":[
         "Andree\u015fti-Zamfire\u015fti",
         "Udre\u015fti",
@@ -38,7 +46,11 @@
         "Udre\u015fti-Zamfire\u015fti",
         "Zamfire\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662320
+        "gn:id":662320,
+        "ro-ancpi:id":43233
     },
     "wof:country":"RO",
-    "wof:geomhash":"feb6d478ca52a99218acc8a07dadc1c0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"33671fe870c144459e64d55fdb4a413e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +76,8 @@
         }
     ],
     "wof:id":1243053453,
-    "wof:lastmodified":1566611497,
-    "wof:name":"Zamfiresti",
+    "wof:lastmodified":1588366837,
+    "wof:name":"Zamfire\u015fti",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":421,
@@ -72,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.21095,
-    45.19336,
-    27.21095,
-    45.19336
+    27.203304,
+    45.18629,
+    27.219219,
+    45.196545
 ],
-  "geometry": {"coordinates":[27.21095,45.19336],"type":"Point"}
+  "geometry": {"coordinates":[[[27.219219,45.18783],[27.21854,45.18629],[27.216252,45.187204],[27.210685,45.189358],[27.209958,45.189658],[27.209852,45.189423],[27.209143,45.189477],[27.209182,45.189752],[27.208626,45.189812],[27.208621,45.190393],[27.20844,45.190396],[27.208273,45.190035],[27.207471,45.190199],[27.207421,45.189983],[27.206231,45.190193],[27.206323,45.190782],[27.206185,45.190805],[27.206238,45.191099],[27.20564,45.19113],[27.205654,45.191485],[27.205188,45.191681],[27.204442,45.191863],[27.203695,45.191986],[27.203304,45.191974],[27.203629,45.192966],[27.203853,45.192908],[27.204066,45.193545],[27.205001,45.193167],[27.205107,45.193321],[27.204509,45.193575],[27.206095,45.195435],[27.206782,45.195195],[27.207176,45.195564],[27.207594,45.195414],[27.208455,45.196292],[27.209035,45.196144],[27.20938,45.196545],[27.215064,45.19432],[27.213339,45.192296],[27.213894,45.19209],[27.212934,45.190744],[27.212858,45.190769],[27.212511,45.190378],[27.215866,45.189133],[27.219219,45.18783]]],"type":"Polygon"}
 }

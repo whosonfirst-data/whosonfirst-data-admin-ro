@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.00846,46.78768,24.00846,46.78768",
-    "geom:latitude":46.78768,
-    "geom:longitude":24.00846,
+    "geom:area":0.000009,
+    "geom:area_square_m":72820.231737,
+    "geom:bbox":"24.005944,46.779078,24.015938,46.787665",
+    "geom:latitude":46.783786,
+    "geom:longitude":24.011237,
     "gn:admin1_code":"13",
     "gn:admin2_code":"58623.0",
     "gn:asciiname":"Falca",
@@ -28,12 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Falka"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Falca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678445
+        "gn:id":678445,
+        "ro-ancpi:id":58678
     },
     "wof:country":"RO",
-    "wof:geomhash":"6107e7ff4a41a6edbb8e07b8da6bfb3c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3977b8e1ff226ceaa080fd649ab00f63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1242944471,
-    "wof:lastmodified":1566611454,
+    "wof:lastmodified":1588367149,
     "wof:name":"Falca",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.00846,
-    46.78768,
-    24.00846,
-    46.78768
+    24.005944,
+    46.779078,
+    24.015938,
+    46.787665
 ],
-  "geometry": {"coordinates":[24.00846,46.78768],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.011257,46.784444],[24.011765,46.784172],[24.012811,46.784318],[24.013951,46.783566],[24.012875,46.782714],[24.012309,46.78297],[24.011204,46.783753],[24.007175,46.786226],[24.005944,46.786894],[24.006615,46.787665],[24.008025,46.787206],[24.00748,46.786452],[24.011257,46.784444]]],[[[24.01475,46.779842],[24.014692,46.779078],[24.013608,46.779196],[24.014396,46.780683],[24.015626,46.781304],[24.015938,46.780696],[24.01475,46.779842]]]],"type":"MultiPolygon"}
 }

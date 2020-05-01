@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.47053,44.68461,24.47053,44.68461",
-    "geom:latitude":44.68461,
-    "geom:longitude":24.47053,
+    "geom:area":0.000073,
+    "geom:area_square_m":637936.38606,
+    "geom:bbox":"24.465297,44.678332,24.478269,44.695645",
+    "geom:latitude":44.686238,
+    "geom:longitude":24.471991,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128301.0",
     "gn:asciiname":"Cornatelu",
@@ -26,18 +26,30 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.45053,44.66461,24.49053,44.70461",
+    "lbl:latitude":44.68461,
+    "lbl:longitude":24.47053,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Corn\u0103\u0163elu"
+    ],
+    "name:ron_x_variant":[
+        "Cornatelu"
+    ],
     "name:und_x_variant":[
         "Corn\u0103\u0163el",
         "Corn\u0103\u0163elul",
         "Corne\u0163elu",
         "Corn\u0103\u0163elu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680794
+        "gn:id":680794,
+        "ro-ancpi:id":128338
     },
     "wof:country":"RO",
-    "wof:geomhash":"39ac93c75e4dcc19ec951b83aa80bb5a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"385b2877fb9fb5f1ce508a28f20c961b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +75,8 @@
         }
     ],
     "wof:id":1209776747,
-    "wof:lastmodified":1566610312,
-    "wof:name":"Cornatelu",
+    "wof:lastmodified":1588366733,
+    "wof:name":"Corn\u0103\u0163elu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":607,
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.47053,
-    44.68461,
-    24.47053,
-    44.68461
+    24.465297,
+    44.678332,
+    24.478269,
+    44.695645
 ],
-  "geometry": {"coordinates":[24.47053,44.68461],"type":"Point"}
+  "geometry": {"coordinates":[[[24.465297,44.684272],[24.466084,44.686065],[24.466497,44.68667],[24.46773,44.686097],[24.469644,44.68813],[24.468392,44.689255],[24.468645,44.689934],[24.471558,44.689511],[24.472975,44.691931],[24.473955,44.693923],[24.474797,44.695645],[24.477259,44.695577],[24.475017,44.689625],[24.470734,44.684154],[24.472863,44.68279],[24.478269,44.679371],[24.47674,44.678332],[24.474602,44.679674],[24.472762,44.678954],[24.471977,44.679778],[24.470202,44.678988],[24.4698,44.679504],[24.471858,44.681083],[24.468005,44.682971],[24.466566,44.683466],[24.465297,44.684272]]],"type":"Polygon"}
 }

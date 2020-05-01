@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91667,44.46667,23.91667,44.46667",
-    "geom:latitude":44.46667,
-    "geom:longitude":23.91667,
+    "geom:area":0.000061,
+    "geom:area_square_m":534550.810412,
+    "geom:bbox":"23.922432,44.449179,23.938105,44.457712",
+    "geom:latitude":44.453145,
+    "geom:longitude":23.930372,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2669,
@@ -65,7 +65,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":883883,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -82,11 +85,15 @@
         "gn:id":662412,
         "gp:id":883883,
         "qs_pg:id":1279864,
+        "ro-ancpi:id":130133,
         "wd:id":"Q5117092"
     },
     "wof:country":"RO",
     "wof:created":1497292956,
-    "wof:geomhash":"5bc7097d27838a867c5d7ee42cba6eb1",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"de7074eb84bf2ef6c65936cc4c7ac283",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +103,7 @@
         }
     ],
     "wof:id":1125841521,
-    "wof:lastmodified":1566611408,
+    "wof:lastmodified":1588367084,
     "wof:name":"Vulpeni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -108,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.91667,
-    44.46667,
-    23.91667,
-    44.46667
+    23.922432,
+    44.449179,
+    23.938105,
+    44.457712
 ],
-  "geometry": {"coordinates":[23.91667,44.46667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.934644,44.450995],[23.932496,44.449896],[23.93143,44.449179],[23.929793,44.450371],[23.929186,44.449513],[23.927948,44.449931],[23.926002,44.450822],[23.923879,44.452015],[23.923253,44.452773],[23.923642,44.453799],[23.922432,44.453817],[23.923829,44.454594],[23.924682,44.455387],[23.930879,44.454557],[23.933067,44.454353],[23.934021,44.456378],[23.935714,44.457712],[23.938105,44.456615],[23.936815,44.454562],[23.933745,44.452073],[23.934644,44.450995]]],"type":"Polygon"}
 }

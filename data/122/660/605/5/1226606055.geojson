@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.12008,44.31522,24.12008,44.31522",
-    "geom:latitude":44.31522,
-    "geom:longitude":24.12008,
+    "geom:area":0.000056,
+    "geom:area_square_m":494720.755278,
+    "geom:bbox":"24.099543,44.312866,24.122504,44.320426",
+    "geom:latitude":44.31701,
+    "geom:longitude":24.112022,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130062.0",
     "gn:asciiname":"Racovita",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.10008,44.29522,24.14008,44.33522",
+    "lbl:latitude":44.31522,
+    "lbl:longitude":24.12008,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Racovi\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Racovita"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669329
+        "gn:id":669329,
+        "ro-ancpi:id":130106
     },
     "wof:country":"RO",
-    "wof:geomhash":"eb7b49769178932c4242d1ea8df1ebd3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d2464ae3eca983aad34d8a20958aad26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1226606055,
-    "wof:lastmodified":1566611640,
-    "wof:name":"Racovita",
+    "wof:lastmodified":1588366873,
+    "wof:name":"Racovi\u0163a",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":574,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12008,
-    44.31522,
-    24.12008,
-    44.31522
+    24.099543,
+    44.312866,
+    24.122504,
+    44.320426
 ],
-  "geometry": {"coordinates":[24.12008,44.31522],"type":"Point"}
+  "geometry": {"coordinates":[[[24.1061,44.318075],[24.10757,44.317858],[24.108378,44.317997],[24.111115,44.318886],[24.113287,44.320426],[24.115048,44.319868],[24.1155,44.31839],[24.115802,44.317932],[24.116097,44.31745],[24.116952,44.316983],[24.117877,44.316503],[24.118763,44.316344],[24.120033,44.316437],[24.122504,44.314833],[24.121604,44.313838],[24.12066,44.313215],[24.119594,44.312866],[24.118302,44.3129],[24.117414,44.313097],[24.116794,44.314831],[24.114249,44.316032],[24.114197,44.315756],[24.113952,44.315253],[24.113328,44.315171],[24.113078,44.315833],[24.113607,44.316335],[24.11267,44.31652],[24.111383,44.317339],[24.108456,44.316788],[24.107406,44.316106],[24.106235,44.316416],[24.103053,44.317465],[24.09961,44.317783],[24.099543,44.318964],[24.10174,44.319804],[24.103236,44.320426],[24.103652,44.319772],[24.104942,44.31878],[24.1061,44.318075]]],"type":"Polygon"}
 }

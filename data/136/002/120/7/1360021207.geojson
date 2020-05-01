@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91667,45.11667,23.91667,45.11667",
-    "geom:latitude":45.11667,
-    "geom:longitude":23.91667,
+    "geom:area":0.00018,
+    "geom:area_square_m":1572914.074563,
+    "geom:bbox":"23.86342,45.108632,23.899363,45.126053",
+    "geom:latitude":45.118766,
+    "geom:longitude":23.884339,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173061.0",
     "gn:asciiname":"Mogesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Moge\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Mogesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674189
+        "gn:id":674189,
+        "ro-ancpi:id":173114
     },
     "wof:country":"RO",
-    "wof:geomhash":"55e1c4f680a110ad96f38c063f13a02c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"249e117b96e5194ed3bf473e377de660",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1360021207,
-    "wof:lastmodified":1566610648,
-    "wof:name":"Mogesti",
+    "wof:lastmodified":1588367113,
+    "wof:name":"Moge\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":391,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.91667,
-    45.11667,
-    23.91667,
-    45.11667
+    23.86342,
+    45.108632,
+    23.899363,
+    45.126053
 ],
-  "geometry": {"coordinates":[23.91667,45.11667],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.895572,45.11707],[23.893765,45.115861],[23.890608,45.112206],[23.888339,45.108632],[23.884694,45.109111],[23.886672,45.113558],[23.888488,45.115903],[23.891075,45.118073],[23.881971,45.122337],[23.873707,45.122546],[23.874127,45.125038],[23.883979,45.124513],[23.887654,45.12231],[23.888752,45.126053],[23.892624,45.1258],[23.89238,45.120242],[23.895314,45.11998],[23.897817,45.120834],[23.899363,45.119605],[23.895572,45.11707]]],[[[23.885379,45.114531],[23.883573,45.114416],[23.878676,45.115512],[23.871267,45.117465],[23.865539,45.119675],[23.86342,45.121757],[23.865395,45.122574],[23.866753,45.121015],[23.869062,45.120607],[23.87154,45.119365],[23.875499,45.119037],[23.880351,45.118799],[23.880437,45.117349],[23.885349,45.116989],[23.885389,45.116982],[23.885379,45.114531]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.0682,44.12885,25.0682,44.12885",
-    "geom:latitude":44.12885,
-    "geom:longitude":25.0682,
+    "geom:area":0.000024,
+    "geom:area_square_m":210965.091254,
+    "geom:bbox":"25.062335,44.127101,25.07133,44.133275",
+    "geom:latitude":44.129346,
+    "geom:longitude":25.066397,
     "gn:admin1_code":"35",
     "gn:admin2_code":"152868.0",
     "gn:asciiname":"Magura cu Liliac",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.0482,44.10885,25.0882,44.14885",
+    "lbl:latitude":44.12885,
+    "lbl:longitude":25.0682,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u0103gura Cu Liliac"
+    ],
+    "name:ron_x_variant":[
+        "Magura cu Liliac"
+    ],
     "name:und_x_variant":[
         "At\u00eerna\u0163i",
         "At\u00e2rna\u0163i",
         "M\u0103gura cu Liliac"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674127
+        "gn:id":674127,
+        "ro-ancpi:id":152886
     },
     "wof:country":"RO",
-    "wof:geomhash":"71025ec79bfb618b11a99c16b3a143f1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c1603669815bdbd53dc094adb614a159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1243108055,
-    "wof:lastmodified":1566611527,
-    "wof:name":"Magura cu Liliac",
+    "wof:lastmodified":1588366844,
+    "wof:name":"M\u0103gura Cu Liliac",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":352,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.0682,
-    44.12885,
-    25.0682,
-    44.12885
+    25.062335,
+    44.127101,
+    25.07133,
+    44.133275
 ],
-  "geometry": {"coordinates":[25.0682,44.12885],"type":"Point"}
+  "geometry": {"coordinates":[[[25.066114,44.131526],[25.06634,44.130908],[25.066706,44.130971],[25.06704,44.130381],[25.067227,44.129614],[25.06852,44.129783],[25.068687,44.129165],[25.06918,44.129271],[25.070019,44.12937],[25.070452,44.128588],[25.07133,44.128327],[25.071014,44.127877],[25.070926,44.12776],[25.071062,44.127702],[25.070927,44.127446],[25.070673,44.127498],[25.070371,44.127377],[25.069616,44.127101],[25.069399,44.127109],[25.067496,44.127522],[25.067318,44.127187],[25.06577,44.127551],[25.065931,44.127855],[25.065143,44.128035],[25.064881,44.1281],[25.06477,44.128082],[25.064793,44.127944],[25.062867,44.127145],[25.062501,44.127649],[25.062335,44.127929],[25.06299,44.128193],[25.063534,44.128424],[25.063695,44.128248],[25.064289,44.128544],[25.063435,44.129652],[25.063508,44.130391],[25.063908,44.130571],[25.063853,44.130795],[25.063748,44.131302],[25.063391,44.131677],[25.064625,44.132117],[25.064241,44.132863],[25.065494,44.133275],[25.066114,44.131526]]],"type":"Polygon"}
 }

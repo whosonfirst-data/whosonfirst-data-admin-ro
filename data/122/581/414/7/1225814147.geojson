@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.57611,44.7608,26.57611,44.7608",
-    "geom:latitude":44.7608,
-    "geom:longitude":26.57611,
+    "geom:area":0.000045,
+    "geom:area_square_m":394052.250764,
+    "geom:bbox":"26.568632,44.752793,26.581973,44.764557",
+    "geom:latitude":44.759407,
+    "geom:longitude":26.575305,
     "gn:admin1_code":"22",
     "gn:admin2_code":"100870.0",
     "gn:asciiname":"Nenisori",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.55611,44.7408,26.59611,44.7808",
+    "lbl:latitude":44.7608,
+    "lbl:longitude":26.57611,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Neni\u015fori"
+    ],
+    "name:ron_x_variant":[
+        "Nenisori"
+    ],
     "name:und_x_variant":[
         "Cacale\u0163i",
         "Neni\u015fori"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672310
+        "gn:id":672310,
+        "ro-ancpi:id":100914
     },
     "wof:country":"RO",
-    "wof:geomhash":"b6f3c4a9aaaffd4682d1eefb29cf53d1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ff7c70050545a8e947484e3b2c49ec3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1225814147,
-    "wof:lastmodified":1566611654,
-    "wof:name":"Nenisori",
+    "wof:lastmodified":1588366876,
+    "wof:name":"Neni\u015fori",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
     "wof:population":183,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.57611,
-    44.7608,
-    26.57611,
-    44.7608
+    26.568632,
+    44.752793,
+    26.581973,
+    44.764557
 ],
-  "geometry": {"coordinates":[26.57611,44.7608],"type":"Point"}
+  "geometry": {"coordinates":[[[26.579965,44.753509],[26.578611,44.753036],[26.577556,44.752793],[26.577406,44.753263],[26.578262,44.753487],[26.576756,44.755605],[26.575027,44.758021],[26.574733,44.7583],[26.57258,44.760268],[26.572447,44.760187],[26.572019,44.760614],[26.572097,44.760701],[26.571769,44.760974],[26.570325,44.761535],[26.569649,44.761876],[26.568632,44.762784],[26.570962,44.764557],[26.571883,44.764103],[26.573244,44.763305],[26.573502,44.763248],[26.574321,44.764263],[26.575935,44.763399],[26.575224,44.762232],[26.576158,44.76168],[26.578039,44.760295],[26.576521,44.758966],[26.577025,44.758258],[26.578456,44.756221],[26.579648,44.75668],[26.580544,44.75597],[26.581973,44.754886],[26.579965,44.753509]]],"type":"Polygon"}
 }

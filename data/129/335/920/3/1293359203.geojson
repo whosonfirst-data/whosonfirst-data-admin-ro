@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.34208,44.61401,27.34208,44.61401",
-    "geom:latitude":44.61401,
-    "geom:longitude":27.34208,
+    "geom:area":0.000015,
+    "geom:area_square_m":128662.075881,
+    "geom:bbox":"27.339578,44.610646,27.350414,44.615357",
+    "geom:latitude":44.613728,
+    "geom:longitude":27.342272,
     "gn:admin1_code":"22",
     "gn:admin2_code":"92836",
     "gn:asciiname":"Amara Noua",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.32208,44.59401,27.36208,44.63401",
+    "lbl:latitude":44.61401,
+    "lbl:longitude":27.34208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Amara Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Amara Noua"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10944706
+        "gn:id":10944706,
+        "ro-ancpi:id":92854
     },
     "wof:country":"RO",
-    "wof:geomhash":"59f0284cfcb76164fd8ad7541fb0f3c8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"75cabde9e5fd12b51772199db0f4dc2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1293359203,
-    "wof:lastmodified":1566610097,
-    "wof:name":"Amara Noua",
+    "wof:lastmodified":1588366687,
+    "wof:name":"Amara Nou\u0103",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
     "wof:population":7,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.34208,
-    44.61401,
-    27.34208,
-    44.61401
+    27.339578,
+    44.610646,
+    27.350414,
+    44.615357
 ],
-  "geometry": {"coordinates":[27.34208,44.61401],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.340329,44.615357],[27.341048,44.615263],[27.344851,44.615228],[27.344912,44.614031],[27.344966,44.612972],[27.344241,44.612838],[27.343089,44.612396],[27.341359,44.611918],[27.340892,44.611896],[27.340421,44.611943],[27.340096,44.612033],[27.340042,44.612119],[27.339971,44.612221],[27.339949,44.612335],[27.339912,44.612455],[27.339887,44.61262],[27.339852,44.612967],[27.339747,44.61324],[27.339669,44.613508],[27.339578,44.61363],[27.339751,44.613633],[27.339811,44.613716],[27.339819,44.613809],[27.339953,44.613865],[27.340008,44.613938],[27.340029,44.613976],[27.340003,44.61407],[27.340026,44.614215],[27.340099,44.614481],[27.340329,44.615357]]],[[[27.350414,44.610706],[27.350309,44.610646],[27.35017,44.61077],[27.350269,44.610837],[27.350414,44.610706]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.40895,46.01996,24.40895,46.01996",
-    "geom:latitude":46.01996,
-    "geom:longitude":24.40895,
+    "geom:area":0.00006,
+    "geom:area_square_m":515537.442879,
+    "geom:bbox":"24.398903,46.014597,24.409654,46.024023",
+    "geom:latitude":46.01951,
+    "geom:longitude":24.40432,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145042.0",
     "gn:asciiname":"Metis",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:als_x_preferred":[
         "Metis"
@@ -107,6 +107,9 @@
         "M\u00e9tis"
     ],
     "name:ron_x_preferred":[
+        "Meti\u015f"
+    ],
+    "name:ron_x_variant":[
         "Metis"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +140,10 @@
         "Meti\u015fdorf",
         "Meti\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -146,10 +152,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673503
+        "gn:id":673503,
+        "ro-ancpi:id":145060
     },
     "wof:country":"RO",
-    "wof:geomhash":"b83989ea48e113fc743982513c1553fa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a92deb0e3e4c1928c034da72401af00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,8 +169,8 @@
         }
     ],
     "wof:id":1242732043,
-    "wof:lastmodified":1566611439,
-    "wof:name":"Metis",
+    "wof:lastmodified":1588367111,
+    "wof:name":"Meti\u015f",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":285,
@@ -171,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.40895,
-    46.01996,
-    24.40895,
-    46.01996
+    24.398903,
+    46.014597,
+    24.409654,
+    46.024023
 ],
-  "geometry": {"coordinates":[24.40895,46.01996],"type":"Point"}
+  "geometry": {"coordinates":[[[24.409654,46.022983],[24.408388,46.022153],[24.408267,46.021221],[24.408943,46.020195],[24.407938,46.017423],[24.405516,46.017642],[24.405524,46.016896],[24.407612,46.016842],[24.408474,46.015662],[24.40649,46.014597],[24.404274,46.016271],[24.403942,46.016246],[24.402653,46.015802],[24.400974,46.015613],[24.40014,46.019294],[24.399983,46.020155],[24.399094,46.020395],[24.399366,46.02252],[24.398903,46.022659],[24.399009,46.023123],[24.402971,46.022436],[24.404874,46.022382],[24.40666,46.02297],[24.408608,46.024023],[24.409654,46.022983]]],"type":"Polygon"}
 }

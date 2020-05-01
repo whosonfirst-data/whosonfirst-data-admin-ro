@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.13077,44.96447,26.13077,44.96447",
-    "geom:latitude":44.96447,
-    "geom:longitude":26.13077,
+    "geom:area":0.000026,
+    "geom:area_square_m":230267.967949,
+    "geom:bbox":"26.124823,44.960151,26.132177,44.96664",
+    "geom:latitude":44.963585,
+    "geom:longitude":26.128421,
     "gn:admin1_code":"30",
     "gn:admin2_code":"135949.0",
     "gn:asciiname":"Valea Popii",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.11077,44.94447,26.15077,44.98447",
+    "lbl:latitude":44.96447,
+    "lbl:longitude":26.13077,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Popii"
@@ -42,17 +44,25 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0430 \u041f\u043e\u043f\u0438\u0458"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663502
+        "gn:id":663502,
+        "ro-ancpi:id":136072
     },
     "wof:country":"RO",
-    "wof:geomhash":"700f04fdf344eeb28bdf6d6f2915ea2f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b2dc62f0800dc695c0764f424a41fc5e",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1209465169,
-    "wof:lastmodified":1566610317,
+    "wof:lastmodified":1588366733,
     "wof:name":"Valea Popii",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -72,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.13077,
-    44.96447,
-    26.13077,
-    44.96447
+    26.124823,
+    44.960151,
+    26.132177,
+    44.96664
 ],
-  "geometry": {"coordinates":[26.13077,44.96447],"type":"Point"}
+  "geometry": {"coordinates":[[[26.131266,44.963451],[26.130995,44.96308],[26.130866,44.96242],[26.13082,44.962109],[26.131146,44.961524],[26.131137,44.961525],[26.129698,44.961668],[26.129907,44.96219],[26.130425,44.962991],[26.130118,44.963065],[26.129969,44.96282],[26.129833,44.962872],[26.129565,44.962456],[26.129229,44.962502],[26.128977,44.962012],[26.128492,44.960541],[26.128151,44.96061],[26.127896,44.960151],[26.127318,44.960269],[26.127578,44.960734],[26.125961,44.961001],[26.126028,44.961216],[26.124823,44.961308],[26.12734,44.96664],[26.129035,44.966171],[26.129187,44.966479],[26.129368,44.966577],[26.129627,44.966447],[26.131036,44.9661],[26.130871,44.965812],[26.130433,44.965461],[26.132177,44.964507],[26.131803,44.963694],[26.131448,44.963746],[26.131266,44.963451]]],"type":"Polygon"}
 }

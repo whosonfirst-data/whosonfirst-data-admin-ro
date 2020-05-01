@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.07023,46.23545,23.07023,46.23545",
-    "geom:latitude":46.23545,
-    "geom:longitude":23.07023,
+    "geom:area":0.000012,
+    "geom:area_square_m":106258.116202,
+    "geom:bbox":"23.061685,46.23001,23.06907,46.235229",
+    "geom:latitude":46.232628,
+    "geom:longitude":23.064856,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4008.0",
     "gn:asciiname":"Ghedulesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ghedule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ghedulesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677485
+        "gn:id":677485,
+        "ro-ancpi:id":4062
     },
     "wof:country":"RO",
-    "wof:geomhash":"5c6c2a3faa2278a7c37022c59cc21466",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"35230c6680e55c2b238fd531267f479c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1242891575,
-    "wof:lastmodified":1566611440,
-    "wof:name":"Ghedulesti",
+    "wof:lastmodified":1588367036,
+    "wof:name":"Ghedule\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":100,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.07023,
-    46.23545,
-    23.07023,
-    46.23545
+    23.061685,
+    46.23001,
+    23.06907,
+    46.235229
 ],
-  "geometry": {"coordinates":[23.07023,46.23545],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.06464,46.232107],[23.061854,46.231633],[23.061854,46.232096],[23.061685,46.233017],[23.062032,46.233379],[23.061847,46.234241],[23.062937,46.234366],[23.06431,46.234697],[23.064907,46.235229],[23.065307,46.235034],[23.065378,46.234455],[23.064626,46.233482],[23.06464,46.232107]]],[[[23.06907,46.23105],[23.067801,46.23001],[23.066908,46.230751],[23.065739,46.231777],[23.067709,46.232621],[23.06907,46.23105]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.1865,46.73169,24.1865,46.73169",
-    "geom:latitude":46.73169,
-    "geom:longitude":24.1865,
+    "geom:area":0.000073,
+    "geom:area_square_m":615011.6263,
+    "geom:bbox":"24.175237,46.72871,24.190777,46.74149",
+    "geom:latitude":46.733581,
+    "geom:longitude":24.18211,
     "gn:admin1_code":"27",
     "gn:admin2_code":"119242.0",
     "gn:asciiname":"Titiana",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.1665,46.71169,24.2065,46.75169",
+    "lbl:latitude":46.73169,
+    "lbl:longitude":24.1865,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Titiana"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664898
+        "gn:id":664898,
+        "ro-ancpi:id":119313
     },
     "wof:country":"RO",
-    "wof:geomhash":"560748500912e0dba5e4895b971b235c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6460b10ae252d00cc966ba4f8e2f37f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1242643989,
-    "wof:lastmodified":1566611513,
+    "wof:lastmodified":1588366841,
     "wof:name":"Titiana",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.1865,
-    46.73169,
-    24.1865,
-    46.73169
+    24.175237,
+    46.72871,
+    24.190777,
+    46.74149
 ],
-  "geometry": {"coordinates":[24.1865,46.73169],"type":"Point"}
+  "geometry": {"coordinates":[[[24.181692,46.735133],[24.181535,46.734515],[24.183073,46.735987],[24.187026,46.733573],[24.186437,46.733044],[24.190777,46.731294],[24.188534,46.730366],[24.189573,46.729688],[24.188915,46.729296],[24.188378,46.729726],[24.18291,46.729162],[24.181912,46.729338],[24.180295,46.72871],[24.178268,46.731092],[24.179523,46.731489],[24.177579,46.734921],[24.178535,46.735384],[24.175841,46.737943],[24.177511,46.739351],[24.175237,46.741404],[24.177215,46.74149],[24.17729,46.740898],[24.179451,46.740708],[24.179497,46.737627],[24.180914,46.736108],[24.181692,46.735133]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.15886,44.87406,24.15886,44.87406",
-    "geom:latitude":44.87406,
-    "geom:longitude":24.15886,
+    "geom:area":0.000054,
+    "geom:area_square_m":477292.516687,
+    "geom:bbox":"24.150191,44.86847,24.161116,44.887786",
+    "geom:latitude":44.877721,
+    "geom:longitude":24.156674,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172947.0",
     "gn:asciiname":"Crangu",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:ron_x_variant":[
+        "Crangu"
+    ],
     "name:und_x_variant":[
         "Lahovari",
         "Cr\u00eengu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680223
+        "gn:id":680223,
+        "ro-ancpi:id":172983
     },
     "wof:country":"RO",
-    "wof:geomhash":"96ca4761b926437267e05f3638f07289",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5070d46879cd8adc889b3197efa5889e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1360116313,
-    "wof:lastmodified":1566610630,
-    "wof:name":"Crangu",
+    "wof:lastmodified":1588367158,
+    "wof:name":"Cr\u00e2ngu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":429,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.15886,
-    44.87406,
-    24.15886,
-    44.87406
+    24.150191,
+    44.86847,
+    24.161116,
+    44.887786
 ],
-  "geometry": {"coordinates":[24.15886,44.87406],"type":"Point"}
+  "geometry": {"coordinates":[[[24.161116,44.869261],[24.159129,44.86847],[24.15763,44.869664],[24.154867,44.873022],[24.152783,44.872966],[24.152718,44.87346],[24.153293,44.873702],[24.156519,44.87493],[24.157529,44.877121],[24.158566,44.877541],[24.156838,44.880355],[24.154727,44.882498],[24.153099,44.883693],[24.150191,44.887183],[24.152416,44.887786],[24.153181,44.88648],[24.155217,44.884519],[24.157982,44.882377],[24.158423,44.882019],[24.159581,44.880691],[24.160035,44.879573],[24.160113,44.8784],[24.158616,44.874787],[24.158873,44.872087],[24.161116,44.869261]]],"type":"Polygon"}
 }

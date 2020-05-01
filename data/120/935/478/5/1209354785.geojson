@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.89363,45.63312,21.89363,45.63312",
-    "geom:latitude":45.63312,
-    "geom:longitude":21.89363,
+    "geom:area":0.00001,
+    "geom:area_square_m":84466.875625,
+    "geom:bbox":"21.89023,45.63062,21.894213,45.63458",
+    "geom:latitude":45.632504,
+    "geom:longitude":21.891931,
     "gn:admin1_code":"36",
     "gn:admin2_code":"159259.0",
     "gn:asciiname":"Pini",
@@ -25,22 +25,35 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.87363,45.61312,21.91363,45.65312",
+    "lbl:latitude":45.63312,
+    "lbl:longitude":21.89363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pini"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670789
+        "gn:id":670789,
+        "ro-ancpi:id":159311
     },
     "wof:country":"RO",
-    "wof:geomhash":"4801edb9add33c42503f7dc414b4f171",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a87f5680d4fef87902c1d65dad6d9b47",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1209354785,
-    "wof:lastmodified":1566610352,
+    "wof:lastmodified":1588366740,
     "wof:name":"Pini",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.89363,
-    45.63312,
-    21.89363,
-    45.63312
+    21.89023,
+    45.63062,
+    21.894213,
+    45.63458
 ],
-  "geometry": {"coordinates":[21.89363,45.63312],"type":"Point"}
+  "geometry": {"coordinates":[[[21.89291,45.630937],[21.892696,45.63062],[21.890272,45.631373],[21.89023,45.63295],[21.890947,45.63458],[21.894213,45.632925],[21.894045,45.63267],[21.893484,45.631807],[21.89291,45.630937]]],"type":"Polygon"}
 }

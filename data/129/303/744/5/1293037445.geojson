@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.74062,44.52913,25.74062,44.52913",
-    "geom:latitude":44.52913,
-    "geom:longitude":25.74062,
+    "geom:area":0.000083,
+    "geom:area_square_m":734368.759996,
+    "geom:bbox":"25.733905,44.522786,25.747577,44.538035",
+    "geom:latitude":44.529238,
+    "geom:longitude":25.740543,
     "gn:admin1_code":"42",
     "gn:admin2_code":"105623.0",
     "gn:asciiname":"Draganeasca",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.72062,44.50913,25.76062,44.54913",
+    "lbl:latitude":44.52913,
+    "lbl:longitude":25.74062,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dr\u0103g\u0103neasca"
+    ],
+    "name:ron_x_variant":[
+        "Draganeasca"
+    ],
     "name:und_x_variant":[
         "Dr\u0103g\u0103neasca",
         "Dr\u0103g\u0103neasa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679005
+        "gn:id":679005,
+        "ro-ancpi:id":105650
     },
     "wof:country":"RO",
-    "wof:geomhash":"f3046a0a52cea15ba707d78f8d2a03a8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ab09776e616bef2259c667352089c7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293037445,
-    "wof:lastmodified":1566610093,
-    "wof:name":"Draganeasca",
+    "wof:lastmodified":1588366686,
+    "wof:name":"Dr\u0103g\u0103neasca",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":615,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.74062,
-    44.52913,
-    25.74062,
-    44.52913
+    25.733905,
+    44.522786,
+    25.747577,
+    44.538035
 ],
-  "geometry": {"coordinates":[25.74062,44.52913],"type":"Point"}
+  "geometry": {"coordinates":[[[25.744414,44.53278],[25.744523,44.531755],[25.744535,44.531283],[25.744567,44.530759],[25.743806,44.529946],[25.743874,44.529716],[25.745107,44.528378],[25.744925,44.528047],[25.742806,44.526396],[25.743619,44.525587],[25.743105,44.525273],[25.743358,44.525038],[25.742792,44.524665],[25.742487,44.524948],[25.739522,44.523237],[25.738509,44.522786],[25.73766,44.523643],[25.737326,44.523967],[25.736989,44.524297],[25.73695,44.524345],[25.736905,44.524425],[25.735979,44.525444],[25.735024,44.526381],[25.733905,44.527583],[25.734246,44.528118],[25.736289,44.530723],[25.736513,44.530979],[25.737219,44.530596],[25.740333,44.53381],[25.740761,44.533375],[25.741375,44.532487],[25.741598,44.53268],[25.742016,44.533132],[25.742725,44.533924],[25.746304,44.538035],[25.746968,44.537499],[25.747577,44.537004],[25.747357,44.53657],[25.744414,44.53278]]],"type":"Polygon"}
 }

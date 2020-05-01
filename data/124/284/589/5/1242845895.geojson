@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.80221,44.50622,23.80221,44.50622",
-    "geom:latitude":44.50622,
-    "geom:longitude":23.80221,
+    "geom:area":0.000054,
+    "geom:area_square_m":476046.312489,
+    "geom:bbox":"23.797322,44.500283,23.805345,44.509712",
+    "geom:latitude":44.505116,
+    "geom:longitude":23.800806,
     "gn:admin1_code":"17",
     "gn:admin2_code":"72677.0",
     "gn:asciiname":"Gruita",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.78221,44.48622,23.82221,44.52622",
+    "lbl:latitude":44.50622,
+    "lbl:longitude":23.80221,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Grui\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Gruita"
+    ],
     "name:und_x_variant":[
         "Crucile",
         "Grui\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676620
+        "gn:id":676620,
+        "ro-ancpi:id":72711
     },
     "wof:country":"RO",
-    "wof:geomhash":"d2f393d0196404014cf7cf353a652599",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b8681439902c1e97438bef94f0edadd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1242845895,
-    "wof:lastmodified":1566611500,
-    "wof:name":"Gruita",
+    "wof:lastmodified":1588366837,
+    "wof:name":"Grui\u0163a",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":28,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.80221,
-    44.50622,
-    23.80221,
-    44.50622
+    23.797322,
+    44.500283,
+    23.805345,
+    44.509712
 ],
-  "geometry": {"coordinates":[23.80221,44.50622],"type":"Point"}
+  "geometry": {"coordinates":[[[23.800037,44.509154],[23.802408,44.509163],[23.802513,44.50968],[23.803977,44.509712],[23.804171,44.508184],[23.804161,44.507535],[23.802696,44.506455],[23.802994,44.505561],[23.80378,44.504621],[23.804666,44.50335],[23.805345,44.50196],[23.799292,44.500283],[23.798379,44.50177],[23.797356,44.502906],[23.797322,44.50565],[23.797983,44.509598],[23.799887,44.509685],[23.800037,44.509154]]],"type":"Polygon"}
 }

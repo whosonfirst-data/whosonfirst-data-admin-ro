@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.69581,45.7765,24.69581,45.7765",
-    "geom:latitude":45.7765,
-    "geom:longitude":24.69581,
+    "geom:area":0.000029,
+    "geom:area_square_m":247340.878719,
+    "geom:bbox":"24.692576,45.772429,24.697608,45.781596",
+    "geom:latitude":45.776957,
+    "geom:longitude":24.695067,
     "gn:admin1_code":"09",
     "gn:admin2_code":"42101.0",
     "gn:asciiname":"Corbi",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.67581,45.7565,24.71581,45.7965",
+    "lbl:latitude":45.7765,
+    "lbl:longitude":24.69581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0628\u064a"
@@ -58,6 +60,9 @@
         "Corbi"
     ],
     "name:ron_x_preferred":[
+        "Corbi"
+    ],
+    "name:ron_x_variant":[
         "Comuna Corbi"
     ],
     "name:sqi_x_preferred":[
@@ -78,17 +83,25 @@
     "name:zho_x_preferred":[
         "\u79d1\u723e\u6bd4\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680879
+        "gn:id":680879,
+        "ro-ancpi:id":42129
     },
     "wof:country":"RO",
-    "wof:geomhash":"a8dfc7ba395888d1453026b3d9c0ca09",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"09c503b1fa12de160583d13dadb0cf24",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -96,7 +109,7 @@
         }
     ],
     "wof:id":1209101923,
-    "wof:lastmodified":1566610395,
+    "wof:lastmodified":1588366748,
     "wof:name":"Corbi",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -108,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.69581,
-    45.7765,
-    24.69581,
-    45.7765
+    24.692576,
+    45.772429,
+    24.697608,
+    45.781596
 ],
-  "geometry": {"coordinates":[24.69581,45.7765],"type":"Point"}
+  "geometry": {"coordinates":[[[24.696177,45.779969],[24.696437,45.778639],[24.697302,45.778827],[24.697608,45.777885],[24.696815,45.777647],[24.696989,45.776787],[24.697028,45.776174],[24.696972,45.775535],[24.696983,45.774917],[24.697182,45.773958],[24.697333,45.773397],[24.697559,45.772805],[24.696683,45.772705],[24.695632,45.772558],[24.695196,45.772441],[24.694917,45.772429],[24.694752,45.772825],[24.694581,45.773271],[24.693985,45.774155],[24.693465,45.774952],[24.693479,45.775637],[24.693576,45.775979],[24.693651,45.776298],[24.693478,45.776971],[24.693307,45.777331],[24.693187,45.777715],[24.692963,45.778424],[24.692853,45.779156],[24.692851,45.77961],[24.692678,45.780421],[24.692576,45.780951],[24.692577,45.78159],[24.693494,45.781596],[24.693769,45.781527],[24.694134,45.781471],[24.694363,45.781446],[24.694829,45.781377],[24.694637,45.781094],[24.694439,45.780731],[24.694318,45.780239],[24.695619,45.78015],[24.695612,45.779995],[24.696177,45.779969]]],"type":"Polygon"}
 }

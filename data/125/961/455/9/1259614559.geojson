@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.28778,45.05876,24.28778,45.05876",
-    "geom:latitude":45.05876,
-    "geom:longitude":24.28778,
+    "geom:area":0.000148,
+    "geom:area_square_m":1293343.644859,
+    "geom:bbox":"24.272417,45.049863,24.296109,45.062452",
+    "geom:latitude":45.056698,
+    "geom:longitude":24.283634,
     "gn:admin1_code":"39",
     "gn:admin2_code":"167473.0",
     "gn:asciiname":"Cazanesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.26778,45.03876,24.30778,45.07876",
+    "lbl:latitude":45.05876,
+    "lbl:longitude":24.28778,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u0103z\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cazanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682497
+        "gn:id":682497,
+        "ro-ancpi:id":167507
     },
     "wof:country":"RO",
-    "wof:geomhash":"895eb68fcf4fe196f233d5cc07486c54",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f68fa2a4d875d40f841e3bfd5f07bedc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1259614559,
-    "wof:lastmodified":1566611574,
-    "wof:name":"Cazanesti",
+    "wof:lastmodified":1588366856,
+    "wof:name":"C\u0103z\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":812,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28778,
-    45.05876,
-    24.28778,
-    45.05876
+    24.272417,
+    45.049863,
+    24.296109,
+    45.062452
 ],
-  "geometry": {"coordinates":[24.28778,45.05876],"type":"Point"}
+  "geometry": {"coordinates":[[[24.290765,45.061877],[24.296109,45.05827],[24.287974,45.054214],[24.27924,45.049863],[24.275974,45.053108],[24.272417,45.056929],[24.273416,45.059221],[24.277337,45.057437],[24.279597,45.060868],[24.284323,45.059918],[24.287765,45.062452],[24.290765,45.061877]]],"type":"Polygon"}
 }

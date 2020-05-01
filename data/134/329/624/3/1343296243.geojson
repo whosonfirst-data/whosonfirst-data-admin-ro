@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.7251,47.26643,23.7251,47.26643",
-    "geom:latitude":47.26643,
-    "geom:longitude":23.7251,
+    "geom:area":0.000006,
+    "geom:area_square_m":46163.995882,
+    "geom:bbox":"23.721189,47.264426,23.72637,47.267938",
+    "geom:latitude":47.266528,
+    "geom:longitude":23.723569,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141134.0",
     "gn:asciiname":"Gura Vladesei",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gura Vl\u0103desei"
+    ],
+    "name:ron_x_variant":[
+        "Gura Vladesei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676453
+        "gn:id":676453,
+        "ro-ancpi:id":141223
     },
     "wof:country":"RO",
-    "wof:geomhash":"db57c125709061202d542b9e24bba524",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a6743fce7f0e3f338d92a5d92608a1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1343296243,
-    "wof:lastmodified":1566609973,
-    "wof:name":"Gura Vladesei",
+    "wof:lastmodified":1588367110,
+    "wof:name":"Gura Vl\u0103desei",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":16,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.7251,
-    47.26643,
-    23.7251,
-    47.26643
+    23.721189,
+    47.264426,
+    23.72637,
+    47.267938
 ],
-  "geometry": {"coordinates":[23.7251,47.26643],"type":"Point"}
+  "geometry": {"coordinates":[[[23.721189,47.267483],[23.722067,47.267765],[23.72245,47.26736],[23.723214,47.267209],[23.723734,47.26712],[23.724031,47.267133],[23.724119,47.2672],[23.724377,47.267109],[23.724808,47.267316],[23.725331,47.26766],[23.726196,47.267938],[23.72637,47.267563],[23.725437,47.267276],[23.725129,47.266872],[23.724628,47.266745],[23.724418,47.266258],[23.72427,47.266087],[23.724065,47.26599],[23.724094,47.265657],[23.723953,47.265458],[23.724291,47.265226],[23.724499,47.264895],[23.724678,47.264605],[23.724254,47.264426],[23.723561,47.265124],[23.723485,47.26509],[23.722576,47.266148],[23.722658,47.266187],[23.721962,47.266687],[23.721559,47.267064],[23.721395,47.267255],[23.721189,47.267483]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.57902,45.66382,22.57902,45.66382",
-    "geom:latitude":45.66382,
-    "geom:longitude":22.57902,
+    "geom:area":0.000004,
+    "geom:area_square_m":34586.649297,
+    "geom:bbox":"22.573469,45.659465,22.577251,45.661174",
+    "geom:latitude":45.660296,
+    "geom:longitude":22.575361,
     "gn:admin1_code":"21",
     "gn:admin2_code":"90119.0",
     "gn:asciiname":"Ciumita",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciumi\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Ciumita"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681424
+        "gn:id":681424,
+        "ro-ancpi:id":90137
     },
     "wof:country":"RO",
-    "wof:geomhash":"f519d878042f35b9f49764e3de1997fc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9be48ff24641f9661c2193976458d519",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1327407897,
-    "wof:lastmodified":1566609806,
-    "wof:name":"Ciumita",
+    "wof:lastmodified":1588367052,
+    "wof:name":"Ciumi\u0163a",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":4,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.57902,
-    45.66382,
-    22.57902,
-    45.66382
+    22.573469,
+    45.659465,
+    22.577251,
+    45.661174
 ],
-  "geometry": {"coordinates":[22.57902,45.66382],"type":"Point"}
+  "geometry": {"coordinates":[[[22.577251,45.660729],[22.576492,45.659465],[22.573469,45.659918],[22.573689,45.660461],[22.574465,45.660984],[22.574898,45.661174],[22.576307,45.660767],[22.577251,45.660729]]],"type":"Polygon"}
 }

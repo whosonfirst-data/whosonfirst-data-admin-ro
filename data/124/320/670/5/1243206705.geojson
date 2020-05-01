@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.99229,44.94404,23.99229,44.94404",
-    "geom:latitude":44.94404,
-    "geom:longitude":23.99229,
+    "geom:area":0.000018,
+    "geom:area_square_m":161572.092813,
+    "geom:bbox":"23.986286,44.940835,23.993713,44.94732",
+    "geom:latitude":44.944063,
+    "geom:longitude":23.989857,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170792.0",
     "gn:asciiname":"Serbanesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u015eerb\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Serbanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667377
+        "gn:id":667377,
+        "ro-ancpi:id":170854
     },
     "wof:country":"RO",
-    "wof:geomhash":"e257ef4cac040e4bf393975efe9e3e2e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c76cd596b5e73f99be8dea47f757ae98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1243206705,
-    "wof:lastmodified":1566611518,
-    "wof:name":"Serbanesti",
+    "wof:lastmodified":1588367025,
+    "wof:name":"\u015eerb\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":294,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.99229,
-    44.94404,
-    23.99229,
-    44.94404
+    23.986286,
+    44.940835,
+    23.993713,
+    44.94732
 ],
-  "geometry": {"coordinates":[23.99229,44.94404],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.993713,44.944979],[23.993617,44.943813],[23.991562,44.944242],[23.99126,44.942334],[23.98848,44.942377],[23.988353,44.944112],[23.986286,44.944434],[23.986554,44.945559],[23.988476,44.94527],[23.988108,44.947139],[23.989351,44.94732],[23.990303,44.94498],[23.993465,44.945042],[23.993713,44.944979]]],[[[23.991546,44.941889],[23.991945,44.940835],[23.989252,44.941009],[23.989341,44.942063],[23.991546,44.941889]]]],"type":"MultiPolygon"}
 }

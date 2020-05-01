@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.18759,44.53453,26.18759,44.53453",
-    "geom:latitude":44.53453,
-    "geom:longitude":26.18759,
+    "geom:area":0.000026,
+    "geom:area_square_m":225753.105023,
+    "geom:bbox":"26.182659,44.530531,26.192222,44.535329",
+    "geom:latitude":44.533056,
+    "geom:longitude":26.187651,
     "gn:admin1_code":"43",
     "gn:admin2_code":"105419.0",
     "gn:asciiname":"Cretuleasca",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.16759,44.51453,26.20759,44.55453",
+    "lbl:latitude":44.53453,
+    "lbl:longitude":26.18759,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cre\u0163uleasca"
+    ],
+    "name:ron_x_variant":[
+        "Cretuleasca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680265
+        "gn:id":680265,
+        "ro-ancpi:id":105437
     },
     "wof:country":"RO",
-    "wof:geomhash":"7656f8f0d0a5263570ccf83266e17333",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"60dfeb1849ed7b10424783185392a80b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1276480951,
-    "wof:lastmodified":1566610248,
-    "wof:name":"Cretuleasca",
+    "wof:lastmodified":1588366720,
+    "wof:name":"Cre\u0163uleasca",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",
     "wof:population":226,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.18759,
-    44.53453,
-    26.18759,
-    44.53453
+    26.182659,
+    44.530531,
+    26.192222,
+    44.535329
 ],
-  "geometry": {"coordinates":[26.18759,44.53453],"type":"Point"}
+  "geometry": {"coordinates":[[[26.190414,44.534597],[26.19099,44.534548],[26.192027,44.5346],[26.192222,44.53457],[26.191881,44.532303],[26.189462,44.532472],[26.189017,44.531782],[26.188058,44.531283],[26.187216,44.531088],[26.185393,44.530926],[26.18529,44.530531],[26.184374,44.530563],[26.183969,44.530896],[26.182659,44.531023],[26.18365,44.531511],[26.184482,44.53277],[26.184586,44.533187],[26.185132,44.533612],[26.185337,44.534323],[26.184771,44.534521],[26.184855,44.534758],[26.186153,44.53479],[26.186225,44.535205],[26.186485,44.535222],[26.187184,44.535329],[26.188079,44.535291],[26.189009,44.535011],[26.189421,44.534707],[26.190414,44.534597]]],"type":"Polygon"}
 }

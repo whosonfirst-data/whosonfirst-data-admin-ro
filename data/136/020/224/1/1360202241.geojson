@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.1509,46.1809,23.1509,46.1809",
-    "geom:latitude":46.1809,
-    "geom:longitude":23.1509,
+    "geom:area":0.000008,
+    "geom:area_square_m":69724.771614,
+    "geom:bbox":"23.130825,46.182723,23.140278,46.184805",
+    "geom:latitude":46.183888,
+    "geom:longitude":23.135123,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1936",
     "gn:asciiname":"Botesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bote\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Botesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684073
+        "gn:id":684073,
+        "ro-ancpi:id":1954
     },
     "wof:country":"RO",
-    "wof:geomhash":"4d6e716210be105ad07b7d4dbcc54a0d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"04bd2ed959d0fc5c52f3ce899d5da48e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1360202241,
-    "wof:lastmodified":1566610626,
-    "wof:name":"Botesti",
+    "wof:lastmodified":1588367089,
+    "wof:name":"Bote\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":113,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.1509,
-    46.1809,
-    23.1509,
-    46.1809
+    23.130825,
+    46.182723,
+    23.140278,
+    46.184805
 ],
-  "geometry": {"coordinates":[23.1509,46.1809],"type":"Point"}
+  "geometry": {"coordinates":[[[23.132621,46.184291],[23.133613,46.184237],[23.134709,46.184717],[23.136312,46.184697],[23.13686,46.184197],[23.137823,46.183873],[23.138892,46.183937],[23.140278,46.183813],[23.140123,46.18318],[23.140013,46.183185],[23.139687,46.183204],[23.139331,46.183228],[23.138863,46.183254],[23.138602,46.183266],[23.138342,46.183279],[23.137958,46.183311],[23.137742,46.183366],[23.137524,46.183474],[23.137353,46.183239],[23.136601,46.18356],[23.135445,46.1836],[23.134314,46.183628],[23.132382,46.183386],[23.131553,46.182723],[23.131262,46.182853],[23.131565,46.183116],[23.131542,46.183555],[23.130825,46.184064],[23.131459,46.184399],[23.131328,46.184498],[23.131167,46.184621],[23.131474,46.184805],[23.131827,46.1846],[23.132621,46.184291]]],"type":"Polygon"}
 }

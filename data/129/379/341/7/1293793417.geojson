@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.15581,46.41455,23.15581,46.41455",
-    "geom:latitude":46.41455,
-    "geom:longitude":23.15581,
+    "geom:area":0.000004,
+    "geom:area_square_m":31142.489605,
+    "geom:bbox":"23.153057,46.407768,23.16504,46.41521",
+    "geom:latitude":46.412748,
+    "geom:longitude":23.157759,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039.0",
     "gn:asciiname":"Runcuri",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.13581,46.39455,23.17581,46.43455",
+    "lbl:latitude":46.41455,
+    "lbl:longitude":23.15581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Runcuri"
+    ],
     "name:und_x_variant":[
         "Runcului",
         "Runcuri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668445
+        "gn:id":668445,
+        "ro-ancpi:id":3299
     },
     "wof:country":"RO",
-    "wof:geomhash":"654c41ad58a6567ea937795e3540deda",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73966f0bc1a458620ef34252c153b4f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1293793417,
-    "wof:lastmodified":1566610059,
+    "wof:lastmodified":1588366679,
     "wof:name":"Runcuri",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.15581,
-    46.41455,
-    23.15581,
-    46.41455
+    23.153057,
+    46.407768,
+    23.16504,
+    46.41521
 ],
-  "geometry": {"coordinates":[23.15581,46.41455],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.156474,46.414691],[23.153344,46.413761],[23.153057,46.414364],[23.156055,46.41521],[23.156474,46.414691]]],[[[23.161315,46.411232],[23.161027,46.410034],[23.159822,46.410175],[23.159925,46.410434],[23.16026,46.410743],[23.160292,46.411072],[23.161315,46.411232]]],[[[23.16307,46.412429],[23.162664,46.412196],[23.162362,46.412448],[23.163079,46.412931],[23.16307,46.412429]]],[[[23.16504,46.408275],[23.164892,46.407768],[23.164448,46.407809],[23.164612,46.40832],[23.16504,46.408275]]]],"type":"MultiPolygon"}
 }

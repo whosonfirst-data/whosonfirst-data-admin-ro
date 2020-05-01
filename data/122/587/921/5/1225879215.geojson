@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21227,44.86321,24.21227,44.86321",
-    "geom:latitude":44.86321,
-    "geom:longitude":24.21227,
+    "geom:area":0.000037,
+    "geom:area_square_m":320807.7287,
+    "geom:bbox":"24.205833,44.855912,24.216066,44.866563",
+    "geom:latitude":44.862108,
+    "geom:longitude":24.211684,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170514.0",
     "gn:asciiname":"Guguianca",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.19227,44.84321,24.23227,44.88321",
+    "lbl:latitude":44.86321,
+    "lbl:longitude":24.21227,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Guguianca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676579
+        "gn:id":676579,
+        "ro-ancpi:id":170587
     },
     "wof:country":"RO",
-    "wof:geomhash":"f6afb754a208d16081002bf7764a9804",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"74e7ee4af2bcd7a5f239c561564a12e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1225879215,
-    "wof:lastmodified":1566611660,
+    "wof:lastmodified":1588366878,
     "wof:name":"Guguianca",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.21227,
-    44.86321,
-    24.21227,
-    44.86321
+    24.205833,
+    44.855912,
+    24.216066,
+    44.866563
 ],
-  "geometry": {"coordinates":[24.21227,44.86321],"type":"Point"}
+  "geometry": {"coordinates":[[[24.206742,44.866563],[24.207773,44.865958],[24.208633,44.866098],[24.209503,44.865453],[24.212217,44.865893],[24.214117,44.865457],[24.213136,44.863679],[24.212304,44.861529],[24.214358,44.860892],[24.215493,44.858602],[24.216066,44.856098],[24.214023,44.855912],[24.212519,44.859558],[24.209578,44.862026],[24.205833,44.866136],[24.206742,44.866563]]],"type":"Polygon"}
 }

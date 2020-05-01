@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.16578,47.87919,26.16578,47.87919",
-    "geom:latitude":47.87919,
-    "geom:longitude":26.16578,
+    "geom:area":0.000039,
+    "geom:area_square_m":321733.886098,
+    "geom:bbox":"26.155454,47.873354,26.169438,47.879768",
+    "geom:latitude":47.876213,
+    "geom:longitude":26.162416,
     "gn:admin1_code":"34",
     "gn:admin2_code":"151246",
     "gn:asciiname":"Badragi",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Badragi"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685879
+        "gn:id":685879,
+        "ro-ancpi:id":151264
     },
     "wof:country":"RO",
-    "wof:geomhash":"a35b47a3e4172aa578b591c9b93241a3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3ef4e1631d86986548188518a9581370",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1226483233,
-    "wof:lastmodified":1566611690,
+    "wof:lastmodified":1588367089,
     "wof:name":"Badragi",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.16578,
-    47.87919,
-    26.16578,
-    47.87919
+    26.155454,
+    47.873354,
+    26.169438,
+    47.879768
 ],
-  "geometry": {"coordinates":[26.16578,47.87919],"type":"Point"}
+  "geometry": {"coordinates":[[[26.167123,47.877521],[26.169438,47.87587],[26.168755,47.875273],[26.168698,47.875223],[26.168341,47.874912],[26.167802,47.875203],[26.167026,47.874611],[26.163943,47.876836],[26.162804,47.876641],[26.162622,47.874725],[26.163611,47.873963],[26.162704,47.873354],[26.161513,47.873991],[26.160785,47.873394],[26.158273,47.873971],[26.156343,47.874418],[26.155454,47.87463],[26.156073,47.875113],[26.15725,47.876203],[26.158811,47.877294],[26.159545,47.876914],[26.161091,47.877891],[26.163983,47.879768],[26.164236,47.879587],[26.164314,47.879531],[26.167123,47.877521]]],"type":"Polygon"}
 }

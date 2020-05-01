@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2681,46.5546,24.2681,46.5546",
-    "geom:latitude":46.5546,
-    "geom:longitude":24.2681,
+    "geom:area":0.00001,
+    "geom:area_square_m":87301.681791,
+    "geom:bbox":"24.260032,46.551713,24.271021,46.554897",
+    "geom:latitude":46.553588,
+    "geom:longitude":24.26591,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117667.0",
     "gn:asciiname":"Ghidasteu",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ghida\u015fteu"
+    ],
+    "name:ron_x_variant":[
+        "Ghidasteu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677402
+        "gn:id":677402,
+        "ro-ancpi:id":117738
     },
     "wof:country":"RO",
-    "wof:geomhash":"ea0ac599621b084100f8ca72ab54779b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd415ef4a162a04b910bd0590b5a7d9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226704389,
-    "wof:lastmodified":1566611687,
-    "wof:name":"Ghidasteu",
+    "wof:lastmodified":1588367064,
+    "wof:name":"Ghida\u015fteu",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":28,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2681,
-    46.5546,
-    24.2681,
-    46.5546
+    24.260032,
+    46.551713,
+    24.271021,
+    46.554897
 ],
-  "geometry": {"coordinates":[24.2681,46.5546],"type":"Point"}
+  "geometry": {"coordinates":[[[24.267129,46.554897],[24.266884,46.554329],[24.268776,46.553438],[24.269074,46.553764],[24.269798,46.553548],[24.269671,46.553026],[24.271021,46.552502],[24.270729,46.551713],[24.268769,46.552673],[24.266765,46.553251],[24.264999,46.553541],[24.264007,46.55365],[24.262398,46.553466],[24.261477,46.553333],[24.260361,46.552735],[24.260032,46.553474],[24.262607,46.554185],[24.263139,46.554548],[24.263472,46.554758],[24.263796,46.55439],[24.267129,46.554897]]],"type":"Polygon"}
 }

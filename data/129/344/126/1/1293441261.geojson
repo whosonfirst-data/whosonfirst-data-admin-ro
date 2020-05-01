@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.59993,46.58038,27.59993,46.58038",
-    "geom:latitude":46.58038,
-    "geom:longitude":27.59993,
+    "geom:area":0.000012,
+    "geom:area_square_m":105834.619688,
+    "geom:bbox":"27.596835,46.577636,27.601877,46.581784",
+    "geom:latitude":46.580021,
+    "geom:longitude":27.599493,
     "gn:admin1_code":"38",
     "gn:admin2_code":"162595",
     "gn:asciiname":"Plopeni",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.57993,46.56038,27.61993,46.60038",
+    "lbl:latitude":46.58038,
+    "lbl:longitude":27.59993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Plopeni"
@@ -96,7 +98,11 @@
     "name:zho_x_preferred":[
         "\u666e\u6d1b\u4f69\u5c3c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -104,10 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11002902
+        "gn:id":11002902,
+        "ro-ancpi:id":162657
     },
     "wof:country":"RO",
-    "wof:geomhash":"59b14bb44f2f65d2d58e016ba4ea0284",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4a99e6ef26638ce3a7625708e72f6f67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +127,7 @@
         }
     ],
     "wof:id":1293441261,
-    "wof:lastmodified":1566610150,
+    "wof:lastmodified":1588366698,
     "wof:name":"Plopeni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -127,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.59993,
-    46.58038,
-    27.59993,
-    46.58038
+    27.596835,
+    46.577636,
+    27.601877,
+    46.581784
 ],
-  "geometry": {"coordinates":[27.59993,46.58038],"type":"Point"}
+  "geometry": {"coordinates":[[[27.598371,46.581784],[27.598929,46.581685],[27.60051,46.581649],[27.601264,46.581316],[27.601358,46.580653],[27.600789,46.580508],[27.601005,46.580245],[27.601302,46.579477],[27.601325,46.578644],[27.601704,46.578736],[27.601877,46.57843],[27.601618,46.578235],[27.601853,46.577943],[27.601189,46.577972],[27.600173,46.577636],[27.599811,46.578779],[27.598921,46.578454],[27.597253,46.580172],[27.596835,46.581014],[27.597338,46.58152],[27.598371,46.581784]]],"type":"Polygon"}
 }

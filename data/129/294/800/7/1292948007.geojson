@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.17063,44.5088,24.17063,44.5088",
-    "geom:latitude":44.5088,
-    "geom:longitude":24.17063,
+    "geom:area":0.000024,
+    "geom:area_square_m":213502.6166,
+    "geom:bbox":"24.164589,44.505566,24.172719,44.511706",
+    "geom:latitude":44.508443,
+    "geom:longitude":24.168868,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126166",
     "gn:asciiname":"Beculesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.15063,44.4888,24.19063,44.5288",
+    "lbl:latitude":44.5088,
+    "lbl:longitude":24.17063,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Becule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Beculesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685198
+        "gn:id":685198,
+        "ro-ancpi:id":126184
     },
     "wof:country":"RO",
-    "wof:geomhash":"54b0cb3859daedf73f6b796ebec98f07",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c0224aaaf22577c52a406decf3c3997",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1292948007,
-    "wof:lastmodified":1566610055,
-    "wof:name":"Beculesti",
+    "wof:lastmodified":1588366678,
+    "wof:name":"Becule\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":158,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.17063,
-    44.5088,
-    24.17063,
-    44.5088
+    24.164589,
+    44.505566,
+    24.172719,
+    44.511706
 ],
-  "geometry": {"coordinates":[24.17063,44.5088],"type":"Point"}
+  "geometry": {"coordinates":[[[24.164589,44.508892],[24.16806,44.510364],[24.168306,44.510737],[24.168203,44.511342],[24.169017,44.511706],[24.170953,44.509603],[24.172316,44.509868],[24.172719,44.509187],[24.170941,44.508677],[24.172128,44.506903],[24.168758,44.505566],[24.164589,44.508892]]],"type":"Polygon"}
 }

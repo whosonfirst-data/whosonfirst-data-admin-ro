@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.17433,45.19237,27.17433,45.19237",
-    "geom:latitude":45.19237,
-    "geom:longitude":27.17433,
+    "geom:area":0.00003,
+    "geom:area_square_m":258164.904896,
+    "geom:bbox":"27.169001,45.18742,27.17595,45.195024",
+    "geom:latitude":45.191872,
+    "geom:longitude":27.172282,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43180.0",
     "gn:asciiname":"Pantecani",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.15433,45.17237,27.19433,45.21237",
+    "lbl:latitude":45.19237,
+    "lbl:longitude":27.17433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "P\u00e2ntecani"
+    ],
+    "name:ron_x_variant":[
+        "Pantecani"
+    ],
     "name:und_x_variant":[
         "P\u00e2ntecani",
         "P\u00eentecani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670786
+        "gn:id":670786,
+        "ro-ancpi:id":43215
     },
     "wof:country":"RO",
-    "wof:geomhash":"b2f7e8333d6703de05a0c6667e936099",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"874db9dabfdd5db764d50aa2d260dac9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1209936395,
-    "wof:lastmodified":1566610355,
-    "wof:name":"Pantecani",
+    "wof:lastmodified":1588366741,
+    "wof:name":"P\u00e2ntecani",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":176,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.17433,
-    45.19237,
-    27.17433,
-    45.19237
+    27.169001,
+    45.18742,
+    27.17595,
+    45.195024
 ],
-  "geometry": {"coordinates":[27.17433,45.19237],"type":"Point"}
+  "geometry": {"coordinates":[[[27.17595,45.194403],[27.174332,45.190217],[27.173615,45.190344],[27.173159,45.189168],[27.172574,45.189255],[27.172312,45.188699],[27.170804,45.188886],[27.170399,45.187913],[27.169934,45.18795],[27.169785,45.18742],[27.169001,45.187552],[27.16987,45.189658],[27.170155,45.190327],[27.169547,45.190438],[27.169672,45.19102],[27.169856,45.192056],[27.170081,45.192625],[27.170689,45.195024],[27.173952,45.194791],[27.17595,45.194403]]],"type":"Polygon"}
 }

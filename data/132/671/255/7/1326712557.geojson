@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.385,44.6841,25.385,44.6841",
-    "geom:latitude":44.6841,
-    "geom:longitude":25.385,
+    "geom:area":0.000022,
+    "geom:area_square_m":189753.571291,
+    "geom:bbox":"25.377737,44.680446,25.388397,44.686226",
+    "geom:latitude":44.683666,
+    "geom:longitude":25.382591,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68128.0",
     "gn:asciiname":"Chirca",
@@ -25,18 +25,27 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.365,44.6641,25.405,44.7041",
+    "lbl:latitude":44.6841,
+    "lbl:longitude":25.385,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Chirca"
     ],
     "name:ron_x_preferred":[
+        "Chirca"
+    ],
+    "name:ron_x_variant":[
         "Comuna Chirca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682062
+        "gn:id":682062,
+        "ro-ancpi:id":68146
     },
     "wof:country":"RO",
-    "wof:geomhash":"91d3df86a531d462855a451c8ca93b18",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dcb7c476bd82cffdb7feb1e6e61c5c71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1326712557,
-    "wof:lastmodified":1566609827,
+    "wof:lastmodified":1588366637,
     "wof:name":"Chirca",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.385,
-    44.6841,
-    25.385,
-    44.6841
+    25.377737,
+    44.680446,
+    25.388397,
+    44.686226
 ],
-  "geometry": {"coordinates":[25.385,44.6841],"type":"Point"}
+  "geometry": {"coordinates":[[[25.385547,44.684064],[25.383227,44.682576],[25.383107,44.682499],[25.380227,44.680652],[25.379958,44.680873],[25.37948,44.680621],[25.379388,44.680573],[25.379147,44.680446],[25.378599,44.680742],[25.378525,44.680782],[25.378365,44.680869],[25.3784,44.680895],[25.378988,44.681537],[25.38088,44.682579],[25.377786,44.684049],[25.377737,44.684072],[25.378782,44.684646],[25.378814,44.684683],[25.378904,44.684785],[25.378915,44.684796],[25.379276,44.685205],[25.381634,44.684278],[25.381697,44.684245],[25.382171,44.683994],[25.383985,44.685259],[25.386927,44.686063],[25.387015,44.686087],[25.387523,44.686226],[25.388397,44.684894],[25.388383,44.684889],[25.38831,44.684868],[25.385547,44.684064]]],"type":"Polygon"}
 }

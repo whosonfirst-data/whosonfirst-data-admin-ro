@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.15654,46.59386,24.15654,46.59386",
-    "geom:latitude":46.59386,
-    "geom:longitude":24.15654,
+    "geom:area":0.00002,
+    "geom:area_square_m":172453.511796,
+    "geom:bbox":"24.144089,46.590568,24.159843,46.595357",
+    "geom:latitude":46.593339,
+    "geom:longitude":24.151901,
     "gn:admin1_code":"27",
     "gn:admin2_code":"120370.0",
     "gn:asciiname":"Tau",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.13654,46.57386,24.17654,46.61386",
+    "lbl:latitude":46.59386,
+    "lbl:longitude":24.15654,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Tau"
@@ -178,6 +180,9 @@
         "Tau"
     ],
     "name:ron_x_preferred":[
+        "T\u0103u"
+    ],
+    "name:ron_x_variant":[
         "Tau"
     ],
     "name:rus_x_preferred":[
@@ -219,7 +224,11 @@
     "name:war_x_preferred":[
         "Tau"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -228,10 +237,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665408
+        "gn:id":665408,
+        "ro-ancpi:id":120469
     },
     "wof:country":"RO",
-    "wof:geomhash":"213af0de00c9cb1af8932195b41feab4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c52694abb2c44bd8fa483766ce373768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -241,8 +254,8 @@
         }
     ],
     "wof:id":1276708265,
-    "wof:lastmodified":1566610240,
-    "wof:name":"Tau",
+    "wof:lastmodified":1588366718,
+    "wof:name":"T\u0103u",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":59,
@@ -253,10 +266,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.15654,
-    46.59386,
-    24.15654,
-    46.59386
+    24.144089,
+    46.590568,
+    24.159843,
+    46.595357
 ],
-  "geometry": {"coordinates":[24.15654,46.59386],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.159843,46.595307],[24.159631,46.594727],[24.158506,46.59484],[24.157565,46.594809],[24.157633,46.59403],[24.157498,46.592766],[24.156381,46.592671],[24.155467,46.592478],[24.154785,46.593453],[24.153929,46.593316],[24.152767,46.593024],[24.152793,46.592792],[24.152317,46.592712],[24.152163,46.592696],[24.151224,46.593789],[24.150725,46.594299],[24.151982,46.594591],[24.154179,46.594825],[24.157584,46.595209],[24.159197,46.595357],[24.159843,46.595307]]],[[[24.146629,46.593058],[24.147454,46.592494],[24.147819,46.592662],[24.148467,46.591955],[24.147156,46.591255],[24.146454,46.590588],[24.145968,46.590891],[24.145548,46.590568],[24.144544,46.590936],[24.145535,46.592042],[24.144089,46.592963],[24.144912,46.593817],[24.145937,46.593435],[24.146629,46.593058]]]],"type":"MultiPolygon"}
 }

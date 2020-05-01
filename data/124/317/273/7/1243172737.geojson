@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.06305,46.40773,27.06305,46.40773",
-    "geom:latitude":46.40773,
-    "geom:longitude":27.06305,
+    "geom:area":0.000033,
+    "geom:area_square_m":283272.505139,
+    "geom:bbox":"27.056302,46.400296,27.066669,46.411675",
+    "geom:latitude":46.406637,
+    "geom:longitude":27.061433,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22941.0",
     "gn:asciiname":"Sohodor",
@@ -25,12 +25,21 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.04305,46.38773,27.08305,46.42773",
+    "lbl:latitude":46.40773,
+    "lbl:longitude":27.06305,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Sohodor"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666539
+        "gn:id":666539,
+        "ro-ancpi:id":23029
     },
     "wof:country":"RO",
-    "wof:geomhash":"72397ef78413ffefddc4b3b9381f7a6f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fe04cfd001d56c2133246e78289c15b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +65,7 @@
         }
     ],
     "wof:id":1243172737,
-    "wof:lastmodified":1566611526,
+    "wof:lastmodified":1588366844,
     "wof:name":"Sohodor",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.06305,
-    46.40773,
-    27.06305,
-    46.40773
+    27.056302,
+    46.400296,
+    27.066669,
+    46.411675
 ],
-  "geometry": {"coordinates":[27.06305,46.40773],"type":"Point"}
+  "geometry": {"coordinates":[[[27.057768,46.400296],[27.056996,46.400483],[27.056302,46.400651],[27.059981,46.405159],[27.059977,46.405161],[27.057929,46.406063],[27.05817,46.406408],[27.058496,46.4063],[27.061534,46.409995],[27.062629,46.409806],[27.062648,46.410666],[27.062471,46.411614],[27.063001,46.411675],[27.063304,46.410681],[27.064165,46.4107],[27.064305,46.409412],[27.065724,46.411087],[27.066669,46.410942],[27.065115,46.409033],[27.065597,46.408912],[27.065093,46.408291],[27.064346,46.407369],[27.063557,46.406398],[27.062976,46.405681],[27.062455,46.405898],[27.061345,46.404536],[27.057768,46.400296]]],"type":"Polygon"}
 }

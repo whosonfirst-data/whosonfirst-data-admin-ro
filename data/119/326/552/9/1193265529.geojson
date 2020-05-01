@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.35638,45.06922,22.35638,45.06922",
-    "geom:latitude":45.06922,
-    "geom:longitude":22.35638,
+    "geom:area":0.000032,
+    "geom:area_square_m":281036.098916,
+    "geom:bbox":"22.348498,45.064086,22.358001,45.07037",
+    "geom:latitude":45.067847,
+    "geom:longitude":22.352648,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52721.0",
     "gn:asciiname":"Canicea",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.33638,45.04922,22.37638,45.08922",
+    "lbl:latitude":45.06922,
+    "lbl:longitude":22.35638,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u0103nicea"
+    ],
+    "name:ron_x_variant":[
+        "Canicea"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682841
+        "gn:id":682841,
+        "ro-ancpi:id":52749
     },
     "wof:country":"RO",
-    "wof:geomhash":"6e9ba7684a5c2e12daf5fd8dfd193872",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"55ef77356ebf86446ba0e087f0ef378b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1193265529,
-    "wof:lastmodified":1566610458,
-    "wof:name":"Canicea",
+    "wof:lastmodified":1588366761,
+    "wof:name":"C\u0103nicea",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":434,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.35638,
-    45.06922,
-    22.35638,
-    45.06922
+    22.348498,
+    45.064086,
+    22.358001,
+    45.07037
 ],
-  "geometry": {"coordinates":[22.35638,45.06922],"type":"Point"}
+  "geometry": {"coordinates":[[[22.350926,45.07037],[22.353111,45.069342],[22.35346,45.069705],[22.354129,45.069755],[22.35449,45.070135],[22.355152,45.070332],[22.355451,45.069924],[22.356307,45.070143],[22.358001,45.070062],[22.35789,45.068642],[22.356162,45.068224],[22.357141,45.067965],[22.356575,45.067019],[22.355281,45.067299],[22.354859,45.067472],[22.354481,45.067171],[22.353859,45.067162],[22.354197,45.066462],[22.352683,45.065701],[22.35215,45.066146],[22.351432,45.065317],[22.35078,45.064896],[22.35003,45.06423],[22.349415,45.064086],[22.348931,45.065043],[22.348892,45.06654],[22.348565,45.067387],[22.350101,45.067691],[22.350026,45.068],[22.348848,45.068137],[22.349123,45.068515],[22.348498,45.068647],[22.348902,45.069322],[22.349872,45.069206],[22.350142,45.069696],[22.350926,45.07037]]],"type":"Polygon"}
 }

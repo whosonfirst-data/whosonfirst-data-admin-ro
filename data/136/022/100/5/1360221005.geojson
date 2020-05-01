@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.42471,45.09478,24.42471,45.09478",
-    "geom:latitude":45.09478,
-    "geom:longitude":24.42471,
+    "geom:area":0.000183,
+    "geom:area_square_m":1600177.765069,
+    "geom:bbox":"24.414934,45.091924,24.441546,45.108342",
+    "geom:latitude":45.09912,
+    "geom:longitude":24.430227,
     "gn:admin1_code":"39",
     "gn:admin2_code":"167473.0",
     "gn:asciiname":"Feteni",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.40471,45.07478,24.44471,45.11478",
+    "lbl:latitude":45.09478,
+    "lbl:longitude":24.42471,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Fe\u0163eni"
+    ],
+    "name:ron_x_variant":[
+        "Feteni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678308
+        "gn:id":678308,
+        "ro-ancpi:id":167605
     },
     "wof:country":"RO",
-    "wof:geomhash":"d9aeada97f33278072866866b50a0343",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f750bb61bdd49957898e8cd223c2609a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1360221005,
-    "wof:lastmodified":1566610616,
-    "wof:name":"Feteni",
+    "wof:lastmodified":1588366793,
+    "wof:name":"Fe\u0163eni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":277,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.42471,
-    45.09478,
-    24.42471,
-    45.09478
+    24.414934,
+    45.091924,
+    24.441546,
+    45.108342
 ],
-  "geometry": {"coordinates":[24.42471,45.09478],"type":"Point"}
+  "geometry": {"coordinates":[[[24.439274,45.100127],[24.441546,45.098644],[24.441144,45.097922],[24.438826,45.096246],[24.43715,45.096464],[24.435789,45.096328],[24.433333,45.094373],[24.429487,45.094177],[24.427803,45.09433],[24.425194,45.093191],[24.42357,45.091924],[24.423247,45.092175],[24.422902,45.093474],[24.422388,45.093681],[24.421299,45.094248],[24.421164,45.094847],[24.421454,45.095518],[24.420804,45.096054],[24.419926,45.096039],[24.418867,45.095001],[24.41608,45.095794],[24.414934,45.09699],[24.418285,45.099628],[24.4236,45.099637],[24.426175,45.100959],[24.430023,45.101362],[24.43135,45.103148],[24.433382,45.105621],[24.438382,45.108342],[24.439814,45.107217],[24.439259,45.103521],[24.439274,45.100127]]],"type":"Polygon"}
 }

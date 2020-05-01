@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.49588,44.35812,23.49588,44.35812",
-    "geom:latitude":44.35812,
-    "geom:longitude":23.49588,
+    "geom:area":0.000025,
+    "geom:area_square_m":217009.729459,
+    "geom:bbox":"23.488378,44.354956,23.501221,44.35986",
+    "geom:latitude":44.357475,
+    "geom:longitude":23.494475,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74931.0",
     "gn:asciiname":"Frasin",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.47588,44.33812,23.51588,44.37812",
+    "lbl:latitude":44.35812,
+    "lbl:longitude":23.49588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Frasin"
@@ -81,17 +83,25 @@
     "name:zho_x_preferred":[
         "\u5f17\u62c9\u8f9b"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677938
+        "gn:id":677938,
+        "ro-ancpi:id":73816
     },
     "wof:country":"RO",
-    "wof:geomhash":"abc4ea7f3f86cbf83db7b79a94ceb354",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"de217625a7aab80c087f1f04fdbfab6c",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -99,7 +109,7 @@
         }
     ],
     "wof:id":1209486829,
-    "wof:lastmodified":1566610311,
+    "wof:lastmodified":1588366732,
     "wof:name":"Frasin",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -111,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.49588,
-    44.35812,
-    23.49588,
-    44.35812
+    23.488378,
+    44.354956,
+    23.501221,
+    44.35986
 ],
-  "geometry": {"coordinates":[23.49588,44.35812],"type":"Point"}
+  "geometry": {"coordinates":[[[23.500688,44.35986],[23.501221,44.358186],[23.49975,44.357902],[23.499014,44.357838],[23.498212,44.357749],[23.497005,44.357474],[23.496353,44.357328],[23.495787,44.357066],[23.49521,44.356961],[23.494309,44.356877],[23.494329,44.356129],[23.492993,44.355778],[23.492637,44.355225],[23.490957,44.354956],[23.490924,44.355551],[23.490017,44.355544],[23.489339,44.355541],[23.488541,44.355535],[23.488378,44.356764],[23.490265,44.356982],[23.490041,44.357713],[23.491547,44.358051],[23.492063,44.358126],[23.493976,44.358299],[23.494985,44.358571],[23.496524,44.358904],[23.496399,44.359264],[23.497833,44.359653],[23.497996,44.359242],[23.498172,44.359238],[23.498229,44.359276],[23.498291,44.3593],[23.498453,44.359333],[23.49858,44.359337],[23.49868,44.359352],[23.498787,44.359375],[23.499129,44.359508],[23.499294,44.35958],[23.500506,44.359794],[23.500688,44.35986]]],"type":"Polygon"}
 }

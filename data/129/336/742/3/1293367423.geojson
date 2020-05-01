@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.41461,45.63342,22.41461,45.63342",
-    "geom:latitude":45.63342,
-    "geom:longitude":22.41461,
+    "geom:area":0.000042,
+    "geom:area_square_m":362740.666866,
+    "geom:bbox":"22.404061,45.628606,22.418434,45.638808",
+    "geom:latitude":45.633221,
+    "geom:longitude":22.411093,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53728.0",
     "gn:asciiname":"Ruschita",
@@ -26,18 +26,30 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.39461,45.61342,22.43461,45.65342",
+    "lbl:latitude":45.63342,
+    "lbl:longitude":22.41461,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ru\u015fchi\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Ruschita"
+    ],
     "name:und_x_variant":[
         "Goldaia Ruschi\u0163a",
         "Colonel Ruschi\u0163a",
         "Golonia-Ruschit",
         "Ruschi\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668415
+        "gn:id":668415,
+        "ro-ancpi:id":53746
     },
     "wof:country":"RO",
-    "wof:geomhash":"27a449e8ca4e93ebe873fb0eee090f5f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ec9edf1261aabf9f5b62574b76502e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +75,8 @@
         }
     ],
     "wof:id":1293367423,
-    "wof:lastmodified":1566610029,
-    "wof:name":"Ruschita",
+    "wof:lastmodified":1588366672,
+    "wof:name":"Ru\u015fchi\u0163a",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":802,
@@ -71,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.41461,
-    45.63342,
-    22.41461,
-    45.63342
+    22.404061,
+    45.628606,
+    22.418434,
+    45.638808
 ],
-  "geometry": {"coordinates":[22.41461,45.63342],"type":"Point"}
+  "geometry": {"coordinates":[[[22.414587,45.63235],[22.414765,45.632083],[22.416027,45.631828],[22.416828,45.631549],[22.416566,45.631142],[22.417227,45.630491],[22.417698,45.629754],[22.418434,45.628989],[22.417898,45.628606],[22.417255,45.629218],[22.416601,45.62887],[22.414579,45.630341],[22.413571,45.630646],[22.411987,45.631717],[22.410934,45.632071],[22.410784,45.632068],[22.410023,45.63205],[22.408637,45.631524],[22.406387,45.630861],[22.404406,45.630642],[22.404061,45.631827],[22.407176,45.632626],[22.409565,45.633334],[22.40841,45.633943],[22.409364,45.63454],[22.408682,45.635311],[22.406974,45.636015],[22.407454,45.637184],[22.407708,45.637533],[22.408964,45.638808],[22.409918,45.638426],[22.410111,45.638348],[22.409602,45.637571],[22.409579,45.637163],[22.41023,45.636538],[22.413437,45.634453],[22.414923,45.633382],[22.414328,45.63288],[22.414587,45.63235]]],"type":"Polygon"}
 }

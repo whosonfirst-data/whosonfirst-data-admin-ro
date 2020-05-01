@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35338,44.19375,24.35338,44.19375",
-    "geom:latitude":44.19375,
-    "geom:longitude":24.35338,
+    "geom:area":0.000067,
+    "geom:area_square_m":590877.945372,
+    "geom:bbox":"24.348201,44.181537,24.357757,44.198267",
+    "geom:latitude":44.189702,
+    "geom:longitude":24.353631,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126718.0",
     "gn:asciiname":"Potopinu",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.33338,44.17375,24.37338,44.21375",
+    "lbl:latitude":44.19375,
+    "lbl:longitude":24.35338,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Potopinu"
+    ],
     "name:und_x_variant":[
         "Potopinul",
         "Potopinu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669744
+        "gn:id":669744,
+        "ro-ancpi:id":126745
     },
     "wof:country":"RO",
-    "wof:geomhash":"425973afd04b866a8e8dad1d0d795a40",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3981befca63a7d82cf01928056d49601",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1259840573,
-    "wof:lastmodified":1566611556,
+    "wof:lastmodified":1588366852,
     "wof:name":"Potopinu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35338,
-    44.19375,
-    24.35338,
-    44.19375
+    24.348201,
+    44.181537,
+    24.357757,
+    44.198267
 ],
-  "geometry": {"coordinates":[24.35338,44.19375],"type":"Point"}
+  "geometry": {"coordinates":[[[24.356661,44.181883],[24.35328,44.181537],[24.352845,44.183908],[24.352746,44.184797],[24.352486,44.186581],[24.352142,44.188528],[24.351842,44.190226],[24.351467,44.192181],[24.351262,44.193076],[24.350219,44.193035],[24.350221,44.193235],[24.348201,44.19361],[24.348298,44.19435],[24.349817,44.194368],[24.349658,44.194914],[24.349036,44.196774],[24.350477,44.196895],[24.350217,44.198267],[24.351387,44.19816],[24.351498,44.197755],[24.352146,44.196392],[24.35623,44.192603],[24.357051,44.192968],[24.357664,44.192102],[24.356847,44.191901],[24.355588,44.19096],[24.355441,44.187749],[24.357757,44.187576],[24.357573,44.184741],[24.35614,44.184615],[24.356566,44.182254],[24.356661,44.181883]]],"type":"Polygon"}
 }

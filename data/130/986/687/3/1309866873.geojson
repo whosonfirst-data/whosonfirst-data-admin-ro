@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34082,44.46916,24.34082,44.46916",
-    "geom:latitude":44.46916,
-    "geom:longitude":24.34082,
+    "geom:area":0.000084,
+    "geom:area_square_m":742049.547923,
+    "geom:bbox":"24.329147,44.462897,24.344821,44.473834",
+    "geom:latitude":44.468557,
+    "geom:longitude":24.336018,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126433.0",
     "gn:asciiname":"Linia din Vale",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.32082,44.44916,24.36082,44.48916",
+    "lbl:latitude":44.46916,
+    "lbl:longitude":24.34082,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Linia Din Vale"
+    ],
+    "name:ron_x_variant":[
+        "Linia din Vale"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674761
+        "gn:id":674761,
+        "ro-ancpi:id":126460
     },
     "wof:country":"RO",
-    "wof:geomhash":"c8cd2ff8cbcf1092c3e46aa2a4c10262",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"004fafe01b79f23f9d98e14f51698a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1309866873,
-    "wof:lastmodified":1566611269,
-    "wof:name":"Linia din Vale",
+    "wof:lastmodified":1588366810,
+    "wof:name":"Linia Din Vale",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":554,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34082,
-    44.46916,
-    24.34082,
-    44.46916
+    24.329147,
+    44.462897,
+    24.344821,
+    44.473834
 ],
-  "geometry": {"coordinates":[24.34082,44.46916],"type":"Point"}
+  "geometry": {"coordinates":[[[24.335827,44.464385],[24.332122,44.463596],[24.331151,44.463401],[24.330959,44.463364],[24.330726,44.463305],[24.330568,44.46323],[24.330243,44.463025],[24.33011,44.462946],[24.329966,44.462897],[24.329147,44.465314],[24.333052,44.465932],[24.330802,44.470792],[24.331589,44.472842],[24.336496,44.473834],[24.338402,44.472921],[24.338276,44.470627],[24.342558,44.46997],[24.34473,44.469273],[24.344821,44.468323],[24.344656,44.467431],[24.343594,44.467408],[24.339928,44.467971],[24.339436,44.467387],[24.339886,44.465528],[24.338956,44.465232],[24.335827,44.464385]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.32558,44.81698,25.32558,44.81698",
-    "geom:latitude":44.81698,
-    "geom:longitude":25.32558,
+    "geom:area":0.000029,
+    "geom:area_square_m":252083.975639,
+    "geom:bbox":"25.321578,44.805616,25.329788,44.820902",
+    "geom:latitude":44.813899,
+    "geom:longitude":25.325707,
     "gn:admin1_code":"16",
     "gn:admin2_code":"66580",
     "gn:asciiname":"Blidari",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blidari"
@@ -42,17 +42,24 @@
     "name:srp_x_preferred":[
         "\u0411\u043b\u0438\u0434\u0430\u0440\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684579
+        "gn:id":684579,
+        "ro-ancpi:id":66606
     },
     "wof:country":"RO",
-    "wof:geomhash":"69b93ef6ce0a6ca985400d59c82c86d8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2acc5f3e681d844430ba6731fa3f1793",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1209075819,
-    "wof:lastmodified":1566610282,
+    "wof:lastmodified":1588367021,
     "wof:name":"Blidari",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -72,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.32558,
-    44.81698,
-    25.32558,
-    44.81698
+    25.321578,
+    44.805616,
+    25.329788,
+    44.820902
 ],
-  "geometry": {"coordinates":[25.32558,44.81698],"type":"Point"}
+  "geometry": {"coordinates":[[[25.321578,44.820528],[25.322135,44.820597],[25.323565,44.820902],[25.323823,44.820627],[25.324176,44.819941],[25.32479,44.819992],[25.324936,44.819436],[25.324562,44.819361],[25.325386,44.816712],[25.326682,44.814098],[25.327063,44.812567],[25.328068,44.810457],[25.328504,44.810566],[25.328996,44.809673],[25.328517,44.809516],[25.328604,44.809332],[25.329788,44.805897],[25.328865,44.805616],[25.328346,44.806249],[25.328308,44.806887],[25.327939,44.807562],[25.327687,44.808549],[25.327417,44.809152],[25.326869,44.809077],[25.325399,44.81178],[25.324983,44.813057],[25.324705,44.813708],[25.323788,44.815961],[25.323124,44.815927],[25.322789,44.81692],[25.323396,44.817007],[25.322373,44.819662],[25.321578,44.820528]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.17338,44.97622,24.17338,44.97622",
-    "geom:latitude":44.97622,
-    "geom:longitude":24.17338,
+    "geom:area":0.000032,
+    "geom:area_square_m":282584.802878,
+    "geom:bbox":"24.169468,44.97037,24.186562,44.977685",
+    "geom:latitude":44.973959,
+    "geom:longitude":24.177539,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168372.0",
     "gn:asciiname":"Paduretu",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.15338,44.95622,24.19338,44.99622",
+    "lbl:latitude":44.97622,
+    "lbl:longitude":24.17338,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u0103dure\u0163u"
+    ],
+    "name:ron_x_variant":[
+        "Paduretu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671503
+        "gn:id":671503,
+        "ro-ancpi:id":168416
     },
     "wof:country":"RO",
-    "wof:geomhash":"d3bb42b018c998cfd6722a948427f7de",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8938a22d3e86299bc89b49a164033e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1225979491,
-    "wof:lastmodified":1566611662,
-    "wof:name":"Paduretu",
+    "wof:lastmodified":1588366878,
+    "wof:name":"P\u0103dure\u0163u",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":271,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.17338,
-    44.97622,
-    24.17338,
-    44.97622
+    24.169468,
+    44.97037,
+    24.186562,
+    44.977685
 ],
-  "geometry": {"coordinates":[24.17338,44.97622],"type":"Point"}
+  "geometry": {"coordinates":[[[24.172984,44.976556],[24.177784,44.974398],[24.180086,44.975059],[24.181551,44.973711],[24.186562,44.971604],[24.185024,44.97037],[24.179898,44.972652],[24.178767,44.97241],[24.175731,44.973565],[24.171708,44.975376],[24.171416,44.974856],[24.173244,44.973992],[24.172803,44.973438],[24.171399,44.97407],[24.169544,44.975291],[24.169468,44.976113],[24.170636,44.97594],[24.171608,44.977685],[24.172726,44.977557],[24.172984,44.976556]]],"type":"Polygon"}
 }

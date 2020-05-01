@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.03279,44.936,24.03279,44.936",
-    "geom:latitude":44.936,
-    "geom:longitude":24.03279,
+    "geom:area":0.000015,
+    "geom:area_square_m":129510.182604,
+    "geom:bbox":"24.02621,44.933225,24.033807,44.93727",
+    "geom:latitude":44.935217,
+    "geom:longitude":24.029737,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170792",
     "gn:asciiname":"Beresti",
@@ -28,19 +28,32 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bere\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Beresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685039
+        "gn:id":685039,
+        "ro-ancpi:id":170818
     },
     "wof:country":"RO",
-    "wof:geomhash":"1ecfe303cad74432e6c4ff5997a61cf3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e76478139853525c455e4692b592ff1",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +61,8 @@
         }
     ],
     "wof:id":1209141841,
-    "wof:lastmodified":1566610339,
-    "wof:name":"Beresti",
+    "wof:lastmodified":1588367015,
+    "wof:name":"Bere\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":403,
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.03279,
-    44.93600000000001,
-    24.03279,
-    44.93600000000001
+    24.02621,
+    44.933225,
+    24.033807,
+    44.93727
 ],
-  "geometry": {"coordinates":[24.03279,44.93600000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.033807,44.935272],[24.027332,44.933225],[24.02621,44.934937],[24.030732,44.93727],[24.033807,44.935272]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.27953,45.21836,24.27953,45.21836",
-    "geom:latitude":45.21836,
-    "geom:longitude":24.27953,
+    "geom:area":0.000058,
+    "geom:area_square_m":502011.225771,
+    "geom:bbox":"24.272603,45.215047,24.292939,45.227271",
+    "geom:latitude":45.220615,
+    "geom:longitude":24.281085,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171539",
     "gn:asciiname":"Andreiesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.25953,45.19836,24.29953,45.23836",
+    "lbl:latitude":45.21836,
+    "lbl:longitude":24.27953,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Andreie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Andreiesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686353
+        "gn:id":686353,
+        "ro-ancpi:id":171557
     },
     "wof:country":"RO",
-    "wof:geomhash":"1281f12fe942ec750868ef2addd93487",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f2253ca054cba20e9c8f592d0f18a37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1209846539,
-    "wof:lastmodified":1566610314,
-    "wof:name":"Andreiesti",
+    "wof:lastmodified":1588366733,
+    "wof:name":"Andreie\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":307,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.27953,
-    45.21836,
-    24.27953,
-    45.21836
+    24.272603,
+    45.215047,
+    24.292939,
+    45.227271
 ],
-  "geometry": {"coordinates":[24.27953,45.21836],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.279905,45.216649],[24.279492,45.215502],[24.279328,45.215047],[24.277889,45.215389],[24.275979,45.216136],[24.272603,45.217144],[24.273976,45.218507],[24.276345,45.220341],[24.277786,45.22117],[24.278969,45.221069],[24.279229,45.221427],[24.279628,45.222326],[24.280041,45.22312],[24.280801,45.223099],[24.281461,45.222281],[24.283091,45.222868],[24.285198,45.222923],[24.28609,45.222908],[24.286123,45.221533],[24.283507,45.220883],[24.283535,45.22009],[24.280957,45.219567],[24.279905,45.216649]]],[[[24.291388,45.226204],[24.284707,45.224122],[24.283524,45.22516],[24.289489,45.227271],[24.291388,45.226204]]],[[[24.290765,45.224447],[24.292915,45.224342],[24.292939,45.224342],[24.292833,45.223246],[24.290564,45.223417],[24.290765,45.224447]]]],"type":"MultiPolygon"}
 }

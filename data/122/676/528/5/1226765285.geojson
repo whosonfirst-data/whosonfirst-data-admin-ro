@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.90383,46.37878,22.90383,46.37878",
-    "geom:latitude":46.37878,
-    "geom:longitude":22.90383,
+    "geom:area":0.000002,
+    "geom:area_square_m":19370.870272,
+    "geom:bbox":"22.901189,46.377685,22.904199,46.378988",
+    "geom:latitude":46.378329,
+    "geom:longitude":22.902586,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Vasesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "V\u0103se\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Vasesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663132
+        "gn:id":663132,
+        "ro-ancpi:id":8782
     },
     "wof:country":"RO",
-    "wof:geomhash":"a54d32052ebb62e330600c39926658d4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ff146ead578b63ce18e17df87450b194",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226765285,
-    "wof:lastmodified":1566611670,
-    "wof:name":"Vasesti",
+    "wof:lastmodified":1588367126,
+    "wof:name":"V\u0103se\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":53,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.90383,
-    46.37878,
-    22.90383,
-    46.37878
+    22.901189,
+    46.377685,
+    22.904199,
+    46.378988
 ],
-  "geometry": {"coordinates":[22.90383,46.37878],"type":"Point"}
+  "geometry": {"coordinates":[[[22.904199,46.378383],[22.903346,46.37782],[22.902113,46.377685],[22.901189,46.378658],[22.901824,46.378988],[22.903561,46.378596],[22.904199,46.378383]]],"type":"Polygon"}
 }

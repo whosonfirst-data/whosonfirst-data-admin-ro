@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.68306,44.3366,24.68306,44.3366",
-    "geom:latitude":44.3366,
-    "geom:longitude":24.68306,
+    "geom:area":0.000094,
+    "geom:area_square_m":828635.210264,
+    "geom:bbox":"24.670129,44.332278,24.685769,44.342877",
+    "geom:latitude":44.337377,
+    "geom:longitude":24.678291,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129246.0",
     "gn:asciiname":"Serbanestii de Sus",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.66306,44.3166,24.70306,44.3566",
+    "lbl:latitude":44.3366,
+    "lbl:longitude":24.68306,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u015eerb\u0103ne\u015ftii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Serbanestii de Sus"
+    ],
     "name:und_x_variant":[
         "\u015eerb\u0103ne\u015fti-de-Sus",
         "\u015eerb\u0103ne\u015ftii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667365
+        "gn:id":667365,
+        "ro-ancpi:id":129273
     },
     "wof:country":"RO",
-    "wof:geomhash":"941a9814339c64469734e40dfda2726a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5176eaf55dc0e937ed5b2cf2c077c724",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1293830893,
-    "wof:lastmodified":1566610060,
-    "wof:name":"Serbanestii de Sus",
+    "wof:lastmodified":1588366679,
+    "wof:name":"\u015eerb\u0103ne\u015ftii de Sus",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":723,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.68306,
-    44.3366,
-    24.68306,
-    44.3366
+    24.670129,
+    44.332278,
+    24.685769,
+    44.342877
 ],
-  "geometry": {"coordinates":[24.68306,44.3366],"type":"Point"}
+  "geometry": {"coordinates":[[[24.683276,44.3408],[24.683014,44.339403],[24.684056,44.339391],[24.685369,44.339245],[24.685769,44.338424],[24.684407,44.337782],[24.683275,44.336121],[24.684033,44.334885],[24.683872,44.333767],[24.682469,44.332537],[24.682038,44.332278],[24.680903,44.332774],[24.679396,44.333663],[24.677933,44.33254],[24.676291,44.334017],[24.674596,44.334665],[24.673646,44.334443],[24.672927,44.334459],[24.671544,44.335188],[24.671089,44.336413],[24.670129,44.337505],[24.671195,44.337655],[24.671065,44.338584],[24.67362,44.338764],[24.67469,44.338894],[24.673292,44.34038],[24.678476,44.342877],[24.680042,44.341367],[24.681586,44.341517],[24.681686,44.340681],[24.682812,44.340645],[24.683276,44.3408]]],"type":"Polygon"}
 }

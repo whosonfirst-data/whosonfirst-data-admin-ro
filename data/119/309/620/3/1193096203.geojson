@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.28108,46.23927,24.28108,46.23927",
-    "geom:latitude":46.23927,
-    "geom:longitude":24.28108,
+    "geom:area":0.000077,
+    "geom:area_square_m":659352.345837,
+    "geom:bbox":"24.271816,46.233194,24.28546,46.246266",
+    "geom:latitude":46.239275,
+    "geom:longitude":24.278084,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144152.0",
     "gn:asciiname":"Velt",
@@ -25,15 +25,27 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.26108,46.21927,24.30108,46.25927",
+    "lbl:latitude":46.23927,
+    "lbl:longitude":24.28108,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Vel\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Velt"
+    ],
     "name:und_x_variant":[
         "Vel\u0163"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +55,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":663068,
+        "ro-ancpi:id":144189,
         "wk:page":"Vel%C5%A3"
     },
     "wof:country":"RO",
-    "wof:geomhash":"31dc8eba6c66808758bc38bdc345ea72",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"60fcaa644f7dd0b7e5902c4101501ea3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +72,8 @@
         }
     ],
     "wof:id":1193096203,
-    "wof:lastmodified":1566610418,
-    "wof:name":"Velt",
+    "wof:lastmodified":1588366752,
+    "wof:name":"Vel\u0163",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":608,
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28108,
-    46.23927,
-    24.28108,
-    46.23927
+    24.271816,
+    46.233194,
+    24.28546,
+    46.246266
 ],
-  "geometry": {"coordinates":[24.28108,46.23927],"type":"Point"}
+  "geometry": {"coordinates":[[[24.27411,46.244508],[24.276057,46.2437],[24.277517,46.244487],[24.278087,46.244071],[24.279288,46.243114],[24.280066,46.242139],[24.279919,46.241304],[24.280935,46.240439],[24.282049,46.238376],[24.283208,46.237501],[24.284253,46.237771],[24.28546,46.236755],[24.284413,46.236321],[24.284682,46.235326],[24.284066,46.235116],[24.282782,46.234688],[24.282947,46.234381],[24.278852,46.233194],[24.277611,46.235307],[24.274254,46.239147],[24.271962,46.24194],[24.272883,46.243573],[24.271816,46.245961],[24.273184,46.246266],[24.27381,46.245058],[24.27411,46.244508]]],"type":"Polygon"}
 }

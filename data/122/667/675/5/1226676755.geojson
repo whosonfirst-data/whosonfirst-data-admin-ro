@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.03286,44.01566,26.03286,44.01566",
-    "geom:latitude":44.01566,
-    "geom:longitude":26.03286,
+    "geom:area":0.000067,
+    "geom:area_square_m":598104.15297,
+    "geom:bbox":"26.025512,44.0116,26.03691,44.020516",
+    "geom:latitude":44.01598,
+    "geom:longitude":26.031078,
     "gn:admin1_code":"42",
     "gn:admin2_code":"101001.0",
     "gn:asciiname":"Sfantu Gheorghe",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.01286,43.99566,26.05286,44.03566",
+    "lbl:latitude":44.01566,
+    "lbl:longitude":26.03286,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Sf\u00e2ntu Gheorghe"
+    ],
+    "name:ron_x_variant":[
+        "Sfantu Gheorghe"
+    ],
     "name:und_x_variant":[
         "Sf\u00eentu Gheorghe",
         "Sf\u00e2ntu Gheorghe"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667309
+        "gn:id":667309,
+        "ro-ancpi:id":101047
     },
     "wof:country":"RO",
-    "wof:geomhash":"0867ce8ebe709a9cc69fc24bd661d417",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b0b3ae8b04c350e9e3d5caa7ff1cbd5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1226676755,
-    "wof:lastmodified":1566611642,
-    "wof:name":"Sfantu Gheorghe",
+    "wof:lastmodified":1588366873,
+    "wof:name":"Sf\u00e2ntu Gheorghe",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":370,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.03286,
-    44.01566,
-    26.03286,
-    44.01566
+    26.025512,
+    44.0116,
+    26.03691,
+    44.020516
 ],
-  "geometry": {"coordinates":[26.03286,44.01566],"type":"Point"}
+  "geometry": {"coordinates":[[[26.034432,44.020475],[26.034832,44.018406],[26.036015,44.018466],[26.036506,44.016076],[26.036814,44.014327],[26.03691,44.013985],[26.033477,44.013396],[26.031797,44.013114],[26.031862,44.012893],[26.029568,44.012431],[26.029833,44.011905],[26.028567,44.0116],[26.027069,44.0121],[26.02619,44.012838],[26.025978,44.013833],[26.025694,44.014372],[26.025512,44.015449],[26.025573,44.017018],[26.0279,44.018217],[26.030225,44.019384],[26.032769,44.020516],[26.034432,44.020475]]],"type":"Polygon"}
 }

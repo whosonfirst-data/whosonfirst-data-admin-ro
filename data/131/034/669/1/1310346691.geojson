@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24667,45.93594,24.24667,45.93594",
-    "geom:latitude":45.93594,
-    "geom:longitude":24.24667,
+    "geom:area":0.000188,
+    "geom:area_square_m":1614608.637951,
+    "geom:bbox":"24.233472,45.929784,24.258629,45.946042",
+    "geom:latitude":45.936534,
+    "geom:longitude":24.247862,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145603",
     "gn:asciiname":"Albi",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.22667,45.91594,24.26667,45.95594",
+    "lbl:latitude":45.93594,
+    "lbl:longitude":24.24667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Albi"
@@ -231,7 +233,11 @@
     "name:zho_x_preferred":[
         "\u963f\u5c14\u6bd4"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -240,10 +246,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686537
+        "gn:id":686537,
+        "ro-ancpi:id":145621
     },
     "wof:country":"RO",
-    "wof:geomhash":"3c70899b6fb1c6f835430be13cff4c48",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8cc02e8646ef9b05ff4f8539e464178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +263,7 @@
         }
     ],
     "wof:id":1310346691,
-    "wof:lastmodified":1566610594,
+    "wof:lastmodified":1588366788,
     "wof:name":"Albi",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -265,10 +275,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24667,
-    45.93594,
-    24.24667,
-    45.93594
+    24.233472,
+    45.929784,
+    24.258629,
+    45.946042
 ],
-  "geometry": {"coordinates":[24.24667,45.93594],"type":"Point"}
+  "geometry": {"coordinates":[[[24.233814,45.931294],[24.233472,45.934164],[24.238426,45.936109],[24.248983,45.938206],[24.251451,45.946042],[24.258629,45.945742],[24.255983,45.936253],[24.254774,45.933523],[24.252877,45.932584],[24.245486,45.929784],[24.238624,45.930752],[24.233814,45.931294]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.49839,45.95773,20.49839,45.95773",
-    "geom:latitude":45.95773,
-    "geom:longitude":20.49839,
+    "geom:area":0.000076,
+    "geom:area_square_m":653500.087425,
+    "geom:bbox":"20.491159,45.95183,20.501319,45.963205",
+    "geom:latitude":45.957855,
+    "geom:longitude":20.496578,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158859.0",
     "gn:asciiname":"Teremia Mica",
@@ -26,11 +26,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"20.47839,45.93773,20.51839,45.97773",
+    "lbl:latitude":45.95773,
+    "lbl:longitude":20.49839,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Teremia Mic\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Teremia Mica"
+    ],
     "name:und_x_variant":[
         "Albrechtsflor",
         "Klein-Teremin",
@@ -41,7 +49,11 @@
         "Fels\u0151teremi",
         "Teremia Mic\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665230
+        "gn:id":665230,
+        "ro-ancpi:id":158886
     },
     "wof:country":"RO",
-    "wof:geomhash":"c6346bd6867a28fef7fc44a16e9fc3bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af0e9109cf0c9dc0628a729c756d87bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,8 +79,8 @@
         }
     ],
     "wof:id":1293629315,
-    "wof:lastmodified":1566610032,
-    "wof:name":"Teremia Mica",
+    "wof:lastmodified":1588366672,
+    "wof:name":"Teremia Mic\u0103",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":532,
@@ -75,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.49839,
-    45.95773,
-    20.49839,
-    45.95773
+    20.491159,
+    45.95183,
+    20.501319,
+    45.963205
 ],
-  "geometry": {"coordinates":[20.49839,45.95773],"type":"Point"}
+  "geometry": {"coordinates":[[[20.496113,45.963205],[20.496528,45.962228],[20.500872,45.963078],[20.501147,45.962504],[20.501319,45.962139],[20.500845,45.962053],[20.50041,45.961468],[20.500067,45.96],[20.500603,45.958778],[20.500686,45.95879],[20.501271,45.957437],[20.500157,45.95722],[20.500916,45.95538],[20.499596,45.955089],[20.500037,45.9541],[20.499351,45.953943],[20.500038,45.952394],[20.497571,45.95183],[20.496843,45.953352],[20.49432,45.952755],[20.49347,45.954646],[20.49211,45.957785],[20.491973,45.958127],[20.491159,45.960067],[20.491712,45.96022],[20.491811,45.960409],[20.491777,45.960905],[20.491441,45.961314],[20.493175,45.961639],[20.493215,45.961955],[20.493689,45.962065],[20.493963,45.961824],[20.496081,45.962262],[20.495885,45.962659],[20.496062,45.962695],[20.495846,45.963137],[20.496113,45.963205]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.46667,44.61667,26.46667,44.61667",
-    "geom:latitude":44.61667,
-    "geom:longitude":26.46667,
+    "geom:area":0.00005,
+    "geom:area_square_m":439033.732511,
+    "geom:bbox":"26.466221,44.603839,26.476507,44.612786",
+    "geom:latitude":44.608539,
+    "geom:longitude":26.47199,
     "gn:admin1_code":"22",
     "gn:admin2_code":"104270",
     "gn:asciiname":"Bitina Pamanteni",
@@ -29,14 +29,23 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Bi\u0163ina-P\u0103m\u00e2nteni"
+    ],
+    "name:ron_x_variant":[
+        "Bitina Pamanteni"
+    ],
     "name:und_x_variant":[
         "Bi\u0163ina-P\u0103m\u00e2nteni",
         "Bini\u0163ii-P\u0103m\u0103nteni",
         "Bi\u0163ina P\u0103m\u00eenteni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684641
+        "gn:id":684641,
+        "ro-ancpi:id":104298
     },
     "wof:country":"RO",
-    "wof:geomhash":"c187cfc73cdd9838d49fb83c49e5daa4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ca3a823dbc0ef16c64371a01c452b5b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1343718357,
-    "wof:lastmodified":1566609924,
-    "wof:name":"Bitina Pamanteni",
+    "wof:lastmodified":1588367121,
+    "wof:name":"Bi\u0163ina-P\u0103m\u00e2nteni",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.46667,
-    44.61667,
-    26.46667,
-    44.61667
+    26.466221,
+    44.603839,
+    26.476507,
+    44.612786
 ],
-  "geometry": {"coordinates":[26.46667,44.61667],"type":"Point"}
+  "geometry": {"coordinates":[[[26.468497,44.612786],[26.470374,44.610587],[26.474138,44.611671],[26.475351,44.612031],[26.475276,44.611814],[26.475008,44.611179],[26.475095,44.610952],[26.475314,44.610339],[26.475643,44.610002],[26.476364,44.609526],[26.476507,44.609183],[26.476453,44.608702],[26.476125,44.608235],[26.476201,44.608118],[26.476185,44.608045],[26.476166,44.607847],[26.476256,44.607332],[26.476213,44.607029],[26.476044,44.606716],[26.476021,44.60641],[26.475853,44.605971],[26.475322,44.605412],[26.474916,44.604839],[26.474644,44.604142],[26.474555,44.603839],[26.473475,44.603992],[26.472966,44.604215],[26.471085,44.606092],[26.470272,44.607019],[26.469654,44.60645],[26.469214,44.606621],[26.469353,44.60686],[26.467288,44.609093],[26.4671,44.609326],[26.466221,44.610594],[26.468497,44.612786]]],"type":"Polygon"}
 }

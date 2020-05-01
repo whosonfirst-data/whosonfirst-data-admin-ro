@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.15695,47.1638,23.15695,47.1638",
-    "geom:latitude":47.1638,
-    "geom:longitude":23.15695,
+    "geom:area":0.000012,
+    "geom:area_square_m":99414.855905,
+    "geom:bbox":"23.162162,47.164349,23.171519,47.166842",
+    "geom:latitude":47.165876,
+    "geom:longitude":23.165772,
     "gn:admin1_code":"31",
     "gn:admin2_code":"140672.0",
     "gn:asciiname":"Viile Jacului",
@@ -28,19 +28,29 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Viile Jacului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662938
+        "gn:id":662938,
+        "ro-ancpi:id":140761
     },
     "wof:country":"RO",
-    "wof:geomhash":"aff6493954602e5e9abcf87a26d84b51",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"77aa72ce355dd3de0b74b67efa1dff25",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,7 +58,7 @@
         }
     ],
     "wof:id":1209451195,
-    "wof:lastmodified":1566610386,
+    "wof:lastmodified":1588367152,
     "wof:name":"Viile Jacului",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -60,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.15695,
-    47.1638,
-    23.15695,
-    47.1638
+    23.162162,
+    47.164349,
+    23.171519,
+    47.166842
 ],
-  "geometry": {"coordinates":[23.15695,47.1638],"type":"Point"}
+  "geometry": {"coordinates":[[[23.16496,47.166553],[23.166508,47.166434],[23.167588,47.16646],[23.169175,47.166755],[23.170175,47.166429],[23.171093,47.166596],[23.171519,47.16609],[23.170997,47.165938],[23.169854,47.165794],[23.169166,47.165855],[23.168326,47.165734],[23.16725,47.165546],[23.166106,47.16506],[23.164969,47.164349],[23.162162,47.16542],[23.162179,47.166842],[23.16412,47.16681],[23.16496,47.166553]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.96832,45.96034,24.96832,45.96034",
-    "geom:latitude":45.96034,
-    "geom:longitude":24.96832,
+    "geom:area":0.00006,
+    "geom:area_square_m":514898.286419,
+    "geom:bbox":"24.962239,45.957013,24.97744,45.965538",
+    "geom:latitude":45.960776,
+    "geom:longitude":24.970214,
     "gn:admin1_code":"09",
     "gn:admin2_code":"41284.0",
     "gn:asciiname":"Valeni",
@@ -25,15 +25,27 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.94832,45.94034,24.98832,45.98034",
+    "lbl:latitude":45.96034,
+    "lbl:longitude":24.96832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Dombos"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:ron_x_variant":[
+        "Valeni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663288
+        "gn:id":663288,
+        "ro-ancpi:id":41337
     },
     "wof:country":"RO",
-    "wof:geomhash":"6d4bf0abc2605745a55d0e5b0f4f9e0c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d1200717b626dfac66f6bb6624adea50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +71,8 @@
         }
     ],
     "wof:id":1310486133,
-    "wof:lastmodified":1566610528,
-    "wof:name":"Valeni",
+    "wof:lastmodified":1588366773,
+    "wof:name":"V\u0103leni",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":166,
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.96832,
-    45.96034,
-    24.96832,
-    45.96034
+    24.962239,
+    45.957013,
+    24.97744,
+    45.965538
 ],
-  "geometry": {"coordinates":[24.96832,45.96034],"type":"Point"}
+  "geometry": {"coordinates":[[[24.97744,45.961032],[24.975671,45.960083],[24.972829,45.958522],[24.971438,45.958996],[24.970154,45.958079],[24.968854,45.957646],[24.967826,45.957266],[24.967267,45.957351],[24.966617,45.957013],[24.964726,45.957761],[24.964357,45.957865],[24.962587,45.958613],[24.962239,45.958729],[24.9623,45.959119],[24.962344,45.959857],[24.963403,45.959899],[24.963463,45.960205],[24.96502,45.960596],[24.965685,45.960902],[24.965972,45.960744],[24.968164,45.961788],[24.968618,45.961999],[24.968663,45.962484],[24.968682,45.962859],[24.970254,45.963787],[24.972053,45.96481],[24.972778,45.965411],[24.973162,45.965538],[24.975265,45.964579],[24.975552,45.964347],[24.974011,45.96266],[24.975579,45.962181],[24.976381,45.961949],[24.97744,45.961032]]],"type":"Polygon"}
 }

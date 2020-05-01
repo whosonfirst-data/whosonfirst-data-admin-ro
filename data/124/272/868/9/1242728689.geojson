@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2302,44.50236,24.2302,44.50236",
-    "geom:latitude":44.50236,
-    "geom:longitude":24.2302,
+    "geom:area":0.000055,
+    "geom:area_square_m":484019.008242,
+    "geom:bbox":"24.219577,44.499676,24.231744,44.50896",
+    "geom:latitude":44.503994,
+    "geom:longitude":24.225889,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128221.0",
     "gn:asciiname":"Schitu din Deal",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Schitu Din Deal"
+    ],
+    "name:ron_x_variant":[
+        "Schitu din Deal"
+    ],
     "name:und_x_variant":[
         "Schitul-din Deal",
         "Schitu din Deal"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667655
+        "gn:id":667655,
+        "ro-ancpi:id":128285
     },
     "wof:country":"RO",
-    "wof:geomhash":"1b4d25d93044845a0d540bf5a7a436a7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ac187bdad678d57895f849a8fc6e900f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1242728689,
-    "wof:lastmodified":1566611442,
-    "wof:name":"Schitu din Deal",
+    "wof:lastmodified":1588367150,
+    "wof:name":"Schitu Din Deal",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":352,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2302,
-    44.50236,
-    24.2302,
-    44.50236
+    24.219577,
+    44.499676,
+    24.231744,
+    44.50896
 ],
-  "geometry": {"coordinates":[24.2302,44.50236],"type":"Point"}
+  "geometry": {"coordinates":[[[24.22587,44.507303],[24.228818,44.506327],[24.228713,44.505752],[24.230405,44.505562],[24.230399,44.506302],[24.23153,44.506175],[24.231309,44.505169],[24.230032,44.505258],[24.229826,44.504344],[24.230428,44.504053],[24.229103,44.50294],[24.231744,44.501439],[24.231056,44.50033],[24.230464,44.500542],[24.229848,44.499676],[24.228478,44.500467],[24.228157,44.500088],[24.22659,44.500939],[24.225595,44.501255],[24.224836,44.501735],[24.223928,44.502087],[24.223706,44.501781],[24.223029,44.502201],[24.222085,44.502455],[24.221305,44.502602],[24.221414,44.502908],[24.219577,44.503353],[24.219679,44.505045],[24.219708,44.506624],[24.220297,44.506646],[24.22028,44.506201],[24.221534,44.506143],[24.2215,44.504932],[24.222638,44.504697],[24.2231,44.505786],[24.223314,44.506712],[24.22437,44.506522],[24.224573,44.507241],[24.224972,44.508837],[24.22662,44.50896],[24.22587,44.507303]]],"type":"Polygon"}
 }

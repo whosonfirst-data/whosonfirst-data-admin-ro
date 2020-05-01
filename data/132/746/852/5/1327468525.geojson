@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.35015,44.14042,26.35015,44.14042",
-    "geom:latitude":44.14042,
-    "geom:longitude":26.35015,
+    "geom:area":0.000066,
+    "geom:area_square_m":586457.046449,
+    "geom:bbox":"26.342878,44.136061,26.355064,44.14436",
+    "geom:latitude":44.140026,
+    "geom:longitude":26.348814,
     "gn:admin1_code":"42",
     "gn:admin2_code":"103470.0",
     "gn:asciiname":"Putu Greci",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.33015,44.12042,26.37015,44.16042",
+    "lbl:latitude":44.14042,
+    "lbl:longitude":26.35015,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pu\u0163u Greci"
+    ],
+    "name:ron_x_variant":[
+        "Putu Greci"
+    ],
     "name:und_x_variant":[
         "Pu\u0163ul Grecii",
         "Pu\u0163ul-Greci",
         "Pu\u0163u Greci"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669417
+        "gn:id":669417,
+        "ro-ancpi:id":103498
     },
     "wof:country":"RO",
-    "wof:geomhash":"60ed5ae8194280cb04cca3282cf4ebea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7563bdd7946f5926fc7aa096fcafdf67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1327468525,
-    "wof:lastmodified":1566609814,
-    "wof:name":"Putu Greci",
+    "wof:lastmodified":1588366633,
+    "wof:name":"Pu\u0163u Greci",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":490,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.35015,
-    44.14042,
-    26.35015,
-    44.14042
+    26.342878,
+    44.136061,
+    26.355064,
+    44.14436
 ],
-  "geometry": {"coordinates":[26.35015,44.14042],"type":"Point"}
+  "geometry": {"coordinates":[[[26.349377,44.14436],[26.349788,44.143293],[26.352816,44.143981],[26.355064,44.138202],[26.354354,44.138052],[26.353994,44.137794],[26.353036,44.137583],[26.352314,44.137675],[26.351716,44.137745],[26.351261,44.137706],[26.350495,44.137461],[26.350035,44.137184],[26.349644,44.13689],[26.348382,44.136474],[26.345935,44.136061],[26.345396,44.136079],[26.344837,44.136184],[26.344408,44.136447],[26.344115,44.137613],[26.342878,44.141982],[26.344852,44.142414],[26.348671,44.143073],[26.348255,44.144177],[26.349377,44.14436]]],"type":"Polygon"}
 }

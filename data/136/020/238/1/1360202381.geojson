@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.54789,46.21875,23.54789,46.21875",
-    "geom:latitude":46.21875,
-    "geom:longitude":23.54789,
+    "geom:area":0.000008,
+    "geom:area_square_m":64964.462094,
+    "geom:bbox":"23.541424,46.217434,23.547076,46.222541",
+    "geom:latitude":46.22005,
+    "geom:longitude":23.544255,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4366.0",
     "gn:asciiname":"Lupseni",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Lup\u015feni"
+    ],
+    "name:ron_x_variant":[
+        "Lupseni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674265
+        "gn:id":674265,
+        "ro-ancpi:id":4419
     },
     "wof:country":"RO",
-    "wof:geomhash":"79cb6612aa5ea497dceb3f4f79d450cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c020968d29a4b6ab2195f3062f98703",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1360202381,
-    "wof:lastmodified":1566610626,
-    "wof:name":"Lupseni",
+    "wof:lastmodified":1588367036,
+    "wof:name":"Lup\u015feni",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":54,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.54789,
-    46.21875,
-    23.54789,
-    46.21875
+    23.541424,
+    46.217434,
+    23.547076,
+    46.222541
 ],
-  "geometry": {"coordinates":[23.54789,46.21875],"type":"Point"}
+  "geometry": {"coordinates":[[[23.542585,46.222541],[23.543115,46.222062],[23.543061,46.221786],[23.544014,46.221027],[23.545066,46.220851],[23.545366,46.220443],[23.544957,46.219772],[23.545617,46.218988],[23.545964,46.219109],[23.547076,46.217951],[23.546027,46.217434],[23.541424,46.221992],[23.542585,46.222541]]],"type":"Polygon"}
 }

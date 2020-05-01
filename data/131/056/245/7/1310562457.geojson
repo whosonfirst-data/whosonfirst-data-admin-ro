@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.59443,44.5354,24.59443,44.5354",
-    "geom:latitude":44.5354,
-    "geom:longitude":24.59443,
+    "geom:area":0.000051,
+    "geom:area_square_m":453771.49323,
+    "geom:bbox":"24.588525,44.536735,24.595787,44.549591",
+    "geom:latitude":44.542454,
+    "geom:longitude":24.591893,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128711.0",
     "gn:asciiname":"Chiteasca",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Chi\u0163easca"
+    ],
+    "name:ron_x_variant":[
+        "Chiteasca"
+    ],
     "name:und_x_variant":[
         "Chiri\u0163easca",
         "Chi\u0163easca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681995
+        "gn:id":681995,
+        "ro-ancpi:id":128757
     },
     "wof:country":"RO",
-    "wof:geomhash":"043685e69b75711ff3508eb023fcbd7f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e26b9e9b617eb980645a71955bab58ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1310562457,
-    "wof:lastmodified":1566610600,
-    "wof:name":"Chiteasca",
+    "wof:lastmodified":1588367150,
+    "wof:name":"Chi\u0163easca",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":500,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.59443,
-    44.5354,
-    24.59443,
-    44.5354
+    24.588525,
+    44.536735,
+    24.595787,
+    44.549591
 ],
-  "geometry": {"coordinates":[24.59443,44.5354],"type":"Point"}
+  "geometry": {"coordinates":[[[24.595787,44.536735],[24.590565,44.536917],[24.589613,44.540402],[24.590136,44.543048],[24.588642,44.54329],[24.588525,44.544404],[24.589651,44.544451],[24.589871,44.546203],[24.589615,44.549488],[24.592539,44.549591],[24.592316,44.54806],[24.593077,44.545682],[24.594148,44.542643],[24.59466,44.539173],[24.595787,44.536735]]],"type":"Polygon"}
 }

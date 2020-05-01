@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.26667,44.53333,24.26667,44.53333",
-    "geom:latitude":44.53333,
-    "geom:longitude":24.26667,
+    "geom:area":0.000169,
+    "geom:area_square_m":1486938.47619,
+    "geom:bbox":"24.254186,44.509964,24.273082,44.546922",
+    "geom:latitude":44.530209,
+    "geom:longitude":24.26788,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3404,
@@ -41,6 +41,9 @@
         "Streje\u0219ti"
     ],
     "name:ron_x_preferred":[
+        "Streje\u015fti"
+    ],
+    "name:ron_x_variant":[
         "Streje\u0219ti"
     ],
     "name:srp_x_preferred":[
@@ -73,7 +76,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":881161,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -90,11 +96,15 @@
         "gn:id":665990,
         "gp:id":881161,
         "qs_pg:id":262402,
+        "ro-ancpi:id":129148,
         "wd:id":"Q3879400"
     },
     "wof:country":"RO",
     "wof:created":1497302060,
-    "wof:geomhash":"7ad75f72ff2ac2572e2fb3b69d76d50d",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"a319bfc06d7fa1991cec945778879d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,8 +114,8 @@
         }
     ],
     "wof:id":1126039759,
-    "wof:lastmodified":1566611299,
-    "wof:name":"Streje\u0219ti",
+    "wof:lastmodified":1588367026,
+    "wof:name":"Streje\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":3404,
@@ -116,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.26667,
-    44.53333,
-    24.26667,
-    44.53333
+    24.254186,
+    44.509964,
+    24.273082,
+    44.546922
 ],
-  "geometry": {"coordinates":[24.26667,44.53333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.272299,44.530069],[24.272226,44.526993],[24.270466,44.527101],[24.270042,44.523125],[24.268448,44.523334],[24.268273,44.521775],[24.269505,44.521444],[24.267924,44.516262],[24.266832,44.509964],[24.264794,44.510031],[24.266549,44.516852],[24.263674,44.516853],[24.264518,44.520713],[24.262814,44.520841],[24.262859,44.52166],[24.266743,44.521366],[24.26762,44.527043],[24.266474,44.527175],[24.261636,44.527823],[24.261713,44.528342],[24.259337,44.528586],[24.259038,44.528005],[24.254186,44.528364],[24.254233,44.529879],[24.257342,44.529946],[24.259521,44.530292],[24.262969,44.529699],[24.266535,44.530338],[24.268407,44.539249],[24.269236,44.546922],[24.271574,44.546787],[24.273082,44.546788],[24.272299,44.530069]]],"type":"Polygon"}
 }

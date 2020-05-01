@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.87652,45.51137,21.87652,45.51137",
-    "geom:latitude":45.51137,
-    "geom:longitude":21.87652,
+    "geom:area":0.000053,
+    "geom:area_square_m":456354.29209,
+    "geom:bbox":"21.866319,45.506379,21.879856,45.515448",
+    "geom:latitude":45.511631,
+    "geom:longitude":21.874745,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52785.0",
     "gn:asciiname":"Remetea-Poganici",
@@ -26,11 +26,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.85652,45.49137,21.89652,45.53137",
+    "lbl:latitude":45.51137,
+    "lbl:longitude":21.87652,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Remetea-Pog\u0103nici"
+    ],
+    "name:ron_x_variant":[
+        "Remetea-Poganici"
+    ],
     "name:und_x_variant":[
         "Remete-Poganest",
         "Remetea",
@@ -39,7 +47,11 @@
         "Remete",
         "Remetea Pog\u0103nici"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668975
+        "gn:id":668975,
+        "ro-ancpi:id":52829
     },
     "wof:country":"RO",
-    "wof:geomhash":"df2095ef3f2ec8da1e65c91ee7edb90c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e5dc8331af88baa496205ca5b7316f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,8 +77,8 @@
         }
     ],
     "wof:id":1242854657,
-    "wof:lastmodified":1566611507,
-    "wof:name":"Remetea-Poganici",
+    "wof:lastmodified":1588366839,
+    "wof:name":"Remetea-Pog\u0103nici",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":232,
@@ -73,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.87652000000001,
-    45.51137,
-    21.87652000000001,
-    45.51137
+    21.866319,
+    45.506379,
+    21.879856,
+    45.515448
 ],
-  "geometry": {"coordinates":[21.87652000000001,45.51137],"type":"Point"}
+  "geometry": {"coordinates":[[[21.879856,45.512833],[21.879304,45.511563],[21.879054,45.510643],[21.878481,45.509523],[21.877969,45.509388],[21.877234,45.508846],[21.877235,45.508694],[21.875633,45.507884],[21.876476,45.507406],[21.876635,45.507204],[21.876046,45.506379],[21.874846,45.506947],[21.874519,45.506595],[21.874411,45.506611],[21.873942,45.506826],[21.874152,45.507218],[21.874488,45.507711],[21.875202,45.507573],[21.875479,45.508226],[21.874509,45.50831],[21.874199,45.508423],[21.872874,45.509451],[21.872079,45.510093],[21.872145,45.510307],[21.870849,45.510809],[21.870421,45.510846],[21.8688,45.510948],[21.867866,45.511058],[21.86658,45.511432],[21.866474,45.511925],[21.866693,45.512792],[21.866319,45.513301],[21.866721,45.513411],[21.867281,45.513228],[21.867328,45.512677],[21.873281,45.512113],[21.873771,45.515448],[21.87742,45.515306],[21.878322,45.514793],[21.879417,45.513961],[21.879856,45.512833]]],"type":"Polygon"}
 }

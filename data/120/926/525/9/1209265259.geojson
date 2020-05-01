@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.45583,44.45008,24.45583,44.45008",
-    "geom:latitude":44.45008,
-    "geom:longitude":24.45583,
+    "geom:area":0.000021,
+    "geom:area_square_m":186408.23655,
+    "geom:bbox":"24.445596,44.444809,24.450495,44.452803",
+    "geom:latitude":44.448737,
+    "geom:longitude":24.448266,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129656",
     "gn:asciiname":"Barca",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0642\u0629"
@@ -85,6 +85,12 @@
     "name:por_x_preferred":[
         "Barca"
     ],
+    "name:ron_x_preferred":[
+        "B\u00e2rca"
+    ],
+    "name:ron_x_variant":[
+        "Barca"
+    ],
     "name:slk_x_preferred":[
         "Barca"
     ],
@@ -107,17 +113,24 @@
     "name:vie_x_preferred":[
         "Barca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684829
+        "gn:id":684829,
+        "ro-ancpi:id":129674
     },
     "wof:country":"RO",
-    "wof:geomhash":"c63aa0f18e26046a0c0433916a20d647",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"01d761a3192c5c12ae4af828696efda6",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -125,8 +138,8 @@
         }
     ],
     "wof:id":1209265259,
-    "wof:lastmodified":1566610389,
-    "wof:name":"Barca",
+    "wof:lastmodified":1588367151,
+    "wof:name":"B\u00e2rca",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":941,
@@ -137,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.45583,
-    44.45008,
-    24.45583,
-    44.45008
+    24.445596,
+    44.444809,
+    24.450495,
+    44.452803
 ],
-  "geometry": {"coordinates":[24.45583,44.45008],"type":"Point"}
+  "geometry": {"coordinates":[[[24.449674,44.445822],[24.447546,44.444809],[24.447196,44.445198],[24.446982,44.44516],[24.446699,44.445523],[24.4464,44.445899],[24.447298,44.446427],[24.446756,44.447241],[24.447006,44.447327],[24.446892,44.447625],[24.44686,44.447947],[24.447183,44.448012],[24.447157,44.44921],[24.4474,44.449254],[24.446929,44.449692],[24.445596,44.451085],[24.448424,44.452409],[24.448326,44.45263],[24.449083,44.452803],[24.449688,44.450614],[24.449189,44.450404],[24.449521,44.449722],[24.450495,44.447978],[24.449924,44.447563],[24.449837,44.447357],[24.450226,44.446861],[24.450053,44.446278],[24.449674,44.445822]]],"type":"Polygon"}
 }

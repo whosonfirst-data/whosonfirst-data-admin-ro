@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.60795,45.12492,27.60795,45.12492",
-    "geom:latitude":45.12492,
-    "geom:longitude":27.60795,
+    "geom:area":0.000039,
+    "geom:area_square_m":339162.584156,
+    "geom:bbox":"27.599548,45.121561,27.610535,45.128027",
+    "geom:latitude":45.124825,
+    "geom:longitude":27.605602,
     "gn:admin1_code":"08",
     "gn:admin2_code":"44202.0",
     "gn:asciiname":"Caldarusa",
@@ -25,22 +25,38 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.58795,45.10492,27.62795,45.14492",
+    "lbl:latitude":45.12492,
+    "lbl:longitude":27.60795,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u0103ld\u0103ru\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Caldarusa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682993
+        "gn:id":682993,
+        "ro-ancpi:id":44220
     },
     "wof:country":"RO",
-    "wof:geomhash":"cb3198ebca74f0c4fa7443dfe29c2918",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a131ab1c42e0470ad8bc4d06a985480",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +64,8 @@
         }
     ],
     "wof:id":1209200089,
-    "wof:lastmodified":1566610375,
-    "wof:name":"Caldarusa",
+    "wof:lastmodified":1588366744,
+    "wof:name":"C\u0103ld\u0103ru\u015fa",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":215,
@@ -60,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.60795,
-    45.12492,
-    27.60795,
-    45.12492
+    27.599548,
+    45.121561,
+    27.610535,
+    45.128027
 ],
-  "geometry": {"coordinates":[27.60795,45.12492],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.605673,45.127024],[27.607013,45.126831],[27.607024,45.126992],[27.607625,45.126848],[27.60843,45.127139],[27.608643,45.127142],[27.610535,45.125337],[27.609966,45.125406],[27.609452,45.12368],[27.608947,45.12192],[27.608772,45.121717],[27.608672,45.121561],[27.608258,45.121669],[27.606116,45.122246],[27.603981,45.122762],[27.603294,45.123009],[27.601037,45.123917],[27.600202,45.124384],[27.600653,45.124841],[27.600753,45.125307],[27.600966,45.126137],[27.602909,45.125781],[27.603335,45.127109],[27.602416,45.127269],[27.602663,45.128027],[27.605807,45.127535],[27.605673,45.127024]]],[[[27.60038,45.125861],[27.59999,45.125687],[27.599548,45.126129],[27.600045,45.126294],[27.60038,45.125861]]]],"type":"MultiPolygon"}
 }

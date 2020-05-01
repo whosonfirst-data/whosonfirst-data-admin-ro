@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.54315,46.68865,27.54315,46.68865",
-    "geom:latitude":46.68865,
-    "geom:longitude":27.54315,
+    "geom:area":0.000044,
+    "geom:area_square_m":374319.732448,
+    "geom:bbox":"27.535917,46.67982,27.546663,46.691485",
+    "geom:latitude":46.686892,
+    "geom:longitude":27.540258,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163379.0",
     "gn:asciiname":"Manastirea",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.52315,46.66865,27.56315,46.70865",
+    "lbl:latitude":46.68865,
+    "lbl:longitude":27.54315,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u00e2n\u0103stirea"
+    ],
+    "name:ron_x_variant":[
+        "Manastirea"
+    ],
     "name:und_x_variant":[
         "Schitu M\u00e2n\u0103stirei",
         "Schitu-M\u00een\u0103stirei",
         "M\u00een\u0103stirea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673267
+        "gn:id":673267,
+        "ro-ancpi:id":163468
     },
     "wof:country":"RO",
-    "wof:geomhash":"6d408fba3b3ffa27a9ab75d0bff17be0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"08e742b0707a14d8c371e007e8f56087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1293043681,
-    "wof:lastmodified":1566610094,
-    "wof:name":"Manastirea",
+    "wof:lastmodified":1588366686,
+    "wof:name":"M\u00e2n\u0103stirea",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":183,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.54315,
-    46.68865,
-    27.54315,
-    46.68865
+    27.535917,
+    46.67982,
+    27.546663,
+    46.691485
 ],
-  "geometry": {"coordinates":[27.54315,46.68865],"type":"Point"}
+  "geometry": {"coordinates":[[[27.535917,46.689716],[27.53675,46.689283],[27.536776,46.689935],[27.536884,46.689856],[27.538237,46.690161],[27.538143,46.690424],[27.538926,46.690585],[27.538848,46.690818],[27.539383,46.69095],[27.53923,46.691485],[27.540413,46.691409],[27.540589,46.690361],[27.542403,46.690227],[27.543734,46.690428],[27.544428,46.689593],[27.543962,46.68774],[27.545352,46.686203],[27.545707,46.686328],[27.546663,46.685681],[27.546201,46.685312],[27.54643,46.684828],[27.546036,46.684677],[27.545897,46.685026],[27.544753,46.685803],[27.544221,46.685589],[27.543497,46.686257],[27.543157,46.686225],[27.542194,46.686931],[27.541174,46.687473],[27.539903,46.68637],[27.540535,46.684176],[27.539539,46.683712],[27.539196,46.67982],[27.538303,46.67988],[27.538454,46.68103],[27.537582,46.681143],[27.537825,46.68343],[27.536294,46.683638],[27.537349,46.685798],[27.537653,46.686105],[27.537491,46.686548],[27.538156,46.686784],[27.537315,46.68833],[27.535917,46.689716]]],"type":"Polygon"}
 }

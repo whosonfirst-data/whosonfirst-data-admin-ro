@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.96991,44.80829,24.96991,44.80829",
-    "geom:latitude":44.80829,
-    "geom:longitude":24.96991,
+    "geom:area":0.000028,
+    "geom:area_square_m":246032.672935,
+    "geom:bbox":"24.961325,44.803847,24.98229,44.810041",
+    "geom:latitude":44.807313,
+    "geom:longitude":24.971551,
     "gn:admin1_code":"03",
     "gn:admin2_code":"15233.0",
     "gn:asciiname":"Recea",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.94991,44.78829,24.98991,44.82829",
+    "lbl:latitude":44.80829,
+    "lbl:longitude":24.96991,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Recea"
@@ -76,7 +78,11 @@
     "name:vol_x_preferred":[
         "Recea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -85,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669053
+        "gn:id":669053,
+        "ro-ancpi:id":15297
     },
     "wof:country":"RO",
-    "wof:geomhash":"40f8a92582fc454e723ec1122b6ac872",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"33bb028cc447ad6d12f6f969baf43bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1310602845,
-    "wof:lastmodified":1566610605,
+    "wof:lastmodified":1588366790,
     "wof:name":"Recea",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -110,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.96991,
-    44.80829,
-    24.96991,
-    44.80829
+    24.961325,
+    44.803847,
+    24.98229,
+    44.810041
 ],
-  "geometry": {"coordinates":[24.96991,44.80829],"type":"Point"}
+  "geometry": {"coordinates":[[[24.98229,44.804922],[24.981693,44.803847],[24.979944,44.804373],[24.977807,44.805063],[24.976133,44.805619],[24.97351,44.80623],[24.969872,44.806969],[24.969009,44.807255],[24.968299,44.807393],[24.962913,44.808349],[24.961325,44.808965],[24.96175,44.809911],[24.964068,44.80929],[24.967822,44.808569],[24.968241,44.809869],[24.968286,44.810041],[24.968756,44.809977],[24.969676,44.809793],[24.970333,44.80956],[24.970621,44.809173],[24.970788,44.80877],[24.970884,44.807913],[24.976043,44.806815],[24.98229,44.804922]]],"type":"Polygon"}
 }

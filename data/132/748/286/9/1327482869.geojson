@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.73103,47.69542,22.73103,47.69542",
-    "geom:latitude":47.69542,
-    "geom:longitude":22.73103,
+    "geom:area":0.000015,
+    "geom:area_square_m":125437.005516,
+    "geom:bbox":"22.726561,47.692914,22.732516,47.697569",
+    "geom:latitude":47.695239,
+    "geom:longitude":22.729559,
     "gn:admin1_code":"32",
     "gn:admin2_code":"139054",
     "gn:asciiname":"Aliza",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.71103,47.67542,22.75103,47.71542",
+    "lbl:latitude":47.69542,
+    "lbl:longitude":22.73103,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Aliza"
@@ -39,7 +41,14 @@
     "name:ita_x_preferred":[
         "Aliza"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Aliza"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686469
+        "gn:id":686469,
+        "ro-ancpi:id":139072
     },
     "wof:country":"RO",
-    "wof:geomhash":"50ccf971eb14934d45d3ec3fe1400886",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"15adf08c63f876b6eee085d0de039be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1327482869,
-    "wof:lastmodified":1566609812,
+    "wof:lastmodified":1588366632,
     "wof:name":"Aliza",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
@@ -73,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.73103,
-    47.69542,
-    22.73103,
-    47.69542
+    22.726561,
+    47.692914,
+    22.732516,
+    47.697569
 ],
-  "geometry": {"coordinates":[22.73103,47.69542],"type":"Point"}
+  "geometry": {"coordinates":[[[22.732516,47.696427],[22.730109,47.692914],[22.726561,47.694077],[22.729078,47.697569],[22.732516,47.696427]]],"type":"Polygon"}
 }

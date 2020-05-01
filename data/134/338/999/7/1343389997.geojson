@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.79776,44.71909,23.79776,44.71909",
-    "geom:latitude":44.71909,
-    "geom:longitude":23.79776,
+    "geom:area":0.000013,
+    "geom:area_square_m":117791.235282,
+    "geom:bbox":"23.793064,44.716153,23.801551,44.722077",
+    "geom:latitude":44.718856,
+    "geom:longitude":23.797037,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170097.0",
     "gn:asciiname":"Mierea",
@@ -28,12 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Mierea"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0438\u0435\u0440\u0435\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673436
+        "gn:id":673436,
+        "ro-ancpi:id":170131
     },
     "wof:country":"RO",
-    "wof:geomhash":"399415b0e53769edc9d813674a49e46c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96537042bd0a242d4b7f5fd21c2ea336",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1343389997,
-    "wof:lastmodified":1566609875,
+    "wof:lastmodified":1588367013,
     "wof:name":"Mierea",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.79776,
-    44.71909,
-    23.79776,
-    44.71909
+    23.793064,
+    44.716153,
+    23.801551,
+    44.722077
 ],
-  "geometry": {"coordinates":[23.79776,44.71909],"type":"Point"}
+  "geometry": {"coordinates":[[[23.801251,44.717126],[23.801551,44.716153],[23.799377,44.716394],[23.796543,44.717624],[23.794972,44.719633],[23.793064,44.721399],[23.794222,44.722077],[23.795581,44.721387],[23.796296,44.720612],[23.796307,44.720083],[23.797547,44.718924],[23.798998,44.717986],[23.800495,44.717366],[23.801251,44.717126]]],"type":"Polygon"}
 }

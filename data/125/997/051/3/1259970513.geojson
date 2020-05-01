@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.81832,44.87687,27.81832,44.87687",
-    "geom:latitude":44.87687,
-    "geom:longitude":27.81832,
+    "geom:area":0.000075,
+    "geom:area_square_m":654519.124481,
+    "geom:bbox":"27.809032,44.870745,27.821589,44.882897",
+    "geom:latitude":44.876399,
+    "geom:longitude":27.815667,
     "gn:admin1_code":"08",
     "gn:admin2_code":"44060.0",
     "gn:asciiname":"Stanca",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.79832,44.85687,27.83832,44.89687",
+    "lbl:latitude":44.87687,
+    "lbl:longitude":27.81832,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stanca"
@@ -39,7 +41,11 @@
     "name:ron_x_preferred":[
         "Stanca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666322
+        "gn:id":666322,
+        "ro-ancpi:id":44104
     },
     "wof:country":"RO",
-    "wof:geomhash":"fbb326b7f4e07258334c56b253c840b5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"77b7957894c4d8988aec9fde2835bbe0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1259970513,
-    "wof:lastmodified":1566611547,
+    "wof:lastmodified":1588366849,
     "wof:name":"Stanca",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
@@ -73,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.81832,
-    44.87687,
-    27.81832,
-    44.87687
+    27.809032,
+    44.870745,
+    27.821589,
+    44.882897
 ],
-  "geometry": {"coordinates":[27.81832,44.87687],"type":"Point"}
+  "geometry": {"coordinates":[[[27.821589,44.880217],[27.820351,44.877629],[27.81907,44.874814],[27.818053,44.872744],[27.817728,44.872335],[27.815015,44.872515],[27.814796,44.871983],[27.813066,44.872162],[27.811828,44.871334],[27.811129,44.870745],[27.809032,44.87127],[27.809798,44.872158],[27.810248,44.872348],[27.810511,44.872871],[27.810043,44.873003],[27.809956,44.873078],[27.809848,44.873177],[27.809787,44.873314],[27.809797,44.87353],[27.810087,44.8739],[27.811068,44.875481],[27.811843,44.876545],[27.811123,44.87682],[27.811827,44.878063],[27.81272,44.877832],[27.813215,44.878478],[27.813686,44.879108],[27.81459,44.880637],[27.816979,44.88012],[27.818695,44.882897],[27.818949,44.88281],[27.821589,44.880217]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.3211,46.03125,21.3211,46.03125",
-    "geom:latitude":46.03125,
-    "geom:longitude":21.3211,
+    "geom:area":0.000041,
+    "geom:area_square_m":353493.76763,
+    "geom:bbox":"21.313911,46.028008,21.324554,46.034686",
+    "geom:latitude":46.031198,
+    "geom:longitude":21.319697,
     "gn:admin1_code":"02",
     "gn:admin2_code":"12144.0",
     "gn:asciiname":"Hunedoara Timisana",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.3011,46.01125,21.3411,46.05125",
+    "lbl:latitude":46.03125,
+    "lbl:longitude":21.3211,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Hunedoara Timi\u015fan\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Hunedoara Timisana"
+    ],
     "name:und_x_variant":[
         "Segentau",
         "N\u00e9mets\u00e1g",
         "Hunedoara-Timi\u015fan\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675916
+        "gn:id":675916,
+        "ro-ancpi:id":12199
     },
     "wof:country":"RO",
-    "wof:geomhash":"32bd2eb86536d2ffa36a3e55aef03397",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"972478f6d758c03063ba0e8633370282",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1259982695,
-    "wof:lastmodified":1566611537,
-    "wof:name":"Hunedoara Timisana",
+    "wof:lastmodified":1588366847,
+    "wof:name":"Hunedoara Timi\u015fan\u0103",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":230,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.3211,
-    46.03125,
-    21.3211,
-    46.03125
+    21.313911,
+    46.028008,
+    21.324554,
+    46.034686
 ],
-  "geometry": {"coordinates":[21.3211,46.03125],"type":"Point"}
+  "geometry": {"coordinates":[[[21.324554,46.034413],[21.323544,46.030901],[21.322914,46.028008],[21.316937,46.0292],[21.313911,46.02984],[21.314117,46.030747],[21.314948,46.030592],[21.315497,46.03364],[21.31729,46.033322],[21.319202,46.032961],[21.319491,46.032896],[21.321506,46.032442],[21.321806,46.033373],[21.321159,46.033469],[21.321389,46.034204],[21.322591,46.034155],[21.322793,46.034686],[21.324554,46.034413]]],"type":"Polygon"}
 }

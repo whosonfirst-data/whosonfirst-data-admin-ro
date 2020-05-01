@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.92806,45.10107,23.92806,45.10107",
-    "geom:latitude":45.10107,
-    "geom:longitude":23.92806,
+    "geom:area":0.000062,
+    "geom:area_square_m":538130.49612,
+    "geom:bbox":"23.921876,45.094577,23.93642,45.105923",
+    "geom:latitude":45.099803,
+    "geom:longitude":23.928426,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173533",
     "gn:asciiname":"Obrocesti",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.90806,45.08107,23.94806,45.12107",
+    "lbl:latitude":45.10107,
+    "lbl:longitude":23.92806,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Obroce\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Obrocesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11048264
+        "gn:id":11048264,
+        "ro-ancpi:id":173579
     },
     "wof:country":"RO",
-    "wof:geomhash":"ccbc13c7b0b186a585d282fbfcfbc8ab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8b3c51ba51ac293a684df03a80dc1d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1293718719,
-    "wof:lastmodified":1566610074,
-    "wof:name":"Obrocesti",
+    "wof:lastmodified":1588366682,
+    "wof:name":"Obroce\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":349,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.92806,
-    45.10107,
-    23.92806,
-    45.10107
+    23.921876,
+    45.094577,
+    23.93642,
+    45.105923
 ],
-  "geometry": {"coordinates":[23.92806,45.10107],"type":"Point"}
+  "geometry": {"coordinates":[[[23.933602,45.102495],[23.931662,45.100474],[23.930039,45.100887],[23.927152,45.099502],[23.928654,45.098502],[23.932017,45.097699],[23.93111,45.096684],[23.933432,45.096928],[23.933676,45.096087],[23.932127,45.095497],[23.929959,45.095694],[23.928347,45.09646],[23.926832,45.09614],[23.924526,45.095233],[23.922918,45.094577],[23.922646,45.094879],[23.921876,45.096057],[23.92365,45.096775],[23.923792,45.09797],[23.92198,45.1025],[23.923442,45.102954],[23.925192,45.100313],[23.927096,45.100939],[23.928995,45.102727],[23.931483,45.104267],[23.934154,45.105923],[23.93642,45.10405],[23.933602,45.102495]]],"type":"Polygon"}
 }

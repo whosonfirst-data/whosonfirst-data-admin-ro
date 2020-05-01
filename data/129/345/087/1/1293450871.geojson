@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.90998,44.46394,23.90998,44.46394",
-    "geom:latitude":44.46394,
-    "geom:longitude":23.90998,
+    "geom:area":0.000079,
+    "geom:area_square_m":698196.8903,
+    "geom:bbox":"23.905643,44.452314,23.924682,44.465989",
+    "geom:latitude":44.458721,
+    "geom:longitude":23.914868,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130124.0",
     "gn:asciiname":"Tabaci",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Tabaci"
@@ -39,7 +39,13 @@
     "name:hrv_x_preferred":[
         "Tabaci"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Tabaci"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665647
+        "gn:id":665647,
+        "ro-ancpi:id":130213
     },
     "wof:country":"RO",
-    "wof:geomhash":"78b2bf7692bd735b2248db46a81b179a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"824239b6497dc5f12c4481fe734262d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1293450871,
-    "wof:lastmodified":1566610129,
+    "wof:lastmodified":1588367017,
     "wof:name":"Tabaci",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -73,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.90998,
-    44.46394,
-    23.90998,
-    44.46394
+    23.905643,
+    44.452314,
+    23.924682,
+    44.465989
 ],
-  "geometry": {"coordinates":[23.90998,44.46394],"type":"Point"}
+  "geometry": {"coordinates":[[[23.924682,44.455387],[23.923829,44.454594],[23.922432,44.453817],[23.920934,44.454263],[23.920092,44.452334],[23.918069,44.452314],[23.916953,44.452704],[23.917102,44.452832],[23.917513,44.455307],[23.916654,44.456664],[23.914426,44.457281],[23.911579,44.45799],[23.909984,44.458989],[23.907418,44.460535],[23.906769,44.461515],[23.905643,44.465802],[23.907616,44.465989],[23.912691,44.461311],[23.918411,44.459111],[23.91935,44.458832],[23.924247,44.456425],[23.923752,44.455923],[23.924682,44.455387]]],"type":"Polygon"}
 }

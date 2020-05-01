@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.38871,46.91397,25.38871,46.91397",
-    "geom:latitude":46.91397,
-    "geom:longitude":25.38871,
+    "geom:area":0.000102,
+    "geom:area_square_m":857827.283497,
+    "geom:bbox":"25.376081,46.910106,25.398823,46.919093",
+    "geom:latitude":46.914723,
+    "geom:longitude":25.385713,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84460.0",
     "gn:asciiname":"Plopis",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Plopi\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Plopis"
+    ],
     "name:und_x_variant":[
         "Ploptisu",
         "Plopi\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670444
+        "gn:id":670444,
+        "ro-ancpi:id":84512
     },
     "wof:country":"RO",
-    "wof:geomhash":"9bcc2f1deaf4e9e6355a5c444f58e407",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2590490f00a38e74029b19fff7a4b6b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1243133923,
-    "wof:lastmodified":1566611474,
-    "wof:name":"Plopis",
+    "wof:lastmodified":1588367044,
+    "wof:name":"Plopi\u015f",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":55,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.38871,
-    46.91397,
-    25.38871,
-    46.91397
+    25.376081,
+    46.910106,
+    25.398823,
+    46.919093
 ],
-  "geometry": {"coordinates":[25.38871,46.91397],"type":"Point"}
+  "geometry": {"coordinates":[[[25.398823,46.916327],[25.398439,46.915845],[25.39753,46.914959],[25.394194,46.913574],[25.388579,46.914563],[25.388501,46.912373],[25.384092,46.911266],[25.37706,46.910106],[25.376081,46.916094],[25.376519,46.916812],[25.378697,46.916855],[25.380141,46.918628],[25.382499,46.917693],[25.384395,46.915772],[25.388169,46.915453],[25.389785,46.916031],[25.390332,46.916497],[25.39108,46.91611],[25.391949,46.916608],[25.392089,46.918557],[25.392171,46.918983],[25.393122,46.919093],[25.394224,46.919072],[25.394758,46.918964],[25.395445,46.918761],[25.396293,46.918314],[25.396838,46.917857],[25.398823,46.916327]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23944,45.97582,24.23944,45.97582",
-    "geom:latitude":45.97582,
-    "geom:longitude":24.23944,
+    "geom:area":0.000034,
+    "geom:area_square_m":292877.549009,
+    "geom:bbox":"24.229193,45.969124,24.245754,45.97967",
+    "geom:latitude":45.974307,
+    "geom:longitude":24.236321,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145667.0",
     "gn:asciiname":"Stenea",
@@ -25,22 +25,38 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.21944,45.95582,24.25944,45.99582",
+    "lbl:latitude":45.97582,
+    "lbl:longitude":24.23944,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u015etenea"
+    ],
+    "name:ron_x_variant":[
+        "Stenea"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666165
+        "gn:id":666165,
+        "ro-ancpi:id":145729
     },
     "wof:country":"RO",
-    "wof:geomhash":"e8cab50eddb069980f598a71de7177e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"194b5425f23de7687c7227bb049c4b09",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +64,8 @@
         }
     ],
     "wof:id":1209664003,
-    "wof:lastmodified":1566610346,
-    "wof:name":"Stenea",
+    "wof:lastmodified":1588366739,
+    "wof:name":"\u015etenea",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":226,
@@ -60,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23944,
-    45.97582,
-    24.23944,
-    45.97582
+    24.229193,
+    45.969124,
+    24.245754,
+    45.97967
 ],
-  "geometry": {"coordinates":[24.23944,45.97582],"type":"Point"}
+  "geometry": {"coordinates":[[[24.235765,45.973788],[24.231641,45.969124],[24.229864,45.96952],[24.229193,45.9703],[24.230447,45.972132],[24.232188,45.973264],[24.234116,45.974962],[24.237501,45.97624],[24.24152,45.977629],[24.243403,45.97967],[24.245754,45.979262],[24.24334,45.977043],[24.235765,45.973788]]],"type":"Polygon"}
 }

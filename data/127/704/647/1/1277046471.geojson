@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.13162,44.15506,28.13162,44.15506",
-    "geom:latitude":44.15506,
-    "geom:longitude":28.13162,
+    "geom:area":0.00001,
+    "geom:area_square_m":90537.220847,
+    "geom:bbox":"28.128359,44.152993,28.133182,44.157181",
+    "geom:latitude":44.15524,
+    "geom:longitude":28.130442,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62707.0",
     "gn:asciiname":"Veteranu",
@@ -29,15 +29,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Veteranu"
+    ],
     "name:und_x_variant":[
         "Idri\u015f-Kuius",
         "Veteran",
         "Veteranul",
         "Veteranu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663015
+        "gn:id":663015,
+        "ro-ancpi:id":62752
     },
     "wof:country":"RO",
-    "wof:geomhash":"0cbea65443fea298070a8004448e49d1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"086ec715f4772ecd7ef2b8204f823ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1277046471,
-    "wof:lastmodified":1566610220,
+    "wof:lastmodified":1588367023,
     "wof:name":"Veteranu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.13162,
-    44.15506,
-    28.13162,
-    44.15506
+    28.128359,
+    44.152993,
+    28.133182,
+    44.157181
 ],
-  "geometry": {"coordinates":[28.13162,44.15506],"type":"Point"}
+  "geometry": {"coordinates":[[[28.130842,44.157181],[28.131066,44.15664],[28.131977,44.156831],[28.132116,44.156474],[28.132708,44.156605],[28.133182,44.155409],[28.131515,44.15521],[28.130982,44.155141],[28.131136,44.154829],[28.131114,44.154706],[28.130952,44.154453],[28.130941,44.154246],[28.131028,44.153824],[28.130474,44.153863],[28.130461,44.152993],[28.129919,44.153008],[28.129594,44.153487],[28.128392,44.153506],[28.128359,44.153912],[28.128404,44.154114],[28.128504,44.15443],[28.128764,44.154772],[28.128783,44.15512],[28.128722,44.155692],[28.129214,44.15602],[28.129618,44.15618],[28.129892,44.156582],[28.129905,44.157105],[28.130842,44.157181]]],"type":"Polygon"}
 }

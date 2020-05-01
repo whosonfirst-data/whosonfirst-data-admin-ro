@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.58105,44.00328,25.58105,44.00328",
-    "geom:latitude":44.00328,
-    "geom:longitude":25.58105,
+    "geom:area":0.000041,
+    "geom:area_square_m":360886.577003,
+    "geom:bbox":"25.574583,43.998968,25.582623,44.006621",
+    "geom:latitude":44.002815,
+    "geom:longitude":25.578211,
     "gn:admin1_code":"35",
     "gn:admin2_code":"153909.0",
     "gn:asciiname":"Ludaneasca",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.56105,43.98328,25.60105,44.02328",
+    "lbl:latitude":44.00328,
+    "lbl:longitude":25.58105,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Lud\u0103neasca"
+    ],
+    "name:ron_x_variant":[
+        "Ludaneasca"
+    ],
     "name:und_x_variant":[
         "Lud\u0103neasa",
         "Lud\u0103neasca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674552
+        "gn:id":674552,
+        "ro-ancpi:id":153927
     },
     "wof:country":"RO",
-    "wof:geomhash":"eb65b7695a25b7a40d327435f4f64a7d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0d77e60a10089c0c6b8766d01d614eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1209961289,
-    "wof:lastmodified":1566610289,
-    "wof:name":"Ludaneasca",
+    "wof:lastmodified":1588366728,
+    "wof:name":"Lud\u0103neasca",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":228,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.58105,
-    44.00328,
-    25.58105,
-    44.00328
+    25.574583,
+    43.998968,
+    25.582623,
+    44.006621
 ],
-  "geometry": {"coordinates":[25.58105,44.00328],"type":"Point"}
+  "geometry": {"coordinates":[[[25.578757,44.006621],[25.579173,44.006128],[25.581263,44.006192],[25.581602,44.005364],[25.581302,44.005323],[25.580678,44.005213],[25.580661,44.005159],[25.580832,44.004456],[25.581053,44.003718],[25.581162,44.003351],[25.581136,44.003237],[25.581065,44.003163],[25.580927,44.003137],[25.580458,44.003127],[25.580412,44.003082],[25.580418,44.003003],[25.58062,44.00218],[25.580834,44.00136],[25.580833,44.00128],[25.580938,44.000688],[25.581505,44.000705],[25.582215,44.000719],[25.582623,43.9995],[25.580822,43.999401],[25.578213,43.999355],[25.577909,43.999972],[25.577573,44.000154],[25.576777,43.999722],[25.575717,43.998968],[25.574583,44.000396],[25.575071,44.000515],[25.575269,44.000539],[25.575582,44.000556],[25.57602,44.000568],[25.575581,44.001753],[25.575235,44.002645],[25.574816,44.003649],[25.574654,44.004359],[25.575259,44.005843],[25.575368,44.005977],[25.57582,44.006103],[25.577283,44.006202],[25.578077,44.006608],[25.578757,44.006621]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.56883,46.52162,27.56883,46.52162",
-    "geom:latitude":46.52162,
-    "geom:longitude":27.56883,
+    "geom:area":0.000025,
+    "geom:area_square_m":216766.856565,
+    "geom:bbox":"27.566183,46.515367,27.574244,46.521886",
+    "geom:latitude":46.518469,
+    "geom:longitude":27.569787,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165336.0",
     "gn:asciiname":"Dealu Secarii",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.54883,46.50162,27.58883,46.54162",
+    "lbl:latitude":46.52162,
+    "lbl:longitude":27.56883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dealu Sec\u0103rii"
+    ],
+    "name:ron_x_variant":[
+        "Dealu Secarii"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679582
+        "gn:id":679582,
+        "ro-ancpi:id":165354
     },
     "wof:country":"RO",
-    "wof:geomhash":"3e031ed735ceea63fda44dca30c8b47a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a9b40d332e6ab01ad296d2764a33bb75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1343909397,
-    "wof:lastmodified":1566609896,
-    "wof:name":"Dealu Secarii",
+    "wof:lastmodified":1588366650,
+    "wof:name":"Dealu Sec\u0103rii",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":6,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.56883,
-    46.52162,
-    27.56883,
-    46.52162
+    27.566183,
+    46.515367,
+    27.574244,
+    46.521886
 ],
-  "geometry": {"coordinates":[27.56883,46.52162],"type":"Point"}
+  "geometry": {"coordinates":[[[27.57175,46.518758],[27.574244,46.515496],[27.571669,46.515367],[27.570535,46.516539],[27.56894,46.516025],[27.567918,46.516969],[27.568937,46.517388],[27.568343,46.517641],[27.567466,46.517374],[27.567173,46.517575],[27.567404,46.517724],[27.567182,46.518024],[27.56791,46.518232],[27.567644,46.518532],[27.566988,46.519132],[27.566439,46.519557],[27.566285,46.519777],[27.566183,46.520472],[27.566803,46.521253],[27.568987,46.521886],[27.56937,46.521119],[27.570222,46.52086],[27.57175,46.518758]]],"type":"Polygon"}
 }

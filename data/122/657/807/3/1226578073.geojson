@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.05,44.81667,24.05,44.81667",
-    "geom:latitude":44.81667,
-    "geom:longitude":24.05,
+    "geom:area":0.000062,
+    "geom:area_square_m":542602.06405,
+    "geom:bbox":"24.035767,44.811483,24.046873,44.823156",
+    "geom:latitude":44.817657,
+    "geom:longitude":24.040488,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173132.0",
     "gn:asciiname":"Stanesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "St\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669480
+        "gn:id":669480,
+        "ro-ancpi:id":173141
     },
     "wof:country":"RO",
-    "wof:geomhash":"84cc6dedc2ed8e9a008d7c6d644a594c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c1d1cc7434fc61ad5038372705a94995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1226578073,
-    "wof:lastmodified":1566611651,
-    "wof:name":"Stanesti",
+    "wof:lastmodified":1588367025,
+    "wof:name":"St\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":161,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.05,
-    44.81667,
-    24.05,
-    44.81667
+    24.035767,
+    44.811483,
+    24.046873,
+    44.823156
 ],
-  "geometry": {"coordinates":[24.05,44.81667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.040089,44.820231],[24.041919,44.820196],[24.041669,44.822287],[24.044468,44.822234],[24.045372,44.819612],[24.04464,44.81833],[24.046873,44.817787],[24.046632,44.817223],[24.043719,44.817658],[24.042641,44.815658],[24.041959,44.813558],[24.040213,44.81288],[24.038048,44.811483],[24.036103,44.811977],[24.038927,44.814682],[24.035834,44.815217],[24.035767,44.817054],[24.037311,44.81694],[24.038018,44.817533],[24.036992,44.823141],[24.038821,44.823156],[24.040089,44.820231]]],"type":"Polygon"}
 }

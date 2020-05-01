@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.97698,44.73488,23.97698,44.73488",
-    "geom:latitude":44.73488,
-    "geom:longitude":23.97698,
+    "geom:area":0.000021,
+    "geom:area_square_m":180891.369992,
+    "geom:bbox":"23.970971,44.73327,23.976613,44.7424",
+    "geom:latitude":44.737984,
+    "geom:longitude":23.973752,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Giulesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Giule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Giulesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677146
+        "gn:id":677146,
+        "ro-ancpi:id":169770
     },
     "wof:country":"RO",
-    "wof:geomhash":"125efae442f732dfb2c24aa08aac2870",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b70a41c69e24cdfd2ebdbd4172e2f899",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1327270485,
-    "wof:lastmodified":1566609871,
-    "wof:name":"Giulesti",
+    "wof:lastmodified":1588367160,
+    "wof:name":"Giule\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":378,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.97698,
-    44.73488,
-    23.97698,
-    44.73488
+    23.970971,
+    44.73327,
+    23.976613,
+    44.7424
 ],
-  "geometry": {"coordinates":[23.97698,44.73488],"type":"Point"}
+  "geometry": {"coordinates":[[[23.976021,44.734676],[23.976613,44.733277],[23.975268,44.73327],[23.975186,44.733619],[23.975001,44.733617],[23.974771,44.733619],[23.974764,44.734019],[23.973986,44.734067],[23.973935,44.734739],[23.972737,44.736164],[23.972238,44.738758],[23.972052,44.740605],[23.970971,44.742222],[23.973053,44.7424],[23.973342,44.741898],[23.973621,44.741606],[23.974077,44.741419],[23.974625,44.741097],[23.974635,44.740892],[23.974329,44.740872],[23.974551,44.739147],[23.974959,44.737397],[23.975491,44.735084],[23.975963,44.735071],[23.976021,44.734676]]],"type":"Polygon"}
 }

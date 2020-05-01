@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11487,44.4061,24.11487,44.4061",
-    "geom:latitude":44.4061,
-    "geom:longitude":24.11487,
+    "geom:area":0.000031,
+    "geom:area_square_m":270971.168239,
+    "geom:bbox":"24.110963,44.399037,24.12027,44.408515",
+    "geom:latitude":44.403479,
+    "geom:longitude":24.115815,
     "gn:admin1_code":"29",
     "gn:admin2_code":"125873.0",
     "gn:asciiname":"Chintesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Chinte\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Chintesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682090
+        "gn:id":682090,
+        "ro-ancpi:id":125917
     },
     "wof:country":"RO",
-    "wof:geomhash":"368f0e3d7a1d1357ad05e9d327abe6f5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"65e4b76946f781a7e3f95dccbe6f88dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1209977839,
-    "wof:lastmodified":1566610303,
-    "wof:name":"Chintesti",
+    "wof:lastmodified":1588367085,
+    "wof:name":"Chinte\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":184,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11487,
-    44.4061,
-    24.11487,
-    44.4061
+    24.110963,
+    44.399037,
+    24.12027,
+    44.408515
 ],
-  "geometry": {"coordinates":[24.11487,44.4061],"type":"Point"}
+  "geometry": {"coordinates":[[[24.12027,44.399554],[24.11774,44.399037],[24.115571,44.402314],[24.113433,44.402979],[24.110963,44.407932],[24.112713,44.408515],[24.11513,44.404979],[24.116861,44.404688],[24.118708,44.40378],[24.12027,44.399554]]],"type":"Polygon"}
 }

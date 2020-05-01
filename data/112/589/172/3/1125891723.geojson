@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.01667,44.56667,24.01667,44.56667",
-    "geom:latitude":44.56667,
-    "geom:longitude":24.01667,
+    "geom:area":0.000048,
+    "geom:area_square_m":424256.592506,
+    "geom:bbox":"24.009793,44.564027,24.021302,44.571304",
+    "geom:latitude":44.567894,
+    "geom:longitude":24.016358,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3623,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:epo_x_preferred":[
@@ -35,6 +35,9 @@
         "F\u0103ure\u015fti"
     ],
     "name:ron_x_preferred":[
+        "F\u0103ure\u015fti"
+    ],
+    "name:ron_x_variant":[
         "F\u0103ure\u0219ti"
     ],
     "name:ukr_x_preferred":[
@@ -54,7 +57,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":1027900,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -65,11 +71,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":678385,
-        "qs_pg:id":1027900
+        "qs_pg:id":1027900,
+        "ro-ancpi:id":169654
     },
     "wof:country":"RO",
     "wof:created":1497295351,
-    "wof:geomhash":"67293fdf423dc07b826b8f5d9f76c1bf",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"6d91d0cf64258c719eebb4e0464ed57f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +89,7 @@
         }
     ],
     "wof:id":1125891723,
-    "wof:lastmodified":1566611326,
+    "wof:lastmodified":1588366814,
     "wof:name":"F\u0103ure\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -91,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.01667,
-    44.56667,
-    24.01667,
-    44.56667
+    24.009793,
+    44.564027,
+    24.021302,
+    44.571304
 ],
-  "geometry": {"coordinates":[24.01667,44.56667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.019573,44.57127],[24.021302,44.566089],[24.019419,44.565788],[24.018713,44.565649],[24.017553,44.565023],[24.016398,44.564263],[24.014047,44.564027],[24.013536,44.565607],[24.012608,44.566594],[24.012992,44.567632],[24.010915,44.568533],[24.009793,44.568449],[24.011703,44.56942],[24.012446,44.569848],[24.01279,44.570062],[24.015268,44.570811],[24.016974,44.571304],[24.017568,44.571003],[24.018717,44.571205],[24.019573,44.57127]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.00638,46.40969,23.00638,46.40969",
-    "geom:latitude":46.40969,
-    "geom:longitude":23.00638,
+    "geom:area":0.000013,
+    "geom:area_square_m":110944.467667,
+    "geom:bbox":"22.997374,46.404116,23.008717,46.413426",
+    "geom:latitude":46.407616,
+    "geom:longitude":23.00343,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1455",
     "gn:asciiname":"Borlesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Borle\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Borlesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684191
+        "gn:id":684191,
+        "ro-ancpi:id":1482
     },
     "wof:country":"RO",
-    "wof:geomhash":"2a04f056072ddd3046980a4ff23f4895",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4180b2ca27f359b2f2faef97940df0d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1243071799,
-    "wof:lastmodified":1566611420,
-    "wof:name":"Borlesti",
+    "wof:lastmodified":1588367080,
+    "wof:name":"Borle\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":141,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.00638,
-    46.40969000000001,
-    23.00638,
-    46.40969000000001
+    22.997374,
+    46.404116,
+    23.008717,
+    46.413426
 ],
-  "geometry": {"coordinates":[23.00638,46.40969000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.008717,46.407038],[23.008358,46.406133],[23.008379,46.405555],[23.004479,46.406029],[23.004581,46.406659],[23.006596,46.406583],[23.007208,46.407406],[23.008717,46.407038]]],[[[22.999947,46.404227],[22.998527,46.404116],[22.997374,46.404958],[22.997594,46.40575],[22.999375,46.405756],[22.999408,46.404858],[23.000162,46.404699],[22.999947,46.404227]]],[[[23.004954,46.407776],[23.003732,46.40695],[23.002698,46.407356],[23.003664,46.408369],[23.003796,46.409147],[23.004814,46.409066],[23.004954,46.407776]]],[[[23.003409,46.411918],[23.002842,46.41154],[23.0023,46.412235],[23.00348,46.413426],[23.004268,46.413299],[23.004569,46.412805],[23.003409,46.411918]]],[[[23.000744,46.410582],[23.000471,46.409916],[22.999617,46.410107],[22.999968,46.410796],[23.000744,46.410582]]]],"type":"MultiPolygon"}
 }

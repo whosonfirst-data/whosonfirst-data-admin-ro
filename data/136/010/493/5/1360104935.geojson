@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.50435,45.21437,27.50435,45.21437",
-    "geom:latitude":45.21437,
-    "geom:longitude":27.50435,
+    "geom:area":0.000062,
+    "geom:area_square_m":538086.165109,
+    "geom:bbox":"27.496306,45.210218,27.509379,45.218584",
+    "geom:latitude":45.214729,
+    "geom:longitude":27.50284,
     "gn:admin1_code":"08",
     "gn:admin2_code":"44140.0",
     "gn:asciiname":"Mihail Kogalniceanu",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.48435,45.19437,27.52435,45.23437",
+    "lbl:latitude":45.21437,
+    "lbl:longitude":27.50435,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ron_x_variant":[
+        "Mihail Kogalniceanu"
+    ],
     "name:und_x_variant":[
         "Cog\u0103lniceanu",
         "Mihail Cog\u0103lniceanu",
         "Mihail Kog\u0103lniceanu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673379
+        "gn:id":673379,
+        "ro-ancpi:id":44168
     },
     "wof:country":"RO",
-    "wof:geomhash":"53fe0bbeb367959101f167598dac908e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"07ab8edea05a383d19d780a62f6a38b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1360104935,
-    "wof:lastmodified":1566610637,
-    "wof:name":"Mihail Kogalniceanu",
+    "wof:lastmodified":1588366797,
+    "wof:name":"Mihail Kog\u0103lniceanu",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":386,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.50435,
-    45.21437,
-    27.50435,
-    45.21437
+    27.496306,
+    45.210218,
+    27.509379,
+    45.218584
 ],
-  "geometry": {"coordinates":[27.50435,45.21437],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.501538,45.218584],[27.504736,45.21777],[27.504885,45.218032],[27.505664,45.217847],[27.50583,45.218215],[27.506846,45.217953],[27.50679,45.217813],[27.507212,45.217733],[27.507157,45.217601],[27.507704,45.217509],[27.507758,45.217597],[27.508478,45.217439],[27.508325,45.217106],[27.509379,45.216861],[27.508841,45.21574],[27.50882,45.215709],[27.509016,45.215657],[27.508655,45.214771],[27.507825,45.214985],[27.507539,45.214381],[27.506984,45.214524],[27.505097,45.210746],[27.503298,45.211146],[27.503139,45.211094],[27.501254,45.211523],[27.499807,45.21176],[27.499446,45.211906],[27.497465,45.212287],[27.496306,45.212516],[27.496867,45.21415],[27.496329,45.214188],[27.496541,45.215007],[27.500336,45.214392],[27.500746,45.21603],[27.498732,45.216318],[27.498933,45.217198],[27.499494,45.217133],[27.499562,45.21753],[27.498666,45.217674],[27.498895,45.218324],[27.50136,45.217942],[27.501538,45.218584]]],[[[27.498984,45.210439],[27.498819,45.210218],[27.497722,45.210753],[27.498001,45.211071],[27.498143,45.211128],[27.498308,45.211328],[27.498496,45.211368],[27.499306,45.211031],[27.49887,45.210497],[27.498984,45.210439]]]],"type":"MultiPolygon"}
 }

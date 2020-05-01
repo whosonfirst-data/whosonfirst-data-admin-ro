@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.81917,45.885,21.81917,45.885",
-    "geom:latitude":45.885,
-    "geom:longitude":21.81917,
+    "geom:area":0.000063,
+    "geom:area_square_m":541875.542842,
+    "geom:bbox":"21.81682,45.879521,21.82954,45.889542",
+    "geom:latitude":45.884577,
+    "geom:longitude":21.82264,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":301,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:epo_x_preferred":[
@@ -38,6 +38,9 @@
         "Seca\u015f"
     ],
     "name:ron_x_preferred":[
+        "Seca\u015f"
+    ],
+    "name:ron_x_variant":[
         "Seca\u0219"
     ],
     "name:ukr_x_preferred":[
@@ -63,7 +66,10 @@
     "qs_pg:pop_sr":2,
     "qs_pg:qs_id":551022,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -74,11 +80,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":667504,
-        "qs_pg:id":551022
+        "qs_pg:id":551022,
+        "ro-ancpi:id":158617
     },
     "wof:country":"RO",
     "wof:created":1497292312,
-    "wof:geomhash":"d3d0d8ea564a895d8991b06851085237",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"83477587c5c1a3e399a02a1c77018eda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +98,7 @@
         }
     ],
     "wof:id":1125826779,
-    "wof:lastmodified":1566611389,
+    "wof:lastmodified":1588366818,
     "wof:name":"Seca\u015f",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -100,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.81917,
-    45.885,
-    21.81917,
-    45.885
+    21.81682,
+    45.879521,
+    21.82954,
+    45.889542
 ],
-  "geometry": {"coordinates":[21.81917,45.885],"type":"Point"}
+  "geometry": {"coordinates":[[[21.826405,45.883197],[21.825375,45.882284],[21.82471,45.882579],[21.824136,45.882146],[21.823459,45.881581],[21.822692,45.880856],[21.821137,45.879725],[21.820461,45.879959],[21.820143,45.880056],[21.820098,45.879602],[21.820077,45.879521],[21.819668,45.879596],[21.819226,45.879705],[21.818822,45.879863],[21.818963,45.880071],[21.819574,45.880813],[21.817767,45.881512],[21.81846,45.882464],[21.81734,45.883163],[21.81682,45.883762],[21.818716,45.884734],[21.818271,45.884989],[21.819036,45.885648],[21.818555,45.885845],[21.819113,45.886499],[21.820364,45.887035],[21.820901,45.887807],[21.821796,45.888666],[21.821541,45.888947],[21.82264,45.889542],[21.824779,45.888303],[21.825952,45.887628],[21.827257,45.886846],[21.827934,45.886512],[21.82954,45.886271],[21.828925,45.885618],[21.827987,45.884703],[21.827638,45.884372],[21.827272,45.884065],[21.826405,45.883197]]],"type":"Polygon"}
 }

@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.04357,46.54329,24.04357,46.54329",
-    "geom:latitude":46.54329,
-    "geom:longitude":24.04357,
+    "geom:area_square_m":3394.949987,
+    "geom:bbox":"24.044015,46.543559,24.044918,46.544398",
+    "geom:latitude":46.543958,
+    "geom:longitude":24.04448,
     "gn:admin1_code":"27",
     "gn:admin2_code":"114710.0",
     "gn:asciiname":"Fundatura",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Fund\u0103tura"
+    ],
+    "name:ron_x_variant":[
+        "Fundatura"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677826
+        "gn:id":677826,
+        "ro-ancpi:id":114765
     },
     "wof:country":"RO",
-    "wof:geomhash":"ce1f3834104958571623918dd265a052",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d7d8e9e5b0bc40c4505f4ac877aa2fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1343408955,
-    "wof:lastmodified":1566609929,
-    "wof:name":"Fundatura",
+    "wof:lastmodified":1588367133,
+    "wof:name":"Fund\u0103tura",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":5,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.04357000000001,
-    46.54329,
-    24.04357000000001,
-    46.54329
+    24.044015,
+    46.543559,
+    24.044918,
+    46.544398
 ],
-  "geometry": {"coordinates":[24.04357000000001,46.54329],"type":"Point"}
+  "geometry": {"coordinates":[[[24.044918,46.543663],[24.044482,46.543559],[24.044015,46.544108],[24.044457,46.544398],[24.044648,46.544206],[24.044918,46.543663]]],"type":"Polygon"}
 }

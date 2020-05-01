@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.89183,46.64885,23.89183,46.64885",
-    "geom:latitude":46.64885,
-    "geom:longitude":23.89183,
+    "geom:area":0.000008,
+    "geom:area_square_m":63687.820725,
+    "geom:bbox":"23.882726,46.64653,23.890342,46.651756",
+    "geom:latitude":46.648682,
+    "geom:longitude":23.887012,
     "gn:admin1_code":"13",
     "gn:admin2_code":"56844.0",
     "gn:asciiname":"Starcu",
@@ -28,12 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Cs\u00f3ka"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "St\u00e2rcu"
+    ],
+    "name:ron_x_variant":[
+        "Starcu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666096
+        "gn:id":666096,
+        "ro-ancpi:id":56951
     },
     "wof:country":"RO",
-    "wof:geomhash":"dae0690d1077719037c7ac56d74834da",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2e279edae8b0917a5601a9b2b79ff02d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1259769525,
-    "wof:lastmodified":1566611569,
-    "wof:name":"Starcu",
+    "wof:lastmodified":1588367148,
+    "wof:name":"St\u00e2rcu",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":6,
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.89183,
-    46.64885,
-    23.89183,
-    46.64885
+    23.882726,
+    46.64653,
+    23.890342,
+    46.651756
 ],
-  "geometry": {"coordinates":[23.89183,46.64885],"type":"Point"}
+  "geometry": {"coordinates":[[[23.8895,46.650071],[23.888481,46.647842],[23.887545,46.647605],[23.887275,46.648148],[23.886778,46.648023],[23.885374,46.64684],[23.884339,46.64653],[23.883283,46.646689],[23.882726,46.647092],[23.884409,46.64778],[23.885876,46.647871],[23.886186,46.648196],[23.888093,46.648656],[23.888951,46.650025],[23.888046,46.651263],[23.888989,46.651756],[23.890342,46.650462],[23.8895,46.650071]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.43746,45.83284,23.43746,45.83284",
-    "geom:latitude":45.83284,
-    "geom:longitude":23.43746,
+    "geom:area":0.000001,
+    "geom:area_square_m":11927.081483,
+    "geom:bbox":"23.434904,45.831822,23.437364,45.832867",
+    "geom:latitude":45.832348,
+    "geom:longitude":23.436279,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1696.0",
     "gn:asciiname":"Calene",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u0103lene"
+    ],
+    "name:ron_x_variant":[
+        "Calene"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682984
+        "gn:id":682984,
+        "ro-ancpi:id":1730
     },
     "wof:country":"RO",
-    "wof:geomhash":"24c3b89d12b4590c6a390dcdfa16b1bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fbf8035859eea28bcc15c2b8b062fd32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1259883841,
-    "wof:lastmodified":1566611599,
-    "wof:name":"Calene",
+    "wof:lastmodified":1588367123,
+    "wof:name":"C\u0103lene",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":121,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.43746,
-    45.83284,
-    23.43746,
-    45.83284
+    23.434904,
+    45.831822,
+    23.437364,
+    45.832867
 ],
-  "geometry": {"coordinates":[23.43746,45.83284],"type":"Point"}
+  "geometry": {"coordinates":[[[23.436441,45.832867],[23.437364,45.832311],[23.436988,45.831915],[23.436413,45.831822],[23.434904,45.8325],[23.436441,45.832867]]],"type":"Polygon"}
 }

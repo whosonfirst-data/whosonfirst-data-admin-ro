@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.99418,46.34757,22.99418,46.34757",
-    "geom:latitude":46.34757,
-    "geom:longitude":22.99418,
+    "geom:area":0.000002,
+    "geom:area_square_m":17348.490109,
+    "geom:bbox":"22.99076,46.352929,22.992806,46.354195",
+    "geom:latitude":46.353575,
+    "geom:longitude":22.991782,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Sebisesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Sebi\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Sebisesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667511
+        "gn:id":667511,
+        "ro-ancpi:id":7712
     },
     "wof:country":"RO",
-    "wof:geomhash":"2201ceb2a3d55504326b4bbe08d9dfb0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5bc6f6a2f774a988d1ee7185d2f7973b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293501525,
-    "wof:lastmodified":1566610089,
-    "wof:name":"Sebisesti",
+    "wof:lastmodified":1588367037,
+    "wof:name":"Sebi\u015fe\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":76,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.99418,
-    46.34757000000001,
-    22.99418,
-    46.34757000000001
+    22.99076,
+    46.352929,
+    22.992806,
+    46.354195
 ],
-  "geometry": {"coordinates":[22.99418,46.34757000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[22.992806,46.354063],[22.99254,46.352929],[22.99076,46.35311],[22.990992,46.354195],[22.992806,46.354063]]],"type":"Polygon"}
 }

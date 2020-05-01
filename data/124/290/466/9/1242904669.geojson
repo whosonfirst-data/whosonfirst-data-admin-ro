@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.99585,44.96014,23.99585,44.96014",
-    "geom:latitude":44.96014,
-    "geom:longitude":23.99585,
+    "geom:area":0.000054,
+    "geom:area_square_m":476160.268449,
+    "geom:bbox":"23.978231,44.954647,23.990338,44.96023",
+    "geom:latitude":44.957202,
+    "geom:longitude":23.984567,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169182",
     "gn:asciiname":"Bondoci",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bondoci"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684246
+        "gn:id":684246,
+        "ro-ancpi:id":169217
     },
     "wof:country":"RO",
-    "wof:geomhash":"f0f5981512cdfc78396fdcddd07d3469",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"871a4940efedf58d97fcb6952c935d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1242904669,
-    "wof:lastmodified":1566611515,
+    "wof:lastmodified":1588367158,
     "wof:name":"Bondoci",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.99585,
-    44.96014,
-    23.99585,
-    44.96014
+    23.978231,
+    44.954647,
+    23.990338,
+    44.96023
 ],
-  "geometry": {"coordinates":[23.99585,44.96014],"type":"Point"}
+  "geometry": {"coordinates":[[[23.990206,44.955124],[23.978231,44.954647],[23.97864,44.95878],[23.990338,44.96023],[23.990206,44.955124]]],"type":"Polygon"}
 }

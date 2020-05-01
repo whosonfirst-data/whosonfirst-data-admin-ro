@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.34265,43.78407,28.34265,43.78407",
-    "geom:latitude":43.78407,
-    "geom:longitude":28.34265,
+    "geom:area":0.000147,
+    "geom:area_square_m":1313777.748787,
+    "geom:bbox":"28.33094,43.775045,28.350445,43.790022",
+    "geom:latitude":43.783164,
+    "geom:longitude":28.339788,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62397.0",
     "gn:asciiname":"Valcelele",
@@ -25,18 +25,30 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.32265,43.76407,28.36265,43.80407",
+    "lbl:latitude":43.78407,
+    "lbl:longitude":28.34265,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:ron_x_variant":[
+        "Valcelele"
+    ],
     "name:und_x_variant":[
         "V\u00eelcelele",
         "Valal\u00ee",
         "Valal\u00e2",
         "V\u00eelcele"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662890
+        "gn:id":662890,
+        "ro-ancpi:id":62431
     },
     "wof:country":"RO",
-    "wof:geomhash":"bc305ca1ac19b33fdb4fdc6d8bc1e3c9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d3c70d4a5e0c31302572d359fca5cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1343733233,
-    "wof:lastmodified":1566609977,
-    "wof:name":"Valcelele",
+    "wof:lastmodified":1588366668,
+    "wof:name":"V\u00e2lcelele",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":270,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.34265,
-    43.78407,
-    28.34265,
-    43.78407
+    28.33094,
+    43.775045,
+    28.350445,
+    43.790022
 ],
-  "geometry": {"coordinates":[28.34265,43.78407],"type":"Point"}
+  "geometry": {"coordinates":[[[28.350445,43.789952],[28.349294,43.788938],[28.348396,43.787655],[28.348669,43.787352],[28.348602,43.786809],[28.349829,43.785986],[28.348048,43.784968],[28.347456,43.784629],[28.34529,43.78357],[28.346363,43.783224],[28.346684,43.782133],[28.347188,43.78183],[28.345107,43.780763],[28.343813,43.78002],[28.343034,43.780846],[28.341846,43.780315],[28.342369,43.779712],[28.341174,43.778482],[28.337974,43.777087],[28.336808,43.776578],[28.334867,43.775045],[28.334107,43.775424],[28.333339,43.776558],[28.332379,43.777914],[28.331634,43.778964],[28.33094,43.780002],[28.333532,43.781123],[28.331849,43.784015],[28.334506,43.785039],[28.33531,43.785348],[28.336044,43.785631],[28.334603,43.788142],[28.338506,43.789231],[28.339605,43.786994],[28.341117,43.787599],[28.342466,43.788109],[28.344814,43.789292],[28.346435,43.789605],[28.34692,43.789098],[28.347873,43.789059],[28.350377,43.790022],[28.350445,43.789952]]],"type":"Polygon"}
 }

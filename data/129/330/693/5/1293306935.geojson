@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.1643,46.29456,23.1643,46.29456",
-    "geom:latitude":46.29456,
-    "geom:longitude":23.1643,
+    "geom:area":0.000005,
+    "geom:area_square_m":42213.041789,
+    "geom:bbox":"23.162073,46.293621,23.167365,46.295543",
+    "geom:latitude":46.294433,
+    "geom:longitude":23.164932,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3459.0",
     "gn:asciiname":"Petreni",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.1443,46.27456,23.1843,46.31456",
+    "lbl:latitude":46.29456,
+    "lbl:longitude":23.1643,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Petreni"
@@ -48,7 +50,11 @@
     "name:srp_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0435\u043d\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671006
+        "gn:id":671006,
+        "ro-ancpi:id":3645
     },
     "wof:country":"RO",
-    "wof:geomhash":"55d7cf7b85ef54c3f649da31f0eacbb5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"75f03e77c1dd0d8cd059bc91b4e89e79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +80,7 @@
         }
     ],
     "wof:id":1293306935,
-    "wof:lastmodified":1566610036,
+    "wof:lastmodified":1588366674,
     "wof:name":"Petreni",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -82,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.1643,
-    46.29456,
-    23.1643,
-    46.29456
+    23.162073,
+    46.293621,
+    23.167365,
+    46.295543
 ],
-  "geometry": {"coordinates":[23.1643,46.29456],"type":"Point"}
+  "geometry": {"coordinates":[[[23.166192,46.295543],[23.167365,46.295452],[23.166787,46.29405],[23.162088,46.293621],[23.162073,46.2944],[23.163992,46.294586],[23.165388,46.294791],[23.166192,46.295543]]],"type":"Polygon"}
 }

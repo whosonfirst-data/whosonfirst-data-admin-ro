@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.09696,43.99873,28.09696,43.99873",
-    "geom:latitude":43.99873,
-    "geom:longitude":28.09696,
+    "geom:area":0.000008,
+    "geom:area_square_m":73223.681481,
+    "geom:bbox":"28.094225,43.996748,28.099815,43.999333",
+    "geom:latitude":43.997904,
+    "geom:longitude":28.096902,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61318.0",
     "gn:asciiname":"Curcani",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.07696,43.97873,28.11696,44.01873",
+    "lbl:latitude":43.99873,
+    "lbl:longitude":28.09696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna Curcani"
@@ -47,6 +49,9 @@
         "Curcani"
     ],
     "name:ron_x_preferred":[
+        "Curcani"
+    ],
+    "name:ron_x_variant":[
         "Comuna Curcani"
     ],
     "name:srp_x_preferred":[
@@ -67,7 +72,11 @@
     "name:zho_x_preferred":[
         "\u5eab\u723e\u5361\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -75,10 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679937
+        "gn:id":679937,
+        "ro-ancpi:id":61345
     },
     "wof:country":"RO",
-    "wof:geomhash":"b1486dfbee26c4305ef3184e2eeeab78",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"844fd6b346df5a2e0c5d55ddfaaeb9bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +101,7 @@
         }
     ],
     "wof:id":1276854505,
-    "wof:lastmodified":1566610228,
+    "wof:lastmodified":1588366716,
     "wof:name":"Curcani",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -98,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.09696,
-    43.99873,
-    28.09696,
-    43.99873
+    28.094225,
+    43.996748,
+    28.099815,
+    43.999333
 ],
-  "geometry": {"coordinates":[28.09696,43.99873],"type":"Point"}
+  "geometry": {"coordinates":[[[28.099815,43.996874],[28.099219,43.996863],[28.098075,43.996748],[28.097582,43.996753],[28.096621,43.996989],[28.094918,43.997538],[28.094225,43.997762],[28.095343,43.999333],[28.095954,43.999083],[28.096368,43.999007],[28.097458,43.998927],[28.098087,43.998795],[28.098266,43.998603],[28.098514,43.998029],[28.098711,43.997816],[28.09927,43.997478],[28.099638,43.997281],[28.099788,43.997112],[28.099815,43.996874]]],"type":"Polygon"}
 }

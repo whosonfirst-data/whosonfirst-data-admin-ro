@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.43333,45.15,24.43333,45.15",
-    "geom:latitude":45.15,
-    "geom:longitude":24.43333,
+    "geom:area":0.000015,
+    "geom:area_square_m":133491.063386,
+    "geom:bbox":"24.425829,45.157592,24.432765,45.163612",
+    "geom:latitude":45.160756,
+    "geom:longitude":24.429679,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172812.0",
     "gn:asciiname":"Varateci",
@@ -28,19 +28,32 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "V\u0103rateci"
+    ],
+    "name:ron_x_variant":[
+        "Varateci"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663189
+        "gn:id":663189,
+        "ro-ancpi:id":172885
     },
     "wof:country":"RO",
-    "wof:geomhash":"b0d365df047e92d9347c3fccab2fafc9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4bdde715219220c0137adc7801454a03",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +61,8 @@
         }
     ],
     "wof:id":1209551537,
-    "wof:lastmodified":1566610309,
-    "wof:name":"Varateci",
+    "wof:lastmodified":1588367026,
+    "wof:name":"V\u0103rateci",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":160,
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.43333,
-    45.15,
-    24.43333,
-    45.15
+    24.425829,
+    45.157592,
+    24.432765,
+    45.163612
 ],
-  "geometry": {"coordinates":[24.43333,45.15],"type":"Point"}
+  "geometry": {"coordinates":[[[24.428333,45.163612],[24.431917,45.160431],[24.432765,45.158093],[24.431155,45.157592],[24.430869,45.15796],[24.428061,45.16163],[24.426962,45.161077],[24.425829,45.162307],[24.426967,45.1629],[24.428333,45.163612]]],"type":"Polygon"}
 }

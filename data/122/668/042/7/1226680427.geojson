@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.22066,44.88452,24.22066,44.88452",
-    "geom:latitude":44.88452,
-    "geom:longitude":24.22066,
+    "geom:area":0.000062,
+    "geom:area_square_m":544128.580184,
+    "geom:bbox":"24.218494,44.880367,24.229131,44.897421",
+    "geom:latitude":44.889926,
+    "geom:longitude":24.224944,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170514.0",
     "gn:asciiname":"Prodanesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Prod\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Prodanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669581
+        "gn:id":669581,
+        "ro-ancpi:id":170603
     },
     "wof:country":"RO",
-    "wof:geomhash":"01430b7dff8bce6d5fe96ad29a6dbe85",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e15b79d1d6cfa4ffde2b4e64c401dfb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +64,8 @@
         }
     ],
     "wof:id":1226680427,
-    "wof:lastmodified":1566611649,
-    "wof:name":"Prodanesti",
+    "wof:lastmodified":1588367024,
+    "wof:name":"Prod\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.22066,
-    44.88452,
-    24.22066,
-    44.88452
+    24.218494,
+    44.880367,
+    24.229131,
+    44.897421
 ],
-  "geometry": {"coordinates":[24.22066,44.88452],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.224832,44.896348],[24.22634,44.89637],[24.228831,44.897421],[24.229131,44.897117],[24.227232,44.896147],[24.228209,44.893569],[24.227232,44.888144],[24.226779,44.885824],[24.228574,44.880514],[24.226772,44.880367],[24.225375,44.884091],[24.224269,44.884237],[24.224249,44.88573],[24.222784,44.89043],[24.225867,44.891485],[24.225134,44.893892],[24.224832,44.896348]]],[[[24.223742,44.891317],[24.22022,44.890853],[24.219052,44.891515],[24.218494,44.892947],[24.219562,44.893682],[24.220853,44.893806],[24.221492,44.894346],[24.223296,44.894397],[24.22425,44.893599],[24.22467,44.892415],[24.224301,44.891761],[24.223742,44.891317]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.82991,46.48802,22.82991,46.48802",
-    "geom:latitude":46.48802,
-    "geom:longitude":22.82991,
+    "geom:area":0.000018,
+    "geom:area_square_m":154745.26493,
+    "geom:bbox":"22.827263,46.48683,22.834947,46.492032",
+    "geom:latitude":46.489555,
+    "geom:longitude":22.831261,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4525.0",
     "gn:asciiname":"Dealu Frumos",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.80991,46.46802,22.84991,46.50802",
+    "lbl:latitude":46.48802,
+    "lbl:longitude":22.82991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dealu Frumos"
@@ -49,7 +51,11 @@
     "name:und_x_variant":[
         "Iapa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679639
+        "gn:id":679639,
+        "ro-ancpi:id":4552
     },
     "wof:country":"RO",
-    "wof:geomhash":"cddee6ca9e62b9f715c99f3cf843046c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"58c2ec7c91caf2d5ae5286fb6fce32be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1259697867,
-    "wof:lastmodified":1566611586,
+    "wof:lastmodified":1588366860,
     "wof:name":"Dealu Frumos",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -83,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.82991,
-    46.48802,
-    22.82991,
-    46.48802
+    22.827263,
+    46.48683,
+    22.834947,
+    46.492032
 ],
-  "geometry": {"coordinates":[22.82991,46.48802],"type":"Point"}
+  "geometry": {"coordinates":[[[22.834692,46.492002],[22.834277,46.490378],[22.834919,46.490139],[22.834947,46.489157],[22.833019,46.489202],[22.832712,46.48872],[22.829946,46.488297],[22.829866,46.487421],[22.82799,46.48683],[22.827263,46.488233],[22.829425,46.490432],[22.830997,46.490343],[22.832792,46.492032],[22.834692,46.492002]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38333,44.68333,24.38333,44.68333",
-    "geom:latitude":44.68333,
-    "geom:longitude":24.38333,
+    "geom:area":0.000034,
+    "geom:area_square_m":296601.407958,
+    "geom:bbox":"24.377645,44.687086,24.383418,44.695722",
+    "geom:latitude":44.691341,
+    "geom:longitude":24.38048,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -35,6 +35,9 @@
         "Ote\u0219tii de Jos"
     ],
     "name:ron_x_preferred":[
+        "Ote\u015ftii de Jos"
+    ],
+    "name:ron_x_variant":[
         "Ote\u0219tii de Jos"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +66,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877013,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -80,11 +86,15 @@
         "gn:id":671597,
         "gp:id":877013,
         "qs_pg:id":1096409,
+        "ro-ancpi:id":126558,
         "wd:id":"Q12136911"
     },
     "wof:country":"RO",
     "wof:created":1497293387,
-    "wof:geomhash":"87676cf6d94d4c746845909a64b6af1c",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"9768d340912948da7d7acf504593fe72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,8 +104,8 @@
         }
     ],
     "wof:id":1125850643,
-    "wof:lastmodified":1566611395,
-    "wof:name":"Ote\u0219tii de Jos",
+    "wof:lastmodified":1588367155,
+    "wof:name":"Ote\u015ftii de Jos",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":459,
@@ -106,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38333,
-    44.68333,
-    24.38333,
-    44.68333
+    24.377645,
+    44.687086,
+    24.383418,
+    44.695722
 ],
-  "geometry": {"coordinates":[24.38333,44.68333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.383346,44.695337],[24.383418,44.695141],[24.38257,44.694436],[24.382351,44.693176],[24.382145,44.6925],[24.381833,44.691659],[24.382709,44.689465],[24.382518,44.68898],[24.382722,44.68832],[24.383208,44.687865],[24.382663,44.687086],[24.379787,44.687212],[24.377645,44.687415],[24.377705,44.68747],[24.377832,44.688086],[24.37814,44.688201],[24.37811,44.688633],[24.378288,44.68917],[24.379179,44.690169],[24.379376,44.69072],[24.378949,44.691606],[24.378958,44.692543],[24.377921,44.692684],[24.378019,44.693634],[24.378596,44.695722],[24.383346,44.695337]]],"type":"Polygon"}
 }

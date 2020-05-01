@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.34165,46.57401,23.34165,46.57401",
-    "geom:latitude":46.57401,
-    "geom:longitude":23.34165,
+    "geom:area":0.000117,
+    "geom:area_square_m":998139.620249,
+    "geom:bbox":"23.324885,46.56464,23.348403,46.584235",
+    "geom:latitude":46.574415,
+    "geom:longitude":23.339293,
     "gn:admin1_code":"13",
     "gn:admin2_code":"55918.0",
     "gn:asciiname":"Muntele Bocului",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Muntele Bocului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672672
+        "gn:id":672672,
+        "ro-ancpi:id":55963
     },
     "wof:country":"RO",
-    "wof:geomhash":"978b1b754e9f1770a6be60a0e5c0a32a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"720a6acc1de98803f05a794754280ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1193257769,
-    "wof:lastmodified":1566610434,
+    "wof:lastmodified":1588367149,
     "wof:name":"Muntele Bocului",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.34165,
-    46.57401,
-    23.34165,
-    46.57401
+    23.324885,
+    46.56464,
+    23.348403,
+    46.584235
 ],
-  "geometry": {"coordinates":[23.34165,46.57401],"type":"Point"}
+  "geometry": {"coordinates":[[[23.34217,46.568671],[23.337873,46.565701],[23.326852,46.56464],[23.324885,46.565443],[23.327245,46.567139],[23.332911,46.566944],[23.336874,46.567694],[23.337654,46.569598],[23.33747,46.57015],[23.339869,46.570554],[23.339473,46.573633],[23.33521,46.576171],[23.335172,46.577417],[23.335861,46.578405],[23.345006,46.584235],[23.348403,46.579409],[23.34083,46.573832],[23.34217,46.568671]]],"type":"Polygon"}
 }

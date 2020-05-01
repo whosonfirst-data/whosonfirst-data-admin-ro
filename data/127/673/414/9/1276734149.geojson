@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11667,44.2,24.11667,44.2",
-    "geom:latitude":44.2,
-    "geom:longitude":24.11667,
+    "geom:area":0.000088,
+    "geom:area_square_m":784104.271896,
+    "geom:bbox":"24.096249,44.196347,24.124078,44.202637",
+    "geom:latitude":44.199641,
+    "geom:longitude":24.111442,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74411.0",
     "gn:asciiname":"Tartal",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.09667,44.18,24.13667,44.22",
+    "lbl:latitude":44.2,
+    "lbl:longitude":24.11667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "\u0162\u0103r\u0163\u0103l"
+    ],
+    "name:ron_x_variant":[
+        "Tartal"
+    ],
     "name:und_x_variant":[
         "\u0162\u0103r\u0163\u0103lu",
         "\u0162\u0103r\u0163\u0103lul",
         "\u0162\u0103r\u0163\u0103l\u0103u"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665481
+        "gn:id":665481,
+        "ro-ancpi:id":74475
     },
     "wof:country":"RO",
-    "wof:geomhash":"ebbe624a2b85b6c7b6192233446e516c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b594a904f9854a2e8b67a5e626599484",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1276734149,
-    "wof:lastmodified":1566610180,
-    "wof:name":"Tartal",
+    "wof:lastmodified":1588367161,
+    "wof:name":"\u0162\u0103r\u0163\u0103l",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
-    44.2,
-    24.11667000000001,
-    44.2
+    24.096249,
+    44.196347,
+    24.124078,
+    44.202637
 ],
-  "geometry": {"coordinates":[24.11667000000001,44.2],"type":"Point"}
+  "geometry": {"coordinates":[[[24.117311,44.201392],[24.118311,44.20127],[24.119009,44.201387],[24.122939,44.200402],[24.124078,44.199702],[24.12301,44.198431],[24.122254,44.198676],[24.120848,44.198927],[24.119076,44.197028],[24.117571,44.196347],[24.115816,44.196678],[24.113817,44.196867],[24.109268,44.197425],[24.109175,44.197794],[24.109656,44.198265],[24.106582,44.198614],[24.102416,44.198943],[24.096249,44.199754],[24.096838,44.20231],[24.097566,44.202213],[24.097536,44.201635],[24.099602,44.201297],[24.103119,44.201074],[24.107125,44.20105],[24.109601,44.200956],[24.110052,44.201118],[24.111583,44.201932],[24.112447,44.202637],[24.114306,44.202504],[24.115106,44.202363],[24.116049,44.201736],[24.117311,44.201392]]],"type":"Polygon"}
 }

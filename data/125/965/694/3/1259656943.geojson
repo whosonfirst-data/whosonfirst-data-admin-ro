@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.86184,45.71988,25.86184,45.71988",
-    "geom:latitude":45.71988,
-    "geom:longitude":25.86184,
+    "geom:area":0.000042,
+    "geom:area_square_m":358458.353736,
+    "geom:bbox":"25.85528,45.715361,25.866064,45.723071",
+    "geom:latitude":45.719792,
+    "geom:longitude":25.860361,
     "gn:admin1_code":"15",
     "gn:admin2_code":"64265.0",
     "gn:asciiname":"Marcus",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.84184,45.69988,25.88184,45.73988",
+    "lbl:latitude":45.71988,
+    "lbl:longitude":25.86184,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Marcus"
@@ -69,13 +71,23 @@
     "name:por_x_preferred":[
         "Marcus"
     ],
+    "name:ron_x_preferred":[
+        "M\u0103rcu\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Marcus"
+    ],
     "name:vol_x_preferred":[
         "Marcus"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u723e\u5eab\u65af"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -84,10 +96,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673852
+        "gn:id":673852,
+        "ro-ancpi:id":64292
     },
     "wof:country":"RO",
-    "wof:geomhash":"abe7ba3c6c381543f8b91417c79290e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b0b5e51c54b2cddd2273a4f4a5dfb0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,8 +113,8 @@
         }
     ],
     "wof:id":1259656943,
-    "wof:lastmodified":1566611538,
-    "wof:name":"Marcus",
+    "wof:lastmodified":1588366847,
+    "wof:name":"M\u0103rcu\u015f",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",
     "wof:population":476,
@@ -109,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.86184,
-    45.71988,
-    25.86184,
-    45.71988
+    25.85528,
+    45.715361,
+    25.866064,
+    45.723071
 ],
-  "geometry": {"coordinates":[25.86184,45.71988],"type":"Point"}
+  "geometry": {"coordinates":[[[25.859889,45.723071],[25.861106,45.722925],[25.861506,45.722969],[25.862095,45.721254],[25.865864,45.721453],[25.866064,45.720804],[25.865091,45.720305],[25.863951,45.720308],[25.863791,45.719754],[25.864405,45.719145],[25.863455,45.718174],[25.863177,45.718202],[25.862619,45.718074],[25.861961,45.717808],[25.862006,45.717155],[25.862197,45.716243],[25.863563,45.715922],[25.863243,45.715382],[25.862332,45.715763],[25.861872,45.715361],[25.860243,45.715984],[25.859495,45.715996],[25.859077,45.716572],[25.859301,45.717263],[25.858758,45.717217],[25.858696,45.717834],[25.85831,45.718772],[25.85761,45.719031],[25.857033,45.719135],[25.856545,45.719257],[25.856496,45.719588],[25.856432,45.720025],[25.85528,45.720407],[25.856326,45.721839],[25.856124,45.722009],[25.857125,45.72283],[25.857292,45.722782],[25.857763,45.722626],[25.858419,45.723051],[25.858993,45.722754],[25.859372,45.723044],[25.859699,45.722886],[25.859889,45.723071]]],"type":"Polygon"}
 }

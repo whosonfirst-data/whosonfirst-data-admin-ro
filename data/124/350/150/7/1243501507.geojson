@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.90926,44.44784,23.90926,44.44784",
-    "geom:latitude":44.44784,
-    "geom:longitude":23.90926,
+    "geom:area":0.000061,
+    "geom:area_square_m":535804.595366,
+    "geom:bbox":"23.895686,44.445079,23.920092,44.452704",
+    "geom:latitude":44.448136,
+    "geom:longitude":23.907963,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130124.0",
     "gn:asciiname":"Valea Satului",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.88926,44.42784,23.92926,44.46784",
+    "lbl:latitude":44.44784,
+    "lbl:longitude":23.90926,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Satului"
@@ -42,7 +44,11 @@
     "name:swe_x_preferred":[
         "Valea Satului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663440
+        "gn:id":663440,
+        "ro-ancpi:id":130222
     },
     "wof:country":"RO",
-    "wof:geomhash":"a7b393d166b6f9548d8b3b80185fb2c7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"877cb1de40392531b913632886571a57",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":1243501507,
-    "wof:lastmodified":1566611482,
+    "wof:lastmodified":1588366833,
     "wof:name":"Valea Satului",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -76,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.90926,
-    44.44784,
-    23.90926,
-    44.44784
+    23.895686,
+    44.445079,
+    23.920092,
+    44.452704
 ],
-  "geometry": {"coordinates":[23.90926,44.44784],"type":"Point"}
+  "geometry": {"coordinates":[[[23.920092,44.452334],[23.919981,44.451607],[23.918425,44.450132],[23.918568,44.44918],[23.916927,44.448611],[23.914906,44.448262],[23.910684,44.447053],[23.909252,44.4465],[23.905165,44.445951],[23.903359,44.445259],[23.901794,44.445079],[23.900433,44.445201],[23.898956,44.44592],[23.898414,44.445133],[23.895686,44.445944],[23.895934,44.448516],[23.899131,44.447924],[23.902951,44.44765],[23.911266,44.449352],[23.914517,44.450599],[23.916953,44.452704],[23.918069,44.452314],[23.920092,44.452334]]],"type":"Polygon"}
 }

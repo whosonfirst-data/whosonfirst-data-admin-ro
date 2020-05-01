@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.44775,45.09608,22.44775,45.09608",
-    "geom:latitude":45.09608,
-    "geom:longitude":22.44775,
+    "geom:area":0.000018,
+    "geom:area_square_m":160357.53214,
+    "geom:bbox":"22.435751,45.09792,22.444652,45.103969",
+    "geom:latitude":45.101071,
+    "geom:longitude":22.440414,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Strugasca",
@@ -28,9 +28,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Strugasca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +45,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665918
+        "gn:id":665918,
+        "ro-ancpi:id":52473
     },
     "wof:country":"RO",
-    "wof:geomhash":"4bfe6b6de6ce0f352c3020d06c6f8cce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f3c34f10b685462fb3f97fb3acce96e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1276524959,
-    "wof:lastmodified":1566610252,
+    "wof:lastmodified":1588367031,
     "wof:name":"Strugasca",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.44775,
-    45.09608,
-    22.44775,
-    45.09608
+    22.435751,
+    45.09792,
+    22.444652,
+    45.103969
 ],
-  "geometry": {"coordinates":[22.44775,45.09608],"type":"Point"}
+  "geometry": {"coordinates":[[[22.440729,45.102092],[22.442434,45.09984],[22.443907,45.100429],[22.444652,45.0997],[22.443512,45.099339],[22.444006,45.09858],[22.443484,45.098454],[22.441802,45.09792],[22.441685,45.098632],[22.441482,45.099015],[22.441045,45.099192],[22.440625,45.099206],[22.440393,45.099321],[22.439942,45.099776],[22.439708,45.100297],[22.439611,45.101394],[22.439147,45.101343],[22.436522,45.100647],[22.435751,45.101528],[22.438346,45.102834],[22.439491,45.103323],[22.440008,45.103537],[22.440756,45.10374],[22.441327,45.103969],[22.442245,45.102882],[22.440729,45.102092]]],"type":"Polygon"}
 }

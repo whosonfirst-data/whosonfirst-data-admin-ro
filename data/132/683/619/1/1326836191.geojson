@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.79179,46.67353,26.79179,46.67353",
-    "geom:latitude":46.67353,
-    "geom:longitude":26.79179,
+    "geom:area":0.000029,
+    "geom:area_square_m":246901.789028,
+    "geom:bbox":"26.783391,46.66558,26.798619,46.675237",
+    "geom:latitude":46.671673,
+    "geom:longitude":26.793469,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22781.0",
     "gn:asciiname":"Surina",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.77179,46.65353,26.81179,46.69353",
+    "lbl:latitude":46.67353,
+    "lbl:longitude":26.79179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u015eurina"
+    ],
+    "name:ron_x_variant":[
+        "Surina"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665719
+        "gn:id":665719,
+        "ro-ancpi:id":22825
     },
     "wof:country":"RO",
-    "wof:geomhash":"105aabaf0800f762657561b7303ccc2f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f10460df568b646f91c47d40f00fe10a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1326836191,
-    "wof:lastmodified":1566609836,
-    "wof:name":"Surina",
+    "wof:lastmodified":1588366639,
+    "wof:name":"\u015eurina",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":150,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.79179,
-    46.67353,
-    26.79179,
-    46.67353
+    26.783391,
+    46.66558,
+    26.798619,
+    46.675237
 ],
-  "geometry": {"coordinates":[26.79179,46.67353],"type":"Point"}
+  "geometry": {"coordinates":[[[26.796676,46.66558],[26.795184,46.665654],[26.795436,46.666726],[26.796353,46.670085],[26.796404,46.670333],[26.796133,46.670831],[26.795769,46.671115],[26.795262,46.671525],[26.794919,46.671759],[26.794228,46.672033],[26.793289,46.672283],[26.792294,46.672427],[26.79073,46.672351],[26.788026,46.673023],[26.783391,46.674343],[26.784139,46.674366],[26.784491,46.674412],[26.784903,46.674589],[26.785217,46.674873],[26.790313,46.673672],[26.791829,46.674012],[26.793338,46.673317],[26.794112,46.673734],[26.792142,46.674893],[26.792555,46.675237],[26.794182,46.6743],[26.795804,46.673349],[26.798619,46.671635],[26.798233,46.67129],[26.79802,46.671115],[26.798072,46.67102],[26.798055,46.670853],[26.7978,46.669604],[26.797527,46.668568],[26.796676,46.66558]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.33546,46.28358,22.33546,46.28358",
-    "geom:latitude":46.28358,
-    "geom:longitude":22.33546,
+    "geom:area":0.00004,
+    "geom:area_square_m":338817.650052,
+    "geom:bbox":"22.3308,46.279133,22.338517,46.287308",
+    "geom:latitude":46.283223,
+    "geom:longitude":22.334649,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10943.0",
     "gn:asciiname":"Iosas",
@@ -25,19 +25,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.31546,46.26358,22.35546,46.30358",
+    "lbl:latitude":46.28358,
+    "lbl:longitude":22.33546,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
-        "Iosa\u0219"
+        "Iosa\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Iosa\u0219",
+        "Iosas"
     ],
     "name:und_x_variant":[
         "Iosa\u015fi",
         "J\u00f3sz\u00e1s"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675520
+        "gn:id":675520,
+        "ro-ancpi:id":11003
     },
     "wof:country":"RO",
-    "wof:geomhash":"812482f768bf9e8382b8a24d9cf3e40e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c41e5f631e0ceda0ed12bd387119bf98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +73,8 @@
         }
     ],
     "wof:id":1293101917,
-    "wof:lastmodified":1566610139,
-    "wof:name":"Iosas",
+    "wof:lastmodified":1588366696,
+    "wof:name":"Iosa\u015f",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":273,
@@ -71,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.33546,
-    46.28358,
-    22.33546,
-    46.28358
+    22.3308,
+    46.279133,
+    22.338517,
+    46.287308
 ],
-  "geometry": {"coordinates":[22.33546,46.28358],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.337286,46.281019],[22.337039,46.280391],[22.336327,46.28048],[22.335174,46.280635],[22.335148,46.280556],[22.334965,46.280064],[22.334927,46.279883],[22.334749,46.2793],[22.334677,46.279133],[22.3337,46.279278],[22.33384,46.279723],[22.331063,46.280084],[22.3308,46.280129],[22.33181,46.28359],[22.3319,46.283921],[22.332438,46.285877],[22.33261,46.286491],[22.332701,46.286805],[22.332921,46.286767],[22.334559,46.286563],[22.334782,46.286538],[22.336451,46.286291],[22.336782,46.28628],[22.337359,46.286244],[22.33729,46.285813],[22.33817,46.285677],[22.338517,46.285617],[22.337496,46.28217],[22.337284,46.281325],[22.337286,46.281019]]],[[[22.337693,46.286824],[22.336246,46.286684],[22.336397,46.287308],[22.337699,46.28726],[22.337693,46.286824]]]],"type":"MultiPolygon"}
 }

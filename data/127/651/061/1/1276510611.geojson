@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.26389,44.02664,23.26389,44.02664",
-    "geom:latitude":44.02664,
-    "geom:longitude":23.26389,
+    "geom:area":0.000107,
+    "geom:area_square_m":952828.652369,
+    "geom:bbox":"23.256113,44.020298,23.276357,44.038655",
+    "geom:latitude":44.027658,
+    "geom:longitude":23.264601,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70316",
     "gn:asciiname":"Balasan",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.24389,44.00664,23.28389,44.04664",
+    "lbl:latitude":44.02664,
+    "lbl:longitude":23.26389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Balasan"
+    ],
     "name:und_x_variant":[
         "N\u0103dejdea",
         "Balasan"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685674
+        "gn:id":685674,
+        "ro-ancpi:id":70334
     },
     "wof:country":"RO",
-    "wof:geomhash":"0651ff95800869d005e6ead3c42f327c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8e129d61f363ade2110fe505e2410e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +69,7 @@
         }
     ],
     "wof:id":1276510611,
-    "wof:lastmodified":1566610191,
+    "wof:lastmodified":1588366708,
     "wof:name":"Balasan",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.26389,
-    44.02664,
-    23.26389,
-    44.02664
+    23.256113,
+    44.020298,
+    23.276357,
+    44.038655
 ],
-  "geometry": {"coordinates":[23.26389,44.02664],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.256113,44.022059],[23.257049,44.023699],[23.25652,44.023817],[23.257713,44.026376],[23.261042,44.031187],[23.270011,44.028181],[23.268917,44.026866],[23.266762,44.024773],[23.26578,44.02405],[23.263194,44.021017],[23.262736,44.020298],[23.260046,44.021145],[23.259711,44.021156],[23.25818,44.021647],[23.2578,44.021657],[23.256366,44.021952],[23.256113,44.022059]]],[[[23.272299,44.037532],[23.2723,44.037524],[23.272423,44.036879],[23.272443,44.036201],[23.272449,44.035997],[23.271504,44.034649],[23.2725,44.034291],[23.27456,44.034198],[23.276357,44.034288],[23.272605,44.030509],[23.269233,44.031622],[23.270594,44.033684],[23.270607,44.034128],[23.269103,44.035345],[23.270295,44.037146],[23.270869,44.037076],[23.271009,44.037907],[23.271125,44.038601],[23.272278,44.038655],[23.272299,44.037532]]]],"type":"MultiPolygon"}
 }

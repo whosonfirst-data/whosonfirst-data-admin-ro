@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29564,45.43254,24.29564,45.43254",
-    "geom:latitude":45.43254,
-    "geom:longitude":24.29564,
+    "geom:area":0.000031,
+    "geom:area_square_m":270969.248754,
+    "geom:bbox":"24.290213,45.413529,24.299098,45.437651",
+    "geom:latitude":45.432073,
+    "geom:longitude":24.293814,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172509",
     "gn:asciiname":"Balota",
@@ -29,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Balota"
@@ -49,7 +49,10 @@
     "name:und_x_variant":[
         "S\u0103r\u0103cine\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685597
+        "gn:id":685597,
+        "ro-ancpi:id":172527
     },
     "wof:country":"RO",
-    "wof:geomhash":"c805301e7ddcf25b1565344434514434",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"87944f89f129b3c0d8c7d7592a0c7249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":1276909259,
-    "wof:lastmodified":1566610253,
+    "wof:lastmodified":1588367159,
     "wof:name":"Balota",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -83,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29564,
-    45.43254,
-    24.29564,
-    45.43254
+    24.290213,
+    45.413529,
+    24.299098,
+    45.437651
 ],
-  "geometry": {"coordinates":[24.29564,45.43254],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.298544,45.43659],[24.297324,45.435469],[24.296622,45.434131],[24.29546,45.43247],[24.294736,45.431565],[24.292718,45.432224],[24.291312,45.43311],[24.290461,45.433379],[24.290213,45.433797],[24.290503,45.435045],[24.290429,45.436608],[24.293786,45.436503],[24.293756,45.436002],[24.295052,45.435805],[24.295784,45.436592],[24.29675,45.436741],[24.29855,45.437651],[24.299098,45.437305],[24.298544,45.43659]]],[[[24.294051,45.414268],[24.294202,45.413529],[24.292109,45.413899],[24.290665,45.413842],[24.290303,45.414194],[24.293281,45.415503],[24.294051,45.414268]]]],"type":"MultiPolygon"}
 }

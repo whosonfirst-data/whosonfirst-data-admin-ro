@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35096,44.27241,24.35096,44.27241",
-    "geom:latitude":44.27241,
-    "geom:longitude":24.35096,
+    "geom:area":0.000039,
+    "geom:area_square_m":341053.840815,
+    "geom:bbox":"24.343458,44.267401,24.355315,44.274466",
+    "geom:latitude":44.271495,
+    "geom:longitude":24.349118,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127983.0",
     "gn:asciiname":"Peretu",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.33096,44.25241,24.37096,44.29241",
+    "lbl:latitude":44.27241,
+    "lbl:longitude":24.35096,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Peretu"
@@ -47,6 +49,9 @@
         "Peretu"
     ],
     "name:ron_x_preferred":[
+        "Peretu"
+    ],
+    "name:ron_x_variant":[
         "Comuna Peretu"
     ],
     "name:rus_x_preferred":[
@@ -71,7 +76,11 @@
     "name:zho_x_preferred":[
         "\u4f69\u96f7\u5716\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671144
+        "gn:id":671144,
+        "ro-ancpi:id":128034
     },
     "wof:country":"RO",
-    "wof:geomhash":"fa2ca64d859ed82e8e91f981f4c5c4ce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"191548867f75722eccbe1ca41c4f1b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +106,7 @@
         }
     ],
     "wof:id":1309967121,
-    "wof:lastmodified":1566611230,
+    "wof:lastmodified":1588366802,
     "wof:name":"Peretu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -105,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35096,
-    44.27241,
-    24.35096,
-    44.27241
+    24.343458,
+    44.267401,
+    24.355315,
+    44.274466
 ],
-  "geometry": {"coordinates":[24.35096,44.27241],"type":"Point"}
+  "geometry": {"coordinates":[[[24.347085,44.274242],[24.349566,44.273341],[24.3504,44.274223],[24.351055,44.274015],[24.355315,44.272802],[24.354613,44.270973],[24.353369,44.271148],[24.352972,44.270236],[24.350435,44.270472],[24.348546,44.269518],[24.348556,44.268892],[24.346241,44.268433],[24.345962,44.267459],[24.343938,44.267401],[24.343458,44.268526],[24.343884,44.268706],[24.347529,44.270533],[24.347389,44.271209],[24.34501,44.271855],[24.345499,44.274466],[24.347085,44.274242]]],"type":"Polygon"}
 }

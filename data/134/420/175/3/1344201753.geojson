@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.95479,45.75533,21.95479,45.75533",
-    "geom:latitude":45.75533,
-    "geom:longitude":21.95479,
+    "geom:area":0.000033,
+    "geom:area_square_m":286028.6409,
+    "geom:bbox":"21.948353,45.752687,21.961502,45.756988",
+    "geom:latitude":45.755014,
+    "geom:longitude":21.95381,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156473.0",
     "gn:asciiname":"Valea Lunga Romana",
@@ -26,11 +26,19 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.93479,45.73533,21.97479,45.77533",
+    "lbl:latitude":45.75533,
+    "lbl:longitude":21.95479,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Lung\u0103 Rom\u00e2n\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Lunga Romana"
+    ],
     "name:und_x_variant":[
         "B\u00e9gahossz\u00fapatak",
         "Valea Lung\u0103-Rom\u00een\u0103",
@@ -40,7 +48,11 @@
         "Vallelunga",
         "Valea Lung\u0103 Rom\u00e2n\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663661
+        "gn:id":663661,
+        "ro-ancpi:id":156525
     },
     "wof:country":"RO",
-    "wof:geomhash":"c608113ee357e1a1b68499343362ef0a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"174af06473c39e84f98b8a9b6eec7035",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,8 +78,8 @@
         }
     ],
     "wof:id":1344201753,
-    "wof:lastmodified":1566609967,
-    "wof:name":"Valea Lunga Romana",
+    "wof:lastmodified":1588366665,
+    "wof:name":"Valea Lung\u0103 Rom\u00e2n\u0103",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":152,
@@ -74,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.95479,
-    45.75533,
-    21.95479,
-    45.75533
+    21.948353,
+    45.752687,
+    21.961502,
+    45.756988
 ],
-  "geometry": {"coordinates":[21.95479,45.75533],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.95183,45.756785],[21.952725,45.756602],[21.953732,45.756726],[21.953871,45.756543],[21.956248,45.756574],[21.957685,45.756754],[21.958483,45.756988],[21.958827,45.756912],[21.959149,45.755917],[21.958821,45.755821],[21.959282,45.755214],[21.959973,45.754526],[21.95956,45.754073],[21.95856,45.754617],[21.956978,45.754108],[21.955251,45.753979],[21.954631,45.753512],[21.953371,45.753145],[21.951704,45.753356],[21.950761,45.753018],[21.948856,45.753147],[21.948353,45.753398],[21.948839,45.755499],[21.949202,45.755711],[21.949311,45.755951],[21.949623,45.756643],[21.95042,45.756914],[21.95183,45.756785]]],[[[21.961502,45.7536],[21.960548,45.752687],[21.95975,45.753042],[21.96071,45.753934],[21.961502,45.7536]]]],"type":"MultiPolygon"}
 }

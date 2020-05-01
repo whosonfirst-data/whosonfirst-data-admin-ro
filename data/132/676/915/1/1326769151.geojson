@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.99696,46.41339,27.99696,46.41339",
-    "geom:latitude":46.41339,
-    "geom:longitude":27.99696,
+    "geom:area":0.000028,
+    "geom:area_square_m":234653.643685,
+    "geom:bbox":"27.991732,46.408241,27.998463,46.418173",
+    "geom:latitude":46.413184,
+    "geom:longitude":27.995034,
     "gn:admin1_code":"38",
     "gn:admin2_code":"167035.0",
     "gn:asciiname":"Posta Elan",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Po\u015fta Elan"
+    ],
+    "name:ron_x_variant":[
+        "Posta Elan"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669782
+        "gn:id":669782,
+        "ro-ancpi:id":167062
     },
     "wof:country":"RO",
-    "wof:geomhash":"1fee4b0d94c39ef9e1b73ed73956259f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ec0e37e5b1d2048d4f821bd85c05a882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1326769151,
-    "wof:lastmodified":1566609823,
-    "wof:name":"Posta Elan",
+    "wof:lastmodified":1588367108,
+    "wof:name":"Po\u015fta Elan",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":155,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.99696,
-    46.41339,
-    27.99696,
-    46.41339
+    27.991732,
+    46.408241,
+    27.998463,
+    46.418173
 ],
-  "geometry": {"coordinates":[27.99696,46.41339],"type":"Point"}
+  "geometry": {"coordinates":[[[27.998183,46.41605],[27.998463,46.415164],[27.998112,46.415158],[27.997537,46.414658],[27.99689,46.41366],[27.99656,46.413229],[27.996556,46.412494],[27.996205,46.411695],[27.995819,46.411294],[27.995081,46.410769],[27.994885,46.408241],[27.992957,46.408411],[27.993473,46.410851],[27.991732,46.411281],[27.991902,46.41194],[27.993649,46.414772],[27.994071,46.414774],[27.994331,46.415311],[27.995448,46.415198],[27.995642,46.41549],[27.995225,46.415602],[27.995565,46.416156],[27.996187,46.416015],[27.996558,46.4162],[27.994972,46.417096],[27.995696,46.417159],[27.995778,46.418173],[27.99709,46.418109],[27.996831,46.417388],[27.997761,46.416758],[27.997882,46.416164],[27.998183,46.41605]]],"type":"Polygon"}
 }

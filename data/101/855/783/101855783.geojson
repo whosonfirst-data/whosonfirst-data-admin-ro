@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.099939,44.9902,24.099939,44.9902",
-    "geom:latitude":44.9902,
-    "geom:longitude":24.099939,
+    "geom:area":0.000058,
+    "geom:area_square_m":506586.087768,
+    "geom:bbox":"24.087156,44.988335,24.101637,44.999003",
+    "geom:latitude":44.993293,
+    "geom:longitude":24.094251,
     "gn:population":1085,
     "iso:country":"RO",
     "lbl:bbox":"24.079939,44.9702,24.119939,45.0102",
@@ -19,7 +19,7 @@
     "mps:latitude":44.9902,
     "mps:longitude":24.099939,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Ur\u0219i"
@@ -196,6 +196,9 @@
         "Ur\u0219i"
     ],
     "name:ron_x_preferred":[
+        "Ur\u015fi"
+    ],
+    "name:ron_x_variant":[
         "Ur\u0219i"
     ],
     "name:scn_x_preferred":[
@@ -263,9 +266,10 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
-    "src:geom":"whosonfirst",
+    "src:geom":"ro-ancpi",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -280,13 +284,15 @@
         "gn:id":664108,
         "gp:id":878343,
         "qs_pg:id":5,
+        "ro-ancpi:id":172439,
         "wd:id":"Q12164838"
     },
     "wof:country":"RO",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
-    "wof:geomhash":"df8dd70445f612927865f1515c402ca9",
+    "wof:geomhash":"cc8eb3890ebf59cb2917e8fad1cdfd3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -296,7 +302,7 @@
         }
     ],
     "wof:id":101855783,
-    "wof:lastmodified":1582311905,
+    "wof:lastmodified":1588366801,
     "wof:name":"Ur\u015fi",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -308,10 +314,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.099939,
-    44.9902,
-    24.099939,
-    44.9902
+    24.087156,
+    44.988335,
+    24.101637,
+    44.999003
 ],
-  "geometry": {"coordinates":[24.099939,44.9902],"type":"Point"}
+  "geometry": {"coordinates":[[[24.093172,44.991547],[24.087156,44.997992],[24.088539,44.998826],[24.090401,44.999003],[24.095877,44.994563],[24.101637,44.990129],[24.099292,44.988373],[24.097239,44.989832],[24.09485,44.988335],[24.092381,44.990202],[24.093657,44.99099],[24.093172,44.991547]]],"type":"Polygon"}
 }

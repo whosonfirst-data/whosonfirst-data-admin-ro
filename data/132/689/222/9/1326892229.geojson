@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.32745,46.40696,25.32745,46.40696",
-    "geom:latitude":46.40696,
-    "geom:longitude":25.32745,
+    "geom:area":0.000003,
+    "geom:area_square_m":23452.949463,
+    "geom:bbox":"25.334537,46.39663,25.33804,46.397872",
+    "geom:latitude":46.397089,
+    "geom:longitude":25.336028,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84264.0",
     "gn:asciiname":"Valea Rotunda",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Rotund\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Rotunda"
+    ],
     "name:und_x_variant":[
         "Ukny\u00e8d",
         "Valea Rotund\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663459
+        "gn:id":663459,
+        "ro-ancpi:id":84335
     },
     "wof:country":"RO",
-    "wof:geomhash":"ceac29daf19a3e2e4524d8512424f60d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e5d866339029506b35ccc458e8bbd6b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1326892229,
-    "wof:lastmodified":1566609773,
-    "wof:name":"Valea Rotunda",
+    "wof:lastmodified":1588367063,
+    "wof:name":"Valea Rotund\u0103",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":97,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.32745,
-    46.40696,
-    25.32745,
-    46.40696
+    25.334537,
+    46.39663,
+    25.33804,
+    46.397872
 ],
-  "geometry": {"coordinates":[25.32745,46.40696],"type":"Point"}
+  "geometry": {"coordinates":[[[25.338028,46.396681],[25.334567,46.39663],[25.334537,46.396819],[25.334604,46.397438],[25.334717,46.39757],[25.334853,46.397653],[25.335126,46.397829],[25.335422,46.397872],[25.335662,46.397822],[25.335979,46.397494],[25.336074,46.397373],[25.33629,46.397272],[25.33804,46.397212],[25.338028,46.396681]]],"type":"Polygon"}
 }

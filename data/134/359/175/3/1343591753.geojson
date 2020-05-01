@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.06837,44.89209,24.06837,44.89209",
-    "geom:latitude":44.89209,
-    "geom:longitude":24.06837,
+    "geom:area":0.000121,
+    "geom:area_square_m":1057025.735477,
+    "geom:bbox":"24.05931,44.877808,24.076737,44.905621",
+    "geom:latitude":44.88978,
+    "geom:longitude":24.066887,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172581",
     "gn:asciiname":"Barbarigeni",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103rb\u0103rigeni"
+    ],
+    "name:ron_x_variant":[
+        "Barbarigeni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685391
+        "gn:id":685391,
+        "ro-ancpi:id":172625
     },
     "wof:country":"RO",
-    "wof:geomhash":"44e2128ecf55dda5e4ea7e9b375a9c8f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d144bed4217eec5840e7a47a57b41339",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1343591753,
-    "wof:lastmodified":1566609936,
-    "wof:name":"Barbarigeni",
+    "wof:lastmodified":1588367025,
+    "wof:name":"B\u0103rb\u0103rigeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":230,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.06837,
-    44.89209,
-    24.06837,
-    44.89209
+    24.05931,
+    44.877808,
+    24.076737,
+    44.905621
 ],
-  "geometry": {"coordinates":[24.06837,44.89209],"type":"Point"}
+  "geometry": {"coordinates":[[[24.063754,44.883221],[24.064946,44.88287],[24.066595,44.883019],[24.066967,44.88388],[24.069709,44.887462],[24.073186,44.88615],[24.07288,44.885409],[24.071349,44.885652],[24.06833,44.882722],[24.07028,44.882477],[24.071814,44.881446],[24.073803,44.881281],[24.076087,44.882076],[24.076737,44.880937],[24.073629,44.880023],[24.07173,44.88078],[24.066984,44.882002],[24.06651,44.880664],[24.064535,44.880874],[24.064715,44.881554],[24.062932,44.882009],[24.061585,44.877808],[24.05931,44.878211],[24.062255,44.888369],[24.067641,44.898075],[24.069334,44.905621],[24.072176,44.905613],[24.071681,44.901506],[24.070355,44.897662],[24.068093,44.891613],[24.06647,44.888247],[24.063754,44.883221]]],"type":"Polygon"}
 }

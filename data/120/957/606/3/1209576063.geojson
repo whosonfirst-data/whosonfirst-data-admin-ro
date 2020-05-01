@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.03295,45.31882,26.03295,45.31882",
-    "geom:latitude":45.31882,
-    "geom:longitude":26.03295,
+    "geom:area":0.000034,
+    "geom:area_square_m":296109.74758,
+    "geom:bbox":"26.026704,45.311274,26.034693,45.319731",
+    "geom:latitude":45.31596,
+    "geom:longitude":26.0316,
     "gn:admin1_code":"30",
     "gn:admin2_code":"132574.0",
     "gn:asciiname":"Valea Tocii",
@@ -25,22 +25,35 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.01295,45.29882,26.05295,45.33882",
+    "lbl:latitude":45.31882,
+    "lbl:longitude":26.03295,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Tocii"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663353
+        "gn:id":663353,
+        "ro-ancpi:id":132636
     },
     "wof:country":"RO",
-    "wof:geomhash":"0296177906bf886526f3d1c04c623da9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dfec9cd0f78ac1c139a2b4be57e15a1c",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1209576063,
-    "wof:lastmodified":1566610341,
+    "wof:lastmodified":1588366738,
     "wof:name":"Valea Tocii",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.03295,
-    45.31882,
-    26.03295,
-    45.31882
+    26.026704,
+    45.311274,
+    26.034693,
+    45.319731
 ],
-  "geometry": {"coordinates":[26.03295,45.31882],"type":"Point"}
+  "geometry": {"coordinates":[[[26.031827,45.31969],[26.033968,45.319731],[26.034082,45.319023],[26.034004,45.316949],[26.034016,45.314686],[26.033896,45.313264],[26.034018,45.312866],[26.034071,45.312783],[26.034116,45.312709],[26.034693,45.311679],[26.033057,45.311274],[26.031182,45.312352],[26.031262,45.31455],[26.030269,45.315012],[26.0273,45.316],[26.026704,45.316826],[26.028877,45.318369],[26.030482,45.318488],[26.031742,45.31888],[26.031827,45.31969]]],"type":"Polygon"}
 }

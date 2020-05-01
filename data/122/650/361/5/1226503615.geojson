@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35,44.71667,24.35,44.71667",
-    "geom:latitude":44.71667,
-    "geom:longitude":24.35,
+    "geom:area":0.000117,
+    "geom:area_square_m":1024028.787288,
+    "geom:bbox":"24.339797,44.718347,24.360799,44.733575",
+    "geom:latitude":44.724465,
+    "geom:longitude":24.348203,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130231.0",
     "gn:asciiname":"Vlangaresti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Vl\u0103ng\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Vlangaresti"
+    ],
     "name:und_x_variant":[
         "Vl\u00e2ngaresti",
         "Vl\u00eeng\u0103re\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662551
+        "gn:id":662551,
+        "ro-ancpi:id":130277
     },
     "wof:country":"RO",
-    "wof:geomhash":"22917a9ae0b5913e72f50255c25b7303",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7b1312481dc52535ac77cd2110584926",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1226503615,
-    "wof:lastmodified":1566611652,
-    "wof:name":"Vlangaresti",
+    "wof:lastmodified":1588367075,
+    "wof:name":"Vl\u0103ng\u0103re\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35,
-    44.71667,
-    24.35,
-    44.71667
+    24.339797,
+    44.718347,
+    24.360799,
+    44.733575
 ],
-  "geometry": {"coordinates":[24.35,44.71667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.360799,44.732746],[24.351871,44.723763],[24.353527,44.721479],[24.352396,44.719554],[24.347553,44.720485],[24.342255,44.718347],[24.339797,44.719187],[24.340194,44.727888],[24.34264,44.727765],[24.342225,44.725986],[24.347752,44.725723],[24.349227,44.726416],[24.351313,44.72892],[24.354701,44.729517],[24.358428,44.733575],[24.360799,44.732746]]],"type":"Polygon"}
 }

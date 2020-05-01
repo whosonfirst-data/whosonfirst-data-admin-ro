@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08433,44.90557,24.08433,44.90557",
-    "geom:latitude":44.90557,
-    "geom:longitude":24.08433,
+    "geom:area":0.000013,
+    "geom:area_square_m":112199.394022,
+    "geom:bbox":"24.079201,44.902397,24.085555,44.90764",
+    "geom:latitude":44.904979,
+    "geom:longitude":24.08241,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172581.0",
     "gn:asciiname":"Piscu Scoartei",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.06433,44.88557,24.10433,44.92557",
+    "lbl:latitude":44.90557,
+    "lbl:longitude":24.08433,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Piscu Scoar\u0163ei"
+    ],
+    "name:ron_x_variant":[
+        "Piscu Scoartei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670624
+        "gn:id":670624,
+        "ro-ancpi:id":172661
     },
     "wof:country":"RO",
-    "wof:geomhash":"30169af5a4b6b538a4edf3d70e3d27d8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e4f902782ce29c4f2a82727040e89b80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1276157499,
-    "wof:lastmodified":1566610237,
-    "wof:name":"Piscu Scoartei",
+    "wof:lastmodified":1588366717,
+    "wof:name":"Piscu Scoar\u0163ei",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":44,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08433,
-    44.90557,
-    24.08433,
-    44.90557
+    24.079201,
+    44.902397,
+    24.085555,
+    44.90764
 ],
-  "geometry": {"coordinates":[24.08433,44.90557],"type":"Point"}
+  "geometry": {"coordinates":[[[24.085555,44.906674],[24.081336,44.902397],[24.079201,44.903078],[24.083475,44.90764],[24.085555,44.906674]]],"type":"Polygon"}
 }

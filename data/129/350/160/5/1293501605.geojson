@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.85982,46.38175,22.85982,46.38175",
-    "geom:latitude":46.38175,
-    "geom:longitude":22.85982,
+    "geom:area":0.000004,
+    "geom:area_square_m":30431.825835,
+    "geom:bbox":"22.859956,46.372233,22.8642,46.373771",
+    "geom:latitude":46.373047,
+    "geom:longitude":22.861933,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Segaj",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Segaj"
+    ],
     "name:und_x_variant":[
         "Sega\u015fi",
         "Segaj"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667454
+        "gn:id":667454,
+        "ro-ancpi:id":8755
     },
     "wof:country":"RO",
-    "wof:geomhash":"39940f32fb7b56136d1b3706c5cfd439",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dd539f5a0edb3bb518e18f04193cd00e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1293501605,
-    "wof:lastmodified":1566610089,
+    "wof:lastmodified":1588367088,
     "wof:name":"Segaj",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.85982000000001,
-    46.38175,
-    22.85982000000001,
-    46.38175
+    22.859956,
+    46.372233,
+    22.8642,
+    46.373771
 ],
-  "geometry": {"coordinates":[22.85982000000001,46.38175],"type":"Point"}
+  "geometry": {"coordinates":[[[22.859956,46.373264],[22.861361,46.373771],[22.862658,46.37362],[22.862671,46.373399],[22.8642,46.373081],[22.863875,46.372515],[22.863195,46.372805],[22.861222,46.372233],[22.859956,46.373264]]],"type":"Polygon"}
 }

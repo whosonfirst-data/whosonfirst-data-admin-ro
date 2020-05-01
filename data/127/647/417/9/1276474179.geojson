@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.26638,44.88692,24.26638,44.88692",
-    "geom:latitude":44.88692,
-    "geom:longitude":24.26638,
+    "geom:area":0.000022,
+    "geom:area_square_m":191572.833667,
+    "geom:bbox":"24.260131,44.881941,24.267767,44.888898",
+    "geom:latitude":44.885662,
+    "geom:longitude":24.264174,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171806.0",
     "gn:asciiname":"Nicolesti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Nicole\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Nicolesti"
+    ],
     "name:und_x_variant":[
         "Nicule\u015fti",
         "Nicole\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672258
+        "gn:id":672258,
+        "ro-ancpi:id":171851
     },
     "wof:country":"RO",
-    "wof:geomhash":"6ab1340acdac5925e1e5a4a23c24aac9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c359602c771de7574b88c405754c1ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1276474179,
-    "wof:lastmodified":1566610230,
-    "wof:name":"Nicolesti",
+    "wof:lastmodified":1588367087,
+    "wof:name":"Nicole\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":145,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.26638,
-    44.88692,
-    24.26638,
-    44.88692
+    24.260131,
+    44.881941,
+    24.267767,
+    44.888898
 ],
-  "geometry": {"coordinates":[24.26638,44.88692],"type":"Point"}
+  "geometry": {"coordinates":[[[24.263716,44.888898],[24.264869,44.887134],[24.266028,44.887244],[24.266534,44.886156],[24.265437,44.88584],[24.266362,44.883745],[24.267404,44.883916],[24.267767,44.882765],[24.264588,44.881941],[24.263126,44.885166],[24.261881,44.887341],[24.260407,44.88694],[24.260131,44.888359],[24.263204,44.888826],[24.263716,44.888898]]],"type":"Polygon"}
 }

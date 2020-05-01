@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.38169,44.36447,23.38169,44.36447",
-    "geom:latitude":44.36447,
-    "geom:longitude":23.38169,
+    "geom:area":0.000009,
+    "geom:area_square_m":79706.888207,
+    "geom:bbox":"23.378421,44.361597,23.382102,44.365124",
+    "geom:latitude":44.363595,
+    "geom:longitude":23.380119,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70986.0",
     "gn:asciiname":"Voita",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.36169,44.34447,23.40169,44.38447",
+    "lbl:latitude":44.36447,
+    "lbl:longitude":23.38169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Voita"
+    ],
     "name:und_x_variant":[
         "Burtoiu",
         "Voita"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662509
+        "gn:id":662509,
+        "ro-ancpi:id":71046
     },
     "wof:country":"RO",
-    "wof:geomhash":"4e920c7fdd77634d509ab2c8f5f8f0d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7f87a6add6157226ecc6f355cd834874",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1360161011,
-    "wof:lastmodified":1566610632,
+    "wof:lastmodified":1588366796,
     "wof:name":"Voita",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.38169,
-    44.36447,
-    23.38169,
-    44.36447
+    23.378421,
+    44.361597,
+    23.382102,
+    44.365124
 ],
-  "geometry": {"coordinates":[23.38169,44.36447],"type":"Point"}
+  "geometry": {"coordinates":[[[23.37977,44.362076],[23.379352,44.361597],[23.378421,44.361643],[23.37845,44.36177],[23.378501,44.361917],[23.378519,44.362239],[23.378477,44.362377],[23.378491,44.362468],[23.378516,44.362519],[23.378589,44.362569],[23.378685,44.36261],[23.37871,44.362672],[23.378738,44.362935],[23.378743,44.363074],[23.378666,44.363919],[23.378682,44.364275],[23.378717,44.364914],[23.379209,44.364988],[23.380636,44.365064],[23.381352,44.365124],[23.38194,44.365032],[23.382102,44.364053],[23.382074,44.363566],[23.381187,44.363412],[23.381242,44.362763],[23.381127,44.362504],[23.380693,44.362264],[23.380099,44.362238],[23.37977,44.362076]]],"type":"Polygon"}
 }

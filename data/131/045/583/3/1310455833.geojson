@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.22129,47.88879,26.22129,47.88879",
-    "geom:latitude":47.88879,
-    "geom:longitude":26.22129,
+    "geom:area":0.000077,
+    "geom:area_square_m":640379.440899,
+    "geom:bbox":"26.207347,47.881526,26.233113,47.896423",
+    "geom:latitude":47.888972,
+    "geom:longitude":26.221475,
     "gn:admin1_code":"34",
     "gn:admin2_code":"151246",
     "gn:asciiname":"Lunca",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.20129,47.86879,26.24129,47.90879",
+    "lbl:latitude":47.88879,
+    "lbl:longitude":26.22129,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lunca"
@@ -60,7 +62,11 @@
     "name:vol_x_preferred":[
         "Lunca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +75,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10942328
+        "gn:id":10942328,
+        "ro-ancpi:id":151308
     },
     "wof:country":"RO",
-    "wof:geomhash":"925067896e31307ddb9bc0157cb776aa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"646cbb2002f7e2c148447da28d52baf9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +92,7 @@
         }
     ],
     "wof:id":1310455833,
-    "wof:lastmodified":1566610566,
+    "wof:lastmodified":1588366781,
     "wof:name":"Lunca",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
@@ -94,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.22129,
-    47.88879,
-    26.22129,
-    47.88879
+    26.207347,
+    47.881526,
+    26.233113,
+    47.896423
 ],
-  "geometry": {"coordinates":[26.22129,47.88879],"type":"Point"}
+  "geometry": {"coordinates":[[[26.229551,47.893989],[26.227573,47.891776],[26.229785,47.889944],[26.232825,47.890058],[26.233113,47.888457],[26.230402,47.889288],[26.2278,47.888336],[26.227311,47.888216],[26.226976,47.888155],[26.226585,47.88814],[26.226191,47.888178],[26.22577,47.888355],[26.222733,47.88947],[26.22258,47.889379],[26.220718,47.888003],[26.219708,47.887246],[26.218189,47.885818],[26.215262,47.884258],[26.209924,47.881526],[26.209717,47.881688],[26.207347,47.883544],[26.209934,47.88503],[26.211096,47.884085],[26.216145,47.886829],[26.217317,47.887421],[26.218642,47.889514],[26.217295,47.890595],[26.219037,47.891459],[26.221551,47.892259],[26.223206,47.891081],[26.225241,47.891911],[26.22422,47.892711],[26.225472,47.893576],[26.22613,47.893071],[26.229012,47.896055],[26.230431,47.896423],[26.231923,47.895271],[26.229551,47.893989]]],"type":"Polygon"}
 }

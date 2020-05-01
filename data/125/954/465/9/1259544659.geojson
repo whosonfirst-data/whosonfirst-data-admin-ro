@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.49571,43.82456,24.49571,43.82456",
-    "geom:latitude":43.82456,
-    "geom:longitude":24.49571,
+    "geom:area":0.000111,
+    "geom:area_square_m":991963.483081,
+    "geom:bbox":"24.48767,43.819326,24.503296,43.830009",
+    "geom:latitude":43.824541,
+    "geom:longitude":24.495489,
     "gn:admin1_code":"29",
     "gn:admin2_code":"125542.0",
     "gn:asciiname":"Tudor Vladimirescu",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.47571,43.80456,24.51571,43.84456",
+    "lbl:latitude":43.82456,
+    "lbl:longitude":24.49571,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0434\u043e\u0440 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0435\u0441\u043a\u0443"
@@ -90,7 +92,11 @@
     "name:zho_x_preferred":[
         "\u56fe\u591a\u5c14\u00b7\u5f17\u62c9\u57fa\u7c73\u5217\u65af\u5e93"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,10 +105,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664571
+        "gn:id":664571,
+        "ro-ancpi:id":125560
     },
     "wof:country":"RO",
-    "wof:geomhash":"34af522ffcf8eddbdeec39f653c23d3b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"256fa0558702e6647fe290bab5683b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,7 +122,7 @@
         }
     ],
     "wof:id":1259544659,
-    "wof:lastmodified":1566611535,
+    "wof:lastmodified":1588366846,
     "wof:name":"Tudor Vladimirescu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -124,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.49571,
-    43.82456,
-    24.49571,
-    43.82456
+    24.48767,
+    43.819326,
+    24.503296,
+    43.830009
 ],
-  "geometry": {"coordinates":[24.49571,43.82456],"type":"Point"}
+  "geometry": {"coordinates":[[[24.497348,43.830009],[24.498504,43.827005],[24.501433,43.827613],[24.503296,43.822562],[24.502848,43.822503],[24.503224,43.821627],[24.50224,43.821449],[24.502826,43.819876],[24.501415,43.81962],[24.500714,43.821221],[24.491183,43.819326],[24.48767,43.828073],[24.497348,43.830009]]],"type":"Polygon"}
 }

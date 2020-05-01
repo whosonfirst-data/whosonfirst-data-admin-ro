@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.24522,47.40412,23.24522,47.40412",
-    "geom:latitude":47.40412,
-    "geom:longitude":23.24522,
+    "geom:area":0.000101,
+    "geom:area_square_m":842046.902569,
+    "geom:bbox":"23.233949,47.396892,23.253002,47.40906",
+    "geom:latitude":47.40395,
+    "geom:longitude":23.243462,
     "gn:admin1_code":"31",
     "gn:admin2_code":"139740.0",
     "gn:asciiname":"Horoatu Cehului",
@@ -26,28 +26,41 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.22522,47.38412,23.26522,47.42412",
+    "lbl:latitude":47.40412,
+    "lbl:longitude":23.24522,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Horoatu Cehului"
+    ],
     "name:und_x_variant":[
         "Horoat",
         "Horoatul Crasnei",
         "Horatu Cehului",
         "Horoatu Cehului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675994
+        "gn:id":675994,
+        "ro-ancpi:id":139768
     },
     "wof:country":"RO",
-    "wof:geomhash":"f3e0abafeed69cb22a96a1b1d8b0a9ab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ade5a4c1f6021bd12cd5777cb504688f",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1209350577,
-    "wof:lastmodified":1566610352,
+    "wof:lastmodified":1588366740,
     "wof:name":"Horoatu Cehului",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.24522,
-    47.40412,
-    23.24522,
-    47.40412
+    23.233949,
+    47.396892,
+    23.253002,
+    47.40906
 ],
-  "geometry": {"coordinates":[23.24522,47.40412],"type":"Point"}
+  "geometry": {"coordinates":[[[23.249633,47.40711],[23.252303,47.40698],[23.253002,47.404149],[23.250322,47.404124],[23.24807,47.403413],[23.247808,47.40373],[23.247411,47.403689],[23.246114,47.402799],[23.245445,47.40138],[23.245086,47.400152],[23.245805,47.399397],[23.246321,47.398748],[23.24505,47.398744],[23.244971,47.398913],[23.243608,47.398823],[23.242987,47.398843],[23.24297,47.398683],[23.241179,47.398796],[23.240986,47.396892],[23.23978,47.39719],[23.239955,47.398611],[23.238429,47.398743],[23.238429,47.399638],[23.238147,47.40193],[23.237819,47.403322],[23.237774,47.404028],[23.237433,47.404078],[23.237292,47.406083],[23.235417,47.406521],[23.233949,47.407087],[23.234931,47.40843],[23.237089,47.407726],[23.236788,47.40723],[23.23935,47.406818],[23.241783,47.407105],[23.245422,47.407641],[23.247401,47.408254],[23.24962,47.40906],[23.249916,47.408849],[23.249657,47.408639],[23.249633,47.40711]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21063,46.53733,24.21063,46.53733",
-    "geom:latitude":46.53733,
-    "geom:longitude":24.21063,
+    "geom:area":0.000014,
+    "geom:area_square_m":118748.003022,
+    "geom:bbox":"24.213958,46.549966,24.219723,46.554228",
+    "geom:latitude":46.552251,
+    "geom:longitude":24.217118,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118637.0",
     "gn:asciiname":"Sandru",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u015eandru"
+    ],
+    "name:ron_x_variant":[
+        "Sandru"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668105
+        "gn:id":668105,
+        "ro-ancpi:id":118673
     },
     "wof:country":"RO",
-    "wof:geomhash":"bb9062c880ba3c77fe97341e4da53704",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c73a3501850c5aef00e83a6c9ce9fcea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293643423,
-    "wof:lastmodified":1566610050,
-    "wof:name":"Sandru",
+    "wof:lastmodified":1588367039,
+    "wof:name":"\u015eandru",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":2,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.21063,
-    46.53733,
-    24.21063,
-    46.53733
+    24.213958,
+    46.549966,
+    24.219723,
+    46.554228
 ],
-  "geometry": {"coordinates":[24.21063,46.53733],"type":"Point"}
+  "geometry": {"coordinates":[[[24.217052,46.554228],[24.217486,46.553643],[24.217799,46.553735],[24.218937,46.553092],[24.21947,46.553351],[24.219723,46.552446],[24.219695,46.551808],[24.21902,46.551178],[24.218581,46.550818],[24.218033,46.55029],[24.217279,46.549966],[24.216907,46.550168],[24.215669,46.551359],[24.213958,46.553275],[24.217052,46.554228]]],"type":"Polygon"}
 }

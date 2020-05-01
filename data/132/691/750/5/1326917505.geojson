@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.06317,45.56705,22.06317,45.56705",
-    "geom:latitude":45.56705,
-    "geom:longitude":22.06317,
+    "geom:area":0.000068,
+    "geom:area_square_m":586152.950888,
+    "geom:bbox":"22.053941,45.561641,22.067509,45.571205",
+    "geom:latitude":45.566338,
+    "geom:longitude":22.060842,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53755.0",
     "gn:asciiname":"Salbagelu Nou",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.04317,45.54705,22.08317,45.58705",
+    "lbl:latitude":45.56705,
+    "lbl:longitude":22.06317,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u0103lb\u0103gelu Nou"
+    ],
+    "name:ron_x_variant":[
+        "Salbagelu Nou"
+    ],
     "name:und_x_variant":[
         "S\u0103lb\u0103gelul Nou",
         "S\u0103lb\u0103gelu Nou"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668221
+        "gn:id":668221,
+        "ro-ancpi:id":53773
     },
     "wof:country":"RO",
-    "wof:geomhash":"1d60230153a48c2487b2ed39bacd8900",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d4a75dbea453e7aecc4441e34f9c3dd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1326917505,
-    "wof:lastmodified":1566609849,
-    "wof:name":"Salbagelu Nou",
+    "wof:lastmodified":1588366642,
+    "wof:name":"S\u0103lb\u0103gelu Nou",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":219,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.06317,
-    45.56705,
-    22.06317,
-    45.56705
+    22.053941,
+    45.561641,
+    22.067509,
+    45.571205
 ],
-  "geometry": {"coordinates":[22.06317,45.56705],"type":"Point"}
+  "geometry": {"coordinates":[[[22.066642,45.563931],[22.065331,45.562991],[22.064254,45.563823],[22.060822,45.561641],[22.056879,45.564515],[22.053941,45.566949],[22.060543,45.571205],[22.062452,45.56984],[22.062739,45.569588],[22.063045,45.5693],[22.064087,45.568577],[22.065784,45.567292],[22.067509,45.565954],[22.065662,45.564732],[22.066642,45.563931]]],"type":"Polygon"}
 }

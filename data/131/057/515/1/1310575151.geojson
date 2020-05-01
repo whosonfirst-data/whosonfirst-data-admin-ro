@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.89856,45.62611,22.89856,45.62611",
-    "geom:latitude":45.62611,
-    "geom:longitude":22.89856,
+    "geom:area":0.00001,
+    "geom:area_square_m":86141.222371,
+    "geom:bbox":"22.8948,45.6249,22.901303,45.62749",
+    "geom:latitude":45.626055,
+    "geom:longitude":22.89811,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91731.0",
     "gn:asciiname":"Craguis",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.87856,45.60611,22.91856,45.64611",
+    "lbl:latitude":45.62611,
+    "lbl:longitude":22.89856,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cr\u0103gui\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Craguis"
+    ],
     "name:und_x_variant":[
         "Cr\u0103gui\u015fi",
         "Cr\u0103gui\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680343
+        "gn:id":680343,
+        "ro-ancpi:id":91759
     },
     "wof:country":"RO",
-    "wof:geomhash":"9a9bfe2a24e2712a4600591a42608a33",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4ddad4c80a27ed4d60e876347b57130e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1310575151,
-    "wof:lastmodified":1566610593,
-    "wof:name":"Craguis",
+    "wof:lastmodified":1588366788,
+    "wof:name":"Cr\u0103gui\u015f",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":106,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.89856,
-    45.62611,
-    22.89856,
-    45.62611
+    22.8948,
+    45.6249,
+    22.901303,
+    45.62749
 ],
-  "geometry": {"coordinates":[22.89856,45.62611],"type":"Point"}
+  "geometry": {"coordinates":[[[22.901303,45.627044],[22.900762,45.626025],[22.899105,45.625108],[22.897786,45.625027],[22.896899,45.6249],[22.895249,45.62503],[22.894899,45.625663],[22.8948,45.626545],[22.895043,45.626612],[22.895472,45.62647],[22.895998,45.626624],[22.896292,45.62615],[22.898517,45.626845],[22.898842,45.626936],[22.899692,45.627489],[22.900501,45.62749],[22.900787,45.627417],[22.901303,45.627044]]],"type":"Polygon"}
 }

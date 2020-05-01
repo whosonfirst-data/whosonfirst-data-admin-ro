@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2384,45.06553,24.2384,45.06553",
-    "geom:latitude":45.06553,
-    "geom:longitude":24.2384,
+    "geom:area":0.000092,
+    "geom:area_square_m":802522.744704,
+    "geom:bbox":"24.221868,45.06251,24.241637,45.074714",
+    "geom:latitude":45.06858,
+    "geom:longitude":24.230867,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171325.0",
     "gn:asciiname":"Govora",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.2184,45.04553,24.2584,45.08553",
+    "lbl:latitude":45.06553,
+    "lbl:longitude":24.2384,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Govora"
@@ -46,7 +48,11 @@
     "name:und_x_variant":[
         "Govora-Mahalaua Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676848
+        "gn:id":676848,
+        "ro-ancpi:id":171361
     },
     "wof:country":"RO",
-    "wof:geomhash":"f6baffb39252accffa8ef6f165a5ce41",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ea72aba75e339746af10ebd2ae6d5798",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1260220863,
-    "wof:lastmodified":1566610475,
+    "wof:lastmodified":1588366764,
     "wof:name":"Govora",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -80,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2384,
-    45.06553,
-    24.2384,
-    45.06553
+    24.221868,
+    45.06251,
+    24.241637,
+    45.074714
 ],
-  "geometry": {"coordinates":[24.2384,45.06553],"type":"Point"}
+  "geometry": {"coordinates":[[[24.226086,45.072109],[24.227326,45.071835],[24.228263,45.073297],[24.23047,45.073736],[24.231722,45.072585],[24.230339,45.070202],[24.233082,45.069331],[24.235541,45.068867],[24.233827,45.065874],[24.235277,45.064781],[24.236421,45.067205],[24.241637,45.066308],[24.241109,45.062627],[24.241093,45.06251],[24.236846,45.063064],[24.233392,45.064055],[24.231769,45.065916],[24.230365,45.066531],[24.228878,45.06714],[24.227696,45.067558],[24.226671,45.067512],[24.224638,45.068556],[24.223338,45.069108],[24.22197,45.07019],[24.221868,45.071178],[24.221897,45.072324],[24.222016,45.074017],[24.222116,45.074227],[24.222152,45.074301],[24.224754,45.074714],[24.226168,45.073395],[24.226086,45.072109]]],"type":"Polygon"}
 }

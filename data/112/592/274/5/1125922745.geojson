@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.75,45.06667,26.75,45.06667",
-    "geom:latitude":45.06667,
-    "geom:longitude":26.75,
+    "geom:area":0.00001,
+    "geom:area_square_m":87644.638902,
+    "geom:bbox":"26.749869,45.06601,26.755335,45.070308",
+    "geom:latitude":45.068119,
+    "geom:longitude":26.752781,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -19,9 +19,15 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ron_x_preferred":[
+        "Gro\u015fani"
+    ],
+    "name:ron_x_variant":[
+        "Grosani"
+    ],
     "name:und_x_variant":[
         "Crosanii"
     ],
@@ -45,7 +51,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":873286,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -61,11 +70,15 @@
     "wof:concordances":{
         "gn:id":676667,
         "gp:id":873286,
-        "qs_pg:id":983747
+        "qs_pg:id":983747,
+        "ro-ancpi:id":46527
     },
     "wof:country":"RO",
     "wof:created":1497296538,
-    "wof:geomhash":"007c97d195b089866eb58211af699819",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"000934e29d61c72e75d3881658245b23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,8 +88,8 @@
         }
     ],
     "wof:id":1125922745,
-    "wof:lastmodified":1566611277,
-    "wof:name":"Grosani",
+    "wof:lastmodified":1588367097,
+    "wof:name":"Gro\u015fani",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":75,
@@ -87,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.75,
-    45.06667,
-    26.75,
-    45.06667
+    26.749869,
+    45.06601,
+    26.755335,
+    45.070308
 ],
-  "geometry": {"coordinates":[26.75,45.06667],"type":"Point"}
+  "geometry": {"coordinates":[[[26.753475,45.069553],[26.753845,45.06914],[26.753946,45.069161],[26.75414,45.068855],[26.754638,45.068224],[26.755002,45.067799],[26.754937,45.067786],[26.755335,45.067308],[26.755168,45.067194],[26.754931,45.067106],[26.754719,45.067011],[26.75436,45.066808],[26.753792,45.06643],[26.753637,45.06634],[26.753722,45.066193],[26.753341,45.06601],[26.753162,45.066173],[26.753381,45.066332],[26.753501,45.06642],[26.753512,45.066485],[26.753493,45.066566],[26.753215,45.067085],[26.752974,45.067559],[26.752841,45.067834],[26.751585,45.067026],[26.751097,45.066683],[26.750757,45.066452],[26.749869,45.066991],[26.750892,45.067602],[26.751361,45.067972],[26.75059,45.068456],[26.750982,45.068753],[26.75129,45.068989],[26.75144,45.069107],[26.751804,45.069369],[26.752052,45.069501],[26.752381,45.069698],[26.752693,45.069894],[26.753228,45.070168],[26.753424,45.070308],[26.753968,45.069875],[26.753475,45.069553]]],"type":"Polygon"}
 }

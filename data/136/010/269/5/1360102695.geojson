@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.95696,46.39878,22.95696,46.39878",
-    "geom:latitude":46.39878,
-    "geom:longitude":22.95696,
+    "geom:area":0.000014,
+    "geom:area_square_m":117509.424933,
+    "geom:bbox":"22.959495,46.399827,22.965101,46.406527",
+    "geom:latitude":46.402961,
+    "geom:longitude":22.962801,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8229.0",
     "gn:asciiname":"Popestii de Jos",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pope\u015ftii de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Popestii de Jos"
+    ],
     "name:und_x_variant":[
         "Pope\u015fti",
         "Pope\u015ftii de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669872
+        "gn:id":669872,
+        "ro-ancpi:id":8309
     },
     "wof:country":"RO",
-    "wof:geomhash":"5612ba8aeaf2ad8d290b30384e671c89",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e3e31d7ec9036a9c6fce2ead9e3c5821",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1360102695,
-    "wof:lastmodified":1566610637,
-    "wof:name":"Popestii de Jos",
+    "wof:lastmodified":1588367106,
+    "wof:name":"Pope\u015ftii de Jos",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":110,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.95696,
-    46.39878,
-    22.95696,
-    46.39878
+    22.959495,
+    46.399827,
+    22.965101,
+    46.406527
 ],
-  "geometry": {"coordinates":[22.95696,46.39878],"type":"Point"}
+  "geometry": {"coordinates":[[[22.96399,46.406505],[22.964306,46.406527],[22.964372,46.406116],[22.964406,46.405486],[22.964174,46.404623],[22.96389,46.404086],[22.963873,46.403442],[22.96502,46.403364],[22.965101,46.402288],[22.963514,46.402203],[22.963374,46.401445],[22.962652,46.401306],[22.962628,46.401047],[22.962616,46.400715],[22.962623,46.400443],[22.962606,46.400196],[22.962523,46.399937],[22.959663,46.399827],[22.959495,46.400438],[22.961391,46.400993],[22.962183,46.403505],[22.962777,46.406494],[22.96399,46.406505]]],"type":"Polygon"}
 }

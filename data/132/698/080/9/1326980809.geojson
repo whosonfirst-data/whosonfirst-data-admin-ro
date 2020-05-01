@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.40936,44.16452,24.40936,44.16452",
-    "geom:latitude":44.16452,
-    "geom:longitude":24.40936,
+    "geom:area":0.000051,
+    "geom:area_square_m":449609.112203,
+    "geom:bbox":"24.400622,44.159849,24.413069,44.168094",
+    "geom:latitude":44.164083,
+    "geom:longitude":24.406714,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127019.0",
     "gn:asciiname":"Hotarani",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.38936,44.14452,24.42936,44.18452",
+    "lbl:latitude":44.16452,
+    "lbl:longitude":24.40936,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Hot\u0103rani"
+    ],
+    "name:ron_x_variant":[
+        "Hotarani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675973
+        "gn:id":675973,
+        "ro-ancpi:id":127055
     },
     "wof:country":"RO",
-    "wof:geomhash":"7dc99fa12f65df13605fc639df549835",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9ac1de667a693a70ff6879442308413e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1326980809,
-    "wof:lastmodified":1566609851,
-    "wof:name":"Hotarani",
+    "wof:lastmodified":1588366642,
+    "wof:name":"Hot\u0103rani",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":974,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.40936,
-    44.16452,
-    24.40936,
-    44.16452
+    24.400622,
+    44.159849,
+    24.413069,
+    44.168094
 ],
-  "geometry": {"coordinates":[24.40936,44.16452],"type":"Point"}
+  "geometry": {"coordinates":[[[24.413069,44.164098],[24.411723,44.162342],[24.411676,44.162114],[24.411137,44.161203],[24.410562,44.160567],[24.409734,44.159849],[24.408523,44.160543],[24.400622,44.164624],[24.400716,44.166414],[24.402944,44.168094],[24.406164,44.166305],[24.411324,44.165111],[24.413069,44.164098]]],"type":"Polygon"}
 }

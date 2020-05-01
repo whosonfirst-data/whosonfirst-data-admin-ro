@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.42871,44.99027,24.42871,44.99027",
-    "geom:latitude":44.99027,
-    "geom:longitude":24.42871,
+    "geom:area":0.000173,
+    "geom:area_square_m":1513572.183547,
+    "geom:bbox":"24.405714,44.972459,24.441079,44.991544",
+    "geom:latitude":44.981356,
+    "geom:longitude":24.424446,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Valea Balceasca",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea B\u0103lceasc\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Balceasca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663916
+        "gn:id":663916,
+        "ro-ancpi:id":171780
     },
     "wof:country":"RO",
-    "wof:geomhash":"9eb5ddfa793d1f875929a8af23648f97",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e2052f7d6cb55a075087fcebfa74dfe2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293518219,
-    "wof:lastmodified":1566610101,
-    "wof:name":"Valea Balceasca",
+    "wof:lastmodified":1588366759,
+    "wof:name":"Valea B\u0103lceasc\u0103",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":344,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.42871,
-    44.99027,
-    24.42871,
-    44.99027
+    24.405714,
+    44.972459,
+    24.441079,
+    44.991544
 ],
-  "geometry": {"coordinates":[24.42871,44.99027],"type":"Point"}
+  "geometry": {"coordinates":[[[24.441079,44.988957],[24.440418,44.986378],[24.426733,44.978867],[24.407924,44.972459],[24.405714,44.975245],[24.409125,44.977943],[24.423597,44.982066],[24.430445,44.986762],[24.434291,44.989185],[24.438959,44.991544],[24.440248,44.989398],[24.441079,44.988957]]],"type":"Polygon"}
 }

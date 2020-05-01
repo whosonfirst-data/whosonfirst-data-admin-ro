@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.60499,45.88295,23.60499,45.88295",
-    "geom:latitude":45.88295,
-    "geom:longitude":23.60499,
+    "geom:area":0.000011,
+    "geom:area_square_m":94411.591147,
+    "geom:bbox":"23.599283,45.881583,23.60991,45.88584",
+    "geom:latitude":45.883388,
+    "geom:longitude":23.605144,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7099.0",
     "gn:asciiname":"Dumbrava",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.58499,45.86295,23.62499,45.90295",
+    "lbl:latitude":45.88295,
+    "lbl:longitude":23.60499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dumbrava"
@@ -68,7 +70,11 @@
     "name:vol_x_preferred":[
         "Dumbrava"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,10 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678751
+        "gn:id":678751,
+        "ro-ancpi:id":7124
     },
     "wof:country":"RO",
-    "wof:geomhash":"4f6ae191c67d115b79cc32309898e20a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8fd38da7578e154b2d9014b9926914ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +100,7 @@
         }
     ],
     "wof:id":1225862437,
-    "wof:lastmodified":1566611653,
+    "wof:lastmodified":1588366876,
     "wof:name":"Dumbrava",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -102,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.60499,
-    45.88295,
-    23.60499,
-    45.88295
+    23.599283,
+    45.881583,
+    23.60991,
+    45.88584
 ],
-  "geometry": {"coordinates":[23.60499,45.88295],"type":"Point"}
+  "geometry": {"coordinates":[[[23.5993,45.88215],[23.599283,45.882287],[23.59967,45.882288],[23.600246,45.882219],[23.601318,45.88217],[23.601531,45.882227],[23.601731,45.882282],[23.602142,45.8824],[23.602531,45.882508],[23.60239,45.882842],[23.602863,45.882916],[23.602593,45.88338],[23.604876,45.883816],[23.60621,45.884049],[23.606871,45.884376],[23.607955,45.884924],[23.608311,45.88543],[23.609258,45.88584],[23.60991,45.884763],[23.608746,45.884136],[23.606639,45.883185],[23.604143,45.882218],[23.6011,45.881646],[23.599306,45.881583],[23.5993,45.88215]]],"type":"Polygon"}
 }

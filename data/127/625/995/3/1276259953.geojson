@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.49565,44.42485,27.49565,44.42485",
-    "geom:latitude":44.42485,
-    "geom:longitude":27.49565,
+    "geom:area":0.000035,
+    "geom:area_square_m":312389.411907,
+    "geom:bbox":"27.503052,44.428019,27.515268,44.434151",
+    "geom:latitude":44.4312,
+    "geom:longitude":27.510013,
     "gn:admin1_code":"41",
     "gn:admin2_code":"94223.0",
     "gn:asciiname":"Marculesti-Gara",
@@ -29,15 +29,24 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u0103rcule\u015fti-Gar\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Marculesti-Gara"
+    ],
     "name:und_x_variant":[
         "Gara M\u0103rcule\u015fti",
         "M\u0103rcule\u015fti-Ialomita",
         "M\u0103rcule\u015fti",
         "M\u0103rcule\u015fti-Gar\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673853
+        "gn:id":673853,
+        "ro-ancpi:id":94241
     },
     "wof:country":"RO",
-    "wof:geomhash":"2ab5bdf2b6ee33e89b2817a9f324ca52",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8fa6646cef46aaae3b2f890793bfc5a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +72,8 @@
         }
     ],
     "wof:id":1276259953,
-    "wof:lastmodified":1566610221,
-    "wof:name":"Marculesti-Gara",
+    "wof:lastmodified":1588367094,
+    "wof:name":"M\u0103rcule\u015fti-Gar\u0103",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
     "wof:population":338,
@@ -71,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.49565,
-    44.42485,
-    27.49565,
-    44.42485
+    27.503052,
+    44.428019,
+    27.515268,
+    44.434151
 ],
-  "geometry": {"coordinates":[27.49565,44.42485],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.514422,44.432803],[27.514494,44.430773],[27.515268,44.430815],[27.515267,44.428561],[27.514354,44.428628],[27.513935,44.428385],[27.51345,44.428101],[27.51285,44.428019],[27.511948,44.428156],[27.509526,44.428449],[27.509564,44.429514],[27.509606,44.430405],[27.509559,44.432269],[27.51053,44.432295],[27.510507,44.432926],[27.514422,44.432803]]],[[[27.507705,44.434151],[27.507332,44.431326],[27.503146,44.431515],[27.503052,44.433257],[27.503499,44.434015],[27.507705,44.434151]]]],"type":"MultiPolygon"}
 }

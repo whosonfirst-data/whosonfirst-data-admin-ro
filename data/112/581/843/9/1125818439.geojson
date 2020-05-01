@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.51667,45.0,22.51667,45.0",
-    "geom:latitude":45.0,
-    "geom:longitude":22.51667,
+    "geom:area":0.00001,
+    "geom:area_square_m":85868.058175,
+    "geom:bbox":"22.51903,45.005067,22.523806,45.008172",
+    "geom:latitude":45.006437,
+    "geom:longitude":22.521495,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
@@ -66,7 +66,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":870588,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -83,11 +86,15 @@
         "gn:id":680358,
         "gp:id":870588,
         "qs_pg:id":1167557,
+        "ro-ancpi:id":52268,
         "wd:id":"Q619164"
     },
     "wof:country":"RO",
     "wof:created":1497291940,
-    "wof:geomhash":"eaa3e93f516130337ca2237890a99156",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"28b688d5e06784603e4b7174effc1088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,7 +104,7 @@
         }
     ],
     "wof:id":1125818439,
-    "wof:lastmodified":1566611313,
+    "wof:lastmodified":1588367031,
     "wof:name":"Cracu Mare",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -109,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.51667,
-    45.0,
-    22.51667,
-    45.0
+    22.51903,
+    45.005067,
+    22.523806,
+    45.008172
 ],
-  "geometry": {"coordinates":[22.51667,45.0],"type":"Point"}
+  "geometry": {"coordinates":[[[22.523263,45.006161],[22.522645,45.005159],[22.521973,45.005164],[22.519475,45.005067],[22.51903,45.006826],[22.52152,45.007563],[22.523568,45.008172],[22.523806,45.007303],[22.523263,45.006161]]],"type":"Polygon"}
 }

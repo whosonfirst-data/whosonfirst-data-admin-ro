@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.63818,47.45021,23.63818,47.45021",
-    "geom:latitude":47.45021,
-    "geom:longitude":23.63818,
+    "geom:area":0.000008,
+    "geom:area_square_m":66509.440894,
+    "geom:bbox":"23.633736,47.446421,23.638419,47.45057",
+    "geom:latitude":47.448401,
+    "geom:longitude":23.636798,
     "gn:admin1_code":"25",
     "gn:admin2_code":"109425",
     "gn:asciiname":"Aspra",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Aspra"
@@ -36,7 +36,10 @@
     "name:ron_x_preferred":[
         "Aspra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686077
+        "gn:id":686077,
+        "ro-ancpi:id":109443
     },
     "wof:country":"RO",
-    "wof:geomhash":"76cf4feed57a6d64e3b4e4814cb13ae3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5bf3607785f03483ef5f7c24f0c149e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1343825581,
-    "wof:lastmodified":1566609927,
+    "wof:lastmodified":1588367107,
     "wof:name":"Aspra",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",
@@ -70,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.63818,
-    47.45021,
-    23.63818,
-    47.45021
+    23.633736,
+    47.446421,
+    23.638419,
+    47.45057
 ],
-  "geometry": {"coordinates":[23.63818,47.45021],"type":"Point"}
+  "geometry": {"coordinates":[[[23.636369,47.450422],[23.636966,47.45057],[23.637301,47.450166],[23.636987,47.450129],[23.637218,47.449571],[23.638362,47.449484],[23.638419,47.449178],[23.637967,47.449159],[23.638175,47.448694],[23.637915,47.447252],[23.638363,47.447186],[23.638343,47.446421],[23.636701,47.446508],[23.636267,47.446626],[23.63681,47.447986],[23.635888,47.448426],[23.633939,47.448023],[23.633736,47.448448],[23.635388,47.448835],[23.636369,47.450422]]],"type":"Polygon"}
 }

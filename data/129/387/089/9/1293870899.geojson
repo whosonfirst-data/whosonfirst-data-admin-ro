@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.80528,45.50337,21.80528,45.50337",
-    "geom:latitude":45.50337,
-    "geom:longitude":21.80528,
+    "geom:area":0.000063,
+    "geom:area_square_m":547054.053714,
+    "geom:bbox":"21.796786,45.499569,21.80956,45.506476",
+    "geom:latitude":45.503291,
+    "geom:longitude":21.803206,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52785.0",
     "gn:asciiname":"Valea Mare",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.78528,45.48337,21.82528,45.52337",
+    "lbl:latitude":45.50337,
+    "lbl:longitude":21.80528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Mare"
@@ -66,7 +68,11 @@
     "name:vol_x_preferred":[
         "Valea Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +81,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663625
+        "gn:id":663625,
+        "ro-ancpi:id":52847
     },
     "wof:country":"RO",
-    "wof:geomhash":"295dfecb41bfeb7967e0a10098587a1b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"813cf557cccc451a5699de68a8061ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +98,7 @@
         }
     ],
     "wof:id":1293870899,
-    "wof:lastmodified":1566610132,
+    "wof:lastmodified":1588366695,
     "wof:name":"Valea Mare",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -100,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.80528,
-    45.50337,
-    21.80528,
-    45.50337
+    21.796786,
+    45.499569,
+    21.80956,
+    45.506476
 ],
-  "geometry": {"coordinates":[21.80528,45.50337],"type":"Point"}
+  "geometry": {"coordinates":[[[21.808265,45.501848],[21.808346,45.501069],[21.807938,45.500855],[21.808164,45.500393],[21.807388,45.500204],[21.807439,45.499759],[21.80658,45.499569],[21.80616,45.500196],[21.804143,45.500044],[21.803911,45.501158],[21.802803,45.501083],[21.802371,45.501108],[21.802346,45.501358],[21.801917,45.501346],[21.801454,45.500597],[21.800526,45.500709],[21.80006,45.500224],[21.79913,45.500522],[21.798971,45.500923],[21.798258,45.500707],[21.797194,45.500969],[21.797192,45.501198],[21.796786,45.501504],[21.797254,45.502122],[21.797482,45.502172],[21.797392,45.502649],[21.797698,45.503739],[21.798165,45.505131],[21.79783,45.505219],[21.797692,45.505879],[21.797667,45.506476],[21.798774,45.506404],[21.80143,45.506213],[21.805716,45.506053],[21.808468,45.50585],[21.808568,45.505037],[21.80956,45.501939],[21.808265,45.501848]]],"type":"Polygon"}
 }

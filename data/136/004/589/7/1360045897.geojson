@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.33489,45.16423,26.33489,45.16423",
-    "geom:latitude":45.16423,
-    "geom:longitude":26.33489,
+    "geom:area":0.000017,
+    "geom:area_square_m":151897.72987,
+    "geom:bbox":"26.330615,45.159766,26.335998,45.168021",
+    "geom:latitude":45.16401,
+    "geom:longitude":26.333391,
     "gn:admin1_code":"30",
     "gn:admin2_code":"135244.0",
     "gn:asciiname":"Piatra Mica",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Piatra Mic\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Piatra Mica"
+    ],
     "name:und_x_variant":[
         "Rudari",
         "Piatra Mic\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670890
+        "gn:id":670890,
+        "ro-ancpi:id":135299
     },
     "wof:country":"RO",
-    "wof:geomhash":"9db48df9afbdc2eeca86670def45eb8f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a97212f5696e56ca3fd5f22d11ba2b6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1360045897,
-    "wof:lastmodified":1566610643,
-    "wof:name":"Piatra Mica",
+    "wof:lastmodified":1588367076,
+    "wof:name":"Piatra Mic\u0103",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":186,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.33489,
-    45.16423,
-    26.33489,
-    45.16423
+    26.330615,
+    45.159766,
+    26.335998,
+    45.168021
 ],
-  "geometry": {"coordinates":[26.33489,45.16423],"type":"Point"}
+  "geometry": {"coordinates":[[[26.335998,45.160071],[26.334179,45.159766],[26.333238,45.162064],[26.332722,45.163566],[26.331982,45.163827],[26.331899,45.165588],[26.330863,45.16614],[26.330615,45.166897],[26.331739,45.168021],[26.333391,45.167294],[26.33394,45.165562],[26.334162,45.16439],[26.335003,45.163174],[26.335477,45.161581],[26.335998,45.160071]]],"type":"Polygon"}
 }

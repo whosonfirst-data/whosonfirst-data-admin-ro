@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.12728,46.35909,23.12728,46.35909",
-    "geom:latitude":46.35909,
-    "geom:longitude":23.12728,
+    "geom:area":0.000007,
+    "geom:area_square_m":62130.752062,
+    "geom:bbox":"23.12512,46.353776,23.132972,46.358426",
+    "geom:latitude":46.356538,
+    "geom:longitude":23.129105,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039",
     "gn:asciiname":"Barlesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u00e2rle\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Barlesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685626
+        "gn:id":685626,
+        "ro-ancpi:id":3084
     },
     "wof:country":"RO",
-    "wof:geomhash":"34062bf212a5e69250b9df7dc07a5fa6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eca90d65af45e22bbceec309798985aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1310109847,
-    "wof:lastmodified":1566610578,
-    "wof:name":"Barlesti",
+    "wof:lastmodified":1588367105,
+    "wof:name":"B\u00e2rle\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":81,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.12728,
-    46.35909,
-    23.12728,
-    46.35909
+    23.12512,
+    46.353776,
+    23.132972,
+    46.358426
 ],
-  "geometry": {"coordinates":[23.12728,46.35909],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.131426,46.35666],[23.129988,46.356521],[23.130061,46.358296],[23.132039,46.358426],[23.132972,46.357363],[23.132048,46.357111],[23.132333,46.356724],[23.131426,46.35666]]],[[[23.127663,46.355869],[23.12786,46.355285],[23.12655,46.35528],[23.125594,46.353776],[23.12512,46.353941],[23.125339,46.355831],[23.126478,46.356022],[23.127268,46.356277],[23.127663,46.355869]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.20917,45.09954,24.20917,45.09954",
-    "geom:latitude":45.09954,
-    "geom:longitude":24.20917,
+    "geom:area":0.000018,
+    "geom:area_square_m":155778.923768,
+    "geom:bbox":"24.20107,45.100164,24.207897,45.105374",
+    "geom:latitude":45.102765,
+    "geom:longitude":24.204295,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168960.0",
     "gn:asciiname":"Firesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Fire\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Firesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678129
+        "gn:id":678129,
+        "ro-ancpi:id":168997
     },
     "wof:country":"RO",
-    "wof:geomhash":"8de5787c4170563ae36d5490e951b4e7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d13f7902d038740b566bdba50070769e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1242909381,
-    "wof:lastmodified":1566611514,
-    "wof:name":"Firesti",
+    "wof:lastmodified":1588367159,
+    "wof:name":"Fire\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":435,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.20917,
-    45.09954000000001,
-    24.20917,
-    45.09954000000001
+    24.20107,
+    45.100164,
+    24.207897,
+    45.105374
 ],
-  "geometry": {"coordinates":[24.20917,45.09954000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.204328,45.104961],[24.207897,45.102034],[24.204222,45.100164],[24.20107,45.103455],[24.203364,45.105374],[24.204328,45.104961]]],"type":"Polygon"}
 }

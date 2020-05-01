@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.97198,45.86438,21.97198,45.86438",
-    "geom:latitude":45.86438,
-    "geom:longitude":21.97198,
+    "geom:area":0.000079,
+    "geom:area_square_m":684475.83884,
+    "geom:bbox":"21.965428,45.855462,21.97905,45.868925",
+    "geom:latitude":45.862751,
+    "geom:longitude":21.970805,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155840.0",
     "gn:asciiname":"Cladova",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.95198,45.84438,21.99198,45.88438",
+    "lbl:latitude":45.86438,
+    "lbl:longitude":21.97198,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cladova"
@@ -53,7 +55,11 @@
         "Kladova",
         "B\u00e9gakalodva"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681349
+        "gn:id":681349,
+        "ro-ancpi:id":155868
     },
     "wof:country":"RO",
-    "wof:geomhash":"cd29d4acda31b3f6b89011f0c76b928f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d288752f0007139971a591bb79ce746",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +85,7 @@
         }
     ],
     "wof:id":1293153727,
-    "wof:lastmodified":1566610072,
+    "wof:lastmodified":1588366681,
     "wof:name":"Cladova",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -87,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.97198,
-    45.86438,
-    21.97198,
-    45.86438
+    21.965428,
+    45.855462,
+    21.97905,
+    45.868925
 ],
-  "geometry": {"coordinates":[21.97198,45.86438],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.976168,45.864262],[21.975744,45.862873],[21.9753,45.86171],[21.973596,45.857544],[21.972478,45.857993],[21.970944,45.858626],[21.969596,45.858872],[21.968805,45.857393],[21.967924,45.855462],[21.965725,45.85582],[21.967309,45.859283],[21.967533,45.859683],[21.968473,45.861603],[21.969218,45.863401],[21.968365,45.863583],[21.96688,45.863481],[21.966345,45.867004],[21.965428,45.867189],[21.965609,45.867855],[21.966278,45.868064],[21.966669,45.868471],[21.967143,45.868925],[21.967796,45.868787],[21.971501,45.867345],[21.973672,45.866413],[21.974769,45.866014],[21.974342,45.865063],[21.975075,45.86473],[21.976168,45.864262]]],[[[21.97905,45.863511],[21.97837,45.861951],[21.978131,45.86198],[21.978071,45.86183],[21.977016,45.861867],[21.978237,45.863626],[21.97905,45.863511]]]],"type":"MultiPolygon"}
 }

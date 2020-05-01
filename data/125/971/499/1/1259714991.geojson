@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.27348,47.2198,23.27348,47.2198",
-    "geom:latitude":47.2198,
-    "geom:longitude":23.27348,
+    "geom:area":0.000073,
+    "geom:area_square_m":611459.062173,
+    "geom:bbox":"23.268235,47.211099,23.279374,47.224832",
+    "geom:latitude":47.217962,
+    "geom:longitude":23.272991,
     "gn:admin1_code":"31",
     "gn:admin2_code":"140672",
     "gn:asciiname":"Borza",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.25348,47.1998,23.29348,47.2398",
+    "lbl:latitude":47.2198,
+    "lbl:longitude":23.27348,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Borza"
@@ -39,10 +41,17 @@
     "name:epo_x_preferred":[
         "Borza"
     ],
+    "name:ron_x_preferred":[
+        "Borza"
+    ],
     "name:swe_x_preferred":[
         "Borza"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684135
+        "gn:id":684135,
+        "ro-ancpi:id":140690
     },
     "wof:country":"RO",
-    "wof:geomhash":"da5bc0b48fa641cfebfac8a4f49b6f2e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1537277a6be59df1ecb1c25ddce5b5c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1259714991,
-    "wof:lastmodified":1566611565,
+    "wof:lastmodified":1588366853,
     "wof:name":"Borza",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
@@ -76,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.27348,
-    47.2198,
-    23.27348,
-    47.2198
+    23.268235,
+    47.211099,
+    23.279374,
+    47.224832
 ],
-  "geometry": {"coordinates":[23.27348,47.2198],"type":"Point"}
+  "geometry": {"coordinates":[[[23.269444,47.224832],[23.270087,47.223419],[23.271924,47.223649],[23.27298,47.22202],[23.273628,47.221272],[23.273696,47.220909],[23.27524,47.219989],[23.275576,47.220465],[23.276269,47.22012],[23.277888,47.219973],[23.279197,47.220123],[23.279374,47.219305],[23.278022,47.219237],[23.277886,47.218791],[23.27758,47.218322],[23.276506,47.214288],[23.27582,47.212864],[23.275639,47.212246],[23.275113,47.212375],[23.275245,47.211099],[23.272426,47.211754],[23.272658,47.213274],[23.271553,47.213634],[23.271294,47.214532],[23.27078,47.215207],[23.270172,47.216046],[23.269677,47.216462],[23.269749,47.217966],[23.268325,47.219817],[23.268481,47.221213],[23.268478,47.222552],[23.268734,47.223328],[23.268235,47.224463],[23.269444,47.224832]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.3741,45.98555,27.3741,45.98555",
-    "geom:latitude":45.98555,
-    "geom:longitude":27.3741,
+    "geom:area":0.000033,
+    "geom:area_square_m":285835.008185,
+    "geom:bbox":"27.366866,45.981686,27.378193,45.989156",
+    "geom:latitude":45.985534,
+    "geom:longitude":27.372658,
     "gn:admin1_code":"18",
     "gn:admin2_code":"77377.0",
     "gn:asciiname":"Tepu de Sus",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u0162epu de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Tepu de Sus"
+    ],
     "name:und_x_variant":[
         "Tepul-de-Sus",
         "\u0162epu de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665240
+        "gn:id":665240,
+        "ro-ancpi:id":77395
     },
     "wof:country":"RO",
-    "wof:geomhash":"c2c0062b0b7c2f9dcbccef6153b0bb3a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b471db3042084ebc8221f4e4bb7befa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1293859621,
-    "wof:lastmodified":1566610073,
-    "wof:name":"Tepu de Sus",
+    "wof:lastmodified":1588367048,
+    "wof:name":"\u0162epu de Sus",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:population":222,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.3741,
-    45.98555,
-    27.3741,
-    45.98555
+    27.366866,
+    45.981686,
+    27.378193,
+    45.989156
 ],
-  "geometry": {"coordinates":[27.3741,45.98555],"type":"Point"}
+  "geometry": {"coordinates":[[[27.378193,45.987773],[27.376189,45.987057],[27.374603,45.986553],[27.374499,45.985718],[27.373751,45.985718],[27.373727,45.985165],[27.375088,45.985169],[27.375104,45.983431],[27.374793,45.982519],[27.373842,45.982554],[27.373452,45.982087],[27.373604,45.981885],[27.373499,45.98185],[27.373215,45.981694],[27.37234,45.981686],[27.372355,45.981899],[27.371767,45.981941],[27.371873,45.982773],[27.370608,45.98389],[27.369224,45.984619],[27.368585,45.984693],[27.36708,45.984652],[27.366895,45.985039],[27.366866,45.985594],[27.36733,45.985591],[27.367608,45.985976],[27.368797,45.985951],[27.368961,45.986124],[27.369364,45.986122],[27.369087,45.986811],[27.370606,45.986951],[27.370724,45.987265],[27.372878,45.987135],[27.373861,45.988403],[27.374011,45.989156],[27.375895,45.988658],[27.377942,45.988412],[27.378193,45.987773]]],"type":"Polygon"}
 }

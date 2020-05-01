@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41667,45.25,24.41667,45.25",
-    "geom:latitude":45.25,
-    "geom:longitude":24.41667,
+    "geom:area":0.000038,
+    "geom:area_square_m":328934.613316,
+    "geom:bbox":"24.409848,45.240618,24.428873,45.252687",
+    "geom:latitude":45.247613,
+    "geom:longitude":24.421634,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3032,
@@ -44,6 +44,9 @@
         "Berisl\u0103ve\u0219ti"
     ],
     "name:ron_x_preferred":[
+        "Berisl\u0103ve\u015fti"
+    ],
+    "name:ron_x_variant":[
         "Berisl\u0103ve\u0219ti"
     ],
     "name:srp_x_preferred":[
@@ -66,7 +69,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":128012,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -78,11 +84,15 @@
     "wof:concordances":{
         "gn:id":684997,
         "qs_pg:id":128012,
+        "ro-ancpi:id":168693,
         "wd:id":"Q526754"
     },
     "wof:country":"RO",
     "wof:created":1497290381,
-    "wof:geomhash":"78f62679536f0c73d4813b0901be3351",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"e22bd6c18579369b8c62430d79ab62cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1125778807,
-    "wof:lastmodified":1566611409,
+    "wof:lastmodified":1588367025,
     "wof:name":"Berisl\u0103ve\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -104,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41667,
-    45.25,
-    24.41667,
-    45.25
+    24.409848,
+    45.240618,
+    24.428873,
+    45.252687
 ],
-  "geometry": {"coordinates":[24.41667,45.25],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.427975,45.248434],[24.427003,45.2483],[24.422525,45.249294],[24.419852,45.251616],[24.422421,45.252687],[24.428873,45.24979],[24.427975,45.248434]]],[[[24.424571,45.242017],[24.422974,45.241911],[24.420338,45.244978],[24.419316,45.245812],[24.418536,45.246824],[24.41727,45.247858],[24.418723,45.248329],[24.419233,45.247627],[24.420299,45.246224],[24.421325,45.246188],[24.424075,45.243609],[24.424578,45.242609],[24.424571,45.242017]]],[[[24.412458,45.240829],[24.411582,45.240618],[24.411748,45.242034],[24.410426,45.244611],[24.409848,45.24634],[24.4111,45.246365],[24.411137,45.245743],[24.410992,45.245136],[24.412418,45.242686],[24.412458,45.240829]]]],"type":"MultiPolygon"}
 }

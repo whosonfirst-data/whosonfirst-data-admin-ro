@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.07591,44.94261,24.07591,44.94261",
-    "geom:latitude":44.94261,
-    "geom:longitude":24.07591,
+    "geom:area":0.000023,
+    "geom:area_square_m":200043.302264,
+    "geom:bbox":"24.07226,44.936227,24.078415,44.943269",
+    "geom:latitude":44.939491,
+    "geom:longitude":24.074674,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172581.0",
     "gn:asciiname":"Ciocaltei",
@@ -26,16 +26,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.05591,44.92261,24.09591,44.96261",
+    "lbl:latitude":44.94261,
+    "lbl:longitude":24.07591,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cioc\u00e2ltei"
+    ],
+    "name:ron_x_variant":[
+        "Ciocaltei"
+    ],
     "name:und_x_variant":[
         "Cioc\u00e2lteni",
         "Cioc\u00eeltei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681723
+        "gn:id":681723,
+        "ro-ancpi:id":172634
     },
     "wof:country":"RO",
-    "wof:geomhash":"3bd4592fb8361ee59a7ec264e719ec4a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0ba700bfd044074b0975dca8a21f4804",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1360116017,
-    "wof:lastmodified":1566610630,
-    "wof:name":"Ciocaltei",
+    "wof:lastmodified":1588366796,
+    "wof:name":"Cioc\u00e2ltei",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":408,
@@ -69,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.07591,
-    44.94261,
-    24.07591,
-    44.94261
+    24.07226,
+    44.936227,
+    24.078415,
+    44.943269
 ],
-  "geometry": {"coordinates":[24.07591,44.94261],"type":"Point"}
+  "geometry": {"coordinates":[[[24.07226,44.942128],[24.073107,44.942394],[24.075868,44.943269],[24.076583,44.942322],[24.075271,44.941743],[24.075773,44.938373],[24.077757,44.938373],[24.078415,44.937154],[24.075808,44.936227],[24.072523,44.937793],[24.07226,44.942128]]],"type":"Polygon"}
 }

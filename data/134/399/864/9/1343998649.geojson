@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.11667,44.26667,25.11667,44.26667",
-    "geom:latitude":44.26667,
-    "geom:longitude":25.11667,
+    "geom:area":0.000039,
+    "geom:area_square_m":342422.608699,
+    "geom:bbox":"25.129261,44.258124,25.139912,44.265856",
+    "geom:latitude":44.261598,
+    "geom:longitude":25.13469,
     "gn:admin1_code":"35",
     "gn:admin2_code":"153437.0",
     "gn:asciiname":"Gardesti",
@@ -28,12 +28,21 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "G\u00e2rde\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gardesti"
+    ],
     "name:und_x_variant":[
         "G\u00eerde\u0219ti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677196
+        "gn:id":677196,
+        "ro-ancpi:id":153464
     },
     "wof:country":"RO",
-    "wof:geomhash":"1f64f9f98eee07938463d3a962db13d7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"89435dd7522b6ffd68feeb5cfe6de7b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1343998649,
-    "wof:lastmodified":1566609891,
-    "wof:name":"Gardesti",
+    "wof:lastmodified":1588367112,
+    "wof:name":"G\u00e2rde\u015fti",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":311,
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.11667000000001,
-    44.26667,
-    25.11667000000001,
-    44.26667
+    25.129261,
+    44.258124,
+    25.139912,
+    44.265856
 ],
-  "geometry": {"coordinates":[25.11667000000001,44.26667],"type":"Point"}
+  "geometry": {"coordinates":[[[25.136778,44.260936],[25.137213,44.260746],[25.138255,44.260944],[25.138609,44.260034],[25.138249,44.259723],[25.137756,44.259279],[25.137798,44.259237],[25.138235,44.258806],[25.138408,44.258652],[25.139416,44.259317],[25.139912,44.258826],[25.13902,44.25822],[25.138865,44.258124],[25.138749,44.258234],[25.138441,44.258523],[25.138165,44.258768],[25.137803,44.259125],[25.136565,44.258271],[25.134485,44.260043],[25.132865,44.258771],[25.131761,44.258895],[25.131019,44.259008],[25.129767,44.259793],[25.129301,44.260113],[25.129261,44.260244],[25.130648,44.261474],[25.132009,44.262619],[25.134083,44.264408],[25.13563,44.265856],[25.137552,44.264498],[25.138973,44.263435],[25.136252,44.261335],[25.136778,44.260936]]],"type":"Polygon"}
 }

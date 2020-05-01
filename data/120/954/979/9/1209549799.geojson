@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.14508,44.94822,24.14508,44.94822",
-    "geom:latitude":44.94822,
-    "geom:longitude":24.14508,
+    "geom:area":0.000009,
+    "geom:area_square_m":77256.943835,
+    "geom:bbox":"24.141955,44.946466,24.147351,44.950209",
+    "geom:latitude":44.94834,
+    "geom:longitude":24.144535,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173686.0",
     "gn:asciiname":"Valea Alunisului",
@@ -26,26 +26,42 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.12508,44.92822,24.16508,44.96822",
+    "lbl:latitude":44.94822,
+    "lbl:longitude":24.14508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Aluni\u015fului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Alunisului"
+    ],
     "name:und_x_variant":[
         "Valea Ni\u015fului",
         "Valea Aluni\u015fului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663930
+        "gn:id":663930,
+        "ro-ancpi:id":173739
     },
     "wof:country":"RO",
-    "wof:geomhash":"99d141c4657debad2d018e64a82ed962",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c088c35baad977a7c90472f10313b91f",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -53,8 +69,8 @@
         }
     ],
     "wof:id":1209549799,
-    "wof:lastmodified":1566610283,
-    "wof:name":"Valea Alunisului",
+    "wof:lastmodified":1588366727,
+    "wof:name":"Valea Aluni\u015fului",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":50,
@@ -65,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.14508,
-    44.94822,
-    24.14508,
-    44.94822
+    24.141955,
+    44.946466,
+    24.147351,
+    44.950209
 ],
-  "geometry": {"coordinates":[24.14508,44.94822],"type":"Point"}
+  "geometry": {"coordinates":[[[24.145474,44.94768],[24.142477,44.946466],[24.141955,44.946952],[24.143093,44.948549],[24.145139,44.950209],[24.145757,44.949798],[24.147351,44.948941],[24.145474,44.94768]]],"type":"Polygon"}
 }

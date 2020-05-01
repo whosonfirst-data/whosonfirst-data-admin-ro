@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.89006,46.83325,27.89006,46.83325",
-    "geom:latitude":46.83325,
-    "geom:longitude":27.89006,
+    "geom:area":0.000014,
+    "geom:area_square_m":116971.611833,
+    "geom:bbox":"27.883421,46.830329,27.892098,46.835631",
+    "geom:latitude":46.833313,
+    "geom:longitude":27.888825,
     "gn:admin1_code":"38",
     "gn:admin2_code":"162871.0",
     "gn:asciiname":"Talpigeni",
@@ -25,22 +25,38 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.87006,46.81325,27.91006,46.85325",
+    "lbl:latitude":46.83325,
+    "lbl:longitude":27.89006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "T\u0103lpigeni"
+    ],
+    "name:ron_x_variant":[
+        "Talpigeni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665585
+        "gn:id":665585,
+        "ro-ancpi:id":162915
     },
     "wof:country":"RO",
-    "wof:geomhash":"a9e6c590cf9be0eadf15d05178267712",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a2d350bf849a25168c48efdc06d60294",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +64,8 @@
         }
     ],
     "wof:id":1209666761,
-    "wof:lastmodified":1566610346,
-    "wof:name":"Talpigeni",
+    "wof:lastmodified":1588366739,
+    "wof:name":"T\u0103lpigeni",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":49,
@@ -60,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.89006,
-    46.83325,
-    27.89006,
-    46.83325
+    27.883421,
+    46.830329,
+    27.892098,
+    46.835631
 ],
-  "geometry": {"coordinates":[27.89006,46.83325],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.890456,46.833114],[27.891747,46.832749],[27.892098,46.830574],[27.891044,46.830329],[27.890192,46.83221],[27.888761,46.83195],[27.888251,46.83317],[27.886542,46.833089],[27.885903,46.834238],[27.88928,46.835631],[27.890456,46.833114]]],[[[27.885133,46.834463],[27.884657,46.833764],[27.883421,46.83414],[27.884568,46.835129],[27.885133,46.834463]]]],"type":"MultiPolygon"}
 }

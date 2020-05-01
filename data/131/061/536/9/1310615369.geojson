@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.15272,46.29334,23.15272,46.29334",
-    "geom:latitude":46.29334,
-    "geom:longitude":23.15272,
+    "geom:area":0.000005,
+    "geom:area_square_m":38602.740184,
+    "geom:bbox":"23.148935,46.291008,23.152234,46.294998",
+    "geom:latitude":46.292961,
+    "geom:longitude":23.150923,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3459.0",
     "gn:asciiname":"Muntari",
@@ -29,13 +29,19 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Muntari"
+    ],
     "name:und_x_variant":[
         "Bucium Muntari",
         "Muntari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672676
+        "gn:id":672676,
+        "ro-ancpi:id":3636
     },
     "wof:country":"RO",
-    "wof:geomhash":"1355e44ff4ff22c5d1c2f0f0ee8286c9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"63fd62c94a106dd0b83d571e4a6cf3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1310615369,
-    "wof:lastmodified":1566610587,
+    "wof:lastmodified":1588367090,
     "wof:name":"Muntari",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.15272,
-    46.29334,
-    23.15272,
-    46.29334
+    23.148935,
+    46.291008,
+    23.152234,
+    46.294998
 ],
-  "geometry": {"coordinates":[23.15272,46.29334],"type":"Point"}
+  "geometry": {"coordinates":[[[23.15115,46.291008],[23.150923,46.291266],[23.151545,46.291892],[23.150892,46.292224],[23.150046,46.292386],[23.14979,46.291956],[23.148935,46.292166],[23.149271,46.292605],[23.149893,46.292922],[23.15042,46.293362],[23.150545,46.293677],[23.150603,46.294367],[23.151287,46.294998],[23.152148,46.294674],[23.15195,46.294376],[23.151367,46.29396],[23.150953,46.293095],[23.151785,46.292833],[23.151773,46.29237],[23.152234,46.292089],[23.152123,46.291624],[23.15115,46.291008]]],"type":"Polygon"}
 }

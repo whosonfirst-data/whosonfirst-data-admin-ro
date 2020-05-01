@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.9539,46.80227,24.9539,46.80227",
-    "geom:latitude":46.80227,
-    "geom:longitude":24.9539,
+    "geom:area":0.000005,
+    "geom:area_square_m":39437.664526,
+    "geom:bbox":"24.944611,46.814083,24.948346,46.81703",
+    "geom:latitude":46.815498,
+    "geom:longitude":24.946472,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117426",
     "gn:asciiname":"Bicasu",
@@ -28,12 +28,21 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Bik\u00e1s"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bica\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Bicasu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684926
+        "gn:id":684926,
+        "ro-ancpi:id":117453
     },
     "wof:country":"RO",
-    "wof:geomhash":"7d88676b421993f162dac4b96ac7664b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"61903c41baa8d80df37b0f044e18b079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +68,8 @@
         }
     ],
     "wof:id":1243508691,
-    "wof:lastmodified":1566611482,
-    "wof:name":"Bicasu",
+    "wof:lastmodified":1588367150,
+    "wof:name":"Bica\u015fu",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":129,
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.9539,
-    46.80227,
-    24.9539,
-    46.80227
+    24.944611,
+    46.814083,
+    24.948346,
+    46.81703
 ],
-  "geometry": {"coordinates":[24.9539,46.80227],"type":"Point"}
+  "geometry": {"coordinates":[[[24.946374,46.81476],[24.946155,46.814083],[24.944611,46.814449],[24.946269,46.816178],[24.945758,46.816504],[24.946442,46.81703],[24.948346,46.815797],[24.94685,46.814792],[24.946374,46.81476]]],"type":"Polygon"}
 }

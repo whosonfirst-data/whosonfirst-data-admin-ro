@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.05868,44.82445,26.05868,44.82445",
-    "geom:latitude":44.82445,
-    "geom:longitude":26.05868,
+    "geom:area":0.000023,
+    "geom:area_square_m":203066.337035,
+    "geom:bbox":"26.050837,44.820761,26.058983,44.824949",
+    "geom:latitude":44.822767,
+    "geom:longitude":26.054945,
     "gn:admin1_code":"30",
     "gn:admin2_code":"134942.0",
     "gn:asciiname":"Odaile",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.03868,44.80445,26.07868,44.84445",
+    "lbl:latitude":44.82445,
+    "lbl:longitude":26.05868,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Od\u0103ile"
+    ],
+    "name:ron_x_variant":[
+        "Odaile"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671985
+        "gn:id":671985,
+        "ro-ancpi:id":134988
     },
     "wof:country":"RO",
-    "wof:geomhash":"40603c3462eaee2a2c71b16b5ece2e46",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f36a31c75bfdfe0dbb39ae11b9460332",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1209876765,
-    "wof:lastmodified":1566610379,
-    "wof:name":"Odaile",
+    "wof:lastmodified":1588366745,
+    "wof:name":"Od\u0103ile",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":625,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.05868,
-    44.82445,
-    26.05868,
-    44.82445
+    26.050837,
+    44.820761,
+    26.058983,
+    44.824949
 ],
-  "geometry": {"coordinates":[26.05868,44.82445],"type":"Point"}
+  "geometry": {"coordinates":[[[26.058983,44.824418],[26.058823,44.823882],[26.05773,44.820761],[26.054275,44.821095],[26.051356,44.821567],[26.050837,44.823586],[26.050859,44.823594],[26.052011,44.824041],[26.053753,44.824949],[26.054562,44.824411],[26.054976,44.824127],[26.055531,44.823933],[26.056146,44.823836],[26.056482,44.823885],[26.056948,44.824099],[26.057837,44.824641],[26.058078,44.824788],[26.058407,44.824551],[26.058808,44.824456],[26.058983,44.824418]]],"type":"Polygon"}
 }

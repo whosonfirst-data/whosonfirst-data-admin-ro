@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.04892,44.8463,24.04892,44.8463",
-    "geom:latitude":44.8463,
-    "geom:longitude":24.04892,
+    "geom:area":0.000009,
+    "geom:area_square_m":81284.267523,
+    "geom:bbox":"24.055207,44.845684,24.062853,44.848445",
+    "geom:latitude":44.846866,
+    "geom:longitude":24.058808,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170685.0",
     "gn:asciiname":"Cermegesti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cermege\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cermegesti"
+    ],
     "name:und_x_variant":[
         "Germege\u015fti",
         "Cermege\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682352
+        "gn:id":682352,
+        "ro-ancpi:id":170701
     },
     "wof:country":"RO",
-    "wof:geomhash":"4b22ac661a174bd64a1633e7fda84b22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9efd5d92e1316d364c7c1951c171e18c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1293518737,
-    "wof:lastmodified":1566610101,
-    "wof:name":"Cermegesti",
+    "wof:lastmodified":1588367016,
+    "wof:name":"Cermege\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":356,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.04892000000001,
-    44.8463,
-    24.04892000000001,
-    44.8463
+    24.055207,
+    44.845684,
+    24.062853,
+    44.848445
 ],
-  "geometry": {"coordinates":[24.04892000000001,44.8463],"type":"Point"}
+  "geometry": {"coordinates":[[[24.060353,44.845969],[24.060001,44.84591],[24.059376,44.845813],[24.058985,44.845741],[24.057345,44.845686],[24.057119,44.845684],[24.057082,44.845687],[24.056968,44.84571],[24.056845,44.845732],[24.056772,44.845723],[24.056708,44.845718],[24.056488,44.84569],[24.056351,44.845684],[24.056141,44.845689],[24.055999,44.8457],[24.055734,44.845707],[24.055558,44.845727],[24.055485,44.84573],[24.055207,44.846908],[24.056056,44.847327],[24.056369,44.847474],[24.057896,44.847255],[24.057854,44.8471],[24.057429,44.846617],[24.056989,44.846163],[24.057608,44.846052],[24.057815,44.846112],[24.058003,44.846288],[24.058165,44.846397],[24.05861,44.846874],[24.059103,44.847226],[24.060083,44.84777],[24.06136,44.848445],[24.061673,44.848157],[24.062131,44.848432],[24.062853,44.847554],[24.059209,44.846193],[24.060353,44.845969]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.41926,46.81469,25.41926,46.81469",
-    "geom:latitude":46.81469,
-    "geom:longitude":25.41926,
+    "geom:area":0.000048,
+    "geom:area_square_m":404094.280141,
+    "geom:bbox":"25.412287,46.807076,25.438618,46.816002",
+    "geom:latitude":46.810754,
+    "geom:longitude":25.428157,
     "gn:admin1_code":"20",
     "gn:admin2_code":"85412.0",
     "gn:asciiname":"Sineu",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.39926,46.79469,25.43926,46.83469",
+    "lbl:latitude":46.81469,
+    "lbl:longitude":25.41926,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u064a\u0648"
@@ -79,6 +81,9 @@
     "name:por_x_preferred":[
         "Sineu"
     ],
+    "name:ron_x_preferred":[
+        "Sineu"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0435\u0443"
     ],
@@ -111,7 +116,11 @@
     "name:zho_x_preferred":[
         "\u897f\u5185\u4e4c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -120,10 +129,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667039
+        "gn:id":667039,
+        "ro-ancpi:id":85458
     },
     "wof:country":"RO",
-    "wof:geomhash":"35ed101a7df6c01e42f917de2cc98cde",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96b19b43e4b09b6a6d0947cc645ecf31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -133,7 +146,7 @@
         }
     ],
     "wof:id":1360259641,
-    "wof:lastmodified":1566610617,
+    "wof:lastmodified":1588366793,
     "wof:name":"Sineu",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
@@ -145,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.41926,
-    46.81469,
-    25.41926,
-    46.81469
+    25.412287,
+    46.807076,
+    25.438618,
+    46.816002
 ],
-  "geometry": {"coordinates":[25.41926,46.81469],"type":"Point"}
+  "geometry": {"coordinates":[[[[25.437586,46.811636],[25.437337,46.810666],[25.437363,46.80951],[25.438618,46.80812],[25.435814,46.807076],[25.431874,46.807277],[25.422817,46.809679],[25.42093,46.809985],[25.420904,46.81168],[25.422615,46.811619],[25.422808,46.810469],[25.431475,46.808109],[25.433496,46.811634],[25.434473,46.811643],[25.434792,46.810896],[25.436123,46.810828],[25.436042,46.811338],[25.435812,46.811806],[25.435521,46.812743],[25.438268,46.812941],[25.438305,46.812165],[25.437572,46.812136],[25.437586,46.811636]]],[[[25.41243,46.816002],[25.417836,46.814591],[25.418006,46.814934],[25.422007,46.814289],[25.422595,46.813069],[25.422007,46.812969],[25.42115,46.813661],[25.414504,46.814214],[25.413952,46.812273],[25.412687,46.81251],[25.413075,46.814203],[25.41275,46.815159],[25.412287,46.81554],[25.41243,46.816002]]]],"type":"MultiPolygon"}
 }

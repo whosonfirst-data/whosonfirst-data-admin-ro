@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.25109,45.00398,24.25109,45.00398",
-    "geom:latitude":45.00398,
-    "geom:longitude":24.25109,
+    "geom:area":0.000119,
+    "geom:area_square_m":1042882.465647,
+    "geom:bbox":"24.241449,44.996141,24.257655,45.012317",
+    "geom:latitude":45.005067,
+    "geom:longitude":24.24753,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171325.0",
     "gn:asciiname":"Magura",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.23109,44.98398,24.27109,45.02398",
+    "lbl:latitude":45.00398,
+    "lbl:longitude":24.25109,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Magura"
@@ -49,6 +51,9 @@
         "Magura"
     ],
     "name:ron_x_preferred":[
+        "M\u0103gura"
+    ],
+    "name:ron_x_variant":[
         "Magura"
     ],
     "name:rus_x_preferred":[
@@ -66,7 +71,11 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0491\u0443\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674158
+        "gn:id":674158,
+        "ro-ancpi:id":171389
     },
     "wof:country":"RO",
-    "wof:geomhash":"7caaef2d2bac361cc61e4d5eaf0cfa60",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8c356bc929b212684f65131b98716c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,8 +101,8 @@
         }
     ],
     "wof:id":1309835393,
-    "wof:lastmodified":1566611235,
-    "wof:name":"Magura",
+    "wof:lastmodified":1588366803,
+    "wof:name":"M\u0103gura",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":544,
@@ -100,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.25109,
-    45.00398,
-    24.25109,
-    45.00398
+    24.241449,
+    44.996141,
+    24.257655,
+    45.012317
 ],
-  "geometry": {"coordinates":[24.25109,45.00398],"type":"Point"}
+  "geometry": {"coordinates":[[[24.242983,44.996239],[24.241628,44.996141],[24.241647,44.996507],[24.241719,44.997685],[24.241736,44.998301],[24.241747,44.998452],[24.24177,44.998591],[24.241781,44.998711],[24.241772,44.998925],[24.241682,45.000027],[24.241599,45.001962],[24.241488,45.003678],[24.241449,45.004312],[24.241465,45.004477],[24.241526,45.004673],[24.241934,45.005657],[24.242434,45.006816],[24.243159,45.00852],[24.243477,45.00925],[24.244349,45.011298],[24.244654,45.012001],[24.244672,45.012065],[24.244714,45.01222],[24.244725,45.012317],[24.246361,45.01207],[24.249465,45.010617],[24.251213,45.006922],[24.257448,45.006695],[24.257655,45.005357],[24.256353,45.003785],[24.251269,45.00268],[24.248153,45.000292],[24.244314,45.000267],[24.244458,44.998883],[24.242887,44.998739],[24.242983,44.996239]]],"type":"Polygon"}
 }

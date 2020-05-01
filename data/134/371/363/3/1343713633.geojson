@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"29.23129,45.38797,29.23129,45.38797",
-    "geom:latitude":45.38797,
-    "geom:longitude":29.23129,
+    "geom:area":0.000025,
+    "geom:area_square_m":219238.104082,
+    "geom:bbox":"29.185869,45.385172,29.232363,45.399291",
+    "geom:latitude":45.391856,
+    "geom:longitude":29.210549,
     "gn:admin1_code":"37",
     "gn:admin2_code":"160172.0",
     "gn:asciiname":"Ostrovu Tataru",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"29.21129,45.36797,29.25129,45.40797",
+    "lbl:latitude":45.38797,
+    "lbl:longitude":29.23129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ostrovu T\u0103taru"
+    ],
+    "name:ron_x_variant":[
+        "Ostrovu Tataru"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671612
+        "gn:id":671612,
+        "ro-ancpi:id":160207
     },
     "wof:country":"RO",
-    "wof:geomhash":"c2dcd7eadacc5defcf857d1c1c534cb3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"07a0288c4033aa954bb9e59d8eab10e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +67,8 @@
         }
     ],
     "wof:id":1343713633,
-    "wof:lastmodified":1566609924,
-    "wof:name":"Ostrovu Tataru",
+    "wof:lastmodified":1588366656,
+    "wof:name":"Ostrovu T\u0103taru",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.23129,
-    45.38797,
-    29.23129,
-    45.38797
+    29.185869,
+    45.385172,
+    29.232363,
+    45.399291
 ],
-  "geometry": {"coordinates":[29.23129,45.38797],"type":"Point"}
+  "geometry": {"coordinates":[[[[29.230936,45.386663],[29.228571,45.385546],[29.228245,45.385767],[29.226513,45.385172],[29.226102,45.385782],[29.228022,45.386434],[29.226974,45.387678],[29.226994,45.387934],[29.22774,45.388453],[29.22805,45.388634],[29.228289,45.388786],[29.229535,45.389736],[29.232363,45.388056],[29.230936,45.386663]]],[[[29.191322,45.394776],[29.190155,45.394545],[29.189873,45.394617],[29.189369,45.395],[29.188652,45.395796],[29.188371,45.396272],[29.187889,45.396553],[29.187366,45.397059],[29.186812,45.397342],[29.185869,45.398015],[29.187805,45.399291],[29.189435,45.398015],[29.189945,45.397905],[29.190138,45.397604],[29.190577,45.397315],[29.190433,45.397118],[29.19067,45.396633],[29.190486,45.396488],[29.191283,45.395598],[29.191502,45.395458],[29.19183,45.39503],[29.191322,45.394776]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.60212,44.65714,24.60212,44.65714",
-    "geom:latitude":44.65714,
-    "geom:longitude":24.60212,
+    "geom:area":0.000035,
+    "geom:area_square_m":304347.248985,
+    "geom:bbox":"24.596246,44.651352,24.607064,44.661079",
+    "geom:latitude":44.655904,
+    "geom:longitude":24.60152,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129317",
     "gn:asciiname":"Barbalai",
@@ -25,12 +25,24 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.58212,44.63714,24.62212,44.67714",
+    "lbl:latitude":44.65714,
+    "lbl:longitude":24.60212,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103rb\u0103l\u0103i"
+    ],
+    "name:ron_x_variant":[
+        "Barbalai"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685394
+        "gn:id":685394,
+        "ro-ancpi:id":129335
     },
     "wof:country":"RO",
-    "wof:geomhash":"6c85134e72cec6f77e81f0e2a86ddec5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96f5e165030320d7472cb79b967ebdd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +68,8 @@
         }
     ],
     "wof:id":1343622691,
-    "wof:lastmodified":1566609881,
-    "wof:name":"Barbalai",
+    "wof:lastmodified":1588367162,
+    "wof:name":"B\u0103rb\u0103l\u0103i",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":159,
@@ -64,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.60212000000001,
-    44.65714000000001,
-    24.60212000000001,
-    44.65714000000001
+    24.596246,
+    44.651352,
+    24.607064,
+    44.661079
 ],
-  "geometry": {"coordinates":[24.60212000000001,44.65714000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.607064,44.651873],[24.606507,44.651776],[24.606101,44.651749],[24.605457,44.651615],[24.604239,44.651434],[24.603762,44.651352],[24.600496,44.654819],[24.599297,44.654468],[24.598684,44.655246],[24.599842,44.655625],[24.596246,44.660347],[24.598713,44.661079],[24.601716,44.657603],[24.605114,44.654403],[24.606258,44.652904],[24.607064,44.651873]]],"type":"Polygon"}
 }

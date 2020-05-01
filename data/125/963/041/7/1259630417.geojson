@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.20947,44.26782,24.20947,44.26782",
-    "geom:latitude":44.26782,
-    "geom:longitude":24.20947,
+    "geom:area":0.000019,
+    "geom:area_square_m":171690.093388,
+    "geom:bbox":"24.2051,44.263179,24.214143,44.268855",
+    "geom:latitude":44.265998,
+    "geom:longitude":24.209755,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126825.0",
     "gn:asciiname":"Chilii",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.18947,44.24782,24.22947,44.28782",
+    "lbl:latitude":44.26782,
+    "lbl:longitude":24.20947,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chilii"
@@ -46,7 +48,11 @@
     "name:und_x_variant":[
         "Chilia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682128
+        "gn:id":682128,
+        "ro-ancpi:id":126852
     },
     "wof:country":"RO",
-    "wof:geomhash":"9730397ac64cc12b8e7463494c726dc7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"281be261b8170eb65038767561c7466c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1259630417,
-    "wof:lastmodified":1566611545,
+    "wof:lastmodified":1588366849,
     "wof:name":"Chilii",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -80,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.20947,
-    44.26782,
-    24.20947,
-    44.26782
+    24.2051,
+    44.263179,
+    24.214143,
+    44.268855
 ],
-  "geometry": {"coordinates":[24.20947,44.26782],"type":"Point"}
+  "geometry": {"coordinates":[[[24.2051,44.267423],[24.206985,44.268855],[24.209571,44.267779],[24.20893,44.267106],[24.209448,44.26683],[24.211493,44.266625],[24.213403,44.265383],[24.212999,44.265136],[24.213833,44.264459],[24.213527,44.264073],[24.214143,44.263757],[24.213355,44.263179],[24.212638,44.263823],[24.212263,44.263569],[24.211535,44.263571],[24.208296,44.265357],[24.206534,44.266748],[24.20544,44.267256],[24.2051,44.267423]]],"type":"Polygon"}
 }

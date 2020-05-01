@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2501,44.42765,24.2501,44.42765",
-    "geom:latitude":44.42765,
-    "geom:longitude":24.2501,
+    "geom:area":0.000117,
+    "geom:area_square_m":1034408.526698,
+    "geom:bbox":"24.239431,44.420329,24.262615,44.43394",
+    "geom:latitude":44.426954,
+    "geom:longitude":24.249886,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127064.0",
     "gn:asciiname":"Izvoru",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.2301,44.40765,24.2701,44.44765",
+    "lbl:latitude":44.42765,
+    "lbl:longitude":24.2501,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u0632\u0641\u0648\u0631\u0648"
@@ -77,7 +79,11 @@
     "name:zho_x_preferred":[
         "\u4f0a\u8332\u6c83\u9b6f\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -86,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675353
+        "gn:id":675353,
+        "ro-ancpi:id":127108
     },
     "wof:country":"RO",
-    "wof:geomhash":"52223068deffaf7ac08f4fc139fb8703",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d038a7ee37481d404b1f6251be2ea335",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +109,7 @@
         }
     ],
     "wof:id":1326791733,
-    "wof:lastmodified":1566609831,
+    "wof:lastmodified":1588366638,
     "wof:name":"Izvoru",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -111,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2501,
-    44.42765,
-    24.2501,
-    44.42765
+    24.239431,
+    44.420329,
+    24.262615,
+    44.43394
 ],
-  "geometry": {"coordinates":[24.2501,44.42765],"type":"Point"}
+  "geometry": {"coordinates":[[[24.2539,44.42839],[24.255806,44.428073],[24.257191,44.42925],[24.258214,44.429347],[24.258291,44.428254],[24.262615,44.428462],[24.262614,44.426905],[24.257308,44.42672],[24.257114,44.422271],[24.253914,44.422429],[24.249541,44.422895],[24.248884,44.420329],[24.247503,44.4205],[24.248599,44.424566],[24.245984,44.424788],[24.242182,44.426245],[24.241588,44.426915],[24.239431,44.42726],[24.239494,44.428863],[24.239806,44.42891],[24.239545,44.429687],[24.245549,44.430895],[24.244636,44.433615],[24.246137,44.43394],[24.247527,44.431478],[24.250966,44.429015],[24.2539,44.42839]]],"type":"Polygon"}
 }

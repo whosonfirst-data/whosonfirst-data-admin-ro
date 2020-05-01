@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.83333,46.28333,24.83333,46.28333",
-    "geom:latitude":46.28333,
-    "geom:longitude":24.83333,
+    "geom:area":0.000004,
+    "geom:area_square_m":32314.475571,
+    "geom:bbox":"24.83104,46.292625,24.836396,46.29636",
+    "geom:latitude":46.294065,
+    "geom:longitude":24.834431,
     "gn:admin1_code":"27",
     "gn:admin2_code":"114603",
     "gn:asciiname":"Barlibasoaia",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "B\u00e2rlib\u0103\u015foaia"
+    ],
+    "name:ron_x_variant":[
+        "Barlibasoaia"
+    ],
     "name:und_x_variant":[
         "B\u00e2rlib\u0103\u015foaia",
         "B\u00eerlib\u0103\u015foaia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684789
+        "gn:id":684789,
+        "ro-ancpi:id":114621
     },
     "wof:country":"RO",
-    "wof:geomhash":"0c7ffbd7040743c3ce668731cffd307d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"25aa53ea69c334840dbe1d4307960f26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1226096369,
-    "wof:lastmodified":1566611712,
-    "wof:name":"Barlibasoaia",
+    "wof:lastmodified":1588367133,
+    "wof:name":"B\u00e2rlib\u0103\u015foaia",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.83333,
-    46.28333,
-    24.83333,
-    46.28333
+    24.83104,
+    46.292625,
+    24.836396,
+    46.29636
 ],
-  "geometry": {"coordinates":[24.83333,46.28333],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.834255,46.294579],[24.83479,46.294213],[24.8352,46.29454],[24.836396,46.293758],[24.836327,46.293522],[24.835287,46.292648],[24.83513,46.292625],[24.835109,46.292676],[24.835048,46.292773],[24.834972,46.292863],[24.834898,46.292952],[24.834799,46.293049],[24.834637,46.29317],[24.834432,46.293287],[24.834224,46.293391],[24.834107,46.293461],[24.833853,46.293622],[24.833603,46.293805],[24.83323,46.29413],[24.833666,46.294342],[24.834255,46.294579]]],[[[24.831888,46.29546],[24.831753,46.295452],[24.831691,46.295503],[24.831539,46.295639],[24.831194,46.295931],[24.83104,46.296055],[24.831135,46.296083],[24.831793,46.29636],[24.832076,46.29598],[24.832212,46.295719],[24.83222,46.295622],[24.83221,46.295573],[24.832174,46.295539],[24.83211,46.295498],[24.831888,46.29546]]]],"type":"MultiPolygon"}
 }

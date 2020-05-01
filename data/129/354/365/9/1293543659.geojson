@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.37286,46.71628,24.37286,46.71628",
-    "geom:latitude":46.71628,
-    "geom:longitude":24.37286,
+    "geom:area":0.000001,
+    "geom:area_square_m":12093.490489,
+    "geom:bbox":"24.374395,46.714602,24.377214,46.715638",
+    "geom:latitude":46.715066,
+    "geom:longitude":24.375675,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118995.0",
     "gn:asciiname":"Hagau",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Hag\u0103u"
+    ],
+    "name:ron_x_variant":[
+        "Hagau"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676401
+        "gn:id":676401,
+        "ro-ancpi:id":119055
     },
     "wof:country":"RO",
-    "wof:geomhash":"9a45add8da5bb88ab60c42ce2f8a62b7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"36738c42cd1bde6f517a3f4f5103af50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293543659,
-    "wof:lastmodified":1566610033,
-    "wof:name":"Hagau",
+    "wof:lastmodified":1588367133,
+    "wof:name":"Hag\u0103u",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":59,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.37286,
-    46.71628,
-    24.37286,
-    46.71628
+    24.374395,
+    46.714602,
+    24.377214,
+    46.715638
 ],
-  "geometry": {"coordinates":[24.37286,46.71628],"type":"Point"}
+  "geometry": {"coordinates":[[[24.377054,46.714776],[24.375837,46.714602],[24.374395,46.715171],[24.374552,46.715638],[24.377214,46.714963],[24.377054,46.714776]]],"type":"Polygon"}
 }

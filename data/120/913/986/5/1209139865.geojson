@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.31679,44.86764,24.31679,44.86764",
-    "geom:latitude":44.86764,
-    "geom:longitude":24.31679,
+    "geom:area":0.000074,
+    "geom:area_square_m":645796.047813,
+    "geom:bbox":"24.308418,44.866171,24.332852,44.872375",
+    "geom:latitude":44.868921,
+    "geom:longitude":24.323561,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171806.0",
     "gn:asciiname":"Casa Veche",
@@ -25,22 +25,35 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.29679,44.84764,24.33679,44.88764",
+    "lbl:latitude":44.86764,
+    "lbl:longitude":24.31679,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Casa Veche"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682622
+        "gn:id":682622,
+        "ro-ancpi:id":171824
     },
     "wof:country":"RO",
-    "wof:geomhash":"5f65714b400815161e2d57b58af26efa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"790600abeed65febf602133e93e1abc2",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,7 +61,7 @@
         }
     ],
     "wof:id":1209139865,
-    "wof:lastmodified":1566610338,
+    "wof:lastmodified":1588366737,
     "wof:name":"Casa Veche",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.31679,
-    44.86764,
-    24.31679,
-    44.86764
+    24.308418,
+    44.866171,
+    24.332852,
+    44.872375
 ],
-  "geometry": {"coordinates":[24.31679,44.86764],"type":"Point"}
+  "geometry": {"coordinates":[[[24.322388,44.872375],[24.326789,44.871503],[24.32787,44.872213],[24.332509,44.871552],[24.332852,44.868565],[24.332626,44.866949],[24.332094,44.866867],[24.328673,44.86743],[24.326499,44.867496],[24.320147,44.867269],[24.316366,44.866363],[24.308421,44.866171],[24.308418,44.867245],[24.310652,44.867669],[24.31668,44.868195],[24.316795,44.86909],[24.321572,44.869359],[24.322023,44.870881],[24.322388,44.872375]]],"type":"Polygon"}
 }

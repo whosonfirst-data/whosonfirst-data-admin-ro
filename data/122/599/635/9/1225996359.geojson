@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.31551,44.97343,28.31551,44.97343",
-    "geom:latitude":44.97343,
-    "geom:longitude":28.31551,
+    "geom:area":0.000001,
+    "geom:area_square_m":9106.793197,
+    "geom:bbox":"28.307313,44.973963,28.309287,44.975021",
+    "geom:latitude":44.974364,
+    "geom:longitude":28.308455,
     "gn:admin1_code":"37",
     "gn:admin2_code":"160323",
     "gn:asciiname":"Ardealu",
@@ -29,8 +29,11 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Ardealu"
+    ],
     "name:und_x_variant":[
         "Hasanlar",
         "Ardealul",
@@ -38,7 +41,10 @@
         "Ardeal",
         "Ardealu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191581,
         85633745,
@@ -46,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686215
+        "gn:id":686215,
+        "ro-ancpi:id":160341
     },
     "wof:country":"RO",
-    "wof:geomhash":"12816f0ccee61ca08fda74d82cf8da87",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"45c369987e7c72d323166474179a8d5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1225996359,
-    "wof:lastmodified":1566611660,
+    "wof:lastmodified":1588367160,
     "wof:name":"Ardealu",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",
@@ -69,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.31551,
-    44.97343,
-    28.31551,
-    44.97343
+    28.307313,
+    44.973963,
+    28.309287,
+    44.975021
 ],
-  "geometry": {"coordinates":[28.31551,44.97343],"type":"Point"}
+  "geometry": {"coordinates":[[[28.308786,44.974001],[28.308137,44.973963],[28.307313,44.974036],[28.308819,44.975021],[28.309287,44.974339],[28.308786,44.974001]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.16102,43.777542,24.16102,43.777542",
-    "geom:latitude":43.777542,
-    "geom:longitude":24.16102,
+    "geom:area":0.000239,
+    "geom:area_square_m":2136373.131098,
+    "geom:bbox":"24.159094,43.775099,24.193016,43.792279",
+    "geom:latitude":43.784473,
+    "geom:longitude":24.176768,
     "gn:population":4347,
     "iso:country":"RO",
     "lbl:bbox":"24.14102,43.757542,24.18102,43.797542",
@@ -68,10 +68,11 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
-    "src:geom":"whosonfirst",
+    "src:geom":"ro-ancpi",
     "src:geom_alt":[
         "quattroshapes_pg",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -87,14 +88,16 @@
         "gn:id":675841,
         "gp:id":873896,
         "qs_pg:id":275274,
+        "ro-ancpi:id":127260,
         "wd:id":"Q767526"
     },
     "wof:country":"RO",
     "wof:geom_alt":[
         "quattroshapes",
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "whosonfirst"
     ],
-    "wof:geomhash":"0a5feb9bdf1fefbd274b1800e3c20551",
+    "wof:geomhash":"22ac1a0449770206d166396d06fc9169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +110,7 @@
     "wof:lang":[
         "rum"
     ],
-    "wof:lastmodified":1582311905,
+    "wof:lastmodified":1588367103,
     "wof:name":"Ianca",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -119,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.16102,
-    43.777542,
-    24.16102,
-    43.777542
+    24.159094,
+    43.775099,
+    24.193016,
+    43.792279
 ],
-  "geometry": {"coordinates":[24.16102,43.777542],"type":"Point"}
+  "geometry": {"coordinates":[[[24.160461,43.792143],[24.169512,43.790285],[24.169744,43.790834],[24.170636,43.79069],[24.170968,43.791358],[24.172019,43.791177],[24.176503,43.789739],[24.180539,43.788207],[24.183873,43.787084],[24.185812,43.784374],[24.18693,43.783715],[24.193016,43.782167],[24.188384,43.777849],[24.18962,43.777123],[24.187007,43.775099],[24.184892,43.776503],[24.180722,43.778295],[24.175356,43.7803],[24.170473,43.782176],[24.166283,43.784566],[24.16729,43.786786],[24.161705,43.788093],[24.159176,43.788632],[24.159623,43.789559],[24.159094,43.790264],[24.159881,43.792279],[24.160461,43.792143]]],"type":"Polygon"}
 }

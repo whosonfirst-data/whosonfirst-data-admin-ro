@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.45724,44.65251,25.45724,44.65251",
-    "geom:latitude":44.65251,
-    "geom:longitude":25.45724,
+    "geom:area":0.000067,
+    "geom:area_square_m":590251.368727,
+    "geom:bbox":"25.445508,44.646948,25.464595,44.661536",
+    "geom:latitude":44.653042,
+    "geom:longitude":25.452906,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68048.0",
     "gn:asciiname":"Putu cu Salcie",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.43724,44.63251,25.47724,44.67251",
+    "lbl:latitude":44.65251,
+    "lbl:longitude":25.45724,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pu\u0163u Cu Salcie"
+    ],
+    "name:ron_x_variant":[
+        "Putu cu Salcie"
+    ],
     "name:und_x_variant":[
         "Pu\u0163u cu Salcia",
         "Pu\u0163ul-cu-Salcie",
         "Pu\u0163u cu Salcie"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669419
+        "gn:id":669419,
+        "ro-ancpi:id":68100
     },
     "wof:country":"RO",
-    "wof:geomhash":"84c26000b07de904082c918868a0bd05",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f919fa3cd6114756f8d22fccd9679e21",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1327107061,
-    "wof:lastmodified":1566609863,
-    "wof:name":"Putu cu Salcie",
+    "wof:lastmodified":1588366644,
+    "wof:name":"Pu\u0163u Cu Salcie",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":766,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.45724,
-    44.65251,
-    25.45724,
-    44.65251
+    25.445508,
+    44.646948,
+    25.464595,
+    44.661536
 ],
-  "geometry": {"coordinates":[25.45724,44.65251],"type":"Point"}
+  "geometry": {"coordinates":[[[25.464187,44.653179],[25.464469,44.653003],[25.464571,44.652868],[25.464595,44.652451],[25.4584,44.652132],[25.450364,44.648379],[25.448381,44.648086],[25.447351,44.646948],[25.445896,44.647639],[25.446421,44.648266],[25.445802,44.64844],[25.446024,44.648753],[25.445508,44.649341],[25.446513,44.649837],[25.447193,44.649791],[25.448038,44.650345],[25.446354,44.652905],[25.447403,44.653577],[25.448973,44.652142],[25.449992,44.652781],[25.451066,44.651876],[25.455122,44.653546],[25.455408,44.654302],[25.449802,44.659168],[25.448778,44.660964],[25.449909,44.661536],[25.451928,44.661405],[25.451701,44.660518],[25.451001,44.660592],[25.451218,44.660177],[25.456584,44.655369],[25.457509,44.655822],[25.458364,44.655133],[25.45738,44.654708],[25.457757,44.654307],[25.456566,44.653097],[25.456706,44.653011],[25.45735,44.653437],[25.459592,44.653542],[25.460879,44.654251],[25.461496,44.653834],[25.460649,44.65308],[25.464187,44.653179]]],"type":"Polygon"}
 }

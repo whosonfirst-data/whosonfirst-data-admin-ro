@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.8007,44.91359,23.8007,44.91359",
-    "geom:latitude":44.91359,
-    "geom:longitude":23.8007,
+    "geom:area":0.000057,
+    "geom:area_square_m":496950.491708,
+    "geom:bbox":"23.788249,44.911536,23.799842,44.922543",
+    "geom:latitude":44.91649,
+    "geom:longitude":23.794499,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170346.0",
     "gn:asciiname":"Diaconesti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Diacone\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Diaconesti"
+    ],
     "name:und_x_variant":[
         "Deacone\u015fti",
         "Diacone\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679438
+        "gn:id":679438,
+        "ro-ancpi:id":170364
     },
     "wof:country":"RO",
-    "wof:geomhash":"ee287b11262967026811cc911bf6232b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4d3342e4dc8f7dd0bc5428e721f68c90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1259513843,
-    "wof:lastmodified":1566611587,
-    "wof:name":"Diaconesti",
+    "wof:lastmodified":1588367158,
+    "wof:name":"Diacone\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":151,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.8007,
-    44.91359,
-    23.8007,
-    44.91359
+    23.788249,
+    44.911536,
+    23.799842,
+    44.922543
 ],
-  "geometry": {"coordinates":[23.8007,44.91359],"type":"Point"}
+  "geometry": {"coordinates":[[[23.799462,44.911536],[23.790598,44.914102],[23.788249,44.918763],[23.79073,44.919177],[23.792735,44.914218],[23.794988,44.916166],[23.792825,44.91809],[23.790733,44.92212],[23.792796,44.922543],[23.799842,44.915008],[23.799462,44.911536]]],"type":"Polygon"}
 }

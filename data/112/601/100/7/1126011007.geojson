@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.73333,45.96667,24.73333,45.96667",
-    "geom:latitude":45.96667,
-    "geom:longitude":24.73333,
+    "geom:area":0.000082,
+    "geom:area_square_m":706510.768524,
+    "geom:bbox":"24.712454,45.960988,24.737833,45.968185",
+    "geom:latitude":45.964819,
+    "geom:longitude":24.725065,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1256,
@@ -85,7 +85,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":875585,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -102,11 +105,15 @@
         "gn:id":673566,
         "gp:id":875585,
         "qs_pg:id":127438,
+        "ro-ancpi:id":144973,
         "wd:id":"Q1179236"
     },
     "wof:country":"RO",
     "wof:created":1497300275,
-    "wof:geomhash":"59d43c5b791f4013e13c36a13511cfa2",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"d657aa5d6ccb4e4259db523ca878606e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +123,7 @@
         }
     ],
     "wof:id":1126011007,
-    "wof:lastmodified":1566611372,
+    "wof:lastmodified":1588367153,
     "wof:name":"Merghindeal",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -128,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.73333,
-    45.96667,
-    24.73333,
-    45.96667
+    24.712454,
+    45.960988,
+    24.737833,
+    45.968185
 ],
-  "geometry": {"coordinates":[24.73333,45.96667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.723807,45.96755],[24.725672,45.967019],[24.730323,45.965885],[24.73206,45.9654],[24.733286,45.96499],[24.734833,45.963948],[24.737833,45.963296],[24.736944,45.961436],[24.736248,45.961758],[24.735788,45.960988],[24.734952,45.961019],[24.735057,45.962219],[24.732449,45.963213],[24.731613,45.962047],[24.727802,45.962409],[24.7246,45.962721],[24.724175,45.961764],[24.718533,45.963721],[24.718988,45.964899],[24.715697,45.965655],[24.712454,45.966599],[24.712766,45.968072],[24.718978,45.967036],[24.719483,45.96745],[24.720114,45.968185],[24.723807,45.96755]]],"type":"Polygon"}
 }

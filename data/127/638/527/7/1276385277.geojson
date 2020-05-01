@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.42647,44.74849,24.42647,44.74849",
-    "geom:latitude":44.74849,
-    "geom:longitude":24.42647,
+    "geom:area":0.000069,
+    "geom:area_square_m":604096.697162,
+    "geom:bbox":"24.417416,44.743641,24.43614,44.758193",
+    "geom:latitude":44.750403,
+    "geom:longitude":24.4271,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127411.0",
     "gn:asciiname":"Tufaru",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.40647,44.72849,24.44647,44.76849",
+    "lbl:latitude":44.74849,
+    "lbl:longitude":24.42647,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Tufaru"
+    ],
     "name:und_x_variant":[
         "Tufarul",
         "Tufaru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664547
+        "gn:id":664547,
+        "ro-ancpi:id":127475
     },
     "wof:country":"RO",
-    "wof:geomhash":"5eb6687edd7267583c40d94bb72a5e28",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5f570ef1448796d33766be140fc17153",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1276385277,
-    "wof:lastmodified":1566610267,
+    "wof:lastmodified":1588366724,
     "wof:name":"Tufaru",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.42647,
-    44.74849,
-    24.42647,
-    44.74849
+    24.417416,
+    44.743641,
+    24.43614,
+    44.758193
 ],
-  "geometry": {"coordinates":[24.42647,44.74849],"type":"Point"}
+  "geometry": {"coordinates":[[[24.429615,44.747795],[24.428595,44.746383],[24.42631,44.746973],[24.422438,44.745017],[24.421812,44.745364],[24.41992,44.743641],[24.417416,44.744751],[24.429898,44.754866],[24.433442,44.758193],[24.43614,44.757083],[24.428689,44.749389],[24.427822,44.748372],[24.429615,44.747795]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.0,45.03333,24.0,45.03333",
-    "geom:latitude":45.03333,
-    "geom:longitude":24.0,
+    "geom:area":0.000094,
+    "geom:area_square_m":821231.965337,
+    "geom:bbox":"23.986051,45.033563,23.997963,45.060232",
+    "geom:latitude":45.047645,
+    "geom:longitude":23.993286,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":1718,
@@ -19,7 +19,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:epo_x_preferred":[
@@ -41,6 +41,9 @@
         "M\u0103dulari"
     ],
     "name:ron_x_preferred":[
+        "M\u0103dulari"
+    ],
+    "name:ron_x_variant":[
         "Comuna M\u0103dulari"
     ],
     "name:srp_x_preferred":[
@@ -77,7 +80,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":875116,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -93,11 +99,15 @@
     "wof:concordances":{
         "gn:id":674200,
         "gp:id":875116,
-        "qs_pg:id":1278823
+        "qs_pg:id":1278823,
+        "ro-ancpi:id":169075
     },
     "wof:country":"RO",
     "wof:created":1497292382,
-    "wof:geomhash":"4fe7afbe51731c12ce65900970cf225a",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"59dd564d2e7f9869c4e38323a96f8008",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1125828403,
-    "wof:lastmodified":1566611388,
+    "wof:lastmodified":1588367026,
     "wof:name":"M\u0103dulari",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -119,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.0,
-    45.03333,
-    24.0,
-    45.03333
+    23.986051,
+    45.033563,
+    23.997963,
+    45.060232
 ],
-  "geometry": {"coordinates":[24.0,45.03333],"type":"Point"}
+  "geometry": {"coordinates":[[[23.988281,45.058731],[23.989311,45.056268],[23.991378,45.056676],[23.993007,45.054304],[23.994911,45.055497],[23.996278,45.054384],[23.993586,45.052877],[23.994355,45.050352],[23.995937,45.046576],[23.997026,45.044747],[23.997809,45.040885],[23.99794,45.037545],[23.997963,45.033664],[23.996323,45.033563],[23.994284,45.03897],[23.993948,45.044448],[23.991393,45.04865],[23.988038,45.054395],[23.987247,45.055742],[23.986125,45.057054],[23.986051,45.057821],[23.986423,45.058912],[23.987188,45.059058],[23.988491,45.060232],[23.989374,45.059564],[23.988281,45.058731]]],"type":"Polygon"}
 }

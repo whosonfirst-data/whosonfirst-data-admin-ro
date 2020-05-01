@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.12666,46.43648,23.12666,46.43648",
-    "geom:latitude":46.43648,
-    "geom:longitude":23.12666,
+    "geom:area":0.000011,
+    "geom:area_square_m":92380.035596,
+    "geom:bbox":"23.123663,46.434837,23.138451,46.441468",
+    "geom:latitude":46.436777,
+    "geom:longitude":23.129475,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039",
     "gn:asciiname":"Aronesti",
@@ -25,16 +25,28 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.10666,46.41648,23.14666,46.45648",
+    "lbl:latitude":46.43648,
+    "lbl:longitude":23.12666,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Arone\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Aronesti"
+    ],
     "name:und_x_variant":[
         "Arone\u015fti",
         "Arome\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686132
+        "gn:id":686132,
+        "ro-ancpi:id":3057
     },
     "wof:country":"RO",
-    "wof:geomhash":"1c7938be16665c3f9665dd02fe5f70ad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7630053b54a7949b1ac1f73ae8871ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +72,8 @@
         }
     ],
     "wof:id":1343276051,
-    "wof:lastmodified":1566609972,
-    "wof:name":"Aronesti",
+    "wof:lastmodified":1588366666,
+    "wof:name":"Arone\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":9,
@@ -68,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.12666,
-    46.43648,
-    23.12666,
-    46.43648
+    23.123663,
+    46.434837,
+    23.138451,
+    46.441468
 ],
-  "geometry": {"coordinates":[23.12666,46.43648],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.131133,46.436653],[23.131014,46.435842],[23.129844,46.435829],[23.126911,46.435489],[23.124118,46.434837],[23.123663,46.435805],[23.124838,46.436187],[23.12631,46.436443],[23.129199,46.4368],[23.129869,46.437101],[23.130435,46.437218],[23.131133,46.436653]]],[[[23.138027,46.440219],[23.137364,46.439337],[23.136697,46.439621],[23.137585,46.440654],[23.137842,46.441468],[23.138451,46.441428],[23.138432,46.441355],[23.138027,46.440219]]],[[[23.133132,46.437101],[23.132215,46.436716],[23.131458,46.437018],[23.132298,46.438078],[23.132621,46.437807],[23.133374,46.437639],[23.133132,46.437101]]]],"type":"MultiPolygon"}
 }

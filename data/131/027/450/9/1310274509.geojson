@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.56791,45.1012,25.56791,45.1012",
-    "geom:latitude":45.1012,
-    "geom:longitude":25.56791,
+    "geom:area":0.000013,
+    "geom:area_square_m":110240.305324,
+    "geom:bbox":"25.558998,45.099788,25.564718,45.103519",
+    "geom:latitude":45.101477,
+    "geom:longitude":25.56153,
     "gn:admin1_code":"16",
     "gn:admin2_code":"69394.0",
     "gn:asciiname":"Dospinesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dospine\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Dospinesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679052
+        "gn:id":679052,
+        "ro-ancpi:id":69410
     },
     "wof:country":"RO",
-    "wof:geomhash":"1930404a058590f6b916bfa8bac259e7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4e40d9d1e80b092f63753e6f17e1bdd3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1310274509,
-    "wof:lastmodified":1566610567,
-    "wof:name":"Dospinesti",
+    "wof:lastmodified":1588367046,
+    "wof:name":"Dospine\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":122,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.56791,
-    45.1012,
-    25.56791,
-    45.1012
+    25.558998,
+    45.099788,
+    25.564718,
+    45.103519
 ],
-  "geometry": {"coordinates":[25.56791,45.1012],"type":"Point"}
+  "geometry": {"coordinates":[[[25.564718,45.100378],[25.56467,45.100355],[25.563871,45.099978],[25.562879,45.09996],[25.562299,45.099834],[25.561833,45.100269],[25.561268,45.099997],[25.560837,45.099788],[25.560368,45.100122],[25.559745,45.100566],[25.559508,45.101505],[25.559498,45.101541],[25.558998,45.103519],[25.560472,45.103361],[25.561508,45.102994],[25.563769,45.10158],[25.564718,45.100378]]],"type":"Polygon"}
 }

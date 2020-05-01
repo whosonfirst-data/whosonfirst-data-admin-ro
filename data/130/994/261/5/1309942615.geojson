@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.13532,44.89471,24.13532,44.89471",
-    "geom:latitude":44.89471,
-    "geom:longitude":24.13532,
+    "geom:area":0.000052,
+    "geom:area_square_m":452888.503866,
+    "geom:bbox":"24.126176,44.905948,24.133969,44.92033",
+    "geom:latitude":44.912459,
+    "geom:longitude":24.130582,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172279.0",
     "gn:asciiname":"Roesti",
@@ -29,14 +29,23 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Roe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Roesti"
+    ],
     "name:und_x_variant":[
         "Pesciana Roe\u015fti",
         "Pesceana-Roe\u015fti",
         "Roe\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668767
+        "gn:id":668767,
+        "ro-ancpi:id":172322
     },
     "wof:country":"RO",
-    "wof:geomhash":"db0e89f2fe9feb3caf7732e4ecf09746",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"98af07602642a4893b7859e5776bb088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +71,8 @@
         }
     ],
     "wof:id":1309942615,
-    "wof:lastmodified":1566611254,
-    "wof:name":"Roesti",
+    "wof:lastmodified":1588367160,
+    "wof:name":"Roe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":460,
@@ -70,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.13532,
-    44.89471,
-    24.13532,
-    44.89471
+    24.126176,
+    44.905948,
+    24.133969,
+    44.92033
 ],
-  "geometry": {"coordinates":[24.13532,44.89471],"type":"Point"}
+  "geometry": {"coordinates":[[[24.132837,44.906917],[24.130549,44.906848],[24.130482,44.905948],[24.128135,44.90616],[24.127775,44.908141],[24.130153,44.909248],[24.128651,44.916657],[24.126575,44.91773],[24.126176,44.918782],[24.128355,44.92033],[24.129501,44.919017],[24.13302,44.914488],[24.133969,44.906951],[24.132837,44.906917]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.74485,43.75676,25.74485,43.75676",
-    "geom:latitude":43.75676,
-    "geom:longitude":25.74485,
+    "geom:area":0.000054,
+    "geom:area_square_m":486739.236615,
+    "geom:bbox":"25.737726,43.751953,25.747899,43.761251",
+    "geom:latitude":43.756901,
+    "geom:longitude":25.743012,
     "gn:admin1_code":"42",
     "gn:admin2_code":"103194.0",
     "gn:asciiname":"Cetatuia",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.72485,43.73676,25.76485,43.77676",
+    "lbl:latitude":43.75676,
+    "lbl:longitude":25.74485,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cet\u0103\u0163uia"
+    ],
+    "name:ron_x_variant":[
+        "Cetatuia"
+    ],
     "name:und_x_variant":[
         "B\u0103l\u0103riile",
         "B\u0103l\u0103rii",
         "Cet\u0103\u0163uia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682248
+        "gn:id":682248,
+        "ro-ancpi:id":103210
     },
     "wof:country":"RO",
-    "wof:geomhash":"f225ff183a2c074bfcdfb704da53021a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29eb94bb01b57187296c268d21749e98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +74,8 @@
         }
     ],
     "wof:id":1310036815,
-    "wof:lastmodified":1566610583,
-    "wof:name":"Cetatuia",
+    "wof:lastmodified":1588366785,
+    "wof:name":"Cet\u0103\u0163uia",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":288,
@@ -70,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.74485,
-    43.75676,
-    25.74485,
-    43.75676
+    25.737726,
+    43.751953,
+    25.747899,
+    43.761251
 ],
-  "geometry": {"coordinates":[25.74485,43.75676],"type":"Point"}
+  "geometry": {"coordinates":[[[25.745479,43.761251],[25.745945,43.760512],[25.746172,43.760685],[25.74738,43.760083],[25.746249,43.758189],[25.747899,43.757376],[25.746456,43.755277],[25.7462,43.755377],[25.745607,43.75468],[25.742858,43.751953],[25.741773,43.753043],[25.740727,43.752411],[25.739921,43.75483],[25.738815,43.754384],[25.738512,43.75526],[25.737726,43.756774],[25.740936,43.758419],[25.740113,43.759843],[25.742719,43.761116],[25.743122,43.760482],[25.743798,43.760803],[25.744571,43.761233],[25.744735,43.760968],[25.745479,43.761251]]],"type":"Polygon"}
 }

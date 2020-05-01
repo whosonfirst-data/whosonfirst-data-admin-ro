@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.61667,44.75,23.61667,44.75",
-    "geom:latitude":44.75,
-    "geom:longitude":23.61667,
+    "geom:area":0.000048,
+    "geom:area_square_m":419795.456805,
+    "geom:bbox":"23.628669,44.761565,23.637782,44.77058",
+    "geom:latitude":44.765573,
+    "geom:longitude":23.633693,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2435,
@@ -74,7 +74,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":868796,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -91,11 +94,15 @@
         "gn:id":682789,
         "gp:id":868796,
         "qs_pg:id":1278088,
+        "ro-ancpi:id":79503,
         "wd:id":"Q2539203"
     },
     "wof:country":"RO",
     "wof:created":1497293556,
-    "wof:geomhash":"f78393cccec2b1d413df7ebec8294935",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"578800ddeff9d11fce6aab8d80d386cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,7 +112,7 @@
         }
     ],
     "wof:id":1125854533,
-    "wof:lastmodified":1566611395,
+    "wof:lastmodified":1588366722,
     "wof:name":"C\u0103preni",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -117,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.61667,
-    44.75,
-    23.61667,
-    44.75
+    23.628669,
+    44.761565,
+    23.637782,
+    44.77058
 ],
-  "geometry": {"coordinates":[23.61667,44.75],"type":"Point"}
+  "geometry": {"coordinates":[[[23.63182,44.761565],[23.62872,44.761831],[23.628669,44.762515],[23.629567,44.76359],[23.633668,44.77058],[23.637782,44.769541],[23.636181,44.766583],[23.636273,44.765697],[23.637424,44.765129],[23.636081,44.761819],[23.632259,44.762533],[23.63182,44.761565]]],"type":"Polygon"}
 }

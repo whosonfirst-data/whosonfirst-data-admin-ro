@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.85021,46.20631,24.85021,46.20631",
-    "geom:latitude":46.20631,
-    "geom:longitude":24.85021,
+    "geom:area_square_m":2781.952708,
+    "geom:bbox":"24.849142,46.202685,24.849756,46.203369",
+    "geom:latitude":46.203053,
+    "geom:longitude":24.849487,
     "gn:admin1_code":"27",
     "gn:admin2_code":"114603.0",
     "gn:asciiname":"Valea Sapartocului",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea \u015eapartocului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Sapartocului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663449
+        "gn:id":663449,
+        "ro-ancpi:id":114694
     },
     "wof:country":"RO",
-    "wof:geomhash":"033d6abe423c6f6296c1d249904e4b0a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0fb61ba20f4b8fb8d313ccec78228974",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293055343,
-    "wof:lastmodified":1566610108,
-    "wof:name":"Valea Sapartocului",
+    "wof:lastmodified":1588367063,
+    "wof:name":"Valea \u015eapartocului",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":6,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.85021,
-    46.20631,
-    24.85021,
-    46.20631
+    24.849142,
+    46.202685,
+    24.849756,
+    46.203369
 ],
-  "geometry": {"coordinates":[24.85021,46.20631],"type":"Point"}
+  "geometry": {"coordinates":[[[24.849687,46.202746],[24.849583,46.202685],[24.849253,46.20271],[24.849306,46.202904],[24.849233,46.203102],[24.849142,46.203319],[24.849331,46.203362],[24.849572,46.203364],[24.849724,46.203369],[24.849747,46.203277],[24.849755,46.203158],[24.849756,46.203065],[24.849737,46.202938],[24.849715,46.202831],[24.849687,46.202746]]],"type":"Polygon"}
 }

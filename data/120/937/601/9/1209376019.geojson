@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.36873,44.38758,24.36873,44.38758",
-    "geom:latitude":44.38758,
-    "geom:longitude":24.36873,
+    "geom:area":0.000028,
+    "geom:area_square_m":245613.956915,
+    "geom:bbox":"24.361756,44.382535,24.369314,44.393211",
+    "geom:latitude":44.387352,
+    "geom:longitude":24.365798,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127563.0",
     "gn:asciiname":"Milcovu din Vale",
@@ -26,26 +26,42 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.34873,44.36758,24.38873,44.40758",
+    "lbl:latitude":44.38758,
+    "lbl:longitude":24.36873,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Milcovu Din Vale"
+    ],
+    "name:ron_x_variant":[
+        "Milcovu din Vale"
+    ],
     "name:und_x_variant":[
         "Milcovul din Vale",
         "Milcovu din Vale"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673317
+        "gn:id":673317,
+        "ro-ancpi:id":127607
     },
     "wof:country":"RO",
-    "wof:geomhash":"289439863efa224f9ee47815411edee9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"16c484f0e6312a683099f155bd213426",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -53,8 +69,8 @@
         }
     ],
     "wof:id":1209376019,
-    "wof:lastmodified":1566610301,
-    "wof:name":"Milcovu din Vale",
+    "wof:lastmodified":1588366730,
+    "wof:name":"Milcovu Din Vale",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":344,
@@ -65,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36873,
-    44.38758,
-    24.36873,
-    44.38758
+    24.361756,
+    44.382535,
+    24.369314,
+    44.393211
 ],
-  "geometry": {"coordinates":[24.36873,44.38758],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.369267,44.386168],[24.36904,44.385],[24.368334,44.383015],[24.365367,44.382535],[24.365381,44.383774],[24.365268,44.385033],[24.365169,44.385489],[24.365472,44.385451],[24.365824,44.385714],[24.365855,44.387043],[24.364578,44.387528],[24.364381,44.3881],[24.366261,44.388299],[24.369314,44.387541],[24.369267,44.386168]]],[[[24.364343,44.389358],[24.362063,44.389089],[24.361942,44.390962],[24.361756,44.392757],[24.361977,44.393146],[24.363513,44.393211],[24.364036,44.392888],[24.364165,44.391108],[24.364343,44.389358]]]],"type":"MultiPolygon"}
 }

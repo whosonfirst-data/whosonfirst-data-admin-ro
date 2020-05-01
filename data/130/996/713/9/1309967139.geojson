@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.60712,44.67467,24.60712,44.67467",
-    "geom:latitude":44.67467,
-    "geom:longitude":24.60712,
+    "geom:area":0.000075,
+    "geom:area_square_m":663038.003443,
+    "geom:bbox":"24.60001,44.667856,24.611011,44.680361",
+    "geom:latitude":44.674784,
+    "geom:longitude":24.606121,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129317.0",
     "gn:asciiname":"Momaiu",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.58712,44.65467,24.62712,44.69467",
+    "lbl:latitude":44.67467,
+    "lbl:longitude":24.60712,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Momaiu"
+    ],
     "name:und_x_variant":[
         "Momaiul",
         "Momaiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672892
+        "gn:id":672892,
+        "ro-ancpi:id":129371
     },
     "wof:country":"RO",
-    "wof:geomhash":"0f145262d6e56ce2f3ebb76dc122641b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f18be2062ed42484a72343fa96d17a02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1309967139,
-    "wof:lastmodified":1566611229,
+    "wof:lastmodified":1588366802,
     "wof:name":"Momaiu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.60712,
-    44.67467,
-    24.60712,
-    44.67467
+    24.60001,
+    44.667856,
+    24.611011,
+    44.680361
 ],
-  "geometry": {"coordinates":[24.60712,44.67467],"type":"Point"}
+  "geometry": {"coordinates":[[[24.611011,44.669879],[24.606562,44.667856],[24.60001,44.679509],[24.607937,44.680361],[24.611011,44.669879]]],"type":"Polygon"}
 }

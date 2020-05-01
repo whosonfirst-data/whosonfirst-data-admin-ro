@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.22104,46.53401,24.22104,46.53401",
-    "geom:latitude":46.53401,
-    "geom:longitude":24.22104,
+    "geom:area":0.000025,
+    "geom:area_square_m":216605.747296,
+    "geom:bbox":"24.216625,46.530711,24.229945,46.535375",
+    "geom:latitude":46.533275,
+    "geom:longitude":24.222548,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117667.0",
     "gn:asciiname":"Fanate",
@@ -25,24 +25,40 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.20104,46.51401,24.24104,46.55401",
+    "lbl:latitude":46.53401,
+    "lbl:longitude":24.22104,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Sz\u00e9naf\u0171"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "F\u00e2na\u0163e"
+    ],
+    "name:ron_x_variant":[
+        "Fanate"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678231
+        "gn:id":678231,
+        "ro-ancpi:id":117710
     },
     "wof:country":"RO",
-    "wof:geomhash":"c42ba6f8ef2ad77b6738492f722e1685",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"66fa2255af7e659506d0078aad451c1c",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -50,8 +66,8 @@
         }
     ],
     "wof:id":1209362291,
-    "wof:lastmodified":1566610275,
-    "wof:name":"Fanate",
+    "wof:lastmodified":1588366725,
+    "wof:name":"F\u00e2na\u0163e",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -60,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.22104,
-    46.53401,
-    24.22104,
-    46.53401
+    24.216625,
+    46.530711,
+    24.229945,
+    46.535375
 ],
-  "geometry": {"coordinates":[24.22104,46.53401],"type":"Point"}
+  "geometry": {"coordinates":[[[24.227223,46.535375],[24.227743,46.534478],[24.229016,46.534696],[24.229945,46.53149],[24.228974,46.531444],[24.22877,46.532583],[24.227969,46.533869],[24.227136,46.534284],[24.225906,46.534125],[24.224145,46.533583],[24.222367,46.53219],[24.22097,46.53148],[24.220091,46.531094],[24.219223,46.530958],[24.218284,46.530711],[24.217258,46.532546],[24.216809,46.532502],[24.216625,46.533172],[24.218359,46.533594],[24.218553,46.533215],[24.219404,46.533521],[24.218988,46.534218],[24.220415,46.534808],[24.220714,46.53421],[24.222245,46.534611],[24.22382,46.535012],[24.225064,46.53526],[24.226846,46.535372],[24.227223,46.535375]]],"type":"Polygon"}
 }

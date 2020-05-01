@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.96729,47.78619,22.96729,47.78619",
-    "geom:latitude":47.78619,
-    "geom:longitude":22.96729,
+    "geom:area":0.000072,
+    "geom:area_square_m":594182.035918,
+    "geom:bbox":"22.955715,47.780164,22.968192,47.788857",
+    "geom:latitude":47.785238,
+    "geom:longitude":22.961066,
     "gn:admin1_code":"32",
     "gn:admin2_code":"138280.0",
     "gn:asciiname":"Cucu",
@@ -26,16 +26,25 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.94729,47.76619,22.98729,47.80619",
+    "lbl:latitude":47.78619,
+    "lbl:longitude":22.96729,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Cucu"
+    ],
     "name:und_x_variant":[
         "Cucul",
         "Cucu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680032
+        "gn:id":680032,
+        "ro-ancpi:id":138315
     },
     "wof:country":"RO",
-    "wof:geomhash":"7b78bae460648297eef969519150ac0a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"feb7ea213b4f69920d13d1492d9374bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +69,7 @@
         }
     ],
     "wof:id":1225790843,
-    "wof:lastmodified":1566611715,
+    "wof:lastmodified":1588366890,
     "wof:name":"Cucu",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
@@ -66,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.96729,
-    47.78619000000001,
-    22.96729,
-    47.78619000000001
+    22.955715,
+    47.780164,
+    22.968192,
+    47.788857
 ],
-  "geometry": {"coordinates":[22.96729,47.78619000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[22.966797,47.783941],[22.964271,47.783445],[22.962185,47.783456],[22.959902,47.781224],[22.957893,47.780164],[22.955715,47.780721],[22.955986,47.785587],[22.956115,47.787757],[22.961128,47.788846],[22.965866,47.788857],[22.968192,47.786277],[22.966797,47.783941]]],"type":"Polygon"}
 }

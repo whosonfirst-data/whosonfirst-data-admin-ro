@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.98333,45.55,22.98333,45.55",
-    "geom:latitude":45.55,
-    "geom:longitude":22.98333,
+    "geom:area":0.000028,
+    "geom:area_square_m":243889.442484,
+    "geom:bbox":"22.969687,45.555654,22.977388,45.565307",
+    "geom:latitude":45.561047,
+    "geom:longitude":22.974014,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91232.0",
     "gn:asciiname":"Ciopeia",
@@ -28,12 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Csopea"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciopeia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681677
+        "gn:id":681677,
+        "ro-ancpi:id":91287
     },
     "wof:country":"RO",
-    "wof:geomhash":"15f610425ac7c40c4a9a6b4b6da33d5d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"92722b8920dbbb3d206bba9015a7ef54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1193237309,
-    "wof:lastmodified":1566610426,
+    "wof:lastmodified":1588367052,
     "wof:name":"Ciopeia",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.98333,
-    45.55,
-    22.98333,
-    45.55
+    22.969687,
+    45.555654,
+    22.977388,
+    45.565307
 ],
-  "geometry": {"coordinates":[22.98333,45.55],"type":"Point"}
+  "geometry": {"coordinates":[[[22.976084,45.561755],[22.976373,45.560055],[22.975794,45.560025],[22.976295,45.558126],[22.976702,45.556596],[22.976812,45.556348],[22.977388,45.555654],[22.97636,45.556097],[22.975558,45.556316],[22.974736,45.556178],[22.974727,45.557206],[22.974743,45.558082],[22.97521,45.558174],[22.975014,45.559121],[22.973219,45.559219],[22.972192,45.559271],[22.970736,45.560363],[22.969899,45.560985],[22.970331,45.561263],[22.969687,45.561855],[22.970758,45.562487],[22.971934,45.56163],[22.973734,45.562206],[22.973045,45.563402],[22.972698,45.564038],[22.972587,45.564891],[22.972559,45.565095],[22.975909,45.565307],[22.975886,45.563953],[22.974747,45.563822],[22.976014,45.56187],[22.976084,45.561755]]],"type":"Polygon"}
 }

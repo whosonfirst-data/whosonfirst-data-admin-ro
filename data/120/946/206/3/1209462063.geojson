@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.47772,44.44671,24.47772,44.44671",
-    "geom:latitude":44.44671,
-    "geom:longitude":24.47772,
+    "geom:area":0.00016,
+    "geom:area_square_m":1410524.217652,
+    "geom:bbox":"24.454161,44.434812,24.479747,44.45236",
+    "geom:latitude":44.442153,
+    "geom:longitude":24.469573,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129656.0",
     "gn:asciiname":"Turia",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.45772,44.42671,24.49772,44.46671",
+    "lbl:latitude":44.44671,
+    "lbl:longitude":24.47772,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u064a\u0627"
@@ -54,17 +56,25 @@
     "name:spa_x_preferred":[
         "Turia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664448
+        "gn:id":664448,
+        "ro-ancpi:id":129692
     },
     "wof:country":"RO",
-    "wof:geomhash":"6fc9a640aeabcdf60db2fd57b5c3b3cc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"caf9be8f57e2a8d1d5bf5faa8aac665c",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -72,7 +82,7 @@
         }
     ],
     "wof:id":1209462063,
-    "wof:lastmodified":1566610318,
+    "wof:lastmodified":1588366734,
     "wof:name":"Turia",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
@@ -84,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.47772,
-    44.44671,
-    24.47772,
-    44.44671
+    24.454161,
+    44.434812,
+    24.479747,
+    44.45236
 ],
-  "geometry": {"coordinates":[24.47772,44.44671],"type":"Point"}
+  "geometry": {"coordinates":[[[24.47738,44.441615],[24.477812,44.438944],[24.475401,44.438434],[24.474253,44.438575],[24.47056,44.437268],[24.470577,44.436254],[24.467842,44.43542],[24.463283,44.434812],[24.460607,44.436309],[24.458347,44.438626],[24.45649,44.438572],[24.454161,44.444543],[24.455658,44.445375],[24.455852,44.446575],[24.457128,44.446888],[24.456951,44.44554],[24.457047,44.445066],[24.457342,44.4441],[24.459498,44.439052],[24.462925,44.440417],[24.463368,44.439276],[24.46582,44.439463],[24.465795,44.438894],[24.46777,44.439426],[24.47033,44.443421],[24.471708,44.445997],[24.473354,44.447966],[24.474604,44.450387],[24.477467,44.45236],[24.479584,44.451446],[24.479718,44.450194],[24.479747,44.449227],[24.47738,44.441615]]],"type":"Polygon"}
 }

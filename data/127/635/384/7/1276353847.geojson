@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.0197,46.39059,23.0197,46.39059",
-    "geom:latitude":46.39059,
-    "geom:longitude":23.0197,
+    "geom:area":0.000012,
+    "geom:area_square_m":99990.664127,
+    "geom:bbox":"23.008955,46.389539,23.019735,46.400614",
+    "geom:latitude":46.394318,
+    "geom:longitude":23.014643,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1455.0",
     "gn:asciiname":"Floresti",
@@ -29,13 +29,22 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Flore\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Floresti"
+    ],
     "name:und_x_variant":[
         "Floce\u015fti",
         "Flore\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678055
+        "gn:id":678055,
+        "ro-ancpi:id":1570
     },
     "wof:country":"RO",
-    "wof:geomhash":"6af6df913dcd56837a3033b0795ac15c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"936b54c07066455c9a17d32a813bbcf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +70,8 @@
         }
     ],
     "wof:id":1276353847,
-    "wof:lastmodified":1566610201,
-    "wof:name":"Floresti",
+    "wof:lastmodified":1588367080,
+    "wof:name":"Flore\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":179,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.0197,
-    46.39059,
-    23.0197,
-    46.39059
+    23.008955,
+    46.389539,
+    23.019735,
+    46.400614
 ],
-  "geometry": {"coordinates":[23.0197,46.39059],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.019735,46.390496],[23.018222,46.389539],[23.014032,46.390247],[23.014806,46.39115],[23.018429,46.391047],[23.019735,46.390496]]],[[[23.013087,46.399628],[23.012834,46.398607],[23.008955,46.399746],[23.00949,46.400614],[23.013087,46.399628]]],[[[23.016044,46.395433],[23.014895,46.394688],[23.013648,46.395433],[23.015081,46.396184],[23.015774,46.395713],[23.016044,46.395433]]]],"type":"MultiPolygon"}
 }

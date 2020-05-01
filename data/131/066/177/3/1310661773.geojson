@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.14947,44.37878,24.14947,44.37878",
-    "geom:latitude":44.37878,
-    "geom:longitude":24.14947,
+    "geom:area":0.000046,
+    "geom:area_square_m":408179.280277,
+    "geom:bbox":"24.142817,44.368463,24.151089,44.380826",
+    "geom:latitude":44.374182,
+    "geom:longitude":24.147985,
     "gn:admin1_code":"29",
     "gn:admin2_code":"125873",
     "gn:asciiname":"Belgun",
@@ -29,9 +29,12 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Belgun"
+    ],
+    "name:ron_x_preferred":[
         "Belgun"
     ],
     "name:swe_x_preferred":[
@@ -40,7 +43,10 @@
     "name:und_x_variant":[
         "Belgunul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685139
+        "gn:id":685139,
+        "ro-ancpi:id":125908
     },
     "wof:country":"RO",
-    "wof:geomhash":"4c053b9fda0ec041ceaea2da747c7711",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dfd423d932caf01215b3cfc5ac74eace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1310661773,
-    "wof:lastmodified":1566610589,
+    "wof:lastmodified":1588367101,
     "wof:name":"Belgun",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -74,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.14947,
-    44.37878,
-    24.14947,
-    44.37878
+    24.142817,
+    44.368463,
+    24.151089,
+    44.380826
 ],
-  "geometry": {"coordinates":[24.14947,44.37878],"type":"Point"}
+  "geometry": {"coordinates":[[[24.151031,44.368941],[24.149684,44.368893],[24.148077,44.36874],[24.145501,44.368463],[24.145489,44.369292],[24.145518,44.371133],[24.147195,44.371198],[24.147227,44.372315],[24.146781,44.374689],[24.14663,44.374726],[24.142817,44.374843],[24.143772,44.376088],[24.146117,44.375919],[24.146035,44.377354],[24.145952,44.378065],[24.146549,44.378232],[24.146061,44.378822],[24.147539,44.379423],[24.147931,44.379284],[24.148485,44.380771],[24.148767,44.380781],[24.150581,44.380826],[24.151089,44.379179],[24.148967,44.378721],[24.14931,44.37782],[24.148955,44.377699],[24.149271,44.37668],[24.149498,44.375227],[24.149872,44.375116],[24.15039,44.370557],[24.151006,44.370591],[24.151031,44.368941]]],"type":"Polygon"}
 }

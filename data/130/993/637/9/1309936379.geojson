@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.26821,44.77455,24.26821,44.77455",
-    "geom:latitude":44.77455,
-    "geom:longitude":24.26821,
+    "geom:area":0.000042,
+    "geom:area_square_m":364309.98217,
+    "geom:bbox":"24.260147,44.764729,24.26956,44.779937",
+    "geom:latitude":44.772106,
+    "geom:longitude":24.265353,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171879",
     "gn:asciiname":"Auresti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Aure\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Auresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686038
+        "gn:id":686038,
+        "ro-ancpi:id":171897
     },
     "wof:country":"RO",
-    "wof:geomhash":"aafd832ce615b25d0b50ea3c4e5e28c3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a8257cd20e390925fb31cfa2ad96d458",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1309936379,
-    "wof:lastmodified":1566611252,
-    "wof:name":"Auresti",
+    "wof:lastmodified":1588367087,
+    "wof:name":"Aure\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":377,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.26821,
-    44.77455,
-    24.26821,
-    44.77455
+    24.260147,
+    44.764729,
+    24.26956,
+    44.779937
 ],
-  "geometry": {"coordinates":[24.26821,44.77455],"type":"Point"}
+  "geometry": {"coordinates":[[[24.266585,44.768478],[24.266279,44.764799],[24.265059,44.764729],[24.265171,44.766474],[24.263226,44.766566],[24.263181,44.767041],[24.261076,44.76707],[24.260936,44.768749],[24.265033,44.768342],[24.264299,44.770206],[24.266911,44.770587],[24.265989,44.773345],[24.264746,44.776684],[24.260388,44.776768],[24.260147,44.777704],[24.264159,44.777983],[24.263995,44.779818],[24.26565,44.779937],[24.265956,44.777624],[24.266703,44.776158],[24.268562,44.772299],[24.26956,44.769646],[24.267201,44.76949],[24.266585,44.768478]]],"type":"Polygon"}
 }

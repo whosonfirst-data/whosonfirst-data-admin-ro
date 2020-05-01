@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.333299,45.251446,24.333299,45.251446",
-    "geom:latitude":45.251446,
-    "geom:longitude":24.333299,
+    "geom:area":0.000032,
+    "geom:area_square_m":279969.327176,
+    "geom:bbox":"24.318765,45.256161,24.332912,45.261466",
+    "geom:latitude":45.258678,
+    "geom:longitude":24.325367,
     "gn:country":null,
     "iso:country":"RO",
     "lbl:bbox":"24.313299,45.231446,24.353299,45.271446",
@@ -52,7 +52,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":868590,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -67,11 +70,15 @@
     "wof:concordances":{
         "gp:id":868590,
         "qs_pg:id":1091382,
+        "ro-ancpi:id":167927,
         "wd:id":"Q12109750"
     },
     "wof:country":"RO",
     "wof:created":1497292578,
-    "wof:geomhash":"c080b78d4971e7c3f7ab879d2fe7c438",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"d902f9c1e05395cc115888ccc38e1192",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,7 +88,7 @@
         }
     ],
     "wof:id":1125832861,
-    "wof:lastmodified":1566611415,
+    "wof:lastmodified":1588367025,
     "wof:name":"C\u0103ciulata",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -91,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.333299,
-    45.251446,
-    24.333299,
-    45.251446
+    24.318765,
+    45.256161,
+    24.332912,
+    45.261466
 ],
-  "geometry": {"coordinates":[24.333299,45.251446],"type":"Point"}
+  "geometry": {"coordinates":[[[24.332058,45.258422],[24.332912,45.256932],[24.332072,45.256161],[24.328265,45.257239],[24.323636,45.258015],[24.322393,45.258192],[24.318765,45.257838],[24.318768,45.259831],[24.31973,45.261466],[24.32019,45.261032],[24.321686,45.260505],[24.323475,45.260117],[24.327008,45.259732],[24.330747,45.258829],[24.332058,45.258422]]],"type":"Polygon"}
 }

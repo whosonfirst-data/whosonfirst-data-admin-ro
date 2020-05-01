@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.38699,45.03738,22.38699,45.03738",
-    "geom:latitude":45.03738,
-    "geom:longitude":22.38699,
+    "geom:area":0.000022,
+    "geom:area_square_m":193312.135036,
+    "geom:bbox":"22.380092,45.033523,22.387579,45.039752",
+    "geom:latitude":45.036315,
+    "geom:longitude":22.383769,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Mesteacan",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mesteac\u0103n"
+    ],
+    "name:ron_x_variant":[
+        "Mesteacan"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673528
+        "gn:id":673528,
+        "ro-ancpi:id":52375
     },
     "wof:country":"RO",
-    "wof:geomhash":"a4b8ad98a2774f3e8d4b6c465c384151",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dd92fdf9a005f01de46732bc06691b3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1293676221,
-    "wof:lastmodified":1566610103,
-    "wof:name":"Mesteacan",
+    "wof:lastmodified":1588367095,
+    "wof:name":"Mesteac\u0103n",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":53,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.38699,
-    45.03738,
-    22.38699,
-    45.03738
+    22.380092,
+    45.033523,
+    22.387579,
+    45.039752
 ],
-  "geometry": {"coordinates":[22.38699,45.03738],"type":"Point"}
+  "geometry": {"coordinates":[[[22.386647,45.036751],[22.385946,45.036247],[22.385291,45.036108],[22.38433,45.036086],[22.383131,45.036523],[22.382716,45.035863],[22.38444,45.035397],[22.387052,45.035909],[22.387579,45.034391],[22.38371,45.033523],[22.380092,45.036395],[22.381919,45.03798],[22.381554,45.038582],[22.383912,45.039752],[22.384769,45.03891],[22.384996,45.038441],[22.383835,45.037314],[22.386089,45.037189],[22.386647,45.036751]]],"type":"Polygon"}
 }

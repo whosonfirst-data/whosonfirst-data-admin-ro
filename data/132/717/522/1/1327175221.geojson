@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.17152,47.86508,26.17152,47.86508",
-    "geom:latitude":47.86508,
-    "geom:longitude":26.17152,
+    "geom:area":0.000039,
+    "geom:area_square_m":325552.484223,
+    "geom:bbox":"26.163546,47.861221,26.175841,47.868413",
+    "geom:latitude":47.864029,
+    "geom:longitude":26.169479,
     "gn:admin1_code":"34",
     "gn:admin2_code":"151246.0",
     "gn:asciiname":"Corpaci",
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Corpaci"
@@ -45,7 +45,10 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043f\u0430\u0447"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680683
+        "gn:id":680683,
+        "ro-ancpi:id":151291
     },
     "wof:country":"RO",
-    "wof:geomhash":"f5d3df474144c2aea38396afa45afabf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"01766c46ad96af556f1999e495b0c92a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":1327175221,
-    "wof:lastmodified":1566609860,
+    "wof:lastmodified":1588367112,
     "wof:name":"Corpaci",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
@@ -79,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.17152,
-    47.86508,
-    26.17152,
-    47.86508
+    26.163546,
+    47.861221,
+    26.175841,
+    47.868413
 ],
-  "geometry": {"coordinates":[26.17152,47.86508],"type":"Point"}
+  "geometry": {"coordinates":[[[26.166839,47.867366],[26.168501,47.866171],[26.170513,47.867519],[26.172048,47.866649],[26.170576,47.865633],[26.172983,47.864148],[26.175841,47.862517],[26.17423,47.861221],[26.173233,47.861661],[26.171195,47.861453],[26.16878,47.862069],[26.166176,47.86284],[26.165021,47.862063],[26.164594,47.86173],[26.163769,47.862237],[26.165203,47.86321],[26.163546,47.863817],[26.164886,47.864855],[26.16533,47.864487],[26.166846,47.865562],[26.167649,47.866137],[26.166445,47.866959],[26.165467,47.867647],[26.166389,47.868276],[26.166649,47.868413],[26.167472,47.86777],[26.166839,47.867366]]],"type":"Polygon"}
 }

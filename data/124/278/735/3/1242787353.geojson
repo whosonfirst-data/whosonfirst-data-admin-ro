@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.9943,46.29671,22.9943,46.29671",
-    "geom:latitude":46.29671,
-    "geom:longitude":22.9943,
+    "geom:area":0.000012,
+    "geom:area_square_m":103143.313487,
+    "geom:bbox":"22.983179,46.290581,22.98728,46.296193",
+    "geom:latitude":46.293322,
+    "geom:longitude":22.985053,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Robesti",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Robe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Robesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668784
+        "gn:id":668784,
+        "ro-ancpi:id":7687
     },
     "wof:country":"RO",
-    "wof:geomhash":"f37cb63f74fc913a4ec3e0ed5d9089ad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"91b9fc8ddfed0e24511d35ebafbf1cef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1242787353,
-    "wof:lastmodified":1566611503,
-    "wof:name":"Robesti",
+    "wof:lastmodified":1588367037,
+    "wof:name":"Robe\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":20,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.9943,
-    46.29671,
-    22.9943,
-    46.29671
+    22.983179,
+    46.290581,
+    22.98728,
+    46.296193
 ],
-  "geometry": {"coordinates":[22.9943,46.29671],"type":"Point"}
+  "geometry": {"coordinates":[[[22.986867,46.290644],[22.985553,46.290581],[22.983179,46.293607],[22.983321,46.295541],[22.985309,46.296193],[22.986163,46.295068],[22.985216,46.294515],[22.98519,46.293644],[22.986094,46.292735],[22.98728,46.292582],[22.986867,46.290644]]],"type":"Polygon"}
 }

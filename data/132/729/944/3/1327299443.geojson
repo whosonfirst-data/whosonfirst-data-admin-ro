@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.61992,44.73826,23.61992,44.73826",
-    "geom:latitude":44.73826,
-    "geom:longitude":23.61992,
+    "geom:area":0.000027,
+    "geom:area_square_m":239938.947484,
+    "geom:bbox":"23.615556,44.73595,23.62536,44.741727",
+    "geom:latitude":44.738971,
+    "geom:longitude":23.620624,
     "gn:admin1_code":"19",
     "gn:admin2_code":"79497.0",
     "gn:asciiname":"Cornetu",
@@ -26,10 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.59992,44.71826,23.63992,44.75826",
+    "lbl:latitude":44.73826,
+    "lbl:longitude":23.61992,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Cornetu"
@@ -50,6 +52,9 @@
         "Cornetu"
     ],
     "name:ron_x_preferred":[
+        "Cornetu"
+    ],
+    "name:ron_x_variant":[
         "Comuna Cornetu"
     ],
     "name:srp_x_preferred":[
@@ -70,7 +75,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u723e\u5167\u5716\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680752
+        "gn:id":680752,
+        "ro-ancpi:id":79558
     },
     "wof:country":"RO",
-    "wof:geomhash":"2bdf9b4590a97683b03eef049c1214d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5cedbd43a81f3e0b0086e35e51665994",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +105,7 @@
         }
     ],
     "wof:id":1327299443,
-    "wof:lastmodified":1566609870,
+    "wof:lastmodified":1588366645,
     "wof:name":"Cornetu",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -104,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.61992,
-    44.73826,
-    23.61992,
-    44.73826
+    23.615556,
+    44.73595,
+    23.62536,
+    44.741727
 ],
-  "geometry": {"coordinates":[23.61992,44.73826],"type":"Point"}
+  "geometry": {"coordinates":[[[23.62536,44.741081],[23.622367,44.736941],[23.620284,44.737853],[23.617948,44.73595],[23.615556,44.736427],[23.617074,44.73832],[23.619399,44.740654],[23.622252,44.741727],[23.62536,44.741081]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.66667,44.03333,24.66667,44.03333",
-    "geom:latitude":44.03333,
-    "geom:longitude":24.66667,
+    "geom:area":0.0001,
+    "geom:area_square_m":888151.63341,
+    "geom:bbox":"24.640867,44.028243,24.652169,44.046029",
+    "geom:latitude":44.037162,
+    "geom:longitude":24.647669,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129040",
     "gn:asciiname":"Barsestii de Sus",
@@ -28,13 +28,22 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "B\u00e2rse\u015ftii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Barsestii de Sus"
+    ],
     "name:und_x_variant":[
         "B\u00e2r\u015fe\u015fti-de-Sus",
         "B\u00eerse\u015ftii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684745
+        "gn:id":684745,
+        "ro-ancpi:id":129068
     },
     "wof:country":"RO",
-    "wof:geomhash":"43dd98064d07c1c282b9b3664dbce865",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a9c8fccb4f36d5130d51ed1db5835248",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +69,8 @@
         }
     ],
     "wof:id":1276292589,
-    "wof:lastmodified":1566610187,
-    "wof:name":"Barsestii de Sus",
+    "wof:lastmodified":1588366984,
+    "wof:name":"B\u00e2rse\u015ftii de Sus",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":579,
@@ -68,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.66667,
-    44.03333,
-    24.66667,
-    44.03333
+    24.640867,
+    44.028243,
+    24.652169,
+    44.046029
 ],
-  "geometry": {"coordinates":[24.66667,44.03333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.65155,44.03172],[24.65082,44.028243],[24.64709,44.030601],[24.640867,44.035448],[24.643163,44.036326],[24.643078,44.037889],[24.645204,44.039082],[24.645686,44.041434],[24.644922,44.042397],[24.646106,44.043021],[24.646923,44.04583],[24.649721,44.046029],[24.652169,44.039348],[24.650441,44.038628],[24.649542,44.037748],[24.650714,44.03492],[24.65155,44.03172]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.97831,45.07521,23.97831,45.07521",
-    "geom:latitude":45.07521,
-    "geom:longitude":23.97831,
+    "geom:area":0.000023,
+    "geom:area_square_m":200765.717555,
+    "geom:bbox":"23.986601,45.090404,23.997653,45.098635",
+    "geom:latitude":45.095008,
+    "geom:longitude":23.990386,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169039.0",
     "gn:asciiname":"Sarsanesti",
@@ -28,19 +28,32 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "S\u0103rs\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Sarsanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667959
+        "gn:id":667959,
+        "ro-ancpi:id":169100
     },
     "wof:country":"RO",
-    "wof:geomhash":"d82702ee2bf6dad6749173c623bb744d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fb4592f7a6a03c34aefdea0afcfcbaaa",
     "wof:hierarchy":[
         {
             "country_id":85633745,
@@ -48,8 +61,8 @@
         }
     ],
     "wof:id":1209348409,
-    "wof:lastmodified":1566610369,
-    "wof:name":"Sarsanesti",
+    "wof:lastmodified":1588366767,
+    "wof:name":"S\u0103rs\u0103ne\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":89,
@@ -60,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.97831,
-    45.07521,
-    23.97831,
-    45.07521
+    23.986601,
+    45.090404,
+    23.997653,
+    45.098635
 ],
-  "geometry": {"coordinates":[23.97831,45.07521],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.990378,45.096592],[23.99031,45.095519],[23.991006,45.095535],[23.992102,45.09404],[23.991309,45.093128],[23.989756,45.092313],[23.988053,45.09271],[23.988283,45.093222],[23.987576,45.093799],[23.988351,45.094948],[23.987409,45.09522],[23.986601,45.096607],[23.988327,45.097178],[23.989402,45.097442],[23.989427,45.098417],[23.992028,45.098635],[23.992112,45.096854],[23.990985,45.096697],[23.990378,45.096592]]],[[[23.997653,45.091148],[23.996558,45.090404],[23.994706,45.091532],[23.995271,45.092288],[23.997653,45.091148]]]],"type":"MultiPolygon"}
 }

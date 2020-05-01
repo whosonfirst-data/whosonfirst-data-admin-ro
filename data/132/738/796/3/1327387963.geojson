@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.04653,47.77609,26.04653,47.77609",
-    "geom:latitude":47.77609,
-    "geom:longitude":26.04653,
+    "geom:area":0.000049,
+    "geom:area_square_m":409966.957551,
+    "geom:bbox":"26.038141,47.77283,26.054146,47.779599",
+    "geom:latitude":47.775563,
+    "geom:longitude":26.045471,
     "gn:admin1_code":"34",
     "gn:admin2_code":"146931",
     "gn:asciiname":"Gara",
@@ -25,10 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.02653,47.75609,26.06653,47.79609",
+    "lbl:latitude":47.77609,
+    "lbl:longitude":26.04653,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Gara"
@@ -57,13 +59,20 @@
     "name:nor_x_preferred":[
         "Gara"
     ],
+    "name:ron_x_preferred":[
+        "Gara"
+    ],
     "name:spa_x_preferred":[
         "Gara"
     ],
     "name:swe_x_preferred":[
         "Gara"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +81,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11002564
+        "gn:id":11002564,
+        "ro-ancpi:id":146959
     },
     "wof:country":"RO",
-    "wof:geomhash":"277a72d713a3f94980113281349a9f29",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"639ec0b8eef3dabdc4a720bfb23f2ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +98,7 @@
         }
     ],
     "wof:id":1327387963,
-    "wof:lastmodified":1566609763,
+    "wof:lastmodified":1588366622,
     "wof:name":"Gara",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
@@ -97,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.04653,
-    47.77609,
-    26.04653,
-    47.77609
+    26.038141,
+    47.77283,
+    26.054146,
+    47.779599
 ],
-  "geometry": {"coordinates":[26.04653,47.77609],"type":"Point"}
+  "geometry": {"coordinates":[[[26.05375,47.774159],[26.052828,47.774423],[26.052105,47.773973],[26.052021,47.773921],[26.05126,47.773447],[26.051395,47.773191],[26.050826,47.772879],[26.049605,47.773806],[26.046968,47.773484],[26.04266,47.773139],[26.0395,47.77283],[26.038328,47.77402],[26.038224,47.774695],[26.042883,47.775003],[26.046901,47.775152],[26.038141,47.778391],[26.038476,47.778698],[26.038541,47.778757],[26.039463,47.779599],[26.041837,47.778827],[26.047633,47.777019],[26.0486,47.7777],[26.054146,47.774502],[26.05375,47.774159]]],"type":"Polygon"}
 }

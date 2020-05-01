@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.08152,45.61962,26.08152,45.61962",
-    "geom:latitude":45.61962,
-    "geom:longitude":26.08152,
+    "geom:area":0.000017,
+    "geom:area_square_m":142993.307795,
+    "geom:bbox":"26.079233,45.616593,26.085922,45.623374",
+    "geom:latitude":45.61973,
+    "geom:longitude":26.082162,
     "gn:admin1_code":"15",
     "gn:admin2_code":"63688.0",
     "gn:asciiname":"Merisor",
@@ -26,17 +26,29 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.06152,45.59962,26.10152,45.63962",
+    "lbl:latitude":45.61962,
+    "lbl:longitude":26.08152,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Meri\u015for"
+    ],
+    "name:ron_x_variant":[
+        "Merisor"
+    ],
     "name:und_x_variant":[
         "G\u00eelma",
         "Valea Br\u0103detului",
         "Meri\u015for"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673547
+        "gn:id":673547,
+        "ro-ancpi:id":63713
     },
     "wof:country":"RO",
-    "wof:geomhash":"6e34d2715bd5cabe13001031a9181694",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"19f938ef6f8441d7a764025dc6be5490",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +73,8 @@
         }
     ],
     "wof:id":1309682509,
-    "wof:lastmodified":1566611248,
-    "wof:name":"Merisor",
+    "wof:lastmodified":1588366806,
+    "wof:name":"Meri\u015for",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.08152,
-    45.61962,
-    26.08152,
-    45.61962
+    26.079233,
+    45.616593,
+    26.085922,
+    45.623374
 ],
-  "geometry": {"coordinates":[26.08152,45.61962],"type":"Point"}
+  "geometry": {"coordinates":[[[26.085922,45.617327],[26.085089,45.616593],[26.084635,45.616967],[26.083346,45.617444],[26.082753,45.617675],[26.082125,45.618056],[26.081062,45.618298],[26.080564,45.618755],[26.079233,45.6194],[26.079264,45.619567],[26.079714,45.619989],[26.080065,45.620537],[26.08048,45.621015],[26.080761,45.621298],[26.080765,45.621492],[26.080751,45.62175],[26.08071,45.621989],[26.080472,45.622315],[26.07981,45.622952],[26.080941,45.623374],[26.08134,45.623096],[26.081551,45.622604],[26.082464,45.621707],[26.082946,45.621392],[26.08334,45.620814],[26.08308,45.620223],[26.083187,45.619613],[26.082819,45.619138],[26.084567,45.618605],[26.085922,45.617327]]],"type":"Polygon"}
 }

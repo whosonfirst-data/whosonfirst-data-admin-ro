@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.41716,46.36249,27.41716,46.36249",
-    "geom:latitude":46.36249,
-    "geom:longitude":27.41716,
+    "geom:area":0.000011,
+    "geom:area_square_m":89885.642171,
+    "geom:bbox":"27.411055,46.359958,27.418815,46.362459",
+    "geom:latitude":46.361312,
+    "geom:longitude":27.414823,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24837",
     "gn:asciiname":"Bucsa",
@@ -28,9 +28,18 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Buc\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Bucsa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683532
+        "gn:id":683532,
+        "ro-ancpi:id":24864
     },
     "wof:country":"RO",
-    "wof:geomhash":"69e58a13dc5736fa64be4a9d94c21447",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8159c13185b485b9892b3ddc7f7286ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +65,8 @@
         }
     ],
     "wof:id":1343268017,
-    "wof:lastmodified":1566609982,
-    "wof:name":"Bucsa",
+    "wof:lastmodified":1588367072,
+    "wof:name":"Buc\u015fa",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":46,
@@ -64,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.41716,
-    46.36249,
-    27.41716,
-    46.36249
+    27.411055,
+    46.359958,
+    27.418815,
+    46.362459
 ],
-  "geometry": {"coordinates":[27.41716,46.36249],"type":"Point"}
+  "geometry": {"coordinates":[[[27.415198,46.362459],[27.415247,46.362238],[27.415912,46.362296],[27.416223,46.362183],[27.416883,46.362113],[27.416826,46.361747],[27.417132,46.361762],[27.417505,46.36167],[27.417432,46.361163],[27.417708,46.361172],[27.418815,46.360485],[27.418676,46.360348],[27.418214,46.360142],[27.417287,46.360748],[27.41711,46.360604],[27.416205,46.360681],[27.415892,46.360421],[27.415742,46.359995],[27.414905,46.359958],[27.4147,46.360349],[27.414954,46.360556],[27.414219,46.360735],[27.41373,46.360164],[27.41295,46.36041],[27.413103,46.36071],[27.412772,46.360761],[27.412437,46.36078],[27.412408,46.361441],[27.411086,46.361382],[27.411055,46.361971],[27.412038,46.361976],[27.412771,46.362288],[27.415198,46.362459]]],"type":"Polygon"}
 }
