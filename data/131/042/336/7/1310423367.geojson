@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.1761,46.34454,23.2161,46.38454",
+    "lbl:latitude":46.361163,
+    "lbl:longitude":23.192116,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.361163,
+    "mps:longitude":23.192116,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1310423367,
-    "wof:lastmodified":1588367081,
+    "wof:lastmodified":1588613585,
     "wof:name":"Po\u015fogani",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

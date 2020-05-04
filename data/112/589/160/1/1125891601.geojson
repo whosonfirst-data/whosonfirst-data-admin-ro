@@ -14,10 +14,12 @@
     "gn:population":2118,
     "iso:country":"RO",
     "lbl:bbox":"23.73,47.18,23.77,47.22",
-    "lbl:latitude":47.2,
-    "lbl:longitude":23.75,
+    "lbl:latitude":47.21489,
+    "lbl:longitude":23.751889,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":47.21489,
+    "mps:longitude":23.751889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -72,7 +74,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1125891601,
-    "wof:lastmodified":1588367149,
+    "wof:lastmodified":1588613624,
     "wof:name":"Vad",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

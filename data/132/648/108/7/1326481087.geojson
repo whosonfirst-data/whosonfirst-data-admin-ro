@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.3176,44.50207,24.3576,44.54207",
+    "lbl:latitude":44.524417,
+    "lbl:longitude":24.341891,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.524417,
+    "mps:longitude":24.341891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1326481087,
-    "wof:lastmodified":1588367085,
+    "wof:lastmodified":1588613587,
     "wof:name":"Cherle\u015ftii Din Deal",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

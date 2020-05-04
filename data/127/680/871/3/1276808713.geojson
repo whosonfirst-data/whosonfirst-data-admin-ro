@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.99679,47.70617,26.03679,47.74617",
+    "lbl:latitude":47.723721,
+    "lbl:longitude":26.013937,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.723721,
+    "mps:longitude":26.013937,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -52,6 +56,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":1276808713,
-    "wof:lastmodified":1588367154,
+    "wof:lastmodified":1588613627,
     "wof:name":"Codru",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

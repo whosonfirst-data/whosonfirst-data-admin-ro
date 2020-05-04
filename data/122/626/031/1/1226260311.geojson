@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.19706,46.21697,23.23706,46.25697",
+    "lbl:latitude":46.234371,
+    "lbl:longitude":23.212167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.234371,
+    "mps:longitude":23.212167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1226260311,
-    "wof:lastmodified":1588367087,
+    "wof:lastmodified":1588613588,
     "wof:name":"Valea Negrilesii",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.18752,47.27545,24.22752,47.31545",
+    "lbl:latitude":47.293431,
+    "lbl:longitude":24.206353,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.293431,
+    "mps:longitude":24.206353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1225966523,
-    "wof:lastmodified":1588367143,
+    "wof:lastmodified":1588613621,
     "wof:name":"P\u0103ltineasa",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.29925,46.24877,23.33925,46.28877",
+    "lbl:latitude":46.268868,
+    "lbl:longitude":23.315571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.268868,
+    "mps:longitude":23.315571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1209719559,
-    "wof:lastmodified":1588367036,
+    "wof:lastmodified":1588613559,
     "wof:name":"Negre\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

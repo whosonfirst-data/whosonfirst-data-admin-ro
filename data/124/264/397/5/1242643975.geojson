@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.08524,46.37268,24.12524,46.41268",
+    "lbl:latitude":46.389606,
+    "lbl:longitude":24.104571,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.389606,
+    "mps:longitude":24.104571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1242643975,
-    "wof:lastmodified":1588367064,
+    "wof:lastmodified":1588613574,
     "wof:name":"I\u015ftihaza",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

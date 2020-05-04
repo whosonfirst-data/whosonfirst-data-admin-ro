@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.68547,45.14386,25.72547,45.18386",
+    "lbl:latitude":45.165354,
+    "lbl:longitude":25.713836,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.165354,
+    "mps:longitude":25.713836,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1260231331,
-    "wof:lastmodified":1588367083,
+    "wof:lastmodified":1588613586,
     "wof:name":"Valea Oprii",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

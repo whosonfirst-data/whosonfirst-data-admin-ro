@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.05023,46.21545,23.09023,46.25545",
+    "lbl:latitude":46.233167,
+    "lbl:longitude":23.063302,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.233167,
+    "mps:longitude":23.063302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1242891575,
-    "wof:lastmodified":1588367036,
+    "wof:lastmodified":1588613558,
     "wof:name":"Ghedule\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

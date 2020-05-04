@@ -14,10 +14,12 @@
     "gn:population":1747,
     "iso:country":"RO",
     "lbl:bbox":"23.39667,46.38,23.43667,46.42",
-    "lbl:latitude":46.4,
-    "lbl:longitude":23.41667,
+    "lbl:latitude":46.390514,
+    "lbl:longitude":23.397324,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":46.390514,
+    "mps:longitude":23.397324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -73,7 +75,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":1125848069,
-    "wof:lastmodified":1588367125,
+    "wof:lastmodified":1588613610,
     "wof:name":"S\u0103lciua de Sus",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.04667,45.93,27.08667,45.97",
+    "lbl:latitude":45.954721,
+    "lbl:longitude":27.07976,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.954721,
+    "mps:longitude":27.07976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1310255957,
-    "wof:lastmodified":1588367123,
+    "wof:lastmodified":1588613609,
     "wof:name":"M\u0103n\u0103stioara",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

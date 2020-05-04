@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.05003,44.53928,23.09003,44.57928",
+    "lbl:latitude":44.561903,
+    "lbl:longitude":23.071588,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.561903,
+    "mps:longitude":23.071588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1242734845,
-    "wof:lastmodified":1588367091,
+    "wof:lastmodified":1588613590,
     "wof:name":"Blidaru",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

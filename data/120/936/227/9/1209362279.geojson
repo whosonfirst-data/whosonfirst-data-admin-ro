@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.76333,46.83,24.80333,46.87",
+    "lbl:latitude":46.842865,
+    "lbl:longitude":24.769925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.842865,
+    "mps:longitude":24.769925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85633745
     ],
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1209362279,
-    "wof:lastmodified":1588367103,
+    "wof:lastmodified":1588613597,
     "wof:name":"Ideciu de Sus",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

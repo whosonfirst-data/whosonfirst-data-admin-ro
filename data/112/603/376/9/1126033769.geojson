@@ -14,10 +14,12 @@
     "gn:population":2984,
     "iso:country":"RO",
     "lbl:bbox":"25.24667,46.24667,25.28667,46.28667",
-    "lbl:latitude":46.26667,
-    "lbl:longitude":25.26667,
+    "lbl:latitude":46.273613,
+    "lbl:longitude":25.278301,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.273613,
+    "mps:longitude":25.278301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1126033769,
-    "wof:lastmodified":1588367045,
+    "wof:lastmodified":1588613563,
     "wof:name":"Feliceni",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

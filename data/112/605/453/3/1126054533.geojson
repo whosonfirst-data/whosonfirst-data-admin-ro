@@ -14,10 +14,12 @@
     "gn:population":1222,
     "iso:country":"RO",
     "lbl:bbox":"21.59,44.92139,21.63,44.96139",
-    "lbl:latitude":44.94139,
-    "lbl:longitude":21.61,
+    "lbl:latitude":44.944138,
+    "lbl:longitude":21.613897,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":44.944138,
+    "mps:longitude":21.613897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -86,7 +88,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1126054533,
-    "wof:lastmodified":1588367032,
+    "wof:lastmodified":1588613556,
     "wof:name":"Ciuchici",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

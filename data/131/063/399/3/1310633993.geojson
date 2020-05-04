@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.25592,46.43603,26.29592,46.47603",
+    "lbl:latitude":46.46253,
+    "lbl:longitude":26.268661,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.46253,
+    "mps:longitude":26.268661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1310633993,
-    "wof:lastmodified":1588366860,
+    "wof:lastmodified":1588613471,
     "wof:name":"Preluci",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

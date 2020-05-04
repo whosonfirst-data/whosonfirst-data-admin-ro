@@ -14,10 +14,12 @@
     "gn:population":2866,
     "iso:country":"RO",
     "lbl:bbox":"24.49667,47.06333,24.53667,47.10333",
-    "lbl:latitude":47.08333,
-    "lbl:longitude":24.51667,
+    "lbl:latitude":47.084598,
+    "lbl:longitude":24.522266,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":47.084598,
+    "mps:longitude":24.522266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1125902651,
-    "wof:lastmodified":1588367071,
+    "wof:lastmodified":1588613578,
     "wof:name":"Budacu de Jos",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

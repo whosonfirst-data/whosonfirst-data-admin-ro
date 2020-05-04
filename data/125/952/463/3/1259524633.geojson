@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.75013,47.63831,25.79013,47.67831",
+    "lbl:latitude":47.663494,
+    "lbl:longitude":25.76896,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.663494,
+    "mps:longitude":25.76896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1259524633,
-    "wof:lastmodified":1588367107,
+    "wof:lastmodified":1588613600,
     "wof:name":"Poiana Micului",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.7181,44.95045,22.7581,44.99045",
+    "lbl:latitude":44.969561,
+    "lbl:longitude":22.734501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.969561,
+    "mps:longitude":22.734501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1226497335,
-    "wof:lastmodified":1588367049,
+    "wof:lastmodified":1588613565,
     "wof:name":"Buicani",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

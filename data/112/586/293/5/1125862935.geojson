@@ -14,10 +14,12 @@
     "gn:population":1270,
     "iso:country":"RO",
     "lbl:bbox":"24.29667,46.84667,24.33667,46.88667",
-    "lbl:latitude":46.86667,
-    "lbl:longitude":24.31667,
+    "lbl:latitude":46.859573,
+    "lbl:longitude":24.310732,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":46.859573,
+    "mps:longitude":24.310732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -82,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":1125862935,
-    "wof:lastmodified":1588367134,
+    "wof:lastmodified":1588613616,
     "wof:name":"Mice\u015ftii de C\u00e2mpie",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

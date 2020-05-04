@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.27114,45.76248,22.31114,45.80248",
+    "lbl:latitude":45.782213,
+    "lbl:longitude":22.288898,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.782213,
+    "mps:longitude":22.288898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1259823695,
-    "wof:lastmodified":1588367113,
+    "wof:lastmodified":1588613603,
     "wof:name":"Balo\u015fe\u015fti",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

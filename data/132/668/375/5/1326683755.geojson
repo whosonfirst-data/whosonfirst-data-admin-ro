@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.24684,47.553,25.28684,47.593",
+    "lbl:latitude":47.568873,
+    "lbl:longitude":25.258412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.568873,
+    "mps:longitude":25.258412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1326683755,
-    "wof:lastmodified":1588367092,
+    "wof:lastmodified":1588613591,
     "wof:name":"Obcina",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

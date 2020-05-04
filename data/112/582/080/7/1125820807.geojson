@@ -14,10 +14,12 @@
     "gn:population":3941,
     "iso:country":"RO",
     "lbl:bbox":"23.01333,47.74667,23.05333,47.78667",
-    "lbl:latitude":47.76667,
-    "lbl:longitude":23.03333,
+    "lbl:latitude":47.762758,
+    "lbl:longitude":23.03602,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":47.762758,
+    "mps:longitude":23.03602,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1125820807,
-    "wof:lastmodified":1588367088,
+    "wof:lastmodified":1588613589,
     "wof:name":"Culciu Mic",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

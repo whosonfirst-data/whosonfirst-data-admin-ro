@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.08,46.46333,27.12,46.50333",
+    "lbl:latitude":46.484382,
+    "lbl:longitude":27.106231,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.484382,
+    "mps:longitude":27.106231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":1226747953,
-    "wof:lastmodified":1588367071,
+    "wof:lastmodified":1588613578,
     "wof:name":"Parincea",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

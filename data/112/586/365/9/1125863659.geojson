@@ -14,10 +14,12 @@
     "gn:population":4400,
     "iso:country":"RO",
     "lbl:bbox":"23.98,47.94667,24.02,47.98667",
-    "lbl:latitude":47.96667,
-    "lbl:longitude":24.0,
+    "lbl:latitude":47.961173,
+    "lbl:longitude":24.012449,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":47.961173,
+    "mps:longitude":24.012449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -92,7 +94,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1125863659,
-    "wof:lastmodified":1588367027,
+    "wof:lastmodified":1588613553,
     "wof:name":"Bocicoiu Mare",
     "wof:parent_id":102088021,
     "wof:placetype":"locality",

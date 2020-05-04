@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.45892,46.25455,23.49892,46.29455",
+    "lbl:latitude":46.273107,
+    "lbl:longitude":23.476196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.273107,
+    "mps:longitude":23.476196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1343472887,
-    "wof:lastmodified":1588367105,
+    "wof:lastmodified":1588613599,
     "wof:name":"Tec\u015fe\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

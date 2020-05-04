@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.49667,45.99667,27.53667,46.03667",
+    "lbl:latitude":46.023271,
+    "lbl:longitude":27.517664,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.023271,
+    "mps:longitude":27.517664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1293456023,
-    "wof:lastmodified":1588367061,
+    "wof:lastmodified":1588613573,
     "wof:name":"G\u00e2rbov\u0103\u0163",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.12038,44.84296,25.16038,44.88296",
+    "lbl:latitude":44.85199,
+    "lbl:longitude":25.135856,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.85199,
+    "mps:longitude":25.135856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1276450259,
-    "wof:lastmodified":1588367049,
+    "wof:lastmodified":1588613565,
     "wof:name":"Chi\u0163e\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

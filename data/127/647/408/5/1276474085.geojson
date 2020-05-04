@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.11524,47.28036,23.15524,47.32036",
+    "lbl:latitude":47.299687,
+    "lbl:longitude":23.132894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.299687,
+    "mps:longitude":23.132894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1276474085,
-    "wof:lastmodified":1588367152,
+    "wof:lastmodified":1588613626,
     "wof:name":"S\u00e2ncraiu Silvaniei",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

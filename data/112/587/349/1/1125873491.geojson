@@ -14,10 +14,12 @@
     "gn:population":1806,
     "iso:country":"RO",
     "lbl:bbox":"22.76333,46.36333,22.80333,46.40333",
-    "lbl:latitude":46.38333,
-    "lbl:longitude":22.78333,
+    "lbl:latitude":46.363067,
+    "lbl:longitude":22.810865,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":46.363067,
+    "mps:longitude":22.810865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -91,7 +93,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1125873491,
-    "wof:lastmodified":1588366790,
+    "wof:lastmodified":1588613465,
     "wof:name":"Avram Iancu",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

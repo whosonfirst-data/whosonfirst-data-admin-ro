@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.19243,46.3082,23.23243,46.3482",
+    "lbl:latitude":46.330354,
+    "lbl:longitude":23.205594,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.330354,
+    "mps:longitude":23.205594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1343962211,
-    "wof:lastmodified":1588367125,
+    "wof:lastmodified":1588613610,
     "wof:name":"Geam\u0103na",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

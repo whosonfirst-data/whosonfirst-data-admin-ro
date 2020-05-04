@@ -14,10 +14,12 @@
     "gn:population":2239,
     "iso:country":"RO",
     "lbl:bbox":"28.04667,44.36333,28.08667,44.40333",
-    "lbl:latitude":44.38333,
-    "lbl:longitude":28.06667,
+    "lbl:latitude":44.393847,
+    "lbl:longitude":28.070129,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":44.393847,
+    "mps:longitude":28.070129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1126003443,
-    "wof:lastmodified":1588367023,
+    "wof:lastmodified":1588613550,
     "wof:name":"Seimeni",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.84559,46.28217,22.88559,46.32217",
+    "lbl:latitude":46.302782,
+    "lbl:longitude":22.863894,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.302782,
+    "mps:longitude":22.863894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1243222663,
-    "wof:lastmodified":1588367067,
+    "wof:lastmodified":1588613576,
     "wof:name":"Dragu-Brad",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

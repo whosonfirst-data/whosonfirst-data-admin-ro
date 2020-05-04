@@ -14,10 +14,12 @@
     "gn:population":3375,
     "iso:country":"RO",
     "lbl:bbox":"25.94667,46.51333,25.98667,46.55333",
-    "lbl:latitude":46.53333,
-    "lbl:longitude":25.96667,
+    "lbl:latitude":46.501781,
+    "lbl:longitude":25.945716,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.501781,
+    "mps:longitude":25.945716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -83,7 +85,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":1125873365,
-    "wof:lastmodified":1588367043,
+    "wof:lastmodified":1588613562,
     "wof:name":"Lunca de Sus",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

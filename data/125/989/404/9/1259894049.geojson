@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.4073,46.07301,23.4473,46.11301",
+    "lbl:latitude":46.091698,
+    "lbl:longitude":23.424718,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.091698,
+    "mps:longitude":23.424718,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1259894049,
-    "wof:lastmodified":1588367125,
+    "wof:lastmodified":1588613610,
     "wof:name":"V\u0103leni",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

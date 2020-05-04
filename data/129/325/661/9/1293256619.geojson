@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.49667,45.84667,22.53667,45.88667",
+    "lbl:latitude":45.865788,
+    "lbl:longitude":22.520753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.865788,
+    "mps:longitude":22.520753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1293256619,
-    "wof:lastmodified":1588367119,
+    "wof:lastmodified":1588613607,
     "wof:name":"Panc-S\u0103li\u015fte",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

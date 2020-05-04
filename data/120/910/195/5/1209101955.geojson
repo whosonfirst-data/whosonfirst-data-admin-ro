@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.28015,45.94633,25.32015,45.98633",
+    "lbl:latitude":45.958885,
+    "lbl:longitude":25.291186,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.958885,
+    "mps:longitude":25.291186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -48,6 +52,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -69,7 +74,7 @@
         }
     ],
     "wof:id":1209101955,
-    "wof:lastmodified":1588367148,
+    "wof:lastmodified":1588613623,
     "wof:name":"F\u00e2nt\u00e2na",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

@@ -14,10 +14,12 @@
     "gn:population":3510,
     "iso:country":"RO",
     "lbl:bbox":"22.83,45.46333,22.87,45.50333",
-    "lbl:latitude":45.48333,
-    "lbl:longitude":22.85,
+    "lbl:latitude":45.496254,
+    "lbl:longitude":22.854624,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.496254,
+    "mps:longitude":22.854624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":1125951779,
-    "wof:lastmodified":1588367132,
+    "wof:lastmodified":1588613614,
     "wof:name":"R\u00e2u de Mori",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

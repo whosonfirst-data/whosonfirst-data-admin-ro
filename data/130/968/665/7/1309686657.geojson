@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.85344,46.28996,24.89344,46.32996",
+    "lbl:latitude":46.307732,
+    "lbl:longitude":24.870374,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.307732,
+    "mps:longitude":24.870374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -41,6 +45,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":1309686657,
-    "wof:lastmodified":1588367043,
+    "wof:lastmodified":1588613562,
     "wof:name":"Uilac",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

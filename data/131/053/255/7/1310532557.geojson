@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.98295,44.92064,24.02295,44.96064",
+    "lbl:latitude":44.935676,
+    "lbl:longitude":23.999418,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.935676,
+    "mps:longitude":23.999418,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1310532557,
-    "wof:lastmodified":1588367081,
+    "wof:lastmodified":1588613585,
     "wof:name":"Bro\u015fteni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

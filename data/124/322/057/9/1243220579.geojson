@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.01398,44.62922,23.05398,44.66922",
+    "lbl:latitude":44.646015,
+    "lbl:longitude":23.042513,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.646015,
+    "mps:longitude":23.042513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -50,6 +54,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +80,7 @@
         }
     ],
     "wof:id":1243220579,
-    "wof:lastmodified":1588367115,
+    "wof:lastmodified":1588613604,
     "wof:name":"Cotoroaia",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

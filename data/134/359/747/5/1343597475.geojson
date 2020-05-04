@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.63,47.19667,22.67,47.23667",
+    "lbl:latitude":47.205688,
+    "lbl:longitude":22.614431,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":47.205688,
+    "mps:longitude":22.614431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1343597475,
-    "wof:lastmodified":1588366875,
+    "wof:lastmodified":1588613472,
     "wof:name":"Cosniciu de Jos",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

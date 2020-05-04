@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.22024,46.44376,27.26024,46.48376",
+    "lbl:latitude":46.459545,
+    "lbl:longitude":27.243655,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.459545,
+    "mps:longitude":27.243655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1276370119,
-    "wof:lastmodified":1588367140,
+    "wof:lastmodified":1588613619,
     "wof:name":"B\u0103rboasa",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

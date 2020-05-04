@@ -14,10 +14,12 @@
     "gn:population":2093,
     "iso:country":"RO",
     "lbl:bbox":"26.78,45.86333,26.82,45.90333",
-    "lbl:latitude":45.88333,
-    "lbl:longitude":26.8,
+    "lbl:latitude":45.883879,
+    "lbl:longitude":26.810052,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.883879,
+    "mps:longitude":26.810052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -63,7 +65,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":1125808285,
-    "wof:lastmodified":1588367123,
+    "wof:lastmodified":1588613609,
     "wof:name":"M\u0103t\u0103cina",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

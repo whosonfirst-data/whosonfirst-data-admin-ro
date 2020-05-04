@@ -14,10 +14,12 @@
     "gn:population":1889,
     "iso:country":"RO",
     "lbl:bbox":"24.68,46.46333,24.72,46.50333",
-    "lbl:latitude":46.48333,
-    "lbl:longitude":24.7,
+    "lbl:latitude":46.491746,
+    "lbl:longitude":24.695589,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":46.491746,
+    "mps:longitude":24.695589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1125772799,
-    "wof:lastmodified":1588367133,
+    "wof:lastmodified":1588613615,
     "wof:name":"P\u0103s\u0103reni",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

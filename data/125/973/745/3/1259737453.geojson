@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.94958,46.49706,23.98958,46.53706",
+    "lbl:latitude":46.517533,
+    "lbl:longitude":23.967668,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.517533,
+    "mps:longitude":23.967668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1259737453,
-    "wof:lastmodified":1588367040,
+    "wof:lastmodified":1588613561,
     "wof:name":"Giurgi\u015f",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

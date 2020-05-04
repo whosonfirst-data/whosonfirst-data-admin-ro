@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.08608,47.10207,24.12608,47.14207",
+    "lbl:latitude":47.120803,
+    "lbl:longitude":24.10569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.120803,
+    "mps:longitude":24.10569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1344233449,
-    "wof:lastmodified":1588367023,
+    "wof:lastmodified":1588613550,
     "wof:name":"Daro\u0163",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

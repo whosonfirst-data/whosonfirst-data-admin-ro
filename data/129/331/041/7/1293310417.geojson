@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.96614,46.35442,23.00614,46.39442",
+    "lbl:latitude":46.371292,
+    "lbl:longitude":22.994498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.371292,
+    "mps:longitude":22.994498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1293310417,
-    "wof:lastmodified":1588367082,
+    "wof:lastmodified":1588613585,
     "wof:name":"Puiule\u0163e\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

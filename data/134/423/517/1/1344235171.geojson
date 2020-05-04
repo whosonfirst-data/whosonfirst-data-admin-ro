@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.45277,45.3489,26.49277,45.3889",
+    "lbl:latitude":45.367989,
+    "lbl:longitude":26.470832,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.367989,
+    "mps:longitude":26.470832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -55,6 +59,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":1344235171,
-    "wof:lastmodified":1588367029,
+    "wof:lastmodified":1588613555,
     "wof:name":"Ulmet",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.63855,45.5197,26.67855,45.5597",
+    "lbl:latitude":45.511812,
+    "lbl:longitude":26.697656,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.511812,
+    "mps:longitude":26.697656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1310682209,
-    "wof:lastmodified":1588367094,
+    "wof:lastmodified":1588613592,
     "wof:name":"Lop\u0103t\u0103reasa",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

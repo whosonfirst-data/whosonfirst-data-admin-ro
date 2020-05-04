@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.81333,46.83,22.85333,46.87",
+    "lbl:latitude":46.854123,
+    "lbl:longitude":22.813403,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.854123,
+    "mps:longitude":22.813403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1326906859,
-    "wof:lastmodified":1588367023,
+    "wof:lastmodified":1588613550,
     "wof:name":"Trani\u015fu",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.60573,46.53999,27.64573,46.57999",
+    "lbl:latitude":46.559682,
+    "lbl:longitude":27.623791,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.559682,
+    "mps:longitude":27.623791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -157,6 +161,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -182,7 +187,7 @@
         }
     ],
     "wof:id":1327472443,
-    "wof:lastmodified":1588367080,
+    "wof:lastmodified":1588613584,
     "wof:name":"Ar\u015fi\u0163a",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

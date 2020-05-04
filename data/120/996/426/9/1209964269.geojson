@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.22549,46.66897,24.26549,46.70897",
+    "lbl:latitude":46.692699,
+    "lbl:longitude":24.225179,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.692699,
+    "mps:longitude":24.225179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1209964269,
-    "wof:lastmodified":1588367151,
+    "wof:lastmodified":1588613625,
     "wof:name":"B\u00e2rliba\u015f",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

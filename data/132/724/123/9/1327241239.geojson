@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.41654,46.26582,23.45654,46.30582",
+    "lbl:latitude":46.286634,
+    "lbl:longitude":23.442993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.286634,
+    "mps:longitude":23.442993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1327241239,
-    "wof:lastmodified":1588367108,
+    "wof:lastmodified":1588613600,
     "wof:name":"Bo\u0163ani",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.43847,46.35407,24.47847,46.39407",
+    "lbl:latitude":46.373606,
+    "lbl:longitude":24.456396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.373606,
+    "mps:longitude":24.456396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -63,7 +68,7 @@
         }
     ],
     "wof:id":1209569605,
-    "wof:lastmodified":1588367039,
+    "wof:lastmodified":1588613560,
     "wof:name":"Bernadea",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

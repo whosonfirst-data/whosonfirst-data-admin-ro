@@ -14,10 +14,12 @@
     "gn:population":0,
     "iso:country":"RO",
     "lbl:bbox":"22.79667,45.71333,22.83667,45.75333",
-    "lbl:latitude":45.73333,
-    "lbl:longitude":22.81667,
+    "lbl:latitude":45.728708,
+    "lbl:longitude":22.8076,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.728708,
+    "mps:longitude":22.8076,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1125922731,
-    "wof:lastmodified":1588367119,
+    "wof:lastmodified":1588613607,
     "wof:name":"Gov\u0103jdia",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

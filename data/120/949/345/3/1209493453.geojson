@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.90172,45.37032,26.94172,45.41032",
+    "lbl:latitude":45.392376,
+    "lbl:longitude":26.919138,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.392376,
+    "mps:longitude":26.919138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":1209493453,
-    "wof:lastmodified":1588367093,
+    "wof:lastmodified":1588613592,
     "wof:name":"Livada Mic\u0103",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

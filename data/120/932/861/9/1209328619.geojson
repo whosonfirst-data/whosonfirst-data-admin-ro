@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.46732,46.07841,23.50732,46.11841",
+    "lbl:latitude":46.098639,
+    "lbl:longitude":23.48531,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.098639,
+    "mps:longitude":23.48531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1209328619,
-    "wof:lastmodified":1588367125,
+    "wof:lastmodified":1588613610,
     "wof:name":"P\u0103durea",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

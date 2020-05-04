@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.8392,44.69026,21.8792,44.73026",
+    "lbl:latitude":44.709323,
+    "lbl:longitude":21.857446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.709323,
+    "mps:longitude":21.857446,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1243048053,
-    "wof:lastmodified":1588367030,
+    "wof:lastmodified":1588613555,
     "wof:name":"Valea Sichevi\u0163ei",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

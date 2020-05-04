@@ -14,10 +14,12 @@
     "gn:population":2879,
     "iso:country":"RO",
     "lbl:bbox":"21.87278,45.62056,21.91278,45.66056",
-    "lbl:latitude":45.64056,
-    "lbl:longitude":21.89278,
+    "lbl:latitude":45.640897,
+    "lbl:longitude":21.896554,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.640897,
+    "mps:longitude":21.896554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1125862513,
-    "wof:lastmodified":1588367016,
+    "wof:lastmodified":1588613546,
     "wof:name":"Victor Vlad Delamarina",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

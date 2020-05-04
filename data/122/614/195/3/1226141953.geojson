@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.16333,46.63,22.20333,46.67",
+    "lbl:latitude":46.640542,
+    "lbl:longitude":22.183084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.640542,
+    "mps:longitude":22.183084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1226141953,
-    "wof:lastmodified":1588367143,
+    "wof:lastmodified":1588613620,
     "wof:name":"Dumbr\u0103vi\u0163a de Codru",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

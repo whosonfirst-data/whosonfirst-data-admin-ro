@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.40865,45.23132,24.44865,45.27132",
+    "lbl:latitude":45.253869,
+    "lbl:longitude":24.414006,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.253869,
+    "mps:longitude":24.414006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1259913725,
-    "wof:lastmodified":1588366886,
+    "wof:lastmodified":1588613473,
     "wof:name":"Stoene\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

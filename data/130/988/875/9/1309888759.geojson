@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.73539,45.99136,25.77539,46.03136",
+    "lbl:latitude":46.011278,
+    "lbl:longitude":25.753107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.011278,
+    "mps:longitude":25.753107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":1309888759,
-    "wof:lastmodified":1588367020,
+    "wof:lastmodified":1588613548,
     "wof:name":"Valea Z\u0103lanului",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

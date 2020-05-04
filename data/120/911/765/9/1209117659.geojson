@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.66192,45.0332,24.70192,45.0732",
+    "lbl:latitude":45.051636,
+    "lbl:longitude":24.6758,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.051636,
+    "mps:longitude":24.6758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":1209117659,
-    "wof:lastmodified":1588366657,
+    "wof:lastmodified":1588613457,
     "wof:name":"Valea Brazilor",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

@@ -14,10 +14,12 @@
     "gn:population":4007,
     "iso:country":"RO",
     "lbl:bbox":"27.36333,46.31333,27.40333,46.35333",
-    "lbl:latitude":46.33333,
-    "lbl:longitude":27.38333,
+    "lbl:latitude":46.30915,
+    "lbl:longitude":27.398406,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.30915,
+    "mps:longitude":27.398406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1125933881,
-    "wof:lastmodified":1588367071,
+    "wof:lastmodified":1588613578,
     "wof:name":"Moto\u015feni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

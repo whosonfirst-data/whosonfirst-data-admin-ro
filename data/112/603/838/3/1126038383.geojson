@@ -14,10 +14,12 @@
     "gn:population":2203,
     "iso:country":"RO",
     "lbl:bbox":"22.46333,46.43,22.50333,46.47",
-    "lbl:latitude":46.45,
-    "lbl:longitude":22.48333,
+    "lbl:latitude":46.451631,
+    "lbl:longitude":22.500668,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.451631,
+    "mps:longitude":22.500668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1126038383,
-    "wof:lastmodified":1588367142,
+    "wof:lastmodified":1588613620,
     "wof:name":"C\u0103rpinet",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.77878,47.34335,26.81878,47.38335",
+    "lbl:latitude":47.366215,
+    "lbl:longitude":26.797189,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.366215,
+    "mps:longitude":26.797189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1226000957,
-    "wof:lastmodified":1588367121,
+    "wof:lastmodified":1588613608,
     "wof:name":"Vl\u0103dnicu\u0163",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

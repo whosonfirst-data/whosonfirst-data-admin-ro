@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.34329,46.07687,27.38329,46.11687",
+    "lbl:latitude":46.095534,
+    "lbl:longitude":27.360599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.095534,
+    "mps:longitude":27.360599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1193184875,
-    "wof:lastmodified":1588367034,
+    "wof:lastmodified":1588613558,
     "wof:name":"Vladnicu de Jos",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.21229,47.86275,23.25229,47.90275",
+    "lbl:latitude":47.883705,
+    "lbl:longitude":23.228318,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.883705,
+    "mps:longitude":23.228318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1260029091,
-    "wof:lastmodified":1588367077,
+    "wof:lastmodified":1588613583,
     "wof:name":"P\u0103\u015funea Mare",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

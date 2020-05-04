@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.54087,44.36718,23.58087,44.40718",
+    "lbl:latitude":44.385473,
+    "lbl:longitude":23.55952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.385473,
+    "mps:longitude":23.55952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1209190585,
-    "wof:lastmodified":1588367098,
+    "wof:lastmodified":1588613595,
     "wof:name":"Pereni",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

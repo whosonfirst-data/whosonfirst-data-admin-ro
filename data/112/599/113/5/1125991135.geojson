@@ -14,10 +14,12 @@
     "gn:population":0,
     "iso:country":"RO",
     "lbl:bbox":"22.01333,46.94667,22.05333,46.98667",
-    "lbl:latitude":46.96667,
-    "lbl:longitude":22.03333,
+    "lbl:latitude":46.974357,
+    "lbl:longitude":22.017752,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.974357,
+    "mps:longitude":22.017752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1125991135,
-    "wof:lastmodified":1588367057,
+    "wof:lastmodified":1588613570,
     "wof:name":"Betfia",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

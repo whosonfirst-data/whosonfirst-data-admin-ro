@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.18168,44.73737,24.22168,44.77737",
+    "lbl:latitude":44.763305,
+    "lbl:longitude":24.187662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.763305,
+    "mps:longitude":24.187662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1209950557,
-    "wof:lastmodified":1588367025,
+    "wof:lastmodified":1588613551,
     "wof:name":"Cet\u0103\u0163eaua",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

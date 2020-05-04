@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.41666,45.32269,24.45666,45.36269",
+    "lbl:latitude":45.345256,
+    "lbl:longitude":24.429127,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.345256,
+    "mps:longitude":24.429127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -70,6 +74,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360019165,
-    "wof:lastmodified":1588366716,
+    "wof:lastmodified":1588613461,
     "wof:name":"Poiana",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.6062,46.37486,23.6462,46.41486",
+    "lbl:latitude":46.395423,
+    "lbl:longitude":23.624477,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.395423,
+    "mps:longitude":23.624477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -70,6 +74,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1360089087,
-    "wof:lastmodified":1588367090,
+    "wof:lastmodified":1588613590,
     "wof:name":"Rachi\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -14,10 +14,12 @@
     "gn:population":1990,
     "iso:country":"RO",
     "lbl:bbox":"22.86333,45.54667,22.90333,45.58667",
-    "lbl:latitude":45.56667,
-    "lbl:longitude":22.88333,
+    "lbl:latitude":45.573222,
+    "lbl:longitude":22.886904,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":45.573222,
+    "mps:longitude":22.886904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1125856599,
-    "wof:lastmodified":1588367052,
+    "wof:lastmodified":1588613567,
     "wof:name":"Tote\u015fti",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

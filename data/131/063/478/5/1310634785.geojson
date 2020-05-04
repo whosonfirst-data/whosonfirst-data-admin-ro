@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.20066,45.04126,24.24066,45.08126",
+    "lbl:latitude":45.06161,
+    "lbl:longitude":24.217758,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.06161,
+    "mps:longitude":24.217758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1310634785,
-    "wof:lastmodified":1588367025,
+    "wof:lastmodified":1588613552,
     "wof:name":"Sc\u0103ri\u015foara",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

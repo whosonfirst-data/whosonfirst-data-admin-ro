@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.58,44.86333,24.62,44.90333",
+    "lbl:latitude":44.874554,
+    "lbl:longitude":24.61537,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.874554,
+    "mps:longitude":24.61537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":1293791331,
-    "wof:lastmodified":1588367117,
+    "wof:lastmodified":1588613605,
     "wof:name":"Lungule\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

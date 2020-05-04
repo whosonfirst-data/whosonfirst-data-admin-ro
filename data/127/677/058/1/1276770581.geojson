@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.61333,45.31333,24.65333,45.35333",
+    "lbl:latitude":45.323576,
+    "lbl:longitude":24.637891,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.323576,
+    "mps:longitude":24.637891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":1276770581,
-    "wof:lastmodified":1588367060,
+    "wof:lastmodified":1588613572,
     "wof:name":"C\u0103p\u0103\u0163\u00e2nenii Ungureni",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

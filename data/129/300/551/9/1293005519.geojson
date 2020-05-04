@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.41333,46.63,22.45333,46.67",
+    "lbl:latitude":46.661143,
+    "lbl:longitude":22.42904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.661143,
+    "mps:longitude":22.42904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -55,6 +59,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -79,7 +84,7 @@
         }
     ],
     "wof:id":1293005519,
-    "wof:lastmodified":1588367057,
+    "wof:lastmodified":1588613570,
     "wof:name":"Teleac",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

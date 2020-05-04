@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.90315,47.18622,23.94315,47.22622",
+    "lbl:latitude":47.206222,
+    "lbl:longitude":23.921514,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.206222,
+    "mps:longitude":23.921514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1293369433,
-    "wof:lastmodified":1588367149,
+    "wof:lastmodified":1588613624,
     "wof:name":"Valea G\u00e2rboului",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

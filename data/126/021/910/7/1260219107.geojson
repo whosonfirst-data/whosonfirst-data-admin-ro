@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.27583,47.26589,23.31583,47.30589",
+    "lbl:latitude":47.284944,
+    "lbl:longitude":23.292849,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.284944,
+    "mps:longitude":23.292849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1260219107,
-    "wof:lastmodified":1588367152,
+    "wof:lastmodified":1588613625,
     "wof:name":"Husia",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

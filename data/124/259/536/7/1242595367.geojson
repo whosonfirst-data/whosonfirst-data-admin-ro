@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.97104,46.29271,23.01104,46.33271",
+    "lbl:latitude":46.315585,
+    "lbl:longitude":22.993048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.315585,
+    "mps:longitude":22.993048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1242595367,
-    "wof:lastmodified":1588367107,
+    "wof:lastmodified":1588613600,
     "wof:name":"Furduie\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

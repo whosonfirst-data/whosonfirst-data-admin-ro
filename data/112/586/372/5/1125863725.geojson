@@ -14,10 +14,12 @@
     "gn:population":1824,
     "iso:country":"RO",
     "lbl:bbox":"25.78,44.71333,25.82,44.75333",
-    "lbl:latitude":44.73333,
-    "lbl:longitude":25.8,
+    "lbl:latitude":44.733173,
+    "lbl:longitude":25.813477,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":44.733173,
+    "mps:longitude":25.813477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1125863725,
-    "wof:lastmodified":1588367033,
+    "wof:lastmodified":1588613557,
     "wof:name":"Bilciure\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.5507,46.92766,27.5907,46.96766",
+    "lbl:latitude":46.947383,
+    "lbl:longitude":27.568439,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.947383,
+    "mps:longitude":27.568439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":1209062479,
-    "wof:lastmodified":1588367054,
+    "wof:lastmodified":1588613568,
     "wof:name":"Lunca Rate\u015f",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

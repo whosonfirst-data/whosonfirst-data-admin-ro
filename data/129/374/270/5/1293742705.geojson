@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.56439,45.61941,22.60439,45.65941",
+    "lbl:latitude":45.637662,
+    "lbl:longitude":22.583419,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.637662,
+    "mps:longitude":22.583419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1293742705,
-    "wof:lastmodified":1588367052,
+    "wof:lastmodified":1588613567,
     "wof:name":"Lunca Cernii de Sus",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

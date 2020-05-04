@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.00654,46.39418,23.04654,46.43418",
+    "lbl:latitude":46.416467,
+    "lbl:longitude":23.021941,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.416467,
+    "mps:longitude":23.021941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1343476433,
-    "wof:lastmodified":1588367108,
+    "wof:lastmodified":1588613600,
     "wof:name":"Certege",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

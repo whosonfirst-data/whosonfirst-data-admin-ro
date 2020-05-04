@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.36095,45.11792,24.40095,45.15792",
+    "lbl:latitude":45.145003,
+    "lbl:longitude":24.369524,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.145003,
+    "mps:longitude":24.369524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":1242709095,
-    "wof:lastmodified":1588367159,
+    "wof:lastmodified":1588613630,
     "wof:name":"Malu Alb",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

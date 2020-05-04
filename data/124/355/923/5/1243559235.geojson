@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.55131,47.34776,22.59131,47.38776",
+    "lbl:latitude":47.367336,
+    "lbl:longitude":22.567287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.367336,
+    "mps:longitude":22.567287,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -76,6 +80,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -101,7 +106,7 @@
         }
     ],
     "wof:id":1243559235,
-    "wof:lastmodified":1588367146,
+    "wof:lastmodified":1588613622,
     "wof:name":"Huta",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

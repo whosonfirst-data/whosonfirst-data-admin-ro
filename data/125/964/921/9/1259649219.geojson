@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.41333,45.06333,23.45333,45.10333",
+    "lbl:latitude":45.092079,
+    "lbl:longitude":23.424247,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.092079,
+    "mps:longitude":23.424247,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1259649219,
-    "wof:lastmodified":1588367130,
+    "wof:lastmodified":1588613613,
     "wof:name":"C\u00e2nepe\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

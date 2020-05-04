@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.44063,45.09753,24.48063,45.13753",
+    "lbl:latitude":45.116045,
+    "lbl:longitude":24.459989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.116045,
+    "mps:longitude":24.459989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1209139799,
-    "wof:lastmodified":1588367026,
+    "wof:lastmodified":1588613552,
     "wof:name":"V\u0103t\u0103\u015fe\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.70863,44.87165,22.74863,44.91165",
+    "lbl:latitude":44.889095,
+    "lbl:longitude":22.729281,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.889095,
+    "mps:longitude":22.729281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":1243220577,
-    "wof:lastmodified":1588367134,
+    "wof:lastmodified":1588613616,
     "wof:name":"Runcu\u015foru",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

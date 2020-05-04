@@ -14,10 +14,12 @@
     "gn:population":3141,
     "iso:country":"RO",
     "lbl:bbox":"27.51333,46.59667,27.55333,46.63667",
-    "lbl:latitude":46.61667,
-    "lbl:longitude":27.53333,
+    "lbl:latitude":46.607908,
+    "lbl:longitude":27.536974,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.607908,
+    "mps:longitude":27.536974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,7 +107,7 @@
         }
     ],
     "wof:id":1125825751,
-    "wof:lastmodified":1588367160,
+    "wof:lastmodified":1588613631,
     "wof:name":"Poiene\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

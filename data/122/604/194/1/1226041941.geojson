@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.43182,47.29112,22.47182,47.33112",
+    "lbl:latitude":47.309879,
+    "lbl:longitude":22.448846,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.309879,
+    "mps:longitude":22.448846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1226041941,
-    "wof:lastmodified":1588367145,
+    "wof:lastmodified":1588613621,
     "wof:name":"Ghida",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

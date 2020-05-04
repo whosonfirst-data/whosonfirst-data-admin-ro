@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.44761,45.80625,25.48761,45.84625",
+    "lbl:latitude":45.825347,
+    "lbl:longitude":25.464366,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.825347,
+    "mps:longitude":25.464366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1310585551,
-    "wof:lastmodified":1588367147,
+    "wof:lastmodified":1588613622,
     "wof:name":"Cutu\u015f",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",

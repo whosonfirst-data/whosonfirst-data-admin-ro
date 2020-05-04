@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.32817,46.69432,22.36817,46.73432",
+    "lbl:latitude":46.712903,
+    "lbl:longitude":22.346563,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.712903,
+    "mps:longitude":22.346563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -50,6 +54,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +80,7 @@
         }
     ],
     "wof:id":1276476623,
-    "wof:lastmodified":1588367056,
+    "wof:lastmodified":1588613570,
     "wof:name":"Petreasa",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

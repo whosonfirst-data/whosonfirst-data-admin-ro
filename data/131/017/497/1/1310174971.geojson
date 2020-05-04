@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.37581,45.162,25.41581,45.202",
+    "lbl:latitude":45.190485,
+    "lbl:longitude":25.374366,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.190485,
+    "mps:longitude":25.374366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1310174971,
-    "wof:lastmodified":1588367021,
+    "wof:lastmodified":1588613549,
     "wof:name":"Ferestre",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.46705,47.35628,22.50705,47.39628",
+    "lbl:latitude":47.377053,
+    "lbl:longitude":22.481949,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.377053,
+    "mps:longitude":22.481949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1243553785,
-    "wof:lastmodified":1588367145,
+    "wof:lastmodified":1588613622,
     "wof:name":"Reghea",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",

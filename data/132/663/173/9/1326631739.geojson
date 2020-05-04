@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.73,44.79667,24.77,44.83667",
+    "lbl:latitude":44.813523,
+    "lbl:longitude":24.749437,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.813523,
+    "mps:longitude":24.749437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1326631739,
-    "wof:lastmodified":1588367135,
+    "wof:lastmodified":1588613616,
     "wof:name":"G\u00e2lce\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

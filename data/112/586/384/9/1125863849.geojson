@@ -14,10 +14,12 @@
     "gn:population":3139,
     "iso:country":"RO",
     "lbl:bbox":"27.61333,46.39667,27.65333,46.43667",
-    "lbl:latitude":46.41667,
-    "lbl:longitude":27.63333,
+    "lbl:latitude":46.423036,
+    "lbl:longitude":27.641873,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.423036,
+    "mps:longitude":27.641873,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -83,7 +85,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125863849,
-    "wof:lastmodified":1588367122,
+    "wof:lastmodified":1588613608,
     "wof:name":"Alexandru Vlahu\u0163\u0103",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

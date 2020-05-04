@@ -14,10 +14,12 @@
     "gn:population":1834,
     "iso:country":"RO",
     "lbl:bbox":"23.51333,45.08,23.55333,45.12",
-    "lbl:latitude":45.1,
-    "lbl:longitude":23.53333,
+    "lbl:latitude":45.085461,
+    "lbl:longitude":23.547678,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":45.085461,
+    "mps:longitude":23.547678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1125824019,
-    "wof:lastmodified":1588367044,
+    "wof:lastmodified":1588613562,
     "wof:name":"S\u0103celu",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

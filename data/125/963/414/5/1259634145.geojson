@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.53911,44.3863,24.57911,44.4263",
+    "lbl:latitude":44.395702,
+    "lbl:longitude":24.553741,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.395702,
+    "mps:longitude":24.553741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1259634145,
-    "wof:lastmodified":1588366881,
+    "wof:lastmodified":1588613472,
     "wof:name":"Mierle\u015ftii de Sus",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

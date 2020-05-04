@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.18626,46.76535,24.22626,46.80535",
+    "lbl:latitude":46.781322,
+    "lbl:longitude":24.204367,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.781322,
+    "mps:longitude":24.204367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1276171469,
-    "wof:lastmodified":1588367133,
+    "wof:lastmodified":1588613615,
     "wof:name":"S\u0103rm\u0103\u015fel-Gar\u0103",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

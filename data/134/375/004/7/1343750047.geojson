@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.00918,45.36085,27.04918,45.40085",
+    "lbl:latitude":45.385061,
+    "lbl:longitude":27.02327,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.385061,
+    "mps:longitude":27.02327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -70,6 +74,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":1343750047,
-    "wof:lastmodified":1588367148,
+    "wof:lastmodified":1588613623,
     "wof:name":"Po\u015fta",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

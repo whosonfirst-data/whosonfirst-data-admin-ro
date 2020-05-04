@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.86816,44.85872,22.90816,44.89872",
+    "lbl:latitude":44.883636,
+    "lbl:longitude":22.886822,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.883636,
+    "mps:longitude":22.886822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1293444773,
-    "wof:lastmodified":1588367038,
+    "wof:lastmodified":1588613560,
     "wof:name":"S\u0103rd\u0103ne\u015fti",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

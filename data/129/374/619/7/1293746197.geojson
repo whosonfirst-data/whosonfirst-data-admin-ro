@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.73585,44.70349,23.77585,44.74349",
+    "lbl:latitude":44.722476,
+    "lbl:longitude":23.753356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.722476,
+    "mps:longitude":23.753356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1293746197,
-    "wof:lastmodified":1588367063,
+    "wof:lastmodified":1588613574,
     "wof:name":"Petr\u0103chei",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

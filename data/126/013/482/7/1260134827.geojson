@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.86316,44.59246,22.90316,44.63246",
+    "lbl:latitude":44.612601,
+    "lbl:longitude":22.881093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.612601,
+    "mps:longitude":22.881093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":1260134827,
-    "wof:lastmodified":1588367115,
+    "wof:lastmodified":1588613604,
     "wof:name":"Prunaru",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

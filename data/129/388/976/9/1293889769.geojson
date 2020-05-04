@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.06649,46.5473,27.10649,46.5873",
+    "lbl:latitude":46.567878,
+    "lbl:longitude":27.082202,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.567878,
+    "mps:longitude":27.082202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1293889769,
-    "wof:lastmodified":1588367055,
+    "wof:lastmodified":1588613569,
     "wof:name":"Bote\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

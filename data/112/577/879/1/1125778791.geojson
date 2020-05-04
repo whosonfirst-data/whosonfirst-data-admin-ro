@@ -14,10 +14,12 @@
     "gn:population":3309,
     "iso:country":"RO",
     "lbl:bbox":"23.16333,45.76333,23.20333,45.80333",
-    "lbl:latitude":45.78333,
-    "lbl:longitude":23.18333,
+    "lbl:latitude":45.789716,
+    "lbl:longitude":23.192431,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.789716,
+    "mps:longitude":23.192431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -67,7 +69,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":1125778791,
-    "wof:lastmodified":1588367052,
+    "wof:lastmodified":1588613567,
     "wof:name":"Beriu",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

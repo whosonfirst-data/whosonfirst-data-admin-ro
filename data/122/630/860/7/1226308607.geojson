@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.30343,45.06759,23.34343,45.10759",
+    "lbl:latitude":45.085975,
+    "lbl:longitude":23.319416,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.085975,
+    "mps:longitude":23.319416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1226308607,
-    "wof:lastmodified":1588367128,
+    "wof:lastmodified":1588613612,
     "wof:name":"Iezureni",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

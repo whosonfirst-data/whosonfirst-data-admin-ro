@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.28389,47.77233,23.32389,47.81233",
+    "lbl:latitude":47.795644,
+    "lbl:longitude":23.292699,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.795644,
+    "mps:longitude":23.292699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1276817559,
-    "wof:lastmodified":1588367111,
+    "wof:lastmodified":1588613602,
     "wof:name":"Rac\u015fa Vii",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

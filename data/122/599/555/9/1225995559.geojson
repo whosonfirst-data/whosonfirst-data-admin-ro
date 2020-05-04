@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.84667,46.83,25.88667,46.87",
+    "lbl:latitude":46.840865,
+    "lbl:longitude":25.868771,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.840865,
+    "mps:longitude":25.868771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -50,6 +54,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -74,7 +79,7 @@
         }
     ],
     "wof:id":1225995559,
-    "wof:lastmodified":1588367017,
+    "wof:lastmodified":1588613547,
     "wof:name":"Gherman",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

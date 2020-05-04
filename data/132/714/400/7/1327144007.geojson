@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.71617,46.47391,22.75617,46.51391",
+    "lbl:latitude":46.500677,
+    "lbl:longitude":22.736012,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.500677,
+    "mps:longitude":22.736012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1327144007,
-    "wof:lastmodified":1588367036,
+    "wof:lastmodified":1588613559,
     "wof:name":"Coble\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.34417,44.2721,24.38417,44.3121",
+    "lbl:latitude":44.293584,
+    "lbl:longitude":24.362687,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.293584,
+    "mps:longitude":24.362687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1242825101,
-    "wof:lastmodified":1588367102,
+    "wof:lastmodified":1588613597,
     "wof:name":"Tomeni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

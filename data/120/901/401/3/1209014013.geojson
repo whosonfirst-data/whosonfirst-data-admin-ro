@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.91821,46.29952,22.95821,46.33952",
+    "lbl:latitude":46.321371,
+    "lbl:longitude":22.938166,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.321371,
+    "mps:longitude":22.938166,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1209014013,
-    "wof:lastmodified":1588367036,
+    "wof:lastmodified":1588613559,
     "wof:name":"Joldi\u015fe\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

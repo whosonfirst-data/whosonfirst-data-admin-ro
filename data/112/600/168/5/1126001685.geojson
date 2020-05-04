@@ -14,10 +14,12 @@
     "gn:population":0,
     "iso:country":"RO",
     "lbl:bbox":"27.04667,46.76333,27.08667,46.80333",
-    "lbl:latitude":46.78333,
-    "lbl:longitude":27.06667,
+    "lbl:latitude":46.78043,
+    "lbl:longitude":27.071592,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.78043,
+    "mps:longitude":27.071592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -58,7 +60,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":1126001685,
-    "wof:lastmodified":1588367151,
+    "wof:lastmodified":1588613625,
     "wof:name":"Bucium",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

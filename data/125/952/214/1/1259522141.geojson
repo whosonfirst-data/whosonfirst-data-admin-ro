@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.6345,46.63507,27.6745,46.67507",
+    "lbl:latitude":46.652827,
+    "lbl:longitude":27.652641,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.652827,
+    "mps:longitude":27.652641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1259522141,
-    "wof:lastmodified":1588367034,
+    "wof:lastmodified":1588613557,
     "wof:name":"Valea T\u00e2rgului",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",

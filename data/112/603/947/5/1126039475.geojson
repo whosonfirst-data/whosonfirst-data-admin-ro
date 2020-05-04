@@ -14,10 +14,12 @@
     "gn:population":2230,
     "iso:country":"RO",
     "lbl:bbox":"24.59667,44.94667,24.63667,44.98667",
-    "lbl:latitude":44.96667,
-    "lbl:longitude":24.61667,
+    "lbl:latitude":44.963716,
+    "lbl:longitude":24.618363,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":44.963716,
+    "mps:longitude":24.618363,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -89,7 +91,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1126039475,
-    "wof:lastmodified":1588367115,
+    "wof:lastmodified":1588613604,
     "wof:name":"Cotmeana",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

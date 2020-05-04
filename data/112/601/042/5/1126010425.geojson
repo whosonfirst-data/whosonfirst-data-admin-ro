@@ -14,10 +14,12 @@
     "gn:population":2038,
     "iso:country":"RO",
     "lbl:bbox":"23.08,44.59667,23.12,44.63667",
-    "lbl:latitude":44.61667,
-    "lbl:longitude":23.1,
+    "lbl:latitude":44.62388,
+    "lbl:longitude":23.0992,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.62388,
+    "mps:longitude":23.0992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -78,7 +80,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -112,7 +114,7 @@
         }
     ],
     "wof:id":1126010425,
-    "wof:lastmodified":1588367117,
+    "wof:lastmodified":1588613606,
     "wof:name":"Voloiac",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

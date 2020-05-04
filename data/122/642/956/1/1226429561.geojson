@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"21.84371,45.20937,21.88371,45.24937",
+    "lbl:latitude":45.228732,
+    "lbl:longitude":21.861277,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.228732,
+    "mps:longitude":21.861277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1226429561,
-    "wof:lastmodified":1588367032,
+    "wof:lastmodified":1588613556,
     "wof:name":"Nermed",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

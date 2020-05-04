@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.20053,45.05631,24.24053,45.09631",
+    "lbl:latitude":45.075767,
+    "lbl:longitude":24.216421,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.075767,
+    "mps:longitude":24.216421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1309939653,
-    "wof:lastmodified":1588367159,
+    "wof:lastmodified":1588613630,
     "wof:name":"Guri\u015foara",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.01977,46.39133,24.05977,46.43133",
+    "lbl:latitude":46.408346,
+    "lbl:longitude":24.054851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.408346,
+    "mps:longitude":24.054851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1209964277,
-    "wof:lastmodified":1588367039,
+    "wof:lastmodified":1588613561,
     "wof:name":"Maldaoci",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

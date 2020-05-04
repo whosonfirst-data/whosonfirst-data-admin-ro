@@ -14,10 +14,12 @@
     "gn:population":5065,
     "iso:country":"RO",
     "lbl:bbox":"27.13,47.16333,27.17,47.20333",
-    "lbl:latitude":47.18333,
-    "lbl:longitude":27.15,
+    "lbl:latitude":47.188529,
+    "lbl:longitude":27.139077,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
+    "mps:latitude":47.188529,
+    "mps:longitude":27.139077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -81,7 +83,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1126024235,
-    "wof:lastmodified":1588367053,
+    "wof:lastmodified":1588613568,
     "wof:name":"Lungani",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

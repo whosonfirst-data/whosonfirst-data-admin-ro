@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.58907,45.03949,25.62907,45.07949",
+    "lbl:latitude":45.060742,
+    "lbl:longitude":25.603339,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.060742,
+    "mps:longitude":25.603339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -68,6 +72,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,7 +98,7 @@
         }
     ],
     "wof:id":1360057847,
-    "wof:lastmodified":1588367099,
+    "wof:lastmodified":1588613595,
     "wof:name":"Valea Mare",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",

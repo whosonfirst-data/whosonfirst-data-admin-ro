@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.61728,46.19624,26.65728,46.23624",
+    "lbl:latitude":46.216048,
+    "lbl:longitude":26.633978,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.216048,
+    "mps:longitude":26.633978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -73,6 +77,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1326530203,
-    "wof:lastmodified":1588367136,
+    "wof:lastmodified":1588613616,
     "wof:name":"Marginea",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

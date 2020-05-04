@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.91018,44.88585,23.95018,44.92585",
+    "lbl:latitude":44.901071,
+    "lbl:longitude":23.934874,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.901071,
+    "mps:longitude":23.934874,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":1209551685,
-    "wof:lastmodified":1588367013,
+    "wof:lastmodified":1588613545,
     "wof:name":"Rom\u00e2ne\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

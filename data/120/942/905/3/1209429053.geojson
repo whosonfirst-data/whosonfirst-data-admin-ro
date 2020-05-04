@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.88791,46.34518,22.92791,46.38518",
+    "lbl:latitude":46.362583,
+    "lbl:longitude":22.897703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.362583,
+    "mps:longitude":22.897703,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":1209429053,
-    "wof:lastmodified":1588367082,
+    "wof:lastmodified":1588613585,
     "wof:name":"Dosu Luncii",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

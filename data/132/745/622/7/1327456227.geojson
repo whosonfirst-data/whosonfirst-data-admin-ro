@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.14414,47.30586,24.18414,47.34586",
+    "lbl:latitude":47.317805,
+    "lbl:longitude":24.155285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.317805,
+    "mps:longitude":24.155285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1327456227,
-    "wof:lastmodified":1588367144,
+    "wof:lastmodified":1588613621,
     "wof:name":"Lunca Borlesei",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

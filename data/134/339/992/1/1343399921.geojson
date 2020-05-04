@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"28.25855,44.75269,28.29855,44.79269",
+    "lbl:latitude":44.7724,
+    "lbl:longitude":28.276042,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.7724,
+    "mps:longitude":28.276042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1343399921,
-    "wof:lastmodified":1588367155,
+    "wof:lastmodified":1588613627,
     "wof:name":"Haidar",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",

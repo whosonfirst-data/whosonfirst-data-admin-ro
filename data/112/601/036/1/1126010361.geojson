@@ -14,10 +14,12 @@
     "gn:population":1262,
     "iso:country":"RO",
     "lbl:bbox":"23.24667,46.98,23.28667,47.02",
-    "lbl:latitude":47.0,
-    "lbl:longitude":23.26667,
+    "lbl:latitude":47.003494,
+    "lbl:longitude":23.26026,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":47.003494,
+    "mps:longitude":23.26026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -90,7 +92,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -124,7 +126,7 @@
         }
     ],
     "wof:id":1126010361,
-    "wof:lastmodified":1588367154,
+    "wof:lastmodified":1588613627,
     "wof:name":"Zimbor",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

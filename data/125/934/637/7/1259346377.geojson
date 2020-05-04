@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.73182,44.63943,23.77182,44.67943",
+    "lbl:latitude":44.6522,
+    "lbl:longitude":23.752208,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.6522,
+    "mps:longitude":23.752208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1259346377,
-    "wof:lastmodified":1588367041,
+    "wof:lastmodified":1588613561,
     "wof:name":"Mofle\u015fti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

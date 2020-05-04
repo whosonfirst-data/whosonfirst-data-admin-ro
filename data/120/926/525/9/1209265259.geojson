@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.43583,44.43008,24.47583,44.47008",
+    "lbl:latitude":44.448347,
+    "lbl:longitude":24.448638,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.448347,
+    "mps:longitude":24.448638,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -117,6 +121,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -138,7 +143,7 @@
         }
     ],
     "wof:id":1209265259,
-    "wof:lastmodified":1588367151,
+    "wof:lastmodified":1588613625,
     "wof:name":"B\u00e2rca",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

@@ -14,10 +14,12 @@
     "gn:population":4992,
     "iso:country":"RO",
     "lbl:bbox":"26.76333,45.36333,26.80333,45.40333",
-    "lbl:latitude":45.38333,
-    "lbl:longitude":26.78333,
+    "lbl:latitude":45.375293,
+    "lbl:longitude":26.769935,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.375293,
+    "mps:longitude":26.769935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -68,7 +70,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -102,7 +104,7 @@
         }
     ],
     "wof:id":1126020691,
-    "wof:lastmodified":1588366688,
+    "wof:lastmodified":1588613459,
     "wof:name":"Beceni",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

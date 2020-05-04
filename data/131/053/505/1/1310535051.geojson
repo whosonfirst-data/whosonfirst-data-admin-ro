@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.06333,44.89667,24.10333,44.93667",
+    "lbl:latitude":44.932513,
+    "lbl:longitude":24.096023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.932513,
+    "mps:longitude":24.096023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1310535051,
-    "wof:lastmodified":1588367024,
+    "wof:lastmodified":1588613551,
     "wof:name":"R\u00e2pa C\u0103r\u0103mizii",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

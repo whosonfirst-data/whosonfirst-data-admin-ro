@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.82886,45.07086,24.86886,45.11086",
+    "lbl:latitude":45.083675,
+    "lbl:longitude":24.84364,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.083675,
+    "mps:longitude":24.84364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -74,6 +78,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":1276555427,
-    "wof:lastmodified":1588367072,
+    "wof:lastmodified":1588613579,
     "wof:name":"Priseaca",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

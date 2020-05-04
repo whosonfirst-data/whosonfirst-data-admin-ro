@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.80584,46.01259,25.84584,46.05259",
+    "lbl:latitude":46.033746,
+    "lbl:longitude":25.822642,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.033746,
+    "mps:longitude":25.822642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1276530965,
-    "wof:lastmodified":1588367020,
+    "wof:lastmodified":1588613548,
     "wof:name":"Malna\u015f-B\u0103i",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",

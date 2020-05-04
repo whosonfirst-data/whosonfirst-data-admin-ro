@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.98633,45.1031,25.02633,45.1431",
+    "lbl:latitude":45.121124,
+    "lbl:longitude":25.005932,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.121124,
+    "mps:longitude":25.005932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -50,6 +54,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,7 +80,7 @@
         }
     ],
     "wof:id":1293786031,
-    "wof:lastmodified":1588367116,
+    "wof:lastmodified":1588613605,
     "wof:name":"Rudeni",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

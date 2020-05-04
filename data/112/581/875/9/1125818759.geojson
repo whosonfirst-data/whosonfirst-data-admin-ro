@@ -14,10 +14,12 @@
     "gn:population":0,
     "iso:country":"RO",
     "lbl:bbox":"24.56333,46.14667,24.60333,46.18667",
-    "lbl:latitude":46.16667,
-    "lbl:longitude":24.58333,
+    "lbl:latitude":46.169951,
+    "lbl:longitude":24.583131,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.169951,
+    "mps:longitude":24.583131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1125818759,
-    "wof:lastmodified":1588367107,
+    "wof:lastmodified":1588613600,
     "wof:name":"Valchid",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

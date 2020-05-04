@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.95396,45.38283,26.99396,45.42283",
+    "lbl:latitude":45.403279,
+    "lbl:longitude":26.966841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.403279,
+    "mps:longitude":26.966841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1360165863,
-    "wof:lastmodified":1588367093,
+    "wof:lastmodified":1588613592,
     "wof:name":"Z\u0103plazi",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.61333,46.19667,22.65333,46.23667",
+    "lbl:latitude":46.220063,
+    "lbl:longitude":22.629923,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.220063,
+    "mps:longitude":22.629923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -81,6 +85,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":1293553769,
-    "wof:lastmodified":1588367067,
+    "wof:lastmodified":1588613576,
     "wof:name":"Livada",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

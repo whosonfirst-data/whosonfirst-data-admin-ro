@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.56184,46.55253,26.60184,46.59253",
+    "lbl:latitude":46.571565,
+    "lbl:longitude":26.578322,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.571565,
+    "mps:longitude":26.578322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1344057257,
-    "wof:lastmodified":1588367141,
+    "wof:lastmodified":1588613619,
     "wof:name":"B\u0103hn\u0103\u015feni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

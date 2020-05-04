@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.27823,47.90313,23.31823,47.94313",
+    "lbl:latitude":47.92522,
+    "lbl:longitude":23.297242,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.92522,
+    "mps:longitude":23.297242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1226402097,
-    "wof:lastmodified":1588367152,
+    "wof:lastmodified":1588613626,
     "wof:name":"Lechin\u0163a",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",

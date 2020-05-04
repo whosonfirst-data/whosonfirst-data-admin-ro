@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.57818,46.21392,22.61818,46.25392",
+    "lbl:latitude":46.238324,
+    "lbl:longitude":22.603476,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.238324,
+    "mps:longitude":22.603476,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -81,6 +85,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -106,7 +111,7 @@
         }
     ],
     "wof:id":1343664875,
-    "wof:lastmodified":1588367109,
+    "wof:lastmodified":1588613601,
     "wof:name":"Poienari",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",

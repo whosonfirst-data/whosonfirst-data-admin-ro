@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.85764,44.62783,23.89764,44.66783",
+    "lbl:latitude":44.641398,
+    "lbl:longitude":23.880437,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.641398,
+    "mps:longitude":23.880437,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1259910847,
-    "wof:lastmodified":1588366759,
+    "wof:lastmodified":1588613463,
     "wof:name":"\u015etirbe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.05058,45.66511,22.09058,45.70511",
+    "lbl:latitude":45.684824,
+    "lbl:longitude":22.068642,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.684824,
+    "mps:longitude":22.068642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1344197543,
-    "wof:lastmodified":1588367155,
+    "wof:lastmodified":1588613627,
     "wof:name":"Drinova",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

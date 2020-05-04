@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.22455,45.10826,24.26455,45.14826",
+    "lbl:latitude":45.125086,
+    "lbl:longitude":24.264845,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.125086,
+    "mps:longitude":24.264845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -52,6 +56,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":1226578267,
-    "wof:lastmodified":1588366881,
+    "wof:lastmodified":1588613473,
     "wof:name":"Pietrari",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

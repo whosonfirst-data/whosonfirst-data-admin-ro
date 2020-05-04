@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.22713,44.98725,23.26713,45.02725",
+    "lbl:latitude":45.003943,
+    "lbl:longitude":23.244027,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.003943,
+    "mps:longitude":23.244027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1310576323,
-    "wof:lastmodified":1588367044,
+    "wof:lastmodified":1588613562,
     "wof:name":"Voinige\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

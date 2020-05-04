@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.55718,44.43385,26.59718,44.47385",
+    "lbl:latitude":44.451644,
+    "lbl:longitude":26.573659,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.451644,
+    "mps:longitude":26.573659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1193051963,
-    "wof:lastmodified":1588367097,
+    "wof:lastmodified":1588613594,
     "wof:name":"Plumbuita",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

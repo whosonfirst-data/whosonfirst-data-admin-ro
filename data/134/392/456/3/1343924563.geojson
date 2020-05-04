@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.71333,46.48,24.75333,46.52",
+    "lbl:latitude":46.49656,
+    "lbl:longitude":24.735561,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.49656,
+    "mps:longitude":24.735561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -69,7 +74,7 @@
         }
     ],
     "wof:id":1343924563,
-    "wof:lastmodified":1588366994,
+    "wof:lastmodified":1588613533,
     "wof:name":"S\u00e2nv\u0103sii",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

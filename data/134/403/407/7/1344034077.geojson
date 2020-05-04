@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.94029,46.96506,23.98029,47.00506",
+    "lbl:latitude":46.982581,
+    "lbl:longitude":23.955449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.982581,
+    "mps:longitude":23.955449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1344034077,
-    "wof:lastmodified":1588367148,
+    "wof:lastmodified":1588613623,
     "wof:name":"Lunca Bon\u0163ului",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

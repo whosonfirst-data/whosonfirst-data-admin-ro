@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.43346,45.08801,22.47346,45.12801",
+    "lbl:latitude":45.10924,
+    "lbl:longitude":22.446521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.10924,
+    "mps:longitude":22.446521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -55,6 +59,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,7 +85,7 @@
         }
     ],
     "wof:id":1293863945,
-    "wof:lastmodified":1588367031,
+    "wof:lastmodified":1588613556,
     "wof:name":"Prislop",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.58083,45.43517,26.62083,45.47517",
+    "lbl:latitude":45.45356,
+    "lbl:longitude":26.600026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.45356,
+    "mps:longitude":26.600026,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1309693489,
-    "wof:lastmodified":1588367097,
+    "wof:lastmodified":1588613594,
     "wof:name":"Ghiocari",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

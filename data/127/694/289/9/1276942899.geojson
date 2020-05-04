@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.79631,45.02868,22.83631,45.06868",
+    "lbl:latitude":45.049566,
+    "lbl:longitude":22.812306,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.049566,
+    "mps:longitude":22.812306,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1276942899,
-    "wof:lastmodified":1588367130,
+    "wof:lastmodified":1588613613,
     "wof:name":"Orze\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

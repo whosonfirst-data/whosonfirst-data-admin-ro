@@ -14,10 +14,12 @@
     "gn:population":0,
     "iso:country":"RO",
     "lbl:bbox":"23.51333,46.66333,23.55333,46.70333",
-    "lbl:latitude":46.68333,
-    "lbl:longitude":23.53333,
+    "lbl:latitude":46.675248,
+    "lbl:longitude":23.524257,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.675248,
+    "mps:longitude":23.524257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -79,7 +81,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1125915719,
-    "wof:lastmodified":1588367019,
+    "wof:lastmodified":1588613548,
     "wof:name":"S\u0103licea",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

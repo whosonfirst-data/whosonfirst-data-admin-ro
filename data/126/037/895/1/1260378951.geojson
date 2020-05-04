@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.88,44.83,26.92,44.87",
+    "lbl:latitude":44.848464,
+    "lbl:longitude":26.904901,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.848464,
+    "mps:longitude":26.904901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1260378951,
-    "wof:lastmodified":1588367094,
+    "wof:lastmodified":1588613592,
     "wof:name":"Lip\u0103nescu",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

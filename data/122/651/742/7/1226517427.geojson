@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.67066,44.61228,23.71066,44.65228",
+    "lbl:latitude":44.63327,
+    "lbl:longitude":23.682797,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.63327,
+    "mps:longitude":23.682797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1226517427,
-    "wof:lastmodified":1588366672,
+    "wof:lastmodified":1588613458,
     "wof:name":"Bojinu",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

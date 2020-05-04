@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.63047,46.20618,26.67047,46.24618",
+    "lbl:latitude":46.224917,
+    "lbl:longitude":26.648326,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.224917,
+    "mps:longitude":26.648326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -73,6 +77,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -98,7 +103,7 @@
         }
     ],
     "wof:id":1343864445,
-    "wof:lastmodified":1588367135,
+    "wof:lastmodified":1588613616,
     "wof:name":"Bahna",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

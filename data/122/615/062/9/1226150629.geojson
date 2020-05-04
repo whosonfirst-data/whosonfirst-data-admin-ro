@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.57816,44.82278,24.61816,44.86278",
+    "lbl:latitude":44.843763,
+    "lbl:longitude":24.610527,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.843763,
+    "mps:longitude":24.610527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1226150629,
-    "wof:lastmodified":1588367116,
+    "wof:lastmodified":1588613605,
     "wof:name":"Chiri\u0163e\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

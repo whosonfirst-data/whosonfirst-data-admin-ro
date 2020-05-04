@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.87949,44.80837,22.91949,44.84837",
+    "lbl:latitude":44.826151,
+    "lbl:longitude":22.898439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.826151,
+    "mps:longitude":22.898439,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1209171031,
-    "wof:lastmodified":1588367114,
+    "wof:lastmodified":1588613604,
     "wof:name":"Stroe\u015fti",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

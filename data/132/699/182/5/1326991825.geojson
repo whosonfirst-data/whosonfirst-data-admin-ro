@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.96849,46.52739,26.00849,46.56739",
+    "lbl:latitude":46.544792,
+    "lbl:longitude":25.990219,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.544792,
+    "mps:longitude":25.990219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1326991825,
-    "wof:lastmodified":1588367043,
+    "wof:lastmodified":1588613562,
     "wof:name":"Valea Boro\u015f",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",

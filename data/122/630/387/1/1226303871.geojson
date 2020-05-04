@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.63421,44.66022,24.67421,44.70022",
+    "lbl:latitude":44.694787,
+    "lbl:longitude":24.655079,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.694787,
+    "mps:longitude":24.655079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1226303871,
-    "wof:lastmodified":1588367075,
+    "wof:lastmodified":1588613581,
     "wof:name":"Cioc\u0103ne\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

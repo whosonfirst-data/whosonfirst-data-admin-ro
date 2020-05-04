@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.41351,46.26731,27.45351,46.30731",
+    "lbl:latitude":46.288371,
+    "lbl:longitude":27.43127,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.288371,
+    "mps:longitude":27.43127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -52,6 +56,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +82,7 @@
         }
     ],
     "wof:id":1226143303,
-    "wof:lastmodified":1588367056,
+    "wof:lastmodified":1588613569,
     "wof:name":"Cociu",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

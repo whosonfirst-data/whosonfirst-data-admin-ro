@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.81333,46.48,24.85333,46.52",
+    "lbl:latitude":46.495257,
+    "lbl:longitude":24.831966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.495257,
+    "mps:longitude":24.831966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -69,7 +74,7 @@
         }
     ],
     "wof:id":1260046555,
-    "wof:lastmodified":1588367064,
+    "wof:lastmodified":1588613574,
     "wof:name":"S\u00e2nsimion",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",

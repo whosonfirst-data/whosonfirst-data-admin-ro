@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.51377,46.50661,26.55377,46.54661",
+    "lbl:latitude":46.528847,
+    "lbl:longitude":26.525015,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.528847,
+    "mps:longitude":26.525015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1326736169,
-    "wof:lastmodified":1588367141,
+    "wof:lastmodified":1588613619,
     "wof:name":"St\u0103ne\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

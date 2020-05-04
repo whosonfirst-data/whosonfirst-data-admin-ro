@@ -14,10 +14,12 @@
     "gn:population":0,
     "iso:country":"RO",
     "lbl:bbox":"26.03,44.58,26.07,44.62",
-    "lbl:latitude":44.6,
-    "lbl:longitude":26.05,
+    "lbl:latitude":44.602459,
+    "lbl:longitude":26.063902,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.602459,
+    "mps:longitude":26.063902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -76,7 +78,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125818639,
-    "wof:lastmodified":1588367079,
+    "wof:lastmodified":1588613584,
     "wof:name":"Petre\u015fti",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",

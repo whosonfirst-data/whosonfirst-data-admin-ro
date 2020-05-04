@@ -14,10 +14,12 @@
     "gn:population":2280,
     "iso:country":"RO",
     "lbl:bbox":"24.06333,44.89667,24.10333,44.93667",
-    "lbl:latitude":44.91667,
-    "lbl:longitude":24.08333,
+    "lbl:latitude":44.908545,
+    "lbl:longitude":24.069331,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":44.908545,
+    "mps:longitude":24.069331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -43,7 +45,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1125775095,
-    "wof:lastmodified":1588367016,
+    "wof:lastmodified":1588613546,
     "wof:name":"Roe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.59124,47.77044,23.63124,47.81044",
+    "lbl:latitude":47.787869,
+    "lbl:longitude":23.609571,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.787869,
+    "mps:longitude":23.609571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -50,6 +54,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1209683477,
-    "wof:lastmodified":1588367065,
+    "wof:lastmodified":1588613575,
     "wof:name":"Blidari",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

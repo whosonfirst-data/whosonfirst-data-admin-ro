@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.62673,45.52352,26.66673,45.56352",
+    "lbl:latitude":45.541483,
+    "lbl:longitude":26.651618,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.541483,
+    "mps:longitude":26.651618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1225925231,
-    "wof:lastmodified":1588366788,
+    "wof:lastmodified":1588613465,
     "wof:name":"Lacurile",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.34109,45.91878,23.38109,45.95878",
+    "lbl:latitude":45.941252,
+    "lbl:longitude":23.35787,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.941252,
+    "mps:longitude":23.35787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1209825035,
-    "wof:lastmodified":1588367080,
+    "wof:lastmodified":1588613584,
     "wof:name":"Balomiru de C\u00e2mp",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

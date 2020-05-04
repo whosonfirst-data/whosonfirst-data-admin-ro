@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.79617,44.51767,22.83617,44.55767",
+    "lbl:latitude":44.537719,
+    "lbl:longitude":22.814266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.537719,
+    "mps:longitude":22.814266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1243129101,
-    "wof:lastmodified":1588367115,
+    "wof:lastmodified":1588613604,
     "wof:name":"C\u00e2rjei",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

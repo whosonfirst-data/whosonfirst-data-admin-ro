@@ -14,10 +14,12 @@
     "gn:population":1531,
     "iso:country":"RO",
     "lbl:bbox":"22.03,45.69667,22.07,45.73667",
-    "lbl:latitude":45.71667,
-    "lbl:longitude":22.05,
+    "lbl:latitude":45.718975,
+    "lbl:longitude":22.056499,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":45.718975,
+    "mps:longitude":22.056499,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -69,7 +71,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":1125879763,
-    "wof:lastmodified":1588367155,
+    "wof:lastmodified":1588613627,
     "wof:name":"B\u00e2rna",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",

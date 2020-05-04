@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.70557,44.7527,24.74557,44.7927",
+    "lbl:latitude":44.75769,
+    "lbl:longitude":24.739091,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.75769,
+    "mps:longitude":24.739091,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -49,6 +53,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,7 +79,7 @@
         }
     ],
     "wof:id":1259384771,
-    "wof:lastmodified":1588367051,
+    "wof:lastmodified":1588613566,
     "wof:name":"Lipia",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

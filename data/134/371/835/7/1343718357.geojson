@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.44667,44.59667,26.48667,44.63667",
+    "lbl:latitude":44.608256,
+    "lbl:longitude":26.472925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.608256,
+    "mps:longitude":26.472925,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1343718357,
-    "wof:lastmodified":1588367121,
+    "wof:lastmodified":1588613608,
     "wof:name":"Bi\u0163ina-P\u0103m\u00e2nteni",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",

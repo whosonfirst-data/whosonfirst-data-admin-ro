@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.59567,45.32965,26.63567,45.36965",
+    "lbl:latitude":45.350531,
+    "lbl:longitude":26.60964,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.350531,
+    "mps:longitude":26.60964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1360273755,
-    "wof:lastmodified":1588366758,
+    "wof:lastmodified":1588613463,
     "wof:name":"Plopeasa",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.54667,46.19667,22.58667,46.23667",
+    "lbl:latitude":46.209301,
+    "lbl:longitude":22.570401,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.209301,
+    "mps:longitude":22.570401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -43,6 +47,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1209789753,
-    "wof:lastmodified":1588367129,
+    "wof:lastmodified":1588613613,
     "wof:name":"Ociu",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

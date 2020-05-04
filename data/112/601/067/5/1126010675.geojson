@@ -14,10 +14,12 @@
     "gn:population":2995,
     "iso:country":"RO",
     "lbl:bbox":"23.89667,44.73,23.93667,44.77",
-    "lbl:latitude":44.75,
-    "lbl:longitude":23.91667,
+    "lbl:latitude":44.732816,
+    "lbl:longitude":23.918493,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":44.732816,
+    "mps:longitude":23.918493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -80,7 +82,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1126010675,
-    "wof:lastmodified":1588366850,
+    "wof:lastmodified":1588613471,
     "wof:name":"Tetoiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.36333,45.13,24.40333,45.17",
+    "lbl:latitude":45.150343,
+    "lbl:longitude":24.392803,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.150343,
+    "mps:longitude":24.392803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -44,6 +48,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1326863711,
-    "wof:lastmodified":1588367159,
+    "wof:lastmodified":1588613630,
     "wof:name":"Fedele\u015foiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

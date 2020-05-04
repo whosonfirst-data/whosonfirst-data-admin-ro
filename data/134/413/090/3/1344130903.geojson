@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.30258,45.65524,23.34258,45.69524",
+    "lbl:latitude":45.670463,
+    "lbl:longitude":23.320584,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.670463,
+    "mps:longitude":23.320584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1344130903,
-    "wof:lastmodified":1588367119,
+    "wof:lastmodified":1588613606,
     "wof:name":"M\u0103gureni",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

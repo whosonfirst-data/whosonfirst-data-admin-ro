@@ -14,10 +14,12 @@
     "gn:population":2095,
     "iso:country":"RO",
     "lbl:bbox":"27.39667,46.89667,27.43667,46.93667",
-    "lbl:latitude":46.91667,
-    "lbl:longitude":27.41667,
+    "lbl:latitude":46.91686,
+    "lbl:longitude":27.433644,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.91686,
+    "mps:longitude":27.433644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -84,7 +86,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125967261,
-    "wof:lastmodified":1588367039,
+    "wof:lastmodified":1588613561,
     "wof:name":"Ipatele",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",

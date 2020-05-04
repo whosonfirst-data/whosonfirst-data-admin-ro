@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.66194,44.59246,24.70194,44.63246",
+    "lbl:latitude":44.608413,
+    "lbl:longitude":24.682322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.608413,
+    "mps:longitude":24.682322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1327181399,
-    "wof:lastmodified":1588367075,
+    "wof:lastmodified":1588613581,
     "wof:name":"N\u0103v\u00e2rgeni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",

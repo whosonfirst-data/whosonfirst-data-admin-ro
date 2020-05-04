@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.89667,45.13,24.93667,45.17",
+    "lbl:latitude":45.136071,
+    "lbl:longitude":24.938053,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.136071,
+    "mps:longitude":24.938053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -44,6 +48,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -68,7 +73,7 @@
         }
     ],
     "wof:id":1327340941,
-    "wof:lastmodified":1588367059,
+    "wof:lastmodified":1588613571,
     "wof:name":"Dr\u0103ghescu",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

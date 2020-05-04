@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.57568,46.47439,26.61568,46.51439",
+    "lbl:latitude":46.494192,
+    "lbl:longitude":26.591964,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.494192,
+    "mps:longitude":26.591964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -151,6 +155,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":1226348475,
-    "wof:lastmodified":1588367054,
+    "wof:lastmodified":1588613569,
     "wof:name":"Cornet",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

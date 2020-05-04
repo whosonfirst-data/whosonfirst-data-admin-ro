@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.89667,44.13,23.93667,44.17",
+    "lbl:latitude":44.147416,
+    "lbl:longitude":23.913153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.147416,
+    "mps:longitude":23.913153,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -92,6 +96,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -116,7 +121,7 @@
         }
     ],
     "wof:id":1277153301,
-    "wof:lastmodified":1588367047,
+    "wof:lastmodified":1588613564,
     "wof:name":"Prunet",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",

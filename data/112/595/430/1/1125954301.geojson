@@ -14,10 +14,12 @@
     "gn:population":2308,
     "iso:country":"RO",
     "lbl:bbox":"25.36333,47.24667,25.40333,47.28667",
-    "lbl:latitude":47.26667,
-    "lbl:longitude":25.38333,
+    "lbl:latitude":47.274077,
+    "lbl:longitude":25.378314,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":47.274077,
+    "mps:longitude":25.378314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -80,7 +82,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1125954301,
-    "wof:lastmodified":1588367091,
+    "wof:lastmodified":1588613591,
     "wof:name":"Panaci",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",

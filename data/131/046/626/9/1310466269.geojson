@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.94667,45.83,22.98667,45.87",
+    "lbl:latitude":45.845694,
+    "lbl:longitude":22.965064,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.845694,
+    "mps:longitude":22.965064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1310466269,
-    "wof:lastmodified":1588367069,
+    "wof:lastmodified":1588613577,
     "wof:name":"S\u00e2ntandrei",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.04556,45.15958,26.08556,45.19958",
+    "lbl:latitude":45.172794,
+    "lbl:longitude":26.086315,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.172794,
+    "mps:longitude":26.086315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1193193059,
-    "wof:lastmodified":1588366694,
+    "wof:lastmodified":1588613459,
     "wof:name":"Vitioara de Sus",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.17837,47.20521,26.21837,47.24521",
+    "lbl:latitude":47.222451,
+    "lbl:longitude":26.202805,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.222451,
+    "mps:longitude":26.202805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1276600229,
-    "wof:lastmodified":1588367017,
+    "wof:lastmodified":1588613547,
     "wof:name":"Leghin",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

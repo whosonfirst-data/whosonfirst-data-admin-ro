@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.616,47.31614,22.656,47.35614",
+    "lbl:latitude":47.334497,
+    "lbl:longitude":22.633746,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":47.334497,
+    "mps:longitude":22.633746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -69,7 +74,7 @@
         }
     ],
     "wof:id":1326866701,
-    "wof:lastmodified":1588367077,
+    "wof:lastmodified":1588613583,
     "wof:name":"P\u0103dureni",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",

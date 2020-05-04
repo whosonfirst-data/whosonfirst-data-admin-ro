@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.47565,44.40485,27.51565,44.44485",
+    "lbl:latitude":44.430492,
+    "lbl:longitude":27.512231,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.430492,
+    "mps:longitude":27.512231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -47,6 +51,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,7 +77,7 @@
         }
     ],
     "wof:id":1276259953,
-    "wof:lastmodified":1588367094,
+    "wof:lastmodified":1588613593,
     "wof:name":"M\u0103rcule\u015fti-Gar\u0103",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",

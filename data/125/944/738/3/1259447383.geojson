@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.83352,45.91895,22.87352,45.95895",
+    "lbl:latitude":45.936022,
+    "lbl:longitude":22.851778,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.936022,
+    "mps:longitude":22.851778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":1259447383,
-    "wof:lastmodified":1588367092,
+    "wof:lastmodified":1588613591,
     "wof:name":"Bejan",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

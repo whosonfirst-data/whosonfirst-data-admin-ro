@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.26376,46.28778,23.30376,46.32778",
+    "lbl:latitude":46.309536,
+    "lbl:longitude":23.277343,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.309536,
+    "mps:longitude":23.277343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1276557511,
-    "wof:lastmodified":1588367036,
+    "wof:lastmodified":1588613559,
     "wof:name":"Valea Gioge\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.03,44.89667,23.07,44.93667",
+    "lbl:latitude":44.93347,
+    "lbl:longitude":23.028415,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.93347,
+    "mps:longitude":23.028415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1226517401,
-    "wof:lastmodified":1588367041,
+    "wof:lastmodified":1588613562,
     "wof:name":"Str\u00e2mba Vulcan",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"27.43632,46.33695,27.47632,46.37695",
+    "lbl:latitude":46.356346,
+    "lbl:longitude":27.455086,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.356346,
+    "mps:longitude":27.455086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -62,6 +66,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,7 +92,7 @@
         }
     ],
     "wof:id":1226466565,
-    "wof:lastmodified":1588367140,
+    "wof:lastmodified":1588613619,
     "wof:name":"Rot\u0103ria",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

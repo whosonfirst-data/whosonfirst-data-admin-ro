@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.15475,46.80727,24.19475,46.84727",
+    "lbl:latitude":46.823926,
+    "lbl:longitude":24.167575,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.823926,
+    "mps:longitude":24.167575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1226328643,
-    "wof:lastmodified":1588367019,
+    "wof:lastmodified":1588613548,
     "wof:name":"Hag\u0103u",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",

@@ -14,10 +14,12 @@
     "gn:population":3727,
     "iso:country":"RO",
     "lbl:bbox":"23.91333,47.53,23.95333,47.57",
-    "lbl:latitude":47.55,
-    "lbl:longitude":23.93333,
+    "lbl:latitude":47.541846,
+    "lbl:longitude":23.927231,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":47.541846,
+    "mps:longitude":23.927231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -82,7 +84,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":1125825797,
-    "wof:lastmodified":1588367027,
+    "wof:lastmodified":1588613553,
     "wof:name":"Cup\u015feni",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",

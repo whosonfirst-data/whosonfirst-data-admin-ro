@@ -14,10 +14,12 @@
     "gn:population":3286,
     "iso:country":"RO",
     "lbl:bbox":"23.19667,44.73,23.23667,44.77",
-    "lbl:latitude":44.75,
-    "lbl:longitude":23.21667,
+    "lbl:latitude":44.753664,
+    "lbl:longitude":23.193869,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":44.753664,
+    "mps:longitude":23.193869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -84,7 +86,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1125795415,
-    "wof:lastmodified":1588367047,
+    "wof:lastmodified":1588613564,
     "wof:name":"Bolbo\u015fi",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

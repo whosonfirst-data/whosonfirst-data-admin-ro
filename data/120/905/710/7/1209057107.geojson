@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.92347,44.49158,23.96347,44.53158",
+    "lbl:latitude":44.492015,
+    "lbl:longitude":23.953075,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.492015,
+    "mps:longitude":23.953075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85633745
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1209057107,
-    "wof:lastmodified":1588367150,
+    "wof:lastmodified":1588613624,
     "wof:name":"Curti\u015foara",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",

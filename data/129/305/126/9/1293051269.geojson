@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.08043,45.01583,26.12043,45.05583",
+    "lbl:latitude":45.03182,
+    "lbl:longitude":26.11351,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.03182,
+    "mps:longitude":26.11351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1293051269,
-    "wof:lastmodified":1588367084,
+    "wof:lastmodified":1588613587,
     "wof:name":"G\u00e2lmeia",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

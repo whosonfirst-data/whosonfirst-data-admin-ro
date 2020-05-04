@@ -14,10 +14,12 @@
     "gn:population":1050,
     "iso:country":"RO",
     "lbl:bbox":"24.33,45.96333,24.37,46.00333",
-    "lbl:latitude":45.98333,
-    "lbl:longitude":24.35,
+    "lbl:latitude":45.989634,
+    "lbl:longitude":24.345603,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":45.989634,
+    "mps:longitude":24.345603,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -86,7 +88,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1125911117,
-    "wof:lastmodified":1588367078,
+    "wof:lastmodified":1588613583,
     "wof:name":"Mih\u0103ileni",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

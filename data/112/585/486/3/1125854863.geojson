@@ -14,10 +14,12 @@
     "gn:population":2590,
     "iso:country":"RO",
     "lbl:bbox":"23.59667,44.89667,23.63667,44.93667",
-    "lbl:latitude":44.91667,
-    "lbl:longitude":23.61667,
+    "lbl:latitude":44.917871,
+    "lbl:longitude":23.621757,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.917871,
+    "mps:longitude":23.621757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -75,7 +77,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -109,7 +111,7 @@
         }
     ],
     "wof:id":1125854863,
-    "wof:lastmodified":1588367131,
+    "wof:lastmodified":1588613614,
     "wof:name":"Licurici",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",

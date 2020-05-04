@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.71409,46.97209,26.75409,47.01209",
+    "lbl:latitude":46.988427,
+    "lbl:longitude":26.733219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.988427,
+    "mps:longitude":26.733219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -45,6 +49,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":1326677315,
-    "wof:lastmodified":1588367102,
+    "wof:lastmodified":1588613597,
     "wof:name":"Bri\u0163cani",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",

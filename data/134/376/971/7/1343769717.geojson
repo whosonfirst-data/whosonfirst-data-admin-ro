@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"24.6857,45.0186,24.7257,45.0586",
+    "lbl:latitude":45.047416,
+    "lbl:longitude":24.705313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.047416,
+    "mps:longitude":24.705313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -74,6 +78,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":1343769717,
-    "wof:lastmodified":1588367116,
+    "wof:lastmodified":1588613605,
     "wof:name":"Stejari",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",

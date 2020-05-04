@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.16303,45.2742,26.20303,45.3142",
+    "lbl:latitude":45.295874,
+    "lbl:longitude":26.180837,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.295874,
+    "mps:longitude":26.180837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,6 +46,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":1277123269,
-    "wof:lastmodified":1588367155,
+    "wof:lastmodified":1588613627,
     "wof:name":"Valea Screzii",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

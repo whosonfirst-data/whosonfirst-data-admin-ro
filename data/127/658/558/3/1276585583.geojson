@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"25.99116,46.58359,26.03116,46.62359",
+    "lbl:latitude":46.592634,
+    "lbl:longitude":26.013194,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.592634,
+    "mps:longitude":26.013194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1276585583,
-    "wof:lastmodified":1588367142,
+    "wof:lastmodified":1588613619,
     "wof:name":"F\u0103getu de Sus",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",

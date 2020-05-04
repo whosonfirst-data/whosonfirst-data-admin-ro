@@ -26,8 +26,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"26.613,44.94808,26.653,44.98808",
+    "lbl:latitude":44.966777,
+    "lbl:longitude":26.630167,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.966777,
+    "mps:longitude":26.630167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -46,6 +50,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,7 +76,7 @@
         }
     ],
     "wof:id":1276751973,
-    "wof:lastmodified":1588367074,
+    "wof:lastmodified":1588613580,
     "wof:name":"C\u00e2mpeni",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",

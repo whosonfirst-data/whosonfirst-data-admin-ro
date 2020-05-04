@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.91936,46.22015,22.95936,46.26015",
+    "lbl:latitude":46.236602,
+    "lbl:longitude":22.947902,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.236602,
+    "mps:longitude":22.947902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1326994575,
-    "wof:lastmodified":1588367121,
+    "wof:lastmodified":1588613608,
     "wof:name":"Bl\u0103jeni-Vulcan",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

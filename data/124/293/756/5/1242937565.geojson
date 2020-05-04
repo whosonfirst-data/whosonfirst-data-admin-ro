@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.85815,46.30128,22.89815,46.34128",
+    "lbl:latitude":46.319202,
+    "lbl:longitude":22.877989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.319202,
+    "mps:longitude":22.877989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -37,6 +41,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":1242937565,
-    "wof:lastmodified":1588367065,
+    "wof:lastmodified":1588613575,
     "wof:name":"Ticera",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

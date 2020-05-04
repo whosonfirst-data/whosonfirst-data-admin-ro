@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"22.75218,46.29763,22.79218,46.33763",
+    "lbl:latitude":46.316429,
+    "lbl:longitude":22.774006,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.316429,
+    "mps:longitude":22.774006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -40,6 +44,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1326604065,
-    "wof:lastmodified":1588367065,
+    "wof:lastmodified":1588613575,
     "wof:name":"Ruse\u015fti",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",

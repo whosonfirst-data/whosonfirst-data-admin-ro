@@ -25,8 +25,12 @@
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
     "lbl:bbox":"23.14148,46.11636,23.18148,46.15636",
+    "lbl:latitude":46.137338,
+    "lbl:longitude":23.159046,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.137338,
+    "mps:longitude":23.159046,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -85,6 +89,7 @@
     "src:geom_alt":[
         "geonames"
     ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -110,7 +115,7 @@
         }
     ],
     "wof:id":1243381387,
-    "wof:lastmodified":1588367104,
+    "wof:lastmodified":1588613598,
     "wof:name":"Pirita",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",

@@ -14,10 +14,12 @@
     "gn:population":3520,
     "iso:country":"RO",
     "lbl:bbox":"24.16333,46.96333,24.20333,47.00333",
-    "lbl:latitude":46.98333,
-    "lbl:longitude":24.18333,
+    "lbl:latitude":46.981024,
+    "lbl:longitude":24.176313,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.981024,
+    "mps:longitude":24.176313,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -88,7 +90,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -117,7 +119,7 @@
         }
     ],
     "wof:id":1125863533,
-    "wof:lastmodified":1588367136,
+    "wof:lastmodified":1588613617,
     "wof:name":"Chiochi\u015f",
     "wof:parent_id":85687753,
     "wof:placetype":"locality",

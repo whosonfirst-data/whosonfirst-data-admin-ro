@@ -14,10 +14,12 @@
     "gn:population":1276,
     "iso:country":"RO",
     "lbl:bbox":"24.44667,45.03,24.48667,45.07",
-    "lbl:latitude":45.05,
-    "lbl:longitude":24.46667,
+    "lbl:latitude":45.043771,
+    "lbl:longitude":24.464852,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":45.043771,
+    "mps:longitude":24.464852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -77,7 +79,7 @@
     "src:geom_alt":[
         "qs_pg"
     ],
-    "src:lbl_centroid":"qs_pg",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":1126039679,
-    "wof:lastmodified":1588367088,
+    "wof:lastmodified":1588613589,
     "wof:name":"Milcoiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
