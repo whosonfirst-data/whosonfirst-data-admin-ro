@@ -35,14 +35,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "Mo\u015fteni"
+    ],
+    "name:por_x_preferred":[
+        "Mo\u015fteni"
+    ],
     "name:ron_x_preferred":[
         "Mo\u015fteni"
     ],
     "name:ron_x_variant":[
-        "Mosteni"
+        "Mosteni",
+        "Mo\u0219teni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0448\u0442\u0435\u043d\u044c"
     ],
     "name:und_x_variant":[
         "Mo\u015fneni",
+        "Mo\u015fteni"
+    ],
+    "name:vie_x_preferred":[
+        "Mosteni"
+    ],
+    "name:vol_x_preferred":[
         "Mo\u015fteni"
     ],
     "src:geom":"ro-ancpi",
@@ -75,7 +91,7 @@
         }
     ],
     "wof:id":1293524207,
-    "wof:lastmodified":1588613630,
+    "wof:lastmodified":1588616143,
     "wof:name":"Mo\u015fteni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",

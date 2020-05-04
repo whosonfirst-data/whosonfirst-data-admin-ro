@@ -33,14 +33,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:fra_x_preferred":[
+        "Bode\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Bode\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Bode\u015fti"
+    ],
     "name:ron_x_preferred":[
         "Bode\u015fti"
     ],
     "name:ron_x_variant":[
-        "Bodesti"
+        "Bodesti",
+        "Bode\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0434\u0435\u0448\u0442\u044c"
     ],
     "name:und_x_variant":[
         "Bode\u015ftii",
+        "Bode\u015fti"
+    ],
+    "name:vie_x_preferred":[
+        "Bodesti"
+    ],
+    "name:vol_x_preferred":[
         "Bode\u015fti"
     ],
     "src:geom":"ro-ancpi",
@@ -73,7 +92,7 @@
         }
     ],
     "wof:id":1226289149,
-    "wof:lastmodified":1588366867,
+    "wof:lastmodified":1588620996,
     "wof:name":"Bode\u015fti",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",

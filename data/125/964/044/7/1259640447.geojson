@@ -33,15 +33,43 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u0631\u064a\u0634"
+    ],
+    "name:epo_x_preferred":[
+        "Petri\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "Marospetres"
+    ],
+    "name:ita_x_preferred":[
+        "Petri\u015f"
+    ],
+    "name:por_x_preferred":[
+        "Petri\u015f"
+    ],
     "name:ron_x_preferred":[
         "Petri\u015f"
     ],
     "name:ron_x_variant":[
-        "Petris"
+        "Petris",
+        "Petri\u0219"
+    ],
+    "name:sqi_x_preferred":[
+        "Petri\u015f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0456\u0448"
     ],
     "name:und_x_variant":[
         "Petri\u015fu",
         "Petri\u015ful",
+        "Petri\u015f"
+    ],
+    "name:vie_x_preferred":[
+        "Petris"
+    ],
+    "name:vol_x_preferred":[
         "Petri\u015f"
     ],
     "src:geom":"ro-ancpi",
@@ -74,7 +102,7 @@
         }
     ],
     "wof:id":1259640447,
-    "wof:lastmodified":1588366850,
+    "wof:lastmodified":1588620701,
     "wof:name":"Petri\u015f",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",

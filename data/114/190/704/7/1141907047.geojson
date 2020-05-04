@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.3259183337,44.2062797232,27.3259183337,44.2062797232",
+    "geom:bbox":"27.325918,44.20628,27.325918,44.20628",
     "geom:latitude":44.20628,
     "geom:longitude":27.325918,
     "iso:country":"RO",
@@ -52,6 +52,9 @@
         "\u039a\u03b1\u03bb\u03b1\u03c1\u03ac\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
+        "C\u0103l\u0103ra\u0219i"
+    ],
+    "name:eus_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
     ],
     "name:fas_x_preferred":[
@@ -138,6 +141,12 @@
     "name:spa_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0440\u0430\u0448"
+    ],
+    "name:srp_el_x_preferred":[
+        "Kalara\u0161"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0440\u0430\u0448"
     ],
@@ -173,6 +182,18 @@
     ],
     "name:war_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u514b\u52d2\u62c9\u5e0c"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u514b\u52d2\u62c9\u5e0c"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u514b\u52d2\u62c9\u5e0c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u514b\u52d2\u62c9\u5e0c"
     ],
     "name:zho_x_preferred":[
         "\u514b\u52d2\u62c9\u5e0c"
@@ -284,7 +305,7 @@
     },
     "wof:country":"RO",
     "wof:created":1499130674,
-    "wof:geomhash":"9dc8642428e7740b63828197ea449af9",
+    "wof:geomhash":"113f60e63a991f312f7448a274f21b06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +315,7 @@
         }
     ],
     "wof:id":1141907047,
-    "wof:lastmodified":1566611719,
+    "wof:lastmodified":1588621497,
     "wof:name":"Calarasi",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
@@ -304,10 +325,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.32591833365569,
-    44.20627972317499,
-    27.32591833365569,
-    44.20627972317499
+    27.325918,
+    44.20628,
+    27.325918,
+    44.20628
 ],
-  "geometry": {"coordinates":[27.32591833365569,44.20627972317499],"type":"Point"}
+  "geometry": {"coordinates":[27.325918,44.20628],"type":"Point"}
 }

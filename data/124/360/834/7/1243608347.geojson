@@ -42,11 +42,26 @@
     "name:ceb_x_preferred":[
         "M\u00e1ndra"
     ],
+    "name:ceb_x_variant":[
+        "Comuna M\u00e2ndra"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00e2ndra"
+    ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u039c\u03ac\u03bd\u03b4\u03c1\u03b1\u03c2"
     ],
+    "name:epo_x_preferred":[
+        "M\u00e2ndra"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00e2ndra"
+    ],
     "name:fin_x_preferred":[
         "M\u00e1ndra"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e2ndra"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0576\u0564\u0580\u0561"
@@ -54,20 +69,36 @@
     "name:ita_x_preferred":[
         "Mandra"
     ],
+    "name:ita_x_variant":[
+        "M\u00e2ndra"
+    ],
+    "name:nld_x_preferred":[
+        "Mandra"
+    ],
     "name:nno_x_preferred":[
         "M\u00e1ndra"
+    ],
+    "name:por_x_preferred":[
+        "M\u00e2ndra"
     ],
     "name:ron_x_preferred":[
         "M\u00e2ndra"
     ],
     "name:ron_x_variant":[
-        "Mandra"
+        "Mandra",
+        "Comuna M\u00e2ndra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u043d\u0434\u0440\u0430"
     ],
     "name:swe_x_preferred":[
         "M\u00e1ndra"
     ],
     "name:tur_x_preferred":[
         "Mandra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043d\u0434\u0440\u0430"
     ],
     "name:und_x_variant":[
         "M\u00eendra"
@@ -77,6 +108,12 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e2ndra"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00e2ndra"
+    ],
+    "name:zho_x_preferred":[
+        "\u9580\u5fb7\u62c9\u9109"
     ],
     "src:geom":"ro-ancpi",
     "src:geom_alt":[
@@ -108,7 +145,7 @@
         }
     ],
     "wof:id":1243608347,
-    "wof:lastmodified":1588366836,
+    "wof:lastmodified":1588620457,
     "wof:name":"M\u00e2ndra",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",

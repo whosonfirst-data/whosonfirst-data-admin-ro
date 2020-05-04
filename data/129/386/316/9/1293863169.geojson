@@ -41,20 +41,32 @@
     "name:deu_x_preferred":[
         "Agris"
     ],
+    "name:epo_x_preferred":[
+        "Agri\u015f"
+    ],
     "name:eus_x_preferred":[
         "Agris"
     ],
     "name:fra_x_preferred":[
         "Agris"
     ],
+    "name:fra_x_variant":[
+        "Agri\u0219"
+    ],
     "name:hun_x_preferred":[
         "Agris"
+    ],
+    "name:hun_x_variant":[
+        "Egri"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0563\u0580\u056b"
     ],
     "name:ita_x_preferred":[
         "Agris"
+    ],
+    "name:ita_x_variant":[
+        "Agri\u015f"
     ],
     "name:lat_x_preferred":[
         "Agrisium"
@@ -77,11 +89,15 @@
     "name:por_x_preferred":[
         "Agris"
     ],
+    "name:por_x_variant":[
+        "Agri\u015f"
+    ],
     "name:ron_x_preferred":[
         "Agri\u015f"
     ],
     "name:ron_x_variant":[
-        "Agris"
+        "Agris",
+        "Agri\u0219"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0433\u0440\u0438"
@@ -91,6 +107,9 @@
     ],
     "name:spa_x_preferred":[
         "Agris"
+    ],
+    "name:spa_x_variant":[
+        "Agri\u0219"
     ],
     "name:sqi_x_preferred":[
         "Agris"
@@ -107,6 +126,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0440\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u0433\u0440\u0456\u0448"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u0631\u06cc\u0633"
     ],
@@ -115,6 +137,9 @@
     ],
     "name:vol_x_preferred":[
         "Agris"
+    ],
+    "name:vol_x_variant":[
+        "Agri\u015f"
     ],
     "name:war_x_preferred":[
         "Agris"
@@ -152,7 +177,7 @@
         }
     ],
     "wof:id":1293863169,
-    "wof:lastmodified":1588366697,
+    "wof:lastmodified":1588616511,
     "wof:name":"Agri\u015f",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
