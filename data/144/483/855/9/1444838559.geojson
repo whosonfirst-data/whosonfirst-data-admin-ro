@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.5560679811,46.7542860161,23.5560679811,46.7542860161",
+    "geom:bbox":"23.556068,46.754286,23.556068,46.754286",
     "geom:latitude":46.754286,
     "geom:longitude":23.556068,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"9f9040276f6e211aa7f18caa00c12cbf",
+    "wof:geomhash":"08dab2eb3be0f20cbe17a3a6c5ed9ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838559,
-    "wof:lastmodified":1566610409,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Manastur",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.55606798110791,
-    46.75428601611341,
-    23.55606798110791,
-    46.75428601611341
+    23.556068,
+    46.754286,
+    23.556068,
+    46.754286
 ],
-  "geometry": {"coordinates":[23.55606798110791,46.75428601611341],"type":"Point"}
+  "geometry": {"coordinates":[23.556068,46.754286],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.6103130035,46.7544918315,23.6103130035,46.7544918315",
+    "geom:bbox":"23.610313,46.754492,23.610313,46.754492",
     "geom:latitude":46.754492,
     "geom:longitude":23.610313,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"9ecf22b6b7f5a8c3c98a75a6ae4a9f7a",
+    "wof:geomhash":"6d067a1347409e559db6dff34800698a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838691,
-    "wof:lastmodified":1566610405,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Becas",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.61031300351858,
-    46.75449183148142,
-    23.61031300351858,
-    46.75449183148142
+    23.610313,
+    46.754492,
+    23.610313,
+    46.754492
 ],
-  "geometry": {"coordinates":[23.61031300351858,46.75449183148142],"type":"Point"}
+  "geometry": {"coordinates":[23.610313,46.754492],"type":"Point"}
 }

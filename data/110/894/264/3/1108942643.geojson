@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1137370446,44.3961040853,26.1137370446,44.3961040853",
+    "geom:bbox":"26.113737,44.396104,26.113737,44.396104",
     "geom:latitude":44.396104,
     "geom:longitude":26.113737,
     "iso:country":"RO",
@@ -29,15 +29,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363232,
-    "wof:geomhash":"d559843366dd05b19cb2257f67f06ff3",
+    "wof:geomhash":"4f9648f25f15abca4a284c2a890f405f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1108942643,
-    "wof:lastmodified":1566610515,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Oltenitei",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -58,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11373704457905,
-    44.39610408530474,
-    26.11373704457905,
-    44.39610408530474
+    26.113737,
+    44.396104,
+    26.113737,
+    44.396104
 ],
-  "geometry": {"coordinates":[26.11373704457905,44.39610408530474],"type":"Point"}
+  "geometry": {"coordinates":[26.113737,44.396104],"type":"Point"}
 }

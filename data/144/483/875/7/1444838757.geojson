@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2234032714,45.7758008698,21.2234032714,45.7758008698",
+    "geom:bbox":"21.223403,45.775801,21.223403,45.775801",
     "geom:latitude":45.775801,
     "geom:longitude":21.223403,
     "iso:country":"RO",
@@ -36,13 +36,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"775a383fb5b3128ae944640e1f93e0f9",
+    "wof:geomhash":"df8ca78531de2a8df543d534036b8190",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1444838757,
-    "wof:lastmodified":1566610405,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226508,
     "wof:name":"Aradului",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.22340327135072,
-    45.77580086976048,
-    21.22340327135072,
-    45.77580086976048
+    21.223403,
+    45.775801,
+    21.223403,
+    45.775801
 ],
-  "geometry": {"coordinates":[21.22340327135072,45.77580086976048],"type":"Point"}
+  "geometry": {"coordinates":[21.223403,45.775801],"type":"Point"}
 }

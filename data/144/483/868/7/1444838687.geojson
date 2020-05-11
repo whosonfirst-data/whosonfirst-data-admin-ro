@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.6326289938,46.7814177262,23.6326289938,46.7814177262",
+    "geom:bbox":"23.632629,46.781418,23.632629,46.781418",
     "geom:latitude":46.781418,
     "geom:longitude":23.632629,
     "iso:country":"RO",
@@ -30,13 +30,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"083cb04bbeeebb305915798ca856bbd4",
+    "wof:geomhash":"a8f528a1b063eebd6a191acfce7891d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -47,7 +47,13 @@
         }
     ],
     "wof:id":1444838687,
-    "wof:lastmodified":1566610405,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Aurel Vlaicu",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -57,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.63262899375082,
-    46.78141772620848,
-    23.63262899375082,
-    46.78141772620848
+    23.632629,
+    46.781418,
+    23.632629,
+    46.781418
 ],
-  "geometry": {"coordinates":[23.63262899375082,46.78141772620848],"type":"Point"}
+  "geometry": {"coordinates":[23.632629,46.781418],"type":"Point"}
 }

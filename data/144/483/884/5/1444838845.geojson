@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2455905155,45.7342396576,21.2455905155,45.7342396576",
+    "geom:bbox":"21.245591,45.73424,21.245591,45.73424",
     "geom:latitude":45.73424,
     "geom:longitude":21.245591,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"dcd62f65df746f8fba659a9fe6820062",
+    "wof:geomhash":"d63b306b5f924a86dec9443484e56046",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838845,
-    "wof:lastmodified":1566610406,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Soarelui",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.24559051548548,
-    45.73423965764543,
-    21.24559051548548,
-    45.73423965764543
+    21.245591,
+    45.73424,
+    21.245591,
+    45.73424
 ],
-  "geometry": {"coordinates":[21.24559051548548,45.73423965764543],"type":"Point"}
+  "geometry": {"coordinates":[21.245591,45.73424],"type":"Point"}
 }

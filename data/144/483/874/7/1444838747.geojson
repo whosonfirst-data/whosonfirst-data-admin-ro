@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2033188801,45.7555032231,21.2033188801,45.7555032231",
+    "geom:bbox":"21.203319,45.755503,21.203319,45.755503",
     "geom:latitude":45.755503,
     "geom:longitude":21.203319,
     "iso:country":"RO",
@@ -36,13 +36,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"d6077ec5c1d82dc2b9f9c53ef4312708",
+    "wof:geomhash":"f3777252968c1a3bd275ccc2b4e234a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1444838747,
-    "wof:lastmodified":1566610404,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226508,
     "wof:name":"Blascovici",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.2033188801417,
-    45.75550322312999,
-    21.2033188801417,
-    45.75550322312999
+    21.203319,
+    45.755503,
+    21.203319,
+    45.755503
 ],
-  "geometry": {"coordinates":[21.2033188801417,45.75550322312999],"type":"Point"}
+  "geometry": {"coordinates":[21.203319,45.755503],"type":"Point"}
 }

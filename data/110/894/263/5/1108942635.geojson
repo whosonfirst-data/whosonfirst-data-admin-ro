@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1349765744,44.4422631443,26.1349765744,44.4422631443",
+    "geom:bbox":"26.134977,44.442263,26.134977,44.442263",
     "geom:latitude":44.442263,
     "geom:longitude":26.134977,
     "iso:country":"RO",
@@ -29,15 +29,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363228,
-    "wof:geomhash":"a6a3258b664d746628f47bb5595453c4",
+    "wof:geomhash":"6f92ea282d189a7a8b046a17b8c534e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1108942635,
-    "wof:lastmodified":1566610516,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Iancului",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -58,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.13497657438503,
-    44.44226314433064,
-    26.13497657438503,
-    44.44226314433064
+    26.134977,
+    44.442263,
+    26.134977,
+    44.442263
 ],
-  "geometry": {"coordinates":[26.13497657438503,44.44226314433064],"type":"Point"}
+  "geometry": {"coordinates":[26.134977,44.442263],"type":"Point"}
 }

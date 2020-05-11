@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.5575271035,46.7701904397,23.5575271035,46.7701904397",
+    "geom:bbox":"23.557527,46.77019,23.557527,46.77019",
     "geom:latitude":46.77019,
     "geom:longitude":23.557527,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"d39590174a12197b6c9a940387d89871",
+    "wof:geomhash":"2b5cfd39dae2dc0e55f97c8b8d65a636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838639,
-    "wof:lastmodified":1566610409,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Grigorescu",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.55752710354618,
-    46.77019043968933,
-    23.55752710354618,
-    46.77019043968933
+    23.557527,
+    46.77019,
+    23.557527,
+    46.77019
 ],
-  "geometry": {"coordinates":[23.55752710354618,46.77019043968933],"type":"Point"}
+  "geometry": {"coordinates":[23.557527,46.77019],"type":"Point"}
 }

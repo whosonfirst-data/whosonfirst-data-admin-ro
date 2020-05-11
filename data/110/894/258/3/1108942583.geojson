@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0972396627,44.4849056923,26.0972396627,44.4849056923",
+    "geom:bbox":"26.09724,44.484906,26.09724,44.484906",
     "geom:latitude":44.484906,
     "geom:longitude":26.09724,
     "iso:country":"RO",
@@ -47,8 +47,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -57,7 +57,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363183,
-    "wof:geomhash":"606cbcb70150dd35eba600e86997cbb4",
+    "wof:geomhash":"e432c1a7b4bba976be7f852ce470fee0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1108942583,
-    "wof:lastmodified":1566610513,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Aviatiei",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.09723966269749,
-    44.48490569233554,
-    26.09723966269749,
-    44.48490569233554
+    26.09724,
+    44.484906,
+    26.09724,
+    44.484906
 ],
-  "geometry": {"coordinates":[26.09723966269749,44.48490569233554],"type":"Point"}
+  "geometry": {"coordinates":[26.09724,44.484906],"type":"Point"}
 }

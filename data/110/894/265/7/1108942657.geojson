@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1503009363,44.4223260552,26.1503009363,44.4223260552",
+    "geom:bbox":"26.150301,44.422326,26.150301,44.422326",
     "geom:latitude":44.422326,
     "geom:longitude":26.150301,
     "iso:country":"RO",
@@ -26,15 +26,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363241,
-    "wof:geomhash":"4e5ac8b6c8fb2e0f73b8c271bec9eb23",
+    "wof:geomhash":"3b52d5dfa2f787e5e94e9cb3827fe3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,7 +45,13 @@
         }
     ],
     "wof:id":1108942657,
-    "wof:lastmodified":1566610514,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Sectorul 3",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -55,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.15030093626721,
-    44.42232605515358,
-    26.15030093626721,
-    44.42232605515358
+    26.150301,
+    44.422326,
+    26.150301,
+    44.422326
 ],
-  "geometry": {"coordinates":[26.15030093626721,44.42232605515358],"type":"Point"}
+  "geometry": {"coordinates":[26.150301,44.422326],"type":"Point"}
 }

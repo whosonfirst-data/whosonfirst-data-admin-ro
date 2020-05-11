@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1436061392,44.439569342,26.1436061392,44.439569342",
+    "geom:bbox":"26.143606,44.439569,26.143606,44.439569",
     "geom:latitude":44.439569,
     "geom:longitude":26.143606,
     "iso:country":"RO",
@@ -29,15 +29,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363236,
-    "wof:geomhash":"d516cbe902f0b628426c90169805826d",
+    "wof:geomhash":"4f6b78b22fa9574059bb28adbf73dafb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1108942649,
-    "wof:lastmodified":1566610515,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Vatra Luminoasa",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -58,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.14360613919755,
-    44.4395693419596,
-    26.14360613919755,
-    44.4395693419596
+    26.143606,
+    44.439569,
+    26.143606,
+    44.439569
 ],
-  "geometry": {"coordinates":[26.14360613919755,44.4395693419596],"type":"Point"}
+  "geometry": {"coordinates":[26.143606,44.439569],"type":"Point"}
 }

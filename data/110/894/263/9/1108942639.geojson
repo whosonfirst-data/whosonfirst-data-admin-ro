@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1279277255,44.4507012188,26.1279277255,44.4507012188",
+    "geom:bbox":"26.127928,44.450701,26.127928,44.450701",
     "geom:latitude":44.450701,
     "geom:longitude":26.127928,
     "iso:country":"RO",
@@ -41,8 +41,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -51,7 +51,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363231,
-    "wof:geomhash":"ffa120ea1e1de4eb0adf6a1b1eb07dea",
+    "wof:geomhash":"a3eb1bb73e3076f4bb321db4db062668",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1108942639,
-    "wof:lastmodified":1566610516,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Obor",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -72,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.12792772554723,
-    44.45070121884714,
-    26.12792772554723,
-    44.45070121884714
+    26.127928,
+    44.450701,
+    26.127928,
+    44.450701
 ],
-  "geometry": {"coordinates":[26.12792772554723,44.45070121884714],"type":"Point"}
+  "geometry": {"coordinates":[26.127928,44.450701],"type":"Point"}
 }

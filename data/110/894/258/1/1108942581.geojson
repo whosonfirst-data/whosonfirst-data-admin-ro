@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0924331417,44.4654706589,26.0924331417,44.4654706589",
+    "geom:bbox":"26.092433,44.465471,26.092433,44.465471",
     "geom:latitude":44.465471,
     "geom:longitude":26.092433,
     "iso:country":"RO",
@@ -41,8 +41,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -51,7 +51,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363181,
-    "wof:geomhash":"dba4dbc89bff9b68b9b2e3acf4fcf07f",
+    "wof:geomhash":"b0c037746b3d1512ea83596f3c2476ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1108942581,
-    "wof:lastmodified":1566610513,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Primaverii",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -72,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.0924331417244,
-    44.46547065889295,
-    26.0924331417244,
-    44.46547065889295
+    26.092433,
+    44.465471,
+    26.092433,
+    44.465471
 ],
-  "geometry": {"coordinates":[26.0924331417244,44.46547065889295],"type":"Point"}
+  "geometry": {"coordinates":[26.092433,44.465471],"type":"Point"}
 }

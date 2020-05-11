@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.5694575752,46.7862077132,23.5694575752,46.7862077132",
+    "geom:bbox":"23.569458,46.786208,23.569458,46.786208",
     "geom:latitude":46.786208,
     "geom:longitude":23.569458,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"c2b6091990e9ffa2728b0be96926791b",
+    "wof:geomhash":"ddac2bc1d5c417dc9fc4b20eb072e9c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838541,
-    "wof:lastmodified":1566610408,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Dambul Rotund",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.56945757524726,
-    46.78620771317727,
-    23.56945757524726,
-    46.78620771317727
+    23.569458,
+    46.786208,
+    23.569458,
+    46.786208
 ],
-  "geometry": {"coordinates":[23.56945757524726,46.78620771317727],"type":"Point"}
+  "geometry": {"coordinates":[23.569458,46.786208],"type":"Point"}
 }

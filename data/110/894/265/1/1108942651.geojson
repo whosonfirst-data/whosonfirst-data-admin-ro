@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1057261763,44.4290278485,26.1057261763,44.4290278485",
+    "geom:bbox":"26.105726,44.429028,26.105726,44.429028",
     "geom:latitude":44.429028,
     "geom:longitude":26.105726,
     "iso:country":"RO",
@@ -26,15 +26,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363237,
-    "wof:geomhash":"cefe11dfea8c7b06eafb6a49d6b13fc8",
+    "wof:geomhash":"a6b7e8d5839eaf95194df2ff1a1c1bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,7 +45,13 @@
         }
     ],
     "wof:id":1108942651,
-    "wof:lastmodified":1566610515,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Unirii",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -55,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.10572617629052,
-    44.4290278484943,
-    26.10572617629052,
-    44.4290278484943
+    26.105726,
+    44.429028,
+    26.105726,
+    44.429028
 ],
-  "geometry": {"coordinates":[26.10572617629052,44.4290278484943],"type":"Point"}
+  "geometry": {"coordinates":[26.105726,44.429028],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1134902812,44.4146809066,26.1134902812,44.4146809066",
+    "geom:bbox":"26.11349,44.414681,26.11349,44.414681",
     "geom:latitude":44.414681,
     "geom:longitude":26.11349,
     "iso:country":"RO",
@@ -29,15 +29,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363217,
-    "wof:geomhash":"c47503b2599bb7942db30e65bb362924",
+    "wof:geomhash":"3d6b33f463afa0f645ddab02d3300acf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -48,7 +48,13 @@
         }
     ],
     "wof:id":1108942615,
-    "wof:lastmodified":1566610513,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Timpuri Noi",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -58,10 +64,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11349028122555,
-    44.41468090662686,
-    26.11349028122555,
-    44.41468090662686
+    26.11349,
+    44.414681,
+    26.11349,
+    44.414681
 ],
-  "geometry": {"coordinates":[26.11349028122555,44.41468090662686],"type":"Point"}
+  "geometry": {"coordinates":[26.11349,44.414681],"type":"Point"}
 }

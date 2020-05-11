@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0790721578,44.4435295715,26.0790721578,44.4435295715",
+    "geom:bbox":"26.079072,44.44353,26.079072,44.44353",
     "geom:latitude":44.44353,
     "geom:longitude":26.079072,
     "iso:country":"RO",
@@ -26,15 +26,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363227,
-    "wof:geomhash":"a6797786ef4059bc27c18285fe77aaa9",
+    "wof:geomhash":"43138ff7bb8e0d52038c6470f4766d7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,7 +45,13 @@
         }
     ],
     "wof:id":1108942633,
-    "wof:lastmodified":1566610516,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Gara de Nord",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -55,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.07907215782889,
-    44.44352957152695,
-    26.07907215782889,
-    44.44352957152695
+    26.079072,
+    44.44353,
+    26.079072,
+    44.44353
 ],
-  "geometry": {"coordinates":[26.07907215782889,44.44352957152695],"type":"Point"}
+  "geometry": {"coordinates":[26.079072,44.44353],"type":"Point"}
 }

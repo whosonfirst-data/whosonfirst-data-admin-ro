@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0545710602,44.4455747015,26.0545710602,44.4455747015",
+    "geom:bbox":"26.054571,44.445575,26.054571,44.445575",
     "geom:latitude":44.445575,
     "geom:longitude":26.054571,
     "iso:country":"RO",
@@ -35,15 +35,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363233,
-    "wof:geomhash":"8463a3b5ef371f707f0ea3d1ce47b686",
+    "wof:geomhash":"b871b95db9b3259ed95e12e11df1dab4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +54,13 @@
         }
     ],
     "wof:id":1108942645,
-    "wof:lastmodified":1566610515,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Regie",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -64,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.05457106021972,
-    44.44557470146486,
-    26.05457106021972,
-    44.44557470146486
+    26.054571,
+    44.445575,
+    26.054571,
+    44.445575
 ],
-  "geometry": {"coordinates":[26.05457106021972,44.44557470146486],"type":"Point"}
+  "geometry": {"coordinates":[26.054571,44.445575],"type":"Point"}
 }

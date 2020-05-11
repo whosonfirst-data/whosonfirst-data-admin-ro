@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.586795383,46.7564617574,23.586795383,46.7564617574",
+    "geom:bbox":"23.586795,46.756462,23.586795,46.756462",
     "geom:latitude":46.756462,
     "geom:longitude":23.586795,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"a6a21ce6a419456456ef48ff8ca7b272",
+    "wof:geomhash":"e2d99e4981e3e86215f564d855ccd215",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838567,
-    "wof:lastmodified":1566610405,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Zorilor",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.58679538304307,
-    46.7564617573836,
-    23.58679538304307,
-    46.7564617573836
+    23.586795,
+    46.756462,
+    23.586795,
+    46.756462
 ],
-  "geometry": {"coordinates":[23.58679538304307,46.7564617573836],"type":"Point"}
+  "geometry": {"coordinates":[23.586795,46.756462],"type":"Point"}
 }

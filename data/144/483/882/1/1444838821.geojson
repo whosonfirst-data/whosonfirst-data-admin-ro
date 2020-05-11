@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2410414867,45.7741845148,21.2410414867,45.7741845148",
+    "geom:bbox":"21.241041,45.774185,21.241041,45.774185",
     "geom:latitude":45.774185,
     "geom:longitude":21.241041,
     "iso:country":"RO",
@@ -36,13 +36,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"dc3aaa51de85b8501a73538f2fb298ff",
+    "wof:geomhash":"7e3c986af41e2a2480b67798da30116f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1444838821,
-    "wof:lastmodified":1566610407,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Lipovei",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.24104148670736,
-    45.77418451478789,
-    21.24104148670736,
-    45.77418451478789
+    21.241041,
+    45.774185,
+    21.241041,
+    45.774185
 ],
-  "geometry": {"coordinates":[21.24104148670736,45.77418451478789],"type":"Point"}
+  "geometry": {"coordinates":[21.241041,45.774185],"type":"Point"}
 }

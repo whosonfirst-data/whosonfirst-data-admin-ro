@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2283814538,45.7557427665,21.2283814538,45.7557427665",
+    "geom:bbox":"21.228381,45.755743,21.228381,45.755743",
     "geom:latitude":45.755743,
     "geom:longitude":21.228381,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"1c9f7b1fce0f2741fe3f0ff7d018dffc",
+    "wof:geomhash":"aa724b841da4aedd424ea0a8f8bdf584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838707,
-    "wof:lastmodified":1566610406,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Cetate",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.22838145378715,
-    45.75574276645687,
-    21.22838145378715,
-    45.75574276645687
+    21.228381,
+    45.755743,
+    21.228381,
+    45.755743
 ],
-  "geometry": {"coordinates":[21.22838145378715,45.75574276645687],"type":"Point"}
+  "geometry": {"coordinates":[21.228381,45.755743],"type":"Point"}
 }

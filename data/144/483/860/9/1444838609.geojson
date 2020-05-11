@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.6278224728,46.7768624321,23.6278224728,46.7768624321",
+    "geom:bbox":"23.627822,46.776862,23.627822,46.776862",
     "geom:latitude":46.776862,
     "geom:longitude":23.627822,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"b1b24c513dbe2d3ddacadfbeaa1b21e2",
+    "wof:geomhash":"b0a6dd5b25a0146c88eba5eb2d5d774a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838609,
-    "wof:lastmodified":1566610405,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Intre Lacuri",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.62782247277772,
-    46.77686243214522,
-    23.62782247277772,
-    46.77686243214522
+    23.627822,
+    46.776862,
+    23.627822,
+    46.776862
 ],
-  "geometry": {"coordinates":[23.62782247277772,46.77686243214522],"type":"Point"}
+  "geometry": {"coordinates":[23.627822,46.776862],"type":"Point"}
 }

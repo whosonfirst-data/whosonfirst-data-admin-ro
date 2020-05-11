@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1186401251,44.4602433279,26.1186401251,44.4602433279",
+    "geom:bbox":"26.11864,44.460243,26.11864,44.460243",
     "geom:latitude":44.460243,
     "geom:longitude":26.11864,
     "iso:country":"RO",
@@ -44,8 +44,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -54,7 +54,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363180,
-    "wof:geomhash":"a20e5a01728a8a96fa9fb6f495f4ec28",
+    "wof:geomhash":"1f008068649312f07f4fd2d497976e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1108942579,
-    "wof:lastmodified":1566610511,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226529,
     "wof:name":"Tei",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11864012512533,
-    44.4602433278971,
-    26.11864012512533,
-    44.4602433278971
+    26.11864,
+    44.460243,
+    26.11864,
+    44.460243
 ],
-  "geometry": {"coordinates":[26.11864012512533,44.4602433278971],"type":"Point"}
+  "geometry": {"coordinates":[26.11864,44.460243],"type":"Point"}
 }

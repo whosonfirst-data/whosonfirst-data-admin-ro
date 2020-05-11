@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.5831904923,46.7465231844,23.5831904923,46.7465231844",
+    "geom:bbox":"23.58319,46.746523,23.58319,46.746523",
     "geom:latitude":46.746523,
     "geom:longitude":23.58319,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"0ba6c63872cb80ffbdfa4b7a3752aef0",
+    "wof:geomhash":"353a2556ba5ca172c27fe1a5ab0bfa9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838667,
-    "wof:lastmodified":1566610405,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Zorilor Sud",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.58319049231324,
-    46.7465231844108,
-    23.58319049231324,
-    46.7465231844108
+    23.58319,
+    46.746523,
+    23.58319,
+    46.746523
 ],
-  "geometry": {"coordinates":[23.58319049231324,46.7465231844108],"type":"Point"}
+  "geometry": {"coordinates":[23.58319,46.746523],"type":"Point"}
 }

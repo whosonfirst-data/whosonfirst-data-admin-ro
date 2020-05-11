@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2319434292,45.7334608381,21.2319434292,45.7334608381",
+    "geom:bbox":"21.231943,45.733461,21.231943,45.733461",
     "geom:latitude":45.733461,
     "geom:longitude":21.231943,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"11b1976e2e9e3e31877b3e74acef88a1",
+    "wof:geomhash":"b8345fe203de965a6dbb9c9708cb504e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838839,
-    "wof:lastmodified":1566610407,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1589226509,
     "wof:name":"Girocului",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.23194342915115,
-    45.73346083814059,
-    21.23194342915115,
-    45.73346083814059
+    21.231943,
+    45.733461,
+    21.231943,
+    45.733461
 ],
-  "geometry": {"coordinates":[21.23194342915115,45.73346083814059],"type":"Point"}
+  "geometry": {"coordinates":[21.231943,45.733461],"type":"Point"}
 }
