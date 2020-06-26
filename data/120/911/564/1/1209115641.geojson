@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"9622a5fcabf4a23a6e645bf9f82c7b47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209115641
+            "locality_id":1209115641,
+            "region_id":85687697
         }
     ],
     "wof:id":1209115641,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203757,
     "wof:name":"M\u0103n\u0103rade",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":865,
     "wof:population_rank":2,

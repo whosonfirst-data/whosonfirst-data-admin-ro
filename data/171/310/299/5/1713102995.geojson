@@ -69,7 +69,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":91740
@@ -77,7 +81,14 @@
     "wof:country":"RO",
     "wof:created":1588207669,
     "wof:geomhash":"d2f152f378e2d6c22f27351c2257af51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102995,
+            "region_id":85687671
+        }
+    ],
     "wof:id":1713102995,
     "wof:lang_x_official":[
         "ron"
@@ -85,9 +96,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226772,
+    "wof:lastmodified":1593203810,
     "wof:name":"General Berthelot",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

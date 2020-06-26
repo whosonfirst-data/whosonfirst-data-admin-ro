@@ -63,7 +63,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":19926
@@ -71,7 +75,14 @@
     "wof:country":"RO",
     "wof:created":1588207729,
     "wof:geomhash":"2b365e29756b74585c0be55566d0e5c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103277,
+            "region_id":85687645
+        }
+    ],
     "wof:id":1713103277,
     "wof:lang_x_official":[
         "ron"
@@ -79,9 +90,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226772,
+    "wof:lastmodified":1593203652,
     "wof:name":"Lungani",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

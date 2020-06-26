@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"0062cd85977a6aaa5ccdf7a1ed1022de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209083457
+            "locality_id":1209083457,
+            "region_id":85687627
         }
     ],
     "wof:id":1209083457,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226488,
+    "wof:lastmodified":1593203619,
     "wof:name":"Agadici",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":202,
     "wof:population_rank":2,

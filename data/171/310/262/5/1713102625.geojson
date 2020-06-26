@@ -198,7 +198,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":37495
@@ -206,7 +210,14 @@
     "wof:country":"RO",
     "wof:created":1588207592,
     "wof:geomhash":"e64223b3164e20ce6cf1cb1c7e63f470",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102625,
+            "region_id":85687777
+        }
+    ],
     "wof:id":1713102625,
     "wof:lang_x_official":[
         "ron"
@@ -214,9 +225,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226771,
+    "wof:lastmodified":1593203526,
     "wof:name":"Mihai Eminescu",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

@@ -52,7 +52,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,8 +68,10 @@
     "wof:geomhash":"7932e6944e104d75a2786731b00537be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209384651
+            "locality_id":1209384651,
+            "region_id":85687637
         }
     ],
     "wof:id":1209384651,
@@ -77,9 +81,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593203721,
     "wof:name":"Neajlovu",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":544,
     "wof:population_rank":2,

@@ -43,7 +43,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"c201171ddfba007801b144cf3cdfe250",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209265985
+            "locality_id":1209265985,
+            "region_id":85687743
         }
     ],
     "wof:id":1209265985,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203468,
     "wof:name":"Lacu Babei",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":265,
     "wof:population_rank":2,

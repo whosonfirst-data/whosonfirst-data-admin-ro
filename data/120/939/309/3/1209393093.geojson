@@ -77,7 +77,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,8 +93,10 @@
     "wof:geomhash":"b9884a753b2c7ec496ba0792ee45014a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209393093
+            "locality_id":1209393093,
+            "region_id":85687667
         }
     ],
     "wof:id":1209393093,
@@ -102,9 +106,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203594,
     "wof:name":"Manasia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":376,
     "wof:population_rank":2,

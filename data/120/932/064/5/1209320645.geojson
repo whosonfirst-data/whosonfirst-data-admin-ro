@@ -43,7 +43,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"5a0b34e298a4a6aa00c0e420c645b330",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209320645
+            "locality_id":1209320645,
+            "region_id":85687715
         }
     ],
     "wof:id":1209320645,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226498,
+    "wof:lastmodified":1593203542,
     "wof:name":"Belciuneasa",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":177,
     "wof:population_rank":1,

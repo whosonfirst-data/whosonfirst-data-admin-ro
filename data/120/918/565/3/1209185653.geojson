@@ -43,7 +43,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +55,10 @@
     "wof:geomhash":"2197003db7557c0ccd7770f356c37a6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209185653
+            "locality_id":1209185653,
+            "region_id":85687581
         }
     ],
     "wof:id":1209185653,
@@ -64,9 +68,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226503,
+    "wof:lastmodified":1593208577,
     "wof:name":"Dalga",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

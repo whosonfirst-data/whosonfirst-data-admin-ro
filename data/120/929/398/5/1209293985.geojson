@@ -43,7 +43,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"5a55a3637bbea3c05e3477c997331674",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209293985
+            "locality_id":1209293985,
+            "region_id":85687727
         }
     ],
     "wof:id":1209293985,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203415,
     "wof:name":"Valea Luncii",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":73,
     "wof:population_rank":1,

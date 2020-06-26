@@ -53,7 +53,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +69,10 @@
     "wof:geomhash":"86314e33a16ab3751f45d25100daa41b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209219317
+            "locality_id":1209219317,
+            "region_id":85687737
         }
     ],
     "wof:id":1209219317,
@@ -78,9 +82,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203502,
     "wof:name":"Lupoaia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":546,
     "wof:population_rank":2,

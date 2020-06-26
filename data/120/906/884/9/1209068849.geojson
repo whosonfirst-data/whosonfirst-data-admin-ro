@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,10 @@
     "wof:geomhash":"1a944055b00a982e05338e91d4007d01",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209068849
+            "locality_id":1209068849,
+            "region_id":85687619
         }
     ],
     "wof:id":1209068849,
@@ -58,9 +62,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226488,
+    "wof:lastmodified":1593208611,
     "wof:name":"Curpenelu",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

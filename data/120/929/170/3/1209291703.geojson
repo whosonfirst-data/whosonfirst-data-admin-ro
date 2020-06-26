@@ -67,7 +67,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,8 +83,10 @@
     "wof:geomhash":"5bc81186e3cf67f80b1737c89ffd20f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209291703
+            "locality_id":1209291703,
+            "region_id":85687627
         }
     ],
     "wof:id":1209291703,
@@ -92,9 +96,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226503,
+    "wof:lastmodified":1593203619,
     "wof:name":"Topla",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":171,
     "wof:population_rank":1,

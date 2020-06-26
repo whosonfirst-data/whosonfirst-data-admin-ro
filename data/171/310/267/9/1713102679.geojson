@@ -114,7 +114,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":120879
@@ -122,7 +126,14 @@
     "wof:country":"RO",
     "wof:created":1588207603,
     "wof:geomhash":"ed5162f32fc0ea544ce33696e5392acb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102679,
+            "region_id":85687747
+        }
+    ],
     "wof:id":1713102679,
     "wof:lang_x_official":[
         "ron"
@@ -130,9 +141,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226767,
+    "wof:lastmodified":1593203573,
     "wof:name":"Roman",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

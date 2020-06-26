@@ -59,7 +59,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,8 +75,10 @@
     "wof:geomhash":"3d2804e9ccd5165437f606c0f7600815",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209025331
+            "locality_id":1209025331,
+            "region_id":85687683
         }
     ],
     "wof:id":1209025331,
@@ -84,9 +88,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226501,
+    "wof:lastmodified":1593203782,
     "wof:name":"Arini",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":737,
     "wof:population_rank":2,

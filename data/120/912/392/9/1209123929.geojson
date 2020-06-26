@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"f5435acf80d920d2fe77b5fc82744ae3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209123929
+            "locality_id":1209123929,
+            "region_id":85687697
         }
     ],
     "wof:id":1209123929,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226493,
+    "wof:lastmodified":1593203756,
     "wof:name":"C\u00e2mpu Goblii",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":121,
     "wof:population_rank":1,

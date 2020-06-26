@@ -46,7 +46,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"62d1b86cf49249b7cd69ea55a99a44cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209569609
+            "locality_id":1209569609,
+            "region_id":85687719
         }
     ],
     "wof:id":1209569609,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226500,
+    "wof:lastmodified":1593203448,
     "wof:name":"Nima Mil\u0103\u015felului",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":14,
     "wof:population_rank":1,

@@ -67,7 +67,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,8 +83,10 @@
     "wof:geomhash":"bbfc45926b068da730fb98c055437ed5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209173641
+            "locality_id":1209173641,
+            "region_id":85687757
         }
     ],
     "wof:id":1209173641,
@@ -92,9 +96,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203363,
     "wof:name":"Ru\u015feni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":238,
     "wof:population_rank":2,

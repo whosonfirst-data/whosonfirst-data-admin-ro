@@ -34,7 +34,9 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,10 @@
     "wof:geomhash":"92e0396cbb8353aa37f924f2b4401b92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209123983
+            "locality_id":1209123983,
+            "region_id":85687697
         }
     ],
     "wof:id":1209123983,
@@ -55,9 +59,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226493,
+    "wof:lastmodified":1593208622,
     "wof:name":"Galbena",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":189,
     "wof:population_rank":1,

@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"9388cc7772ff7335a6f1aabab6e60221",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209547075
+            "locality_id":1209547075,
+            "region_id":85687643
         }
     ],
     "wof:id":1209547075,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593203684,
     "wof:name":"M\u0103zili",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":354,
     "wof:population_rank":2,

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,10 @@
     "wof:geomhash":"d6b76d083d12d1a359a830f484edd30c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209689161
+            "locality_id":1209689161,
+            "region_id":85687699
         }
     ],
     "wof:id":1209689161,
@@ -58,9 +62,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226496,
+    "wof:lastmodified":1593208620,
     "wof:name":"Eresteghin",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

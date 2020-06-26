@@ -46,7 +46,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"31f67100032bec1aa191d4f99d9ae8a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209393865
+            "locality_id":1209393865,
+            "region_id":85687633
         }
     ],
     "wof:id":1209393865,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203611,
     "wof:name":"Seimenii Mici",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":860,
     "wof:population_rank":2,

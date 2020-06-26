@@ -53,7 +53,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +69,10 @@
     "wof:geomhash":"cba2f036103917f31938bdeea513c05c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209128855
+            "locality_id":1209128855,
+            "region_id":85687737
         }
     ],
     "wof:id":1209128855,
@@ -78,9 +82,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226493,
+    "wof:lastmodified":1593203501,
     "wof:name":"Cenalo\u015f",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":304,
     "wof:population_rank":2,

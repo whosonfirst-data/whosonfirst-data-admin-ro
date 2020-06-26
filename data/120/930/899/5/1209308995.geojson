@@ -38,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +50,10 @@
     "wof:geomhash":"af1b0827a5f3db657e4fdb63e1cc3042",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209308995
+            "locality_id":1209308995,
+            "region_id":85687777
         }
     ],
     "wof:id":1209308995,
@@ -59,9 +63,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226488,
+    "wof:lastmodified":1593208593,
     "wof:name":"Romanesti-Vale",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

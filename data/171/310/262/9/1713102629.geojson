@@ -48,7 +48,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":76371
@@ -56,7 +60,14 @@
     "wof:country":"RO",
     "wof:created":1588207593,
     "wof:geomhash":"22ea3d1ebd6f61b7983a2129e3efe2fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102629,
+            "region_id":85687709
+        }
+    ],
     "wof:id":1713102629,
     "wof:lang_x_official":[
         "ron"
@@ -64,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226771,
+    "wof:lastmodified":1593203487,
     "wof:name":"Fundeni",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

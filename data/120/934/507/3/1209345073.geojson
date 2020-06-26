@@ -85,7 +85,9 @@
     ],
     "src:lbl_centroid":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,8 +101,10 @@
     "wof:geomhash":"06f38a881d07240247338fe980ce3a0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209345073
+            "locality_id":1209345073,
+            "region_id":85687643
         }
     ],
     "wof:id":1209345073,
@@ -110,9 +114,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203686,
     "wof:name":"Gruiu",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

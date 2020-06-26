@@ -56,7 +56,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +72,10 @@
     "wof:geomhash":"d1f7d1e76ab8f66316cfe941f28878ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209561787
+            "locality_id":1209561787,
+            "region_id":85687661
         }
     ],
     "wof:id":1209561787,
@@ -81,9 +85,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226500,
+    "wof:lastmodified":1593203577,
     "wof:name":"Plaiu",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":276,
     "wof:population_rank":2,

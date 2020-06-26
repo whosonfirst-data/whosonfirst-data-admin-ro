@@ -49,7 +49,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +65,10 @@
     "wof:geomhash":"1254be586848e8c01603d92184c1d7b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209649391
+            "locality_id":1209649391,
+            "region_id":85687643
         }
     ],
     "wof:id":1209649391,
@@ -74,9 +78,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226489,
+    "wof:lastmodified":1593203685,
     "wof:name":"Dezrobi\u0163i",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":667,
     "wof:population_rank":2,

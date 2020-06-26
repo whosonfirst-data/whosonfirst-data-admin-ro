@@ -52,7 +52,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,8 +68,10 @@
     "wof:geomhash":"091b1b78b71ea81ad046c938c13e8738",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209381485
+            "locality_id":1209381485,
+            "region_id":85687719
         }
     ],
     "wof:id":1209381485,
@@ -77,9 +81,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593203447,
     "wof:name":"Ib\u0103ne\u015fti-P\u0103dure",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":492,
     "wof:population_rank":2,

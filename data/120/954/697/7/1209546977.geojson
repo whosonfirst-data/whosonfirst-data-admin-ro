@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,10 @@
     "wof:geomhash":"d13734b9e783f3ceea4a6a1cdc8415fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209546977
+            "locality_id":1209546977,
+            "region_id":85687643
         }
     ],
     "wof:id":1209546977,
@@ -58,9 +62,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593208615,
     "wof:name":"Tircanesti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

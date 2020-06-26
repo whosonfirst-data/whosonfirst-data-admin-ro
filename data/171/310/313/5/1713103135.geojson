@@ -27,7 +27,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":60865
@@ -35,7 +39,14 @@
     "wof:country":"RO",
     "wof:created":1588207701,
     "wof:geomhash":"1f146c52b37b314c9f693584de2eb109",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103135,
+            "region_id":85687633
+        }
+    ],
     "wof:id":1713103135,
     "wof:lang_x_official":[
         "ron"
@@ -43,9 +54,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226769,
+    "wof:lastmodified":1593203616,
     "wof:name":"Remus Opreanu",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

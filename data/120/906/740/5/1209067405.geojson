@@ -89,7 +89,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,8 +105,10 @@
     "wof:geomhash":"f77fb8578f96741bf6e9d650d59c5824",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209067405
+            "locality_id":1209067405,
+            "region_id":85687607
         }
     ],
     "wof:id":1209067405,
@@ -114,9 +118,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203700,
     "wof:name":"Teiu\u015f",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":270,
     "wof:population_rank":2,

@@ -51,7 +51,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":34707
@@ -59,7 +63,14 @@
     "wof:country":"RO",
     "wof:created":1588207763,
     "wof:geomhash":"8511d2b9326ae81d11eb9a7601994e60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103445,
+            "region_id":85687753
+        }
+    ],
     "wof:id":1713103445,
     "wof:lang_x_official":[
         "ron"
@@ -67,9 +78,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226774,
+    "wof:lastmodified":1593203497,
     "wof:name":"\u015eieu-M\u0103gheru\u015f",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687753,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

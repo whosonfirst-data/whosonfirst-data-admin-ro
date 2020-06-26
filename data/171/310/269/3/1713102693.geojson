@@ -30,7 +30,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":167721
@@ -38,7 +42,14 @@
     "wof:country":"RO",
     "wof:created":1588207605,
     "wof:geomhash":"abacfc61c479c195a70ff68c14ba9f14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102693,
+            "region_id":85687643
+        }
+    ],
     "wof:id":1713102693,
     "wof:lang_x_official":[
         "ron"
@@ -46,9 +57,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226768,
+    "wof:lastmodified":1593203697,
     "wof:name":"Gurguiata",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

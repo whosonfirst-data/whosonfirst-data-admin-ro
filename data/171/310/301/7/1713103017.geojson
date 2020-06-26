@@ -30,7 +30,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":41499
@@ -38,7 +42,14 @@
     "wof:country":"RO",
     "wof:created":1588207675,
     "wof:geomhash":"159c2673ab203b52b9414ed93fd556c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103017,
+            "region_id":85687683
+        }
+    ],
     "wof:id":1713103017,
     "wof:lang_x_official":[
         "ron"
@@ -46,9 +57,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226765,
+    "wof:lastmodified":1593203786,
     "wof:name":"Cheia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

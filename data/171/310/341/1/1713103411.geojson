@@ -66,7 +66,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":40050
@@ -74,7 +78,14 @@
     "wof:country":"RO",
     "wof:created":1588207756,
     "wof:geomhash":"6a2794a76311fe9b2a65cf58ea76c107",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103411,
+            "region_id":85687777
+        }
+    ],
     "wof:id":1713103411,
     "wof:lang_x_official":[
         "ron"
@@ -82,9 +93,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226768,
+    "wof:lastmodified":1593203525,
     "wof:name":"Maghera",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

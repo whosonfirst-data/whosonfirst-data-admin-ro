@@ -95,7 +95,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,8 +111,10 @@
     "wof:geomhash":"081ff8ebf00ba5cebbc8a1f6c41138c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209042707
+            "locality_id":1209042707,
+            "region_id":85687723
         }
     ],
     "wof:id":1209042707,
@@ -120,9 +124,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226499,
+    "wof:lastmodified":1593203530,
     "wof:name":"M\u0103gura",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":33,
     "wof:population_rank":1,

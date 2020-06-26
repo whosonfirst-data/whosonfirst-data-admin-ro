@@ -36,7 +36,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":60829
@@ -44,7 +48,14 @@
     "wof:country":"RO",
     "wof:created":1588207751,
     "wof:geomhash":"dfc9b3258a013304ed4b4e8c6a66c96a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103387,
+            "region_id":85687633
+        }
+    ],
     "wof:id":1713103387,
     "wof:lang_x_official":[
         "ron"
@@ -52,9 +63,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226764,
+    "wof:lastmodified":1593203616,
     "wof:name":"Vadu Oii",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

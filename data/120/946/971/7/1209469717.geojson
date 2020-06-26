@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"15373c5ab9caef11549ef9ea7da6bb32",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209469717
+            "locality_id":1209469717,
+            "region_id":85687599
         }
     ],
     "wof:id":1209469717,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226492,
+    "wof:lastmodified":1593203337,
     "wof:name":"Albule\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":903,
     "wof:population_rank":2,

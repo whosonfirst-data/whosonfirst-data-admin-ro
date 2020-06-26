@@ -48,7 +48,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +64,10 @@
     "wof:geomhash":"b0c6bfc306a5638829d4870d6c3db192",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209569605
+            "locality_id":1209569605,
+            "region_id":85687719
         }
     ],
     "wof:id":1209569605,
@@ -73,9 +77,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226500,
+    "wof:lastmodified":1593203448,
     "wof:name":"Bernadea",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":194,
     "wof:population_rank":1,

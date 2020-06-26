@@ -74,7 +74,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +90,10 @@
     "wof:geomhash":"bb74cd5ad1c1158b3d214ec2adb4eb7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209650055
+            "locality_id":1209650055,
+            "region_id":85687643
         }
     ],
     "wof:id":1209650055,
@@ -99,9 +103,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226486,
+    "wof:lastmodified":1593203685,
     "wof:name":"Berbe\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":578,
     "wof:population_rank":2,

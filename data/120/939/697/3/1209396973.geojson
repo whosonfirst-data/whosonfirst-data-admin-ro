@@ -51,7 +51,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +67,10 @@
     "wof:geomhash":"3a856fc13e019d0bf3496cfc7b3b7e49",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209396973
+            "locality_id":1209396973,
+            "region_id":85687637
         }
     ],
     "wof:id":1209396973,
@@ -76,9 +80,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203721,
     "wof:name":"Gherghi\u0163e\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":459,
     "wof:population_rank":2,

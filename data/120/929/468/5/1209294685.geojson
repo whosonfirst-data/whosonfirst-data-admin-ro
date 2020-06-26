@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,10 @@
     "wof:geomhash":"6e8e9d52f726c034700e977083d00d0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209294685
+            "locality_id":1209294685,
+            "region_id":85687627
         }
     ],
     "wof:id":1209294685,
@@ -58,9 +62,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226503,
+    "wof:lastmodified":1593208605,
     "wof:name":"Tesna",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

@@ -54,7 +54,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":11673
@@ -62,7 +66,14 @@
     "wof:country":"RO",
     "wof:created":1588207723,
     "wof:geomhash":"d2ec2318e44d1cff2785876497572997",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103243,
+            "region_id":85687691
+        }
+    ],
     "wof:id":1713103243,
     "wof:lang_x_official":[
         "ron"
@@ -70,9 +81,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226768,
+    "wof:lastmodified":1593203718,
     "wof:name":"Petri\u015f",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

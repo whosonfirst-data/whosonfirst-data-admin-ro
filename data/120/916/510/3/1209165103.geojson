@@ -46,7 +46,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"9f2ecb741b6d0af0162f7298415e5c2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209165103
+            "locality_id":1209165103,
+            "region_id":85687607
         }
     ],
     "wof:id":1209165103,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203700,
     "wof:name":"Cojg\u0103rei",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":171,
     "wof:population_rank":1,

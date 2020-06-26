@@ -50,7 +50,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,8 +66,10 @@
     "wof:geomhash":"273dd4822e0947cc2dd0ae5d846b3e65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209462067
+            "locality_id":1209462067,
+            "region_id":85687607
         }
     ],
     "wof:id":1209462067,
@@ -75,9 +79,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226492,
+    "wof:lastmodified":1593203700,
     "wof:name":"Plop\u015forelu",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":193,
     "wof:population_rank":1,

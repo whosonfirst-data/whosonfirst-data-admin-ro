@@ -46,7 +46,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"fd1dca5619c9af6c2051ff3bf26c0a7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209465719
+            "locality_id":1209465719,
+            "region_id":85687607
         }
     ],
     "wof:id":1209465719,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226492,
+    "wof:lastmodified":1593203700,
     "wof:name":"Greere\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":61,
     "wof:population_rank":1,

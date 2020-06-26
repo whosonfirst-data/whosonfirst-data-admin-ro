@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":2292
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207702,
     "wof:geomhash":"74726dbc8080f0459fb1beac70fecc38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103143,
+            "region_id":85687697
+        }
+    ],
     "wof:id":1713103143,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226769,
+    "wof:lastmodified":1593203771,
     "wof:name":"Tambore\u015fti",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

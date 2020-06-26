@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":87709
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207650,
     "wof:geomhash":"caa2453f1fac9851416189eba5a6d19f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102911,
+            "region_id":85687671
+        }
+    ],
     "wof:id":1713102911,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226772,
+    "wof:lastmodified":1593203809,
     "wof:name":"Simeria Veche",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

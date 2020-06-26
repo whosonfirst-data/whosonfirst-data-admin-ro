@@ -51,7 +51,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687719
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +67,10 @@
     "wof:geomhash":"593b06d991096f1ea546aa0fec8ea9b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209162083
+            "locality_id":1209162083,
+            "region_id":85687719
         }
     ],
     "wof:id":1209162083,
@@ -76,9 +80,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203448,
     "wof:name":"Negrenii de C\u00e2mpie",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":176,
     "wof:population_rank":1,

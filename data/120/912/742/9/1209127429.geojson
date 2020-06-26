@@ -71,7 +71,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,8 +87,10 @@
     "wof:geomhash":"924245599bab7916cd8e8a1722071951",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209127429
+            "locality_id":1209127429,
+            "region_id":85687777
         }
     ],
     "wof:id":1209127429,
@@ -96,9 +100,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226493,
+    "wof:lastmodified":1593203516,
     "wof:name":"C\u0103lug\u0103reni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:population":395,
     "wof:population_rank":2,

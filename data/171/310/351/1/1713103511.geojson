@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":131657
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207778,
     "wof:geomhash":"8cf4f849df1e5d33f1f104b82d5df1a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103511,
+            "region_id":85687661
+        }
+    ],
     "wof:id":1713103511,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226770,
+    "wof:lastmodified":1593203589,
     "wof:name":"Arione\u015ftii Vechi",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

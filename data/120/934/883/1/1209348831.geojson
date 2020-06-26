@@ -33,7 +33,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,10 @@
     "wof:geomhash":"52460e0dcc5798befa62f4d0738440c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209348831
+            "locality_id":1209348831,
+            "region_id":85687591
         }
     ],
     "wof:id":1209348831,
@@ -54,9 +58,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593208578,
     "wof:name":"Velea",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

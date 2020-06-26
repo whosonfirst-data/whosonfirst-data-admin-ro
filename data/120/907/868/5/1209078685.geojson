@@ -74,7 +74,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +90,10 @@
     "wof:geomhash":"af54f8009a5b3e090ecf2789f33cb867",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209078685
+            "locality_id":1209078685,
+            "region_id":85687637
         }
     ],
     "wof:id":1209078685,
@@ -99,9 +103,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593203721,
     "wof:name":"Dumbrava",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":426,
     "wof:population_rank":2,

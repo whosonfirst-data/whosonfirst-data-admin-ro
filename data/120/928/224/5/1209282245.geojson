@@ -65,7 +65,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,8 +81,10 @@
     "wof:geomhash":"0e0ca48afed6c7e05d2a6e65bc3c1585",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209282245
+            "locality_id":1209282245,
+            "region_id":85687761
         }
     ],
     "wof:id":1209282245,
@@ -90,9 +94,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226507,
+    "wof:lastmodified":1593203354,
     "wof:name":"Piatra",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687761,
     "wof:placetype":"locality",
     "wof:population":417,
     "wof:population_rank":2,

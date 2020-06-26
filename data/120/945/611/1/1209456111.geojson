@@ -46,7 +46,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"0c73b5b02817014f5515cc69682db889",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209456111
+            "locality_id":1209456111,
+            "region_id":85687773
         }
     ],
     "wof:id":1209456111,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203430,
     "wof:name":"Doroteia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":882,
     "wof:population_rank":2,

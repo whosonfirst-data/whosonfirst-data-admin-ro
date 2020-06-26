@@ -65,7 +65,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,8 +81,10 @@
     "wof:geomhash":"fb7643c18969de8be2d729c09f2c7b36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209569435
+            "locality_id":1209569435,
+            "region_id":85687687
         }
     ],
     "wof:id":1209569435,
@@ -90,9 +94,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226500,
+    "wof:lastmodified":1593203654,
     "wof:name":"Armeni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":794,
     "wof:population_rank":2,

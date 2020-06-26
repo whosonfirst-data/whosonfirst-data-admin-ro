@@ -27,7 +27,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":40321
@@ -35,7 +39,14 @@
     "wof:country":"RO",
     "wof:created":1588207768,
     "wof:geomhash":"5573a93f72f90fcc5d7a53756e0e61b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103465,
+            "region_id":85687683
+        }
+    ],
     "wof:id":1713103465,
     "wof:lang_x_official":[
         "ron"
@@ -43,9 +54,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226768,
+    "wof:lastmodified":1593203786,
     "wof:name":"P\u00e2r\u00e2ul Rece",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

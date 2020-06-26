@@ -65,7 +65,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,8 +81,10 @@
     "wof:geomhash":"bbda20fe0609c0fcb53391c8832e1a71",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209153427
+            "locality_id":1209153427,
+            "region_id":85687679
         }
     ],
     "wof:id":1209153427,
@@ -90,9 +94,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226492,
+    "wof:lastmodified":1593203776,
     "wof:name":"Rahman",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687679,
     "wof:placetype":"locality",
     "wof:population":366,
     "wof:population_rank":2,

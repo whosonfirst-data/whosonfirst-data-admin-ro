@@ -51,7 +51,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +67,10 @@
     "wof:geomhash":"b87ac1e37f0c43d6af65e6d3411bca21",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209651619
+            "locality_id":1209651619,
+            "region_id":85687643
         }
     ],
     "wof:id":1209651619,
@@ -76,9 +80,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226486,
+    "wof:lastmodified":1593203684,
     "wof:name":"Burd\u0103le\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":421,
     "wof:population_rank":2,

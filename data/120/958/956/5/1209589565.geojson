@@ -83,7 +83,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,8 +99,10 @@
     "wof:geomhash":"ece381be66e533f2c3514b201557b111",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209589565
+            "locality_id":1209589565,
+            "region_id":85687671
         }
     ],
     "wof:id":1209589565,
@@ -108,9 +112,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226499,
+    "wof:lastmodified":1593203798,
     "wof:name":"Boz",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":535,
     "wof:population_rank":2,

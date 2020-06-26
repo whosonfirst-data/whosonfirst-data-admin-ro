@@ -85,7 +85,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,8 +101,10 @@
     "wof:geomhash":"ccb279cb45194068ca1110c2f9c5247e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209555577
+            "locality_id":1209555577,
+            "region_id":85687655
         }
     ],
     "wof:id":1209555577,
@@ -110,9 +114,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226490,
+    "wof:lastmodified":1593203738,
     "wof:name":"Gad",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":225,
     "wof:population_rank":2,

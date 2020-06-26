@@ -53,7 +53,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +69,10 @@
     "wof:geomhash":"733db247f6cfce9cd8ff874f6d31e8d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209380443
+            "locality_id":1209380443,
+            "region_id":85687619
         }
     ],
     "wof:id":1209380443,
@@ -78,9 +82,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593203663,
     "wof:name":"Ursoaia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":834,
     "wof:population_rank":2,

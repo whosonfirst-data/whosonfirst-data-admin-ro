@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":52428
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207707,
     "wof:geomhash":"be2e41c5c16569154b0db349f605ebcc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103165,
+            "region_id":85687627
+        }
+    ],
     "wof:id":1713103165,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226773,
+    "wof:lastmodified":1593203626,
     "wof:name":"Poiana Lung\u0103",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

@@ -47,7 +47,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +63,10 @@
     "wof:geomhash":"66c92a8a7329ab8cfe087d871722dd31",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209178981
+            "locality_id":1209178981,
+            "region_id":85687733
         }
     ],
     "wof:id":1209178981,
@@ -72,9 +76,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203391,
     "wof:name":"Aluni\u015f",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":151,
     "wof:population_rank":1,

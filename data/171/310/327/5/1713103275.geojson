@@ -54,7 +54,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":111925
@@ -62,7 +66,14 @@
     "wof:country":"RO",
     "wof:created":1588207729,
     "wof:geomhash":"01af97b7e535736df74b7aa0e800aa86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103275,
+            "region_id":85687599
+        }
+    ],
     "wof:id":1713103275,
     "wof:lang_x_official":[
         "ron"
@@ -70,9 +81,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226773,
+    "wof:lastmodified":1593203344,
     "wof:name":"Greci",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

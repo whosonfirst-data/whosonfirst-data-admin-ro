@@ -43,7 +43,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"d6d30cc77ca94a613537a7ff9c9ba2f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209379271
+            "locality_id":1209379271,
+            "region_id":85687671
         }
     ],
     "wof:id":1209379271,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226489,
+    "wof:lastmodified":1593203797,
     "wof:name":"Ostrovu Mic",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":118,
     "wof:population_rank":1,

@@ -46,7 +46,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"f6150d8de64b64170832a6239c4e065e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209390037
+            "locality_id":1209390037,
+            "region_id":85687619
         }
     ],
     "wof:id":1209390037,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203663,
     "wof:name":"Cojm\u0103ne\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":454,
     "wof:population_rank":2,

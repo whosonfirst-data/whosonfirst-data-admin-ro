@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"69fef84b77b7b7c00796df5ea728b9d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209214033
+            "locality_id":1209214033,
+            "region_id":85687737
         }
     ],
     "wof:id":1209214033,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203502,
     "wof:name":"Co\u015fdeni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":809,
     "wof:population_rank":2,

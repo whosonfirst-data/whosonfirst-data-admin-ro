@@ -85,7 +85,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,8 +101,10 @@
     "wof:geomhash":"ce294049954474db70f60d5b1700e4e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209670147
+            "locality_id":1209670147,
+            "region_id":85687599
         }
     ],
     "wof:id":1209670147,
@@ -110,9 +114,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226499,
+    "wof:lastmodified":1593203337,
     "wof:name":"Jiana",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":839,
     "wof:population_rank":2,

@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":136731
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207724,
     "wof:geomhash":"1a8b6c3eb1572dc1133e449ccbdb3f8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103253,
+            "region_id":85687757
+        }
+    ],
     "wof:id":1713103253,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226769,
+    "wof:lastmodified":1593203369,
     "wof:name":"Gana\u015f",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

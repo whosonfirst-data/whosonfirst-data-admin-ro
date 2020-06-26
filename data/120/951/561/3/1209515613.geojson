@@ -47,7 +47,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +63,10 @@
     "wof:geomhash":"4aff81038cc831490fe5af6bc1e61824",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209515613
+            "locality_id":1209515613,
+            "region_id":85687715
         }
     ],
     "wof:id":1209515613,
@@ -72,9 +76,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226501,
+    "wof:lastmodified":1593203542,
     "wof:name":"Hertioana de Jos",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":169,
     "wof:population_rank":1,

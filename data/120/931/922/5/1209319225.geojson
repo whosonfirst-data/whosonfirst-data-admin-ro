@@ -50,7 +50,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,8 +66,10 @@
     "wof:geomhash":"72d1739b79d06a9dfbf0c5a0eb4bfda9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209319225
+            "locality_id":1209319225,
+            "region_id":85687737
         }
     ],
     "wof:id":1209319225,
@@ -75,9 +79,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226484,
+    "wof:lastmodified":1593203501,
     "wof:name":"Poiana T\u0103\u015fad",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":233,
     "wof:population_rank":2,

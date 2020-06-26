@@ -95,7 +95,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,8 +111,10 @@
     "wof:geomhash":"bbcbcb85b21964432879ff10241cef8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209357519
+            "locality_id":1209357519,
+            "region_id":85687743
         }
     ],
     "wof:id":1209357519,
@@ -120,9 +124,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226498,
+    "wof:lastmodified":1593203467,
     "wof:name":"T\u0103t\u0103r\u0103ni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":301,
     "wof:population_rank":2,

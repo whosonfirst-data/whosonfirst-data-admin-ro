@@ -66,7 +66,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,8 +82,10 @@
     "wof:geomhash":"cc6eedd89c804af111bbdafefb41f2a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209598165
+            "locality_id":1209598165,
+            "region_id":85687699
         }
     ],
     "wof:id":1209598165,
@@ -91,9 +95,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226498,
+    "wof:lastmodified":1593203731,
     "wof:name":"Valea Mic\u0103",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687699,
     "wof:placetype":"locality",
     "wof:population":27,
     "wof:population_rank":1,

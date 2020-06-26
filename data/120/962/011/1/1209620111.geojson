@@ -53,7 +53,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +69,10 @@
     "wof:geomhash":"8fa35f7908199ba9f928468d2d80dd17",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209620111
+            "locality_id":1209620111,
+            "region_id":85687737
         }
     ],
     "wof:id":1209620111,
@@ -78,9 +82,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203501,
     "wof:name":"Dami\u015f",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":883,
     "wof:population_rank":2,

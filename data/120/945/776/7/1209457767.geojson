@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"af942fc9123b88c6bc32c7f8504e2e4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209457767
+            "locality_id":1209457767,
+            "region_id":85687743
         }
     ],
     "wof:id":1209457767,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203468,
     "wof:name":"Ro\u015fiori",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":224,
     "wof:population_rank":2,

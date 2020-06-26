@@ -36,7 +36,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":134817
@@ -44,7 +48,14 @@
     "wof:country":"RO",
     "wof:created":1588207694,
     "wof:geomhash":"acb4c7493612e48d7dfd8e2fac307839",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103099,
+            "region_id":85687661
+        }
+    ],
     "wof:id":1713103099,
     "wof:lang_x_official":[
         "ron"
@@ -52,9 +63,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226764,
+    "wof:lastmodified":1593203589,
     "wof:name":"Tulburea",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

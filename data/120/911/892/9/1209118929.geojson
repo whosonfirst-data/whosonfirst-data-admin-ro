@@ -51,7 +51,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +67,10 @@
     "wof:geomhash":"68d4afb48565ac6e162f47e1e120a2d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209118929
+            "locality_id":1209118929,
+            "region_id":85687691
         }
     ],
     "wof:id":1209118929,
@@ -76,9 +80,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203711,
     "wof:name":"R\u0103psig",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":854,
     "wof:population_rank":2,

@@ -47,7 +47,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +63,10 @@
     "wof:geomhash":"c66c5f8d1336ac0eeaf7b827d627e8a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209692483
+            "locality_id":1209692483,
+            "region_id":85687727
         }
     ],
     "wof:id":1209692483,
@@ -72,9 +76,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226500,
+    "wof:lastmodified":1593203415,
     "wof:name":"Aruncuta",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":473,
     "wof:population_rank":2,

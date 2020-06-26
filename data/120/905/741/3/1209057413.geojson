@@ -152,7 +152,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -166,8 +168,10 @@
     "wof:geomhash":"b4d26b485664fe5a7a7748fbed26cad2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209057413
+            "locality_id":1209057413,
+            "region_id":85687747
         }
     ],
     "wof:id":1209057413,
@@ -177,9 +181,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226501,
+    "wof:lastmodified":1593203560,
     "wof:name":"Slobozia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:population":730,
     "wof:population_rank":2,

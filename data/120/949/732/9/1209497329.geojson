@@ -78,7 +78,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +90,10 @@
     "wof:geomhash":"79a9c40966adcb6bfc77611117666201",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209497329
+            "locality_id":1209497329,
+            "region_id":85687637
         }
     ],
     "wof:id":1209497329,
@@ -99,9 +103,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226494,
+    "wof:lastmodified":1593208619,
     "wof:name":"Fundata",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

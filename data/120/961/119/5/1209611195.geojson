@@ -87,7 +87,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,8 +103,10 @@
     "wof:geomhash":"73f52d3c0537d05ccf85b35298a647f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209611195
+            "locality_id":1209611195,
+            "region_id":85687683
         }
     ],
     "wof:id":1209611195,
@@ -112,9 +116,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226497,
+    "wof:lastmodified":1593203781,
     "wof:name":"Cop\u0103cel",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":761,
     "wof:population_rank":2,

@@ -41,7 +41,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +57,10 @@
     "wof:geomhash":"1ea35b87f664730a0a444e5e3a8b50c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209423615
+            "locality_id":1209423615,
+            "region_id":85687691
         }
     ],
     "wof:id":1209423615,
@@ -66,9 +70,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226504,
+    "wof:lastmodified":1593203711,
     "wof:name":"Mocrea",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":973,
     "wof:population_rank":2,

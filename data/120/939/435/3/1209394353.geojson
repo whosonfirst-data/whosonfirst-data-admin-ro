@@ -46,7 +46,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"d62e4d1aff43f259b93f66a96791cee0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209394353
+            "locality_id":1209394353,
+            "region_id":85687727
         }
     ],
     "wof:id":1209394353,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203414,
     "wof:name":"Mor\u0163e\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":11,
     "wof:population_rank":1,

@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,10 @@
     "wof:geomhash":"9936fe022690a9675ff6c2587bccac2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209159271
+            "locality_id":1209159271,
+            "region_id":85687585
         }
     ],
     "wof:id":1209159271,
@@ -58,9 +62,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226492,
+    "wof:lastmodified":1593208580,
     "wof:name":"Bulaci",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

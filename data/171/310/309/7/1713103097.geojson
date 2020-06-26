@@ -39,7 +39,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687723
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":139722
@@ -47,7 +51,14 @@
     "wof:country":"RO",
     "wof:created":1588207694,
     "wof:geomhash":"f7b14b676a63ef0997b478c3db59563f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103097,
+            "region_id":85687723
+        }
+    ],
     "wof:id":1713103097,
     "wof:lang_x_official":[
         "ron"
@@ -55,9 +66,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226765,
+    "wof:lastmodified":1593203536,
     "wof:name":"St\u00e2na",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"ec2dee62b2b7c51b40831553ee16d1d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209059283
+            "locality_id":1209059283,
+            "region_id":85687655
         }
     ],
     "wof:id":1209059283,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226501,
+    "wof:lastmodified":1593203738,
     "wof:name":"Bucov\u0103\u0163",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":615,
     "wof:population_rank":2,

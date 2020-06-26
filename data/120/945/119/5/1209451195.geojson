@@ -43,7 +43,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"77aa72ce355dd3de0b74b67efa1dff25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209451195
+            "locality_id":1209451195,
+            "region_id":85687723
         }
     ],
     "wof:id":1209451195,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203530,
     "wof:name":"Viile Jacului",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":27,
     "wof:population_rank":1,

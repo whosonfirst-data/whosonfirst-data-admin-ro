@@ -81,7 +81,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,8 +97,10 @@
     "wof:geomhash":"1692df0855067ceb503b49841c68a736",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209649499
+            "locality_id":1209649499,
+            "region_id":85687643
         }
     ],
     "wof:id":1209649499,
@@ -106,9 +110,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226490,
+    "wof:lastmodified":1593203685,
     "wof:name":"Bude\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":319,
     "wof:population_rank":2,

@@ -50,7 +50,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,8 +66,10 @@
     "wof:geomhash":"b40b6430c355cd6188f9ac046e75252e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209557927
+            "locality_id":1209557927,
+            "region_id":85687705
         }
     ],
     "wof:id":1209557927,
@@ -75,9 +79,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226490,
+    "wof:lastmodified":1593203401,
     "wof:name":"Blidari",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687705,
     "wof:placetype":"locality",
     "wof:population":260,
     "wof:population_rank":2,

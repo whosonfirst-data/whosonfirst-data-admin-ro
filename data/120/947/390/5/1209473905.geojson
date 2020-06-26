@@ -84,7 +84,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,8 +100,10 @@
     "wof:geomhash":"a00395508c8ccda7160f0ae7943b1845",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209473905
+            "locality_id":1209473905,
+            "region_id":85687671
         }
     ],
     "wof:id":1209473905,
@@ -109,9 +113,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226493,
+    "wof:lastmodified":1593203798,
     "wof:name":"Mih\u0103ileni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":573,
     "wof:population_rank":2,

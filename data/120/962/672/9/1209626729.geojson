@@ -47,7 +47,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +64,10 @@
     "wof:geomhash":"2e98429fdfbb0edd431f8d974a714dfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209626729
+            "locality_id":1209626729,
+            "region_id":85687645
         }
     ],
     "wof:id":1209626729,
@@ -73,9 +77,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203636,
     "wof:name":"Sili\u015ftea",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":559,
     "wof:population_rank":2,

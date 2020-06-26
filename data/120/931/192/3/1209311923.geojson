@@ -49,7 +49,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +65,10 @@
     "wof:geomhash":"dfc75c908b6bad8351f965487b704711",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209311923
+            "locality_id":1209311923,
+            "region_id":85687753
         }
     ],
     "wof:id":1209311923,
@@ -74,9 +78,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226484,
+    "wof:lastmodified":1593203489,
     "wof:name":"Sebi\u015f",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687753,
     "wof:placetype":"locality",
     "wof:population":973,
     "wof:population_rank":2,

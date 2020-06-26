@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687777
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":39991
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207711,
     "wof:geomhash":"ee3d22c019f68de5801e1c6ee75c72ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103187,
+            "region_id":85687777
+        }
+    ],
     "wof:id":1713103187,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226772,
+    "wof:lastmodified":1593203526,
     "wof:name":"D\u0103mileni",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

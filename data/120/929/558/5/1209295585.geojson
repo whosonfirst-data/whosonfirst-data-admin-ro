@@ -49,7 +49,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +65,10 @@
     "wof:geomhash":"896c83f796d4cb65b880b9b4e514ddec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209295585
+            "locality_id":1209295585,
+            "region_id":85687667
         }
     ],
     "wof:id":1209295585,
@@ -74,9 +78,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203595,
     "wof:name":"P\u0103curile",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":124,
     "wof:population_rank":1,

@@ -41,7 +41,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +57,10 @@
     "wof:geomhash":"9a25f6b2b7a059d9e544ecc641b0758c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209062489
+            "locality_id":1209062489,
+            "region_id":85687769
         }
     ],
     "wof:id":1209062489,
@@ -66,9 +70,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226488,
+    "wof:lastmodified":1593203374,
     "wof:name":"Poiana de Sus",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":434,
     "wof:population_rank":2,

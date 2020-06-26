@@ -57,7 +57,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +73,10 @@
     "wof:geomhash":"af8e77efe19ed9228d37cc44681a3cfe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209388885
+            "locality_id":1209388885,
+            "region_id":85687671
         }
     ],
     "wof:id":1209388885,
@@ -82,9 +86,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226484,
+    "wof:lastmodified":1593203797,
     "wof:name":"Luncani",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":89,
     "wof:population_rank":1,

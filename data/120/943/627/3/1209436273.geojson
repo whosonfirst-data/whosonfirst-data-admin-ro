@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"65d0c01a0744dce041350ef7e1108701",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209436273
+            "locality_id":1209436273,
+            "region_id":85687777
         }
     ],
     "wof:id":1209436273,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226507,
+    "wof:lastmodified":1593203516,
     "wof:name":"Flore\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:population":33,
     "wof:population_rank":1,

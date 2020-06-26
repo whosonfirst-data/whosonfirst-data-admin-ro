@@ -68,7 +68,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,8 +84,10 @@
     "wof:geomhash":"7e21ad24a5ce783401cc42c9bd0d5c81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209172945
+            "locality_id":1209172945,
+            "region_id":85687671
         }
     ],
     "wof:id":1209172945,
@@ -93,9 +97,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203798,
     "wof:name":"Deleni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":31,
     "wof:population_rank":1,

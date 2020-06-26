@@ -68,7 +68,6 @@
     "wof:belongsto":[
         102191581,
         85633745,
-        101752009,
         85687715
     ],
     "wof:breaches":[],
@@ -83,7 +82,7 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101752009,
+            "locality_id":-1,
             "neighbourhood_id":1126104503,
             "region_id":85687715
         }
@@ -95,9 +94,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226672,
+    "wof:lastmodified":1593208278,
     "wof:name":"Ungureni",
-    "wof:parent_id":101752009,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":3728,
     "wof:population_rank":4,

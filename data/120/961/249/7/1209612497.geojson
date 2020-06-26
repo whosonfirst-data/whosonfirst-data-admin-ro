@@ -48,7 +48,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +64,10 @@
     "wof:geomhash":"e90afb6a1de1c261958d9239b4bb1c3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209612497
+            "locality_id":1209612497,
+            "region_id":85687753
         }
     ],
     "wof:id":1209612497,
@@ -73,9 +77,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226497,
+    "wof:lastmodified":1593203489,
     "wof:name":"Suplai",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687753,
     "wof:placetype":"locality",
     "wof:population":885,
     "wof:population_rank":2,

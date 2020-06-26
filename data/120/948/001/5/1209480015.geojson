@@ -60,7 +60,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +76,10 @@
     "wof:geomhash":"e892dec55b4d3ccde57007ee509dc158",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209480015
+            "locality_id":1209480015,
+            "region_id":85687733
         }
     ],
     "wof:id":1209480015,
@@ -85,9 +89,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226490,
+    "wof:lastmodified":1593203390,
     "wof:name":"Petreni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":210,
     "wof:population_rank":2,

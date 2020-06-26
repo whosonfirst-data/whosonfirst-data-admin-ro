@@ -51,7 +51,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,8 +67,10 @@
     "wof:geomhash":"c474515e59986ac4495350ecea620325",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209362077
+            "locality_id":1209362077,
+            "region_id":85687747
         }
     ],
     "wof:id":1209362077,
@@ -76,9 +80,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226484,
+    "wof:lastmodified":1593203559,
     "wof:name":"T\u00e2rzia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:population":688,
     "wof:population_rank":2,

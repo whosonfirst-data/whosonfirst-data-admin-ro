@@ -43,7 +43,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"f6ccf330bdd2bde3b52443cac9531452",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209161039
+            "locality_id":1209161039,
+            "region_id":85687661
         }
     ],
     "wof:id":1209161039,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203577,
     "wof:name":"Slavu",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":247,
     "wof:population_rank":2,

@@ -104,7 +104,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,8 +120,10 @@
     "wof:geomhash":"2acc5d2c1004bca0d1083c92dca0c57b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209189455
+            "locality_id":1209189455,
+            "region_id":85687619
         }
     ],
     "wof:id":1209189455,
@@ -129,9 +133,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226503,
+    "wof:lastmodified":1593203664,
     "wof:name":"Glodeni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":651,
     "wof:population_rank":2,

@@ -46,7 +46,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"af2503f4270e53146d1fb6f427179209",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209659587
+            "locality_id":1209659587,
+            "region_id":85687655
         }
     ],
     "wof:id":1209659587,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226486,
+    "wof:lastmodified":1593203738,
     "wof:name":"Bunea Mare",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":359,
     "wof:population_rank":2,

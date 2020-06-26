@@ -34,7 +34,9 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +46,10 @@
     "wof:geomhash":"a30e3e8da77578073a75d370a44833cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209110237
+            "locality_id":1209110237,
+            "region_id":85687697
         }
     ],
     "wof:id":1209110237,
@@ -55,9 +59,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593208623,
     "wof:name":"Gojeiesti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":30,
     "wof:population_rank":1,

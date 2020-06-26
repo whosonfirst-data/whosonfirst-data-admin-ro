@@ -50,7 +50,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,8 +66,10 @@
     "wof:geomhash":"6e0f4848bca0c11bed4fe0b006e329aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209453911
+            "locality_id":1209453911,
+            "region_id":85687679
         }
     ],
     "wof:id":1209453911,
@@ -75,9 +79,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203776,
     "wof:name":"R\u00e2ndunica",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687679,
     "wof:placetype":"locality",
     "wof:population":726,
     "wof:population_rank":2,

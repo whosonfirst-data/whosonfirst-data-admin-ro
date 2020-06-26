@@ -50,7 +50,9 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,8 +66,10 @@
     "wof:geomhash":"2f5c273b3c5ba6def04b1c9aab6ae446",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209062525
+            "locality_id":1209062525,
+            "region_id":85687769
         }
     ],
     "wof:id":1209062525,
@@ -75,9 +79,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226488,
+    "wof:lastmodified":1593203374,
     "wof:name":"M\u0103d\u00e2rje\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

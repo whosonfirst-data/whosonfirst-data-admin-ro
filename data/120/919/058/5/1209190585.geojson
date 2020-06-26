@@ -53,7 +53,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +69,10 @@
     "wof:geomhash":"d3ddac4f68f5fe2a3ff5be7921d9362f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209190585
+            "locality_id":1209190585,
+            "region_id":85687581
         }
     ],
     "wof:id":1209190585,
@@ -78,9 +82,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203320,
     "wof:name":"Pereni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":74,
     "wof:population_rank":1,

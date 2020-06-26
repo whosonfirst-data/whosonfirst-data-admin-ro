@@ -48,7 +48,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,8 +64,10 @@
     "wof:geomhash":"5b616ee2da149167c13c50b6b987046f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209275473
+            "locality_id":1209275473,
+            "region_id":85687607
         }
     ],
     "wof:id":1209275473,
@@ -73,9 +77,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226503,
+    "wof:lastmodified":1593203701,
     "wof:name":"Mardale",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":76,
     "wof:population_rank":1,

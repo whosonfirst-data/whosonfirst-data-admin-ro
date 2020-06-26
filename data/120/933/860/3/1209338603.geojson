@@ -76,7 +76,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,8 +92,10 @@
     "wof:geomhash":"14e9504ade8724bbe5bf10fd8e1ef4ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209338603
+            "locality_id":1209338603,
+            "region_id":85687715
         }
     ],
     "wof:id":1209338603,
@@ -101,9 +105,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226502,
+    "wof:lastmodified":1593203542,
     "wof:name":"V\u00e2lcele",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":537,
     "wof:population_rank":2,

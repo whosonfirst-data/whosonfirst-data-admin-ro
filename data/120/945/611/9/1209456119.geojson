@@ -59,7 +59,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,8 +75,10 @@
     "wof:geomhash":"fcdc2a002029cd5e65a6f7bffa024a63",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209456119
+            "locality_id":1209456119,
+            "region_id":85687773
         }
     ],
     "wof:id":1209456119,
@@ -84,9 +88,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203430,
     "wof:name":"Sl\u0103tioara",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":664,
     "wof:population_rank":2,

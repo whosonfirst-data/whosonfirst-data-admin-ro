@@ -43,7 +43,9 @@
     ],
     "src:lbl_centroid":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"48f9d070c92ffa00c40c783b134e3c25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209046715
+            "locality_id":1209046715,
+            "region_id":85687655
         }
     ],
     "wof:id":1209046715,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226499,
+    "wof:lastmodified":1593203738,
     "wof:name":"Cire\u015fu Mic",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

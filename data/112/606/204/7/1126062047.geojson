@@ -113,7 +113,6 @@
     "wof:belongsto":[
         102191581,
         85633745,
-        101792603,
         85687621
     ],
     "wof:breaches":[],
@@ -129,7 +128,7 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101792603,
+            "locality_id":-1,
             "neighbourhood_id":1126062047,
             "region_id":85687621
         }
@@ -141,9 +140,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226685,
+    "wof:lastmodified":1593208278,
     "wof:name":"Bora",
-    "wof:parent_id":101792603,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

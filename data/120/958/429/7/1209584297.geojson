@@ -43,7 +43,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,8 +59,10 @@
     "wof:geomhash":"41b10de84cdb2ec74bd2422f2c59b908",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209584297
+            "locality_id":1209584297,
+            "region_id":85687769
         }
     ],
     "wof:id":1209584297,
@@ -68,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226500,
+    "wof:lastmodified":1593203374,
     "wof:name":"Poieni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":859,
     "wof:population_rank":2,

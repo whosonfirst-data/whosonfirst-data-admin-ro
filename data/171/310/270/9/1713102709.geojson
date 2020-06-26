@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":161366
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207609,
     "wof:geomhash":"4e63b24cfc24c298fa516dbbbd970384",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102709,
+            "region_id":85687679
+        }
+    ],
     "wof:id":1713102709,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226770,
+    "wof:lastmodified":1593203780,
     "wof:name":"Mina Alt\u00e2n Tepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

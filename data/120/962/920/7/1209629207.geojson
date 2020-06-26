@@ -74,7 +74,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +90,10 @@
     "wof:geomhash":"3200e2c17005cf25a2f84fcf61886600",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209629207
+            "locality_id":1209629207,
+            "region_id":85687697
         }
     ],
     "wof:id":1209629207,
@@ -99,9 +103,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203755,
     "wof:name":"Carpen",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":227,
     "wof:population_rank":2,

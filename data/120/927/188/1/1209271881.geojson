@@ -50,7 +50,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,8 +66,10 @@
     "wof:geomhash":"e322d79b5e2979fa4327698dd45b6ed0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209271881
+            "locality_id":1209271881,
+            "region_id":85687761
         }
     ],
     "wof:id":1209271881,
@@ -75,9 +79,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226503,
+    "wof:lastmodified":1593203354,
     "wof:name":"F\u00e2na\u0163e",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687761,
     "wof:placetype":"locality",
     "wof:population":665,
     "wof:population_rank":2,

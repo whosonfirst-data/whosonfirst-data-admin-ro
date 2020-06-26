@@ -74,7 +74,9 @@
     ],
     "src:lbl_centroid":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,8 +90,10 @@
     "wof:geomhash":"d5003d07894417d9b4569bf8b6bde9ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209097859
+            "locality_id":1209097859,
+            "region_id":85687777
         }
     ],
     "wof:id":1209097859,
@@ -99,9 +103,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226484,
+    "wof:lastmodified":1593203516,
     "wof:name":"Costine\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

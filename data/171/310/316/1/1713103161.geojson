@@ -54,7 +54,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":102847
@@ -62,7 +66,14 @@
     "wof:country":"RO",
     "wof:created":1588207706,
     "wof:geomhash":"f05b65cd264527a37ef6ef1ab829f4ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103161,
+            "region_id":85687615
+        }
+    ],
     "wof:id":1713103161,
     "wof:lang_x_official":[
         "ron"
@@ -70,9 +81,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226773,
+    "wof:lastmodified":1593203792,
     "wof:name":"Fr\u0103sinet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

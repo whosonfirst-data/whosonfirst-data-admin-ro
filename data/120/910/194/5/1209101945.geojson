@@ -49,7 +49,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +65,10 @@
     "wof:geomhash":"1888d38494c595200e28845b5fc0f01a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209101945
+            "locality_id":1209101945,
+            "region_id":85687683
         }
     ],
     "wof:id":1209101945,
@@ -74,9 +78,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226507,
+    "wof:lastmodified":1593203782,
     "wof:name":"Sta\u0163iunea Climateric\u0103 S\u00e2mb\u0103ta",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":142,
     "wof:population_rank":1,

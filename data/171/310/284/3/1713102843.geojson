@@ -57,7 +57,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":95444
@@ -65,7 +69,14 @@
     "wof:country":"RO",
     "wof:created":1588207637,
     "wof:geomhash":"60a9d226319f42210dc32f8e149f7d36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102843,
+            "region_id":85687769
+        }
+    ],
     "wof:id":1713102843,
     "wof:lang_x_official":[
         "ron"
@@ -73,9 +84,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226770,
+    "wof:lastmodified":1593203388,
     "wof:name":"Lunca",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

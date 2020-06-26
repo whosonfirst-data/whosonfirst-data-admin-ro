@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"d085a7d222d6d8cecd6f8be3277c7243",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209216455
+            "locality_id":1209216455,
+            "region_id":85687645
         }
     ],
     "wof:id":1209216455,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203637,
     "wof:name":"Cioce\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":527,
     "wof:population_rank":2,

@@ -49,7 +49,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,8 +65,10 @@
     "wof:geomhash":"60d09ebc05f9e53afe9c13c927b9162b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209277561
+            "locality_id":1209277561,
+            "region_id":85687709
         }
     ],
     "wof:id":1209277561,
@@ -74,9 +78,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226503,
+    "wof:lastmodified":1593203482,
     "wof:name":"Cosi\u0163eni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:population":236,
     "wof:population_rank":2,

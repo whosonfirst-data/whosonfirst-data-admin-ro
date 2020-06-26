@@ -86,7 +86,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,8 +102,10 @@
     "wof:geomhash":"a2571462a7678e47dcef6ab470b948df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209350849
+            "locality_id":1209350849,
+            "region_id":85687723
         }
     ],
     "wof:id":1209350849,
@@ -111,9 +115,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226498,
+    "wof:lastmodified":1593203529,
     "wof:name":"Voivodeni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":391,
     "wof:population_rank":2,

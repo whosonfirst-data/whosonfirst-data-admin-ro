@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":130696
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207777,
     "wof:geomhash":"c377a20d464a5a3d6dc32b9b35316dd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103507,
+            "region_id":85687661
+        }
+    ],
     "wof:id":1713103507,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226769,
+    "wof:lastmodified":1593203589,
     "wof:name":"Ploie\u015ftiori",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

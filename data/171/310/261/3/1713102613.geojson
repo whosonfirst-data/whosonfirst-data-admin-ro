@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":148177
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207590,
     "wof:geomhash":"0561fa762cc886745305282170f4b533",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102613,
+            "region_id":85687773
+        }
+    ],
     "wof:id":1713102613,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226767,
+    "wof:lastmodified":1593203442,
     "wof:name":"Ortoaia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

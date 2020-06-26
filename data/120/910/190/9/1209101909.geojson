@@ -45,7 +45,9 @@
     ],
     "src:lbl_centroid":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,8 +61,10 @@
     "wof:geomhash":"c5d6c25b76892508e8f0c6bd1e1d8cc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209101909
+            "locality_id":1209101909,
+            "region_id":85687683
         }
     ],
     "wof:id":1209101909,
@@ -70,9 +74,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226507,
+    "wof:lastmodified":1593203782,
     "wof:name":"Dridif",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

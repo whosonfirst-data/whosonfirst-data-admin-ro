@@ -45,7 +45,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":67684
@@ -53,7 +57,14 @@
     "wof:country":"RO",
     "wof:created":1588207645,
     "wof:geomhash":"62ed5a1d75dbd35ca844f15622c4aeb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102881,
+            "region_id":85687637
+        }
+    ],
     "wof:id":1713102881,
     "wof:lang_x_official":[
         "ron"
@@ -61,9 +72,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226766,
+    "wof:lastmodified":1593203730,
     "wof:name":"Hulube\u015fti",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

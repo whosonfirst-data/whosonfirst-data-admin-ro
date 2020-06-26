@@ -47,7 +47,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,8 +63,10 @@
     "wof:geomhash":"7dde8cb0e62137ce6a962230cefe79ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209075735
+            "locality_id":1209075735,
+            "region_id":85687637
         }
     ],
     "wof:id":1209075735,
@@ -72,9 +76,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593203721,
     "wof:name":"Vadu Stanchii",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":544,
     "wof:population_rank":2,

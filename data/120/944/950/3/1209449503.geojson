@@ -71,7 +71,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,8 +87,10 @@
     "wof:geomhash":"f0b6a4054547917c67d507fb2ebce671",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209449503
+            "locality_id":1209449503,
+            "region_id":85687643
         }
     ],
     "wof:id":1209449503,
@@ -96,9 +100,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226507,
+    "wof:lastmodified":1593203686,
     "wof:name":"V\u0103leni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":302,
     "wof:population_rank":2,

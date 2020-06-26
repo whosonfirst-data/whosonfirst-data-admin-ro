@@ -63,7 +63,6 @@
     "wof:belongsto":[
         102191581,
         85633745,
-        101751969,
         85687643
     ],
     "wof:breaches":[],
@@ -79,7 +78,7 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101751969,
+            "locality_id":-1,
             "neighbourhood_id":85901863,
             "region_id":85687643
         }
@@ -91,9 +90,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226426,
+    "wof:lastmodified":1593208278,
     "wof:name":"Poenari",
-    "wof:parent_id":101751969,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

@@ -157,7 +157,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -171,8 +173,10 @@
     "wof:geomhash":"01d761a3192c5c12ae4af828696efda6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209265259
+            "locality_id":1209265259,
+            "region_id":85687607
         }
     ],
     "wof:id":1209265259,
@@ -182,9 +186,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203701,
     "wof:name":"B\u00e2rca",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":941,
     "wof:population_rank":2,

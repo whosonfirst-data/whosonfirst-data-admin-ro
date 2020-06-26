@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"8be1bccc5c59469c4354e2c734139a4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209055793
+            "locality_id":1209055793,
+            "region_id":85687757
         }
     ],
     "wof:id":1209055793,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226501,
+    "wof:lastmodified":1593203363,
     "wof:name":"Hotoan",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":233,
     "wof:population_rank":2,

@@ -117,7 +117,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":96049
@@ -125,7 +129,14 @@
     "wof:country":"RO",
     "wof:created":1588207597,
     "wof:geomhash":"b29b1779eb11970d67e5963303bf101f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102653,
+            "region_id":85687769
+        }
+    ],
     "wof:id":1713102653,
     "wof:lang_x_official":[
         "ron"
@@ -133,9 +144,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226772,
+    "wof:lastmodified":1593203388,
     "wof:name":"Ungheni",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

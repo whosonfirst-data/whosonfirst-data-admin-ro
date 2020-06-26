@@ -113,7 +113,9 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687705
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,8 +129,10 @@
     "wof:geomhash":"af5ff72fc97aae38e6454c174af73399",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209366035
+            "locality_id":1209366035,
+            "region_id":85687705
         }
     ],
     "wof:id":1209366035,
@@ -138,9 +142,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226484,
+    "wof:lastmodified":1593203401,
     "wof:name":"F\u0103urei",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

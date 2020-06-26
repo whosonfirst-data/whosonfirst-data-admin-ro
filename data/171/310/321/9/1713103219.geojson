@@ -174,7 +174,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":180073
@@ -182,7 +186,14 @@
     "wof:country":"RO",
     "wof:created":1588207717,
     "wof:geomhash":"c39ca554ce50472a213006954ee7a7d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103219,
+            "region_id":85687761
+        }
+    ],
     "wof:id":1713103219,
     "wof:lang_x_official":[
         "ron"
@@ -190,9 +201,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226774,
+    "wof:lastmodified":1593203361,
     "wof:name":"Salta",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687761,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

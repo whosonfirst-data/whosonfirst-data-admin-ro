@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687633
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":60552
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207754,
     "wof:geomhash":"05b96dfb28e7ed5f7d07d4e02c319b1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103403,
+            "region_id":85687633
+        }
+    ],
     "wof:id":1713103403,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226768,
+    "wof:lastmodified":1593203616,
     "wof:name":"Sanatoriul Agigea",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

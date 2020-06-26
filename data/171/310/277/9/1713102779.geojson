@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":56078
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207623,
     "wof:geomhash":"6f3d81bb33777a6faff3cc8c29b2f52a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102779,
+            "region_id":85687727
+        }
+    ],
     "wof:id":1713102779,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226770,
+    "wof:lastmodified":1593203426,
     "wof:name":"Poiana Horea",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

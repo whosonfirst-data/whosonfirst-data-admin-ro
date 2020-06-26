@@ -46,7 +46,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"2ad9fecc46575693877b347f518d3590",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209026291
+            "locality_id":1209026291,
+            "region_id":85687663
         }
     ],
     "wof:id":1209026291,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226501,
+    "wof:lastmodified":1593203772,
     "wof:name":"Silistraru",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":944,
     "wof:population_rank":2,

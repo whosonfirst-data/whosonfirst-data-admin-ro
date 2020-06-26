@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"4da4f7fd1a8b0b43ae0e44c43e0c4e9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209216709
+            "locality_id":1209216709,
+            "region_id":85687645
         }
     ],
     "wof:id":1209216709,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226506,
+    "wof:lastmodified":1593203637,
     "wof:name":"G\u0103rdine\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":234,
     "wof:population_rank":2,

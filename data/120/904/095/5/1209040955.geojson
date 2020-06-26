@@ -57,7 +57,9 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +73,10 @@
     "wof:geomhash":"4edda419c4df98925e83cac9d8f543cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209040955
+            "locality_id":1209040955,
+            "region_id":85687615
         }
     ],
     "wof:id":1209040955,
@@ -82,9 +86,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226499,
+    "wof:lastmodified":1593203787,
     "wof:name":"Codreni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

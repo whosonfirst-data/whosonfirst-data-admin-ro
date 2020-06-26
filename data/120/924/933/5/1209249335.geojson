@@ -46,7 +46,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +62,10 @@
     "wof:geomhash":"f1d0cd297badc8667d9ff4cda74b21f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209249335
+            "locality_id":1209249335,
+            "region_id":85687723
         }
     ],
     "wof:id":1209249335,
@@ -71,9 +75,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226493,
+    "wof:lastmodified":1593203529,
     "wof:name":"Chizeni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":141,
     "wof:population_rank":1,

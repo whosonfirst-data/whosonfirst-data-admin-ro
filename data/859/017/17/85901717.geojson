@@ -101,7 +101,6 @@
     "wof:belongsto":[
         102191581,
         85633745,
-        101790893,
         85687683
     ],
     "wof:breaches":[],
@@ -120,7 +119,7 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101790893,
+            "locality_id":-1,
             "neighbourhood_id":85901717,
             "region_id":85687683
         }
@@ -132,9 +131,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226427,
+    "wof:lastmodified":1593208279,
     "wof:name":"Cernatu",
-    "wof:parent_id":101790893,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

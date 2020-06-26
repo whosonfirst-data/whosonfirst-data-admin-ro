@@ -54,7 +54,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +70,10 @@
     "wof:geomhash":"677e019e2e210c65315c9d9e30716876",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209672347
+            "locality_id":1209672347,
+            "region_id":85687599
         }
     ],
     "wof:id":1209672347,
@@ -79,9 +83,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226499,
+    "wof:lastmodified":1593203337,
     "wof:name":"Cremenea",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":412,
     "wof:population_rank":2,

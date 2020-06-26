@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"54033fc96e686d4366e6c1d306fd113e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209472309
+            "locality_id":1209472309,
+            "region_id":85687761
         }
     ],
     "wof:id":1209472309,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226494,
+    "wof:lastmodified":1593203354,
     "wof:name":"Oar\u0163a de Sus",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687761,
     "wof:placetype":"locality",
     "wof:population":726,
     "wof:population_rank":2,

@@ -90,7 +90,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,8 +107,10 @@
     "wof:geomhash":"82c6d73d165591eb05acb7a0568a04b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209379649
+            "locality_id":1209379649,
+            "region_id":85687733
         }
     ],
     "wof:id":1209379649,
@@ -116,9 +120,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226488,
+    "wof:lastmodified":1593203390,
     "wof:name":"Secuieni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":628,
     "wof:population_rank":2,

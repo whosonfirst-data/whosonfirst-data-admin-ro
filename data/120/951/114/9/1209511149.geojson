@@ -67,7 +67,9 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,8 +79,10 @@
     "wof:geomhash":"8ec6a93c1d4e89b1a461b9840e5a93b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209511149
+            "locality_id":1209511149,
+            "region_id":85687683
         }
     ],
     "wof:id":1209511149,
@@ -88,9 +92,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226501,
+    "wof:lastmodified":1593208625,
     "wof:name":"Paltin",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":173,
     "wof:population_rank":1,

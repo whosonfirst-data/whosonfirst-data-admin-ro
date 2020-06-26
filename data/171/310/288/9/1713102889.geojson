@@ -24,7 +24,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":72105
@@ -32,7 +36,14 @@
     "wof:country":"RO",
     "wof:created":1588207646,
     "wof:geomhash":"83e6c2b0fda1eec56d0f377970d7e2c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102889,
+            "region_id":85687581
+        }
+    ],
     "wof:id":1713102889,
     "wof:lang_x_official":[
         "ron"
@@ -40,9 +51,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226766,
+    "wof:lastmodified":1593203328,
     "wof:name":"Dobre\u015fti",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

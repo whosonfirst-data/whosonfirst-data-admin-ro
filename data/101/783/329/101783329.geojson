@@ -82,7 +82,9 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        102191581
+        102191581,
+        85633745,
+        85687761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,9 +102,9 @@
     "wof:hierarchy":[
         {
             "continent_id":102191581,
-            "country_id":-1,
+            "country_id":85633745,
             "locality_id":101783329,
-            "region_id":-1
+            "region_id":85687761
         }
     ],
     "wof:id":101783329,
@@ -112,9 +114,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226612,
+    "wof:lastmodified":1593203359,
     "wof:name":"Lunca La Tisa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687761,
     "wof:placetype":"locality",
     "wof:population":1030,
     "wof:population_rank":3,

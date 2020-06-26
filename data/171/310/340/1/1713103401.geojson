@@ -93,7 +93,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687715
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":23653
@@ -101,7 +105,14 @@
     "wof:country":"RO",
     "wof:created":1588207754,
     "wof:geomhash":"0044000a001e80b6a308fdce19b58f07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103401,
+            "region_id":85687715
+        }
+    ],
     "wof:id":1713103401,
     "wof:lang_x_official":[
         "ron"
@@ -109,9 +120,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226768,
+    "wof:lastmodified":1593203555,
     "wof:name":"Negri",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

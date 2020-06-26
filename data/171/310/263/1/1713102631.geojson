@@ -36,7 +36,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":96012
@@ -44,7 +48,14 @@
     "wof:country":"RO",
     "wof:created":1588207593,
     "wof:geomhash":"a47ecb989e7ee391f924a83f16ac47cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102631,
+            "region_id":85687769
+        }
+    ],
     "wof:id":1713102631,
     "wof:lang_x_official":[
         "ron"
@@ -52,9 +63,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226772,
+    "wof:lastmodified":1593203388,
     "wof:name":"Bosia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

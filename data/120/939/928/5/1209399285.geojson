@@ -68,7 +68,9 @@
     ],
     "src:lbl_centroid":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,8 +85,10 @@
     "wof:geomhash":"14489126fe1e82c866a9f5727ed2f817",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209399285
+            "locality_id":1209399285,
+            "region_id":85687683
         }
     ],
     "wof:id":1209399285,
@@ -94,9 +98,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203781,
     "wof:name":"Poiana Bra\u015fov",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

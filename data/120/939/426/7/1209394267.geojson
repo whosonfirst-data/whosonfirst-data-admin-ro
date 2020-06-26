@@ -54,7 +54,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,8 +70,10 @@
     "wof:geomhash":"84ac459087688b6f44f39f9f5778325d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209394267
+            "locality_id":1209394267,
+            "region_id":85687727
         }
     ],
     "wof:id":1209394267,
@@ -79,9 +83,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226487,
+    "wof:lastmodified":1593203414,
     "wof:name":"Plaiuri",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":219,
     "wof:population_rank":2,

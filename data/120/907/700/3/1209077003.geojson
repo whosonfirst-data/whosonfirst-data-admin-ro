@@ -61,7 +61,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -75,8 +77,10 @@
     "wof:geomhash":"aa3a7fa9962c050659509ea61312adba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209077003
+            "locality_id":1209077003,
+            "region_id":85687633
         }
     ],
     "wof:id":1209077003,
@@ -86,9 +90,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593203611,
     "wof:name":"Stejaru",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":40,
     "wof:population_rank":1,

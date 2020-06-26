@@ -44,7 +44,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +60,10 @@
     "wof:geomhash":"47b8241a6e5f32363b7160a3d2ea3ece",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209261901
+            "locality_id":1209261901,
+            "region_id":85687747
         }
     ],
     "wof:id":1209261901,
@@ -69,9 +73,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226505,
+    "wof:lastmodified":1593203560,
     "wof:name":"Butn\u0103re\u015fti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:population":774,
     "wof:population_rank":2,

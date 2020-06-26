@@ -33,7 +33,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,10 @@
     "wof:geomhash":"07baceeee6f59eb8ee899f4a3cb88836",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209385303
+            "locality_id":1209385303,
+            "region_id":85687699
         }
     ],
     "wof:id":1209385303,
@@ -54,9 +58,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226485,
+    "wof:lastmodified":1593208620,
     "wof:name":"Crivina Mare",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

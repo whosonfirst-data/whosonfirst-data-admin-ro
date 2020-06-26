@@ -42,7 +42,11 @@
     ],
     "src:geom":"ro-ancpi",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "ro-ancpi:id":152733
@@ -50,7 +54,14 @@
     "wof:country":"RO",
     "wof:created":1588207776,
     "wof:geomhash":"9120d8ef79be9c0b62e5783658224dee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103503,
+            "region_id":85687585
+        }
+    ],
     "wof:id":1713103503,
     "wof:lang_x_official":[
         "ron"
@@ -58,9 +69,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226769,
+    "wof:lastmodified":1593203352,
     "wof:name":"Dide\u015fti",
-    "wof:parent_id":-1,
+    "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

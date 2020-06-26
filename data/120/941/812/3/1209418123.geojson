@@ -57,7 +57,9 @@
     "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,8 +73,10 @@
     "wof:geomhash":"8b74f6a1da9169bd7835da7b18db5bb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209418123
+            "locality_id":1209418123,
+            "region_id":85687691
         }
     ],
     "wof:id":1209418123,
@@ -82,9 +86,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226492,
+    "wof:lastmodified":1593203711,
     "wof:name":"Juli\u0163a",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":476,
     "wof:population_rank":2,
