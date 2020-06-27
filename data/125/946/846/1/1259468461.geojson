@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.48804,45.32606,27.48804,45.32606",
-    "geom:latitude":45.32606,
-    "geom:longitude":27.48804,
+    "geom:area":0.000088,
+    "geom:area_square_m":768264.920221,
+    "geom:bbox":"27.479151,45.319772,27.493725,45.332832",
+    "geom:latitude":45.326403,
+    "geom:longitude":27.487261,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43698.0",
     "gn:asciiname":"Corbeni",
@@ -24,17 +24,21 @@
     "gn:population":160,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.46804,45.30606,27.50804,45.34606",
+    "lbl:latitude":45.32606,
+    "lbl:longitude":27.48804,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0628\u064a\u0646"
     ],
     "name:ceb_x_preferred":[
         "Comuna Corbeni"
+    ],
+    "name:eus_x_preferred":[
+        "Corbeni"
     ],
     "name:ita_x_preferred":[
         "Corbeni"
@@ -52,6 +56,9 @@
         "Corbeni"
     ],
     "name:ron_x_preferred":[
+        "Corbeni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Corbeni"
     ],
     "name:sqi_x_preferred":[
@@ -72,7 +79,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u723e\u8c9d\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680887
+        "gn:id":680887,
+        "ro-ancpi:id":43714
     },
     "wof:country":"RO",
-    "wof:geomhash":"17a3f9e578c3c0f2530e8aed293c5890",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c77918b66eed465f5eb8ba3dc2397169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +109,13 @@
         }
     ],
     "wof:id":1259468461,
-    "wof:lastmodified":1566611560,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203775,
     "wof:name":"Corbeni",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
@@ -106,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.48804,
-    45.32606,
-    27.48804,
-    45.32606
+    27.479151,
+    45.319772,
+    27.493725,
+    45.332832
 ],
-  "geometry": {"coordinates":[27.48804,45.32606],"type":"Point"}
+  "geometry": {"coordinates":[[[27.480782,45.332832],[27.481131,45.332221],[27.481933,45.332447],[27.482349,45.331898],[27.484179,45.332447],[27.485813,45.329553],[27.490811,45.330907],[27.491014,45.330319],[27.491433,45.329284],[27.491436,45.329095],[27.491912,45.327501],[27.49277,45.324768],[27.493166,45.324829],[27.493725,45.323619],[27.492128,45.323141],[27.493056,45.321593],[27.491969,45.32201],[27.491348,45.321816],[27.483794,45.319772],[27.483487,45.320332],[27.485832,45.321001],[27.485483,45.321765],[27.485296,45.321724],[27.485118,45.322178],[27.485267,45.322229],[27.48453,45.323897],[27.48246,45.328479],[27.482882,45.328645],[27.481332,45.331402],[27.480898,45.331254],[27.480927,45.331191],[27.481181,45.330735],[27.480565,45.330523],[27.480011,45.330396],[27.479151,45.331891],[27.479988,45.332183],[27.479804,45.332516],[27.480172,45.33276],[27.480466,45.332763],[27.480782,45.332832]]],"type":"Polygon"}
 }

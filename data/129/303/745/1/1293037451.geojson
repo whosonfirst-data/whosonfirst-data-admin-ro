@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08613,44.64967,24.08613,44.64967",
-    "geom:latitude":44.64967,
-    "geom:longitude":24.08613,
+    "geom:area":0.000012,
+    "geom:area_square_m":101334.168909,
+    "geom:bbox":"24.083506,44.645406,24.087806,44.651628",
+    "geom:latitude":44.648698,
+    "geom:longitude":24.085305,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173793.0",
     "gn:asciiname":"Sarbi",
@@ -25,14 +25,36 @@
     "gn:population":115,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.06613,44.62967,24.10613,44.66967",
+    "lbl:latitude":44.64967,
+    "lbl:longitude":24.08613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "S\u00e2rbi"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e2rbi"
+    ],
+    "name:epo_x_preferred":[
+        "S\u00e2rbi"
+    ],
+    "name:eus_x_preferred":[
+        "S\u00e2rbi"
+    ],
     "name:nor_x_preferred":[
         "Sarbi"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00e2rbi"
+    ],
+    "name:ron_x_variant":[
+        "Sarbi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0440\u0431\u0438"
     ],
     "name:und_x_variant":[
         "S\u00e2rba",
@@ -41,7 +63,11 @@
     "name:vie_x_preferred":[
         "Sarbi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666856
+        "gn:id":666856,
+        "ro-ancpi:id":173828
     },
     "wof:country":"RO",
-    "wof:geomhash":"d648c3515194653a6ea5cd52e5983113",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"49c1a008b98a2baced2440b3ff5bc59b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,8 +93,14 @@
         }
     ],
     "wof:id":1293037451,
-    "wof:lastmodified":1566610093,
-    "wof:name":"Sarbi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
+    "wof:name":"S\u00e2rbi",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":115,
@@ -75,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08613,
-    44.64967,
-    24.08613,
-    44.64967
+    24.083506,
+    44.645406,
+    24.087806,
+    44.651628
 ],
-  "geometry": {"coordinates":[24.08613,44.64967],"type":"Point"}
+  "geometry": {"coordinates":[[[24.085351,44.645475],[24.08393,44.645406],[24.084159,44.647878],[24.083506,44.648485],[24.083868,44.649311],[24.086299,44.651628],[24.087806,44.651296],[24.085891,44.648619],[24.085351,44.645475]]],"type":"Polygon"}
 }

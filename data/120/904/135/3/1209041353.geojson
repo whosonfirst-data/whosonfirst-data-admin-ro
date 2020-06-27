@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.03483,45.13804,24.03483,45.13804",
-    "geom:latitude":45.13804,
-    "geom:longitude":24.03483,
+    "geom:area":0.000147,
+    "geom:area_square_m":1279118.854405,
+    "geom:bbox":"24.020601,45.128112,24.047458,45.143612",
+    "geom:latitude":45.136184,
+    "geom:longitude":24.036463,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173935",
     "gn:asciiname":"Bogdanesti",
@@ -24,33 +24,58 @@
     "gn:population":788,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.01483,45.11804,24.05483,45.15804",
+    "lbl:latitude":45.13804,
+    "lbl:longitude":24.03483,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bogd\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Bogdanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684403
+        "gn:id":684403,
+        "ro-ancpi:id":173962
     },
     "wof:country":"RO",
-    "wof:geomhash":"a6eb01fc88aeeb4bf404d1f0ff8fe384",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6d943be694c01480bb6ddd1a9f18f355",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209041353
+            "locality_id":1209041353,
+            "region_id":85687643
         }
     ],
     "wof:id":1209041353,
-    "wof:lastmodified":1566610353,
-    "wof:name":"Bogdanesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"Bogd\u0103ne\u015fti",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":788,
     "wof:population_rank":2,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.03483,
-    45.13804,
-    24.03483,
-    45.13804
+    24.020601,
+    45.128112,
+    24.047458,
+    45.143612
 ],
-  "geometry": {"coordinates":[24.03483,45.13804],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.034944,45.140465],[24.036123,45.139749],[24.037236,45.140684],[24.038428,45.14068],[24.038107,45.140148],[24.038794,45.139999],[24.039889,45.141517],[24.041328,45.140922],[24.040006,45.139283],[24.041338,45.138265],[24.044712,45.138557],[24.046352,45.140209],[24.047396,45.140129],[24.047458,45.138824],[24.045353,45.13258],[24.040657,45.132799],[24.036899,45.134066],[24.035172,45.135012],[24.033364,45.135949],[24.031915,45.137032],[24.030238,45.136778],[24.027156,45.139209],[24.024711,45.140733],[24.027262,45.140796],[24.030184,45.139764],[24.032407,45.139012],[24.03342,45.138849],[24.03324,45.140524],[24.034472,45.141919],[24.038299,45.143612],[24.038749,45.142813],[24.037401,45.14208],[24.0362,45.141538],[24.034944,45.140465]]],[[[24.042019,45.12923],[24.039296,45.128112],[24.037638,45.129087],[24.035987,45.130342],[24.034024,45.130854],[24.028554,45.133228],[24.025276,45.135199],[24.026139,45.135523],[24.020601,45.138617],[24.021491,45.138961],[24.021801,45.139099],[24.022084,45.139245],[24.027865,45.136191],[24.033963,45.132823],[24.04082,45.130325],[24.042019,45.12923]]]],"type":"MultiPolygon"}
 }

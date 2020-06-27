@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.20321,47.84907,26.20321,47.84907",
-    "geom:latitude":47.84907,
-    "geom:longitude":26.20321,
+    "geom:area":0.000056,
+    "geom:area_square_m":460889.881228,
+    "geom:bbox":"26.181008,47.841417,26.206743,47.849771",
+    "geom:latitude":47.845703,
+    "geom:longitude":26.197348,
     "gn:admin1_code":"34",
     "gn:admin2_code":"151246.0",
     "gn:asciiname":"Rauteni",
@@ -25,17 +25,30 @@
     "gn:population":108,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.18321,47.82907,26.22321,47.86907",
+    "lbl:latitude":47.845871,
+    "lbl:longitude":26.198285,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.845871,
+    "mps:longitude":26.198285,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u0103u\u0163eni"
+    ],
+    "name:ron_x_variant":[
+        "Rauteni"
+    ],
     "name:und_x_variant":[
         "R\u0103u\u0163e\u015fti",
         "R\u0103u\u0163eni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669094
+        "gn:id":669094,
+        "ro-ancpi:id":151326
     },
     "wof:country":"RO",
-    "wof:geomhash":"449a6f7b0a5bcd61b60573a4943d47f7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8bd2c03415ebc691e46d0ce07480f0f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1344097711,
-    "wof:lastmodified":1566609909,
-    "wof:name":"Rauteni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203427,
+    "wof:name":"R\u0103u\u0163eni",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":108,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.20321,
-    47.84907000000001,
-    26.20321,
-    47.84907000000001
+    26.181008,
+    47.841417,
+    26.206743,
+    47.849771
 ],
-  "geometry": {"coordinates":[26.20321,47.84907000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.202071,47.848283],[26.203638,47.845531],[26.205593,47.845458],[26.206465,47.843416],[26.206743,47.841449],[26.204785,47.841417],[26.204348,47.84411],[26.198644,47.843691],[26.198699,47.844117],[26.194665,47.844858],[26.193965,47.844957],[26.188846,47.845144],[26.188895,47.846165],[26.193637,47.846083],[26.193382,47.846628],[26.193416,47.847453],[26.196616,47.848121],[26.196904,47.847426],[26.199149,47.847625],[26.199888,47.846435],[26.201064,47.846746],[26.200003,47.848516],[26.199565,47.849392],[26.201214,47.849771],[26.201295,47.849646],[26.202071,47.848283]]],[[[26.185803,47.847144],[26.18249,47.844613],[26.181008,47.845427],[26.184336,47.847947],[26.185803,47.847144]]]],"type":"MultiPolygon"}
 }

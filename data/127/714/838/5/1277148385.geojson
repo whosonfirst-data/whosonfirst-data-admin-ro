@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.00769,46.80148,24.00769,46.80148",
-    "geom:latitude":46.80148,
-    "geom:longitude":24.00769,
+    "geom:area":0.000012,
+    "geom:area_square_m":98345.699101,
+    "geom:bbox":"23.999415,46.795777,24.005296,46.803423",
+    "geom:latitude":46.799041,
+    "geom:longitude":24.001862,
     "gn:admin1_code":"13",
     "gn:admin2_code":"58623",
     "gn:asciiname":"Turmasi",
@@ -24,16 +24,29 @@
     "gn:population":56,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98769,46.78148,24.02769,46.82148",
+    "lbl:latitude":46.797788,
+    "lbl:longitude":24.001796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.797788,
+    "mps:longitude":24.001796,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Torm\u00e1sd\u0171l\u0151"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Turma\u015fi"
+    ],
+    "name:ron_x_variant":[
+        "Turmasi"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10942370
+        "gn:id":10942370,
+        "ro-ancpi:id":58703
     },
     "wof:country":"RO",
-    "wof:geomhash":"51b32686a29f0d3a6fe292155cec8b54",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"afea2517759b90739edee56abc2309b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +72,14 @@
         }
     ],
     "wof:id":1277148385,
-    "wof:lastmodified":1566610213,
-    "wof:name":"Turmasi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203414,
+    "wof:name":"Turma\u015fi",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":56,
@@ -67,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.00769,
-    46.80148,
-    24.00769,
-    46.80148
+    23.999415,
+    46.795777,
+    24.005296,
+    46.803423
 ],
-  "geometry": {"coordinates":[24.00769,46.80148],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.000304,46.799059],[24.000443,46.79878],[24.000755,46.798791],[24.000842,46.798599],[24.002584,46.798601],[24.002539,46.798942],[24.004278,46.798795],[24.004273,46.799067],[24.005192,46.79904],[24.005296,46.797857],[24.002604,46.797986],[24.002551,46.797107],[24.003414,46.796115],[24.00262,46.795777],[23.999937,46.797958],[23.99947,46.79892],[24.000304,46.799059]]],[[[24.001847,46.80147],[24.002018,46.800775],[24.001015,46.800712],[24.000767,46.801157],[24.000314,46.80111],[24.000123,46.801535],[24.000175,46.801603],[23.999415,46.803075],[24.000254,46.803423],[24.001202,46.802185],[24.00157,46.801816],[24.001847,46.80147]]]],"type":"MultiPolygon"}
 }

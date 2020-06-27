@@ -2,8 +2,9 @@
   "id": 1326914783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.33719,45.50313,25.33719,45.50313",
@@ -29,7 +30,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -53,14 +54,16 @@
         }
     ],
     "wof:id":1326914783,
-    "wof:lastmodified":1566609848,
+    "wof:lastmodified":1588368972,
     "wof:name":"Moieciu de Jos",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":2222,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101834853
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.4,45.38333,24.4,45.38333",
-    "geom:latitude":45.38333,
-    "geom:longitude":24.4,
+    "geom:area":0.000072,
+    "geom:area_square_m":628708.118455,
+    "geom:bbox":"24.393042,45.36716,24.418828,45.379676",
+    "geom:latitude":45.374518,
+    "geom:longitude":24.403764,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3781,
     "iso:country":"RO",
-    "lbl:bbox":"24.38,45.36333,24.42,45.40333",
-    "lbl:latitude":45.38333,
-    "lbl:longitude":24.4,
+    "lbl:latitude":45.375525,
+    "lbl:longitude":24.400345,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.375525,
+    "mps:longitude":24.400345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u067e\u064a\u0631\u064a\u0634\u0627\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Peri\u0219ani"
     ],
@@ -38,6 +42,9 @@
         "Peri\u0219ani"
     ],
     "name:ron_x_preferred":[
+        "Peri\u015fani"
+    ],
+    "name:ron_x_variant":[
         "Peri\u0219ani"
     ],
     "name:srp_x_preferred":[
@@ -60,8 +67,11 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":1027581,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,11 +82,15 @@
     "wof:concordances":{
         "gn:id":671116,
         "qs_pg:id":1027581,
+        "ro-ancpi:id":172162,
         "wd:id":"Q12140051"
     },
     "wof:country":"RO",
     "wof:created":1497295347,
-    "wof:geomhash":"cb7a22d0357a4b034816aa1b33a6082f",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"d6f9f94403770b26fd65147ef870fe68",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +100,13 @@
         }
     ],
     "wof:id":1125891623,
-    "wof:lastmodified":1566611326,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203692,
     "wof:name":"Peri\u015fani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -98,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.4,
-    45.38333,
-    24.4,
-    45.38333
+    24.393042,
+    45.36716,
+    24.418828,
+    45.379676
 ],
-  "geometry": {"coordinates":[24.4,45.38333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.393042,45.370623],[24.394315,45.372203],[24.395624,45.372091],[24.396268,45.373051],[24.397957,45.376406],[24.399433,45.377666],[24.401082,45.377435],[24.404515,45.377121],[24.406396,45.376591],[24.406517,45.377531],[24.40811,45.379676],[24.408739,45.379572],[24.407962,45.377471],[24.408399,45.376673],[24.410513,45.376263],[24.410841,45.376837],[24.413095,45.376567],[24.413441,45.376186],[24.414671,45.376048],[24.415704,45.375987],[24.417804,45.376829],[24.418828,45.375125],[24.414745,45.374766],[24.407171,45.374533],[24.40469,45.37375],[24.403517,45.374365],[24.400192,45.37347],[24.398742,45.372484],[24.397617,45.371811],[24.397131,45.371129],[24.397593,45.370205],[24.400838,45.367338],[24.400349,45.36716],[24.39789,45.368233],[24.395945,45.369733],[24.393042,45.370623]]],"type":"Polygon"}
 }

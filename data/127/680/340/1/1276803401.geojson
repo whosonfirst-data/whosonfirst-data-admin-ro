@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34361,44.91276,24.34361,44.91276",
-    "geom:latitude":44.91276,
-    "geom:longitude":24.34361,
+    "geom:area":0.000063,
+    "geom:area_square_m":549227.486917,
+    "geom:bbox":"24.335668,44.908145,24.35759,44.919019",
+    "geom:latitude":44.914032,
+    "geom:longitude":24.345724,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173374.0",
     "gn:asciiname":"Ghiobesti",
@@ -24,13 +24,24 @@
     "gn:population":227,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.32361,44.89276,24.36361,44.93276",
+    "lbl:latitude":44.91276,
+    "lbl:longitude":24.34361,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ghiobe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ghiobesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677348
+        "gn:id":677348,
+        "ro-ancpi:id":173445
     },
     "wof:country":"RO",
-    "wof:geomhash":"83a3cd6d3f0ff04b68e84b3ea7c149ab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f7b8fd853ad10008baed31d47007b414",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1276803401,
-    "wof:lastmodified":1566610179,
-    "wof:name":"Ghiobesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203683,
+    "wof:name":"Ghiobe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":227,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34361,
-    44.91276,
-    24.34361,
-    44.91276
+    24.335668,
+    44.908145,
+    24.35759,
+    44.919019
 ],
-  "geometry": {"coordinates":[24.34361,44.91276],"type":"Point"}
+  "geometry": {"coordinates":[[[24.351071,44.915453],[24.338397,44.908145],[24.335668,44.910451],[24.342416,44.91384],[24.349899,44.919019],[24.35759,44.917009],[24.351071,44.915453]]],"type":"Polygon"}
 }

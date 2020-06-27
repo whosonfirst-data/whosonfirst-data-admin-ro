@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.56956,44.68681,24.56956,44.68681",
-    "geom:latitude":44.68681,
-    "geom:longitude":24.56956,
+    "geom:area":0.000031,
+    "geom:area_square_m":276134.861454,
+    "geom:bbox":"24.575041,44.669483,24.585729,44.675142",
+    "geom:latitude":44.672502,
+    "geom:longitude":24.579891,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128962.0",
     "gn:asciiname":"Vineti",
@@ -25,17 +25,30 @@
     "gn:population":413,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.54956,44.66681,24.58956,44.70681",
+    "lbl:latitude":44.672575,
+    "lbl:longitude":24.57981,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.672575,
+    "mps:longitude":24.57981,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Vine\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Vineti"
+    ],
     "name:und_x_variant":[
         "Vine\u015fti",
         "Vine\u0163i"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662813
+        "gn:id":662813,
+        "ro-ancpi:id":129031
     },
     "wof:country":"RO",
-    "wof:geomhash":"b731c9b7df9a8afface8fa320314fb6d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3f5fbedaaadfa6a9f4f845db2251de50",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1260130579,
-    "wof:lastmodified":1566610471,
-    "wof:name":"Vineti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
+    "wof:name":"Vine\u0163i",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":413,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.56956,
-    44.68681,
-    24.56956,
-    44.68681
+    24.575041,
+    44.669483,
+    24.585729,
+    44.675142
 ],
-  "geometry": {"coordinates":[24.56956,44.68681],"type":"Point"}
+  "geometry": {"coordinates":[[[24.575041,44.673481],[24.575183,44.673335],[24.576448,44.673783],[24.576379,44.674101],[24.57752,44.674233],[24.580445,44.675142],[24.585729,44.672467],[24.577919,44.669483],[24.575041,44.673481]]],"type":"Polygon"}
 }

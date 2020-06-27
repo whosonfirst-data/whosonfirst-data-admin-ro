@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.03092,46.09539,23.03092,46.09539",
-    "geom:latitude":46.09539,
-    "geom:longitude":23.03092,
+    "geom:area":0.000079,
+    "geom:area_square_m":673368.31665,
+    "geom:bbox":"23.011478,46.090193,23.034415,46.104347",
+    "geom:latitude":46.098179,
+    "geom:longitude":23.023698,
     "gn:admin1_code":"21",
     "gn:admin2_code":"87843.0",
     "gn:asciiname":"Poienita",
@@ -25,18 +25,31 @@
     "gn:population":99,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.01092,46.07539,23.05092,46.11539",
+    "lbl:latitude":46.100674,
+    "lbl:longitude":23.019702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.100674,
+    "mps:longitude":23.019702,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Poieni\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Poienita"
+    ],
     "name:und_x_variant":[
         "Valea Iepii",
         "Valea Iepi",
         "Poieni\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669986
+        "gn:id":669986,
+        "ro-ancpi:id":87932
     },
     "wof:country":"RO",
-    "wof:geomhash":"97535a0897fc2671882c4f08f57b9d30",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a22ec04716b421db11e52495c1e2b1ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1243328001,
-    "wof:lastmodified":1566611487,
-    "wof:name":"Poienita",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203806,
+    "wof:name":"Poieni\u0163a",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":99,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.03092,
-    46.09539,
-    23.03092,
-    46.09539
+    23.011478,
+    46.090193,
+    23.034415,
+    46.104347
 ],
-  "geometry": {"coordinates":[23.03092,46.09539],"type":"Point"}
+  "geometry": {"coordinates":[[[23.02105,46.101501],[23.023072,46.100591],[23.022998,46.102668],[23.024693,46.102697],[23.02438,46.101127],[23.026203,46.10001],[23.027527,46.099006],[23.028142,46.098523],[23.029243,46.097333],[23.029901,46.096621],[23.031703,46.094271],[23.032915,46.092734],[23.033495,46.092038],[23.033747,46.091769],[23.034129,46.091409],[23.034415,46.091139],[23.032932,46.090343],[23.030908,46.090193],[23.030617,46.090817],[23.030499,46.091892],[23.025318,46.092703],[23.026223,46.094571],[23.027316,46.094301],[23.028267,46.094497],[23.028071,46.094827],[23.027808,46.095127],[23.027465,46.095516],[23.027161,46.095863],[23.026739,46.096343],[23.026311,46.096829],[23.025516,46.097734],[23.024409,46.098767],[23.016127,46.099599],[23.013518,46.102221],[23.013207,46.102652],[23.011478,46.103932],[23.012916,46.104084],[23.014751,46.104347],[23.015749,46.104262],[23.018283,46.104236],[23.019174,46.102345],[23.02105,46.101501]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.28304,45.77937,24.28304,45.77937",
-    "geom:latitude":45.77937,
-    "geom:longitude":24.28304,
+    "geom:area":0.000073,
+    "geom:area_square_m":629749.440139,
+    "geom:bbox":"24.271983,45.770328,24.288967,45.78379",
+    "geom:latitude":45.777993,
+    "geom:longitude":24.280499,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145408.0",
     "gn:asciiname":"Casolt",
@@ -25,17 +25,28 @@
     "gn:population":667,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.26304,45.75937,24.30304,45.79937",
+    "lbl:latitude":45.77937,
+    "lbl:longitude":24.28304,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ca\u015fol\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Casolt"
+    ],
     "name:und_x_variant":[
         "Kastenholz",
         "Ca\u015fol\u0163"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682594
+        "gn:id":682594,
+        "ro-ancpi:id":145426
     },
     "wof:country":"RO",
-    "wof:geomhash":"eff5b057eca63ae8468968c5bab59e3b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aca8b80ead91d0c01ec3c010926ae1a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1276172659,
-    "wof:lastmodified":1566610174,
-    "wof:name":"Casolt",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203653,
+    "wof:name":"Ca\u015fol\u0163",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":667,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28304,
-    45.77937,
-    24.28304,
-    45.77937
+    24.271983,
+    45.770328,
+    24.288967,
+    45.78379
 ],
-  "geometry": {"coordinates":[24.28304,45.77937],"type":"Point"}
+  "geometry": {"coordinates":[[[24.288967,45.780405],[24.286421,45.778765],[24.283552,45.775859],[24.279977,45.77503],[24.277916,45.773211],[24.276087,45.771287],[24.274532,45.770328],[24.272951,45.771361],[24.27445,45.772554],[24.279282,45.775901],[24.277672,45.776225],[24.277625,45.777018],[24.275654,45.777073],[24.275599,45.77841],[24.273567,45.778798],[24.273651,45.779721],[24.271983,45.780058],[24.272104,45.781022],[24.276701,45.780664],[24.276593,45.780168],[24.279627,45.780642],[24.281067,45.78017],[24.28309,45.78049],[24.286276,45.781085],[24.287013,45.783695],[24.288657,45.78379],[24.288967,45.780405]]],"type":"Polygon"}
 }

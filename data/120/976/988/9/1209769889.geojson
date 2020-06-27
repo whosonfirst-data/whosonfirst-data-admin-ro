@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.94025,46.73766,24.94025,46.73766",
-    "geom:latitude":46.73766,
-    "geom:longitude":24.94025,
+    "geom:area":0.000062,
+    "geom:area_square_m":524310.508237,
+    "geom:bbox":"24.929615,46.7275,24.945554,46.743716",
+    "geom:latitude":46.736369,
+    "geom:longitude":24.939079,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117319.0",
     "gn:asciiname":"Orsova-Padure",
@@ -25,18 +25,29 @@
     "gn:population":169,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.92025,46.71766,24.96025,46.75766",
+    "lbl:latitude":46.73766,
+    "lbl:longitude":24.94025,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Or\u015fova-P\u0103dure"
+    ],
+    "name:ron_x_variant":[
+        "Orsova-Padure"
+    ],
     "name:und_x_variant":[
         "Sz\u00e8cs Seci",
         "Seci",
         "Or\u015fova-P\u0103dure"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671679
+        "gn:id":671679,
+        "ro-ancpi:id":117408
     },
     "wof:country":"RO",
-    "wof:geomhash":"4ac66bf66faafeda96316eceba5a38a8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d3957c9072215823c28e79fe8d0f8d4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1209769889,
-    "wof:lastmodified":1566610335,
-    "wof:name":"Orsova-Padure",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203448,
+    "wof:name":"Or\u015fova-P\u0103dure",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":169,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.94025,
-    46.73766,
-    24.94025,
-    46.73766
+    24.929615,
+    46.7275,
+    24.945554,
+    46.743716
 ],
-  "geometry": {"coordinates":[24.94025,46.73766],"type":"Point"}
+  "geometry": {"coordinates":[[[24.932309,46.743132],[24.93481,46.741771],[24.936359,46.742596],[24.936942,46.741857],[24.937453,46.741276],[24.936643,46.740682],[24.940188,46.738348],[24.941974,46.736799],[24.9437,46.736184],[24.944682,46.735768],[24.943808,46.733484],[24.94408,46.732594],[24.945554,46.730871],[24.94329,46.730436],[24.944406,46.727935],[24.94255,46.7275],[24.940578,46.732222],[24.940501,46.734596],[24.940214,46.734904],[24.937582,46.735764],[24.938124,46.735937],[24.936306,46.737314],[24.935093,46.738994],[24.934862,46.739552],[24.93388,46.740111],[24.931435,46.741416],[24.929992,46.742292],[24.929615,46.742995],[24.929643,46.743375],[24.930108,46.743716],[24.931268,46.743519],[24.932309,46.743132]]],"type":"Polygon"}
 }

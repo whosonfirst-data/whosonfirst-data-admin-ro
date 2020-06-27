@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.69717,45.98489,24.69717,45.98489",
-    "geom:latitude":45.98489,
-    "geom:longitude":24.69717,
+    "geom:area":0.000076,
+    "geom:area_square_m":654251.638519,
+    "geom:bbox":"24.677516,45.977977,24.704893,45.999063",
+    "geom:latitude":45.985647,
+    "geom:longitude":24.696504,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144964.0",
     "gn:asciiname":"Dealu Frumos",
@@ -25,11 +25,12 @@
     "gn:population":592,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.67717,45.96489,24.71717,46.00489",
+    "lbl:latitude":45.98489,
+    "lbl:longitude":24.69717,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dealu Frumos"
@@ -50,7 +51,11 @@
         "\u015eulumberg",
         "Dealul-Frumos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679641
+        "gn:id":679641,
+        "ro-ancpi:id":144982
     },
     "wof:country":"RO",
-    "wof:geomhash":"96f71fd18153253a933cf0ab3ed1236d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"91209b463a6fd4dcb0f6fe5504024f77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +81,13 @@
         }
     ],
     "wof:id":1326479151,
-    "wof:lastmodified":1566609827,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203652,
     "wof:name":"Dealu Frumos",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -84,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.69717,
-    45.98489,
-    24.69717,
-    45.98489
+    24.677516,
+    45.977977,
+    24.704893,
+    45.999063
 ],
-  "geometry": {"coordinates":[24.69717,45.98489],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.701421,45.986754],[24.700467,45.98525],[24.69914,45.98597],[24.696796,45.983535],[24.696862,45.982791],[24.698965,45.980741],[24.698843,45.980143],[24.69774,45.979592],[24.698602,45.978262],[24.697328,45.977977],[24.696281,45.978096],[24.6947,45.980424],[24.691711,45.979147],[24.690462,45.980286],[24.692059,45.98151],[24.692027,45.982342],[24.692442,45.984475],[24.691892,45.985538],[24.693063,45.985687],[24.693443,45.98506],[24.694652,45.985866],[24.694938,45.986945],[24.696503,45.987678],[24.697435,45.988613],[24.697074,45.989102],[24.702646,45.992736],[24.704893,45.991975],[24.703833,45.990954],[24.702691,45.989493],[24.702292,45.988365],[24.701421,45.986754]]],[[[24.679985,45.998647],[24.678913,45.996598],[24.677516,45.996889],[24.678732,45.999063],[24.679985,45.998647]]]],"type":"MultiPolygon"}
 }

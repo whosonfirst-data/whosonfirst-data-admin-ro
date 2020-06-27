@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.3,46.45,23.3,46.45",
-    "geom:latitude":46.45,
-    "geom:longitude":23.3,
+    "geom:area":0.000009,
+    "geom:area_square_m":75013.12978,
+    "geom:bbox":"23.296263,46.44521,23.307822,46.447486",
+    "geom:latitude":46.446304,
+    "geom:longitude":23.301908,
     "gn:admin1_code":"01",
     "gn:admin2_code":"6468.0",
     "gn:asciiname":"Cortesti",
@@ -24,17 +24,30 @@
     "gn:population":10,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.28,46.43,23.32,46.47",
+    "lbl:latitude":46.445999,
+    "lbl:longitude":23.301819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.445999,
+    "mps:longitude":23.301819,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cor\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cortesti"
+    ],
     "name:und_x_variant":[
         "Corce\u015fti",
         "Corne\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680779
+        "gn:id":680779,
+        "ro-ancpi:id":6486
     },
     "wof:country":"RO",
-    "wof:geomhash":"ea1d935faddba8d7e5d021e7ac96a35c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dfe1ae096aabda92dd3ae07fe8eb0f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1310415577,
-    "wof:lastmodified":1566610525,
-    "wof:name":"Cortesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203758,
+    "wof:name":"Cor\u0163e\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":10,
@@ -68,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.3,
-    46.45,
-    23.3,
-    46.45
+    23.296263,
+    46.44521,
+    23.307822,
+    46.447486
 ],
-  "geometry": {"coordinates":[23.3,46.45],"type":"Point"}
+  "geometry": {"coordinates":[[[23.296263,46.446007],[23.297303,46.446119],[23.29754,46.446244],[23.297785,46.446375],[23.298259,46.446598],[23.298878,46.446824],[23.29957,46.446784],[23.300917,46.446649],[23.302956,46.446635],[23.303778,46.446769],[23.304465,46.447151],[23.305243,46.447412],[23.305762,46.447486],[23.306818,46.447346],[23.307822,46.44679],[23.307703,46.446483],[23.307115,46.446563],[23.306864,46.446643],[23.306608,46.446877],[23.306393,46.447063],[23.306101,46.44718],[23.305643,46.447179],[23.305373,46.447092],[23.30518,46.446867],[23.304957,46.446554],[23.305364,46.446338],[23.304995,46.4461],[23.304104,46.445724],[23.303363,46.445569],[23.303305,46.445879],[23.303161,46.445877],[23.302642,46.445769],[23.302237,46.44537],[23.301436,46.445341],[23.301442,46.445408],[23.301145,46.445392],[23.30115,46.446285],[23.300877,46.446281],[23.300336,46.446134],[23.299828,46.446193],[23.299407,46.446315],[23.299135,46.446283],[23.298754,46.446139],[23.298462,46.446007],[23.29813,46.445847],[23.297924,46.44576],[23.297628,46.445446],[23.297408,46.445304],[23.297065,46.445249],[23.296713,46.44521],[23.296351,46.445222],[23.296263,46.446007]]],"type":"Polygon"}
 }

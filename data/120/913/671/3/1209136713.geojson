@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29856,45.45079,24.29856,45.45079",
-    "geom:latitude":45.45079,
-    "geom:longitude":24.29856,
+    "geom:area":0.000032,
+    "geom:area_square_m":276667.730998,
+    "geom:bbox":"24.288998,45.44825,24.301559,45.455908",
+    "geom:latitude":45.451601,
+    "geom:longitude":24.295009,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169119.0",
     "gn:asciiname":"Robesti",
@@ -24,33 +24,58 @@
     "gn:population":230,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.27856,45.43079,24.31856,45.47079",
+    "lbl:latitude":45.45079,
+    "lbl:longitude":24.29856,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Robe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Robesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668785
+        "gn:id":668785,
+        "ro-ancpi:id":169173
     },
     "wof:country":"RO",
-    "wof:geomhash":"5203c4e123ef36f6ad079f92c1e02f5c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e1ab9732d593d8a05b798288b6257ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209136713
+            "locality_id":1209136713,
+            "region_id":85687643
         }
     ],
     "wof:id":1209136713,
-    "wof:lastmodified":1566610338,
-    "wof:name":"Robesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
+    "wof:name":"Robe\u015fti",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":230,
     "wof:population_rank":2,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29856,
-    45.45079000000001,
-    24.29856,
-    45.45079000000001
+    24.288998,
+    45.44825,
+    24.301559,
+    45.455908
 ],
-  "geometry": {"coordinates":[24.29856,45.45079000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.296523,45.45263],[24.301559,45.449594],[24.30024,45.44825],[24.297108,45.449861],[24.296639,45.450145],[24.296409,45.450076],[24.295376,45.449425],[24.293146,45.448769],[24.290056,45.448429],[24.290104,45.44922],[24.292568,45.449465],[24.293866,45.449692],[24.294056,45.450025],[24.294731,45.450956],[24.292998,45.452022],[24.288998,45.455187],[24.290165,45.455908],[24.291175,45.455467],[24.292375,45.454893],[24.293847,45.454197],[24.296523,45.45263]]],"type":"Polygon"}
 }

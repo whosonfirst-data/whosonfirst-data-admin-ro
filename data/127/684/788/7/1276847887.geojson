@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.52202,44.97021,21.52202,44.97021",
-    "geom:latitude":44.97021,
-    "geom:longitude":21.52202,
+    "geom:area":0.000027,
+    "geom:area_square_m":232667.247812,
+    "geom:bbox":"21.516324,44.966071,21.525342,44.972285",
+    "geom:latitude":44.969282,
+    "geom:longitude":21.520384,
     "gn:admin1_code":"12",
     "gn:admin2_code":"51387.0",
     "gn:asciiname":"Rusova Noua",
@@ -25,17 +25,30 @@
     "gn:population":147,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.50202,44.95021,21.54202,44.99021",
+    "lbl:latitude":44.969535,
+    "lbl:longitude":21.519701,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.969535,
+    "mps:longitude":21.519701,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Rusova Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Rusova Noua"
+    ],
     "name:und_x_variant":[
         "Nova-Rusova",
         "Rusova Nou\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668375
+        "gn:id":668375,
+        "ro-ancpi:id":51421
     },
     "wof:country":"RO",
-    "wof:geomhash":"a8527723024c439b9d4daa6877d052ac",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bd161204509bb79a73ec13ece9716280",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1276847887,
-    "wof:lastmodified":1566610244,
-    "wof:name":"Rusova Noua",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203618,
+    "wof:name":"Rusova Nou\u0103",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":147,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.52202,
-    44.97021,
-    21.52202,
-    44.97021
+    21.516324,
+    44.966071,
+    21.525342,
+    44.972285
 ],
-  "geometry": {"coordinates":[21.52202,44.97021],"type":"Point"}
+  "geometry": {"coordinates":[[[21.525342,44.968744],[21.524138,44.967619],[21.523943,44.967763],[21.522071,44.966071],[21.521306,44.966362],[21.51869,44.968143],[21.517344,44.969264],[21.516919,44.969901],[21.516324,44.970968],[21.517693,44.972285],[21.519298,44.972213],[21.519955,44.971908],[21.520686,44.971187],[21.52145,44.970313],[21.522355,44.9697],[21.523627,44.969201],[21.525342,44.968744]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.09359,44.58302,23.09359,44.58302",
-    "geom:latitude":44.58302,
-    "geom:longitude":23.09359,
+    "geom:area":0.000014,
+    "geom:area_square_m":121798.665601,
+    "geom:bbox":"23.089215,44.580208,23.094544,44.585492",
+    "geom:latitude":44.582922,
+    "geom:longitude":23.091585,
     "gn:admin1_code":"26",
     "gn:admin2_code":"111916.0",
     "gn:asciiname":"Valea Petrii",
@@ -25,17 +25,27 @@
     "gn:population":65,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.07359,44.56302,23.11359,44.60302",
+    "lbl:latitude":44.58323,
+    "lbl:longitude":23.091323,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.58323,
+    "mps:longitude":23.091323,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Petrii"
+    ],
     "name:und_x_variant":[
         "Valea Petrei",
         "Valea Petrii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663525
+        "gn:id":663525,
+        "ro-ancpi:id":111961
     },
     "wof:country":"RO",
-    "wof:geomhash":"3717f7f19b7da175b38bb51d44e0ee7e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e02e5a1a7f8646962d5620770aff2e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1327488343,
-    "wof:lastmodified":1566609813,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203334,
     "wof:name":"Valea Petrii",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.09359,
-    44.58302,
-    23.09359,
-    44.58302
+    23.089215,
+    44.580208,
+    23.094544,
+    44.585492
 ],
-  "geometry": {"coordinates":[23.09359,44.58302],"type":"Point"}
+  "geometry": {"coordinates":[[[23.093531,44.582184],[23.093951,44.581685],[23.094544,44.58045],[23.094283,44.580208],[23.092747,44.581531],[23.092631,44.581825],[23.092612,44.581981],[23.092186,44.582011],[23.092273,44.581854],[23.092292,44.581728],[23.092299,44.58163],[23.092269,44.581622],[23.09149,44.581411],[23.09152,44.580828],[23.089809,44.580872],[23.090001,44.582774],[23.089463,44.582789],[23.089447,44.582908],[23.089215,44.584481],[23.092271,44.584737],[23.092216,44.585414],[23.093123,44.585492],[23.093431,44.583786],[23.092694,44.583726],[23.092808,44.582278],[23.093282,44.582231],[23.093531,44.582184]]],"type":"Polygon"}
 }

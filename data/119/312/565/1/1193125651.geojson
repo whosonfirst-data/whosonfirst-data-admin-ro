@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.88883,45.44037,26.88883,45.44037",
-    "geom:latitude":45.44037,
-    "geom:longitude":26.88883,
+    "geom:area":0.000008,
+    "geom:area_square_m":72544.92178,
+    "geom:bbox":"26.885164,45.438104,26.890294,45.4412",
+    "geom:latitude":45.439786,
+    "geom:longitude":26.887947,
     "gn:admin1_code":"11",
     "gn:admin2_code":"48165.0",
     "gn:asciiname":"Valea Schiopului",
@@ -24,13 +24,24 @@
     "gn:population":15,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.86883,45.42037,26.90883,45.46037",
+    "lbl:latitude":45.44037,
+    "lbl:longitude":26.88883,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea \u015echiopului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Schiopului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663434
+        "gn:id":663434,
+        "ro-ancpi:id":48218
     },
     "wof:country":"RO",
-    "wof:geomhash":"03a990ad0b83301d256637355792b470",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"475c10838ed87717ecf65f45e79f3643",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1193125651,
-    "wof:lastmodified":1566610429,
-    "wof:name":"Valea Schiopului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203596,
+    "wof:name":"Valea \u015echiopului",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":15,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.88883,
-    45.44037,
-    26.88883,
-    45.44037
+    26.885164,
+    45.438104,
+    26.890294,
+    45.4412
 ],
-  "geometry": {"coordinates":[26.88883,45.44037],"type":"Point"}
+  "geometry": {"coordinates":[[[26.887507,45.4412],[26.88838,45.440936],[26.888428,45.440973],[26.888503,45.440944],[26.89,45.440142],[26.890294,45.439951],[26.890121,45.439733],[26.889956,45.439733],[26.889927,45.439645],[26.889798,45.439566],[26.889715,45.439244],[26.889716,45.439186],[26.889599,45.439243],[26.889651,45.439],[26.889797,45.438626],[26.88985,45.438434],[26.889827,45.438353],[26.889742,45.438275],[26.889409,45.438104],[26.889243,45.438174],[26.88801,45.438772],[26.88754,45.439024],[26.886957,45.439347],[26.886741,45.439172],[26.886692,45.439185],[26.886527,45.439187],[26.886248,45.43925],[26.88615,45.439259],[26.886021,45.439261],[26.885934,45.439244],[26.885789,45.43926],[26.885491,45.439635],[26.885502,45.439651],[26.885164,45.439922],[26.885546,45.440078],[26.885644,45.440242],[26.885903,45.440282],[26.88627,45.440683],[26.886611,45.441005],[26.886905,45.440793],[26.887446,45.441166],[26.887507,45.4412]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.66234,44.89842,21.66234,44.89842",
-    "geom:latitude":44.89842,
-    "geom:longitude":21.66234,
+    "geom:area":0.000034,
+    "geom:area_square_m":294869.826567,
+    "geom:bbox":"21.653842,44.895609,21.668187,44.899933",
+    "geom:latitude":44.897701,
+    "geom:longitude":21.661153,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53791",
     "gn:asciiname":"Bogodint",
@@ -25,17 +25,28 @@
     "gn:population":232,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.64234,44.87842,21.68234,44.91842",
+    "lbl:latitude":44.89842,
+    "lbl:longitude":21.66234,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bogodin\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Bogodint"
+    ],
     "name:und_x_variant":[
         "Bogadinac",
         "Bogodin\u0163i"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684363
+        "gn:id":684363,
+        "ro-ancpi:id":53817
     },
     "wof:country":"RO",
-    "wof:geomhash":"775bdeaf29163e87da60f49974f257c7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a8946b93d32eb64cba1614fe04d5bc70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1293370243,
-    "wof:lastmodified":1566610037,
-    "wof:name":"Bogodint",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203617,
+    "wof:name":"Bogodin\u0163",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":232,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.66234,
-    44.89842,
-    21.66234,
-    44.89842
+    21.653842,
+    44.895609,
+    21.668187,
+    44.899933
 ],
-  "geometry": {"coordinates":[21.66234,44.89842],"type":"Point"}
+  "geometry": {"coordinates":[[[21.661827,44.898926],[21.66265,44.89876],[21.663309,44.899386],[21.663866,44.899171],[21.663727,44.898547],[21.664393,44.898198],[21.665709,44.898195],[21.666911,44.89857],[21.666993,44.898322],[21.667486,44.898355],[21.667853,44.898097],[21.667934,44.89771],[21.668187,44.8973],[21.667107,44.89678],[21.665311,44.896146],[21.663979,44.896177],[21.662686,44.895955],[21.659865,44.895609],[21.658504,44.896405],[21.655932,44.897619],[21.653842,44.898218],[21.654001,44.898543],[21.654394,44.898538],[21.654698,44.898564],[21.655005,44.898603],[21.654991,44.898994],[21.656254,44.899341],[21.657509,44.899593],[21.658404,44.899345],[21.658925,44.898796],[21.659447,44.899058],[21.660458,44.899538],[21.661357,44.899933],[21.66201,44.899804],[21.661827,44.898926]]],"type":"Polygon"}
 }

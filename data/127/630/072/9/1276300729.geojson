@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.51182,47.27785,27.51182,47.27785",
-    "geom:latitude":47.27785,
-    "geom:longitude":27.51182,
+    "geom:area":0.000056,
+    "geom:area_square_m":473401.548004,
+    "geom:bbox":"27.505262,47.271345,27.51503,47.281498",
+    "geom:latitude":47.276149,
+    "geom:longitude":27.51046,
     "gn:admin1_code":"23",
     "gn:admin2_code":"98505.0",
     "gn:asciiname":"Moimesti",
@@ -25,17 +25,28 @@
     "gn:population":341,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.49182,47.25785,27.53182,47.29785",
+    "lbl:latitude":47.27785,
+    "lbl:longitude":27.51182,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Moime\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Moimesti"
+    ],
     "name:und_x_variant":[
         "M\u0103ime\u015fti",
         "Moime\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672927
+        "gn:id":672927,
+        "ro-ancpi:id":98550
     },
     "wof:country":"RO",
-    "wof:geomhash":"d365b7a91e1b839beecf123a31eeb3e5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"499c295d4dabcc601cf89cd1c5f2bb51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1276300729,
-    "wof:lastmodified":1566610257,
-    "wof:name":"Moimesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203374,
+    "wof:name":"Moime\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":341,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.51182,
-    47.27785,
-    27.51182,
-    47.27785
+    27.505262,
+    47.271345,
+    27.51503,
+    47.281498
 ],
-  "geometry": {"coordinates":[27.51182,47.27785],"type":"Point"}
+  "geometry": {"coordinates":[[[27.514267,47.280169],[27.514729,47.279515],[27.514543,47.279224],[27.514305,47.278762],[27.513976,47.278429],[27.513826,47.278245],[27.513743,47.277976],[27.513567,47.277139],[27.513528,47.276618],[27.514549,47.2764],[27.51503,47.276307],[27.514674,47.27518],[27.514321,47.274124],[27.513656,47.27353],[27.513211,47.273746],[27.512374,47.274189],[27.511875,47.274035],[27.512253,47.273385],[27.512589,47.273099],[27.5128,47.272413],[27.51259,47.271509],[27.511237,47.271766],[27.511161,47.272233],[27.510348,47.272369],[27.509268,47.272159],[27.508114,47.271802],[27.50686,47.271345],[27.505804,47.273989],[27.508087,47.274196],[27.509133,47.27509],[27.50879,47.275555],[27.508044,47.275451],[27.505904,47.276837],[27.505262,47.279238],[27.506234,47.279248],[27.506864,47.27813],[27.507207,47.277999],[27.511554,47.280507],[27.511228,47.280595],[27.511564,47.281441],[27.512463,47.281498],[27.512705,47.280854],[27.512851,47.280537],[27.513025,47.280288],[27.513228,47.280221],[27.514267,47.280169]]],"type":"Polygon"}
 }

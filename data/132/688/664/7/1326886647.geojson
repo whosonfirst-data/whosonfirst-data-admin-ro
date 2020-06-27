@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.74517,47.24713,27.74517,47.24713",
-    "geom:latitude":47.24713,
-    "geom:longitude":27.74517,
+    "geom:area":0.000007,
+    "geom:area_square_m":56671.537654,
+    "geom:bbox":"27.73981,47.245989,27.744843,47.24854",
+    "geom:latitude":47.247078,
+    "geom:longitude":27.742779,
     "gn:admin1_code":"23",
     "gn:admin2_code":"97090",
     "gn:asciiname":"Bran",
@@ -24,11 +24,14 @@
     "gn:population":1,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.72517,47.22713,27.76517,47.26713",
+    "lbl:latitude":47.247126,
+    "lbl:longitude":27.743236,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.247126,
+    "mps:longitude":27.743236,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0646\u062e\u0627\u0644\u0629"
@@ -124,10 +127,16 @@
         "Hamchi"
     ],
     "name:ron_x_preferred":[
+        "Bran"
+    ],
+    "name:ron_x_variant":[
         "T\u0103r\u00e2\u021b\u0103"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0442\u0440\u0443\u0431\u0438"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c6e\u1c72\u1c6e"
     ],
     "name:scn_x_preferred":[
         "Canigghia"
@@ -171,7 +180,11 @@
     "name:wln_x_preferred":[
         "Laton"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -180,10 +193,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683889
+        "gn:id":683889,
+        "ro-ancpi:id":97116
     },
     "wof:country":"RO",
-    "wof:geomhash":"2105cb7c72eecaa339664d217342b7de",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f10d245625832de922578946dc183c98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -193,7 +210,13 @@
         }
     ],
     "wof:id":1326886647,
-    "wof:lastmodified":1566609771,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203370,
     "wof:name":"Bran",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
@@ -205,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.74517,
-    47.24713,
-    27.74517,
-    47.24713
+    27.73981,
+    47.245989,
+    27.744843,
+    47.24854
 ],
-  "geometry": {"coordinates":[27.74517,47.24713],"type":"Point"}
+  "geometry": {"coordinates":[[[27.739813,47.246046],[27.739957,47.24638],[27.740427,47.246585],[27.741213,47.246768],[27.741467,47.247181],[27.742279,47.247455],[27.742177,47.247808],[27.742383,47.247823],[27.742382,47.247952],[27.742652,47.247984],[27.742739,47.248295],[27.744595,47.24854],[27.744843,47.248413],[27.744426,47.247308],[27.7442,47.246765],[27.744184,47.246443],[27.743875,47.246205],[27.743015,47.246091],[27.742296,47.246117],[27.74167,47.246031],[27.740912,47.245992],[27.740151,47.246014],[27.73981,47.245989],[27.739813,47.246046]]],"type":"Polygon"}
 }

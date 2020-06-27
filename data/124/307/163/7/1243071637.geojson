@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.91931,46.34398,22.91931,46.34398",
-    "geom:latitude":46.34398,
-    "geom:longitude":22.91931,
+    "geom:area":0.000011,
+    "geom:area_square_m":90069.542754,
+    "geom:bbox":"22.91499,46.339411,22.918458,46.344557",
+    "geom:latitude":46.342301,
+    "geom:longitude":22.916673,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Hoanca",
@@ -24,13 +24,35 @@
     "gn:population":22,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.89931,46.32398,22.93931,46.36398",
+    "lbl:latitude":46.342627,
+    "lbl:longitude":22.9165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.342627,
+    "mps:longitude":22.9165,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:deu_x_preferred":[
+        "Hoanc\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Hoanc\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Hoanc\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Hoanca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u043e\u0430\u043d\u043a\u0430"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676135
+        "gn:id":676135,
+        "ro-ancpi:id":8595
     },
     "wof:country":"RO",
-    "wof:geomhash":"ef79ed0b5f8f79091ad0ed5d22622bf1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f56ef0e42a7aef22510b4c53c3c5850",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +78,14 @@
         }
     ],
     "wof:id":1243071637,
-    "wof:lastmodified":1566611420,
-    "wof:name":"Hoanca",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203765,
+    "wof:name":"Hoanc\u0103",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":22,
@@ -64,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.91931,
-    46.34398,
-    22.91931,
-    46.34398
+    22.91499,
+    46.339411,
+    22.918458,
+    46.344557
 ],
-  "geometry": {"coordinates":[22.91931,46.34398],"type":"Point"}
+  "geometry": {"coordinates":[[[22.91749,46.340949],[22.916773,46.339411],[22.915647,46.34004],[22.915475,46.341365],[22.91499,46.343375],[22.917436,46.344557],[22.918323,46.344479],[22.918458,46.343551],[22.917416,46.34164],[22.91749,46.340949]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2514,43.75386,24.2514,43.75386",
-    "geom:latitude":43.75386,
-    "geom:longitude":24.2514,
+    "geom:area":0.000081,
+    "geom:area_square_m":721733.567159,
+    "geom:bbox":"24.240745,43.748871,24.252991,43.758857",
+    "geom:latitude":43.753756,
+    "geom:longitude":24.246695,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127224.0",
     "gn:asciiname":"Hotaru",
@@ -25,11 +25,12 @@
     "gn:population":836,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.2314,43.73386,24.2714,43.77386",
+    "lbl:latitude":43.75386,
+    "lbl:longitude":24.2514,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Hotaru"
@@ -55,7 +56,11 @@
     "name:und_x_variant":[
         "Hotarul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -64,10 +69,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675962
+        "gn:id":675962,
+        "ro-ancpi:id":127242
     },
     "wof:country":"RO",
-    "wof:geomhash":"ac56054f4ed4a377f5dc3ac17ff6211c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dc601ca5fbacec3aef06034796ec8d45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +86,13 @@
         }
     ],
     "wof:id":1326791735,
-    "wof:lastmodified":1566609831,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
     "wof:name":"Hotaru",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -89,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2514,
-    43.75386,
-    24.2514,
-    43.75386
+    24.240745,
+    43.748871,
+    24.252991,
+    43.758857
 ],
-  "geometry": {"coordinates":[24.2514,43.75386],"type":"Point"}
+  "geometry": {"coordinates":[[[24.250943,43.756954],[24.251625,43.755402],[24.251807,43.754138],[24.252991,43.750713],[24.24402,43.748871],[24.243578,43.750137],[24.241477,43.749945],[24.243388,43.754664],[24.240745,43.754717],[24.24233,43.758857],[24.250943,43.756954]]],"type":"Polygon"}
 }

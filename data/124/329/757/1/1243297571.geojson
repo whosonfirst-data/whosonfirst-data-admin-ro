@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2578,44.7964,24.2578,44.7964",
-    "geom:latitude":44.7964,
-    "geom:longitude":24.2578,
+    "geom:area":0.000033,
+    "geom:area_square_m":291090.873678,
+    "geom:bbox":"24.254433,44.791737,24.260351,44.799314",
+    "geom:latitude":44.795581,
+    "geom:longitude":24.257132,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171879.0",
     "gn:asciiname":"Scaiosi",
@@ -24,13 +24,24 @@
     "gn:population":318,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.2378,44.7764,24.2778,44.8164",
+    "lbl:latitude":44.7964,
+    "lbl:longitude":24.2578,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Scaio\u015fi"
+    ],
+    "name:ron_x_variant":[
+        "Scaiosi"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667734
+        "gn:id":667734,
+        "ro-ancpi:id":171913
     },
     "wof:country":"RO",
-    "wof:geomhash":"657470e306d29dcb2d6fde822f811d4e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c0c5fc3cadb7af52d3b66bedba1cfe5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1243297571,
-    "wof:lastmodified":1566611522,
-    "wof:name":"Scaiosi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"Scaio\u015fi",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":318,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2578,
-    44.7964,
-    24.2578,
-    44.7964
+    24.254433,
+    44.791737,
+    24.260351,
+    44.799314
 ],
-  "geometry": {"coordinates":[24.2578,44.7964],"type":"Point"}
+  "geometry": {"coordinates":[[[24.258682,44.792305],[24.25512,44.791737],[24.254433,44.798813],[24.258509,44.799314],[24.260351,44.794616],[24.258682,44.792305]]],"type":"Polygon"}
 }

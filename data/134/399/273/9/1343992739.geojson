@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24355,44.98964,24.24355,44.98964",
-    "geom:latitude":44.98964,
-    "geom:longitude":24.24355,
+    "geom:area":0.000016,
+    "geom:area_square_m":137471.893709,
+    "geom:bbox":"24.240393,44.987669,24.244167,44.992361",
+    "geom:latitude":44.990107,
+    "geom:longitude":24.242288,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168372.0",
     "gn:asciiname":"Capu Dealului",
@@ -25,11 +25,12 @@
     "gn:population":245,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.22355,44.96964,24.26355,45.00964",
+    "lbl:latitude":44.98964,
+    "lbl:longitude":24.24355,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Capu Dealului"
@@ -46,7 +47,11 @@
     "name:und_x_variant":[
         "Capul Dealului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682768
+        "gn:id":682768,
+        "ro-ancpi:id":168407
     },
     "wof:country":"RO",
-    "wof:geomhash":"f599f590d74de95c2b07d7a7e1a6b208",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a7eb26e7b4ccabd547c1421069c85ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +77,13 @@
         }
     ],
     "wof:id":1343992739,
-    "wof:lastmodified":1566609890,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
     "wof:name":"Capu Dealului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -80,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24355,
-    44.98964,
-    24.24355,
-    44.98964
+    24.240393,
+    44.987669,
+    24.244167,
+    44.992361
 ],
-  "geometry": {"coordinates":[24.24355,44.98964],"type":"Point"}
+  "geometry": {"coordinates":[[[24.243879,44.987669],[24.243567,44.987695],[24.243135,44.987742],[24.242304,44.987833],[24.241995,44.987911],[24.241893,44.987909],[24.241098,44.987944],[24.240586,44.987917],[24.240393,44.992202],[24.244167,44.992361],[24.243882,44.987723],[24.243879,44.987669]]],"type":"Polygon"}
 }

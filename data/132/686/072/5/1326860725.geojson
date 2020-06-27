@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.1519,44.70012,24.1519,44.70012",
-    "geom:latitude":44.70012,
-    "geom:longitude":24.1519,
+    "geom:area":0.000036,
+    "geom:area_square_m":313312.748762,
+    "geom:bbox":"24.142715,44.695642,24.157469,44.704511",
+    "geom:latitude":44.699874,
+    "geom:longitude":24.151757,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170444.0",
     "gn:asciiname":"Magureni",
@@ -24,13 +24,69 @@
     "gn:population":246,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.1319,44.68012,24.1719,44.72012",
+    "lbl:latitude":44.698251,
+    "lbl:longitude":24.154942,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.698251,
+    "mps:longitude":24.154942,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Comuna M\u0103gureni"
+    ],
+    "name:deu_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:eus_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:fra_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:hun_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:msa_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:nld_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:por_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:ron_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:ron_x_variant":[
+        "Magureni",
+        "Comuna M\u0103gureni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u0433\u0443\u0440\u0435\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0433\u0443\u0440\u0435\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:vol_x_preferred":[
+        "M\u0103gureni"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed8\u53e4\u96f7\u5c3c\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674107
+        "gn:id":674107,
+        "ro-ancpi:id":170499
     },
     "wof:country":"RO",
-    "wof:geomhash":"3f0769fd68222140e72d6f00d9626e58",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8ea1bcf7ad1132fe815f8542fae55323",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +112,14 @@
         }
     ],
     "wof:id":1326860725,
-    "wof:lastmodified":1566609769,
-    "wof:name":"Magureni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203678,
+    "wof:name":"M\u0103gureni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":246,
@@ -64,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.1519,
-    44.70012,
-    24.1519,
-    44.70012
+    24.142715,
+    44.695642,
+    24.157469,
+    44.704511
 ],
-  "geometry": {"coordinates":[24.1519,44.70012],"type":"Point"}
+  "geometry": {"coordinates":[[[24.151326,44.700103],[24.154527,44.699687],[24.15477,44.701431],[24.156949,44.701103],[24.157469,44.69678],[24.156358,44.695642],[24.142715,44.703312],[24.144227,44.704511],[24.151326,44.700103]]],"type":"Polygon"}
 }

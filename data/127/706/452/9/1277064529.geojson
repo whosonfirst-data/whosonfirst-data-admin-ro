@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.75759,45.17926,26.75759,45.17926",
-    "geom:latitude":45.17926,
-    "geom:longitude":26.75759,
+    "geom:area":0.000051,
+    "geom:area_square_m":444736.914943,
+    "geom:bbox":"26.738471,45.184041,26.752802,45.195895",
+    "geom:latitude":45.189536,
+    "geom:longitude":26.746874,
     "gn:admin1_code":"11",
     "gn:admin2_code":"50102",
     "gn:asciiname":"Bradeanca",
@@ -24,13 +24,29 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.73759,45.15926,26.77759,45.19926",
+    "lbl:latitude":45.189182,
+    "lbl:longitude":26.747958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.189182,
+    "mps:longitude":26.747958,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:deu_x_preferred":[
+        "Br\u0103deanca"
+    ],
+    "name:ron_x_preferred":[
+        "Br\u0103deanca"
+    ],
+    "name:ron_x_variant":[
+        "Bradeanca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683966
+        "gn:id":683966,
+        "ro-ancpi:id":50120
     },
     "wof:country":"RO",
-    "wof:geomhash":"7cafaafe3709df38e689c9fe0e27ade9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4f0c12521b5e1e79a1c7404d8ab2247b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +71,14 @@
         }
     ],
     "wof:id":1277064529,
-    "wof:lastmodified":1566610158,
-    "wof:name":"Bradeanca",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203593,
+    "wof:name":"Br\u0103deanca",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.75759,
-    45.17926,
-    26.75759,
-    45.17926
+    26.738471,
+    45.184041,
+    26.752802,
+    45.195895
 ],
-  "geometry": {"coordinates":[26.75759,45.17926],"type":"Point"}
+  "geometry": {"coordinates":[[[26.739736,45.191951],[26.739901,45.191934],[26.740028,45.191514],[26.740952,45.192242],[26.742725,45.193443],[26.742918,45.193702],[26.743926,45.194891],[26.744633,45.195895],[26.744764,45.195833],[26.745411,45.195102],[26.744366,45.19383],[26.747414,45.192092],[26.747581,45.191695],[26.748235,45.191236],[26.748831,45.191121],[26.749316,45.190811],[26.751466,45.188021],[26.752588,45.186169],[26.752802,45.185408],[26.750093,45.184408],[26.749082,45.184041],[26.747662,45.186051],[26.745757,45.188584],[26.743453,45.19166],[26.743338,45.191562],[26.743248,45.191504],[26.741839,45.190359],[26.741486,45.190572],[26.741101,45.190352],[26.739942,45.19124],[26.73887,45.190406],[26.738471,45.190868],[26.739721,45.191859],[26.739736,45.191951]]],"type":"Polygon"}
 }

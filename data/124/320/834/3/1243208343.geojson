@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35,45.03333,24.35,45.03333",
-    "geom:latitude":45.03333,
-    "geom:longitude":24.35,
+    "geom:area":0.000101,
+    "geom:area_square_m":881589.743528,
+    "geom:bbox":"24.33348,45.029332,24.357659,45.043645",
+    "geom:latitude":45.036095,
+    "geom:longitude":24.34595,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168791",
     "gn:asciiname":"Barsesti",
@@ -24,16 +24,42 @@
     "gn:population":704,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.33,45.01333,24.37,45.05333",
+    "lbl:latitude":45.037529,
+    "lbl:longitude":24.346774,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.037529,
+    "mps:longitude":24.346774,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "B\u00e2rse\u015fti"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e2rse\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "B\u00e2rse\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "B\u00e2rse\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Barsesti",
+        "B\u00e2rse\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0440\u0441\u0435\u0448\u0442\u044c"
+    ],
     "name:und_x_variant":[
         "B\u00eerse\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684753
+        "gn:id":684753,
+        "ro-ancpi:id":168835
     },
     "wof:country":"RO",
-    "wof:geomhash":"0d2686efb7564248c38b758f9fa86500",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ad29252d7e351d00647823df7c1470a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +85,14 @@
         }
     ],
     "wof:id":1243208343,
-    "wof:lastmodified":1566611518,
-    "wof:name":"Barsesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"B\u00e2rse\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":704,
@@ -67,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35,
-    45.03333,
-    24.35,
-    45.03333
+    24.33348,
+    45.029332,
+    24.357659,
+    45.043645
 ],
-  "geometry": {"coordinates":[24.35,45.03333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.351794,45.04158],[24.351473,45.041241],[24.351257,45.039205],[24.352446,45.037998],[24.353216,45.038639],[24.354239,45.038037],[24.355511,45.036546],[24.357362,45.035003],[24.357659,45.033464],[24.355763,45.033665],[24.354923,45.032149],[24.353551,45.031929],[24.353149,45.035784],[24.35035,45.038269],[24.348979,45.036198],[24.346537,45.035407],[24.343444,45.032295],[24.341563,45.031266],[24.340762,45.031558],[24.338659,45.030811],[24.334512,45.029332],[24.33348,45.030668],[24.336184,45.031136],[24.337766,45.032233],[24.333662,45.03382],[24.334052,45.034585],[24.33454,45.035394],[24.336203,45.034654],[24.336815,45.035181],[24.339523,45.033614],[24.343233,45.03673],[24.342292,45.037134],[24.343949,45.038628],[24.347642,45.039864],[24.345286,45.041899],[24.348993,45.043645],[24.349758,45.043027],[24.351794,45.04158]]],"type":"Polygon"}
 }

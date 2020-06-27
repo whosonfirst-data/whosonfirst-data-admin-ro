@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.63102,44.65467,22.63102,44.65467",
-    "geom:latitude":44.65467,
-    "geom:longitude":22.63102,
+    "geom:area":0.000074,
+    "geom:area_square_m":648495.95147,
+    "geom:bbox":"22.622328,44.647934,22.652335,44.658041",
+    "geom:latitude":44.653016,
+    "geom:longitude":22.630642,
     "gn:admin1_code":"26",
     "gn:admin2_code":"110820.0",
     "gn:asciiname":"Magheru",
@@ -25,11 +25,12 @@
     "gn:population":877,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.61102,44.63467,22.65102,44.67467",
+    "lbl:latitude":44.65467,
+    "lbl:longitude":22.63102,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Magheru"
@@ -40,7 +41,11 @@
     "name:und_x_variant":[
         "Mageru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674180
+        "gn:id":674180,
+        "ro-ancpi:id":110857
     },
     "wof:country":"RO",
-    "wof:geomhash":"67e208c850cfce5a141811b1a5b9944d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"acc9528563c5d6072fad4968ec2ba4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,7 +71,13 @@
         }
     ],
     "wof:id":1360040183,
-    "wof:lastmodified":1566610644,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203339,
     "wof:name":"Magheru",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -74,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.63102,
-    44.65467,
-    22.63102,
-    44.65467
+    22.622328,
+    44.647934,
+    22.652335,
+    44.658041
 ],
-  "geometry": {"coordinates":[22.63102,44.65467],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.63602,44.652163],[22.63693,44.651523],[22.637652,44.651955],[22.638599,44.651188],[22.637862,44.650732],[22.638141,44.650525],[22.637395,44.650019],[22.637356,44.649993],[22.637035,44.650248],[22.63632,44.650788],[22.635602,44.651327],[22.635221,44.651612],[22.635122,44.651546],[22.630147,44.648257],[22.627753,44.650442],[22.6273,44.650268],[22.622328,44.654059],[22.627244,44.657391],[22.627403,44.657498],[22.627264,44.657611],[22.627297,44.657627],[22.628166,44.658041],[22.63602,44.652163]]],[[[22.649693,44.653575],[22.649585,44.653534],[22.649551,44.653589],[22.648842,44.654581],[22.651311,44.655529],[22.651892,44.655163],[22.652335,44.654883],[22.652151,44.654679],[22.651682,44.654424],[22.649693,44.653575]]],[[[22.633659,44.64846],[22.632763,44.647934],[22.632103,44.648446],[22.633057,44.649108],[22.634054,44.649591],[22.634795,44.648856],[22.633659,44.64846]]]],"type":"MultiPolygon"}
 }

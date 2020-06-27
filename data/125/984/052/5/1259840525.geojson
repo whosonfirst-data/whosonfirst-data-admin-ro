@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.7102,44.44262,24.7102,44.44262",
-    "geom:latitude":44.44262,
-    "geom:longitude":24.7102,
+    "geom:area":0.000091,
+    "geom:area_square_m":805135.755838,
+    "geom:bbox":"24.697555,44.437794,24.71406,44.45174",
+    "geom:latitude":44.44443,
+    "geom:longitude":24.705871,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126326.0",
     "gn:asciiname":"Ciuresti",
@@ -24,13 +24,24 @@
     "gn:population":189,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.6902,44.42262,24.7302,44.46262",
+    "lbl:latitude":44.44262,
+    "lbl:longitude":24.7102,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciure\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ciuresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681380
+        "gn:id":681380,
+        "ro-ancpi:id":126362
     },
     "wof:country":"RO",
-    "wof:geomhash":"9533eea0941386ef0061d86eb03d1c2b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1862960708c4251e26be21ae9bf8a17e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1259840525,
-    "wof:lastmodified":1566611555,
-    "wof:name":"Ciuresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203707,
+    "wof:name":"Ciure\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":189,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.7102,
-    44.44262,
-    24.7102,
-    44.44262
+    24.697555,
+    44.437794,
+    24.71406,
+    44.45174
 ],
-  "geometry": {"coordinates":[24.7102,44.44262],"type":"Point"}
+  "geometry": {"coordinates":[[[24.700808,44.45174],[24.706342,44.444945],[24.711089,44.446033],[24.713235,44.445528],[24.71406,44.443937],[24.712299,44.441965],[24.71206,44.439916],[24.712838,44.438633],[24.709165,44.437794],[24.707415,44.440447],[24.704729,44.442017],[24.702979,44.442468],[24.700587,44.443851],[24.698576,44.446586],[24.697594,44.447656],[24.698958,44.448325],[24.697555,44.449384],[24.700808,44.45174]]],"type":"Polygon"}
 }

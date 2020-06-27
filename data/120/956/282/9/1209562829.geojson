@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.40753,46.74536,24.40753,46.74536",
-    "geom:latitude":46.74536,
-    "geom:longitude":24.40753,
+    "geom:area":0.00001,
+    "geom:area_square_m":83623.982457,
+    "geom:bbox":"24.401872,46.742621,24.410564,46.747728",
+    "geom:latitude":46.745438,
+    "geom:longitude":24.406282,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118995.0",
     "gn:asciiname":"Valea Seaca",
@@ -24,33 +24,85 @@
     "gn:population":24,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.38753,46.72536,24.42753,46.76536",
+    "lbl:latitude":46.74536,
+    "lbl:longitude":24.40753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:deu_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:epo_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:eus_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:nld_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Seaca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0459\u0430 \u0421\u0435\u0430\u043a\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Valea Seac\u0103"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687719
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663423
+        "gn:id":663423,
+        "ro-ancpi:id":119126
     },
     "wof:country":"RO",
-    "wof:geomhash":"eb22818e1fa9378972116d7846abf78f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"851408e3448685a4ec254369934ed2fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209562829
+            "locality_id":1209562829,
+            "region_id":85687719
         }
     ],
     "wof:id":1209562829,
-    "wof:lastmodified":1566610362,
-    "wof:name":"Valea Seaca",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203448,
+    "wof:name":"Valea Seac\u0103",
+    "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":24,
     "wof:population_rank":1,
@@ -60,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.40753,
-    46.74536,
-    24.40753,
-    46.74536
+    24.401872,
+    46.742621,
+    24.410564,
+    46.747728
 ],
-  "geometry": {"coordinates":[24.40753,46.74536],"type":"Point"}
+  "geometry": {"coordinates":[[[24.410564,46.744263],[24.409258,46.742621],[24.408161,46.743011],[24.408893,46.744479],[24.406024,46.745466],[24.404063,46.745852],[24.401872,46.746236],[24.402335,46.747728],[24.404141,46.7475],[24.403765,46.746799],[24.406208,46.74614],[24.408673,46.745335],[24.410564,46.744263]]],"type":"Polygon"}
 }

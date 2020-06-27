@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.81727,46.3563,22.81727,46.3563",
-    "geom:latitude":46.3563,
-    "geom:longitude":22.81727,
+    "geom:area":0.000043,
+    "geom:area_square_m":365505.018792,
+    "geom:bbox":"22.810209,46.353997,22.823808,46.361744",
+    "geom:latitude":46.357614,
+    "geom:longitude":22.81685,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Coroiesti",
@@ -24,13 +24,40 @@
     "gn:population":62,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.79727,46.3363,22.83727,46.3763",
+    "lbl:latitude":46.3563,
+    "lbl:longitude":22.81727,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:epo_x_preferred":[
+        "Coroie\u015fti"
+    ],
+    "name:ita_x_preferred":[
+        "Coroie\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Coroie\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Coroie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Coroiesti",
+        "Coroie\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0454\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Coroiesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680699
+        "gn:id":680699,
+        "ro-ancpi:id":2700
     },
     "wof:country":"RO",
-    "wof:geomhash":"c4e89d044e8ad9a07e1fe823a2846255",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0994d2e6fc025e07777b777f33aa523a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +83,14 @@
         }
     ],
     "wof:id":1310319539,
-    "wof:lastmodified":1566610551,
-    "wof:name":"Coroiesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203759,
+    "wof:name":"Coroie\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":62,
@@ -64,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.81727,
-    46.3563,
-    22.81727,
-    46.3563
+    22.810209,
+    46.353997,
+    22.823808,
+    46.361744
 ],
-  "geometry": {"coordinates":[22.81727,46.3563],"type":"Point"}
+  "geometry": {"coordinates":[[[22.818561,46.359127],[22.818187,46.358787],[22.818466,46.358066],[22.818601,46.357943],[22.819284,46.357714],[22.820003,46.357656],[22.820369,46.357702],[22.821874,46.357443],[22.822795,46.357345],[22.823437,46.357261],[22.823808,46.356723],[22.820093,46.354675],[22.818982,46.354033],[22.817905,46.354004],[22.817073,46.353997],[22.816489,46.354242],[22.816336,46.354558],[22.815487,46.355012],[22.81437,46.355696],[22.816599,46.356614],[22.810209,46.359287],[22.810994,46.359895],[22.812237,46.3607],[22.812969,46.361173],[22.813054,46.361075],[22.813156,46.361005],[22.813389,46.360909],[22.813709,46.361071],[22.813994,46.361328],[22.814221,46.361662],[22.814527,46.361744],[22.815139,46.361406],[22.815154,46.361028],[22.816284,46.360374],[22.817112,46.360163],[22.817474,46.360054],[22.817238,46.359725],[22.817533,46.359562],[22.817726,46.359454],[22.817884,46.359382],[22.817982,46.359328],[22.818058,46.359287],[22.818143,46.359246],[22.818246,46.35921],[22.818305,46.35919],[22.818561,46.359127]]],"type":"Polygon"}
 }

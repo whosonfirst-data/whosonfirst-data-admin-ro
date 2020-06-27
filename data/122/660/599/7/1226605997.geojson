@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.70971,44.30812,24.70971,44.30812",
-    "geom:latitude":44.30812,
-    "geom:longitude":24.70971,
+    "geom:area":0.000078,
+    "geom:area_square_m":689253.129376,
+    "geom:bbox":"24.702278,44.303094,24.718636,44.309978",
+    "geom:latitude":44.306374,
+    "geom:longitude":24.709734,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126406.0",
     "gn:asciiname":"Buta",
@@ -24,12 +24,16 @@
     "gn:population":816,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.68971,44.28812,24.72971,44.32812",
+    "lbl:latitude":44.30812,
+    "lbl:longitude":24.70971,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:aze_x_preferred":[
+        "Buta"
+    ],
     "name:ceb_x_preferred":[
         "Buta"
     ],
@@ -37,6 +41,9 @@
         "Buta"
     ],
     "name:ita_x_preferred":[
+        "Buta"
+    ],
+    "name:nds_x_preferred":[
         "Buta"
     ],
     "name:por_x_preferred":[
@@ -57,7 +64,11 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683171
+        "gn:id":683171,
+        "ro-ancpi:id":126424
     },
     "wof:country":"RO",
-    "wof:geomhash":"636394e500d261ba358283d8b14f1704",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"91a1760a724dc05844536d4eecc25fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +94,13 @@
         }
     ],
     "wof:id":1226605997,
-    "wof:lastmodified":1566611640,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203708,
     "wof:name":"Buta",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -91,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.70971,
-    44.30812,
-    24.70971,
-    44.30812
+    24.702278,
+    44.303094,
+    24.718636,
+    44.309978
 ],
-  "geometry": {"coordinates":[24.70971,44.30812],"type":"Point"}
+  "geometry": {"coordinates":[[[24.705098,44.309275],[24.705271,44.309646],[24.705737,44.309503],[24.706208,44.309531],[24.706698,44.309492],[24.707213,44.309565],[24.707583,44.30953],[24.707714,44.309769],[24.707904,44.309978],[24.70826,44.309961],[24.710165,44.309953],[24.713886,44.30873],[24.717449,44.306639],[24.718636,44.306075],[24.717921,44.305023],[24.716341,44.305353],[24.713937,44.303096],[24.711289,44.30329],[24.707928,44.303173],[24.706553,44.303094],[24.702278,44.305334],[24.703393,44.30807],[24.703913,44.308781],[24.704195,44.309296],[24.704337,44.309384],[24.705098,44.309275]]],"type":"Polygon"}
 }

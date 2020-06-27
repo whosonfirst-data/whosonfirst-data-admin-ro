@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.56855,46.8904,23.56855,46.8904",
-    "geom:latitude":46.8904,
-    "geom:longitude":23.56855,
+    "geom:area":0.000092,
+    "geom:area_square_m":773636.921806,
+    "geom:bbox":"23.561001,46.885192,23.575323,46.896638",
+    "geom:latitude":46.890358,
+    "geom:longitude":23.566858,
     "gn:admin1_code":"13",
     "gn:admin2_code":"56988.0",
     "gn:asciiname":"Macicasu",
@@ -25,19 +25,30 @@
     "gn:population":316,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.54855,46.8704,23.58855,46.9104",
+    "lbl:latitude":46.8904,
+    "lbl:longitude":23.56855,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u0103cica\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Macicasu"
+    ],
     "name:und_x_variant":[
         "Macica\u015fnd",
         "M\u0103cica\u015ful",
         "M\u0103cica\u015fiu",
         "M\u0103cica\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674231
+        "gn:id":674231,
+        "ro-ancpi:id":57029
     },
     "wof:country":"RO",
-    "wof:geomhash":"60e2c5325f3e1dd78c17181b08149bf9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f99fae18586081b33dafad5412b604a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +74,14 @@
         }
     ],
     "wof:id":1242952459,
-    "wof:lastmodified":1566611452,
-    "wof:name":"Macicasu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203422,
+    "wof:name":"M\u0103cica\u015fu",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":316,
@@ -71,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.56855,
-    46.8904,
-    23.56855,
-    46.8904
+    23.561001,
+    46.885192,
+    23.575323,
+    46.896638
 ],
-  "geometry": {"coordinates":[23.56855,46.8904],"type":"Point"}
+  "geometry": {"coordinates":[[[23.561001,46.894596],[23.562636,46.894976],[23.563835,46.895568],[23.565071,46.896286],[23.565517,46.895755],[23.567585,46.896638],[23.567316,46.894828],[23.567954,46.894646],[23.56862,46.894664],[23.568562,46.894188],[23.569538,46.894147],[23.569303,46.893741],[23.568624,46.893689],[23.568297,46.891911],[23.568402,46.891538],[23.568753,46.891178],[23.569396,46.89087],[23.569528,46.89128],[23.570111,46.891466],[23.570354,46.891877],[23.572143,46.891453],[23.572024,46.890832],[23.57391,46.890392],[23.575242,46.890373],[23.575323,46.888768],[23.573166,46.888469],[23.573693,46.887923],[23.572481,46.887267],[23.570842,46.88665],[23.570465,46.887144],[23.569892,46.887155],[23.570259,46.886072],[23.565442,46.885192],[23.565411,46.88537],[23.565202,46.885385],[23.56514,46.885759],[23.565451,46.885816],[23.565228,46.886402],[23.561844,46.886431],[23.56206,46.887471],[23.561645,46.889888],[23.561914,46.889877],[23.561001,46.894596]]],"type":"Polygon"}
 }

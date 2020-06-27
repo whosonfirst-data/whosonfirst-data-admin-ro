@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.00054,46.53204,24.00054,46.53204",
-    "geom:latitude":46.53204,
-    "geom:longitude":24.00054,
+    "geom:area":0.000008,
+    "geom:area_square_m":68908.037693,
+    "geom:bbox":"23.988857,46.534813,24.005518,46.542148",
+    "geom:latitude":46.54018,
+    "geom:longitude":23.994893,
     "gn:admin1_code":"27",
     "gn:admin2_code":"116046.0",
     "gn:asciiname":"Lint",
@@ -24,11 +24,14 @@
     "gn:population":4,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98054,46.51204,24.02054,46.55204",
+    "lbl:latitude":46.541092,
+    "lbl:longitude":23.990476,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.541092,
+    "mps:longitude":23.990476,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lint"
@@ -48,10 +51,20 @@
     "name:nld_x_preferred":[
         "Lint"
     ],
+    "name:ron_x_preferred":[
+        "Lin\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Lint"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043d\u0442"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674750
+        "gn:id":674750,
+        "ro-ancpi:id":116117
     },
     "wof:country":"RO",
-    "wof:geomhash":"aefb436caef88189c85bffe478e15c4d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"390172ccdab4512bc28e668979096ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,8 +90,14 @@
         }
     ],
     "wof:id":1327487731,
-    "wof:lastmodified":1566609814,
-    "wof:name":"Lint",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203443,
+    "wof:name":"Lin\u0163",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":4,
@@ -85,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.00054,
-    46.53204,
-    24.00054,
-    46.53204
+    23.988857,
+    46.534813,
+    24.005518,
+    46.542148
 ],
-  "geometry": {"coordinates":[24.00054,46.53204],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.991948,46.541742],[23.991302,46.53953],[23.990452,46.539637],[23.990521,46.540205],[23.988857,46.540439],[23.989351,46.542148],[23.991948,46.541742]]],[[[24.005128,46.539652],[24.005353,46.53915],[24.005456,46.53889],[24.005518,46.538624],[24.005259,46.538529],[24.004996,46.538212],[24.00435,46.538473],[24.004483,46.538841],[24.003725,46.539191],[24.00395,46.539514],[24.003982,46.539638],[24.00423,46.539561],[24.004355,46.539567],[24.004898,46.539446],[24.005022,46.539488],[24.005075,46.539666],[24.005128,46.539652]]],[[[23.99863,46.540699],[23.998574,46.540563],[23.99825,46.540618],[23.997051,46.540862],[23.997377,46.541581],[23.997608,46.54153],[23.998095,46.541435],[23.998299,46.541384],[23.99838,46.54116],[23.998307,46.540799],[23.99863,46.540699]]],[[[24.004359,46.535017],[24.004172,46.534813],[24.00319,46.535128],[24.003648,46.535731],[24.004247,46.535524],[24.004249,46.53542],[24.004295,46.535309],[24.004347,46.535155],[24.004359,46.535017]]]],"type":"MultiPolygon"}
 }

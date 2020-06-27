@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.43145,45.70927,27.43145,45.70927",
-    "geom:latitude":45.70927,
-    "geom:longitude":27.43145,
+    "geom:area":0.000107,
+    "geom:area_square_m":926394.813073,
+    "geom:bbox":"27.42337,45.702658,27.437808,45.722271",
+    "geom:latitude":45.710622,
+    "geom:longitude":27.431464,
     "gn:admin1_code":"18",
     "gn:admin2_code":"77402.0",
     "gn:asciiname":"Condrea",
@@ -24,11 +24,12 @@
     "gn:population":658,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.41145,45.68927,27.45145,45.72927",
+    "lbl:latitude":45.70927,
+    "lbl:longitude":27.43145,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Condrea"
@@ -39,7 +40,11 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u043d\u0434\u0440\u0435\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680971
+        "gn:id":680971,
+        "ro-ancpi:id":77420
     },
     "wof:country":"RO",
-    "wof:geomhash":"cccbd5d0e487293db281d7c556409fb2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"44c831ca6f9570ecf22797f608e9b410",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,13 @@
         }
     ],
     "wof:id":1193241575,
-    "wof:lastmodified":1566610425,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203482,
     "wof:name":"Condrea",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -73,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.43145,
-    45.70927,
-    27.43145,
-    45.70927
+    27.42337,
+    45.702658,
+    27.437808,
+    45.722271
 ],
-  "geometry": {"coordinates":[27.43145,45.70927],"type":"Point"}
+  "geometry": {"coordinates":[[[27.434679,45.722007],[27.434315,45.720754],[27.432711,45.7154],[27.432434,45.714382],[27.435848,45.714876],[27.436437,45.713038],[27.434335,45.712636],[27.435235,45.711525],[27.435217,45.710752],[27.434808,45.709933],[27.434455,45.708611],[27.434544,45.707797],[27.43487,45.706711],[27.435568,45.705574],[27.43676,45.704024],[27.437808,45.703075],[27.435537,45.702658],[27.435248,45.703176],[27.434728,45.703513],[27.433938,45.703776],[27.432909,45.703819],[27.431891,45.703948],[27.431271,45.704095],[27.429709,45.704621],[27.428558,45.704851],[27.428126,45.70504],[27.425846,45.706851],[27.423505,45.706696],[27.42337,45.707556],[27.424894,45.707731],[27.42576,45.707969],[27.427425,45.708883],[27.427311,45.711602],[27.427444,45.71383],[27.427516,45.714085],[27.427906,45.714342],[27.42857,45.714413],[27.430048,45.714672],[27.431527,45.719173],[27.432432,45.722271],[27.434679,45.722007]]],"type":"Polygon"}
 }

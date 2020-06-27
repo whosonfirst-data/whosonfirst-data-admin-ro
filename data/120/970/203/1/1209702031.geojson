@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.92646,47.32874,23.92646,47.32874",
-    "geom:latitude":47.32874,
-    "geom:longitude":23.92646,
+    "geom:area":0.000012,
+    "geom:area_square_m":102015.102546,
+    "geom:bbox":"23.925072,47.323192,23.9291,47.330079",
+    "geom:latitude":47.32688,
+    "geom:longitude":23.927158,
     "gn:admin1_code":"13",
     "gn:admin2_code":"57083",
     "gn:asciiname":"Valea Caseielului",
@@ -24,16 +24,27 @@
     "gn:population":97,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.90646,47.30874,23.94646,47.34874",
+    "lbl:latitude":47.32874,
+    "lbl:longitude":23.92646,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Kesiel"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea C\u0103\u015feielului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Caseielului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10942366
+        "gn:id":10942366,
+        "ro-ancpi:id":57145
     },
     "wof:country":"RO",
-    "wof:geomhash":"d7733ac77903da092c8ded0befd44587",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d2601c385ef17557df6e3c3625eea674",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1209702031,
-    "wof:lastmodified":1566610315,
-    "wof:name":"Valea Caseielului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203414,
+    "wof:name":"Valea C\u0103\u015feielului",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":97,
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.92646,
-    47.32874,
-    23.92646,
-    47.32874
+    23.925072,
+    47.323192,
+    23.9291,
+    47.330079
 ],
-  "geometry": {"coordinates":[23.92646,47.32874],"type":"Point"}
+  "geometry": {"coordinates":[[[23.926248,47.330079],[23.926224,47.329734],[23.926783,47.329869],[23.927079,47.329653],[23.92718,47.329627],[23.927241,47.329659],[23.927245,47.329842],[23.927924,47.329765],[23.927886,47.329315],[23.927295,47.328515],[23.927818,47.327375],[23.928382,47.32621],[23.928007,47.326108],[23.928243,47.325906],[23.928618,47.325601],[23.928734,47.325276],[23.928712,47.324997],[23.928946,47.324934],[23.9291,47.323391],[23.928693,47.323192],[23.928282,47.323244],[23.928317,47.324909],[23.928045,47.324804],[23.927801,47.324011],[23.926953,47.323938],[23.926914,47.324533],[23.926705,47.324718],[23.926659,47.324978],[23.926768,47.324979],[23.926716,47.325536],[23.926428,47.32558],[23.92615,47.326452],[23.926235,47.326974],[23.926103,47.327434],[23.925479,47.328431],[23.925599,47.329082],[23.925437,47.32931],[23.925072,47.329592],[23.925442,47.329983],[23.926248,47.330079]]],"type":"Polygon"}
 }

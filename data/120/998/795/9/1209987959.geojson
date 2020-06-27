@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.5574,44.60368,23.5574,44.60368",
-    "geom:latitude":44.60368,
-    "geom:longitude":23.5574,
+    "geom:area":0.000012,
+    "geom:area_square_m":109896.728952,
+    "geom:bbox":"23.552661,44.600418,23.55821,44.605095",
+    "geom:latitude":44.602984,
+    "geom:longitude":23.555883,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70414",
     "gn:asciiname":"Braniste",
@@ -25,16 +25,29 @@
     "gn:population":112,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.5374,44.58368,23.5774,44.62368",
+    "lbl:latitude":44.602683,
+    "lbl:longitude":23.555841,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.602683,
+    "mps:longitude":23.555841,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Brani\u015fte"
+    ],
+    "name:ron_x_variant":[
+        "Braniste"
+    ],
     "name:und_x_variant":[
         "Brani\u015ftea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683864
+        "gn:id":683864,
+        "ro-ancpi:id":70450
     },
     "wof:country":"RO",
-    "wof:geomhash":"02aed1aa193920551245f02096a74bcd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9e783650bf29b7857a6d3100cefee2c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1209987959,
-    "wof:lastmodified":1566610285,
-    "wof:name":"Braniste",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203320,
+    "wof:name":"Brani\u015fte",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":112,
@@ -68,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.5574,
-    44.60368,
-    23.5574,
-    44.60368
+    23.552661,
+    44.600418,
+    23.55821,
+    44.605095
 ],
-  "geometry": {"coordinates":[23.5574,44.60368],"type":"Point"}
+  "geometry": {"coordinates":[[[23.55679,44.605095],[23.556803,44.604593],[23.5578,44.604667],[23.558075,44.603782],[23.556309,44.603584],[23.556406,44.603355],[23.556608,44.603367],[23.556874,44.602592],[23.556967,44.602525],[23.557941,44.602551],[23.558043,44.601746],[23.557951,44.60138],[23.55821,44.600504],[23.557522,44.600418],[23.55737,44.600459],[23.557239,44.600561],[23.557052,44.600707],[23.556879,44.600852],[23.556775,44.600971],[23.556782,44.601083],[23.556705,44.601162],[23.556189,44.601218],[23.556084,44.601362],[23.556093,44.601799],[23.555213,44.601808],[23.554733,44.60174],[23.554325,44.601801],[23.553698,44.601944],[23.553357,44.601943],[23.553301,44.602217],[23.553831,44.602263],[23.554091,44.602475],[23.554858,44.602562],[23.555044,44.603129],[23.555048,44.603195],[23.554398,44.603183],[23.554264,44.603319],[23.553007,44.603528],[23.55306,44.603772],[23.552723,44.603822],[23.552661,44.604307],[23.555907,44.604579],[23.5558,44.605007],[23.55679,44.605095]]],"type":"Polygon"}
 }

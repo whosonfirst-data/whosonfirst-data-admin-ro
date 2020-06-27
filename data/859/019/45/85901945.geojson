@@ -221,6 +221,9 @@
     "name:war_x_preferred":[
         "Victoria"
     ],
+    "name:wuu_x_preferred":[
+        "\u7ef4\u591a\u5229\u4e9a"
+    ],
     "name:zho_x_preferred":[
         "\u7ef4\u591a\u5229\u4e9a"
     ],
@@ -254,8 +257,8 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
-        101752025,
         85633745,
+        101752025,
         85687737
     ],
     "wof:breaches":[],
@@ -279,10 +282,13 @@
         }
     ],
     "wof:id":85901945,
-    "wof:lang":[
-        "rum"
+    "wof:lang_x_official":[
+        "ron"
     ],
-    "wof:lastmodified":1582311843,
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208076,
     "wof:name":"Victoria",
     "wof:parent_id":101752025,
     "wof:placetype":"neighbourhood",

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.1791,46.26402,23.1791,46.26402",
-    "geom:latitude":46.26402,
-    "geom:longitude":23.1791,
+    "geom:area":0.000038,
+    "geom:area_square_m":326776.834422,
+    "geom:bbox":"23.165541,46.258148,23.18256,46.269116",
+    "geom:latitude":46.262752,
+    "geom:longitude":23.173218,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3459",
     "gn:asciiname":"Bucium",
@@ -25,11 +25,14 @@
     "gn:population":119,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.1591,46.24402,23.1991,46.28402",
+    "lbl:latitude":46.261526,
+    "lbl:longitude":23.170511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.261526,
+    "mps:longitude":23.170511,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0634\u064a\u0648\u0645"
@@ -71,6 +74,9 @@
         "Bucium"
     ],
     "name:ron_x_preferred":[
+        "Bucium"
+    ],
+    "name:ron_x_variant":[
         "Comuna Bucium"
     ],
     "name:sqi_x_preferred":[
@@ -95,7 +101,11 @@
     "name:zho_x_preferred":[
         "\u5e03\u4e18\u59c6\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,10 +115,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":683576,
+        "ro-ancpi:id":3468,
         "wk:page":"Bucium%2C_Alba"
     },
     "wof:country":"RO",
-    "wof:geomhash":"908219cdf8b73ca42eed84b6cbb00cfe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6e41334bb8c2603c2b84363664003958",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +132,13 @@
         }
     ],
     "wof:id":1309821391,
-    "wof:lastmodified":1566611245,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203763,
     "wof:name":"Bucium",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -130,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.1791,
-    46.26402,
-    23.1791,
-    46.26402
+    23.165541,
+    46.258148,
+    23.18256,
+    46.269116
 ],
-  "geometry": {"coordinates":[23.1791,46.26402],"type":"Point"}
+  "geometry": {"coordinates":[[[23.175564,46.266396],[23.176218,46.266434],[23.176872,46.264588],[23.177597,46.264562],[23.179287,46.267088],[23.182135,46.269116],[23.18256,46.268834],[23.180272,46.266958],[23.179383,46.266032],[23.179083,46.265049],[23.17877,46.264034],[23.178829,46.263746],[23.178894,46.263389],[23.179046,46.263357],[23.17924,46.263317],[23.179334,46.263294],[23.179473,46.263262],[23.179671,46.263201],[23.179215,46.262381],[23.176997,46.262795],[23.176321,46.262764],[23.176163,46.262333],[23.173458,46.26182],[23.173626,46.26144],[23.170583,46.259835],[23.169769,46.260071],[23.168602,46.259214],[23.166866,46.258148],[23.165541,46.259005],[23.166491,46.259923],[23.169092,46.262241],[23.168065,46.263682],[23.168552,46.264268],[23.169416,46.263862],[23.170043,46.263633],[23.170949,46.262789],[23.173121,46.262964],[23.175131,46.264024],[23.17515,46.264334],[23.174884,46.266276],[23.175564,46.266396]]],"type":"Polygon"}
 }

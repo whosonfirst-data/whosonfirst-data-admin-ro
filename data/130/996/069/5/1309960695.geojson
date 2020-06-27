@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.0765,44.43562,23.0765,44.43562",
-    "geom:latitude":44.43562,
-    "geom:longitude":23.0765,
+    "geom:area":0.000043,
+    "geom:area_square_m":377013.244654,
+    "geom:bbox":"23.069232,44.432659,23.079988,44.439008",
+    "geom:latitude":44.435736,
+    "geom:longitude":23.074418,
     "gn:admin1_code":"26",
     "gn:admin2_code":"112806",
     "gn:asciiname":"Biban",
@@ -25,17 +25,25 @@
     "gn:population":172,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.0565,44.41562,23.0965,44.45562",
+    "lbl:latitude":44.43562,
+    "lbl:longitude":23.0765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Biban"
+    ],
     "name:und_x_variant":[
         "Bibanul",
         "Biban"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684940
+        "gn:id":684940,
+        "ro-ancpi:id":112824
     },
     "wof:country":"RO",
-    "wof:geomhash":"29a3ceb91901007482d7d3d7ca6cd0d4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7f055c9b08879c03142fc2c1d787238a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1309960695,
-    "wof:lastmodified":1566611230,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203340,
     "wof:name":"Biban",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.0765,
-    44.43562,
-    23.0765,
-    44.43562
+    23.069232,
+    44.432659,
+    23.079988,
+    44.439008
 ],
-  "geometry": {"coordinates":[23.0765,44.43562],"type":"Point"}
+  "geometry": {"coordinates":[[[23.079988,44.435559],[23.079467,44.434178],[23.078782,44.434312],[23.078593,44.433854],[23.078054,44.432659],[23.06966,44.434335],[23.069995,44.435169],[23.069232,44.435262],[23.069412,44.435752],[23.069824,44.436686],[23.070215,44.437628],[23.070671,44.439008],[23.071562,44.438994],[23.072815,44.438793],[23.073225,44.438594],[23.073177,44.438123],[23.074393,44.43795],[23.075385,44.437671],[23.076146,44.437628],[23.076344,44.437622],[23.078374,44.43712],[23.078248,44.436809],[23.079295,44.436697],[23.079075,44.436157],[23.079988,44.435559]]],"type":"Polygon"}
 }

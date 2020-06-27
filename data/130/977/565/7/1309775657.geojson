@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.90611,44.79288,25.90611,44.79288",
-    "geom:latitude":44.79288,
-    "geom:longitude":25.90611,
+    "geom:area":0.000024,
+    "geom:area_square_m":208918.108867,
+    "geom:bbox":"25.896778,44.792556,25.904949,44.799095",
+    "geom:latitude":44.796086,
+    "geom:longitude":25.901564,
     "gn:admin1_code":"16",
     "gn:admin2_code":"67014.0",
     "gn:asciiname":"Cristeasca",
@@ -25,40 +25,60 @@
     "gn:population":316,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.88611,44.77288,25.92611,44.81288",
+    "lbl:latitude":44.795748,
+    "lbl:longitude":25.901966,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.795748,
+    "mps:longitude":25.901966,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cristeasca"
+    ],
     "name:und_x_variant":[
         "Cristeanca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
-        85687661
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680186
+        "gn:id":680186,
+        "ro-ancpi:id":67050
     },
     "wof:country":"RO",
-    "wof:geomhash":"dc88120e4026fa64a7eaa5e85c740a5c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e195e97b53f9ffc7496f39558e69242e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633745,
             "locality_id":1309775657,
-            "region_id":85687661
+            "region_id":85687637
         }
     ],
     "wof:id":1309775657,
-    "wof:lastmodified":1566611234,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203728,
     "wof:name":"Cristeasca",
-    "wof:parent_id":85687661,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":316,
     "wof:population_rank":2,
@@ -68,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.90611,
-    44.79288,
-    25.90611,
-    44.79288
+    25.896778,
+    44.792556,
+    25.904949,
+    44.799095
 ],
-  "geometry": {"coordinates":[25.90611,44.79288],"type":"Point"}
+  "geometry": {"coordinates":[[[25.904901,44.792871],[25.903995,44.792556],[25.903733,44.793178],[25.90307,44.794782],[25.901953,44.794145],[25.900824,44.793474],[25.900792,44.793456],[25.900639,44.793365],[25.899115,44.794696],[25.899075,44.794732],[25.898903,44.794886],[25.898873,44.794912],[25.898558,44.795194],[25.900034,44.796096],[25.901401,44.796948],[25.898396,44.797905],[25.898353,44.797896],[25.897248,44.797621],[25.897014,44.79807],[25.896971,44.798189],[25.896778,44.798582],[25.898743,44.799095],[25.901189,44.79833],[25.902344,44.797966],[25.902348,44.798452],[25.903637,44.797906],[25.903632,44.79757],[25.904035,44.796626],[25.904611,44.7952],[25.904949,44.794369],[25.904906,44.793936],[25.9048,44.793156],[25.904901,44.792871]]],"type":"Polygon"}
 }

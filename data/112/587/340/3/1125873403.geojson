@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.73722,45.82417,21.73722,45.82417",
-    "geom:latitude":45.82417,
-    "geom:longitude":21.73722,
+    "geom:area":0.000135,
+    "geom:area_square_m":1160435.190657,
+    "geom:bbox":"21.736369,45.816159,21.757128,45.828643",
+    "geom:latitude":45.822159,
+    "geom:longitude":21.746805,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1290,
     "iso:country":"RO",
-    "lbl:bbox":"21.71722,45.80417,21.75722,45.84417",
-    "lbl:latitude":45.82417,
-    "lbl:longitude":21.73722,
+    "lbl:latitude":45.822118,
+    "lbl:longitude":21.746803,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":45.822118,
+    "mps:longitude":21.746803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u063a\u064a\u0632\u064a\u0644\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0445\u0438\u0437\u0435\u043b\u0430"
     ],
@@ -86,8 +90,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":872844,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -103,11 +110,15 @@
         "gn:id":677299,
         "gp:id":872844,
         "qs_pg:id":127608,
+        "ro-ancpi:id":157200,
         "wd:id":"Q1010907"
     },
     "wof:country":"RO",
     "wof:created":1497294413,
-    "wof:geomhash":"36a9e70484e7f62cd5cd81e69be83feb",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"b5839f33fd686e6eab0811885d39a130",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -117,7 +128,13 @@
         }
     ],
     "wof:id":1125873403,
-    "wof:lastmodified":1566611336,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203744,
     "wof:name":"Ghizela",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -129,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.73722,
-    45.82417,
-    21.73722,
-    45.82417
+    21.736369,
+    45.816159,
+    21.757128,
+    45.828643
 ],
-  "geometry": {"coordinates":[21.73722,45.82417],"type":"Point"}
+  "geometry": {"coordinates":[[[21.75123,45.828643],[21.753193,45.826577],[21.754962,45.827146],[21.756133,45.826034],[21.755445,45.825601],[21.754572,45.825214],[21.757128,45.822675],[21.755018,45.821634],[21.753378,45.820878],[21.75343,45.820785],[21.752933,45.820563],[21.750006,45.819285],[21.745524,45.81719],[21.743176,45.816159],[21.742458,45.816877],[21.741251,45.816343],[21.740689,45.816839],[21.73991,45.816478],[21.739038,45.817231],[21.739481,45.817477],[21.738227,45.818757],[21.738577,45.818943],[21.737945,45.819559],[21.737792,45.819715],[21.737761,45.820401],[21.737014,45.821113],[21.736576,45.821551],[21.736369,45.821696],[21.739042,45.822907],[21.742324,45.824408],[21.745186,45.825708],[21.747357,45.8267],[21.749568,45.827802],[21.75123,45.828643]]],"type":"Polygon"}
 }

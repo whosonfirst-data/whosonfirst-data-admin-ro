@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.82383,46.39143,22.82383,46.39143",
-    "geom:latitude":46.39143,
-    "geom:longitude":22.82383,
+    "geom:area":0.000006,
+    "geom:area_square_m":48147.498718,
+    "geom:bbox":"22.80973,46.393392,22.8133,46.396533",
+    "geom:latitude":46.3951,
+    "geom:longitude":22.811546,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577",
     "gn:asciiname":"Avramesti",
@@ -24,13 +24,48 @@
     "gn:population":34,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.80383,46.37143,22.84383,46.41143",
+    "lbl:latitude":46.395218,
+    "lbl:longitude":22.811127,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.395218,
+    "mps:longitude":22.811127,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:epo_x_preferred":[
+        "Avr\u0103me\u015fti"
+    ],
+    "name:hun_x_preferred":[
+        "Szent\u00e1brah\u00e1m"
+    ],
+    "name:ita_x_preferred":[
+        "Avr\u0103me\u015fti"
+    ],
+    "name:nld_x_preferred":[
+        "Avr\u0103me\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Avr\u0103me\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Avr\u0103me\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Avramesti",
+        "Avr\u0103me\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0440\u0435\u043c\u0435\u0448\u0442\u044c"
+    ],
+    "name:vol_x_preferred":[
+        "Avr\u0103me\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +74,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686024
+        "gn:id":686024,
+        "ro-ancpi:id":2602
     },
     "wof:country":"RO",
-    "wof:geomhash":"91b791e29d8791ea2f1dcd8550b7db99",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e4e36a27b22792fb0c70376cc294b3a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +91,14 @@
         }
     ],
     "wof:id":1243085173,
-    "wof:lastmodified":1566611429,
-    "wof:name":"Avramesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203765,
+    "wof:name":"Avr\u0103me\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":34,
@@ -64,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.82383,
-    46.39143,
-    22.82383,
-    46.39143
+    22.80973,
+    46.393392,
+    22.8133,
+    46.396533
 ],
-  "geometry": {"coordinates":[22.82383,46.39143],"type":"Point"}
+  "geometry": {"coordinates":[[[22.8133,46.395942],[22.812026,46.39505],[22.812939,46.394199],[22.81159,46.393392],[22.80973,46.395477],[22.811769,46.396533],[22.8133,46.395942]]],"type":"Polygon"}
 }

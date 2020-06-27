@@ -2,8 +2,9 @@
   "id": 1327207195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.78333,45.86667,25.78333,45.86667",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "name:ace_x_preferred":[
         "Sf\u00e2ntu Gheorghe"
@@ -191,14 +192,16 @@
         }
     ],
     "wof:id":1327207195,
-    "wof:lastmodified":1566609871,
+    "wof:lastmodified":1588368330,
     "wof:name":"Sfantu-Gheorghe",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",
     "wof:population":60677,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101752003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

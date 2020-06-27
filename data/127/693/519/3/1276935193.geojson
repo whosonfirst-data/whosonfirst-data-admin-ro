@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.32768,47.4704,27.32768,47.4704",
-    "geom:latitude":47.4704,
-    "geom:longitude":27.32768,
+    "geom:area":0.000013,
+    "geom:area_square_m":111454.401237,
+    "geom:bbox":"27.319128,47.467031,27.328182,47.474061",
+    "geom:latitude":47.470313,
+    "geom:longitude":27.325599,
     "gn:admin1_code":"23",
     "gn:admin2_code":"95667.0",
     "gn:asciiname":"Iepureni",
@@ -24,22 +24,33 @@
     "gn:population":88,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.30768,47.4504,27.34768,47.4904",
+    "lbl:latitude":47.4704,
+    "lbl:longitude":27.32768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Iepureni"
     ],
+    "name:por_x_preferred":[
+        "Rio Epureni"
+    ],
     "name:ron_x_preferred":[
         "Iepureni"
+    ],
+    "name:ron_x_variant":[
+        "R\u00e2ul Epureni"
     ],
     "name:srp_x_preferred":[
         "\u0408\u0435\u043f\u0443\u0440\u0435\u043d\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678560
+        "gn:id":678560,
+        "ro-ancpi:id":95729
     },
     "wof:country":"RO",
-    "wof:geomhash":"e66d736b88f99d7a5fea84da142bc015",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aed25ea0308bea65c9de35990d33b4c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +76,13 @@
         }
     ],
     "wof:id":1276935193,
-    "wof:lastmodified":1566610199,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203373,
     "wof:name":"Iepureni",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
@@ -73,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.32768,
-    47.4704,
-    27.32768,
-    47.4704
+    27.319128,
+    47.467031,
+    27.328182,
+    47.474061
 ],
-  "geometry": {"coordinates":[27.32768,47.4704],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.328064,47.468266],[27.327142,47.467606],[27.327216,47.467482],[27.327254,47.467435],[27.326485,47.467031],[27.325778,47.467894],[27.325535,47.46784],[27.325248,47.468269],[27.326005,47.468588],[27.325297,47.469207],[27.325363,47.469455],[27.324817,47.470329],[27.324338,47.471625],[27.324864,47.471833],[27.324838,47.471865],[27.32445,47.47227],[27.326314,47.472613],[27.326673,47.471242],[27.327644,47.470662],[27.327999,47.470364],[27.327707,47.470136],[27.32811,47.469518],[27.327605,47.46927],[27.328182,47.468658],[27.327867,47.468494],[27.328064,47.468266]]],[[[27.320922,47.473051],[27.319561,47.472862],[27.319128,47.473873],[27.32052,47.474061],[27.320922,47.473051]]]],"type":"MultiPolygon"}
 }

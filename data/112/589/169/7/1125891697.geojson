@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.9,45.91667,23.9,45.91667",
-    "geom:latitude":45.91667,
-    "geom:longitude":23.9,
+    "geom:area":0.000102,
+    "geom:area_square_m":874270.210778,
+    "geom:bbox":"23.888948,45.917768,23.910771,45.93289",
+    "geom:latitude":45.92501,
+    "geom:longitude":23.900284,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":786,
     "iso:country":"RO",
-    "lbl:bbox":"23.88,45.89667,23.92,45.93667",
-    "lbl:latitude":45.91667,
-    "lbl:longitude":23.9,
+    "lbl:latitude":45.926257,
+    "lbl:longitude":23.898466,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.926257,
+    "mps:longitude":23.898466,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u062f\u0648\u0634"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0434\u043e\u0448"
     ],
@@ -53,6 +57,9 @@
         "Ludo\u0219"
     ],
     "name:ron_x_preferred":[
+        "Ludo\u015f"
+    ],
+    "name:ron_x_variant":[
         "Ludo\u0219"
     ],
     "name:srp_x_preferred":[
@@ -81,8 +88,11 @@
     "qs_pg:pop_sr":2,
     "qs_pg:qs_id":1027750,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -93,11 +103,15 @@
     "wof:concordances":{
         "gn:id":674544,
         "qs_pg:id":1027750,
+        "ro-ancpi:id":144875,
         "wd:id":"Q1077551"
     },
     "wof:country":"RO",
     "wof:created":1497295349,
-    "wof:geomhash":"8046df542c88ef53bda69c8f1c3c9fd3",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"b22cf456df734178def74fbef32a349b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +121,13 @@
         }
     ],
     "wof:id":1125891697,
-    "wof:lastmodified":1566611323,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203657,
     "wof:name":"Ludo\u015f",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -119,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.9,
-    45.91667,
-    23.9,
-    45.91667
+    23.888948,
+    45.917768,
+    23.910771,
+    45.93289
 ],
-  "geometry": {"coordinates":[23.9,45.91667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.900214,45.93276],[23.90055,45.930724],[23.902052,45.927899],[23.902925,45.928026],[23.904133,45.928257],[23.904468,45.927678],[23.905638,45.92571],[23.909704,45.926896],[23.910771,45.925269],[23.906961,45.924208],[23.906306,45.922608],[23.907497,45.92127],[23.906656,45.920859],[23.90597,45.920541],[23.905515,45.920156],[23.907161,45.918263],[23.905828,45.917768],[23.903725,45.920393],[23.902992,45.921541],[23.900929,45.92087],[23.900373,45.921794],[23.903791,45.923146],[23.902866,45.924084],[23.901697,45.924734],[23.899618,45.924121],[23.897373,45.923641],[23.896656,45.9231],[23.897196,45.922789],[23.896876,45.922585],[23.895408,45.921796],[23.894199,45.920879],[23.893354,45.920299],[23.891756,45.920242],[23.89165,45.920967],[23.890025,45.920873],[23.888948,45.921413],[23.888951,45.92192],[23.89265,45.922739],[23.893849,45.924121],[23.894338,45.925551],[23.893728,45.927432],[23.898516,45.928653],[23.89799,45.931371],[23.898306,45.931568],[23.898226,45.932068],[23.897838,45.93289],[23.900214,45.93276]]],"type":"Polygon"}
 }

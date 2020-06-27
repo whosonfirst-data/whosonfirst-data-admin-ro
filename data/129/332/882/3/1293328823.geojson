@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.85678,44.92045,23.85678,44.92045",
-    "geom:latitude":44.92045,
-    "geom:longitude":23.85678,
+    "geom:area":0.000003,
+    "geom:area_square_m":29497.372752,
+    "geom:bbox":"23.858236,44.927032,23.864194,44.928293",
+    "geom:latitude":44.927585,
+    "geom:longitude":23.861049,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172992.0",
     "gn:asciiname":"Dealu Bisericii",
@@ -24,16 +24,26 @@
     "gn:population":352,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.83678,44.90045,23.87678,44.94045",
+    "lbl:latitude":44.927822,
+    "lbl:longitude":23.859808,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.927822,
+    "mps:longitude":23.859808,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dealu Bisericii"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0430\u043b\u0443 \u0411\u0438\u0441\u0435\u0440\u0438\u0447\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679671
+        "gn:id":679671,
+        "ro-ancpi:id":173025
     },
     "wof:country":"RO",
-    "wof:geomhash":"8b60d285e24c925bcc1d5216ef894db3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd2dec37b46f1a3adfe6256f2dd141a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +69,13 @@
         }
     ],
     "wof:id":1293328823,
-    "wof:lastmodified":1566610096,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
     "wof:name":"Dealu Bisericii",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -67,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.85678,
-    44.92045,
-    23.85678,
-    44.92045
+    23.858236,
+    44.927032,
+    23.864194,
+    44.928293
 ],
-  "geometry": {"coordinates":[23.85678,44.92045],"type":"Point"}
+  "geometry": {"coordinates":[[[23.860181,44.928293],[23.86024,44.927789],[23.860909,44.927713],[23.860925,44.92817],[23.861586,44.928177],[23.861626,44.927706],[23.864194,44.927422],[23.864166,44.927032],[23.861229,44.927238],[23.858236,44.927487],[23.858282,44.927889],[23.859342,44.927841],[23.859394,44.928281],[23.860181,44.928293]]],"type":"Polygon"}
 }

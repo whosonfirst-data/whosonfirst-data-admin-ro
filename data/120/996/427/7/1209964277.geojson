@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.03977,46.41133,24.03977,46.41133",
-    "geom:latitude":46.41133,
-    "geom:longitude":24.03977,
+    "geom:area":0.000004,
+    "geom:area_square_m":37399.245342,
+    "geom:bbox":"24.05149,46.407156,24.055865,46.410663",
+    "geom:latitude":46.408896,
+    "geom:longitude":24.053906,
     "gn:admin1_code":"27",
     "gn:admin2_code":"115236.0",
     "gn:asciiname":"Maldaoci",
@@ -24,13 +24,23 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.01977,46.39133,24.05977,46.43133",
+    "lbl:latitude":46.408346,
+    "lbl:longitude":24.054851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.408346,
+    "mps:longitude":24.054851,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Maldaoci"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674028
+        "gn:id":674028,
+        "ro-ancpi:id":115281
     },
     "wof:country":"RO",
-    "wof:geomhash":"9522b2c2c750cb88a764f38d0b332f76",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a46b8afc653107fb11189021e0e8a617",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +65,13 @@
         }
     ],
     "wof:id":1209964277,
-    "wof:lastmodified":1566610290,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203448,
     "wof:name":"Maldaoci",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -61,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.03977,
-    46.41133,
-    24.03977,
-    46.41133
+    24.05149,
+    46.407156,
+    24.055865,
+    46.410663
 ],
-  "geometry": {"coordinates":[24.03977,46.41133],"type":"Point"}
+  "geometry": {"coordinates":[[[24.053689,46.409802],[24.055865,46.408552],[24.05468,46.407156],[24.053934,46.40766],[24.053692,46.407475],[24.053347,46.40772],[24.05428,46.408421],[24.053966,46.409098],[24.053391,46.409538],[24.052676,46.409388],[24.052067,46.409645],[24.051874,46.409878],[24.05149,46.410189],[24.051898,46.410663],[24.053689,46.409802]]],"type":"Polygon"}
 }

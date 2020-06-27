@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.45944,47.26467,26.45944,47.26467",
-    "geom:latitude":47.26467,
-    "geom:longitude":26.45944,
+    "geom:area":0.000139,
+    "geom:area_square_m":1166804.665899,
+    "geom:bbox":"26.45764,47.261959,26.486696,47.275032",
+    "geom:latitude":47.268713,
+    "geom:longitude":26.471803,
     "gn:admin1_code":"28",
     "gn:admin2_code":"123914.0",
     "gn:asciiname":"Ungheni",
@@ -24,11 +24,12 @@
     "gn:population":571,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.43944,47.24467,26.47944,47.28467",
+    "lbl:latitude":47.26467,
+    "lbl:longitude":26.45944,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0423\u043d\u0433\u0435\u043d\u044c"
@@ -52,6 +53,9 @@
         "Ungheni"
     ],
     "name:deu_x_preferred":[
+        "Ungheni"
+    ],
+    "name:eus_x_preferred":[
         "Ungheni"
     ],
     "name:fin_x_preferred":[
@@ -120,7 +124,11 @@
     "name:zho_x_preferred":[
         "\u6eab\u683c\u5167"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -129,10 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664270
+        "gn:id":664270,
+        "ro-ancpi:id":123950
     },
     "wof:country":"RO",
-    "wof:geomhash":"5bf90f1960f4fc990b17b12d3a7df4f1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8da5d6ef2edf34327a9b239ba3f6b56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +154,13 @@
         }
     ],
     "wof:id":1260339413,
-    "wof:lastmodified":1566610507,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203561,
     "wof:name":"Ungheni",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",
@@ -154,10 +172,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.45944,
-    47.26467,
-    26.45944,
-    47.26467
+    26.45764,
+    47.261959,
+    26.486696,
+    47.275032
 ],
-  "geometry": {"coordinates":[26.45944,47.26467],"type":"Point"}
+  "geometry": {"coordinates":[[[26.459896,47.263105],[26.45764,47.265029],[26.459202,47.265711],[26.460584,47.266404],[26.462892,47.267367],[26.465622,47.269094],[26.467489,47.270223],[26.470602,47.27166],[26.471476,47.271979],[26.47212,47.272025],[26.472951,47.272219],[26.473713,47.272736],[26.474814,47.274417],[26.475396,47.274798],[26.475691,47.274909],[26.476994,47.274001],[26.477714,47.273923],[26.47901,47.27274],[26.483954,47.275032],[26.484454,47.2743],[26.48574,47.274937],[26.486696,47.274083],[26.485807,47.273637],[26.485058,47.273548],[26.485845,47.272376],[26.483643,47.271358],[26.482207,47.270725],[26.477718,47.268335],[26.473746,47.265995],[26.473242,47.266369],[26.470281,47.264821],[26.463102,47.261959],[26.461671,47.263603],[26.460104,47.262927],[26.459896,47.263105]]],"type":"Polygon"}
 }

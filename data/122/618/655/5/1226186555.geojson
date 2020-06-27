@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.91212,45.63717,20.91212,45.63717",
-    "geom:latitude":45.63717,
-    "geom:longitude":20.91212,
+    "geom:area":0.0001,
+    "geom:area_square_m":863643.941053,
+    "geom:bbox":"20.89772,45.630372,20.922936,45.64232",
+    "geom:latitude":45.636477,
+    "geom:longitude":20.908417,
     "gn:admin1_code":"36",
     "gn:admin2_code":"159142.0",
     "gn:asciiname":"Sanmartinu Maghiar",
@@ -25,12 +25,19 @@
     "gn:population":260,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"20.89212,45.61717,20.93212,45.65717",
+    "lbl:latitude":45.63717,
+    "lbl:longitude":20.91212,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u00e2nmartinu Maghiar"
+    ],
+    "name:ron_x_variant":[
+        "Sanmartinu Maghiar"
+    ],
     "name:und_x_variant":[
         "Magyarszentm\u00e1rton",
         "S\u00e2nmartinul-Maghiar",
@@ -38,7 +45,11 @@
         "S\u00eenmartinul Maghiar",
         "S\u00e2nmartinu Maghiar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666996
+        "gn:id":666996,
+        "ro-ancpi:id":159204
     },
     "wof:country":"RO",
-    "wof:geomhash":"fbc58684e20dcbfdb5bb6b0c074f83a4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c70958ca875c7fe43c7e1b378759da52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +75,14 @@
         }
     ],
     "wof:id":1226186555,
-    "wof:lastmodified":1566611627,
-    "wof:name":"Sanmartinu Maghiar",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203746,
+    "wof:name":"S\u00e2nmartinu Maghiar",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":260,
@@ -72,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.91212,
-    45.63717000000001,
-    20.91212,
-    45.63717000000001
+    20.89772,
+    45.630372,
+    20.922936,
+    45.64232
 ],
-  "geometry": {"coordinates":[20.91212,45.63717000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[20.921353,45.641133],[20.921481,45.641012],[20.921759,45.64117],[20.922371,45.640547],[20.922466,45.640566],[20.922936,45.640104],[20.92253,45.639857],[20.921093,45.639248],[20.920329,45.638935],[20.917286,45.637725],[20.915188,45.636907],[20.913054,45.636069],[20.910153,45.634943],[20.91063,45.634318],[20.909295,45.633822],[20.909451,45.633692],[20.909173,45.633591],[20.907443,45.63291],[20.90677,45.633685],[20.903431,45.632387],[20.900258,45.631176],[20.898168,45.630372],[20.897862,45.632552],[20.897737,45.633625],[20.89772,45.634586],[20.90245,45.636347],[20.901727,45.637256],[20.901969,45.637332],[20.900832,45.638714],[20.904171,45.639931],[20.906371,45.637183],[20.907356,45.637561],[20.907695,45.637193],[20.912689,45.639133],[20.920427,45.64232],[20.920876,45.641757],[20.921353,45.641133]]],"type":"Polygon"}
 }

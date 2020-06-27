@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.76011,46.81924,27.76011,46.81924",
-    "geom:latitude":46.81924,
-    "geom:longitude":27.76011,
+    "geom:area":0.000031,
+    "geom:area_square_m":260326.014076,
+    "geom:bbox":"27.754972,46.81506,27.763724,46.823626",
+    "geom:latitude":46.818948,
+    "geom:longitude":27.75918,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165899.0",
     "gn:asciiname":"Iaz",
@@ -24,11 +24,12 @@
     "gn:population":322,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.74011,46.79924,27.78011,46.83924",
+    "lbl:latitude":46.81924,
+    "lbl:longitude":27.76011,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Iaz"
@@ -42,7 +43,11 @@
     "name:ron_x_preferred":[
         "Iaz"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675802
+        "gn:id":675802,
+        "ro-ancpi:id":165924
     },
     "wof:country":"RO",
-    "wof:geomhash":"03b9532c82e358c81397946bd4b8ac05",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"436b6c6d06bb57802b21c272d3670ff0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,13 @@
         }
     ],
     "wof:id":1259421533,
-    "wof:lastmodified":1566611596,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203478,
     "wof:name":"Iaz",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -76,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.76011,
-    46.81924,
-    27.76011,
-    46.81924
+    27.754972,
+    46.81506,
+    27.763724,
+    46.823626
 ],
-  "geometry": {"coordinates":[27.76011,46.81924],"type":"Point"}
+  "geometry": {"coordinates":[[[27.763724,46.815706],[27.762419,46.81506],[27.7616,46.815948],[27.761734,46.816153],[27.761662,46.816279],[27.761256,46.816281],[27.760737,46.816687],[27.76006,46.816965],[27.759692,46.817399],[27.759335,46.817245],[27.759877,46.816117],[27.760757,46.815852],[27.760544,46.815374],[27.759772,46.815555],[27.759319,46.815829],[27.758499,46.816854],[27.75838,46.817258],[27.757547,46.816929],[27.755989,46.818436],[27.755965,46.818657],[27.755008,46.81951],[27.754972,46.819945],[27.755197,46.820261],[27.755362,46.82047],[27.75573,46.82063],[27.756271,46.820638],[27.756901,46.820539],[27.757176,46.82065],[27.757453,46.821972],[27.758474,46.822203],[27.759025,46.822991],[27.759291,46.823604],[27.760034,46.823626],[27.759667,46.822349],[27.76159,46.818643],[27.763724,46.815706]]],"type":"Polygon"}
 }

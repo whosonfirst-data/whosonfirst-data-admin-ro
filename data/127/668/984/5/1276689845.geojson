@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91104,45.13587,23.91104,45.13587",
-    "geom:latitude":45.13587,
-    "geom:longitude":23.91104,
+    "geom:area":0.000032,
+    "geom:area_square_m":278933.45717,
+    "geom:bbox":"23.907438,45.133719,23.919941,45.143079",
+    "geom:latitude":45.138526,
+    "geom:longitude":23.913647,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173061.0",
     "gn:asciiname":"Coasta Cerbului",
@@ -25,17 +25,25 @@
     "gn:population":228,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.89104,45.11587,23.93104,45.15587",
+    "lbl:latitude":45.13587,
+    "lbl:longitude":23.91104,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Coasta Cerbului"
+    ],
     "name:und_x_variant":[
         "Coasta Corbului",
         "Coasta Cerbului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681270
+        "gn:id":681270,
+        "ro-ancpi:id":173089
     },
     "wof:country":"RO",
-    "wof:geomhash":"427eb38c3bd2349b49ad6c70ec152d1f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"da15031d559860e42cbe3f7e693b30a3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1276689845,
-    "wof:lastmodified":1566610208,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203683,
     "wof:name":"Coasta Cerbului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.91104,
-    45.13587,
-    23.91104,
-    45.13587
+    23.907438,
+    45.133719,
+    23.919941,
+    45.143079
 ],
-  "geometry": {"coordinates":[23.91104,45.13587],"type":"Point"}
+  "geometry": {"coordinates":[[[23.910995,45.135187],[23.910075,45.134748],[23.908451,45.133719],[23.907495,45.134032],[23.909268,45.136407],[23.907438,45.136584],[23.907532,45.137185],[23.909002,45.137067],[23.914473,45.140225],[23.917924,45.143079],[23.919941,45.142778],[23.918515,45.140204],[23.914575,45.13776],[23.910995,45.135187]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.72537,44.84411,22.72537,44.84411",
-    "geom:latitude":44.84411,
-    "geom:longitude":22.72537,
+    "geom:area":0.000007,
+    "geom:area_square_m":61035.216773,
+    "geom:bbox":"22.721038,44.842154,22.725291,44.845404",
+    "geom:latitude":44.843964,
+    "geom:longitude":22.723442,
     "gn:admin1_code":"26",
     "gn:admin2_code":"112263.0",
     "gn:asciiname":"Firizu",
@@ -25,17 +25,27 @@
     "gn:population":84,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.70537,44.82411,22.74537,44.86411",
+    "lbl:latitude":44.843947,
+    "lbl:longitude":22.723442,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.843947,
+    "mps:longitude":22.723442,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Firizu"
+    ],
     "name:und_x_variant":[
         "Frizul",
         "Firizu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678121
+        "gn:id":678121,
+        "ro-ancpi:id":112316
     },
     "wof:country":"RO",
-    "wof:geomhash":"5c00ba5bf4d8de9984d60174447ddcb5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8e72ea06aeefcc77ac61af8a1f2fa169",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1292955603,
-    "wof:lastmodified":1566610052,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203335,
     "wof:name":"Firizu",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.72537,
-    44.84411,
-    22.72537,
-    44.84411
+    22.721038,
+    44.842154,
+    22.725291,
+    44.845404
 ],
-  "geometry": {"coordinates":[22.72537,44.84411],"type":"Point"}
+  "geometry": {"coordinates":[[[22.723079,44.844879],[22.723272,44.844652],[22.724291,44.845033],[22.724469,44.844871],[22.724549,44.844783],[22.724635,44.844683],[22.72475,44.844549],[22.724843,44.844421],[22.724951,44.844227],[22.725065,44.844029],[22.725115,44.843859],[22.72514,44.843712],[22.725153,44.843582],[22.725168,44.843409],[22.725181,44.843215],[22.725189,44.84309],[22.725208,44.842875],[22.725239,44.842653],[22.725267,44.842457],[22.725291,44.842292],[22.724752,44.842154],[22.724599,44.842314],[22.724392,44.842256],[22.723543,44.843212],[22.722922,44.843006],[22.722543,44.843769],[22.722492,44.844155],[22.722105,44.844227],[22.721182,44.844039],[22.721038,44.844067],[22.721266,44.845404],[22.721792,44.845355],[22.722152,44.845299],[22.722692,44.845139],[22.722877,44.845034],[22.723079,44.844879]]],"type":"Polygon"}
 }

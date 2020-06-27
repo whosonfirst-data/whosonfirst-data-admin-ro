@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.81617,44.53767,22.81617,44.53767",
-    "geom:latitude":44.53767,
-    "geom:longitude":22.81617,
+    "geom:area":0.000015,
+    "geom:area_square_m":135228.022498,
+    "geom:bbox":"22.811809,44.53485,22.816596,44.54102",
+    "geom:latitude":44.537556,
+    "geom:longitude":22.814229,
     "gn:admin1_code":"26",
     "gn:admin2_code":"112076.0",
     "gn:asciiname":"Carjei",
@@ -25,17 +25,30 @@
     "gn:population":50,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.79617,44.51767,22.83617,44.55767",
+    "lbl:latitude":44.537719,
+    "lbl:longitude":22.814266,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.537719,
+    "mps:longitude":22.814266,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u00e2rjei"
+    ],
+    "name:ron_x_variant":[
+        "Carjei"
+    ],
     "name:und_x_variant":[
         "C\u00eerjei",
         "C\u00e2rjei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681581
+        "gn:id":681581,
+        "ro-ancpi:id":112101
     },
     "wof:country":"RO",
-    "wof:geomhash":"1ee1757ec4868cdbe9336d9b4f4f4577",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2f2e8622233e8ed4e83f69ed9460ab3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1243129101,
-    "wof:lastmodified":1566611469,
-    "wof:name":"Carjei",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203342,
+    "wof:name":"C\u00e2rjei",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":50,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.81617,
-    44.53767,
-    22.81617,
-    44.53767
+    22.811809,
+    44.53485,
+    22.816596,
+    44.54102
 ],
-  "geometry": {"coordinates":[22.81617,44.53767],"type":"Point"}
+  "geometry": {"coordinates":[[[22.816077,44.540892],[22.815902,44.540037],[22.814614,44.540146],[22.814476,44.539159],[22.815849,44.538971],[22.815808,44.538419],[22.815856,44.538265],[22.815729,44.537241],[22.815367,44.536679],[22.81539,44.535791],[22.816596,44.535667],[22.816566,44.535355],[22.815403,44.535458],[22.815181,44.535025],[22.81495,44.53485],[22.812357,44.534963],[22.811809,44.535226],[22.812001,44.535622],[22.812456,44.535576],[22.812575,44.536315],[22.813386,44.536211],[22.81295,44.537312],[22.81269,44.538181],[22.812595,44.538779],[22.812917,44.538764],[22.813077,44.539454],[22.813306,44.539962],[22.8137,44.54052],[22.814309,44.540562],[22.81432,44.540814],[22.815256,44.540706],[22.81541,44.54102],[22.816077,44.540892]]],"type":"Polygon"}
 }

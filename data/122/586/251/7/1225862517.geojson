@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.8807,46.38061,22.8807,46.38061",
-    "geom:latitude":46.38061,
-    "geom:longitude":22.8807,
+    "geom:area":0.000009,
+    "geom:area_square_m":76589.043341,
+    "geom:bbox":"22.871664,46.373824,22.878882,46.378778",
+    "geom:latitude":46.376622,
+    "geom:longitude":22.874085,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Jeflesti",
@@ -24,13 +24,26 @@
     "gn:population":34,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.8607,46.36061,22.9007,46.40061",
+    "lbl:latitude":46.376217,
+    "lbl:longitude":22.872571,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.376217,
+    "mps:longitude":22.872571,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Jefle\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Jeflesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675286
+        "gn:id":675286,
+        "ro-ancpi:id":8602
     },
     "wof:country":"RO",
-    "wof:geomhash":"60612fc5ffc2aa640cd55e0421e0e9d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29824b7fb7e6aa6acfa95c964b03e07f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1225862517,
-    "wof:lastmodified":1566611653,
-    "wof:name":"Jeflesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203769,
+    "wof:name":"Jefle\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":34,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.8807,
-    46.38061,
-    22.8807,
-    46.38061
+    22.871664,
+    46.373824,
+    22.878882,
+    46.378778
 ],
-  "geometry": {"coordinates":[22.8807,46.38061],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.873044,46.374418],[22.871884,46.373824],[22.871664,46.376531],[22.872002,46.377022],[22.872728,46.377977],[22.87405,46.378363],[22.874351,46.377171],[22.873363,46.376461],[22.873413,46.375076],[22.873044,46.374418]]],[[[22.87821,46.376747],[22.877772,46.376636],[22.877256,46.377137],[22.877447,46.378778],[22.878882,46.378341],[22.878524,46.377575],[22.87821,46.376747]]]],"type":"MultiPolygon"}
 }

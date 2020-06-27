@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.598653,
-    "geom:area_square_m":4966723240.943741,
+    "geom:area_square_m":4966723396.733788,
     "geom:bbox":"26.098473,47.438224,27.387424,48.265152",
     "geom:latitude":47.858845,
     "geom:longitude":26.761824,
@@ -94,6 +94,9 @@
     "name:est_x_preferred":[
         "Boto\u0219ani"
     ],
+    "name:eus_x_preferred":[
+        "Boto\u0219ani"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u062a\u0648\u0634\u0646"
     ],
@@ -103,11 +106,17 @@
     "name:fra_x_preferred":[
         "Boto\u0219ani"
     ],
+    "name:gle_x_preferred":[
+        "Boto\u0219ani"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a9f\u0acb\u0ab8\u0aa8\u0ac0"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d8\u05d5\u05e9\u05e0\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d5\u05d8\u05d5\u05e9\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u091f\u0938\u093e\u0928\u0940"
@@ -211,6 +220,12 @@
     "name:sqi_x_preferred":[
         "Boto\u0219ani"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0411\u043e\u0442\u043e\u0448\u0430\u043d\u0438"
+    ],
+    "name:srp_el_x_preferred":[
+        "Boto\u0161ani"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043e\u0442\u043e\u0448\u0430\u043d\u0438"
     ],
@@ -249,6 +264,18 @@
     ],
     "name:war_x_preferred":[
         "Boto\u0219ani"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u535a\u6258\u6c99\u5c3c"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u535a\u6258\u6c99\u5c3c"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u535a\u6258\u6c99\u5c3c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u535a\u6258\u6c99\u5c3c"
     ],
     "name:zho_x_preferred":[
         "\u535a\u6258\u6c99\u5c3c"
@@ -371,7 +398,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1585864408,
+    "wof:lastmodified":1589226430,
     "wof:name":"Boto\u015fani",
     "wof:parent_id":85633745,
     "wof:placetype":"region",

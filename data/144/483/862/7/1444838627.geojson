@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.6063647899,46.7952575674,23.6063647899,46.7952575674",
+    "geom:bbox":"23.606365,46.795258,23.606365,46.795258",
     "geom:latitude":46.795258,
     "geom:longitude":23.606365,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101752019,
         85633745,
+        101752019,
         85687727
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"72afd4f610a96c2565522e0e26fceee0",
+    "wof:geomhash":"69206717bd2a35f1e848cde812a08c7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838627,
-    "wof:lastmodified":1566610408,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208076,
     "wof:name":"Iris",
     "wof:parent_id":101752019,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.60636478986211,
-    46.79525756741579,
-    23.60636478986211,
-    46.79525756741579
+    23.606365,
+    46.795258,
+    23.606365,
+    46.795258
 ],
-  "geometry": {"coordinates":[23.60636478986211,46.79525756741579],"type":"Point"}
+  "geometry": {"coordinates":[23.606365,46.795258],"type":"Point"}
 }

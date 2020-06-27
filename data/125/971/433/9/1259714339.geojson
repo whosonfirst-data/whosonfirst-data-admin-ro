@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.12351,44.67342,24.12351,44.67342",
-    "geom:latitude":44.67342,
-    "geom:longitude":24.12351,
+    "geom:area":0.000064,
+    "geom:area_square_m":566704.333915,
+    "geom:bbox":"24.118041,44.661164,24.131469,44.691831",
+    "geom:latitude":44.675845,
+    "geom:longitude":24.123654,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171209",
     "gn:asciiname":"Balsoara",
@@ -24,13 +24,26 @@
     "gn:population":468,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.10351,44.65342,24.14351,44.69342",
+    "lbl:latitude":44.674923,
+    "lbl:longitude":24.122637,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.674923,
+    "mps:longitude":24.122637,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103l\u015foara"
+    ],
+    "name:ron_x_variant":[
+        "Balsoara"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685580
+        "gn:id":685580,
+        "ro-ancpi:id":171227
     },
     "wof:country":"RO",
-    "wof:geomhash":"aaa1d877f1d8c98a915f4435f4a5cc7b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8e23c070aff4245f5834c184930c167d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1259714339,
-    "wof:lastmodified":1566611565,
-    "wof:name":"Balsoara",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"B\u0103l\u015foara",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":468,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12351,
-    44.67342,
-    24.12351,
-    44.67342
+    24.118041,
+    44.661164,
+    24.131469,
+    44.691831
 ],
-  "geometry": {"coordinates":[24.12351,44.67342],"type":"Point"}
+  "geometry": {"coordinates":[[[24.127755,44.681821],[24.127187,44.680783],[24.126642,44.680836],[24.126007,44.680257],[24.125183,44.678886],[24.124376,44.678966],[24.123785,44.678186],[24.123845,44.676894],[24.124002,44.675818],[24.124444,44.675836],[24.124516,44.675119],[24.123445,44.674048],[24.123129,44.672337],[24.122207,44.669486],[24.12009,44.66845],[24.119802,44.667543],[24.121986,44.665507],[24.121791,44.66506],[24.120217,44.665378],[24.12004,44.66509],[24.121535,44.663436],[24.122998,44.661164],[24.121589,44.661196],[24.118661,44.664504],[24.118091,44.666252],[24.118041,44.668219],[24.118986,44.669576],[24.119751,44.66951],[24.1209,44.670697],[24.120553,44.671067],[24.121515,44.675268],[24.121789,44.677079],[24.122036,44.678015],[24.123194,44.679976],[24.12556,44.683226],[24.126543,44.684712],[24.127717,44.685626],[24.128959,44.688651],[24.129757,44.691831],[24.131469,44.691772],[24.130448,44.68872],[24.128735,44.684859],[24.127178,44.682707],[24.127249,44.68199],[24.127755,44.681821]]],"type":"Polygon"}
 }

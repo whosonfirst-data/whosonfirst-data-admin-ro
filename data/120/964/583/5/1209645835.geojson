@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.05198,47.30587,23.05198,47.30587",
-    "geom:latitude":47.30587,
-    "geom:longitude":23.05198,
+    "geom:area":0.000054,
+    "geom:area_square_m":449720.686247,
+    "geom:bbox":"23.042493,47.303087,23.059096,47.313117",
+    "geom:latitude":47.306608,
+    "geom:longitude":23.049535,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141376",
     "gn:asciiname":"Bocsita",
@@ -24,33 +24,58 @@
     "gn:population":157,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.03198,47.28587,23.07198,47.32587",
+    "lbl:latitude":47.30587,
+    "lbl:longitude":23.05198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Boc\u015fi\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Bocsita"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687723
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684478
+        "gn:id":684478,
+        "ro-ancpi:id":141401
     },
     "wof:country":"RO",
-    "wof:geomhash":"c5cbc5f4819b9c8ad82a6d94fb6f43f5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"88d32ec2c3f7f3526c917eacd821e48d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209645835
+            "locality_id":1209645835,
+            "region_id":85687723
         }
     ],
     "wof:id":1209645835,
-    "wof:lastmodified":1566610306,
-    "wof:name":"Bocsita",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203529,
+    "wof:name":"Boc\u015fi\u0163a",
+    "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":157,
     "wof:population_rank":1,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.05198,
-    47.30587,
-    23.05198,
-    47.30587
+    23.042493,
+    47.303087,
+    23.059096,
+    47.313117
 ],
-  "geometry": {"coordinates":[23.05198,47.30587],"type":"Point"}
+  "geometry": {"coordinates":[[[23.048155,47.311713],[23.048338,47.306818],[23.052064,47.306366],[23.052379,47.306838],[23.053869,47.306568],[23.057062,47.305566],[23.058577,47.304925],[23.058971,47.304404],[23.059096,47.303406],[23.058106,47.303183],[23.057549,47.30327],[23.056747,47.303133],[23.055634,47.303328],[23.054978,47.303289],[23.054824,47.303924],[23.051495,47.304597],[23.050281,47.304663],[23.05026,47.303921],[23.049041,47.303918],[23.049021,47.304656],[23.048198,47.304633],[23.048198,47.304997],[23.046724,47.304999],[23.046727,47.303096],[23.045863,47.303087],[23.045862,47.304225],[23.044662,47.304219],[23.044376,47.305715],[23.044042,47.307668],[23.044136,47.308343],[23.042493,47.309506],[23.042686,47.310034],[23.043633,47.309769],[23.043631,47.309837],[23.04361,47.310406],[23.04366,47.310702],[23.04396,47.311303],[23.044986,47.311094],[23.044942,47.309825],[23.047067,47.309614],[23.04698,47.3106],[23.046997,47.311519],[23.047258,47.312093],[23.047823,47.31263],[23.048219,47.313117],[23.04911,47.312731],[23.048155,47.311713]]],"type":"Polygon"}
 }

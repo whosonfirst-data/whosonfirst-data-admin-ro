@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.87516,46.64399,22.87516,46.64399",
-    "geom:latitude":46.64399,
-    "geom:longitude":22.87516,
+    "geom:area":0.000086,
+    "geom:area_square_m":731941.026105,
+    "geom:bbox":"22.867728,46.638955,22.884587,46.646281",
+    "geom:latitude":46.642684,
+    "geom:longitude":22.875648,
     "gn:admin1_code":"13",
     "gn:admin2_code":"56014.0",
     "gn:asciiname":"Smida",
@@ -24,13 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.85516,46.62399,22.89516,46.66399",
+    "lbl:latitude":46.64399,
+    "lbl:longitude":22.87516,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Smida"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +46,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666633
+        "gn:id":666633,
+        "ro-ancpi:id":56087
     },
     "wof:country":"RO",
-    "wof:geomhash":"62bbffcc8a39df47e76b09d5abf6d8c7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"607764e1cc7c6fa486e1cdb65435dc7c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +63,13 @@
         }
     ],
     "wof:id":1293369591,
-    "wof:lastmodified":1566610029,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203412,
     "wof:name":"Smida",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
@@ -61,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.87516,
-    46.64399,
-    22.87516,
-    46.64399
+    22.867728,
+    46.638955,
+    22.884587,
+    46.646281
 ],
-  "geometry": {"coordinates":[22.87516,46.64399],"type":"Point"}
+  "geometry": {"coordinates":[[[22.869769,46.646281],[22.870236,46.645813],[22.87425,46.64598],[22.875496,46.645043],[22.877318,46.645654],[22.878269,46.645999],[22.88062,46.645644],[22.881589,46.64483],[22.882525,46.643464],[22.8837,46.642555],[22.884472,46.641909],[22.884587,46.641346],[22.883012,46.640634],[22.882075,46.640046],[22.881256,46.63941],[22.878548,46.639201],[22.878337,46.639532],[22.87743,46.640002],[22.877373,46.640032],[22.872663,46.640008],[22.873293,46.640971],[22.87262,46.64112],[22.872108,46.640662],[22.871915,46.640032],[22.871193,46.639009],[22.86928,46.638955],[22.868406,46.644021],[22.867846,46.644703],[22.867728,46.645637],[22.868931,46.645845],[22.869769,46.646281]]],"type":"Polygon"}
 }

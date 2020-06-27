@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.00775,45.17388,25.00775,45.17388",
-    "geom:latitude":45.17388,
-    "geom:longitude":25.00775,
+    "geom:area":0.000003,
+    "geom:area_square_m":26734.16628,
+    "geom:bbox":"25.005604,45.172385,25.009766,45.175111",
+    "geom:latitude":45.173766,
+    "geom:longitude":25.00754,
     "gn:admin1_code":"03",
     "gn:admin2_code":"18670.0",
     "gn:asciiname":"Burnesti",
@@ -24,13 +24,24 @@
     "gn:population":13,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.98775,45.15388,25.02775,45.19388",
+    "lbl:latitude":45.17388,
+    "lbl:longitude":25.00775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Burne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Burnesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683281
+        "gn:id":683281,
+        "ro-ancpi:id":18698
     },
     "wof:country":"RO",
-    "wof:geomhash":"794c8d2a0fc26d5c05f618e7487ec754",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8e01f97aecbeb6aec7dbc8d55f401b99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1293694163,
-    "wof:lastmodified":1566610099,
-    "wof:name":"Burnesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203634,
+    "wof:name":"Burne\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":13,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.00775,
-    45.17388,
-    25.00775,
-    45.17388
+    25.005604,
+    45.172385,
+    25.009766,
+    45.175111
 ],
-  "geometry": {"coordinates":[25.00775,45.17388],"type":"Point"}
+  "geometry": {"coordinates":[[[25.006177,45.172394],[25.005706,45.172385],[25.005604,45.173168],[25.006037,45.173789],[25.006864,45.173897],[25.00792,45.174068],[25.008328,45.174212],[25.008799,45.174563],[25.008748,45.174968],[25.009702,45.175111],[25.009766,45.174931],[25.009371,45.174401],[25.009028,45.173987],[25.008747,45.173691],[25.007984,45.173483],[25.00759,45.173483],[25.007119,45.173384],[25.006419,45.173276],[25.006444,45.172745],[25.006151,45.172565],[25.006177,45.172394]]],"type":"Polygon"}
 }

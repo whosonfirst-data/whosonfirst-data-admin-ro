@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.83011,44.98272,23.83011,44.98272",
-    "geom:latitude":44.98272,
-    "geom:longitude":23.83011,
+    "geom:area":0.000031,
+    "geom:area_square_m":272317.667018,
+    "geom:bbox":"23.81662,44.982744,23.822582,44.992681",
+    "geom:latitude":44.987486,
+    "geom:longitude":23.820132,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168229.0",
     "gn:asciiname":"Coltesti",
@@ -24,13 +24,26 @@
     "gn:population":438,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.81011,44.96272,23.85011,45.00272",
+    "lbl:latitude":44.987969,
+    "lbl:longitude":23.820674,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.987969,
+    "mps:longitude":23.820674,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Colte\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Coltesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681050
+        "gn:id":681050,
+        "ro-ancpi:id":168256
     },
     "wof:country":"RO",
-    "wof:geomhash":"4512414676b940beacd0ac841fe3a5d1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ceb7e5d59586ecdd0f8d3467be478884",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1243491205,
-    "wof:lastmodified":1566611470,
-    "wof:name":"Coltesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203693,
+    "wof:name":"Colte\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":438,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.83011,
-    44.98272,
-    23.83011,
-    44.98272
+    23.81662,
+    44.982744,
+    23.822582,
+    44.992681
 ],
-  "geometry": {"coordinates":[23.83011,44.98272],"type":"Point"}
+  "geometry": {"coordinates":[[[23.822119,44.982744],[23.820196,44.982944],[23.818517,44.983156],[23.81868,44.983906],[23.819331,44.986581],[23.818748,44.989435],[23.81662,44.99086],[23.817283,44.992388],[23.818573,44.992681],[23.821233,44.990053],[23.822218,44.988658],[23.822582,44.985381],[23.822119,44.982744]]],"type":"Polygon"}
 }

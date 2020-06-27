@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.23243,44.86542,26.23243,44.86542",
-    "geom:latitude":44.86542,
-    "geom:longitude":26.23243,
+    "geom:area":0.000052,
+    "geom:area_square_m":458570.78874,
+    "geom:bbox":"26.227223,44.856997,26.236961,44.869394",
+    "geom:latitude":44.863503,
+    "geom:longitude":26.232046,
     "gn:admin1_code":"30",
     "gn:admin2_code":"133090.0",
     "gn:asciiname":"Trestienii de Jos",
@@ -24,13 +24,21 @@
     "gn:population":156,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.21243,44.84542,26.25243,44.88542",
+    "lbl:latitude":44.86542,
+    "lbl:longitude":26.23243,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Trestienii de Jos"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664623
+        "gn:id":664623,
+        "ro-ancpi:id":133134
     },
     "wof:country":"RO",
-    "wof:geomhash":"fe64633e37cb775176d7075b2340cb27",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e427bbc283f2368cdd93cb3edcafad78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1292951077,
-    "wof:lastmodified":1566610053,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203575,
     "wof:name":"Trestienii de Jos",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.23243,
-    44.86542,
-    26.23243,
-    44.86542
+    26.227223,
+    44.856997,
+    26.236961,
+    44.869394
 ],
-  "geometry": {"coordinates":[26.23243,44.86542],"type":"Point"}
+  "geometry": {"coordinates":[[[26.23199,44.86734],[26.234455,44.865927],[26.234785,44.86628],[26.235742,44.865691],[26.235318,44.865173],[26.234452,44.864232],[26.235205,44.863519],[26.23473,44.863191],[26.235255,44.861198],[26.235502,44.860276],[26.236264,44.859452],[26.236961,44.858747],[26.23591,44.858038],[26.234062,44.856997],[26.233188,44.858305],[26.232551,44.859255],[26.232301,44.860065],[26.232184,44.86055],[26.23217,44.860958],[26.232325,44.861166],[26.232425,44.861403],[26.232365,44.861728],[26.232434,44.862068],[26.2322,44.862336],[26.23199,44.862401],[26.231486,44.862292],[26.23091,44.862168],[26.230842,44.861859],[26.228109,44.861133],[26.227738,44.861719],[26.228579,44.861975],[26.230404,44.862446],[26.227764,44.863996],[26.227223,44.86473],[26.227713,44.86524],[26.229013,44.866643],[26.228209,44.868086],[26.227532,44.868719],[26.228771,44.869394],[26.23199,44.86734]]],"type":"Polygon"}
 }

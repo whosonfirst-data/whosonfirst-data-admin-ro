@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.148,45.13934,24.148,45.13934",
-    "geom:latitude":45.13934,
-    "geom:longitude":24.148,
+    "geom:area":0.000068,
+    "geom:area_square_m":590563.452502,
+    "geom:bbox":"24.143487,45.129821,24.150849,45.153852",
+    "geom:latitude":45.140367,
+    "geom:longitude":24.146256,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173230",
     "gn:asciiname":"Budurasti",
@@ -25,17 +25,30 @@
     "gn:population":230,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.128,45.11934,24.168,45.15934",
+    "lbl:latitude":45.137549,
+    "lbl:longitude":24.146005,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.137549,
+    "mps:longitude":24.146005,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Budur\u0103\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Budurasti"
+    ],
     "name:und_x_variant":[
         "Budur\u0103\u015fti",
         "Bud\u0103r\u0103\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683460
+        "gn:id":683460,
+        "ro-ancpi:id":173267
     },
     "wof:country":"RO",
-    "wof:geomhash":"142ed4e0b4867dfb2368cd5f57ee482a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"82767fc85c5b36a782edd7097d5589c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1310441903,
-    "wof:lastmodified":1566610574,
-    "wof:name":"Budurasti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"Budur\u0103\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":230,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.148,
-    45.13934,
-    24.148,
-    45.13934
+    24.143487,
+    45.129821,
+    24.150849,
+    45.153852
 ],
-  "geometry": {"coordinates":[24.148,45.13934],"type":"Point"}
+  "geometry": {"coordinates":[[[24.146335,45.152364],[24.146417,45.15082],[24.146828,45.147955],[24.146341,45.144423],[24.146958,45.140952],[24.148168,45.138371],[24.149054,45.134841],[24.15012,45.133154],[24.150849,45.132136],[24.149131,45.130552],[24.147295,45.129821],[24.14669,45.131727],[24.147663,45.131907],[24.146209,45.134839],[24.143895,45.135587],[24.143487,45.140531],[24.144428,45.144337],[24.144471,45.150745],[24.144011,45.153852],[24.146335,45.152364]]],"type":"Polygon"}
 }

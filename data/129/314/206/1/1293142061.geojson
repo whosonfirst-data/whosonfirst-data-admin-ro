@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.95619,45.81975,23.95619,45.81975",
-    "geom:latitude":45.81975,
-    "geom:longitude":23.95619,
+    "geom:area":0.000038,
+    "geom:area_square_m":323788.946076,
+    "geom:bbox":"23.947745,45.81576,23.962265,45.822109",
+    "geom:latitude":45.819468,
+    "geom:longitude":23.95445,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145499.0",
     "gn:asciiname":"Mag",
@@ -24,19 +24,26 @@
     "gn:population":393,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.93619,45.79975,23.97619,45.83975",
+    "lbl:latitude":45.81975,
+    "lbl:longitude":23.95619,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
+        "Mag"
+    ],
+    "name:frr_x_preferred":[
         "Mag"
     ],
     "name:hun_x_preferred":[
         "Mag"
     ],
     "name:pol_x_preferred":[
+        "Mag"
+    ],
+    "name:ron_x_preferred":[
         "Mag"
     ],
     "name:rus_x_preferred":[
@@ -48,7 +55,11 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0433"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674193
+        "gn:id":674193,
+        "ro-ancpi:id":145569
     },
     "wof:country":"RO",
-    "wof:geomhash":"2e739b06b56f630480de61bcaf2c2277",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c5e7f0b3fa7c8a6cb128d7f14b94f756",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +85,13 @@
         }
     ],
     "wof:id":1293142061,
-    "wof:lastmodified":1566610083,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203653,
     "wof:name":"Mag",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -82,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.95619,
-    45.81975,
-    23.95619,
-    45.81975
+    23.947745,
+    45.81576,
+    23.962265,
+    45.822109
 ],
-  "geometry": {"coordinates":[23.95619,45.81975],"type":"Point"}
+  "geometry": {"coordinates":[[[23.948405,45.822109],[23.950287,45.821605],[23.95192,45.82182],[23.953804,45.821216],[23.955533,45.820433],[23.956472,45.821961],[23.957926,45.821674],[23.957748,45.820258],[23.962037,45.819636],[23.962216,45.81887],[23.962265,45.81848],[23.958702,45.818768],[23.957223,45.818957],[23.956147,45.817904],[23.95532,45.81576],[23.953678,45.816228],[23.954349,45.817439],[23.953292,45.817928],[23.952741,45.817263],[23.952134,45.817907],[23.950007,45.81741],[23.949547,45.818781],[23.950117,45.818853],[23.950075,45.819396],[23.951837,45.819357],[23.951809,45.820011],[23.951235,45.820128],[23.947745,45.820996],[23.94793,45.821577],[23.948405,45.822109]]],"type":"Polygon"}
 }

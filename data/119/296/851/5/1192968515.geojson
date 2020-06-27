@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.03606,45.32654,26.03606,45.32654",
-    "geom:latitude":45.32654,
-    "geom:longitude":26.03606,
+    "geom:area":0.000052,
+    "geom:area_square_m":449244.750414,
+    "geom:bbox":"26.021124,45.31969,26.037702,45.331564",
+    "geom:latitude":45.32647,
+    "geom:longitude":26.031053,
     "gn:admin1_code":"30",
     "gn:admin2_code":"132574.0",
     "gn:asciiname":"Valea Bradetului",
@@ -24,13 +24,26 @@
     "gn:population":384,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.01606,45.30654,26.05606,45.34654",
+    "lbl:latitude":45.328477,
+    "lbl:longitude":26.029546,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.328477,
+    "mps:longitude":26.029546,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Br\u0103detului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Bradetului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663881
+        "gn:id":663881,
+        "ro-ancpi:id":132618
     },
     "wof:country":"RO",
-    "wof:geomhash":"d79855f3e2703e576214f73b8e89f6d9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3b5af8ee2b22dfc34b456cf93758aa07",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1192968515,
-    "wof:lastmodified":1566610442,
-    "wof:name":"Valea Bradetului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203578,
+    "wof:name":"Valea Br\u0103detului",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":384,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.03606,
-    45.32654,
-    26.03606,
-    45.32654
+    26.021124,
+    45.31969,
+    26.037702,
+    45.331564
 ],
-  "geometry": {"coordinates":[26.03606,45.32654],"type":"Point"}
+  "geometry": {"coordinates":[[[26.037499,45.326147],[26.037702,45.324826],[26.037145,45.323567],[26.037141,45.32357],[26.037136,45.323572],[26.035387,45.324611],[26.032925,45.325208],[26.032759,45.324145],[26.03377,45.320968],[26.033968,45.319731],[26.031827,45.31969],[26.031619,45.320352],[26.031219,45.321522],[26.031018,45.32315],[26.029929,45.323344],[26.029759,45.324442],[26.030315,45.324712],[26.031564,45.325005],[26.03054,45.326722],[26.029869,45.327063],[26.029298,45.327047],[26.027673,45.327433],[26.024331,45.328407],[26.023314,45.328734],[26.022423,45.329363],[26.021124,45.330276],[26.021758,45.330843],[26.023833,45.329651],[26.027551,45.329018],[26.028484,45.329409],[26.029122,45.330345],[26.030742,45.331528],[26.032082,45.331564],[26.032867,45.330499],[26.031118,45.328403],[26.032843,45.327849],[26.034152,45.327309],[26.03471,45.326637],[26.037499,45.326147]]],"type":"Polygon"}
 }

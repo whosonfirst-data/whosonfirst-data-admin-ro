@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.84798,44.76766,23.84798,44.76766",
-    "geom:latitude":44.76766,
-    "geom:longitude":23.84798,
+    "geom:area":0.000008,
+    "geom:area_square_m":74257.04459,
+    "geom:bbox":"23.840506,44.770573,23.844952,44.77408",
+    "geom:latitude":44.772338,
+    "geom:longitude":23.842868,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174290.0",
     "gn:asciiname":"Zatrenii de Sus",
@@ -24,13 +24,26 @@
     "gn:population":205,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.82798,44.74766,23.86798,44.78766",
+    "lbl:latitude":44.772364,
+    "lbl:longitude":23.842902,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.772364,
+    "mps:longitude":23.842902,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Z\u0103trenii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Zatrenii de Sus"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662271
+        "gn:id":662271,
+        "ro-ancpi:id":174487
     },
     "wof:country":"RO",
-    "wof:geomhash":"e3051751b4c4ea12b884e028abf99292",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f0b93d649e25b280702bf23affe1ded8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1226176161,
-    "wof:lastmodified":1566611616,
-    "wof:name":"Zatrenii de Sus",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203695,
+    "wof:name":"Z\u0103trenii de Sus",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":205,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.84798,
-    44.76766,
-    23.84798,
-    44.76766
+    23.840506,
+    44.770573,
+    23.844952,
+    44.77408
 ],
-  "geometry": {"coordinates":[23.84798,44.76766],"type":"Point"}
+  "geometry": {"coordinates":[[[23.840506,44.773078],[23.843494,44.77408],[23.844952,44.771399],[23.842704,44.770573],[23.840506,44.773078]]],"type":"Polygon"}
 }

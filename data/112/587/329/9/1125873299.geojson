@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.38333,44.56667,28.38333,44.56667",
-    "geom:latitude":44.56667,
-    "geom:longitude":28.38333,
+    "geom:area":0.000047,
+    "geom:area_square_m":416534.133103,
+    "geom:bbox":"28.380695,44.569067,28.393976,44.576577",
+    "geom:latitude":44.57296,
+    "geom:longitude":28.386972,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":1870,
     "iso:country":"RO",
-    "lbl:bbox":"28.36333,44.54667,28.40333,44.58667",
-    "lbl:latitude":44.56667,
-    "lbl:longitude":28.38333,
+    "lbl:latitude":44.572612,
+    "lbl:longitude":28.386519,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":44.572612,
+    "mps:longitude":28.386519,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u067e\u0627\u0646\u062a\u064a\u0644\u064a\u0645\u0648\u0646 \u062f\u0649 \u0686\u0648\u0633"
+    ],
     "name:eng_x_preferred":[
         "Pantelimon de Jos"
     ],
@@ -59,8 +63,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877189,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -76,11 +83,15 @@
         "gn:id":671376,
         "gp:id":877189,
         "qs_pg:id":127327,
+        "ro-ancpi:id":62645,
         "wd:id":"Q12138719"
     },
     "wof:country":"RO",
     "wof:created":1497294409,
-    "wof:geomhash":"f92467947b33c87b0903aa9be2a31d15",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"d212d0eed4702371ce68a4107de6f435",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +101,13 @@
         }
     ],
     "wof:id":1125873299,
-    "wof:lastmodified":1566611337,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203615,
     "wof:name":"Pantelimon de Jos",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -102,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.38333,
-    44.56667,
-    28.38333,
-    44.56667
+    28.380695,
+    44.569067,
+    28.393976,
+    44.576577
 ],
-  "geometry": {"coordinates":[28.38333,44.56667],"type":"Point"}
+  "geometry": {"coordinates":[[[28.393976,44.574785],[28.391374,44.573916],[28.391893,44.573131],[28.390372,44.572616],[28.390932,44.571784],[28.387349,44.570491],[28.387128,44.570412],[28.383658,44.569067],[28.383058,44.570034],[28.383205,44.570472],[28.38313,44.571262],[28.382231,44.571326],[28.381908,44.571535],[28.381259,44.57141],[28.380958,44.571912],[28.380794,44.571867],[28.380695,44.572046],[28.380833,44.572083],[28.380749,44.572275],[28.381178,44.573025],[28.381756,44.573758],[28.382927,44.574188],[28.384578,44.574694],[28.384506,44.574791],[28.385796,44.575243],[28.38601,44.574893],[28.386347,44.575006],[28.387237,44.575229],[28.387439,44.574683],[28.390257,44.575658],[28.392984,44.576577],[28.393595,44.575686],[28.393431,44.575633],[28.393976,44.574785]]],"type":"Polygon"}
 }

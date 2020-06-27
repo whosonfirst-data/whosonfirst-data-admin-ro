@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.67104,45.7132,21.67104,45.7132",
-    "geom:latitude":45.7132,
-    "geom:longitude":21.67104,
+    "geom:area":0.000133,
+    "geom:area_square_m":1151808.820991,
+    "geom:bbox":"21.658237,45.704594,21.67626,45.71781",
+    "geom:latitude":45.711142,
+    "geom:longitude":21.666618,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158243.0",
     "gn:asciiname":"Dragoiesti",
@@ -25,11 +25,12 @@
     "gn:population":464,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.65104,45.6932,21.69104,45.7332",
+    "lbl:latitude":45.7132,
+    "lbl:longitude":21.67104,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:epo_x_preferred":[
         "Dr\u0103goie\u0219ti"
@@ -44,7 +45,11 @@
         "Dr\u0103goie\u015fti"
     ],
     "name:ron_x_preferred":[
-        "Dr\u0103goie\u0219ti"
+        "Dr\u0103goie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Dr\u0103goie\u0219ti",
+        "Dragoiesti"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0435\u0433\u043e\u0454\u0448\u0442\u044c"
@@ -58,7 +63,11 @@
     "name:vol_x_preferred":[
         "Dr\u0103goie\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -68,10 +77,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":678944,
+        "ro-ancpi:id":158270,
         "wk:page":"Dr%C4%83goie%C5%9Fti"
     },
     "wof:country":"RO",
-    "wof:geomhash":"feb7b8ecac816ba25f7a717e8cb53b42",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"61f906abb3f439e44529b1d8f68faa1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,8 +94,14 @@
         }
     ],
     "wof:id":1326874417,
-    "wof:lastmodified":1566609779,
-    "wof:name":"Dragoiesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203735,
+    "wof:name":"Dr\u0103goie\u015fti",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":464,
@@ -93,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.67104,
-    45.7132,
-    21.67104,
-    45.7132
+    21.658237,
+    45.704594,
+    21.67626,
+    45.71781
 ],
-  "geometry": {"coordinates":[21.67104,45.7132],"type":"Point"}
+  "geometry": {"coordinates":[[[21.666056,45.71781],[21.66669,45.716959],[21.667424,45.717257],[21.667951,45.716627],[21.668651,45.716872],[21.669312,45.716168],[21.671172,45.716897],[21.671708,45.716294],[21.673003,45.716634],[21.673803,45.715332],[21.67284,45.715087],[21.673084,45.714643],[21.673551,45.713893],[21.67503,45.712054],[21.675207,45.711819],[21.67626,45.710459],[21.674468,45.709775],[21.672267,45.708943],[21.671515,45.708657],[21.672117,45.707852],[21.671043,45.707409],[21.670429,45.708243],[21.669426,45.707861],[21.667873,45.707265],[21.666532,45.706755],[21.665856,45.706499],[21.666397,45.705748],[21.664032,45.704825],[21.663582,45.705397],[21.663484,45.705517],[21.663426,45.705595],[21.662755,45.705349],[21.661362,45.704864],[21.660735,45.704696],[21.660283,45.704594],[21.65912,45.707776],[21.658423,45.710644],[21.658237,45.711677],[21.660157,45.712308],[21.664173,45.713392],[21.665163,45.712233],[21.666517,45.712753],[21.66596,45.713157],[21.667514,45.714247],[21.666774,45.714991],[21.665645,45.714616],[21.664124,45.71423],[21.662729,45.713955],[21.66203,45.714618],[21.662771,45.71552],[21.662838,45.716609],[21.666056,45.71781]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.13077,46.34218,27.13077,46.34218",
-    "geom:latitude":46.34218,
-    "geom:longitude":27.13077,
+    "geom:area":0.000009,
+    "geom:area_square_m":77857.195266,
+    "geom:bbox":"27.12802,46.338645,27.130897,46.343703",
+    "geom:latitude":46.3411,
+    "geom:longitude":27.129171,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24187.0",
     "gn:asciiname":"Chilia Benei",
@@ -25,17 +25,27 @@
     "gn:population":111,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.11077,46.32218,27.15077,46.36218",
+    "lbl:latitude":46.341093,
+    "lbl:longitude":27.129143,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.341093,
+    "mps:longitude":27.129143,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Chilia Benei"
+    ],
     "name:und_x_variant":[
         "Chilibeni",
         "Chilia Benei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682118
+        "gn:id":682118,
+        "ro-ancpi:id":24203
     },
     "wof:country":"RO",
-    "wof:geomhash":"41fe53a78cc9f11b84dc7aa71f0aa95d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"16cbcbee79d7c1658f262933809dee08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1226747873,
-    "wof:lastmodified":1566611625,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203554,
     "wof:name":"Chilia Benei",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.13077,
-    46.34218,
-    27.13077,
-    46.34218
+    27.12802,
+    46.338645,
+    27.130897,
+    46.343703
 ],
-  "geometry": {"coordinates":[27.13077,46.34218],"type":"Point"}
+  "geometry": {"coordinates":[[[27.129792,46.343702],[27.13012,46.339189],[27.13081,46.339229],[27.130897,46.338658],[27.12911,46.338649],[27.128478,46.338645],[27.12802,46.343703],[27.12913,46.343702],[27.129792,46.343702]]],"type":"Polygon"}
 }

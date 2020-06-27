@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.79296,46.70891,24.79296,46.70891",
-    "geom:latitude":46.70891,
-    "geom:longitude":24.79296,
+    "geom:area":0.00007,
+    "geom:area_square_m":590632.139704,
+    "geom:bbox":"24.782657,46.701997,24.795185,46.716017",
+    "geom:latitude":46.709284,
+    "geom:longitude":24.789767,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118799.0",
     "gn:asciiname":"Habic",
@@ -25,17 +25,31 @@
     "gn:population":393,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.77296,46.68891,24.81296,46.72891",
+    "lbl:latitude":46.70891,
+    "lbl:longitude":24.79296,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:por_x_preferred":[
+        "Rio Habic"
+    ],
+    "name:ron_x_preferred":[
+        "Habic"
+    ],
+    "name:ron_x_variant":[
+        "R\u00e2ul Habic"
+    ],
     "name:und_x_variant":[
         "H\u00e9tb\u00fckk",
         "Habic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676409
+        "gn:id":676409,
+        "ro-ancpi:id":118815
     },
     "wof:country":"RO",
-    "wof:geomhash":"46c88d29805e2c526975adb16235e0cc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d31cdc73219476c6c98791e3ad12e1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +75,13 @@
         }
     ],
     "wof:id":1276930803,
-    "wof:lastmodified":1566610199,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203447,
     "wof:name":"Habic",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -69,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.79296,
-    46.70891,
-    24.79296,
-    46.70891
+    24.782657,
+    46.701997,
+    24.795185,
+    46.716017
 ],
-  "geometry": {"coordinates":[24.79296,46.70891],"type":"Point"}
+  "geometry": {"coordinates":[[[24.788851,46.71594],[24.791569,46.714406],[24.792773,46.714625],[24.793508,46.713838],[24.794185,46.712922],[24.794515,46.712962],[24.795185,46.710746],[24.793912,46.709702],[24.793542,46.708873],[24.793185,46.708429],[24.794666,46.707495],[24.792892,46.705899],[24.791702,46.705887],[24.790644,46.705746],[24.790514,46.705046],[24.787617,46.70508],[24.78644,46.703871],[24.786429,46.70324],[24.786046,46.701997],[24.784524,46.702418],[24.783892,46.702545],[24.783884,46.70293],[24.784299,46.703124],[24.784355,46.703157],[24.784131,46.70383],[24.782998,46.704391],[24.783522,46.705299],[24.782657,46.706412],[24.784279,46.706139],[24.786319,46.706028],[24.787189,46.707342],[24.788804,46.708972],[24.789217,46.709663],[24.78824,46.710066],[24.788629,46.710436],[24.789517,46.710793],[24.790678,46.711002],[24.789293,46.712992],[24.787854,46.714094],[24.787282,46.713728],[24.785429,46.714276],[24.785755,46.715096],[24.786401,46.715077],[24.786843,46.715768],[24.788162,46.716017],[24.788851,46.71594]]],"type":"Polygon"}
 }

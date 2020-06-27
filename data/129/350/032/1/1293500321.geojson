@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.20585,46.40682,22.20585,46.40682",
-    "geom:latitude":46.40682,
-    "geom:longitude":22.20585,
+    "geom:area":0.000035,
+    "geom:area_square_m":294642.238541,
+    "geom:bbox":"22.200395,46.402353,22.209297,46.411181",
+    "geom:latitude":46.406004,
+    "geom:longitude":22.204859,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10649",
     "gn:asciiname":"Buhani",
@@ -24,11 +24,12 @@
     "gn:population":215,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.18585,46.38682,22.22585,46.42682",
+    "lbl:latitude":46.40682,
+    "lbl:longitude":22.20585,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
         "Buhani"
@@ -38,7 +39,11 @@
         "Bajnokfalva",
         "Bohani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683370
+        "gn:id":683370,
+        "ro-ancpi:id":10667
     },
     "wof:country":"RO",
-    "wof:geomhash":"f32d73e4d7d446402a0b4a29bfcd0357",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d42423a28e437c68d556e539f7abf0c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +69,13 @@
         }
     ],
     "wof:id":1293500321,
-    "wof:lastmodified":1566610090,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203710,
     "wof:name":"Buhani",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
@@ -72,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.20585,
-    46.40682,
-    22.20585,
-    46.40682
+    22.200395,
+    46.402353,
+    22.209297,
+    46.411181
 ],
-  "geometry": {"coordinates":[22.20585,46.40682],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.209297,46.404677],[22.203044,46.402353],[22.200395,46.405564],[22.201173,46.406473],[22.203447,46.407384],[22.206339,46.408423],[22.209297,46.404677]]],[[[22.208574,46.410773],[22.204805,46.409329],[22.204509,46.409864],[22.203344,46.409565],[22.203185,46.409922],[22.204205,46.410362],[22.205351,46.410764],[22.206847,46.411173],[22.207475,46.411181],[22.208574,46.410773]]]],"type":"MultiPolygon"}
 }

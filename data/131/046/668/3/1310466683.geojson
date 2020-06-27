@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.98218,46.36073,24.98218,46.36073",
-    "geom:latitude":46.36073,
-    "geom:longitude":24.98218,
+    "geom:area":0.000003,
+    "geom:area_square_m":25397.382348,
+    "geom:bbox":"24.986798,46.359366,24.991647,46.361692",
+    "geom:latitude":46.360589,
+    "geom:longitude":24.988328,
     "gn:admin1_code":"20",
     "gn:admin2_code":"83847.0",
     "gn:asciiname":"Laz-Soimus",
@@ -25,17 +25,30 @@
     "gn:population":67,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.96218,46.34073,25.00218,46.38073",
+    "lbl:latitude":46.360601,
+    "lbl:longitude":24.987488,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.360601,
+    "mps:longitude":24.987488,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Laz-\u015eoimu\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Laz-Soimus"
+    ],
     "name:und_x_variant":[
         "Laz",
         "Laz-\u015eoimu\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674961
+        "gn:id":674961,
+        "ro-ancpi:id":83918
     },
     "wof:country":"RO",
-    "wof:geomhash":"b4776e10f1f06211b14120a54e78bf6a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"652df4afa18e5ca36bf5a456340496de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1310466683,
-    "wof:lastmodified":1566610524,
-    "wof:name":"Laz-Soimus",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203391,
+    "wof:name":"Laz-\u015eoimu\u015f",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":67,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.98218,
-    46.36073,
-    24.98218,
-    46.36073
+    24.986798,
+    46.359366,
+    24.991647,
+    46.361692
 ],
-  "geometry": {"coordinates":[24.98218,46.36073],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.989265,46.361129],[24.989134,46.360743],[24.988791,46.360521],[24.988567,46.36054],[24.988406,46.360301],[24.987987,46.360412],[24.987915,46.360197],[24.987965,46.359736],[24.987991,46.359632],[24.98775,46.359658],[24.987754,46.359366],[24.987301,46.359392],[24.987079,46.359384],[24.986877,46.359379],[24.987124,46.359989],[24.986798,46.360133],[24.987104,46.361168],[24.988312,46.361106],[24.988485,46.361213],[24.989265,46.361129]]],[[[24.991382,46.361047],[24.991299,46.360877],[24.990759,46.36099],[24.990889,46.361495],[24.99099,46.361692],[24.991647,46.361599],[24.991382,46.361047]]]],"type":"MultiPolygon"}
 }

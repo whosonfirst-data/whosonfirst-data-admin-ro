@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.37459,44.66338,28.37459,44.66338",
-    "geom:latitude":44.66338,
-    "geom:longitude":28.37459,
+    "geom:area":0.000088,
+    "geom:area_square_m":776436.15492,
+    "geom:bbox":"28.366354,44.657669,28.379532,44.669154",
+    "geom:latitude":44.662399,
+    "geom:longitude":28.373395,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62609.0",
     "gn:asciiname":"Calugareni",
@@ -25,17 +25,55 @@
     "gn:population":107,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.35459,44.64338,28.39459,44.68338",
+    "lbl:latitude":44.66338,
+    "lbl:longitude":28.37459,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:deu_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:epo_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:fra_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:hun_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:nld_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:ron_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "name:ron_x_variant":[
+        "Calugareni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0443\u0433\u0430\u0440\u0435\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Caceamac",
         "C\u0103lug\u0103reni"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "C\u0103lug\u0103reni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682911
+        "gn:id":682911,
+        "ro-ancpi:id":62627
     },
     "wof:country":"RO",
-    "wof:geomhash":"4e1f94ceca09565c2b9bbdb5751abc82",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"29bbe2d09591e1e9a95790d42ca1b9f8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +99,14 @@
         }
     ],
     "wof:id":1193108165,
-    "wof:lastmodified":1566610456,
-    "wof:name":"Calugareni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203611,
+    "wof:name":"C\u0103lug\u0103reni",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":107,
@@ -69,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.37459,
-    44.66338,
-    28.37459,
-    44.66338
+    28.366354,
+    44.657669,
+    28.379532,
+    44.669154
 ],
-  "geometry": {"coordinates":[28.37459,44.66338],"type":"Point"}
+  "geometry": {"coordinates":[[[28.37803,44.666026],[28.377973,44.665878],[28.379532,44.665837],[28.378902,44.664944],[28.37856,44.664461],[28.37822,44.66375],[28.378071,44.663416],[28.377945,44.66272],[28.377883,44.662002],[28.377865,44.66148],[28.377881,44.661004],[28.377908,44.66022],[28.377934,44.659486],[28.37797,44.659143],[28.378066,44.65871],[28.37805,44.658433],[28.37786,44.658165],[28.376475,44.657978],[28.376343,44.657961],[28.375859,44.657878],[28.37551,44.657819],[28.374489,44.657669],[28.372684,44.657725],[28.372483,44.657731],[28.371504,44.657743],[28.370194,44.65773],[28.369415,44.657817],[28.369034,44.657958],[28.368982,44.658032],[28.369191,44.659594],[28.368626,44.659608],[28.368203,44.659843],[28.367613,44.660536],[28.367484,44.660688],[28.366469,44.661852],[28.366354,44.662792],[28.368278,44.662792],[28.368269,44.663535],[28.368285,44.665035],[28.369298,44.664884],[28.370783,44.664427],[28.371884,44.666375],[28.372233,44.666258],[28.373072,44.666066],[28.373563,44.666723],[28.374025,44.668196],[28.374335,44.668516],[28.375088,44.669154],[28.375932,44.668999],[28.376787,44.66842],[28.376659,44.668311],[28.376427,44.667929],[28.376073,44.667753],[28.375891,44.667451],[28.375797,44.66709],[28.375804,44.66694],[28.377583,44.666873],[28.377716,44.666802],[28.37771,44.666082],[28.37803,44.666026]]],"type":"Polygon"}
 }

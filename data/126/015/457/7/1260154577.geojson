@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.00038,43.96142,28.00038,43.96142",
-    "geom:latitude":43.96142,
-    "geom:longitude":28.00038,
+    "geom:area":0.000039,
+    "geom:area_square_m":344661.413686,
+    "geom:bbox":"27.996587,43.957726,28.006061,43.964167",
+    "geom:latitude":43.960517,
+    "geom:longitude":28.00049,
     "gn:admin1_code":"14",
     "gn:admin2_code":"63161.0",
     "gn:asciiname":"Furnica",
@@ -25,17 +25,25 @@
     "gn:population":86,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.98038,43.94142,28.02038,43.98142",
+    "lbl:latitude":43.96142,
+    "lbl:longitude":28.00038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Furnica"
+    ],
     "name:und_x_variant":[
         "Schender",
         "Furnica"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677758
+        "gn:id":677758,
+        "ro-ancpi:id":61915
     },
     "wof:country":"RO",
-    "wof:geomhash":"4e9c68d635582d1b7e797f3f8bd57a2f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"70336aa0f37fde58c5660ef37e55b5a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1260154577,
-    "wof:lastmodified":1566610467,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203611,
     "wof:name":"Furnica",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.00038,
-    43.96142,
-    28.00038,
-    43.96142
+    27.996587,
+    43.957726,
+    28.006061,
+    43.964167
 ],
-  "geometry": {"coordinates":[28.00038,43.96142],"type":"Point"}
+  "geometry": {"coordinates":[[[28.002045,43.961413],[28.003589,43.960794],[28.003905,43.96106],[28.004168,43.960959],[28.004329,43.961164],[28.004889,43.96153],[28.005903,43.96161],[28.005889,43.960741],[28.004783,43.960899],[28.004752,43.960559],[28.004815,43.960166],[28.005126,43.959936],[28.005153,43.959643],[28.005212,43.959104],[28.006004,43.959193],[28.006061,43.9588],[28.006017,43.958555],[28.005921,43.958182],[28.005482,43.957726],[28.004564,43.958173],[28.003081,43.958217],[28.001949,43.958227],[28.001399,43.958178],[27.998359,43.95824],[27.996664,43.958241],[27.996587,43.96017],[27.996721,43.961268],[27.996665,43.96257],[27.996836,43.964167],[27.998342,43.963902],[27.998303,43.963646],[27.999627,43.963508],[28.000257,43.963463],[28.001017,43.963343],[28.001146,43.962928],[28.001628,43.962329],[28.002045,43.961413]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.88378,44.61838,23.88378,44.61838",
-    "geom:latitude":44.61838,
-    "geom:longitude":23.88378,
+    "geom:area":0.000014,
+    "geom:area_square_m":119757.240423,
+    "geom:bbox":"23.879213,44.616265,23.886248,44.621301",
+    "geom:latitude":44.618643,
+    "geom:longitude":23.882574,
     "gn:admin1_code":"17",
     "gn:admin2_code":"71340.0",
     "gn:asciiname":"Piscu Lung",
@@ -25,17 +25,27 @@
     "gn:population":41,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.86378,44.59838,23.90378,44.63838",
+    "lbl:latitude":44.618139,
+    "lbl:longitude":23.882041,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.618139,
+    "mps:longitude":23.882041,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Piscu Lung"
+    ],
     "name:und_x_variant":[
         "Piscul Lung",
         "Piscu Lung"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670637
+        "gn:id":670637,
+        "ro-ancpi:id":71402
     },
     "wof:country":"RO",
-    "wof:geomhash":"abf4e5cc850361b968f73d6831999c14",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"75b3006772f184c4d582dddd970e8c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1344128357,
-    "wof:lastmodified":1566609904,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203318,
     "wof:name":"Piscu Lung",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.88378,
-    44.61838,
-    23.88378,
-    44.61838
+    23.879213,
+    44.616265,
+    23.886248,
+    44.621301
 ],
-  "geometry": {"coordinates":[23.88378,44.61838],"type":"Point"}
+  "geometry": {"coordinates":[[[23.884291,44.617855],[23.881165,44.616265],[23.879756,44.61741],[23.879213,44.618058],[23.879503,44.618271],[23.885434,44.621301],[23.886248,44.620361],[23.884061,44.619033],[23.88336,44.61871],[23.884291,44.617855]]],"type":"Polygon"}
 }

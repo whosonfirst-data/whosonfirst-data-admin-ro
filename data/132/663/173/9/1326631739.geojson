@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.75,44.81667,24.75,44.81667",
-    "geom:latitude":44.81667,
-    "geom:longitude":24.75,
+    "geom:area":0.000002,
+    "geom:area_square_m":18556.054773,
+    "geom:bbox":"24.746414,44.80597,24.750091,44.8143",
+    "geom:latitude":44.812396,
+    "geom:longitude":24.749031,
     "gn:admin1_code":"03",
     "gn:admin2_code":"18028.0",
     "gn:asciiname":"Galcesti",
@@ -24,16 +24,29 @@
     "gn:population":212,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.73,44.79667,24.77,44.83667",
+    "lbl:latitude":44.813523,
+    "lbl:longitude":24.749437,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.813523,
+    "mps:longitude":24.749437,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "G\u00e2lce\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Galcesti"
+    ],
     "name:und_x_variant":[
         "G\u00eelce\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677280
+        "gn:id":677280,
+        "ro-ancpi:id":18117
     },
     "wof:country":"RO",
-    "wof:geomhash":"9335f03e8b890589256f5c48d6c26f30",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f4fc7447c1da57156cd5325abbb3c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +72,14 @@
         }
     ],
     "wof:id":1326631739,
-    "wof:lastmodified":1566609845,
-    "wof:name":"Galcesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203631,
+    "wof:name":"G\u00e2lce\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":212,
@@ -67,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.75,
-    44.81667,
-    24.75,
-    44.81667
+    24.746414,
+    44.80597,
+    24.750091,
+    44.8143
 ],
-  "geometry": {"coordinates":[24.75,44.81667],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.749912,44.812792],[24.748811,44.812709],[24.748928,44.813176],[24.748751,44.814276],[24.749944,44.8143],[24.750091,44.813216],[24.749912,44.812792]]],[[[24.747313,44.806028],[24.746643,44.80597],[24.746414,44.806393],[24.747143,44.806498],[24.747313,44.806028]]]],"type":"MultiPolygon"}
 }

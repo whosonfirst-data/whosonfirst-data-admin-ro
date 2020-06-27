@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.18557,46.26165,23.18557,46.26165",
-    "geom:latitude":46.26165,
-    "geom:longitude":23.18557,
+    "geom:area":0.00001,
+    "geom:area_square_m":84953.05736,
+    "geom:bbox":"23.181592,46.258935,23.187769,46.262983",
+    "geom:latitude":46.261115,
+    "geom:longitude":23.184919,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3459.0",
     "gn:asciiname":"Ciuculesti",
@@ -24,13 +24,24 @@
     "gn:population":68,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.16557,46.24165,23.20557,46.28165",
+    "lbl:latitude":46.26165,
+    "lbl:longitude":23.18557,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciucule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ciuculesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681478
+        "gn:id":681478,
+        "ro-ancpi:id":3510
     },
     "wof:country":"RO",
-    "wof:geomhash":"ba7a1141ac276da8c0ba8642d2fdb013",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a9f1bbb575c8057c3f333852b2a807cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1193029949,
-    "wof:lastmodified":1566610440,
-    "wof:name":"Ciuculesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203758,
+    "wof:name":"Ciucule\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":68,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.18557,
-    46.26165,
-    23.18557,
-    46.26165
+    23.181592,
+    46.258935,
+    23.187769,
+    46.262983
 ],
-  "geometry": {"coordinates":[23.18557,46.26165],"type":"Point"}
+  "geometry": {"coordinates":[[[23.181592,46.261591],[23.182056,46.261957],[23.182911,46.262983],[23.184066,46.262551],[23.184776,46.262201],[23.185147,46.261834],[23.185807,46.262144],[23.18708,46.260884],[23.187343,46.260444],[23.187769,46.259888],[23.186538,46.258935],[23.184806,46.260474],[23.184156,46.26072],[23.181592,46.261591]]],"type":"Polygon"}
 }

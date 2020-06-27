@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.30335,45.35194,24.30335,45.35194",
-    "geom:latitude":45.35194,
-    "geom:longitude":24.30335,
+    "geom:area":0.000025,
+    "geom:area_square_m":220993.430051,
+    "geom:bbox":"24.296274,45.348249,24.303951,45.359817",
+    "geom:latitude":45.354418,
+    "geom:longitude":24.301326,
     "gn:admin1_code":"39",
     "gn:admin2_code":"167794.0",
     "gn:asciiname":"Draganesti",
@@ -25,17 +25,30 @@
     "gn:population":123,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.28335,45.33194,24.32335,45.37194",
+    "lbl:latitude":45.356508,
+    "lbl:longitude":24.302472,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.356508,
+    "mps:longitude":24.302472,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dr\u0103g\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Draganesti"
+    ],
     "name:und_x_variant":[
         "V\u0103ratecu-Dr\u0103g\u0103ne\u015fti",
         "Dr\u0103g\u0103ne\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679000
+        "gn:id":679000,
+        "ro-ancpi:id":167838
     },
     "wof:country":"RO",
-    "wof:geomhash":"d078d7f7577f90e42e14a0febaf88f9e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d2b15f1f17a820fe69a0d1f45cbf1619",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1243584649,
-    "wof:lastmodified":1566611492,
-    "wof:name":"Draganesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203693,
+    "wof:name":"Dr\u0103g\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":123,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.30335,
-    45.35194,
-    24.30335,
-    45.35194
+    24.296274,
+    45.348249,
+    24.303951,
+    45.359817
 ],
-  "geometry": {"coordinates":[24.30335,45.35194],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.303951,45.354698],[24.303675,45.352829],[24.301607,45.353101],[24.301016,45.356594],[24.299283,45.359385],[24.301051,45.359817],[24.301995,45.358954],[24.303881,45.357335],[24.303951,45.354698]]],[[[24.302256,45.348397],[24.301462,45.348249],[24.30073,45.349427],[24.296392,45.349483],[24.296274,45.350306],[24.300649,45.351096],[24.301408,45.350418],[24.302256,45.348397]]]],"type":"MultiPolygon"}
 }

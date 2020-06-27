@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.884,45.8158,21.884,45.8158",
-    "geom:latitude":45.8158,
-    "geom:longitude":21.884,
+    "geom:area":0.000136,
+    "geom:area_square_m":1168772.438737,
+    "geom:bbox":"21.874976,45.810562,21.895825,45.822722",
+    "geom:latitude":45.816458,
+    "geom:longitude":21.885773,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155546",
     "gn:asciiname":"Bodo",
@@ -25,11 +25,12 @@
     "gn:population":521,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.864,45.7958,21.904,45.8358",
+    "lbl:latitude":45.8158,
+    "lbl:longitude":21.884,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bih_x_preferred":[
         "\u092c\u094b\u0921\u093c\u094b \u092d\u093e\u0937\u093e"
@@ -88,7 +89,11 @@
         "Bara",
         "Colonia-Maghiar\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,10 +102,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684453
+        "gn:id":684453,
+        "ro-ancpi:id":155564
     },
     "wof:country":"RO",
-    "wof:geomhash":"2f49eb72bb358fae04172b6d0c9145c5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05334935e6af8d1e50b1ab41ed5dc682",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +119,13 @@
         }
     ],
     "wof:id":1276499305,
-    "wof:lastmodified":1566610225,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203737,
     "wof:name":"Bodo",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -122,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.884,
-    45.8158,
-    21.884,
-    45.8158
+    21.874976,
+    45.810562,
+    21.895825,
+    45.822722
 ],
-  "geometry": {"coordinates":[21.884,45.8158],"type":"Point"}
+  "geometry": {"coordinates":[[[21.895404,45.82043],[21.895825,45.816108],[21.894802,45.815626],[21.892553,45.814896],[21.891427,45.814571],[21.89056,45.814331],[21.890313,45.814134],[21.88979,45.813979],[21.887655,45.813311],[21.878873,45.810562],[21.877993,45.810825],[21.877799,45.811239],[21.875501,45.81596],[21.874976,45.817128],[21.875328,45.817238],[21.878599,45.818297],[21.881192,45.81916],[21.881579,45.818525],[21.881805,45.818592],[21.881873,45.818493],[21.885679,45.819664],[21.885701,45.819638],[21.886878,45.82001],[21.88878,45.820628],[21.893768,45.822722],[21.895404,45.82043]]],"type":"Polygon"}
 }

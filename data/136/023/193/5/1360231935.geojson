@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.28326,44.3897,24.28326,44.3897",
-    "geom:latitude":44.3897,
-    "geom:longitude":24.28326,
+    "geom:area":0.000045,
+    "geom:area_square_m":396589.793019,
+    "geom:bbox":"24.278234,44.380949,24.288698,44.390452",
+    "geom:latitude":44.386137,
+    "geom:longitude":24.282991,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127064.0",
     "gn:asciiname":"Oltisoru",
@@ -25,17 +25,28 @@
     "gn:population":367,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.26326,44.3697,24.30326,44.4097",
+    "lbl:latitude":44.3897,
+    "lbl:longitude":24.28326,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Olti\u015foru"
+    ],
+    "name:ron_x_variant":[
+        "Oltisoru"
+    ],
     "name:und_x_variant":[
         "Spurca\u0163i",
         "Olti\u015foru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671820
+        "gn:id":671820,
+        "ro-ancpi:id":127117
     },
     "wof:country":"RO",
-    "wof:geomhash":"a6bad0c7b4eab6b26f38a8e95eefb730",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10201feff0aa7b52c70211475c84685d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1360231935,
-    "wof:lastmodified":1566610608,
-    "wof:name":"Oltisoru",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203702,
+    "wof:name":"Olti\u015foru",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":367,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28326,
-    44.3897,
-    24.28326,
-    44.3897
+    24.278234,
+    44.380949,
+    24.288698,
+    44.390452
 ],
-  "geometry": {"coordinates":[24.28326,44.3897],"type":"Point"}
+  "geometry": {"coordinates":[[[24.284308,44.381003],[24.281808,44.380949],[24.281079,44.383922],[24.280297,44.383938],[24.278997,44.3842],[24.279048,44.384672],[24.28072,44.386032],[24.281705,44.386063],[24.281517,44.387203],[24.280522,44.38727],[24.279614,44.388264],[24.278234,44.389832],[24.279139,44.390017],[24.281122,44.390292],[24.282422,44.390452],[24.285879,44.389987],[24.286529,44.388559],[24.282556,44.387457],[24.282615,44.386137],[24.288698,44.385862],[24.287367,44.384215],[24.284176,44.383723],[24.284502,44.382067],[24.284308,44.381003]]],"type":"Polygon"}
 }

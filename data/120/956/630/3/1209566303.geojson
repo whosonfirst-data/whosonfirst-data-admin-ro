@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.6939,47.09603,26.6939,47.09603",
-    "geom:latitude":47.09603,
-    "geom:longitude":26.6939,
+    "geom:area":0.000053,
+    "geom:area_square_m":442139.489976,
+    "geom:bbox":"26.688446,47.091253,26.702439,47.100173",
+    "geom:latitude":47.095546,
+    "geom:longitude":26.695727,
     "gn:admin1_code":"28",
     "gn:admin2_code":"124750",
     "gn:asciiname":"Hanul Ancutei",
@@ -24,33 +24,58 @@
     "gn:population":25,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.6739,47.07603,26.7139,47.11603",
+    "lbl:latitude":47.09603,
+    "lbl:longitude":26.6939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Hanul Ancu\u0163ei"
+    ],
+    "name:ron_x_variant":[
+        "Hanul Ancutei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687747
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11001780
+        "gn:id":11001780,
+        "ro-ancpi:id":124787
     },
     "wof:country":"RO",
-    "wof:geomhash":"a307b9a3da284dc84409de3918f8d556",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"35b10d5f9cb954032c685b9cdc1c8d0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209566303
+            "locality_id":1209566303,
+            "region_id":85687747
         }
     ],
     "wof:id":1209566303,
-    "wof:lastmodified":1566610362,
-    "wof:name":"Hanul Ancutei",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203560,
+    "wof:name":"Hanul Ancu\u0163ei",
+    "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:population":25,
     "wof:population_rank":1,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.6939,
-    47.09603,
-    26.6939,
-    47.09603
+    26.688446,
+    47.091253,
+    26.702439,
+    47.100173
 ],
-  "geometry": {"coordinates":[26.6939,47.09603],"type":"Point"}
+  "geometry": {"coordinates":[[[26.702439,47.095585],[26.698454,47.093223],[26.697242,47.094134],[26.692583,47.091253],[26.691541,47.092157],[26.692137,47.092524],[26.690956,47.093189],[26.690293,47.092792],[26.688446,47.094393],[26.691187,47.09494],[26.69233,47.095164],[26.692712,47.095284],[26.692372,47.095536],[26.693065,47.096815],[26.693309,47.097503],[26.693811,47.098007],[26.694567,47.098534],[26.694915,47.098928],[26.695326,47.099685],[26.696124,47.100173],[26.698355,47.098601],[26.700859,47.096685],[26.702439,47.095585]]],"type":"Polygon"}
 }

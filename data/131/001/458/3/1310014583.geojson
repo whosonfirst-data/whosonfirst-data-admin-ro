@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.20558,46.01027,22.20558,46.01027",
-    "geom:latitude":46.01027,
-    "geom:longitude":22.20558,
+    "geom:area":0.000036,
+    "geom:area_square_m":312096.266111,
+    "geom:bbox":"22.199756,46.005045,22.207106,46.018304",
+    "geom:latitude":46.011504,
+    "geom:longitude":22.203261,
     "gn:admin1_code":"02",
     "gn:admin2_code":"11842.0",
     "gn:asciiname":"Halalis",
@@ -24,19 +24,30 @@
     "gn:population":162,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.18558,45.99027,22.22558,46.03027",
+    "lbl:latitude":46.011277,
+    "lbl:longitude":22.203567,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.011277,
+    "mps:longitude":22.203567,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
-        "H\u0103l\u0103li\u0219"
+        "H\u0103l\u0103li\u015f"
+    ],
+    "name:ron_x_variant":[
+        "H\u0103l\u0103li\u0219",
+        "Halalis"
     ],
     "name:und_x_variant":[
         "\u00c1ld\u00e1sos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676374
+        "gn:id":676374,
+        "ro-ancpi:id":11888
     },
     "wof:country":"RO",
-    "wof:geomhash":"2f4d746c8876fcddc6a69a7ed5ac978e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"68f1bc4c188f462b0a5963ac0a40bf3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1310014583,
-    "wof:lastmodified":1566610560,
-    "wof:name":"Halalis",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203712,
+    "wof:name":"H\u0103l\u0103li\u015f",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":162,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.20558,
-    46.01027,
-    22.20558,
-    46.01027
+    22.199756,
+    46.005045,
+    22.207106,
+    46.018304
 ],
-  "geometry": {"coordinates":[22.20558,46.01027],"type":"Point"}
+  "geometry": {"coordinates":[[[22.205603,46.005068],[22.205441,46.005045],[22.203983,46.00651],[22.201416,46.006822],[22.20152,46.00731],[22.203078,46.007911],[22.202226,46.011077],[22.201834,46.012992],[22.200862,46.014486],[22.199956,46.015935],[22.199756,46.016955],[22.200468,46.017724],[22.20063,46.018304],[22.201646,46.01827],[22.202984,46.016806],[22.202789,46.015361],[22.204165,46.014115],[22.204487,46.012289],[22.205389,46.011677],[22.205057,46.010125],[22.2054,46.009423],[22.205593,46.008134],[22.206351,46.00659],[22.206825,46.006084],[22.207106,46.005302],[22.20693,46.00527],[22.206747,46.005242],[22.206517,46.005205],[22.206228,46.005163],[22.206116,46.005146],[22.205892,46.005113],[22.205603,46.005068]]],"type":"Polygon"}
 }

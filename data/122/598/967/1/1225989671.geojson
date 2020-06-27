@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.21688,47.86046,26.21688,47.86046",
-    "geom:latitude":47.86046,
-    "geom:longitude":26.21688,
+    "geom:area":0.000039,
+    "geom:area_square_m":326337.518848,
+    "geom:bbox":"26.212831,47.852604,26.22922,47.862857",
+    "geom:latitude":47.857257,
+    "geom:longitude":26.220348,
     "gn:admin1_code":"34",
     "gn:admin2_code":"151246.0",
     "gn:asciiname":"Cojocareni",
@@ -24,13 +24,24 @@
     "gn:population":164,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.19688,47.84046,26.23688,47.88046",
+    "lbl:latitude":47.86046,
+    "lbl:longitude":26.21688,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cojoc\u0103reni"
+    ],
+    "name:ron_x_variant":[
+        "Cojocareni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681145
+        "gn:id":681145,
+        "ro-ancpi:id":151282
     },
     "wof:country":"RO",
-    "wof:geomhash":"f241136e09a703a8119d965d0336292e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bf9583c0de113250993b85afd0d104f3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1225989671,
-    "wof:lastmodified":1566611666,
-    "wof:name":"Cojocareni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203441,
+    "wof:name":"Cojoc\u0103reni",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":164,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.21688,
-    47.86046,
-    26.21688,
-    47.86046
+    26.212831,
+    47.852604,
+    26.22922,
+    47.862857
 ],
-  "geometry": {"coordinates":[26.21688,47.86046],"type":"Point"}
+  "geometry": {"coordinates":[[[26.212831,47.86071],[26.213251,47.861239],[26.213746,47.861432],[26.213247,47.862857],[26.213656,47.862624],[26.213656,47.862623],[26.213784,47.86255],[26.220412,47.858584],[26.222759,47.85723],[26.226158,47.855269],[26.22922,47.853502],[26.228599,47.852604],[26.226141,47.8533],[26.221436,47.855699],[26.21953,47.854516],[26.217337,47.857123],[26.217947,47.857466],[26.21776,47.857609],[26.213164,47.860496],[26.212884,47.860678],[26.212831,47.86071]]],"type":"Polygon"}
 }

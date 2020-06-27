@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29776,44.57376,24.29776,44.57376",
-    "geom:latitude":44.57376,
-    "geom:longitude":24.29776,
+    "geom:area":0.000052,
+    "geom:area_square_m":456982.747397,
+    "geom:bbox":"24.285701,44.569685,24.298261,44.578761",
+    "geom:latitude":44.573006,
+    "geom:longitude":24.293271,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174218.0",
     "gn:asciiname":"Tighina",
@@ -24,13 +24,23 @@
     "gn:population":372,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.27776,44.55376,24.31776,44.59376",
+    "lbl:latitude":44.571945,
+    "lbl:longitude":24.29546,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.571945,
+    "mps:longitude":24.29546,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Tighina"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665120
+        "gn:id":665120,
+        "ro-ancpi:id":174236
     },
     "wof:country":"RO",
-    "wof:geomhash":"c4430f413df5bbb4cfe13a6610545d9e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c4051f06040e5e1f22daa624f5437a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1276373771,
-    "wof:lastmodified":1566610255,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
     "wof:name":"Tighina",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29776,
-    44.57376,
-    24.29776,
-    44.57376
+    24.285701,
+    44.569685,
+    24.298261,
+    44.578761
 ],
-  "geometry": {"coordinates":[24.29776,44.57376],"type":"Point"}
+  "geometry": {"coordinates":[[[24.297714,44.569783],[24.294784,44.569685],[24.289739,44.570582],[24.285701,44.571414],[24.285744,44.572999],[24.293797,44.573434],[24.292766,44.578585],[24.295641,44.578761],[24.295544,44.577634],[24.296399,44.575584],[24.297363,44.573654],[24.298261,44.570339],[24.297714,44.569783]]],"type":"Polygon"}
 }

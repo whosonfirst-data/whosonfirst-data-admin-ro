@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.35075,45.04373,26.35075,45.04373",
-    "geom:latitude":45.04373,
-    "geom:longitude":26.35075,
+    "geom:area":0.000034,
+    "geom:area_square_m":300206.633823,
+    "geom:bbox":"26.342791,45.038959,26.350511,45.047278",
+    "geom:latitude":45.043505,
+    "geom:longitude":26.346265,
     "gn:admin1_code":"30",
     "gn:admin2_code":"133278",
     "gn:asciiname":"Bozieni",
@@ -24,16 +24,22 @@
     "gn:population":76,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.33075,45.02373,26.37075,45.06373",
+    "lbl:latitude":45.043081,
+    "lbl:longitude":26.346206,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.043081,
+    "mps:longitude":26.346206,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bozieni"
     ],
     "name:deu_x_preferred":[
+        "Bozieni"
+    ],
+    "name:eus_x_preferred":[
         "Bozieni"
     ],
     "name:fra_x_preferred":[
@@ -48,27 +54,45 @@
     "name:srp_x_preferred":[
         "\u0411\u043e\u0437\u0438\u0435\u043d\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687661
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684001
+        "gn:id":684001,
+        "ro-ancpi:id":133296
     },
     "wof:country":"RO",
-    "wof:geomhash":"646cb88970372a41c89acbeffcafa78d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c33996ed3d977e6273c97970d9f15e92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209561755
+            "locality_id":1209561755,
+            "region_id":85687661
         }
     ],
     "wof:id":1209561755,
-    "wof:lastmodified":1566610361,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203577,
     "wof:name":"Bozieni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":76,
     "wof:population_rank":1,
@@ -78,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.35075,
-    45.04373,
-    26.35075,
-    45.04373
+    26.342791,
+    45.038959,
+    26.350511,
+    45.047278
 ],
-  "geometry": {"coordinates":[26.35075,45.04373],"type":"Point"}
+  "geometry": {"coordinates":[[[26.349372,45.046599],[26.350396,45.046237],[26.349861,45.045772],[26.350511,45.045441],[26.349785,45.044766],[26.348855,45.044952],[26.347941,45.044263],[26.348355,45.044046],[26.349087,45.043401],[26.349304,45.043091],[26.349169,45.042769],[26.348829,45.042291],[26.3485,45.041951],[26.347968,45.041618],[26.347698,45.041563],[26.347341,45.041334],[26.346742,45.040991],[26.34636,45.040619],[26.346153,45.040102],[26.345899,45.039782],[26.34559,45.039361],[26.345039,45.039135],[26.344676,45.038959],[26.344362,45.039286],[26.344135,45.039485],[26.343987,45.039868],[26.343809,45.040225],[26.3433,45.040534],[26.342894,45.040729],[26.342791,45.041472],[26.343176,45.0416],[26.343167,45.042173],[26.343881,45.042663],[26.344067,45.043562],[26.344038,45.04424],[26.343886,45.044751],[26.344008,45.044887],[26.343524,45.045275],[26.34324,45.045893],[26.343202,45.046185],[26.343804,45.046347],[26.343944,45.045943],[26.344948,45.046048],[26.344858,45.045736],[26.345546,45.046353],[26.346078,45.046718],[26.346527,45.046405],[26.347116,45.046674],[26.347572,45.047278],[26.348195,45.047074],[26.349451,45.046773],[26.349372,45.046599]]],"type":"Polygon"}
 }

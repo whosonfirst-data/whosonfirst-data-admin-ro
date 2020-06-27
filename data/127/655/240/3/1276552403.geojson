@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.23992,46.56773,22.23992,46.56773",
-    "geom:latitude":46.56773,
-    "geom:longitude":22.23992,
+    "geom:area_square_m":3634.883868,
+    "geom:bbox":"22.227692,46.576444,22.234059,46.579703",
+    "geom:latitude":46.578379,
+    "geom:longitude":22.231539,
     "gn:admin1_code":"05",
     "gn:admin2_code":"29403",
     "gn:asciiname":"Brusturi",
@@ -24,11 +24,14 @@
     "gn:population":7,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.21992,46.54773,22.25992,46.58773",
+    "lbl:latitude":46.579424,
+    "lbl:longitude":22.233653,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.579424,
+    "mps:longitude":22.233653,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Brusturi"
@@ -37,6 +40,9 @@
         "Brusturi"
     ],
     "name:epo_x_preferred":[
+        "Brusturi"
+    ],
+    "name:eus_x_preferred":[
         "Brusturi"
     ],
     "name:fra_x_preferred":[
@@ -60,7 +66,11 @@
     "name:vol_x_preferred":[
         "Brusturi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683615
+        "gn:id":683615,
+        "ro-ancpi:id":29421
     },
     "wof:country":"RO",
-    "wof:geomhash":"715fcf029aa3c053d0cee197ff6d875a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"be5507ab99b4489fe70f1b59e3400d87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +96,13 @@
         }
     ],
     "wof:id":1276552403,
-    "wof:lastmodified":1566610249,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203501,
     "wof:name":"Brusturi",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
@@ -94,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.23992,
-    46.56773,
-    22.23992,
-    46.56773
+    22.227692,
+    46.576444,
+    22.234059,
+    46.579703
 ],
-  "geometry": {"coordinates":[22.23992,46.56773],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.234059,46.579545],[22.23382,46.57914],[22.233243,46.579319],[22.233482,46.579703],[22.234059,46.579545]]],[[[22.228301,46.576512],[22.227766,46.576444],[22.227692,46.576724],[22.228196,46.576819],[22.228301,46.576512]]]],"type":"MultiPolygon"}
 }

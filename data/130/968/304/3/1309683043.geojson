@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.64111,44.12366,27.64111,44.12366",
-    "geom:latitude":44.12366,
-    "geom:longitude":27.64111,
+    "geom:area":0.000049,
+    "geom:area_square_m":431475.626118,
+    "geom:bbox":"27.634163,44.119413,27.644752,44.129666",
+    "geom:latitude":44.123865,
+    "geom:longitude":27.63945,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62486.0",
     "gn:asciiname":"Strunga",
@@ -25,17 +25,21 @@
     "gn:population":18,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.62111,44.10366,27.66111,44.14366",
+    "lbl:latitude":44.12366,
+    "lbl:longitude":27.64111,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0631\u0648\u0646\u063a\u0627"
     ],
     "name:ceb_x_preferred":[
         "Comuna Strunga"
+    ],
+    "name:eus_x_preferred":[
+        "Strunga"
     ],
     "name:ita_x_preferred":[
         "Strunga"
@@ -50,6 +54,9 @@
         "Strunga"
     ],
     "name:ron_x_preferred":[
+        "Strunga"
+    ],
+    "name:ron_x_variant":[
         "Comuna Strunga"
     ],
     "name:srp_x_preferred":[
@@ -70,7 +77,11 @@
     "name:zho_x_preferred":[
         "\u65af\u7279\u502b\u52a0\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,10 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665915
+        "gn:id":665915,
+        "ro-ancpi:id":62529
     },
     "wof:country":"RO",
-    "wof:geomhash":"9bd7d45de003fa4f37728eee999e8aa7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0b6e0ec0e13071dd7dd8406409951344",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +107,13 @@
         }
     ],
     "wof:id":1309683043,
-    "wof:lastmodified":1566611249,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203614,
     "wof:name":"Strunga",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -104,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.64111,
-    44.12366,
-    27.64111,
-    44.12366
+    27.634163,
+    44.119413,
+    27.644752,
+    44.129666
 ],
-  "geometry": {"coordinates":[27.64111,44.12366],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.634588,44.12925],[27.635327,44.129162],[27.635941,44.129216],[27.635758,44.128671],[27.635731,44.128588],[27.635754,44.128335],[27.636786,44.128158],[27.637739,44.128341],[27.638428,44.12693],[27.638859,44.126487],[27.639331,44.126542],[27.639776,44.125957],[27.640199,44.126196],[27.641279,44.12622],[27.642728,44.124117],[27.644752,44.121271],[27.642327,44.119424],[27.642198,44.11949],[27.642122,44.119413],[27.640989,44.119597],[27.640761,44.119729],[27.640109,44.119871],[27.639932,44.119833],[27.639038,44.120112],[27.638947,44.120219],[27.63872,44.120209],[27.638344,44.120818],[27.638033,44.121047],[27.636996,44.122994],[27.635942,44.124972],[27.634903,44.126984],[27.634675,44.127746],[27.634649,44.127834],[27.634163,44.128704],[27.634274,44.128986],[27.634588,44.12925]]],[[[27.639031,44.128997],[27.638761,44.128894],[27.638241,44.129546],[27.638605,44.129666],[27.639031,44.128997]]]],"type":"MultiPolygon"}
 }

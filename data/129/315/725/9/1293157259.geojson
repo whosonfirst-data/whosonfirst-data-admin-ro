@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.49144,44.59425,26.49144,44.59425",
-    "geom:latitude":44.59425,
-    "geom:longitude":26.49144,
+    "geom:area":0.000029,
+    "geom:area_square_m":259343.814333,
+    "geom:bbox":"26.486629,44.590979,26.495928,44.597161",
+    "geom:latitude":44.594204,
+    "geom:longitude":26.491341,
     "gn:admin1_code":"22",
     "gn:admin2_code":"102641.0",
     "gn:asciiname":"Chiroiu-Satu Nou",
@@ -25,18 +25,26 @@
     "gn:population":28,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.47144,44.57425,26.51144,44.61425",
+    "lbl:latitude":44.59425,
+    "lbl:longitude":26.49144,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Chiroiu-Satu Nou"
+    ],
     "name:und_x_variant":[
         "Chiroiu Nou",
         "Chiroiu Satul-Nou",
         "Chiroiu Satu Nou"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682030
+        "gn:id":682030,
+        "ro-ancpi:id":102678
     },
     "wof:country":"RO",
-    "wof:geomhash":"a87ef21d7c7b513a7540aee27645360f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8ec3bf5099f0aabccb89c919910634e4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +70,13 @@
         }
     ],
     "wof:id":1293157259,
-    "wof:lastmodified":1566610070,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203674,
     "wof:name":"Chiroiu-Satu Nou",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
@@ -70,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.49144,
-    44.59425,
-    26.49144,
-    44.59425
+    26.486629,
+    44.590979,
+    26.495928,
+    44.597161
 ],
-  "geometry": {"coordinates":[26.49144,44.59425],"type":"Point"}
+  "geometry": {"coordinates":[[[26.494939,44.593703],[26.493781,44.593379],[26.492865,44.592926],[26.492327,44.592579],[26.491618,44.592245],[26.489286,44.590979],[26.488337,44.591865],[26.486629,44.593671],[26.489242,44.594967],[26.488808,44.595386],[26.492115,44.596965],[26.492475,44.596604],[26.493612,44.597161],[26.495481,44.595293],[26.49562,44.594589],[26.495928,44.594087],[26.494849,44.593808],[26.494939,44.593703]]],"type":"Polygon"}
 }

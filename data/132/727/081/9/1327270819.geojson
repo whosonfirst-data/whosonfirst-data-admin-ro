@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.79321,44.09943,25.79321,44.09943",
-    "geom:latitude":44.09943,
-    "geom:longitude":25.79321,
+    "geom:area":0.000068,
+    "geom:area_square_m":606885.207912,
+    "geom:bbox":"25.785574,44.093081,25.796447,44.104045",
+    "geom:latitude":44.099032,
+    "geom:longitude":25.79128,
     "gn:admin1_code":"42",
     "gn:admin2_code":"103899.0",
     "gn:asciiname":"Petru Rares",
@@ -24,11 +24,12 @@
     "gn:population":246,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.77321,44.07943,25.81321,44.11943",
+    "lbl:latitude":44.09943,
+    "lbl:longitude":25.79321,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Petru Rare\u0219"
@@ -52,7 +53,11 @@
         "Petru Rare\u0219"
     ],
     "name:ron_x_preferred":[
-        "Comuna Petru Rare\u0219"
+        "Petru Rare\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Petru Rare\u0219",
+        "Petru Rares"
     ],
     "name:sqi_x_preferred":[
         "Petru Rare\u015f"
@@ -63,13 +68,20 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0443-\u0420\u0430\u0440\u0435\u0448"
     ],
+    "name:vie_x_preferred":[
+        "Petru Rare\u0219"
+    ],
     "name:vol_x_preferred":[
         "Petru Rare\u015f"
     ],
     "name:zho_x_preferred":[
         "\u5f7c\u5f97\u9b6f\u62c9\u96f7\u4ec0\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,10 +91,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":670930,
+        "ro-ancpi:id":103933,
         "wk:page":"Petru_Rare%C8%99%2C_Bistri%C8%9Ba-N%C4%83s%C4%83ud"
     },
     "wof:country":"RO",
-    "wof:geomhash":"23f0b1cf5204adf5abbda46069894bea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c2d30eeed89c952ed53aecb0990cce18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,8 +108,14 @@
         }
     ],
     "wof:id":1327270819,
-    "wof:lastmodified":1566609872,
-    "wof:name":"Petru Rares",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203328,
+    "wof:name":"Petru Rare\u015f",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":246,
@@ -104,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.79321,
-    44.09943,
-    25.79321,
-    44.09943
+    25.785574,
+    44.093081,
+    25.796447,
+    44.104045
 ],
-  "geometry": {"coordinates":[25.79321,44.09943],"type":"Point"}
+  "geometry": {"coordinates":[[[25.791642,44.103812],[25.792291,44.10371],[25.792673,44.103761],[25.796191,44.103003],[25.795521,44.101741],[25.796447,44.101563],[25.795536,44.099804],[25.794698,44.098315],[25.794614,44.098072],[25.794958,44.097156],[25.79607,44.096883],[25.795971,44.096563],[25.796313,44.096495],[25.79625,44.09628],[25.794722,44.096581],[25.794564,44.096634],[25.794552,44.096608],[25.794536,44.096579],[25.794099,44.09576],[25.793868,44.095333],[25.793512,44.094659],[25.789302,44.095389],[25.788063,44.093081],[25.787102,44.093242],[25.787929,44.094786],[25.787138,44.095076],[25.787453,44.095772],[25.785574,44.096103],[25.786152,44.096961],[25.786292,44.097559],[25.786656,44.098191],[25.78797,44.099644],[25.788364,44.100238],[25.788667,44.100732],[25.788351,44.100796],[25.788141,44.101401],[25.787954,44.101794],[25.787643,44.102165],[25.787825,44.102447],[25.788637,44.102714],[25.789139,44.10259],[25.789329,44.102915],[25.789941,44.102919],[25.790174,44.103399],[25.790449,44.103406],[25.790762,44.104045],[25.791313,44.103907],[25.791642,44.103812]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.36667,44.63333,24.36667,44.63333",
-    "geom:latitude":44.63333,
-    "geom:longitude":24.36667,
+    "geom:area":0.000024,
+    "geom:area_square_m":212872.360386,
+    "geom:bbox":"24.368624,44.629754,24.37873,44.635866",
+    "geom:latitude":44.633456,
+    "geom:longitude":24.373036,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129816.0",
     "gn:asciiname":"Vanesti",
@@ -25,36 +25,63 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.34667,44.61333,24.38667,44.65333",
+    "lbl:latitude":44.63368,
+    "lbl:longitude":24.373381,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.63368,
+    "mps:longitude":24.373381,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "V\u00e2ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Vanesti"
+    ],
     "name:und_x_variant":[
         "V\u00e2ne\u015fti",
         "V\u00eene\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662816
+        "gn:id":662816,
+        "ro-ancpi:id":129889
     },
     "wof:country":"RO",
-    "wof:geomhash":"e43efcbc49ffad7d556fca0603b1c5ce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"07d2e0394feda3731b6f35cbe7998d12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209465733
+            "locality_id":1209465733,
+            "region_id":85687607
         }
     ],
     "wof:id":1209465733,
-    "wof:lastmodified":1566610318,
-    "wof:name":"Vanesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
+    "wof:name":"V\u00e2ne\u015fti",
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -62,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36667000000001,
-    44.63333,
-    24.36667000000001,
-    44.63333
+    24.368624,
+    44.629754,
+    24.37873,
+    44.635866
 ],
-  "geometry": {"coordinates":[24.36667000000001,44.63333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.37873,44.634763],[24.378586,44.634194],[24.376263,44.634495],[24.374866,44.632307],[24.37348,44.631562],[24.372724,44.629754],[24.371171,44.629906],[24.372046,44.632334],[24.369703,44.632889],[24.369614,44.632909],[24.368624,44.633144],[24.368805,44.6336],[24.370425,44.63449],[24.371674,44.635866],[24.374603,44.635368],[24.37873,44.634763]]],"type":"Polygon"}
 }

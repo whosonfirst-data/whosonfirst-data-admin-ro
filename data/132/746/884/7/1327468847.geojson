@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.07638,44.4966,24.07638,44.4966",
-    "geom:latitude":44.4966,
-    "geom:longitude":24.07638,
+    "geom:area":0.000044,
+    "geom:area_square_m":392415.018619,
+    "geom:bbox":"24.063624,44.492928,24.078387,44.503725",
+    "geom:latitude":44.498541,
+    "geom:longitude":24.071807,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170612.0",
     "gn:asciiname":"Oltetani",
@@ -25,17 +25,28 @@
     "gn:population":335,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.05638,44.4766,24.09638,44.5166",
+    "lbl:latitude":44.4966,
+    "lbl:longitude":24.07638,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Olte\u0163ani"
+    ],
+    "name:ron_x_variant":[
+        "Oltetani"
+    ],
     "name:und_x_variant":[
         "Boboaca",
         "Olte\u0163ani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671828
+        "gn:id":671828,
+        "ro-ancpi:id":170667
     },
     "wof:country":"RO",
-    "wof:geomhash":"bc97e595302a3c4736d3867068693e19",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46932ad285c146f7e54d8facc3852df1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1327468847,
-    "wof:lastmodified":1566609814,
-    "wof:name":"Oltetani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
+    "wof:name":"Olte\u0163ani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":335,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.07638,
-    44.4966,
-    24.07638,
-    44.4966
+    24.063624,
+    44.492928,
+    24.078387,
+    44.503725
 ],
-  "geometry": {"coordinates":[24.07638,44.4966],"type":"Point"}
+  "geometry": {"coordinates":[[[24.066894,44.503725],[24.070017,44.500254],[24.071963,44.50124],[24.073786,44.49883],[24.077124,44.497504],[24.078387,44.494349],[24.076305,44.492928],[24.074931,44.494142],[24.074229,44.495617],[24.072751,44.4966],[24.068147,44.499013],[24.063624,44.502984],[24.066894,44.503725]]],"type":"Polygon"}
 }

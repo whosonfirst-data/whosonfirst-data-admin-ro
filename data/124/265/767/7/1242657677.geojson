@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.83333,45.18333,21.83333,45.18333",
-    "geom:latitude":45.18333,
-    "geom:longitude":21.83333,
+    "geom:area":0.000048,
+    "geom:area_square_m":417918.613596,
+    "geom:bbox":"21.805326,45.173211,21.820436,45.181476",
+    "geom:latitude":45.177148,
+    "geom:longitude":21.812145,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52954.0",
     "gn:asciiname":"Garliste",
@@ -25,17 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.81333,45.16333,21.85333,45.20333",
+    "lbl:latitude":45.17753,
+    "lbl:longitude":21.81226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.17753,
+    "mps:longitude":21.81226,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "G\u00e2rli\u015fte"
+    ],
+    "name:ron_x_variant":[
+        "Garliste"
+    ],
     "name:und_x_variant":[
         "G\u00e2rli\u015fte",
         "G\u00eerli\u015fte"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677172
+        "gn:id":677172,
+        "ro-ancpi:id":52981
     },
     "wof:country":"RO",
-    "wof:geomhash":"999b8106bdf76dc40eaf78041093b661",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"26574af2cf3f366f618371513cb0a30b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1242657677,
-    "wof:lastmodified":1566611512,
-    "wof:name":"Garliste",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203625,
+    "wof:name":"G\u00e2rli\u015fte",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.83333,
-    45.18333,
-    21.83333,
-    45.18333
+    21.805326,
+    45.173211,
+    21.820436,
+    45.181476
 ],
-  "geometry": {"coordinates":[21.83333,45.18333],"type":"Point"}
+  "geometry": {"coordinates":[[[21.811327,45.179432],[21.81163,45.179204],[21.813224,45.179721],[21.814141,45.178646],[21.815444,45.176909],[21.81621,45.176193],[21.817871,45.175431],[21.819203,45.174885],[21.820022,45.174414],[21.820436,45.173984],[21.819665,45.173476],[21.819262,45.173211],[21.818451,45.173683],[21.817605,45.173852],[21.817283,45.173274],[21.816802,45.173334],[21.816619,45.173469],[21.816327,45.173579],[21.815988,45.173407],[21.815732,45.173262],[21.81448,45.173701],[21.812713,45.175671],[21.812072,45.175642],[21.811083,45.175733],[21.809934,45.175604],[21.809176,45.17632],[21.808842,45.176063],[21.807194,45.176952],[21.807083,45.177466],[21.806596,45.177654],[21.80713,45.178649],[21.805326,45.180217],[21.805846,45.180578],[21.807182,45.181476],[21.808911,45.180751],[21.810021,45.180212],[21.810803,45.179855],[21.811327,45.179432]]],"type":"Polygon"}
 }

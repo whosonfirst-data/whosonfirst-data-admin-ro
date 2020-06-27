@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.84952,45.61478,20.84952,45.61478",
-    "geom:latitude":45.61478,
-    "geom:longitude":20.84952,
+    "geom:area":0.000192,
+    "geom:area_square_m":1661615.609961,
+    "geom:bbox":"20.832023,45.607517,20.868491,45.621091",
+    "geom:latitude":45.614313,
+    "geom:longitude":20.848268,
     "gn:admin1_code":"36",
     "gn:admin2_code":"159525.0",
     "gn:asciiname":"Otelec",
@@ -25,11 +25,12 @@
     "gn:population":823,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"20.82952,45.59478,20.86952,45.63478",
+    "lbl:latitude":45.61478,
+    "lbl:longitude":20.84952,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Otelec"
@@ -40,6 +41,9 @@
     "name:epo_x_preferred":[
         "Otelec"
     ],
+    "name:eus_x_preferred":[
+        "Otelec"
+    ],
     "name:msa_x_preferred":[
         "Otelec"
     ],
@@ -47,6 +51,9 @@
         "Otelec"
     ],
     "name:ron_x_preferred":[
+        "Otelec"
+    ],
+    "name:ron_x_variant":[
         "Comuna Otelec"
     ],
     "name:srp_x_preferred":[
@@ -61,7 +68,11 @@
     "name:zho_x_preferred":[
         "\u5967\u6cf0\u840a\u514b\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -71,10 +82,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":671610,
+        "ro-ancpi:id":159179,
         "wk:page":"Otelec"
     },
     "wof:country":"RO",
-    "wof:geomhash":"c7b652623d127509c5aacda4a0ef1606",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3257110c9178f73b62adaba2899ea232",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +99,13 @@
         }
     ],
     "wof:id":1310349479,
-    "wof:lastmodified":1566610595,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
     "wof:name":"Otelec",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -96,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.84952,
-    45.61478,
-    20.84952,
-    45.61478
+    20.832023,
+    45.607517,
+    20.868491,
+    45.621091
 ],
-  "geometry": {"coordinates":[20.84952,45.61478],"type":"Point"}
+  "geometry": {"coordinates":[[[20.854818,45.619162],[20.859978,45.618843],[20.860876,45.619098],[20.861298,45.619141],[20.861841,45.619161],[20.862134,45.61922],[20.867976,45.619855],[20.868491,45.617829],[20.868448,45.617822],[20.867979,45.617761],[20.867787,45.617725],[20.867568,45.617697],[20.867318,45.61767],[20.867106,45.617638],[20.866925,45.61761],[20.866532,45.617564],[20.864782,45.617317],[20.862655,45.61701],[20.861189,45.616799],[20.859767,45.616606],[20.857089,45.616206],[20.855935,45.616047],[20.856025,45.615413],[20.855805,45.61534],[20.856411,45.613169],[20.853123,45.611685],[20.849045,45.610093],[20.847064,45.609273],[20.84629,45.608962],[20.845999,45.608699],[20.843026,45.609566],[20.841989,45.609232],[20.841488,45.609875],[20.839606,45.609081],[20.835849,45.607517],[20.832803,45.608437],[20.834377,45.609543],[20.833846,45.610162],[20.834083,45.610265],[20.833261,45.611174],[20.832481,45.610831],[20.832023,45.611428],[20.834128,45.612276],[20.834266,45.612377],[20.84154,45.615484],[20.841244,45.61587],[20.845842,45.617805],[20.846897,45.618205],[20.847362,45.618472],[20.848702,45.618826],[20.850662,45.61962],[20.85423,45.621091],[20.854818,45.619162]]],"type":"Polygon"}
 }

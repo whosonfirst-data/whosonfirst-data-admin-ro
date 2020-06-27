@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.29141,46.34759,27.29141,46.34759",
-    "geom:latitude":46.34759,
-    "geom:longitude":27.29141,
+    "geom:area":0.00002,
+    "geom:area_square_m":168954.517171,
+    "geom:bbox":"27.287438,46.342489,27.291409,46.360518",
+    "geom:latitude":46.35127,
+    "geom:longitude":27.289479,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22237",
     "gn:asciiname":"Banca",
@@ -24,16 +24,25 @@
     "gn:population":143,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.27141,46.32759,27.31141,46.36759",
+    "lbl:latitude":46.349466,
+    "lbl:longitude":27.288847,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.349466,
+    "mps:longitude":27.288847,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Banca"
     ],
     "name:deu_x_preferred":[
+        "Banca"
+    ],
+    "name:eus_x_preferred":[
+        "Banca"
+    ],
+    "name:ita_x_preferred":[
         "Banca"
     ],
     "name:nld_x_preferred":[
@@ -54,7 +63,11 @@
     "name:vie_x_preferred":[
         "Banca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685489
+        "gn:id":685489,
+        "ro-ancpi:id":22255
     },
     "wof:country":"RO",
-    "wof:geomhash":"2ea438baab953b96ab27f6fe4721a7ea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dfa23810dd99eab8cf24ecdfec016bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +93,13 @@
         }
     ],
     "wof:id":1293006929,
-    "wof:lastmodified":1566610027,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203539,
     "wof:name":"Banca",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -88,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.29141,
-    46.34759,
-    27.29141,
-    46.34759
+    27.287438,
+    46.342489,
+    27.291409,
+    46.360518
 ],
-  "geometry": {"coordinates":[27.29141,46.34759],"type":"Point"}
+  "geometry": {"coordinates":[[[27.291409,46.342636],[27.290613,46.342489],[27.290434,46.343119],[27.290386,46.344631],[27.289597,46.346197],[27.289422,46.346962],[27.288941,46.346918],[27.287787,46.350084],[27.288371,46.350126],[27.288306,46.350423],[27.288342,46.350682],[27.288564,46.351036],[27.288628,46.35133],[27.288443,46.351854],[27.288184,46.352468],[27.288173,46.35273],[27.288251,46.353033],[27.288577,46.353421],[27.289292,46.354748],[27.289015,46.356629],[27.289207,46.357532],[27.289161,46.358062],[27.288999,46.358749],[27.288759,46.359197],[27.287438,46.360356],[27.288592,46.360518],[27.289612,46.359611],[27.28995,46.358888],[27.289963,46.357878],[27.289986,46.356814],[27.289962,46.355713],[27.290189,46.354664],[27.289977,46.354075],[27.289189,46.352753],[27.289111,46.352366],[27.289404,46.35154],[27.289493,46.351052],[27.289336,46.350289],[27.290052,46.350264],[27.29025,46.349397],[27.289749,46.349342],[27.290287,46.347655],[27.29044,46.346509],[27.291172,46.345158],[27.291244,46.344654],[27.291335,46.343138],[27.291409,46.342636]]],"type":"Polygon"}
 }

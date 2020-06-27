@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.40232,44.17073,24.40232,44.17073",
-    "geom:latitude":44.17073,
-    "geom:longitude":24.40232,
+    "geom:area":0.000039,
+    "geom:area_square_m":347984.685637,
+    "geom:bbox":"24.395198,44.166218,24.403977,44.172705",
+    "geom:latitude":44.169713,
+    "geom:longitude":24.399577,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126718.0",
     "gn:asciiname":"Rescuta",
@@ -24,13 +24,24 @@
     "gn:population":484,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.38232,44.15073,24.42232,44.19073",
+    "lbl:latitude":44.17073,
+    "lbl:longitude":24.40232,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Re\u015fcu\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Rescuta"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668957
+        "gn:id":668957,
+        "ro-ancpi:id":126763
     },
     "wof:country":"RO",
-    "wof:geomhash":"c1576a49dc7c4241f536be03c8fec9cc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"23b52b977d15ccb2d8c3efa58e77fe86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1310462961,
-    "wof:lastmodified":1566610525,
-    "wof:name":"Rescuta",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
+    "wof:name":"Re\u015fcu\u0163a",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":484,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.40232,
-    44.17073,
-    24.40232,
-    44.17073
+    24.395198,
+    44.166218,
+    24.403977,
+    44.172705
 ],
-  "geometry": {"coordinates":[24.40232,44.17073],"type":"Point"}
+  "geometry": {"coordinates":[[[24.395506,44.170511],[24.395198,44.170821],[24.395419,44.17133],[24.397401,44.17218],[24.399285,44.172674],[24.401677,44.172705],[24.402281,44.172168],[24.403142,44.171688],[24.403977,44.170972],[24.403547,44.169541],[24.400526,44.166389],[24.398966,44.166218],[24.397078,44.166524],[24.396747,44.167624],[24.396129,44.169554],[24.395506,44.170511]]],"type":"Polygon"}
 }

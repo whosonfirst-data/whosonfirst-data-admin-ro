@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.63485,44.60956,25.63485,44.60956",
-    "geom:latitude":44.60956,
-    "geom:longitude":25.63485,
+    "geom:area":0.000005,
+    "geom:area_square_m":47889.344759,
+    "geom:bbox":"25.630302,44.607007,25.634654,44.610246",
+    "geom:latitude":44.608534,
+    "geom:longitude":25.632568,
     "gn:admin1_code":"16",
     "gn:admin2_code":"67906.0",
     "gn:asciiname":"Oreasca",
@@ -24,13 +24,23 @@
     "gn:population":19,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.61485,44.58956,25.65485,44.62956",
+    "lbl:latitude":44.608425,
+    "lbl:longitude":25.632601,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.608425,
+    "mps:longitude":25.632601,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Oreasca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671723
+        "gn:id":671723,
+        "ro-ancpi:id":67924
     },
     "wof:country":"RO",
-    "wof:geomhash":"9d2a9a20459fc0bc96f8112322a9d68f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"79401c6f86f34829ff9c475ff159789e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1277146625,
-    "wof:lastmodified":1566610213,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203720,
     "wof:name":"Oreasca",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.63485,
-    44.60956,
-    25.63485,
-    44.60956
+    25.630302,
+    44.607007,
+    25.634654,
+    44.610246
 ],
-  "geometry": {"coordinates":[25.63485,44.60956],"type":"Point"}
+  "geometry": {"coordinates":[[[25.633685,44.610023],[25.633501,44.609906],[25.634317,44.60935],[25.634202,44.609247],[25.634654,44.608955],[25.634476,44.608837],[25.634358,44.608759],[25.633513,44.608198],[25.631387,44.607007],[25.630584,44.607627],[25.63056,44.607646],[25.630302,44.607845],[25.632991,44.609386],[25.633129,44.609465],[25.633199,44.609506],[25.632337,44.609935],[25.632713,44.610191],[25.633002,44.610022],[25.633384,44.610246],[25.633685,44.610023]]],"type":"Polygon"}
 }

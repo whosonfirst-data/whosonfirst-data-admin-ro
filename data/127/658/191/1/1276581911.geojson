@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23812,44.83684,24.23812,44.83684",
-    "geom:latitude":44.83684,
-    "geom:longitude":24.23812,
+    "geom:area":0.000084,
+    "geom:area_square_m":736059.066319,
+    "geom:bbox":"24.233907,44.82658,24.247351,44.839465",
+    "geom:latitude":44.832571,
+    "geom:longitude":24.240362,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170514.0",
     "gn:asciiname":"Delureni",
@@ -25,11 +25,12 @@
     "gn:population":460,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.21812,44.81684,24.25812,44.85684",
+    "lbl:latitude":44.83684,
+    "lbl:longitude":24.23812,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Delureni"
@@ -49,7 +50,11 @@
     "name:und_x_variant":[
         "R\u0103sc\u0103e\u0163i"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679490
+        "gn:id":679490,
+        "ro-ancpi:id":170550
     },
     "wof:country":"RO",
-    "wof:geomhash":"1b868aadc7fbe1a163cd65c45d680fe7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9de02e3e814de8acda8d3c81c32243b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +80,13 @@
         }
     ],
     "wof:id":1276581911,
-    "wof:lastmodified":1566610197,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203683,
     "wof:name":"Delureni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -83,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23812,
-    44.83684,
-    24.23812,
-    44.83684
+    24.233907,
+    44.82658,
+    24.247351,
+    44.839465
 ],
-  "geometry": {"coordinates":[24.23812,44.83684],"type":"Point"}
+  "geometry": {"coordinates":[[[24.245736,44.826867],[24.244442,44.827587],[24.242248,44.82713],[24.241514,44.826666],[24.240036,44.82658],[24.235583,44.829651],[24.235007,44.832424],[24.233907,44.834235],[24.235841,44.836469],[24.235707,44.83844],[24.240546,44.839465],[24.243098,44.833053],[24.245888,44.833703],[24.247351,44.830898],[24.245123,44.8305],[24.246379,44.827063],[24.245736,44.826867]],[[24.241219,44.828675],[24.239772,44.832303],[24.239131,44.835936],[24.237435,44.836001],[24.237379,44.832172],[24.238062,44.829343],[24.239712,44.828703],[24.240499,44.828191],[24.241219,44.828675]]],"type":"Polygon"}
 }

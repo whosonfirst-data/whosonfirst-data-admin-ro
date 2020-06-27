@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.7627,44.47017,24.7627,44.47017",
-    "geom:latitude":44.47017,
-    "geom:longitude":24.7627,
+    "geom:area":0.000044,
+    "geom:area_square_m":385407.570993,
+    "geom:bbox":"24.758739,44.463483,24.767451,44.473016",
+    "geom:latitude":44.468391,
+    "geom:longitude":24.762864,
     "gn:admin1_code":"03",
     "gn:admin2_code":"14450.0",
     "gn:asciiname":"Zuvelcati",
@@ -24,13 +24,24 @@
     "gn:population":77,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.7427,44.45017,24.7827,44.49017",
+    "lbl:latitude":44.47017,
+    "lbl:longitude":24.7627,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Zuvelca\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Zuvelcati"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662120
+        "gn:id":662120,
+        "ro-ancpi:id":14575
     },
     "wof:country":"RO",
-    "wof:geomhash":"b7789ce1609bcc7bcafa211b32d7ce09",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aa2b0f42c19afcca365c790d5aa7d512",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1326537451,
-    "wof:lastmodified":1566609853,
-    "wof:name":"Zuvelcati",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203631,
+    "wof:name":"Zuvelca\u0163i",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":77,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.7627,
-    44.47017,
-    24.7627,
-    44.47017
+    24.758739,
+    44.463483,
+    24.767451,
+    44.473016
 ],
-  "geometry": {"coordinates":[24.7627,44.47017],"type":"Point"}
+  "geometry": {"coordinates":[[[24.759006,44.471843],[24.760196,44.471809],[24.760211,44.472098],[24.760273,44.472096],[24.760789,44.472214],[24.760773,44.472453],[24.760749,44.472619],[24.761096,44.472663],[24.761531,44.472787],[24.763392,44.473016],[24.764158,44.471007],[24.765003,44.469638],[24.765518,44.468541],[24.765706,44.468421],[24.766366,44.46685],[24.76662,44.466722],[24.767223,44.465561],[24.767451,44.464768],[24.765597,44.46422],[24.764767,44.463973],[24.764517,44.463886],[24.762755,44.463483],[24.762599,44.463985],[24.762062,44.463853],[24.761976,44.464045],[24.762334,44.464142],[24.762249,44.464385],[24.762428,44.464466],[24.762041,44.465579],[24.763573,44.465939],[24.762898,44.467906],[24.760675,44.467334],[24.760021,44.467049],[24.758747,44.467661],[24.758739,44.467925],[24.758758,44.468252],[24.758813,44.468516],[24.758846,44.468961],[24.759085,44.469505],[24.759101,44.469742],[24.759054,44.469969],[24.758983,44.470569],[24.758951,44.470906],[24.758996,44.471279],[24.759039,44.471597],[24.759006,44.471843]]],"type":"Polygon"}
 }

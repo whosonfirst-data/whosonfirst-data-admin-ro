@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.44293,46.03563,23.44293,46.03563",
-    "geom:latitude":46.03563,
-    "geom:longitude":23.44293,
+    "geom:area":0.000013,
+    "geom:area_square_m":108946.690814,
+    "geom:bbox":"23.440042,46.033547,23.448712,46.036982",
+    "geom:latitude":46.035232,
+    "geom:longitude":23.444391,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8826.0",
     "gn:asciiname":"Hategana",
@@ -24,13 +24,26 @@
     "gn:population":48,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.42293,46.01563,23.46293,46.05563",
+    "lbl:latitude":46.036066,
+    "lbl:longitude":23.445836,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.036066,
+    "mps:longitude":23.445836,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ha\u0163egana"
+    ],
+    "name:ron_x_variant":[
+        "Hategana"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676275
+        "gn:id":676275,
+        "ro-ancpi:id":8899
     },
     "wof:country":"RO",
-    "wof:geomhash":"426fed3a94c79cd94940593fce1ba925",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"52017e40fcf94c2220494068e04956d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1310020033,
-    "wof:lastmodified":1566610599,
-    "wof:name":"Hategana",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203759,
+    "wof:name":"Ha\u0163egana",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":48,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.44293,
-    46.03563,
-    23.44293,
-    46.03563
+    23.440042,
+    46.033547,
+    23.448712,
+    46.036982
 ],
-  "geometry": {"coordinates":[23.44293,46.03563],"type":"Point"}
+  "geometry": {"coordinates":[[[23.44095,46.035994],[23.441921,46.035808],[23.442118,46.035267],[23.443551,46.034899],[23.445537,46.036982],[23.446032,46.036854],[23.44846,46.036143],[23.448712,46.034783],[23.44722,46.034957],[23.445509,46.035291],[23.445258,46.034707],[23.444431,46.034055],[23.442882,46.034339],[23.442177,46.033547],[23.440042,46.034129],[23.44095,46.035994]]],"type":"Polygon"}
 }

@@ -2,8 +2,9 @@
   "id": 1259722217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"27.74876,46.69608,27.74876,46.69608",
@@ -29,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Satu Nou"
@@ -77,14 +78,16 @@
         }
     ],
     "wof:id":1259722217,
-    "wof:lastmodified":1566611603,
+    "wof:lastmodified":1588368344,
     "wof:name":"Satu Nou",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":1978,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101786213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

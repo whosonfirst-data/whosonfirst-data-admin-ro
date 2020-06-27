@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.37666,46.10893,27.37666,46.10893",
-    "geom:latitude":46.10893,
-    "geom:longitude":27.37666,
+    "geom:area":0.000071,
+    "geom:area_square_m":612646.03095,
+    "geom:bbox":"27.368926,46.101195,27.379874,46.111418",
+    "geom:latitude":46.107388,
+    "geom:longitude":27.37485,
     "gn:admin1_code":"40",
     "gn:admin2_code":"177879.0",
     "gn:asciiname":"Galbeni",
@@ -25,11 +25,12 @@
     "gn:population":255,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.35666,46.08893,27.39666,46.12893",
+    "lbl:latitude":46.10893,
+    "lbl:longitude":27.37666,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Galbeni"
@@ -41,6 +42,9 @@
         "Galbeni"
     ],
     "name:ron_x_preferred":[
+        "Galbeni"
+    ],
+    "name:ron_x_variant":[
         "Galben"
     ],
     "name:srp_x_preferred":[
@@ -49,7 +53,11 @@
     "name:und_x_variant":[
         "Galbenii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677681
+        "gn:id":677681,
+        "ro-ancpi:id":177940
     },
     "wof:country":"RO",
-    "wof:geomhash":"01a6d4b04be75bc72650697e8c3550c1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e0261b40bf20f7b7100bf0b1a39281ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +83,13 @@
         }
     ],
     "wof:id":1293631855,
-    "wof:lastmodified":1566610048,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203400,
     "wof:name":"Galbeni",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
@@ -83,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.37666,
-    46.10893,
-    27.37666,
-    46.10893
+    27.368926,
+    46.101195,
+    27.379874,
+    46.111418
 ],
-  "geometry": {"coordinates":[27.37666,46.10893],"type":"Point"}
+  "geometry": {"coordinates":[[[27.375851,46.101195],[27.373288,46.101243],[27.372301,46.101263],[27.372176,46.102004],[27.372496,46.104395],[27.372502,46.105763],[27.371089,46.107118],[27.370011,46.107946],[27.368926,46.110057],[27.370108,46.111237],[27.372701,46.111418],[27.379484,46.11118],[27.379874,46.108363],[27.379781,46.106202],[27.379761,46.105018],[27.375796,46.104939],[27.375771,46.103975],[27.37581,46.102255],[27.375851,46.101195]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.53333,45.98333,24.53333,45.98333",
-    "geom:latitude":45.98333,
-    "geom:longitude":24.53333,
+    "geom:area":0.00008,
+    "geom:area_square_m":688903.628162,
+    "geom:bbox":"24.530639,45.978364,24.542657,45.995744",
+    "geom:latitude":45.986297,
+    "geom:longitude":24.536445,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144232",
     "gn:asciiname":"Barghis",
@@ -25,11 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.51333,45.96333,24.55333,46.00333",
+    "lbl:latitude":45.98333,
+    "lbl:longitude":24.53333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "B\u00e2rghi\u0219"
@@ -47,7 +48,11 @@
         "B\u00e2rghi\u015f"
     ],
     "name:ron_x_preferred":[
-        "B\u00e2rghi\u0219"
+        "B\u00e2rghi\u015f"
+    ],
+    "name:ron_x_variant":[
+        "B\u00e2rghi\u0219",
+        "Barghis"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0440\u0433\u0456\u0448"
@@ -58,7 +63,11 @@
     "name:vol_x_preferred":[
         "B\u00e2rghi\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -67,10 +76,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":684811,
+        "ro-ancpi:id":144241,
         "wk:page":"B%C3%A2rghi%C5%9F"
     },
     "wof:country":"RO",
-    "wof:geomhash":"56656b5618b231fe45f3ae45388c0c97",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7af5733dba9d42ea4d98bff5da6cf583",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,8 +93,14 @@
         }
     ],
     "wof:id":1192959627,
-    "wof:lastmodified":1566610424,
-    "wof:name":"Barghis",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203654,
+    "wof:name":"B\u00e2rghi\u015f",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -90,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.53333,
-    45.98333,
-    24.53333,
-    45.98333
+    24.530639,
+    45.978364,
+    24.542657,
+    45.995744
 ],
-  "geometry": {"coordinates":[24.53333,45.98333],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.538239,45.992136],[24.537445,45.990489],[24.538475,45.987987],[24.53816,45.985432],[24.538784,45.983139],[24.539706,45.981363],[24.541637,45.97945],[24.539495,45.978364],[24.538649,45.979157],[24.537576,45.978825],[24.535744,45.980925],[24.534263,45.9812],[24.532151,45.980653],[24.531027,45.982429],[24.532872,45.982834],[24.533456,45.98532],[24.535199,45.985918],[24.535224,45.987042],[24.534538,45.988703],[24.530639,45.992715],[24.531107,45.992975],[24.532613,45.993754],[24.532715,45.993567],[24.534747,45.991749],[24.53542,45.991634],[24.536492,45.99213],[24.536709,45.994286],[24.538142,45.995744],[24.539928,45.995141],[24.538239,45.992136]]],[[[24.542657,45.98373],[24.542272,45.98356],[24.541049,45.984232],[24.540111,45.98674],[24.541467,45.986819],[24.542004,45.985106],[24.542657,45.98373]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.00722,46.09334,24.00722,46.09334",
-    "geom:latitude":46.09334,
-    "geom:longitude":24.00722,
+    "geom:area":0.000005,
+    "geom:area_square_m":47149.506212,
+    "geom:bbox":"24.00486,46.085383,24.018909,46.093245",
+    "geom:latitude":46.090545,
+    "geom:longitude":24.009705,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3761.0",
     "gn:asciiname":"Gorgan",
@@ -24,11 +24,14 @@
     "gn:population":23,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98722,46.07334,24.02722,46.11334",
+    "lbl:latitude":46.092224,
+    "lbl:longitude":24.006376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.092224,
+    "mps:longitude":24.006376,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u062c\u0627\u0646"
@@ -59,6 +62,9 @@
     ],
     "name:ces_x_preferred":[
         "Gorg\u00e1n"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0648\u0631\u06af\u0627\u0646"
     ],
     "name:deu_x_preferred":[
         "Gorgan"
@@ -165,6 +171,9 @@
     "name:swe_x_preferred":[
         "Gorgan"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u04e9\u0440\u0433\u0430\u043d"
+    ],
     "name:tgk_x_preferred":[
         "\u0413\u0443\u0440\u0433\u043e\u043d"
     ],
@@ -189,7 +198,11 @@
     "name:zho_x_preferred":[
         "\u6208\u5c14\u7518"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -198,10 +211,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676914
+        "gn:id":676914,
+        "ro-ancpi:id":3798
     },
     "wof:country":"RO",
-    "wof:geomhash":"b8162a61311b433ac405c554177a90b4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"203a37e4f74a0a78bf896e284dd2d584",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -211,7 +228,13 @@
         }
     ],
     "wof:id":1327249023,
-    "wof:lastmodified":1566609810,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203747,
     "wof:name":"Gorgan",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -223,10 +246,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.00722,
-    46.09334000000001,
-    24.00722,
-    46.09334000000001
+    24.00486,
+    46.085383,
+    24.018909,
+    46.093245
 ],
-  "geometry": {"coordinates":[24.00722,46.09334000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.007524,46.091685],[24.006803,46.091575],[24.006171,46.091581],[24.005337,46.091753],[24.005043,46.09193],[24.004869,46.092327],[24.00486,46.092841],[24.00519,46.093],[24.005179,46.093139],[24.0061,46.093245],[24.006181,46.09287],[24.00742,46.092863],[24.007878,46.092838],[24.008058,46.092083],[24.007844,46.091931],[24.007524,46.091685]]],[[[24.018836,46.086072],[24.017649,46.085383],[24.016796,46.085958],[24.017474,46.086429],[24.018508,46.086882],[24.018909,46.086565],[24.018492,46.08632],[24.018836,46.086072]]]],"type":"MultiPolygon"}
 }

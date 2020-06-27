@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.83657,44.95868,24.83657,44.95868",
-    "geom:latitude":44.95868,
-    "geom:longitude":24.83657,
+    "geom:area":0.000044,
+    "geom:area_square_m":384180.777157,
+    "geom:bbox":"24.831937,44.9514,24.838855,44.961541",
+    "geom:latitude":44.957031,
+    "geom:longitude":24.835827,
     "gn:admin1_code":"03",
     "gn:admin2_code":"17209",
     "gn:asciiname":"Branzari",
@@ -24,13 +24,24 @@
     "gn:population":75,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.81657,44.93868,24.85657,44.97868",
+    "lbl:latitude":44.95868,
+    "lbl:longitude":24.83657,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Br\u00e2nzari"
+    ],
+    "name:ron_x_variant":[
+        "Branzari"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683673
+        "gn:id":683673,
+        "ro-ancpi:id":17227
     },
     "wof:country":"RO",
-    "wof:geomhash":"436bc2081c1919a5c5dba356aebd308a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"937bd4393b9b08f51a9edd435964ded8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1326841747,
-    "wof:lastmodified":1566609835,
-    "wof:name":"Branzari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203631,
+    "wof:name":"Br\u00e2nzari",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":75,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.83657,
-    44.95868,
-    24.83657,
-    44.95868
+    24.831937,
+    44.9514,
+    24.838855,
+    44.961541
 ],
-  "geometry": {"coordinates":[24.83657,44.95868],"type":"Point"}
+  "geometry": {"coordinates":[[[24.838366,44.951645],[24.836624,44.9514],[24.835446,44.95234],[24.835024,44.95417],[24.834222,44.956026],[24.833005,44.957585],[24.832205,44.958822],[24.831937,44.959898],[24.831975,44.959898],[24.832804,44.961541],[24.836671,44.96152],[24.837967,44.958992],[24.83866,44.955009],[24.838855,44.953072],[24.838441,44.952076],[24.838366,44.951645]]],"type":"Polygon"}
 }

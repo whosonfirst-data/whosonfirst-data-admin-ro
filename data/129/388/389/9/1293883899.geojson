@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.25525,46.44521,27.25525,46.44521",
-    "geom:latitude":46.44521,
-    "geom:longitude":27.25525,
+    "geom:area":0.000023,
+    "geom:area_square_m":197200.751869,
+    "geom:bbox":"27.252938,46.434779,27.262421,46.447052",
+    "geom:latitude":46.441228,
+    "geom:longitude":27.257575,
     "gn:admin1_code":"04",
     "gn:admin2_code":"23868.0",
     "gn:asciiname":"Oncestii Vechi",
@@ -25,17 +25,28 @@
     "gn:population":61,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.23525,46.42521,27.27525,46.46521",
+    "lbl:latitude":46.44521,
+    "lbl:longitude":27.25525,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Once\u015ftii Vechi"
+    ],
+    "name:ron_x_variant":[
+        "Oncestii Vechi"
+    ],
     "name:und_x_variant":[
         "Once\u015fti Vechi",
         "Once\u015ftii Vechi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671807
+        "gn:id":671807,
+        "ro-ancpi:id":23902
     },
     "wof:country":"RO",
-    "wof:geomhash":"90813dfc897aa4a28bcfc0880a4dc91c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8c17cbfe42d46dca2833831c5950ede",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1293883899,
-    "wof:lastmodified":1566610155,
-    "wof:name":"Oncestii Vechi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203540,
+    "wof:name":"Once\u015ftii Vechi",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":61,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.25525,
-    46.44521,
-    27.25525,
-    46.44521
+    27.252938,
+    46.434779,
+    27.262421,
+    46.447052
 ],
-  "geometry": {"coordinates":[27.25525,46.44521],"type":"Point"}
+  "geometry": {"coordinates":[[[27.25662,46.443422],[27.256731,46.443122],[27.256939,46.442959],[27.257108,46.442955],[27.257751,46.441763],[27.258516,46.441253],[27.258715,46.440753],[27.260346,46.439137],[27.260522,46.438228],[27.260715,46.437897],[27.261647,46.437149],[27.262001,46.436443],[27.262392,46.435045],[27.262421,46.434907],[27.260823,46.434779],[27.260682,46.435812],[27.260101,46.436466],[27.260008,46.436868],[27.259043,46.437845],[27.258932,46.438685],[27.257256,46.440514],[27.257082,46.440848],[27.256513,46.441089],[27.256187,46.441614],[27.255994,46.44186],[27.255742,46.442044],[27.255614,46.442749],[27.255926,46.44306],[27.255414,46.443228],[27.25421,46.443025],[27.254049,46.443242],[27.25343,46.44367],[27.253359,46.443852],[27.253367,46.444045],[27.252938,46.444867],[27.25464,46.445542],[27.254628,46.446018],[27.254908,46.446481],[27.255059,46.446736],[27.255088,46.447052],[27.256447,46.447041],[27.256321,46.446579],[27.256062,46.446426],[27.255987,46.446275],[27.255903,46.446081],[27.256034,46.445556],[27.256336,46.445086],[27.256356,46.444653],[27.256644,46.443681],[27.25662,46.443422]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.50092,44.97039,24.50092,44.97039",
-    "geom:latitude":44.97039,
-    "geom:longitude":24.50092,
+    "geom:area":0.000024,
+    "geom:area_square_m":211091.482839,
+    "geom:bbox":"24.493175,44.964927,24.503276,44.977694",
+    "geom:latitude":44.971018,
+    "geom:longitude":24.499217,
     "gn:admin1_code":"03",
     "gn:admin2_code":"16132.0",
     "gn:asciiname":"Stanicei",
@@ -24,13 +24,26 @@
     "gn:population":48,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.48092,44.95039,24.52092,44.99039",
+    "lbl:latitude":44.969861,
+    "lbl:longitude":24.499141,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.969861,
+    "mps:longitude":24.499141,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "St\u0103nicei"
+    ],
+    "name:ron_x_variant":[
+        "Stanicei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666290
+        "gn:id":666290,
+        "ro-ancpi:id":16249
     },
     "wof:country":"RO",
-    "wof:geomhash":"f74a566cc6f518bfd529df3b0cc8494d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f64d962e42f3c6183712c92fab736e24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1242972499,
-    "wof:lastmodified":1566611516,
-    "wof:name":"Stanicei",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203648,
+    "wof:name":"St\u0103nicei",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":48,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.50092,
-    44.97039,
-    24.50092,
-    44.97039
+    24.493175,
+    44.964927,
+    24.503276,
+    44.977694
 ],
-  "geometry": {"coordinates":[24.50092,44.97039],"type":"Point"}
+  "geometry": {"coordinates":[[[24.501796,44.971675],[24.501122,44.971098],[24.500382,44.970557],[24.499829,44.969591],[24.49904,44.968679],[24.498707,44.967992],[24.49782,44.967398],[24.496952,44.966644],[24.495931,44.966917],[24.495373,44.966572],[24.495026,44.965875],[24.494264,44.964927],[24.493175,44.965496],[24.493817,44.966723],[24.494488,44.967662],[24.495595,44.967963],[24.496532,44.968421],[24.49752,44.969256],[24.498321,44.970279],[24.498866,44.970727],[24.499553,44.97123],[24.499863,44.97163],[24.500503,44.971624],[24.500982,44.972154],[24.501197,44.972971],[24.500991,44.97305],[24.501374,44.974136],[24.501242,44.975785],[24.501032,44.977304],[24.501186,44.977694],[24.501734,44.977633],[24.502755,44.977387],[24.503267,44.975526],[24.503276,44.974489],[24.502825,44.973791],[24.502609,44.973058],[24.50221,44.97215],[24.501796,44.971675]]],"type":"Polygon"}
 }

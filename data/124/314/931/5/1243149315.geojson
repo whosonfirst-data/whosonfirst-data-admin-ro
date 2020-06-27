@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.41289,45.11066,22.41289,45.11066",
-    "geom:latitude":45.11066,
-    "geom:longitude":22.41289,
+    "geom:area":0.000027,
+    "geom:area_square_m":237712.838851,
+    "geom:bbox":"22.407256,45.106075,22.416684,45.112503",
+    "geom:latitude":45.10899,
+    "geom:longitude":22.411539,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Hora Mica",
@@ -24,13 +24,24 @@
     "gn:population":36,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.39289,45.09066,22.43289,45.13066",
+    "lbl:latitude":45.11066,
+    "lbl:longitude":22.41289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Hora Mic\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Hora Mica"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676033
+        "gn:id":676033,
+        "ro-ancpi:id":52320
     },
     "wof:country":"RO",
-    "wof:geomhash":"c791ae6980d7f3fda01ce418baa3a187",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ce88c301a7c0c648e616f16a7698938b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1243149315,
-    "wof:lastmodified":1566611476,
-    "wof:name":"Hora Mica",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203624,
+    "wof:name":"Hora Mic\u0103",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":36,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.41289,
-    45.11066,
-    22.41289,
-    45.11066
+    22.407256,
+    45.106075,
+    22.416684,
+    45.112503
 ],
-  "geometry": {"coordinates":[22.41289,45.11066],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.416315,45.107326],[22.416684,45.106115],[22.413933,45.106817],[22.413697,45.10687],[22.413253,45.107614],[22.41256,45.109033],[22.411207,45.110839],[22.41097,45.112439],[22.411636,45.112503],[22.412488,45.112325],[22.412468,45.111352],[22.413097,45.110772],[22.414907,45.109141],[22.416315,45.107326]]],[[[22.411217,45.108506],[22.411291,45.107782],[22.409601,45.107985],[22.409477,45.106803],[22.408827,45.106971],[22.407998,45.107465],[22.407325,45.108436],[22.407256,45.109353],[22.407916,45.110761],[22.408773,45.110868],[22.408921,45.111219],[22.40924,45.11171],[22.410019,45.111708],[22.41034,45.111271],[22.409941,45.10983],[22.411273,45.109687],[22.411708,45.108536],[22.411217,45.108506]]],[[[22.413016,45.107221],[22.412609,45.106075],[22.411317,45.106294],[22.411708,45.107487],[22.413016,45.107221]]]],"type":"MultiPolygon"}
 }

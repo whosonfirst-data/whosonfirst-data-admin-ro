@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.26014,45.19806,25.26014,45.19806",
-    "geom:latitude":45.19806,
-    "geom:longitude":25.26014,
+    "geom:area":0.00006,
+    "geom:area_square_m":520431.476099,
+    "geom:bbox":"25.25467,45.191904,25.264705,45.201172",
+    "geom:latitude":45.196395,
+    "geom:longitude":25.259701,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68565.0",
     "gn:asciiname":"Meisoare",
@@ -25,16 +25,27 @@
     "gn:population":217,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.24014,45.17806,25.28014,45.21806",
+    "lbl:latitude":45.19806,
+    "lbl:longitude":25.26014,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Mei\u015foare"
+    ],
+    "name:ron_x_variant":[
+        "Meisoare"
+    ],
     "name:und_x_variant":[
         "Mei\u015foarele"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673606
+        "gn:id":673606,
+        "ro-ancpi:id":68592
     },
     "wof:country":"RO",
-    "wof:geomhash":"afb70a9f1a92da1b7694d1f09b3831f0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b94a4e04c2ab1c7ec558beeaa52cdeba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +71,14 @@
         }
     ],
     "wof:id":1276947289,
-    "wof:lastmodified":1566610195,
-    "wof:name":"Meisoare",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203720,
+    "wof:name":"Mei\u015foare",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":217,
@@ -68,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.26014,
-    45.19806,
-    25.26014,
-    45.19806
+    25.25467,
+    45.191904,
+    25.264705,
+    45.201172
 ],
-  "geometry": {"coordinates":[25.26014,45.19806],"type":"Point"}
+  "geometry": {"coordinates":[[[25.263499,45.192779],[25.260767,45.191904],[25.259554,45.192407],[25.25467,45.194975],[25.255179,45.196394],[25.255032,45.196922],[25.25584,45.198134],[25.256103,45.198569],[25.256728,45.199076],[25.257073,45.199304],[25.257209,45.199546],[25.257221,45.19987],[25.257139,45.20015],[25.257078,45.200342],[25.257131,45.200533],[25.257329,45.200665],[25.257674,45.200819],[25.258155,45.201172],[25.2613,45.200987],[25.262593,45.198589],[25.263661,45.195796],[25.264705,45.193015],[25.263499,45.192779]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.25391,46.53439,24.25391,46.53439",
-    "geom:latitude":46.53439,
-    "geom:longitude":24.25391,
+    "geom:area":0.000006,
+    "geom:area_square_m":50816.347447,
+    "geom:bbox":"24.248063,46.533535,24.252823,46.536504",
+    "geom:latitude":46.534863,
+    "geom:longitude":24.250555,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117667.0",
     "gn:asciiname":"Valea Iclandului",
@@ -25,17 +25,27 @@
     "gn:population":19,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.23391,46.51439,24.27391,46.55439",
+    "lbl:latitude":46.535217,
+    "lbl:longitude":24.24996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.535217,
+    "mps:longitude":24.24996,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Iclandului"
+    ],
     "name:und_x_variant":[
         "Valea Iclanlului",
         "Valea Iclandului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663731
+        "gn:id":663731,
+        "ro-ancpi:id":117774
     },
     "wof:country":"RO",
-    "wof:geomhash":"be6c0b00627f7f161b8ff10f958e5e4e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"21740d0abe616df67efd7ae38b71f8a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1243508701,
-    "wof:lastmodified":1566611483,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203457,
     "wof:name":"Valea Iclandului",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.25391,
-    46.53439,
-    24.25391,
-    46.53439
+    24.248063,
+    46.533535,
+    24.252823,
+    46.536504
 ],
-  "geometry": {"coordinates":[24.25391,46.53439],"type":"Point"}
+  "geometry": {"coordinates":[[[24.251036,46.53537],[24.252555,46.534612],[24.252506,46.534432],[24.252823,46.534018],[24.252539,46.533535],[24.251621,46.533665],[24.249999,46.534358],[24.248879,46.534868],[24.248697,46.5345],[24.248388,46.534276],[24.248063,46.534475],[24.248534,46.535002],[24.249281,46.535911],[24.249113,46.536032],[24.249949,46.536504],[24.250394,46.535962],[24.251036,46.53537]]],"type":"Polygon"}
 }

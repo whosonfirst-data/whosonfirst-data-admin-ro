@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.68434,44.96595,23.68434,44.96595",
-    "geom:latitude":44.96595,
-    "geom:longitude":23.68434,
+    "geom:area":0.000018,
+    "geom:area_square_m":153936.501568,
+    "geom:bbox":"23.679569,44.962157,23.689882,44.968248",
+    "geom:latitude":44.964478,
+    "geom:longitude":23.684676,
     "gn:admin1_code":"19",
     "gn:admin2_code":"79406.0",
     "gn:asciiname":"Cionti",
@@ -24,33 +24,60 @@
     "gn:population":68,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.66434,44.94595,23.70434,44.98595",
+    "lbl:latitude":44.964187,
+    "lbl:longitude":23.684246,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.964187,
+    "mps:longitude":23.684246,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cion\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Cionti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687619
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681679
+        "gn:id":681679,
+        "ro-ancpi:id":79424
     },
     "wof:country":"RO",
-    "wof:geomhash":"a04728e11b03e18020df975d62fcf749",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f98db6116a8bf8b516881934582de15",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209691193
+            "locality_id":1209691193,
+            "region_id":85687619
         }
     ],
     "wof:id":1209691193,
-    "wof:lastmodified":1566610364,
-    "wof:name":"Cionti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203664,
+    "wof:name":"Cion\u0163i",
+    "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":68,
     "wof:population_rank":1,
@@ -60,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.68434,
-    44.96595,
-    23.68434,
-    44.96595
+    23.679569,
+    44.962157,
+    23.689882,
+    44.968248
 ],
-  "geometry": {"coordinates":[23.68434,44.96595],"type":"Point"}
+  "geometry": {"coordinates":[[[23.681996,44.966974],[23.68322,44.966041],[23.684186,44.965412],[23.685258,44.964524],[23.685737,44.964043],[23.686711,44.963806],[23.688124,44.964095],[23.688638,44.964219],[23.689882,44.963155],[23.689426,44.962617],[23.689115,44.962376],[23.687584,44.962157],[23.686028,44.962305],[23.684649,44.962715],[23.683477,44.963579],[23.682335,44.964585],[23.68206,44.964925],[23.68265,44.965098],[23.682728,44.965121],[23.682476,44.96531],[23.682308,44.965451],[23.682088,44.965644],[23.681899,44.965811],[23.681473,44.966198],[23.681307,44.966188],[23.680562,44.966143],[23.679901,44.966994],[23.679569,44.967965],[23.680464,44.968248],[23.681996,44.966974]]],"type":"Polygon"}
 }

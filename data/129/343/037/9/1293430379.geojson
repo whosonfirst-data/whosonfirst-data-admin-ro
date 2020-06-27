@@ -2,8 +2,9 @@
   "id": 1293430379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.66571,44.00429,24.66571,44.00429",
@@ -29,7 +30,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Beciu"
@@ -77,7 +78,7 @@
         "wk:page":"Beciu"
     },
     "wof:country":"RO",
-    "wof:geomhash":"abba2a67578a33e9f4f83452f5f2cb4a",
+    "wof:geomhash":"67203622c4f2ff3fb1ca0bbed9e15d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,22 +88,24 @@
         }
     ],
     "wof:id":1293430379,
-    "wof:lastmodified":1566610152,
+    "wof:lastmodified":1588368332,
     "wof:name":"Beciu",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":1430,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101836493
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     24.66571,
-    44.00429000000001,
+    44.00429,
     24.66571,
-    44.00429000000001
+    44.00429
 ],
-  "geometry": {"coordinates":[24.66571,44.00429000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.66571,44.00429],"type":"Point"}
 }

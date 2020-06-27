@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.67603,44.81022,22.67603,44.81022",
-    "geom:latitude":44.81022,
-    "geom:longitude":22.67603,
+    "geom:area":0.00001,
+    "geom:area_square_m":89407.387668,
+    "geom:bbox":"22.672786,44.806842,22.680177,44.810604",
+    "geom:latitude":44.808917,
+    "geom:longitude":22.67665,
     "gn:admin1_code":"26",
     "gn:admin2_code":"110688.0",
     "gn:asciiname":"Calinestii de Jos",
@@ -25,18 +25,29 @@
     "gn:population":46,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.65603,44.79022,22.69603,44.83022",
+    "lbl:latitude":44.81022,
+    "lbl:longitude":22.67603,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u0103line\u015ftii de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Calinestii de Jos"
+    ],
     "name:und_x_variant":[
         "Kaline\u0161ti-de \u017dos",
         "C\u0103line\u015fti de Jos",
         "C\u0103line\u015ftii de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682939
+        "gn:id":682939,
+        "ro-ancpi:id":110713
     },
     "wof:country":"RO",
-    "wof:geomhash":"79694772b577f2b1bda1e2fdfa29ffa6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"74d2b6ebd982558d9c1be3c891d0de4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1226612837,
-    "wof:lastmodified":1566611647,
-    "wof:name":"Calinestii de Jos",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203343,
+    "wof:name":"C\u0103line\u015ftii de Jos",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":46,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.67603,
-    44.81022,
-    22.67603,
-    44.81022
+    22.672786,
+    44.806842,
+    22.680177,
+    44.810604
 ],
-  "geometry": {"coordinates":[22.67603,44.81022],"type":"Point"}
+  "geometry": {"coordinates":[[[22.675955,44.810604],[22.677886,44.810008],[22.678131,44.810245],[22.678708,44.810015],[22.678449,44.809566],[22.6786,44.809522],[22.680177,44.808924],[22.679909,44.807556],[22.680063,44.807353],[22.680034,44.806843],[22.678773,44.806842],[22.679185,44.808567],[22.67814,44.808818],[22.678146,44.809015],[22.677118,44.809367],[22.676225,44.809354],[22.674931,44.809305],[22.674781,44.808938],[22.675489,44.808682],[22.675608,44.807209],[22.673776,44.807995],[22.673915,44.808806],[22.672786,44.809501],[22.672959,44.810043],[22.67422,44.809767],[22.675092,44.809663],[22.675342,44.809996],[22.675955,44.810604]]],"type":"Polygon"}
 }

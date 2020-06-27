@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.14479,44.86159,26.14479,44.86159",
-    "geom:latitude":44.86159,
-    "geom:longitude":26.14479,
+    "geom:area":0.000022,
+    "geom:area_square_m":197084.116886,
+    "geom:bbox":"26.133825,44.860319,26.145332,44.866105",
+    "geom:latitude":44.863399,
+    "geom:longitude":26.139736,
     "gn:admin1_code":"30",
     "gn:admin2_code":"135020",
     "gn:asciiname":"Antofiloaia",
@@ -24,13 +24,23 @@
     "gn:population":81,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.12479,44.84159,26.16479,44.88159",
+    "lbl:latitude":44.863217,
+    "lbl:longitude":26.138864,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.863217,
+    "mps:longitude":26.138864,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Antofiloaia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686299
+        "gn:id":686299,
+        "ro-ancpi:id":135048
     },
     "wof:country":"RO",
-    "wof:geomhash":"d9497568db929c682043a5009f6b3387",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"378087d144be3fd319d52ed275939467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1310451875,
-    "wof:lastmodified":1566610565,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203578,
     "wof:name":"Antofiloaia",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.14479,
-    44.86159,
-    26.14479,
-    44.86159
+    26.133825,
+    44.860319,
+    26.145332,
+    44.866105
 ],
-  "geometry": {"coordinates":[26.14479,44.86159],"type":"Point"}
+  "geometry": {"coordinates":[[[26.143357,44.861928],[26.143029,44.861377],[26.142491,44.860323],[26.1423,44.860319],[26.141802,44.860364],[26.141466,44.860509],[26.141837,44.861343],[26.141654,44.861379],[26.141463,44.861576],[26.140631,44.861908],[26.140368,44.861985],[26.139385,44.862131],[26.138906,44.86213],[26.137568,44.862758],[26.136369,44.863264],[26.136042,44.863298],[26.135206,44.863685],[26.133825,44.864309],[26.135689,44.866105],[26.136803,44.865435],[26.138373,44.864463],[26.138465,44.864514],[26.140158,44.863537],[26.141134,44.862974],[26.142435,44.863366],[26.142757,44.86402],[26.14258,44.864118],[26.142874,44.86465],[26.143094,44.864474],[26.143371,44.86442],[26.14361,44.864475],[26.144263,44.864689],[26.14501,44.864654],[26.145127,44.864405],[26.145332,44.864111],[26.145051,44.863633],[26.144422,44.862962],[26.143138,44.862014],[26.143357,44.861928]]],"type":"Polygon"}
 }

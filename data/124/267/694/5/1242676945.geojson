@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.4035,47.32132,22.4035,47.32132",
-    "geom:latitude":47.32132,
-    "geom:longitude":22.4035,
+    "geom:area":0.000025,
+    "geom:area_square_m":213687.830035,
+    "geom:bbox":"22.396086,47.317468,22.405124,47.322689",
+    "geom:latitude":47.320397,
+    "geom:longitude":22.400538,
     "gn:admin1_code":"05",
     "gn:admin2_code":"27070.0",
     "gn:asciiname":"Cohani",
@@ -24,13 +24,21 @@
     "gn:population":154,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.3835,47.30132,22.4235,47.34132",
+    "lbl:latitude":47.32132,
+    "lbl:longitude":22.4035,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cohani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681155
+        "gn:id":681155,
+        "ro-ancpi:id":27098
     },
     "wof:country":"RO",
-    "wof:geomhash":"4a08bc23df5eeae60b70d650bd6b194e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"86d9a59acf2b1bd110567fe0fceb4192",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1242676945,
-    "wof:lastmodified":1566611456,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203510,
     "wof:name":"Cohani",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.4035,
-    47.32132,
-    22.4035,
-    47.32132
+    22.396086,
+    47.317468,
+    22.405124,
+    47.322689
 ],
-  "geometry": {"coordinates":[22.4035,47.32132],"type":"Point"}
+  "geometry": {"coordinates":[[[22.402717,47.322689],[22.403826,47.321944],[22.404714,47.321583],[22.405124,47.321244],[22.404599,47.320762],[22.403769,47.320412],[22.403414,47.319838],[22.403902,47.319586],[22.403384,47.319077],[22.40229,47.319766],[22.401982,47.319161],[22.401108,47.317552],[22.400034,47.317778],[22.399857,47.317468],[22.399263,47.317568],[22.397745,47.317542],[22.398505,47.318271],[22.399418,47.319078],[22.398791,47.319581],[22.396156,47.32048],[22.396606,47.321081],[22.396208,47.32117],[22.396086,47.321213],[22.396732,47.321931],[22.397228,47.322282],[22.398658,47.321812],[22.399413,47.321724],[22.400087,47.322087],[22.401944,47.322631],[22.402379,47.322512],[22.402717,47.322689]]],"type":"Polygon"}
 }

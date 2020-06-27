@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.70327,43.99943,27.70327,43.99943",
-    "geom:latitude":43.99943,
-    "geom:longitude":27.70327,
+    "geom:area":0.000076,
+    "geom:area_square_m":677212.124836,
+    "geom:bbox":"27.694116,43.995585,27.707623,44.005184",
+    "geom:latitude":43.999861,
+    "geom:longitude":27.701572,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61069.0",
     "gn:asciiname":"Tudor Vladimirescu",
@@ -25,11 +25,12 @@
     "gn:population":41,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.68327,43.97943,27.72327,44.01943",
+    "lbl:latitude":43.99943,
+    "lbl:longitude":27.70327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0434\u043e\u0440 \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0435\u0441\u043a\u0443"
@@ -42,6 +43,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03cd\u03bd\u03c4\u03bf\u03c1 \u0392\u03bb\u03b1\u03bd\u03c4\u03b9\u03bc\u03b9\u03c1\u03ad\u03c3\u03ba\u03bf\u03c5"
+    ],
+    "name:eus_x_preferred":[
+        "Vladimirescu"
     ],
     "name:fin_x_preferred":[
         "Tudor Vladimirescu"
@@ -94,7 +98,11 @@
     "name:zho_x_preferred":[
         "\u56fe\u591a\u5c14\u00b7\u5f17\u62c9\u57fa\u7c73\u5217\u65af\u5e93"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -103,10 +111,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664569
+        "gn:id":664569,
+        "ro-ancpi:id":61103
     },
     "wof:country":"RO",
-    "wof:geomhash":"462c88126215b10c02dbd0b4244d2728",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4a906f1828b727b66ac81712ee8c7b38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +128,13 @@
         }
     ],
     "wof:id":1243155517,
-    "wof:lastmodified":1566611467,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203615,
     "wof:name":"Tudor Vladimirescu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -128,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.70327,
-    43.99943,
-    27.70327,
-    43.99943
+    27.694116,
+    43.995585,
+    27.707623,
+    44.005184
 ],
-  "geometry": {"coordinates":[27.70327,43.99943],"type":"Point"}
+  "geometry": {"coordinates":[[[27.70625,43.997885],[27.704561,43.995806],[27.70413,43.995998],[27.703612,43.995585],[27.702083,43.996585],[27.695236,43.996429],[27.694116,43.997603],[27.69573,43.99816],[27.694488,43.998916],[27.694519,43.999346],[27.703625,44.005184],[27.704403,44.004499],[27.705378,44.003444],[27.707542,44.003197],[27.707544,44.002441],[27.706382,44.001677],[27.707623,44.00003],[27.706033,43.997991],[27.70625,43.997885]]],"type":"Polygon"}
 }

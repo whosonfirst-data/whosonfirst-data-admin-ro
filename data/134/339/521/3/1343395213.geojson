@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.42767,44.90113,24.42767,44.90113",
-    "geom:latitude":44.90113,
-    "geom:longitude":24.42767,
+    "geom:area":0.000069,
+    "geom:area_square_m":601186.803063,
+    "geom:bbox":"24.412253,44.894286,24.442783,44.909334",
+    "geom:latitude":44.902333,
+    "geom:longitude":24.428357,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404",
     "gn:asciiname":"Badeni",
@@ -24,22 +24,48 @@
     "gn:population":256,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.40767,44.88113,24.44767,44.92113",
+    "lbl:latitude":44.90113,
+    "lbl:longitude":24.42767,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "B\u0103deni"
+    ],
     "name:deu_x_preferred":[
+        "Badeni"
+    ],
+    "name:deu_x_variant":[
+        "B\u0103deni"
+    ],
+    "name:epo_x_preferred":[
+        "B\u0103deni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c7\u30fc\u30cb"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103deni"
+    ],
+    "name:ron_x_variant":[
         "Badeni"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0434\u0435\u043d\u0438"
     ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0434\u0435\u043d\u0438"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0434\u0435\u043d\u0456"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +74,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685914
+        "gn:id":685914,
+        "ro-ancpi:id":169422
     },
     "wof:country":"RO",
-    "wof:geomhash":"63f73755b47255c16318e2dbf0e52e4d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"22f8379837c197dfff9f16f9c59dc857",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,8 +91,14 @@
         }
     ],
     "wof:id":1343395213,
-    "wof:lastmodified":1566609888,
-    "wof:name":"Badeni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
+    "wof:name":"B\u0103deni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":256,
@@ -73,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.42767000000001,
-    44.90113,
-    24.42767000000001,
-    44.90113
+    24.412253,
+    44.894286,
+    24.442783,
+    44.909334
 ],
-  "geometry": {"coordinates":[24.42767000000001,44.90113],"type":"Point"}
+  "geometry": {"coordinates":[[[24.440029,44.90699],[24.441378,44.904216],[24.439997,44.903862],[24.438335,44.906639],[24.436783,44.906018],[24.436335,44.905141],[24.433345,44.902668],[24.427758,44.900379],[24.423524,44.900426],[24.420214,44.898952],[24.418328,44.896377],[24.413453,44.894286],[24.412253,44.895265],[24.416028,44.896816],[24.41772,44.899237],[24.422378,44.902299],[24.427784,44.902925],[24.433312,44.905038],[24.434504,44.90687],[24.442031,44.909334],[24.442783,44.908242],[24.440029,44.90699]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.78794,44.33075,26.78794,44.33075",
-    "geom:latitude":44.33075,
-    "geom:longitude":26.78794,
+    "geom:area":0.000034,
+    "geom:area_square_m":300873.405096,
+    "geom:bbox":"26.782698,44.326656,26.79189,44.333887",
+    "geom:latitude":44.330191,
+    "geom:longitude":26.786824,
     "gn:admin1_code":"41",
     "gn:admin2_code":"105712.0",
     "gn:asciiname":"Ostrovu",
@@ -25,11 +25,12 @@
     "gn:population":69,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.76794,44.31075,26.80794,44.35075",
+    "lbl:latitude":44.33075,
+    "lbl:longitude":26.78794,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ostrovu"
@@ -46,7 +47,11 @@
     "name:und_x_variant":[
         "Valea C\u0103pitanului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671622
+        "gn:id":671622,
+        "ro-ancpi:id":105749
     },
     "wof:country":"RO",
-    "wof:geomhash":"29e5a776460714222b42c574386d5af3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b3fa0d0b22e76838937aefb9d7fba39c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +77,13 @@
         }
     ],
     "wof:id":1242814601,
-    "wof:lastmodified":1566611446,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203791,
     "wof:name":"Ostrovu",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
@@ -80,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.78794000000001,
-    44.33075,
-    26.78794000000001,
-    44.33075
+    26.782698,
+    44.326656,
+    26.79189,
+    44.333887
 ],
-  "geometry": {"coordinates":[26.78794000000001,44.33075],"type":"Point"}
+  "geometry": {"coordinates":[[[26.791345,44.329557],[26.790496,44.328845],[26.790138,44.328864],[26.789298,44.328177],[26.789007,44.328363],[26.788211,44.327693],[26.787868,44.327395],[26.787011,44.326656],[26.785151,44.327763],[26.783287,44.32888],[26.784231,44.329682],[26.783155,44.33032],[26.782698,44.330591],[26.782757,44.330717],[26.782921,44.330932],[26.783198,44.331217],[26.783431,44.331447],[26.783683,44.331683],[26.783985,44.331958],[26.784227,44.332212],[26.784247,44.332306],[26.784231,44.332419],[26.784205,44.332501],[26.784152,44.332556],[26.783918,44.332704],[26.785315,44.333887],[26.786738,44.333058],[26.787447,44.332577],[26.787855,44.332317],[26.789576,44.331321],[26.790338,44.330889],[26.79189,44.330084],[26.791516,44.329731],[26.791345,44.329557]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.09697,48.03171,27.09697,48.03171",
-    "geom:latitude":48.03171,
-    "geom:longitude":27.09697,
+    "geom:area":0.000027,
+    "geom:area_square_m":219261.040961,
+    "geom:bbox":"27.094034,48.027152,27.104155,48.032896",
+    "geom:latitude":48.030387,
+    "geom:longitude":27.09995,
     "gn:admin1_code":"07",
     "gn:admin2_code":"37958.0",
     "gn:asciiname":"Serpenita",
@@ -25,17 +25,28 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.07697,48.01171,27.11697,48.05171",
+    "lbl:latitude":48.03171,
+    "lbl:longitude":27.09697,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "\u015eerpeni\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Serpenita"
+    ],
     "name:und_x_variant":[
         "\u015eepreni\u0163a",
         "\u015eerpeni\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667334
+        "gn:id":667334,
+        "ro-ancpi:id":38045
     },
     "wof:country":"RO",
-    "wof:geomhash":"f057f40aa107ee52c0efdc815fb5f32e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a3ce108dc9b29c6cdf6b69a694956088",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +71,14 @@
         }
     ],
     "wof:id":1293710415,
-    "wof:lastmodified":1566610074,
-    "wof:name":"Serpenita",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203514,
+    "wof:name":"\u015eerpeni\u0163a",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.09697,
-    48.03171,
-    27.09697,
-    48.03171
+    27.094034,
+    48.027152,
+    27.104155,
+    48.032896
 ],
-  "geometry": {"coordinates":[27.09697,48.03171],"type":"Point"}
+  "geometry": {"coordinates":[[[27.102376,48.030555],[27.10284,48.030119],[27.103671,48.029441],[27.104155,48.028861],[27.104094,48.02864],[27.103148,48.027758],[27.102435,48.027152],[27.101023,48.027936],[27.099066,48.029097],[27.096627,48.030545],[27.096468,48.030435],[27.096364,48.03048],[27.095624,48.030847],[27.094928,48.031003],[27.094296,48.031141],[27.094034,48.03125],[27.094337,48.031834],[27.095034,48.031852],[27.095446,48.031927],[27.096136,48.031941],[27.096716,48.032131],[27.099213,48.032432],[27.10221,48.032896],[27.102088,48.032453],[27.102088,48.031969],[27.102178,48.031462],[27.102365,48.031087],[27.102376,48.030555]]],"type":"Polygon"}
 }

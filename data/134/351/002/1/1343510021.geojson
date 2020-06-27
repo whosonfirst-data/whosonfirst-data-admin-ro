@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.60669,46.11072,24.60669,46.11072",
-    "geom:latitude":46.11072,
-    "geom:longitude":24.60669,
+    "geom:area":0.000052,
+    "geom:area_square_m":446669.802239,
+    "geom:bbox":"24.597026,46.103332,24.608094,46.117321",
+    "geom:latitude":46.110469,
+    "geom:longitude":24.603277,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144731.0",
     "gn:asciiname":"Nou Sasesc",
@@ -24,13 +24,26 @@
     "gn:population":499,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.58669,46.09072,24.62669,46.13072",
+    "lbl:latitude":46.112083,
+    "lbl:longitude":24.603193,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.112083,
+    "mps:longitude":24.603193,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Nou S\u0103sesc"
+    ],
+    "name:ron_x_variant":[
+        "Nou Sasesc"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672161
+        "gn:id":672161,
+        "ro-ancpi:id":144777
     },
     "wof:country":"RO",
-    "wof:geomhash":"c874a733583910b30daeb52183c415d2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0259669ee766949301b11920b5101075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1343510021,
-    "wof:lastmodified":1566609947,
-    "wof:name":"Nou Sasesc",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203653,
+    "wof:name":"Nou S\u0103sesc",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":499,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.60669,
-    46.11072,
-    24.60669,
-    46.11072
+    24.597026,
+    46.103332,
+    24.608094,
+    46.117321
 ],
-  "geometry": {"coordinates":[24.60669,46.11072],"type":"Point"}
+  "geometry": {"coordinates":[[[24.602867,46.11493],[24.604216,46.113644],[24.60477,46.113606],[24.605042,46.112957],[24.606073,46.112867],[24.607011,46.112632],[24.606443,46.111886],[24.604768,46.111164],[24.606362,46.109895],[24.606406,46.109092],[24.606872,46.108005],[24.606449,46.105641],[24.608094,46.105182],[24.608062,46.104425],[24.606838,46.104633],[24.606561,46.103332],[24.602552,46.103424],[24.602654,46.10511],[24.604162,46.105102],[24.604174,46.106037],[24.60424,46.107511],[24.603476,46.107495],[24.603329,46.109419],[24.601462,46.111186],[24.601088,46.112644],[24.599244,46.114257],[24.59787,46.114173],[24.597026,46.117303],[24.598496,46.117321],[24.598974,46.116646],[24.600069,46.116354],[24.600778,46.116024],[24.602867,46.11493]]],"type":"Polygon"}
 }

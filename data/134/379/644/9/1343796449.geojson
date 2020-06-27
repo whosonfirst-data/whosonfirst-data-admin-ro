@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.89984,44.69544,23.89984,44.69544",
-    "geom:latitude":44.69544,
-    "geom:longitude":23.89984,
+    "geom:area":0.000062,
+    "geom:area_square_m":544965.148957,
+    "geom:bbox":"23.888839,44.676567,23.899829,44.694767",
+    "geom:latitude":44.686665,
+    "geom:longitude":23.896588,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174511.0",
     "gn:asciiname":"Lacusteni",
@@ -24,13 +24,60 @@
     "gn:population":246,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.87984,44.67544,23.91984,44.71544",
+    "lbl:latitude":44.684977,
+    "lbl:longitude":23.898279,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.684977,
+    "mps:longitude":23.898279,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Comuna L\u0103custeni"
+    ],
+    "name:epo_x_preferred":[
+        "L\u0103custeni"
+    ],
+    "name:eus_x_preferred":[
+        "L\u0103custeni"
+    ],
+    "name:ita_x_preferred":[
+        "L\u0103custeni"
+    ],
+    "name:msa_x_preferred":[
+        "L\u0103custeni"
+    ],
+    "name:nld_x_preferred":[
+        "L\u0103custeni"
+    ],
+    "name:por_x_preferred":[
+        "L\u0103custeni"
+    ],
+    "name:ron_x_preferred":[
+        "L\u0103custeni"
+    ],
+    "name:ron_x_variant":[
+        "Lacusteni",
+        "Comuna L\u0103custeni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041b\u0430\u043a\u0443\u0441\u0442\u0435\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043a\u0443\u0441\u0442\u0435\u043d\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06a9\u0648\u0633\u0679\u06cc\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u5eab\u65af\u6cf0\u5c3c\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675092
+        "gn:id":675092,
+        "ro-ancpi:id":174389
     },
     "wof:country":"RO",
-    "wof:geomhash":"78890d826bf1079072e6f2fcc7180075",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b958b1e230800a90b637b653481674ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +103,14 @@
         }
     ],
     "wof:id":1343796449,
-    "wof:lastmodified":1566609912,
-    "wof:name":"Lacusteni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203680,
+    "wof:name":"L\u0103custeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":246,
@@ -64,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.89984,
-    44.69544000000001,
-    23.89984,
-    44.69544000000001
+    23.888839,
+    44.676567,
+    23.899829,
+    44.694767
 ],
-  "geometry": {"coordinates":[23.89984,44.69544000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.896662,44.693286],[23.899699,44.692927],[23.899617,44.686925],[23.899634,44.679262],[23.899829,44.676567],[23.897057,44.676574],[23.896928,44.68676],[23.896662,44.693286]]],[[[23.893976,44.692226],[23.893429,44.690444],[23.892636,44.690274],[23.892753,44.688778],[23.890726,44.688316],[23.890538,44.688901],[23.890059,44.688851],[23.888982,44.688931],[23.888839,44.689822],[23.889972,44.691384],[23.889322,44.69228],[23.890717,44.692077],[23.890922,44.6906],[23.891567,44.690606],[23.891965,44.692345],[23.894308,44.694767],[23.89544,44.694435],[23.895029,44.693373],[23.893976,44.692226]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.93323,45.78953,21.93323,45.78953",
-    "geom:latitude":45.78953,
-    "geom:longitude":21.93323,
+    "geom:area":0.000066,
+    "geom:area_square_m":565721.45758,
+    "geom:bbox":"21.923389,45.785603,21.943582,45.793918",
+    "geom:latitude":45.789364,
+    "geom:longitude":21.93142,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155840.0",
     "gn:asciiname":"Nevrincea",
@@ -25,18 +25,26 @@
     "gn:population":205,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.91323,45.76953,21.95323,45.80953",
+    "lbl:latitude":45.78953,
+    "lbl:longitude":21.93323,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Nevrincea"
+    ],
     "name:und_x_variant":[
         "N\u0151rince",
         "N\u00e9vrincsa",
         "Nevrincea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672287
+        "gn:id":672287,
+        "ro-ancpi:id":155902
     },
     "wof:country":"RO",
-    "wof:geomhash":"3124626a1d368bc329d7e92e15d3af6c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b3a1c43c4e6bdcc9e6d25798ea5a1bb2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +70,13 @@
         }
     ],
     "wof:id":1343998121,
-    "wof:lastmodified":1566609890,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203736,
     "wof:name":"Nevrincea",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -70,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.93323,
-    45.78953,
-    21.93323,
-    45.78953
+    21.923389,
+    45.785603,
+    21.943582,
+    45.793918
 ],
-  "geometry": {"coordinates":[21.93323,45.78953],"type":"Point"}
+  "geometry": {"coordinates":[[[21.929554,45.790916],[21.931144,45.788712],[21.931415,45.788733],[21.931385,45.789134],[21.931666,45.789187],[21.932176,45.789282],[21.932761,45.789424],[21.932966,45.789456],[21.933194,45.789525],[21.933353,45.789579],[21.939912,45.78997],[21.939937,45.789656],[21.941635,45.789685],[21.943093,45.789937],[21.943582,45.789183],[21.942698,45.788861],[21.94197,45.788617],[21.942008,45.788368],[21.94237,45.787705],[21.940141,45.787626],[21.933542,45.787335],[21.933076,45.787139],[21.932334,45.787086],[21.931747,45.786936],[21.92734,45.785603],[21.92648,45.786946],[21.92531,45.788674],[21.924035,45.790997],[21.923389,45.791871],[21.929749,45.793918],[21.931332,45.791556],[21.929554,45.790916]]],"type":"Polygon"}
 }

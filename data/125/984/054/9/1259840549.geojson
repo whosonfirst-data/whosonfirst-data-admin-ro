@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.00722,44.40607,24.00722,44.40607",
-    "geom:latitude":44.40607,
-    "geom:longitude":24.00722,
+    "geom:area":0.000038,
+    "geom:area_square_m":337513.889033,
+    "geom:bbox":"23.998162,44.403025,24.011612,44.407908",
+    "geom:latitude":44.405376,
+    "geom:longitude":24.005304,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130302.0",
     "gn:asciiname":"Damburile",
@@ -25,18 +25,38 @@
     "gn:population":138,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98722,44.38607,24.02722,44.42607",
+    "lbl:latitude":44.40607,
+    "lbl:longitude":24.00722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "D\u00e2mburile"
+    ],
+    "name:deu_x_preferred":[
+        "D\u00e2mburile"
+    ],
+    "name:ron_x_preferred":[
+        "D\u00e2mburile"
+    ],
+    "name:ron_x_variant":[
+        "Damburile"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u043c\u0431\u0443\u0440\u0438\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Str\u00e2mba",
         "Str\u00eemba",
         "D\u00eemburile"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679377
+        "gn:id":679377,
+        "ro-ancpi:id":125711
     },
     "wof:country":"RO",
-    "wof:geomhash":"af6a9b32824b7cf41b381d279ccd2596",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f015f13f3ce5784d9bc1add6a5edffeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +82,14 @@
         }
     ],
     "wof:id":1259840549,
-    "wof:lastmodified":1566611555,
-    "wof:name":"Damburile",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203707,
+    "wof:name":"D\u00e2mburile",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":138,
@@ -70,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.00722,
-    44.40607,
-    24.00722,
-    44.40607
+    23.998162,
+    44.403025,
+    24.011612,
+    44.407908
 ],
-  "geometry": {"coordinates":[24.00722,44.40607],"type":"Point"}
+  "geometry": {"coordinates":[[[24.011612,44.405434],[24.010983,44.403766],[24.010131,44.403025],[24.004632,44.403672],[24.00042,44.40438],[24.000698,44.405261],[23.999709,44.405328],[23.999737,44.405746],[23.998428,44.405898],[23.998489,44.406455],[23.998162,44.406731],[23.999347,44.406894],[23.999399,44.407215],[24.000446,44.407889],[24.000533,44.407511],[24.000803,44.407443],[24.000933,44.407007],[24.001673,44.407037],[24.001743,44.406798],[24.003491,44.406919],[24.00349,44.407898],[24.003808,44.40789],[24.004516,44.407908],[24.005373,44.407781],[24.005299,44.406882],[24.006287,44.406669],[24.006349,44.406923],[24.007606,44.406718],[24.01124,44.405877],[24.011085,44.40557],[24.011612,44.405434]]],"type":"Polygon"}
 }

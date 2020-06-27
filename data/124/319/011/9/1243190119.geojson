@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.1084,46.39455,23.1084,46.39455",
-    "geom:latitude":46.39455,
-    "geom:longitude":23.1084,
+    "geom:area":0.000036,
+    "geom:area_square_m":306754.333126,
+    "geom:bbox":"23.103291,46.385212,23.108958,46.399306",
+    "geom:latitude":46.391895,
+    "geom:longitude":23.106679,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039.0",
     "gn:asciiname":"Ciuldesti",
@@ -24,13 +24,26 @@
     "gn:population":284,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.0884,46.37455,23.1284,46.41455",
+    "lbl:latitude":46.391363,
+    "lbl:longitude":23.107345,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.391363,
+    "mps:longitude":23.107345,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciulde\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ciuldesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681451
+        "gn:id":681451,
+        "ro-ancpi:id":3100
     },
     "wof:country":"RO",
-    "wof:geomhash":"1f0c8a4158d30d8021d1433d5f1bfe50",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96fcfc62ccb10e995fea1137f0b13c77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1243190119,
-    "wof:lastmodified":1566611528,
-    "wof:name":"Ciuldesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203767,
+    "wof:name":"Ciulde\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":284,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.1084,
-    46.39455,
-    23.1084,
-    46.39455
+    23.103291,
+    46.385212,
+    23.108958,
+    46.399306
 ],
-  "geometry": {"coordinates":[23.1084,46.39455],"type":"Point"}
+  "geometry": {"coordinates":[[[23.105813,46.398866],[23.106934,46.397242],[23.108132,46.395163],[23.108495,46.392898],[23.108958,46.391363],[23.108737,46.389625],[23.108156,46.386766],[23.107047,46.387044],[23.106806,46.385212],[23.106096,46.38536],[23.104248,46.38572],[23.104879,46.387078],[23.105359,46.387882],[23.105521,46.388611],[23.105605,46.389116],[23.105848,46.389454],[23.105805,46.391948],[23.105739,46.395186],[23.105468,46.395871],[23.105023,46.397313],[23.103291,46.398828],[23.105338,46.399306],[23.105813,46.398866]]],"type":"Polygon"}
 }

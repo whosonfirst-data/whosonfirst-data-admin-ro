@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.13361,44.84696,23.13361,44.84696",
-    "geom:latitude":44.84696,
-    "geom:longitude":23.13361,
+    "geom:area":0.000001,
+    "geom:area_square_m":10813.902859,
+    "geom:bbox":"23.134831,44.846115,23.138394,44.846836",
+    "geom:latitude":44.846398,
+    "geom:longitude":23.136789,
     "gn:admin1_code":"19",
     "gn:admin2_code":"80980",
     "gn:asciiname":"Bohorel",
@@ -24,13 +24,23 @@
     "gn:population":259,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.11361,44.82696,23.15361,44.86696",
+    "lbl:latitude":44.846388,
+    "lbl:longitude":23.136911,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.846388,
+    "mps:longitude":23.136911,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bohorel"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684347
+        "gn:id":684347,
+        "ro-ancpi:id":81013
     },
     "wof:country":"RO",
-    "wof:geomhash":"a3817af3db1a9770d59fc0fc74c94bb4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"930fb6746df8a92a5846144867595a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1226308567,
-    "wof:lastmodified":1566611695,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203673,
     "wof:name":"Bohorel",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.13361,
-    44.84696,
-    23.13361,
-    44.84696
+    23.134831,
+    44.846115,
+    23.138394,
+    44.846836
 ],
-  "geometry": {"coordinates":[23.13361,44.84696],"type":"Point"}
+  "geometry": {"coordinates":[[[23.13824,44.846836],[23.138394,44.846443],[23.13794,44.846436],[23.137958,44.846256],[23.137645,44.846213],[23.134831,44.846115],[23.134837,44.846347],[23.135322,44.846442],[23.135764,44.846435],[23.136117,44.846405],[23.136616,44.846468],[23.136762,44.846586],[23.137287,44.846593],[23.137786,44.846811],[23.13824,44.846836]]],"type":"Polygon"}
 }

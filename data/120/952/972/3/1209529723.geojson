@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.40623,46.1046,23.40623,46.1046",
-    "geom:latitude":46.1046,
-    "geom:longitude":23.40623,
+    "geom:area":0.000031,
+    "geom:area_square_m":263160.002698,
+    "geom:bbox":"23.392844,46.106459,23.404401,46.112842",
+    "geom:latitude":46.109358,
+    "geom:longitude":23.399168,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5577.0",
     "gn:asciiname":"Isca",
@@ -24,33 +24,57 @@
     "gn:population":16,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.38623,46.0846,23.42623,46.1246",
+    "lbl:latitude":46.110021,
+    "lbl:longitude":23.400044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.110021,
+    "mps:longitude":23.400044,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Isca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675484
+        "gn:id":675484,
+        "ro-ancpi:id":5602
     },
     "wof:country":"RO",
-    "wof:geomhash":"40d5ab4dd67927860127e6eb70b49492",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"670143b6b222f07cb4aea7f8eef23df5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209529723
+            "locality_id":1209529723,
+            "region_id":85687697
         }
     ],
     "wof:id":1209529723,
-    "wof:lastmodified":1566610307,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203755,
     "wof:name":"Isca",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":16,
     "wof:population_rank":1,
@@ -60,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.40623,
-    46.1046,
-    23.40623,
-    46.1046
+    23.392844,
+    46.106459,
+    23.404401,
+    46.112842
 ],
-  "geometry": {"coordinates":[23.40623,46.1046],"type":"Point"}
+  "geometry": {"coordinates":[[[23.403667,46.107385],[23.402261,46.107297],[23.401841,46.106644],[23.397533,46.106459],[23.392844,46.107741],[23.393592,46.108601],[23.396468,46.107892],[23.398662,46.107161],[23.399758,46.107139],[23.400292,46.10736],[23.401452,46.107626],[23.401712,46.107942],[23.401706,46.108141],[23.399347,46.108383],[23.39796,46.10915],[23.396242,46.110162],[23.395795,46.110718],[23.395877,46.11163],[23.397991,46.111809],[23.399472,46.112117],[23.399325,46.112667],[23.400421,46.112842],[23.401548,46.112396],[23.40167,46.111249],[23.401739,46.11038],[23.402036,46.109769],[23.402401,46.10895],[23.403009,46.108684],[23.403262,46.108493],[23.404401,46.107931],[23.403667,46.107385]]],"type":"Polygon"}
 }

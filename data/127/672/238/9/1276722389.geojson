@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.75458,45.20826,25.75458,45.20826",
-    "geom:latitude":45.20826,
-    "geom:longitude":25.75458,
+    "geom:area":0.000037,
+    "geom:area_square_m":322500.357525,
+    "geom:bbox":"25.745603,45.20427,25.754606,45.212716",
+    "geom:latitude":45.20829,
+    "geom:longitude":25.750076,
     "gn:admin1_code":"30",
     "gn:admin2_code":"132404.0",
     "gn:asciiname":"Podu Cheii",
@@ -25,17 +25,27 @@
     "gn:population":224,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.73458,45.18826,25.77458,45.22826",
+    "lbl:latitude":45.207991,
+    "lbl:longitude":25.750451,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.207991,
+    "mps:longitude":25.750451,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Podu Cheii"
+    ],
     "name:und_x_variant":[
         "Podul Cheii",
         "Podu Cheii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670311
+        "gn:id":670311,
+        "ro-ancpi:id":132440
     },
     "wof:country":"RO",
-    "wof:geomhash":"b9f3d0f28ebaac66e8700aa1794d2a5d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7e8853af01b8fcf02b0fb5b3b0c1e29c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1276722389,
-    "wof:lastmodified":1566610165,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203576,
     "wof:name":"Podu Cheii",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.75458,
-    45.20826,
-    25.75458,
-    45.20826
+    25.745603,
+    45.20427,
+    25.754606,
+    45.212716
 ],
-  "geometry": {"coordinates":[25.75458,45.20826],"type":"Point"}
+  "geometry": {"coordinates":[[[25.749802,45.209969],[25.750052,45.209867],[25.751199,45.209917],[25.751783,45.209934],[25.752555,45.209698],[25.753306,45.209483],[25.754337,45.209772],[25.754532,45.209336],[25.754603,45.209034],[25.754606,45.208458],[25.754306,45.207869],[25.753732,45.207069],[25.752911,45.205816],[25.751592,45.205],[25.75164,45.204815],[25.751135,45.20469],[25.750479,45.204481],[25.750194,45.20427],[25.749842,45.205004],[25.749952,45.205345],[25.750058,45.206134],[25.749736,45.206132],[25.749466,45.206301],[25.748888,45.206298],[25.747821,45.206262],[25.746635,45.206341],[25.746438,45.209742],[25.745603,45.209726],[25.745651,45.210288],[25.747593,45.210318],[25.747507,45.21221],[25.748564,45.212231],[25.748439,45.212716],[25.748941,45.21257],[25.749289,45.212319],[25.749447,45.21209],[25.749687,45.210453],[25.749802,45.209969]]],"type":"Polygon"}
 }

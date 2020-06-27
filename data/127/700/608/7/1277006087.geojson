@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.27908,46.29767,27.27908,46.29767",
-    "geom:latitude":46.29767,
-    "geom:longitude":27.27908,
+    "geom:area":0.000006,
+    "geom:area_square_m":54157.537954,
+    "geom:bbox":"27.276216,46.295572,27.278872,46.29907",
+    "geom:latitude":46.297358,
+    "geom:longitude":27.277546,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22237.0",
     "gn:asciiname":"Gradesti",
@@ -25,17 +25,30 @@
     "gn:population":17,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.25908,46.27767,27.29908,46.31767",
+    "lbl:latitude":46.297278,
+    "lbl:longitude":27.277786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.297278,
+    "mps:longitude":27.277786,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gr\u0103de\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gradesti"
+    ],
     "name:und_x_variant":[
         "Grade\u015ftii",
         "Gr\u0103de\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676837
+        "gn:id":676837,
+        "ro-ancpi:id":22353
     },
     "wof:country":"RO",
-    "wof:geomhash":"7aa3d20598755230f73ebdb57e323dc8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c7ead39ff940da940c30e2f8831e635",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1277006087,
-    "wof:lastmodified":1566610162,
-    "wof:name":"Gradesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203541,
+    "wof:name":"Gr\u0103de\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":17,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.27908,
-    46.29767,
-    27.27908,
-    46.29767
+    27.276216,
+    46.295572,
+    27.278872,
+    46.29907
 ],
-  "geometry": {"coordinates":[27.27908,46.29767],"type":"Point"}
+  "geometry": {"coordinates":[[[27.278018,46.29902],[27.278459,46.298053],[27.278625,46.298063],[27.278733,46.297784],[27.278872,46.297345],[27.278731,46.296866],[27.278454,46.296411],[27.278095,46.295877],[27.277937,46.295692],[27.277304,46.295615],[27.276605,46.295572],[27.276602,46.296815],[27.276803,46.297454],[27.276622,46.29817],[27.276462,46.29845],[27.276216,46.298907],[27.277232,46.29907],[27.278018,46.29902]]],"type":"Polygon"}
 }

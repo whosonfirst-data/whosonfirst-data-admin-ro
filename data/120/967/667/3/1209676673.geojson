@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11314,44.4929,24.11314,44.4929",
-    "geom:latitude":44.4929,
-    "geom:longitude":24.11314,
+    "geom:area":0.000078,
+    "geom:area_square_m":691680.629812,
+    "geom:bbox":"24.10134,44.486222,24.116204,44.497301",
+    "geom:latitude":44.491202,
+    "geom:longitude":24.111128,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127625.0",
     "gn:asciiname":"Poiana Mare",
@@ -24,14 +24,18 @@
     "gn:population":432,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.09314,44.4729,24.13314,44.5129",
+    "lbl:latitude":44.4929,
+    "lbl:longitude":24.11314,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Poiana Mare"
+    ],
+    "name:eus_x_preferred":[
+        "Poiana Mare"
     ],
     "name:ita_x_preferred":[
         "Poiana Mare"
@@ -42,10 +46,16 @@
     "name:nld_x_preferred":[
         "Poiana Mare"
     ],
+    "name:pol_x_preferred":[
+        "Poiana Mare"
+    ],
     "name:por_x_preferred":[
         "Poiana Mare"
     ],
     "name:ron_x_preferred":[
+        "Poiana Mare"
+    ],
+    "name:ron_x_variant":[
         "Comuna Poiana Mare"
     ],
     "name:srp_x_preferred":[
@@ -66,27 +76,45 @@
     "name:zho_x_preferred":[
         "\u5927\u6ce2\u4e9e\u7d0d\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670063
+        "gn:id":670063,
+        "ro-ancpi:id":127670
     },
     "wof:country":"RO",
-    "wof:geomhash":"a6b7392e530d38cf1be573345695fc45",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5441a475a4d32599fd355f39f7c64245",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209676673
+            "locality_id":1209676673,
+            "region_id":85687607
         }
     ],
     "wof:id":1209676673,
-    "wof:lastmodified":1566610356,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
     "wof:name":"Poiana Mare",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":432,
     "wof:population_rank":2,
@@ -96,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11314,
-    44.4929,
-    24.11314,
-    44.4929
+    24.10134,
+    44.486222,
+    24.116204,
+    44.497301
 ],
-  "geometry": {"coordinates":[24.11314,44.4929],"type":"Point"}
+  "geometry": {"coordinates":[[[24.115532,44.497301],[24.115305,44.495335],[24.114686,44.4953],[24.115233,44.493153],[24.115931,44.493197],[24.116043,44.492171],[24.116204,44.489356],[24.114099,44.488759],[24.114389,44.487936],[24.115611,44.487617],[24.11558,44.486591],[24.114223,44.486222],[24.109951,44.487139],[24.108996,44.487499],[24.107312,44.488707],[24.106919,44.488543],[24.10633,44.488584],[24.105612,44.488692],[24.104904,44.489086],[24.104644,44.489422],[24.104549,44.490081],[24.104416,44.490114],[24.10443,44.490221],[24.104016,44.490252],[24.104013,44.490483],[24.10335,44.490482],[24.103324,44.489711],[24.102639,44.489725],[24.10267,44.490135],[24.102038,44.490169],[24.102041,44.490367],[24.101435,44.490404],[24.10134,44.491082],[24.102378,44.491147],[24.102443,44.490811],[24.103726,44.490923],[24.103583,44.491593],[24.106318,44.491921],[24.108078,44.492234],[24.108509,44.492636],[24.109357,44.492317],[24.110072,44.493457],[24.110305,44.493433],[24.11068,44.494232],[24.111057,44.494193],[24.111011,44.494762],[24.110259,44.495041],[24.110471,44.495427],[24.111142,44.496792],[24.112709,44.496616],[24.112728,44.49708],[24.115532,44.497301]]],"type":"Polygon"}
 }

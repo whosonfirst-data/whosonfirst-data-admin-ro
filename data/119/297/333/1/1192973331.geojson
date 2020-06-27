@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.72609,44.96652,22.72609,44.96652",
-    "geom:latitude":44.96652,
-    "geom:longitude":22.72609,
+    "geom:area":0.000015,
+    "geom:area_square_m":133052.39022,
+    "geom:bbox":"22.722944,44.965293,22.73103,44.969719",
+    "geom:latitude":44.967138,
+    "geom:longitude":22.726479,
     "gn:admin1_code":"26",
     "gn:admin2_code":"112995.0",
     "gn:asciiname":"Gheorghesti",
@@ -25,17 +25,28 @@
     "gn:population":249,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.70609,44.94652,22.74609,44.98652",
+    "lbl:latitude":44.96652,
+    "lbl:longitude":22.72609,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gheorghe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gheorghesti"
+    ],
     "name:und_x_variant":[
         "Gheorghie\u015fti",
         "Gheorghe\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677456
+        "gn:id":677456,
+        "ro-ancpi:id":113091
     },
     "wof:country":"RO",
-    "wof:geomhash":"ab0cadc3127af842c7a39cd891fdbc8d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7993e743fbe17964d54a2beff8e5e260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1192973331,
-    "wof:lastmodified":1566610446,
-    "wof:name":"Gheorghesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203337,
+    "wof:name":"Gheorghe\u015fti",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":249,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.72609,
-    44.96652,
-    22.72609,
-    44.96652
+    22.722944,
+    44.965293,
+    22.73103,
+    44.969719
 ],
-  "geometry": {"coordinates":[22.72609,44.96652],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.723589,44.969683],[22.723952,44.968941],[22.724174,44.968945],[22.725062,44.967561],[22.72631,44.967728],[22.728664,44.965498],[22.726674,44.965293],[22.726601,44.965441],[22.724988,44.965509],[22.723609,44.965571],[22.723587,44.96735],[22.723358,44.968804],[22.722944,44.969418],[22.723589,44.969683]]],[[[22.728205,44.968706],[22.728364,44.968623],[22.728572,44.968981],[22.729583,44.968419],[22.730483,44.967554],[22.73103,44.967217],[22.730734,44.966841],[22.73031,44.96688],[22.729763,44.966126],[22.729083,44.966451],[22.729367,44.967127],[22.728923,44.967401],[22.727723,44.968275],[22.727277,44.968865],[22.727101,44.969657],[22.727621,44.969719],[22.727797,44.969202],[22.728205,44.968706]]]],"type":"MultiPolygon"}
 }

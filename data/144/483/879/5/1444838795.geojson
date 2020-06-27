@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2800515542,45.7508918137,21.2800515542,45.7508918137",
+    "geom:bbox":"21.280052,45.750892,21.280052,45.750892",
     "geom:latitude":45.750892,
     "geom:longitude":21.280052,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"26fdcc5662586211c37733e7b92aef5b",
+    "wof:geomhash":"e32ca8747bc0519771d6be6862eb1d24",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838795,
-    "wof:lastmodified":1566610406,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208079,
     "wof:name":"Plopi",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.28005155424797,
-    45.75089181367323,
-    21.28005155424797,
-    45.75089181367323
+    21.280052,
+    45.750892,
+    21.280052,
+    45.750892
 ],
-  "geometry": {"coordinates":[21.28005155424797,45.75089181367323],"type":"Point"}
+  "geometry": {"coordinates":[21.280052,45.750892],"type":"Point"}
 }

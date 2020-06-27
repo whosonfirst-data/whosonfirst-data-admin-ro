@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.67083,46.57544,24.67083,46.57544",
-    "geom:latitude":46.57544,
-    "geom:longitude":24.67083,
+    "geom:area":0.000041,
+    "geom:area_square_m":348538.537647,
+    "geom:bbox":"24.663465,46.570228,24.676498,46.580281",
+    "geom:latitude":46.575107,
+    "geom:longitude":24.670299,
     "gn:admin1_code":"27",
     "gn:admin2_code":"114417.0",
     "gn:asciiname":"Cotus",
@@ -25,16 +25,27 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.65083,46.55544,24.69083,46.59544",
+    "lbl:latitude":46.57544,
+    "lbl:longitude":24.67083,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Cotu\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Cotus"
+    ],
     "name:und_x_variant":[
         "Csejd"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680441
+        "gn:id":680441,
+        "ro-ancpi:id":114435
     },
     "wof:country":"RO",
-    "wof:geomhash":"1a83d8218515d82b1dce3b2ad44704d6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cbe784958b44f16d6e109285f016b45f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1276815777,
-    "wof:lastmodified":1566610169,
-    "wof:name":"Cotus",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203446,
+    "wof:name":"Cotu\u015f",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.67083,
-    46.57544,
-    24.67083,
-    46.57544
+    24.663465,
+    46.570228,
+    24.676498,
+    46.580281
 ],
-  "geometry": {"coordinates":[24.67083,46.57544],"type":"Point"}
+  "geometry": {"coordinates":[[[24.675374,46.578546],[24.675321,46.578176],[24.674864,46.57763],[24.674227,46.57781],[24.673824,46.577348],[24.673313,46.576689],[24.672932,46.57634],[24.672057,46.575869],[24.671361,46.575073],[24.671424,46.573751],[24.672142,46.572778],[24.672627,46.572197],[24.67342,46.571632],[24.672492,46.571078],[24.671434,46.570228],[24.670936,46.570915],[24.670316,46.571956],[24.669775,46.572748],[24.669213,46.573094],[24.668488,46.573402],[24.668252,46.572623],[24.66809,46.572218],[24.668355,46.571826],[24.667582,46.571592],[24.666398,46.571659],[24.663465,46.573323],[24.663655,46.573425],[24.664849,46.574144],[24.665388,46.574306],[24.666467,46.574713],[24.666949,46.574764],[24.667638,46.574957],[24.668723,46.57591],[24.669395,46.576611],[24.671434,46.578874],[24.6718,46.578499],[24.6726,46.579325],[24.673611,46.579758],[24.674673,46.580281],[24.676498,46.579265],[24.676205,46.578874],[24.675735,46.578562],[24.675374,46.578546]]],"type":"Polygon"}
 }

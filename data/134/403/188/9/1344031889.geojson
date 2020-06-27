@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.8367,45.93106,22.8367,45.93106",
-    "geom:latitude":45.93106,
-    "geom:longitude":22.8367,
+    "geom:area":0.000001,
+    "geom:area_square_m":7312.938374,
+    "geom:bbox":"22.811173,45.941512,22.824238,45.946393",
+    "geom:latitude":45.943232,
+    "geom:longitude":22.815582,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91330",
     "gn:asciiname":"Bejan-Tarnavita",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.8167,45.91106,22.8567,45.95106",
+    "lbl:latitude":45.941943,
+    "lbl:longitude":22.811815,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.941943,
+    "mps:longitude":22.811815,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bejan-T\u00e2rn\u0103vi\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Bejan-Tarnavita"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685171
+        "gn:id":685171,
+        "ro-ancpi:id":91385
     },
     "wof:country":"RO",
-    "wof:geomhash":"c6d5693d6761f9c884330aeb2338cd90",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17f5a017b1cfb49d8fa28e954d851659",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +68,14 @@
         }
     ],
     "wof:id":1344031889,
-    "wof:lastmodified":1566609970,
-    "wof:name":"Bejan-Tarnavita",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203794,
+    "wof:name":"Bejan-T\u00e2rn\u0103vi\u0163a",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.8367,
-    45.93106,
-    22.8367,
-    45.93106
+    22.811173,
+    45.941512,
+    22.824238,
+    45.946393
 ],
-  "geometry": {"coordinates":[22.8367,45.93106],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.812407,45.942324],[22.811944,45.941512],[22.811173,45.941643],[22.811562,45.942162],[22.8116,45.942276],[22.812202,45.942334],[22.812407,45.942324]]],[[[22.824238,45.945897],[22.823774,45.945798],[22.823572,45.946143],[22.823556,45.946233],[22.824108,45.946393],[22.824238,45.945897]]]],"type":"MultiPolygon"}
 }

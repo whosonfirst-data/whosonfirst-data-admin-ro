@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.50054,45.11302,23.50054,45.11302",
-    "geom:latitude":45.11302,
-    "geom:longitude":23.50054,
+    "geom:area":0.000016,
+    "geom:area_square_m":140656.117483,
+    "geom:bbox":"23.495444,45.109891,23.500993,45.115824",
+    "geom:latitude":45.112286,
+    "geom:longitude":23.498281,
     "gn:admin1_code":"19",
     "gn:admin2_code":"78748",
     "gn:asciiname":"Blidari",
@@ -24,11 +24,14 @@
     "gn:population":64,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.48054,45.09302,23.52054,45.13302",
+    "lbl:latitude":45.11201,
+    "lbl:longitude":23.498239,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.11201,
+    "mps:longitude":23.498239,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Blidari"
@@ -42,7 +45,11 @@
     "name:srp_x_preferred":[
         "\u0411\u043b\u0438\u0434\u0430\u0440\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684577
+        "gn:id":684577,
+        "ro-ancpi:id":78775
     },
     "wof:country":"RO",
-    "wof:geomhash":"c060587f5a751e83ec3b8add855ae35a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0a39f92c9b60362b6881e3a174958653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +75,13 @@
         }
     ],
     "wof:id":1326605299,
-    "wof:lastmodified":1566609786,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203659,
     "wof:name":"Blidari",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -76,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.50054,
-    45.11302,
-    23.50054,
-    45.11302
+    23.495444,
+    45.109891,
+    23.500993,
+    45.115824
 ],
-  "geometry": {"coordinates":[23.50054,45.11302],"type":"Point"}
+  "geometry": {"coordinates":[[[23.498193,45.110276],[23.496127,45.109891],[23.495444,45.110158],[23.495979,45.111594],[23.496489,45.112283],[23.496973,45.113036],[23.497667,45.113711],[23.498353,45.114646],[23.49865,45.115703],[23.499652,45.115824],[23.499899,45.11464],[23.500015,45.113968],[23.499295,45.113832],[23.499326,45.113413],[23.499342,45.113284],[23.499375,45.113195],[23.499493,45.113041],[23.499566,45.112965],[23.499798,45.112779],[23.500047,45.112577],[23.500174,45.112498],[23.500234,45.112446],[23.500324,45.112328],[23.500564,45.11199],[23.500673,45.111872],[23.500933,45.111673],[23.500993,45.111608],[23.50035,45.111084],[23.499468,45.110544],[23.498193,45.110276]]],"type":"Polygon"}
 }

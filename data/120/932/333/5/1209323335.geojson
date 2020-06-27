@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.19532,46.31338,22.19532,46.31338",
-    "geom:latitude":46.31338,
-    "geom:longitude":22.19532,
+    "geom:area":0.00006,
+    "geom:area_square_m":511218.41672,
+    "geom:bbox":"22.185987,46.308541,22.199586,46.318824",
+    "geom:latitude":46.313519,
+    "geom:longitude":22.193182,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10701.0",
     "gn:asciiname":"Revetis",
@@ -24,39 +24,64 @@
     "gn:population":188,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.17532,46.29338,22.21532,46.33338",
+    "lbl:latitude":46.31338,
+    "lbl:longitude":22.19532,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:rom_x_preferred":[
         "Reveti\u015f"
     ],
+    "name:ron_x_preferred":[
+        "Reveti\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Revetis"
+    ],
     "name:und_x_variant":[
         "R\u00e9kes"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687691
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668935
+        "gn:id":668935,
+        "ro-ancpi:id":10747
     },
     "wof:country":"RO",
-    "wof:geomhash":"0827ab14025460feefc51513f49801d1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"52ef8578ee0942a7338b080c8d9fa8f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209323335
+            "locality_id":1209323335,
+            "region_id":85687691
         }
     ],
     "wof:id":1209323335,
-    "wof:lastmodified":1566610350,
-    "wof:name":"Revetis",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203711,
+    "wof:name":"Reveti\u015f",
+    "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":188,
     "wof:population_rank":1,
@@ -66,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.19532,
-    46.31338,
-    22.19532,
-    46.31338
+    22.185987,
+    46.308541,
+    22.199586,
+    46.318824
 ],
-  "geometry": {"coordinates":[22.19532,46.31338],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.196461,46.313086],[22.193687,46.31],[22.192453,46.308541],[22.191292,46.308957],[22.191095,46.308719],[22.187,46.31033],[22.187282,46.310626],[22.186991,46.310813],[22.187243,46.311064],[22.187545,46.310977],[22.190331,46.314086],[22.192451,46.316504],[22.194656,46.318824],[22.19474,46.318783],[22.195342,46.318513],[22.195562,46.318392],[22.195586,46.318344],[22.196242,46.31806],[22.199586,46.316552],[22.196461,46.313086]]],[[[22.187938,46.313276],[22.186833,46.312085],[22.185987,46.313018],[22.186613,46.313288],[22.187938,46.313276]]]],"type":"MultiPolygon"}
 }

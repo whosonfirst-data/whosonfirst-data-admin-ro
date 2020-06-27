@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.94195,46.08484,27.94195,46.08484",
-    "geom:latitude":46.08484,
-    "geom:longitude":27.94195,
+    "geom:area":0.000154,
+    "geom:area_square_m":1321900.34786,
+    "geom:bbox":"27.931974,46.076343,27.948512,46.091842",
+    "geom:latitude":46.084574,
+    "geom:longitude":27.940476,
     "gn:admin1_code":"18",
     "gn:admin2_code":"75356.0",
     "gn:asciiname":"Slivna",
@@ -24,11 +24,12 @@
     "gn:population":825,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.92195,46.06484,27.96195,46.10484",
+    "lbl:latitude":46.08484,
+    "lbl:longitude":27.94195,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Slivna"
@@ -57,7 +58,11 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043d\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666722
+        "gn:id":666722,
+        "ro-ancpi:id":75445
     },
     "wof:country":"RO",
-    "wof:geomhash":"d872d6bc90e1bd20929d5bdfef977c17",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c1f2fb1ea89642b05930ab9d4c3e3e7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,13 @@
         }
     ],
     "wof:id":1209882419,
-    "wof:lastmodified":1566610397,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203482,
     "wof:name":"Slivna",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -91,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.94195,
-    46.08484,
-    27.94195,
-    46.08484
+    27.931974,
+    46.076343,
+    27.948512,
+    46.091842
 ],
-  "geometry": {"coordinates":[27.94195,46.08484],"type":"Point"}
+  "geometry": {"coordinates":[[[27.937204,46.091842],[27.937256,46.091694],[27.938362,46.091712],[27.938401,46.091336],[27.941181,46.091552],[27.9416,46.089998],[27.942922,46.090081],[27.944274,46.088565],[27.945144,46.087148],[27.945405,46.086485],[27.947265,46.086601],[27.94739,46.086104],[27.945639,46.085906],[27.946063,46.084988],[27.946994,46.085062],[27.94757,46.08308],[27.947627,46.081659],[27.947499,46.080663],[27.947879,46.07964],[27.948512,46.078719],[27.943974,46.077047],[27.943111,46.076607],[27.942124,46.076343],[27.941015,46.078273],[27.938645,46.077771],[27.938073,46.079869],[27.935855,46.083578],[27.93349,46.083648],[27.932795,46.088431],[27.932656,46.089268],[27.932472,46.089282],[27.931974,46.090137],[27.932793,46.090145],[27.933454,46.09004],[27.933485,46.09031],[27.933741,46.090831],[27.934613,46.090879],[27.93445,46.091795],[27.937204,46.091842]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.62119,46.8809,27.62119,46.8809",
-    "geom:latitude":46.8809,
-    "geom:longitude":27.62119,
+    "geom:area":0.000054,
+    "geom:area_square_m":452911.07201,
+    "geom:bbox":"27.611459,46.874553,27.623843,46.887901",
+    "geom:latitude":46.881183,
+    "geom:longitude":27.619126,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165719.0",
     "gn:asciiname":"Tufestii de Jos",
@@ -25,18 +25,29 @@
     "gn:population":373,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.60119,46.8609,27.64119,46.9009",
+    "lbl:latitude":46.8809,
+    "lbl:longitude":27.62119,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Tufe\u015ftii de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Tufestii de Jos"
+    ],
     "name:und_x_variant":[
         "P\u00eerlita",
         "Tufe\u015fti",
         "Tufe\u015ftii de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664536
+        "gn:id":664536,
+        "ro-ancpi:id":165808
     },
     "wof:country":"RO",
-    "wof:geomhash":"074893501d61c5921b031311590fd5c8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4996dc51c756a19aa95c1b3face162e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1326872923,
-    "wof:lastmodified":1566609779,
-    "wof:name":"Tufestii de Jos",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203461,
+    "wof:name":"Tufe\u015ftii de Jos",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":373,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.62119,
-    46.8809,
-    27.62119,
-    46.8809
+    27.611459,
+    46.874553,
+    27.623843,
+    46.887901
 ],
-  "geometry": {"coordinates":[27.62119,46.8809],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.622368,46.880654],[27.623167,46.880519],[27.623185,46.880076],[27.622782,46.878925],[27.622353,46.878931],[27.621852,46.877803],[27.62251,46.877329],[27.61843,46.876827],[27.617817,46.874553],[27.616726,46.874613],[27.617488,46.877889],[27.61842,46.878562],[27.618878,46.880252],[27.618351,46.880136],[27.618197,46.879603],[27.617024,46.878907],[27.6159,46.878992],[27.615993,46.879875],[27.616514,46.880018],[27.616701,46.880513],[27.613316,46.881062],[27.613624,46.880178],[27.613282,46.880109],[27.613438,46.87961],[27.612167,46.879485],[27.611459,46.881847],[27.613312,46.881799],[27.613501,46.882421],[27.614184,46.882406],[27.613388,46.8833],[27.617229,46.882754],[27.617808,46.88202],[27.618894,46.880656],[27.619317,46.880631],[27.620259,46.882317],[27.620471,46.883848],[27.621292,46.885797],[27.621644,46.887901],[27.623843,46.887786],[27.623496,46.885355],[27.622368,46.880654]]],[[[27.61587,46.87968],[27.615339,46.879612],[27.615266,46.879922],[27.615797,46.879977],[27.61587,46.87968]]]],"type":"MultiPolygon"}
 }

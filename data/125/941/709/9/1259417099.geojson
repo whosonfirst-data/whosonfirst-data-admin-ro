@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.28921,45.21069,24.28921,45.21069",
-    "geom:latitude":45.21069,
-    "geom:longitude":24.28921,
+    "geom:area":0.000039,
+    "geom:area_square_m":340909.568831,
+    "geom:bbox":"24.279492,45.207173,24.2965,45.216982",
+    "geom:latitude":45.212761,
+    "geom:longitude":24.288096,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171539.0",
     "gn:asciiname":"Gavanesti",
@@ -24,13 +24,37 @@
     "gn:population":162,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.26921,45.19069,24.30921,45.23069",
+    "lbl:latitude":45.21069,
+    "lbl:longitude":24.28921,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "G\u0103v\u0103ne\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "G\u0103v\u0103ne\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "G\u0103v\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gavanesti",
+        "G\u0103v\u0103ne\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0432\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:vol_x_preferred":[
+        "G\u0103v\u0103ne\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677562
+        "gn:id":677562,
+        "ro-ancpi:id":171575
     },
     "wof:country":"RO",
-    "wof:geomhash":"c901be2ab5e816e08eb30ca1ee514f97",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"711ed7f01b94fad8e5b3037174f225e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +80,14 @@
         }
     ],
     "wof:id":1259417099,
-    "wof:lastmodified":1566611561,
-    "wof:name":"Gavanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"G\u0103v\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":162,
@@ -64,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28921,
-    45.21069,
-    24.28921,
-    45.21069
+    24.279492,
+    45.207173,
+    24.2965,
+    45.216982
 ],
-  "geometry": {"coordinates":[24.28921,45.21069],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.279492,45.215502],[24.279905,45.216649],[24.285467,45.21433],[24.288279,45.211774],[24.29042,45.211541],[24.290819,45.210506],[24.289049,45.209317],[24.289999,45.208687],[24.290622,45.207419],[24.28964,45.207264],[24.289233,45.207173],[24.287845,45.208481],[24.286516,45.209331],[24.2852,45.209966],[24.284519,45.210319],[24.284451,45.210747],[24.285269,45.2115],[24.284569,45.21299],[24.282713,45.214026],[24.279492,45.215502]]],[[[24.296331,45.216802],[24.2965,45.21478],[24.293348,45.214912],[24.290694,45.215317],[24.292654,45.216982],[24.296331,45.216802]]]],"type":"MultiPolygon"}
 }

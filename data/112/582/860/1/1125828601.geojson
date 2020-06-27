@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.01667,44.75,24.01667,44.75",
-    "geom:latitude":44.75,
-    "geom:longitude":24.01667,
+    "geom:area":0.000069,
+    "geom:area_square_m":603631.889772,
+    "geom:bbox":"24.005189,44.746909,24.028343,44.754409",
+    "geom:latitude":44.750804,
+    "geom:longitude":24.016056,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":2193,
     "iso:country":"RO",
-    "lbl:bbox":"23.99667,44.73,24.03667,44.77",
     "lbl:latitude":44.75,
     "lbl:longitude":24.01667,
     "lbl:max_zoom":15.0,
@@ -22,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u06a4\u064a\u0633\u064a\u0644\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0432\u0435\u0441\u0435\u043b\u0443"
     ],
@@ -65,7 +67,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877022,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -82,11 +87,15 @@
         "gn:id":671586,
         "gp:id":877022,
         "qs_pg:id":1279063,
+        "ro-ancpi:id":171110,
         "wd:id":"Q12135076"
     },
     "wof:country":"RO",
     "wof:created":1497292389,
-    "wof:geomhash":"939a8d2b439c3944f99299b3e3e1c65a",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"f0d078b88291ae19bbe52f5b2146e721",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,7 +105,13 @@
         }
     ],
     "wof:id":1125828601,
-    "wof:lastmodified":1566611385,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203692,
     "wof:name":"Oveselu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -108,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.01667,
-    44.75,
-    24.01667,
-    44.75
+    24.005189,
+    44.746909,
+    24.028343,
+    44.754409
 ],
-  "geometry": {"coordinates":[24.01667,44.75],"type":"Point"}
+  "geometry": {"coordinates":[[[24.011248,44.751847],[24.012146,44.751701],[24.015295,44.751907],[24.015652,44.75408],[24.017727,44.754252],[24.018821,44.753138],[24.026139,44.75047],[24.028343,44.74934],[24.027434,44.748056],[24.024198,44.748717],[24.018056,44.74971],[24.012095,44.750501],[24.010008,44.746909],[24.007779,44.747374],[24.008776,44.749757],[24.005189,44.750057],[24.00524,44.751232],[24.006708,44.751271],[24.0068,44.752139],[24.009734,44.752395],[24.012386,44.754409],[24.01372,44.75391],[24.011248,44.751847]]],"type":"Polygon"}
 }

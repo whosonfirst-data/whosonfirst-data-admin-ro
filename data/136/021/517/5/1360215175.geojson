@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23601,44.65597,24.23601,44.65597",
-    "geom:latitude":44.65597,
-    "geom:longitude":24.23601,
+    "geom:area":0.000016,
+    "geom:area_square_m":136985.413589,
+    "geom:bbox":"24.224412,44.644088,24.23241,44.648715",
+    "geom:latitude":44.646539,
+    "geom:longitude":24.228763,
     "gn:admin1_code":"39",
     "gn:admin2_code":"167981.0",
     "gn:asciiname":"Valea Caselor",
@@ -24,11 +24,14 @@
     "gn:population":149,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.21601,44.63597,24.25601,44.67597",
+    "lbl:latitude":44.647041,
+    "lbl:longitude":24.22843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.647041,
+    "mps:longitude":24.22843,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Caselor"
@@ -45,7 +48,11 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u041a\u0430\u0441\u0435\u043b\u043e\u0440"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663855
+        "gn:id":663855,
+        "ro-ancpi:id":168005
     },
     "wof:country":"RO",
-    "wof:geomhash":"036e3c4fdeeeaada93492417ac46f811",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5542f04d96674f191bad43ee0e4ad942",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +78,13 @@
         }
     ],
     "wof:id":1360215175,
-    "wof:lastmodified":1566610640,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203688,
     "wof:name":"Valea Caselor",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -79,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23601,
-    44.65597,
-    24.23601,
-    44.65597
+    24.224412,
+    44.644088,
+    24.23241,
+    44.648715
 ],
-  "geometry": {"coordinates":[24.23601,44.65597],"type":"Point"}
+  "geometry": {"coordinates":[[[24.224412,44.647326],[24.226121,44.647912],[24.227133,44.648417],[24.228685,44.648715],[24.230696,44.646718],[24.23241,44.644949],[24.229659,44.644088],[24.229246,44.644889],[24.227163,44.646235],[24.224412,44.647326]]],"type":"Polygon"}
 }

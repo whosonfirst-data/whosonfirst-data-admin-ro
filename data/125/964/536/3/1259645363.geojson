@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.96868,46.544,25.96868,46.544",
-    "geom:latitude":46.544,
-    "geom:longitude":25.96868,
+    "geom:area":0.000098,
+    "geom:area_square_m":832246.956147,
+    "geom:bbox":"25.951255,46.534271,25.977336,46.550266",
+    "geom:latitude":46.542737,
+    "geom:longitude":25.96444,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84754.0",
     "gn:asciiname":"Paltinis-Ciuc",
@@ -25,19 +25,30 @@
     "gn:population":638,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.94868,46.524,25.98868,46.564",
+    "lbl:latitude":46.544,
+    "lbl:longitude":25.96868,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "P\u0103ltini\u015f-Ciuc"
+    ],
+    "name:ron_x_variant":[
+        "Paltinis-Ciuc"
+    ],
     "name:und_x_variant":[
         "Gara P\u0103ltini\u015f",
         "P\u0103ltini\u015f",
         "P\u00f6ltinis",
         "P\u0103ltini\u015f-Ciuc"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671423
+        "gn:id":671423,
+        "ro-ancpi:id":84790
     },
     "wof:country":"RO",
-    "wof:geomhash":"ebe9390994fe6cc58c5c421ddcdeba5f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"da1400022a3dfb2c434882cd1e5ccc88",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +74,14 @@
         }
     ],
     "wof:id":1259645363,
-    "wof:lastmodified":1566611548,
-    "wof:name":"Paltinis-Ciuc",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203396,
+    "wof:name":"P\u0103ltini\u015f-Ciuc",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":638,
@@ -71,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.96868,
-    46.544,
-    25.96868,
-    46.544
+    25.951255,
+    46.534271,
+    25.977336,
+    46.550266
 ],
-  "geometry": {"coordinates":[25.96868,46.544],"type":"Point"}
+  "geometry": {"coordinates":[[[25.958715,46.534271],[25.957038,46.534762],[25.958067,46.53614],[25.955246,46.53657],[25.95537,46.53781],[25.956146,46.537759],[25.959078,46.536387],[25.961288,46.539087],[25.959539,46.539713],[25.955435,46.542262],[25.95587,46.542551],[25.959146,46.541154],[25.96287,46.544446],[25.964907,46.544707],[25.965084,46.547329],[25.960239,46.548334],[25.957368,46.547215],[25.955109,46.547331],[25.951255,46.54921],[25.951688,46.549519],[25.955918,46.547522],[25.960807,46.548921],[25.964959,46.548312],[25.965603,46.548955],[25.967007,46.545424],[25.969009,46.550266],[25.969636,46.549993],[25.970371,46.54986],[25.970522,46.548457],[25.971645,46.548006],[25.97398,46.543591],[25.975248,46.543132],[25.974725,46.542642],[25.977336,46.541404],[25.976285,46.540872],[25.972991,46.54221],[25.973927,46.542828],[25.970428,46.546925],[25.969695,46.544663],[25.96984,46.543448],[25.969548,46.543358],[25.969286,46.544129],[25.967492,46.541846],[25.966686,46.542096],[25.965317,46.540283],[25.96685,46.539901],[25.966332,46.539326],[25.965954,46.539579],[25.962533,46.536669],[25.958715,46.534271]]],"type":"Polygon"}
 }

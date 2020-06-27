@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.90477,45.72871,24.90477,45.72871",
-    "geom:latitude":45.72871,
-    "geom:longitude":24.90477,
+    "geom:area":0.000133,
+    "geom:area_square_m":1146782.852283,
+    "geom:bbox":"24.896784,45.718667,24.909638,45.737099",
+    "geom:latitude":45.727836,
+    "geom:longitude":24.903718,
     "gn:admin1_code":"09",
     "gn:admin2_code":"41738.0",
     "gn:asciiname":"Gura Vaii",
@@ -25,19 +25,45 @@
     "gn:population":451,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.88477,45.70871,24.92477,45.74871",
+    "lbl:latitude":45.72871,
+    "lbl:longitude":24.90477,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Gura V\u0103ii"
+    ],
+    "name:deu_x_preferred":[
+        "Gura V\u0103ii"
+    ],
+    "name:epo_x_preferred":[
+        "Gura V\u0103ii"
+    ],
+    "name:eus_x_preferred":[
+        "Gura V\u0103ii"
+    ],
+    "name:ron_x_preferred":[
+        "Gura V\u0103ii"
+    ],
+    "name:ron_x_variant":[
+        "Gura Vaii"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0443\u0440\u0430 \u0412\u0430\u0438\u0458"
+    ],
     "name:und_x_variant":[
         "Netotu",
         "Netot",
         "Netotul",
         "Gura V\u0103ii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +72,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676466
+        "gn:id":676466,
+        "ro-ancpi:id":41774
     },
     "wof:country":"RO",
-    "wof:geomhash":"8b55d2604136f5bdc36eaecdd52f16f0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dd527f025256ce4971394724e81de9c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +89,14 @@
         }
     ],
     "wof:id":1243161767,
-    "wof:lastmodified":1566611523,
-    "wof:name":"Gura Vaii",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203786,
+    "wof:name":"Gura V\u0103ii",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":451,
@@ -71,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.90477000000001,
-    45.72871,
-    24.90477000000001,
-    45.72871
+    24.896784,
+    45.718667,
+    24.909638,
+    45.737099
 ],
-  "geometry": {"coordinates":[24.90477000000001,45.72871],"type":"Point"}
+  "geometry": {"coordinates":[[[24.909456,45.733449],[24.908951,45.732752],[24.908827,45.732794],[24.908271,45.732794],[24.907843,45.731838],[24.908501,45.731467],[24.908301,45.730157],[24.908328,45.729042],[24.909435,45.728942],[24.909438,45.726836],[24.907568,45.726675],[24.906662,45.724338],[24.905656,45.721027],[24.904494,45.721115],[24.904116,45.720053],[24.90169,45.719997],[24.90106,45.718793],[24.898382,45.718667],[24.89825,45.720471],[24.898471,45.72191],[24.899249,45.723458],[24.89918,45.724186],[24.89853,45.725654],[24.898282,45.726639],[24.896784,45.728217],[24.898098,45.729813],[24.899985,45.729339],[24.900588,45.72923],[24.901569,45.730419],[24.902504,45.731936],[24.902814,45.733531],[24.903348,45.734595],[24.903346,45.735908],[24.904237,45.736956],[24.904929,45.737098],[24.907252,45.737099],[24.9079,45.736553],[24.909129,45.736476],[24.909108,45.735569],[24.909444,45.734772],[24.909611,45.73455],[24.909638,45.734018],[24.909456,45.733449]]],"type":"Polygon"}
 }

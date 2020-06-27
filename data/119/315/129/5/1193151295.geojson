@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.80442,46.38501,22.80442,46.38501",
-    "geom:latitude":46.38501,
-    "geom:longitude":22.80442,
+    "geom:area":0.000013,
+    "geom:area_square_m":110383.393859,
+    "geom:bbox":"22.798811,46.383274,22.804681,46.387654",
+    "geom:latitude":46.385483,
+    "geom:longitude":22.801671,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577",
     "gn:asciiname":"Achimetesti",
@@ -24,13 +24,26 @@
     "gn:population":30,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.78442,46.36501,22.82442,46.40501",
+    "lbl:latitude":46.385487,
+    "lbl:longitude":22.801426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.385487,
+    "mps:longitude":22.801426,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Achime\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Achimetesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686702
+        "gn:id":686702,
+        "ro-ancpi:id":2595
     },
     "wof:country":"RO",
-    "wof:geomhash":"44cffdd9d03c1f5ec239285afb25144c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4498a109873ed073ff2974c62fe77c67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1193151295,
-    "wof:lastmodified":1566610428,
-    "wof:name":"Achimetesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203757,
+    "wof:name":"Achime\u0163e\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":30,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.80442,
-    46.38501,
-    22.80442,
-    46.38501
+    22.798811,
+    46.383274,
+    22.804681,
+    46.387654
 ],
-  "geometry": {"coordinates":[22.80442,46.38501],"type":"Point"}
+  "geometry": {"coordinates":[[[22.804681,46.387165],[22.803311,46.386032],[22.802723,46.38611],[22.802756,46.384916],[22.803891,46.384395],[22.803317,46.383742],[22.800886,46.384229],[22.800496,46.383274],[22.798811,46.383291],[22.800536,46.386565],[22.801203,46.387354],[22.803216,46.387654],[22.804681,46.387165]]],"type":"Polygon"}
 }

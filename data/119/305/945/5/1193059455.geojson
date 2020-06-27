@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.52204,47.33326,26.52204,47.33326",
-    "geom:latitude":47.33326,
-    "geom:longitude":26.52204,
+    "geom:area":0.000011,
+    "geom:area_square_m":88490.242447,
+    "geom:bbox":"26.517266,47.3302,26.52348,47.333714",
+    "geom:latitude":47.332095,
+    "geom:longitude":26.52073,
     "gn:admin1_code":"34",
     "gn:admin2_code":"148382.0",
     "gn:asciiname":"Gara Leu",
@@ -24,13 +24,21 @@
     "gn:population":36,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.50204,47.31326,26.54204,47.35326",
+    "lbl:latitude":47.33326,
+    "lbl:longitude":26.52204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gara Leu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677595
+        "gn:id":677595,
+        "ro-ancpi:id":148417
     },
     "wof:country":"RO",
-    "wof:geomhash":"33c6f9bdb8ef3abda54b0f480a4e05f7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"944b5d01f871b9f37a12407eb626a69e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1193059455,
-    "wof:lastmodified":1566610439,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203430,
     "wof:name":"Gara Leu",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.52204,
-    47.33326,
-    26.52204,
-    47.33326
+    26.517266,
+    47.3302,
+    26.52348,
+    47.333714
 ],
-  "geometry": {"coordinates":[26.52204,47.33326],"type":"Point"}
+  "geometry": {"coordinates":[[[26.521944,47.333714],[26.52348,47.331515],[26.522549,47.331295],[26.522817,47.330931],[26.522699,47.330887],[26.522666,47.330874],[26.522136,47.330672],[26.521577,47.331247],[26.520874,47.331164],[26.521098,47.330496],[26.519975,47.3302],[26.519251,47.332205],[26.51765,47.331835],[26.517443,47.332216],[26.517425,47.33225],[26.517266,47.332542],[26.521944,47.333714]]],"type":"Polygon"}
 }

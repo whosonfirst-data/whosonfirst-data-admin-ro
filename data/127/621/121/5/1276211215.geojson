@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.29884,45.93659,25.29884,45.93659",
-    "geom:latitude":45.93659,
-    "geom:longitude":25.29884,
+    "geom:area":0.000031,
+    "geom:area_square_m":269036.974302,
+    "geom:bbox":"25.292836,45.930952,25.305921,45.938951",
+    "geom:latitude":45.935362,
+    "geom:longitude":25.298719,
     "gn:admin1_code":"09",
     "gn:admin2_code":"41177.0",
     "gn:asciiname":"Lupsa",
@@ -24,13 +24,45 @@
     "gn:population":132,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.27884,45.91659,25.31884,45.95659",
+    "lbl:latitude":45.93659,
+    "lbl:longitude":25.29884,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:deu_x_preferred":[
+        "Lup\u0219a"
+    ],
+    "name:epo_x_preferred":[
+        "Lup\u0219a"
+    ],
+    "name:hun_x_preferred":[
+        "Nagylupsa"
+    ],
+    "name:ita_x_preferred":[
+        "Lup\u015fa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0443\u043f\u0448\u0430"
+    ],
+    "name:por_x_preferred":[
+        "Lup\u015fa"
+    ],
+    "name:ron_x_preferred":[
+        "Lup\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Lupsa"
+    ],
+    "name:vol_x_preferred":[
+        "Lup\u015fa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674273
+        "gn:id":674273,
+        "ro-ancpi:id":41239
     },
     "wof:country":"RO",
-    "wof:geomhash":"efe8b8cfc8af17f9ca9d13200d61b569",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af7471dd69ab18d2703babecb3001ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +88,14 @@
         }
     ],
     "wof:id":1276211215,
-    "wof:lastmodified":1566610175,
-    "wof:name":"Lupsa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203781,
+    "wof:name":"Lup\u015fa",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":132,
@@ -64,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.29884,
-    45.93659,
-    25.29884,
-    45.93659
+    25.292836,
+    45.930952,
+    25.305921,
+    45.938951
 ],
-  "geometry": {"coordinates":[25.29884,45.93659],"type":"Point"}
+  "geometry": {"coordinates":[[[[25.300338,45.935917],[25.301233,45.935139],[25.301452,45.934682],[25.302539,45.93452],[25.30317,45.934518],[25.303247,45.934221],[25.303093,45.933457],[25.302972,45.932956],[25.30263,45.93249],[25.30232,45.932314],[25.301383,45.932714],[25.300107,45.933093],[25.298883,45.933394],[25.297796,45.933763],[25.297213,45.934232],[25.297596,45.934645],[25.297329,45.935124],[25.296673,45.935628],[25.295627,45.934943],[25.294715,45.935665],[25.29435,45.936436],[25.293913,45.937122],[25.293976,45.937403],[25.293943,45.937935],[25.292836,45.938282],[25.293242,45.938951],[25.294791,45.938894],[25.296548,45.938503],[25.297503,45.93842],[25.298132,45.937925],[25.298376,45.937097],[25.299004,45.936522],[25.300338,45.935917]]],[[[25.305425,45.931049],[25.305286,45.930952],[25.30375,45.931326],[25.303928,45.931589],[25.303023,45.932199],[25.303519,45.93291],[25.304024,45.933014],[25.304966,45.932308],[25.305921,45.93183],[25.305425,45.931049]]]],"type":"MultiPolygon"}
 }

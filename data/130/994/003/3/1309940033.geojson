@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.48244,44.98378,24.48244,44.98378",
-    "geom:latitude":44.98378,
-    "geom:longitude":24.48244,
+    "geom:area":0.000008,
+    "geom:area_square_m":72171.545644,
+    "geom:bbox":"24.479847,44.977683,24.487596,44.987354",
+    "geom:latitude":44.982222,
+    "geom:longitude":24.483154,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Schitu",
@@ -25,16 +25,22 @@
     "gn:population":26,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.46244,44.96378,24.50244,45.00378",
+    "lbl:latitude":44.981443,
+    "lbl:longitude":24.483967,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.981443,
+    "mps:longitude":24.483967,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Schitu"
     ],
     "name:deu_x_preferred":[
+        "Schitu"
+    ],
+    "name:eus_x_preferred":[
         "Schitu"
     ],
     "name:ita_x_preferred":[
@@ -52,7 +58,11 @@
     "name:vol_x_preferred":[
         "Schitu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -61,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667667
+        "gn:id":667667,
+        "ro-ancpi:id":171753
     },
     "wof:country":"RO",
-    "wof:geomhash":"0dab14bb6490abd94379604468db3393",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"04509d66cbba7c3454183e1454c2aad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,7 +88,13 @@
         }
     ],
     "wof:id":1309940033,
-    "wof:lastmodified":1566611255,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
     "wof:name":"Schitu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -86,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.48244,
-    44.98378,
-    24.48244,
-    44.98378
+    24.479847,
+    44.977683,
+    24.487596,
+    44.987354
 ],
-  "geometry": {"coordinates":[24.48244,44.98378],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.4838,44.980147],[24.484173,44.979807],[24.485021,44.980144],[24.486809,44.981718],[24.487596,44.981396],[24.486585,44.980509],[24.485981,44.98049],[24.485257,44.980018],[24.484286,44.97964],[24.483748,44.979669],[24.483582,44.979534],[24.483355,44.978579],[24.482567,44.977852],[24.482087,44.977683],[24.481928,44.977873],[24.482593,44.978687],[24.483331,44.979978],[24.483349,44.980486],[24.483628,44.981847],[24.484233,44.981841],[24.48446,44.981461],[24.484019,44.980648],[24.4838,44.980147]]],[[[24.483343,44.984874],[24.483125,44.984257],[24.481115,44.984634],[24.481299,44.985223],[24.483343,44.984874]]],[[[24.481205,44.984466],[24.480699,44.983485],[24.479847,44.98373],[24.480312,44.9847],[24.481205,44.984466]]],[[[24.482506,44.98622],[24.481712,44.986186],[24.481502,44.987326],[24.482337,44.987354],[24.482506,44.98622]]],[[[24.482308,44.981843],[24.481657,44.981597],[24.481145,44.982238],[24.481796,44.982496],[24.482308,44.981843]]]],"type":"MultiPolygon"}
 }

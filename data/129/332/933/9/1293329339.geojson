@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.5813,47.30799,23.5813,47.30799",
-    "geom:latitude":47.30799,
-    "geom:longitude":23.5813,
+    "geom:area":0.000049,
+    "geom:area_square_m":412470.901734,
+    "geom:bbox":"23.572776,47.300307,23.585556,47.313867",
+    "geom:latitude":47.307166,
+    "geom:longitude":23.579006,
     "gn:admin1_code":"31",
     "gn:admin2_code":"142499.0",
     "gn:asciiname":"Buzas",
@@ -24,13 +24,26 @@
     "gn:population":169,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.5613,47.28799,23.6013,47.32799",
+    "lbl:latitude":47.307313,
+    "lbl:longitude":23.578377,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.307313,
+    "mps:longitude":23.578377,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Buza\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Buzas"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683125
+        "gn:id":683125,
+        "ro-ancpi:id":142514
     },
     "wof:country":"RO",
-    "wof:geomhash":"ba9c9f7a97dec4aba42a1bd3c0ce64fb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4859bed248b207f38a4243e99b5f7ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293329339,
-    "wof:lastmodified":1566610096,
-    "wof:name":"Buzas",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203528,
+    "wof:name":"Buza\u015f",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":169,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.5813,
-    47.30799,
-    23.5813,
-    47.30799
+    23.572776,
+    47.300307,
+    23.585556,
+    47.313867
 ],
-  "geometry": {"coordinates":[23.5813,47.30799],"type":"Point"}
+  "geometry": {"coordinates":[[[23.585556,47.313011],[23.582114,47.309204],[23.581234,47.308407],[23.57993,47.306659],[23.579791,47.305497],[23.57955,47.302769],[23.57829,47.302772],[23.578312,47.302379],[23.577671,47.301696],[23.576609,47.302067],[23.575629,47.301124],[23.57527,47.300307],[23.574122,47.300584],[23.574311,47.301055],[23.572796,47.301052],[23.572776,47.301577],[23.574538,47.3017],[23.57484,47.302406],[23.576442,47.306689],[23.575067,47.307188],[23.575316,47.307728],[23.577121,47.308836],[23.578687,47.309701],[23.579938,47.311353],[23.581355,47.311211],[23.582251,47.312538],[23.581785,47.313161],[23.583564,47.313867],[23.584349,47.313716],[23.585556,47.313011]]],"type":"Polygon"}
 }

@@ -50,6 +50,7 @@
     "wof:belongsto":[
         102191581,
         85633745,
+        101835699,
         85687627
     ],
     "wof:breaches":[],
@@ -65,15 +66,21 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":-1,
+            "locality_id":101835699,
             "neighbourhood_id":1126086523,
             "region_id":85687627
         }
     ],
     "wof:id":1126086523,
-    "wof:lastmodified":1566611364,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208076,
     "wof:name":"Col\u021ban",
-    "wof:parent_id":-1,
+    "wof:parent_id":101835699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

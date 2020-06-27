@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.85915,46.51282,22.85915,46.51282",
-    "geom:latitude":46.51282,
-    "geom:longitude":22.85915,
+    "geom:area":0.000007,
+    "geom:area_square_m":57167.550964,
+    "geom:bbox":"22.85144,46.509292,22.856892,46.511555",
+    "geom:latitude":46.510308,
+    "geom:longitude":22.854282,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7197.0",
     "gn:asciiname":"Negesti",
@@ -24,13 +24,26 @@
     "gn:population":183,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.83915,46.49282,22.87915,46.53282",
+    "lbl:latitude":46.51043,
+    "lbl:longitude":22.854778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.51043,
+    "mps:longitude":22.854778,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Nege\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Negesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672376
+        "gn:id":672376,
+        "ro-ancpi:id":7286
     },
     "wof:country":"RO",
-    "wof:geomhash":"0d8d25bfed9bbfcbabe7a8e5c97d02f0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"18b49d8a4d6704ceb5b7dbf666af1ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1276136905,
-    "wof:lastmodified":1566610221,
-    "wof:name":"Negesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203754,
+    "wof:name":"Nege\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":183,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.85915,
-    46.51282,
-    22.85915,
-    46.51282
+    22.85144,
+    46.509292,
+    22.856892,
+    46.511555
 ],
-  "geometry": {"coordinates":[22.85915,46.51282],"type":"Point"}
+  "geometry": {"coordinates":[[[22.852694,46.511053],[22.85341,46.510816],[22.854872,46.511555],[22.856892,46.510248],[22.855133,46.509292],[22.853439,46.509577],[22.85144,46.509869],[22.852694,46.511053]]],"type":"Polygon"}
 }

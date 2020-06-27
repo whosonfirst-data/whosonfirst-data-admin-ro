@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.72258,44.92756,21.72258,44.92756",
-    "geom:latitude":44.92756,
-    "geom:longitude":21.72258,
+    "geom:area":0.000068,
+    "geom:area_square_m":591005.897562,
+    "geom:bbox":"21.715245,44.922035,21.727507,44.932101",
+    "geom:latitude":44.927193,
+    "geom:longitude":21.721782,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53791.0",
     "gn:asciiname":"Potoc",
@@ -24,33 +24,58 @@
     "gn:population":350,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.70258,44.90756,21.74258,44.94756",
+    "lbl:latitude":44.92756,
+    "lbl:longitude":21.72258,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Potoc"
+    ],
+    "name:ron_x_variant":[
+        "R\u00e2ul Potoc"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687627
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669750
+        "gn:id":669750,
+        "ro-ancpi:id":53826
     },
     "wof:country":"RO",
-    "wof:geomhash":"6ea0d6bea01982852bac0fa7473baa3a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"18bb056d03b4c7a23387aa3b67dded9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209695997
+            "locality_id":1209695997,
+            "region_id":85687627
         }
     ],
     "wof:id":1209695997,
-    "wof:lastmodified":1566610364,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203619,
     "wof:name":"Potoc",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":350,
     "wof:population_rank":2,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.72258,
-    44.92756,
-    21.72258,
-    44.92756
+    21.715245,
+    44.922035,
+    21.727507,
+    44.932101
 ],
-  "geometry": {"coordinates":[21.72258,44.92756],"type":"Point"}
+  "geometry": {"coordinates":[[[21.721734,44.931457],[21.72437,44.930398],[21.724981,44.930662],[21.725958,44.929881],[21.725409,44.929509],[21.724849,44.929488],[21.7245,44.929023],[21.725111,44.928673],[21.725025,44.928476],[21.726515,44.927434],[21.726928,44.927123],[21.726117,44.926665],[21.726161,44.926627],[21.726199,44.926537],[21.726224,44.926427],[21.726224,44.925887],[21.726259,44.925003],[21.727505,44.924747],[21.727033,44.923893],[21.726534,44.924058],[21.72629,44.923636],[21.727507,44.923427],[21.727305,44.922994],[21.726074,44.922035],[21.724356,44.922924],[21.723463,44.923174],[21.722716,44.92356],[21.722113,44.923865],[21.721606,44.924127],[21.72132,44.924038],[21.720203,44.923586],[21.71958,44.924694],[21.718479,44.925753],[21.71698,44.926027],[21.716199,44.926538],[21.715572,44.927233],[21.71549,44.927672],[21.715245,44.927841],[21.715626,44.928496],[21.71831,44.93045],[21.719366,44.93121],[21.720344,44.932101],[21.720737,44.931838],[21.721734,44.931457]]],"type":"Polygon"}
 }

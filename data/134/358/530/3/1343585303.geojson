@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.04213,46.36691,27.04213,46.36691",
-    "geom:latitude":46.36691,
-    "geom:longitude":27.04213,
+    "geom:area":0.000011,
+    "geom:area_square_m":91951.092785,
+    "geom:bbox":"27.039622,46.365803,27.045745,46.369231",
+    "geom:latitude":46.367355,
+    "geom:longitude":27.042692,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22941.0",
     "gn:asciiname":"Racatau de Jos",
@@ -25,19 +25,30 @@
     "gn:population":140,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.02213,46.34691,27.06213,46.38691",
+    "lbl:latitude":46.36691,
+    "lbl:longitude":27.04213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u0103c\u0103t\u0103u de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Racatau de Jos"
+    ],
     "name:und_x_variant":[
         "Gura R\u0103c\u0103t\u0103ului",
         "Slobozia-R\u0103c\u0103t\u0103u",
         "Gura R\u0103c\u0103t\u0103u",
         "R\u0103c\u0103t\u0103u de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669392
+        "gn:id":669392,
+        "ro-ancpi:id":23001
     },
     "wof:country":"RO",
-    "wof:geomhash":"292aa1b69ef0cfd1eb3b34e27feedac9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6bd3d7db2a14d76a31d79d3268a4f0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +74,14 @@
         }
     ],
     "wof:id":1343585303,
-    "wof:lastmodified":1566609947,
-    "wof:name":"Racatau de Jos",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203538,
+    "wof:name":"R\u0103c\u0103t\u0103u de Jos",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":140,
@@ -71,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.04213,
-    46.36691,
-    27.04213,
-    46.36691
+    27.039622,
+    46.365803,
+    27.045745,
+    46.369231
 ],
-  "geometry": {"coordinates":[27.04213,46.36691],"type":"Point"}
+  "geometry": {"coordinates":[[[27.045745,46.369138],[27.045105,46.366563],[27.04407,46.365869],[27.041408,46.366062],[27.041226,46.365926],[27.040949,46.365803],[27.040734,46.365919],[27.040417,46.365838],[27.040145,46.366416],[27.040571,46.366531],[27.04016,46.366915],[27.040162,46.367656],[27.039622,46.369231],[27.039921,46.369121],[27.04036,46.369049],[27.041057,46.369029],[27.041232,46.368696],[27.041368,46.368275],[27.041384,46.367735],[27.041355,46.367253],[27.041492,46.36724],[27.04384,46.366909],[27.044329,46.369197],[27.045745,46.369138]]],"type":"Polygon"}
 }

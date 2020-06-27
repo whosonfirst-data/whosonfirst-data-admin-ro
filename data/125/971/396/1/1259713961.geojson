@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.13044,45.06879,24.13044,45.06879",
-    "geom:latitude":45.06879,
-    "geom:longitude":24.13044,
+    "geom:area":0.000095,
+    "geom:area_square_m":832524.215693,
+    "geom:bbox":"24.11498,45.062423,24.135465,45.075787",
+    "geom:latitude":45.069863,
+    "geom:longitude":24.126208,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171995.0",
     "gn:asciiname":"Pausesti-Otasau",
@@ -25,18 +25,29 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.11044,45.04879,24.15044,45.08879",
+    "lbl:latitude":45.06879,
+    "lbl:longitude":24.13044,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "P\u0103use\u015fti-Ot\u0103s\u0103u"
+    ],
+    "name:ron_x_variant":[
+        "Pausesti-Otasau"
+    ],
     "name:und_x_variant":[
         "P\u0103u\u015f-Ot\u0103s\u0103u",
         "P\u0103u\u015fe\u015fti-Ot\u0103\u015f\u0103ul",
         "P\u0103u\u015fe\u015fti-Ot\u0103s\u0103u"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671198
+        "gn:id":671198,
+        "ro-ancpi:id":172046
     },
     "wof:country":"RO",
-    "wof:geomhash":"23e0cfb18482f4168c1f6ebca798af0a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"09da8b2559690f799d7f874fe5957fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1259713961,
-    "wof:lastmodified":1566611564,
-    "wof:name":"Pausesti-Otasau",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"P\u0103use\u015fti-Ot\u0103s\u0103u",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.13044,
-    45.06879,
-    24.13044,
-    45.06879
+    24.11498,
+    45.062423,
+    24.135465,
+    45.075787
 ],
-  "geometry": {"coordinates":[24.13044,45.06879],"type":"Point"}
+  "geometry": {"coordinates":[[[24.128034,45.075787],[24.132188,45.071022],[24.135465,45.067015],[24.134033,45.06662],[24.13226,45.068562],[24.130374,45.068085],[24.130587,45.066727],[24.12929,45.065029],[24.129229,45.063681],[24.128111,45.062967],[24.127279,45.063197],[24.124414,45.062423],[24.123885,45.063768],[24.127263,45.064278],[24.128911,45.067637],[24.128902,45.068841],[24.130674,45.069568],[24.129903,45.070265],[24.12426,45.064813],[24.123024,45.063402],[24.123104,45.062737],[24.121923,45.062879],[24.121898,45.064036],[24.122493,45.065031],[24.123402,45.066968],[24.124709,45.068936],[24.126338,45.070241],[24.123329,45.07124],[24.117109,45.068554],[24.115896,45.067877],[24.11498,45.068314],[24.116825,45.069925],[24.119164,45.07073],[24.121932,45.072019],[24.124807,45.072793],[24.12649,45.073195],[24.126218,45.073737],[24.122591,45.073132],[24.118709,45.073684],[24.118645,45.07457],[24.128034,45.075787]]],"type":"Polygon"}
 }

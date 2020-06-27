@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.19712,46.13905,23.19712,46.13905",
-    "geom:latitude":46.13905,
-    "geom:longitude":23.19712,
+    "geom:area":0.000015,
+    "geom:area_square_m":126929.277735,
+    "geom:bbox":"23.188805,46.134979,23.199749,46.143066",
+    "geom:latitude":46.139735,
+    "geom:longitude":23.19541,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1936.0",
     "gn:asciiname":"Dumbrava",
@@ -24,11 +24,14 @@
     "gn:population":9,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.17712,46.11905,23.21712,46.15905",
+    "lbl:latitude":46.140563,
+    "lbl:longitude":23.196093,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.140563,
+    "mps:longitude":23.196093,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dumbrava"
@@ -37,6 +40,9 @@
         "Dumbrava"
     ],
     "name:epo_x_preferred":[
+        "Dumbrava"
+    ],
+    "name:eus_x_preferred":[
         "Dumbrava"
     ],
     "name:fra_x_preferred":[
@@ -63,7 +69,11 @@
     "name:vol_x_preferred":[
         "Dumbrava"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678750
+        "gn:id":678750,
+        "ro-ancpi:id":1990
     },
     "wof:country":"RO",
-    "wof:geomhash":"7dc4f82a288b084afcd1b9a2dcacf3d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e289ded86fd527dcf5dc2f3fa207be5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +99,13 @@
         }
     ],
     "wof:id":1259497605,
-    "wof:lastmodified":1566611567,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203767,
     "wof:name":"Dumbrava",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -97,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.19712,
-    46.13905,
-    23.19712,
-    46.13905
+    23.188805,
+    46.134979,
+    23.199749,
+    46.143066
 ],
-  "geometry": {"coordinates":[23.19712,46.13905],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.197694,46.140355],[23.198101,46.140118],[23.19865,46.140166],[23.199115,46.139376],[23.19805,46.13918],[23.197301,46.139091],[23.196556,46.139203],[23.195674,46.139473],[23.194956,46.139439],[23.194853,46.139199],[23.194019,46.139178],[23.193715,46.139624],[23.193936,46.140045],[23.194991,46.140597],[23.194855,46.142016],[23.194181,46.143059],[23.19548,46.143066],[23.196299,46.142006],[23.196755,46.141416],[23.197221,46.141103],[23.197593,46.1407],[23.197694,46.140355]]],[[[23.191054,46.140134],[23.189962,46.138688],[23.188832,46.138805],[23.188805,46.13922],[23.190373,46.140558],[23.190805,46.140545],[23.191054,46.140134]]],[[[23.199749,46.135783],[23.199177,46.135493],[23.197385,46.136],[23.196826,46.136747],[23.197494,46.137072],[23.19804,46.136618],[23.198683,46.136283],[23.199749,46.135783]]],[[[23.196364,46.135171],[23.195738,46.134979],[23.195346,46.135679],[23.195926,46.135838],[23.196364,46.135171]]]],"type":"MultiPolygon"}
 }

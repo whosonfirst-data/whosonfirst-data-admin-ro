@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.48454,46.82272,24.48454,46.82272",
-    "geom:latitude":46.82272,
-    "geom:longitude":24.48454,
+    "geom:area":0.000007,
+    "geom:area_square_m":61508.928307,
+    "geom:bbox":"24.474393,46.820542,24.483066,46.826652",
+    "geom:latitude":46.822699,
+    "geom:longitude":24.480428,
     "gn:admin1_code":"27",
     "gn:admin2_code":"116224.0",
     "gn:asciiname":"Valea Sasului",
@@ -25,12 +25,18 @@
     "gn:population":19,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.46454,46.80272,24.50454,46.84272",
+    "lbl:latitude":46.822518,
+    "lbl:longitude":24.480786,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.822518,
+    "mps:longitude":24.480786,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Sasului"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0430 \u0421\u0430\u0441\u0443\u043b\u0443\u0458"
     ],
@@ -38,7 +44,11 @@
         "Sz\u00e0szv\u00f6lgye",
         "Valea Sasului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663442
+        "gn:id":663442,
+        "ro-ancpi:id":116260
     },
     "wof:country":"RO",
-    "wof:geomhash":"39a3931567651e48b0ca61ffea91e48a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6ff8111db088f3454ae693e6f004b91f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +74,13 @@
         }
     ],
     "wof:id":1343805517,
-    "wof:lastmodified":1566609979,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203445,
     "wof:name":"Valea Sasului",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -72,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.48454,
-    46.82272,
-    24.48454,
-    46.82272
+    24.474393,
+    46.820542,
+    24.483066,
+    46.826652
 ],
-  "geometry": {"coordinates":[24.48454,46.82272],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.481784,46.820858],[24.481295,46.820542],[24.480381,46.821015],[24.480979,46.82143],[24.480351,46.821835],[24.478454,46.823138],[24.478677,46.823381],[24.479688,46.824137],[24.479702,46.824129],[24.479941,46.823985],[24.480226,46.823826],[24.48064,46.823565],[24.481154,46.823272],[24.481553,46.823054],[24.481832,46.822919],[24.482147,46.822791],[24.482436,46.822692],[24.48267,46.822606],[24.482721,46.822582],[24.482745,46.822571],[24.482795,46.82255],[24.482824,46.822537],[24.482855,46.822522],[24.482928,46.822475],[24.482994,46.822427],[24.483045,46.822381],[24.483066,46.822335],[24.482955,46.82226],[24.482368,46.82181],[24.481548,46.821149],[24.481784,46.820858]]],[[[24.475603,46.826465],[24.47552,46.826258],[24.475311,46.826268],[24.475012,46.826106],[24.474393,46.826239],[24.474493,46.826415],[24.474638,46.826545],[24.475007,46.826652],[24.475603,46.826465]]]],"type":"MultiPolygon"}
 }

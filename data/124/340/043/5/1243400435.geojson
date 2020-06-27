@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.43949,44.9254,24.43949,44.9254",
-    "geom:latitude":44.9254,
-    "geom:longitude":24.43949,
+    "geom:area":0.000153,
+    "geom:area_square_m":1335229.113286,
+    "geom:bbox":"24.426684,44.918509,24.446348,44.934661",
+    "geom:latitude":44.926187,
+    "geom:longitude":24.437684,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404.0",
     "gn:asciiname":"Dobresti",
@@ -24,13 +24,24 @@
     "gn:population":239,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.41949,44.9054,24.45949,44.9454",
+    "lbl:latitude":44.9254,
+    "lbl:longitude":24.43949,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dobre\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Dobresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679254
+        "gn:id":679254,
+        "ro-ancpi:id":169468
     },
     "wof:country":"RO",
-    "wof:geomhash":"eac4874d8e7ca0d98673351f1df94c09",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17e0ca739a74e059209d7b355494835d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1243400435,
-    "wof:lastmodified":1566611472,
-    "wof:name":"Dobresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203693,
+    "wof:name":"Dobre\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":239,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.43949,
-    44.9254,
-    24.43949,
-    44.9254
+    24.426684,
+    44.918509,
+    24.446348,
+    44.934661
 ],
-  "geometry": {"coordinates":[24.43949,44.9254],"type":"Point"}
+  "geometry": {"coordinates":[[[24.441024,44.925468],[24.441594,44.924377],[24.441638,44.923655],[24.44438,44.921592],[24.443991,44.920585],[24.441331,44.921603],[24.439188,44.921734],[24.436496,44.920431],[24.436534,44.920225],[24.436296,44.918625],[24.434781,44.919417],[24.433091,44.919628],[24.43174,44.920395],[24.431256,44.919838],[24.429501,44.918693],[24.428993,44.918509],[24.428103,44.919651],[24.427432,44.919422],[24.426684,44.920724],[24.42804,44.921877],[24.428514,44.923519],[24.430339,44.924834],[24.430738,44.924727],[24.431296,44.925129],[24.432101,44.925787],[24.434802,44.927402],[24.435785,44.929729],[24.440264,44.934574],[24.445354,44.934661],[24.446348,44.929602],[24.441024,44.925468]]],"type":"Polygon"}
 }

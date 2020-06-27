@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.73817,45.859,24.73817,45.859",
-    "geom:latitude":45.859,
-    "geom:longitude":24.73817,
+    "geom:area":0.000025,
+    "geom:area_square_m":219218.101229,
+    "geom:bbox":"24.732194,45.856296,24.740828,45.861405",
+    "geom:latitude":45.858778,
+    "geom:longitude":24.736056,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144410.0",
     "gn:asciiname":"Gherdeal",
@@ -24,13 +24,21 @@
     "gn:population":59,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.71817,45.839,24.75817,45.879",
+    "lbl:latitude":45.859,
+    "lbl:longitude":24.73817,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gherdeal"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677445
+        "gn:id":677445,
+        "ro-ancpi:id":144438
     },
     "wof:country":"RO",
-    "wof:geomhash":"c8508cd2179dd5e825edc00ecb77960e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e4d2bfc563cb235becd1fc2fefb6c052",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1242737093,
-    "wof:lastmodified":1566611438,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203658,
     "wof:name":"Gherdeal",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.73817,
-    45.859,
-    24.73817,
-    45.859
+    24.732194,
+    45.856296,
+    24.740828,
+    45.861405
 ],
-  "geometry": {"coordinates":[24.73817,45.859],"type":"Point"}
+  "geometry": {"coordinates":[[[24.738722,45.860711],[24.739254,45.85911],[24.739862,45.859221],[24.740828,45.858441],[24.73917,45.857379],[24.738506,45.856991],[24.737101,45.857839],[24.735591,45.857054],[24.732948,45.856296],[24.732194,45.857135],[24.732515,45.857947],[24.732368,45.859222],[24.732817,45.860014],[24.735775,45.860418],[24.736284,45.861405],[24.737525,45.861153],[24.738722,45.860713],[24.738722,45.860711]]],"type":"Polygon"}
 }

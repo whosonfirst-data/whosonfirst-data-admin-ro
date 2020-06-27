@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.139,44.8679,24.139,44.8679",
-    "geom:latitude":44.8679,
-    "geom:longitude":24.139,
+    "geom:area":0.000035,
+    "geom:area_square_m":309287.944638,
+    "geom:bbox":"24.134811,44.860237,24.139833,44.870804",
+    "geom:latitude":44.865544,
+    "geom:longitude":24.137339,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172279.0",
     "gn:asciiname":"Cermegesti",
@@ -25,17 +25,28 @@
     "gn:population":483,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.119,44.8479,24.159,44.8879",
+    "lbl:latitude":44.8679,
+    "lbl:longitude":24.139,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cermege\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cermegesti"
+    ],
     "name:und_x_variant":[
         "Pesceana-Cermege\u015fti",
         "Cermege\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682351
+        "gn:id":682351,
+        "ro-ancpi:id":172297
     },
     "wof:country":"RO",
-    "wof:geomhash":"b67dd8b5af33605cee44ba5d6bc75df8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"79d86a14ce38671be9ac17b16335a99f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1293619705,
-    "wof:lastmodified":1566610086,
-    "wof:name":"Cermegesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203681,
+    "wof:name":"Cermege\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":483,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.139,
-    44.8679,
-    24.139,
-    44.8679
+    24.134811,
+    44.860237,
+    24.139833,
+    44.870804
 ],
-  "geometry": {"coordinates":[24.139,44.8679],"type":"Point"}
+  "geometry": {"coordinates":[[[24.139095,44.870727],[24.139355,44.867781],[24.139833,44.864644],[24.136911,44.860237],[24.134811,44.86026],[24.134999,44.863893],[24.135671,44.863885],[24.135552,44.86465],[24.136448,44.865959],[24.136463,44.866705],[24.135807,44.867351],[24.13593,44.869899],[24.136565,44.870689],[24.136548,44.870804],[24.139095,44.870727]]],"type":"Polygon"}
 }

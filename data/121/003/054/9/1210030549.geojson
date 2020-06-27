@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.05729,46.30948,23.05729,46.30948",
-    "geom:latitude":46.30948,
-    "geom:longitude":23.05729,
+    "geom:area":0.000012,
+    "geom:area_square_m":100547.137199,
+    "geom:bbox":"23.056908,46.306197,23.067724,46.308046",
+    "geom:latitude":46.307175,
+    "geom:longitude":23.06189,
     "gn:admin1_code":"01",
     "gn:admin2_code":"6761.0",
     "gn:asciiname":"Gura Rosiei",
@@ -25,17 +25,30 @@
     "gn:population":106,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.03729,46.28948,23.07729,46.32948",
+    "lbl:latitude":46.307196,
+    "lbl:longitude":23.060706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.307196,
+    "mps:longitude":23.060706,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gura Ro\u015fiei"
+    ],
+    "name:ron_x_variant":[
+        "Gura Rosiei"
+    ],
     "name:und_x_variant":[
         "Gura Rosia",
         "Gura Ro\u015fiei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676493
+        "gn:id":676493,
+        "ro-ancpi:id":6878
     },
     "wof:country":"RO",
-    "wof:geomhash":"593f9132da14ad5fffa31f95fd56a4f8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eaa6763329c827a04fe8c9584b007013",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1210030549,
-    "wof:lastmodified":1566610411,
-    "wof:name":"Gura Rosiei",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203757,
+    "wof:name":"Gura Ro\u015fiei",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":106,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.05729,
-    46.30948,
-    23.05729,
-    46.30948
+    23.056908,
+    46.306197,
+    23.067724,
+    46.308046
 ],
-  "geometry": {"coordinates":[23.05729,46.30948],"type":"Point"}
+  "geometry": {"coordinates":[[[23.06455,46.3079],[23.065462,46.307745],[23.065807,46.307577],[23.065823,46.307546],[23.065859,46.307487],[23.065971,46.307477],[23.066145,46.307437],[23.066255,46.307366],[23.066384,46.307302],[23.066498,46.307265],[23.066704,46.307237],[23.067007,46.307242],[23.067251,46.307246],[23.067724,46.307225],[23.067694,46.307099],[23.067598,46.306695],[23.06526,46.306588],[23.063715,46.306891],[23.062327,46.306867],[23.061506,46.306841],[23.060805,46.306437],[23.059655,46.306468],[23.058682,46.30659],[23.058623,46.306197],[23.057081,46.30624],[23.056908,46.306245],[23.057203,46.307148],[23.057583,46.307592],[23.057702,46.307584],[23.058665,46.307516],[23.059898,46.307819],[23.060805,46.30797],[23.061152,46.307989],[23.062029,46.307951],[23.063688,46.308046],[23.06455,46.3079]]],"type":"Polygon"}
 }

@@ -2,11 +2,12 @@
   "id": 1141907051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.919638223,46.5784346711,26.919638223,46.5784346711",
+    "geom:bbox":"26.919638,46.578435,26.919638,46.578435",
     "geom:latitude":46.578435,
     "geom:longitude":26.919638,
     "iso:country":"RO",
@@ -16,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Bac\u0103u"
@@ -335,7 +336,7 @@
     },
     "wof:country":"RO",
     "wof:created":1499130674,
-    "wof:geomhash":"1a30bae4688c032feecf949494403a52",
+    "wof:geomhash":"ac54d5c8c55dc5190bb51cd4d25e62a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -345,20 +346,22 @@
         }
     ],
     "wof:id":1141907051,
-    "wof:lastmodified":1566611719,
+    "wof:lastmodified":1588368346,
     "wof:name":"Bacau",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101752009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    26.91963822297697,
-    46.57843467110121,
-    26.91963822297697,
-    46.57843467110121
+    26.919638,
+    46.578435,
+    26.919638,
+    46.578435
 ],
-  "geometry": {"coordinates":[26.91963822297697,46.57843467110121],"type":"Point"}
+  "geometry": {"coordinates":[26.919638,46.578435],"type":"Point"}
 }

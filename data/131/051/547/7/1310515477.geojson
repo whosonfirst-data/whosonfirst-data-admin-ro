@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.8123,46.36133,22.8123,46.36133",
-    "geom:latitude":46.36133,
-    "geom:longitude":22.8123,
+    "geom:area":0.000004,
+    "geom:area_square_m":30238.555653,
+    "geom:bbox":"22.787475,46.358641,22.791527,46.359816",
+    "geom:latitude":46.35927,
+    "geom:longitude":22.789507,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Cocesti",
@@ -24,13 +24,26 @@
     "gn:population":93,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.7923,46.34133,22.8323,46.38133",
+    "lbl:latitude":46.359322,
+    "lbl:longitude":22.789545,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.359322,
+    "mps:longitude":22.789545,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Coce\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cocesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681231
+        "gn:id":681231,
+        "ro-ancpi:id":2684
     },
     "wof:country":"RO",
-    "wof:geomhash":"622b94f7d9fcf16723a1450cd2b4b037",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f78819248b30226af2c9974a3012c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1310515477,
-    "wof:lastmodified":1566610602,
-    "wof:name":"Cocesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203759,
+    "wof:name":"Coce\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":93,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.8123,
-    46.36133,
-    22.8123,
-    46.36133
+    22.787475,
+    46.358641,
+    22.791527,
+    46.359816
 ],
-  "geometry": {"coordinates":[22.8123,46.36133],"type":"Point"}
+  "geometry": {"coordinates":[[[22.787475,46.359019],[22.787529,46.359746],[22.789171,46.359816],[22.791322,46.359579],[22.791527,46.358778],[22.790489,46.358641],[22.789,46.359],[22.78863,46.358809],[22.787475,46.359019]]],"type":"Polygon"}
 }

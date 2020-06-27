@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.13424,45.97217,22.13424,45.97217",
-    "geom:latitude":45.97217,
-    "geom:longitude":22.13424,
+    "geom:area":0.000103,
+    "geom:area_square_m":881055.356408,
+    "geom:bbox":"22.121955,45.968997,22.138894,45.978619",
+    "geom:latitude":45.973352,
+    "geom:longitude":22.130728,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10006.0",
     "gn:asciiname":"Ostrov",
@@ -24,11 +24,12 @@
     "gn:population":264,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.11424,45.95217,22.15424,45.99217",
+    "lbl:latitude":45.97217,
+    "lbl:longitude":22.13424,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e"
@@ -117,10 +118,17 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0456\u0432"
     ],
+    "name:ukr_x_variant":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
     "name:zho_x_preferred":[
         "\u5967\u65af\u7279\u91cc\u592b"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -129,10 +137,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671632
+        "gn:id":671632,
+        "ro-ancpi:id":10033
     },
     "wof:country":"RO",
-    "wof:geomhash":"472414ced676fa5c688f768a7f07d828",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bbb74a8f31a5fd98331ec72b5e406925",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +154,13 @@
         }
     ],
     "wof:id":1193145737,
-    "wof:lastmodified":1566610431,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203711,
     "wof:name":"Ostrov",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
@@ -154,10 +172,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.13424,
-    45.97217,
-    22.13424,
-    45.97217
+    22.121955,
+    45.968997,
+    22.138894,
+    45.978619
 ],
-  "geometry": {"coordinates":[22.13424,45.97217],"type":"Point"}
+  "geometry": {"coordinates":[[[22.13881,45.972796],[22.138609,45.970456],[22.138894,45.970313],[22.137542,45.969265],[22.136052,45.968997],[22.132558,45.969423],[22.132315,45.969773],[22.128182,45.970046],[22.125452,45.970789],[22.126094,45.971748],[22.12416,45.972223],[22.124001,45.972104],[22.122986,45.972256],[22.123058,45.972614],[22.12263,45.97275],[22.12308,45.973641],[22.121955,45.973879],[22.122326,45.975418],[22.122477,45.976536],[22.126038,45.977052],[22.129119,45.978619],[22.130762,45.976534],[22.130921,45.976328],[22.13877,45.975003],[22.138225,45.972976],[22.13881,45.972796]]],"type":"Polygon"}
 }

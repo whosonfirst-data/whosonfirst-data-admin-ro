@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.21651,46.54111,28.21651,46.54111",
-    "geom:latitude":46.54111,
-    "geom:longitude":28.21651,
+    "geom:area":0.000012,
+    "geom:area_square_m":98241.315264,
+    "geom:bbox":"28.212456,46.538905,28.216994,46.542591",
+    "geom:latitude":46.540978,
+    "geom:longitude":28.214708,
     "gn:admin1_code":"38",
     "gn:admin2_code":"164749.0",
     "gn:asciiname":"Condrea",
@@ -24,11 +24,12 @@
     "gn:population":70,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.19651,46.52111,28.23651,46.56111",
+    "lbl:latitude":46.54111,
+    "lbl:longitude":28.21651,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Condrea"
@@ -39,7 +40,11 @@
     "name:srp_x_preferred":[
         "\u041a\u043e\u043d\u0434\u0440\u0435\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680970
+        "gn:id":680970,
+        "ro-ancpi:id":164776
     },
     "wof:country":"RO",
-    "wof:geomhash":"be5afa2c2d96687a5eb6bc036bf116e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"087bb8d5869fb7ff036dde37a0981c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +70,13 @@
         }
     ],
     "wof:id":1209767029,
-    "wof:lastmodified":1566610334,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203467,
     "wof:name":"Condrea",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -73,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.21651,
-    46.54111,
-    28.21651,
-    46.54111
+    28.212456,
+    46.538905,
+    28.216994,
+    46.542591
 ],
-  "geometry": {"coordinates":[28.21651,46.54111],"type":"Point"}
+  "geometry": {"coordinates":[[[28.216699,46.540828],[28.21475,46.538905],[28.213916,46.538943],[28.213566,46.539833],[28.212539,46.539787],[28.212456,46.541306],[28.213099,46.541341],[28.213481,46.542484],[28.216146,46.542591],[28.216994,46.542563],[28.216699,46.540828]]],"type":"Polygon"}
 }

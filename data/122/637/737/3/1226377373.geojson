@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.9866,44.92711,23.9866,44.92711",
-    "geom:latitude":44.92711,
-    "geom:longitude":23.9866,
+    "geom:area":0.000108,
+    "geom:area_square_m":946725.151206,
+    "geom:bbox":"23.969204,44.916139,23.992157,44.928083",
+    "geom:latitude":44.923559,
+    "geom:longitude":23.982519,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170792.0",
     "gn:asciiname":"Mijati",
@@ -24,13 +24,26 @@
     "gn:population":176,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.9666,44.90711,24.0066,44.94711",
+    "lbl:latitude":44.920761,
+    "lbl:longitude":23.9873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.920761,
+    "mps:longitude":23.9873,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mija\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Mijati"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673340
+        "gn:id":673340,
+        "ro-ancpi:id":170836
     },
     "wof:country":"RO",
-    "wof:geomhash":"617d63557d423a8470fd2b7c47cc9439",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4eea0d937aee35c5fcd0cf6e17b76b42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1226377373,
-    "wof:lastmodified":1566611693,
-    "wof:name":"Mijati",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203696,
+    "wof:name":"Mija\u0163i",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":176,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.9866,
-    44.92711,
-    23.9866,
-    44.92711
+    23.969204,
+    44.916139,
+    23.992157,
+    44.928083
 ],
-  "geometry": {"coordinates":[23.9866,44.92711],"type":"Point"}
+  "geometry": {"coordinates":[[[23.989901,44.925851],[23.992157,44.923511],[23.989506,44.919312],[23.986496,44.916139],[23.982614,44.918954],[23.985283,44.922416],[23.986066,44.924193],[23.983033,44.924982],[23.97732,44.922957],[23.97114,44.922935],[23.969204,44.925786],[23.982366,44.928083],[23.989901,44.925851]]],"type":"Polygon"}
 }

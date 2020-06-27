@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.65322,44.22712,23.65322,44.22712",
-    "geom:latitude":44.22712,
-    "geom:longitude":23.65322,
+    "geom:area":0.000074,
+    "geom:area_square_m":654738.535804,
+    "geom:bbox":"23.645432,44.223099,23.658667,44.230838",
+    "geom:latitude":44.227167,
+    "geom:longitude":23.652492,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74750",
     "gn:asciiname":"Bujor",
@@ -24,16 +24,20 @@
     "gn:population":147,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.63322,44.20712,23.67322,44.24712",
+    "lbl:latitude":44.22712,
+    "lbl:longitude":23.65322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bujor"
     ],
     "name:deu_x_preferred":[
+        "Bujor"
+    ],
+    "name:nds_x_preferred":[
         "Bujor"
     ],
     "name:ron_x_preferred":[
@@ -51,27 +55,45 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0436\u043e\u0440"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687581
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683341
+        "gn:id":683341,
+        "ro-ancpi:id":74778
     },
     "wof:country":"RO",
-    "wof:geomhash":"3558fc210e45424f5faa9c556934fa64",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1d1fc5b024f9dd6a1d67a8218196e2c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209069889
+            "locality_id":1209069889,
+            "region_id":85687581
         }
     ],
     "wof:id":1209069889,
-    "wof:lastmodified":1566610297,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203320,
     "wof:name":"Bujor",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":147,
     "wof:population_rank":1,
@@ -81,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.65322,
-    44.22712,
-    23.65322,
-    44.22712
+    23.645432,
+    44.223099,
+    23.658667,
+    44.230838
 ],
-  "geometry": {"coordinates":[23.65322,44.22712],"type":"Point"}
+  "geometry": {"coordinates":[[[23.658162,44.230582],[23.658121,44.229634],[23.65821,44.228927],[23.658667,44.228683],[23.658461,44.227833],[23.65773,44.227911],[23.65755,44.226546],[23.657746,44.226337],[23.65718,44.224601],[23.657045,44.223099],[23.655902,44.223204],[23.652893,44.223605],[23.650708,44.224213],[23.645432,44.224785],[23.645774,44.226693],[23.646549,44.226722],[23.646867,44.226734],[23.647334,44.226649],[23.647788,44.226549],[23.647869,44.226637],[23.647769,44.226823],[23.647528,44.227067],[23.647133,44.22736],[23.646923,44.227627],[23.646841,44.227906],[23.646796,44.228147],[23.646925,44.228321],[23.64712,44.228722],[23.647743,44.228766],[23.647682,44.228994],[23.647089,44.229273],[23.647472,44.230296],[23.648275,44.230255],[23.650222,44.230066],[23.65028,44.230838],[23.652063,44.230699],[23.655622,44.230567],[23.658162,44.230582]]],"type":"Polygon"}
 }

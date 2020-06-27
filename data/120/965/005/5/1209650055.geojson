@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.06053,44.51301,24.06053,44.51301",
-    "geom:latitude":44.51301,
-    "geom:longitude":24.06053,
+    "geom:area":0.000068,
+    "geom:area_square_m":601068.685419,
+    "geom:bbox":"24.055938,44.504823,24.065498,44.51568",
+    "geom:latitude":44.51048,
+    "geom:longitude":24.060987,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170612",
     "gn:asciiname":"Berbesti",
@@ -25,37 +25,87 @@
     "gn:population":578,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.04053,44.49301,24.08053,44.53301",
+    "lbl:latitude":44.51301,
+    "lbl:longitude":24.06053,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0628\u0634"
+    ],
+    "name:hun_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Berbe\u015fti"
+    ],
+    "name:nld_x_preferred":[
+        "Berbe\u0219ti"
+    ],
+    "name:pol_x_preferred":[
+        "Berbe\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Berbe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Berbesti",
+        "Berbe\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u0448\u0442\u044c"
+    ],
     "name:und_x_variant":[
         "Berbe\u015fti-Meloge\u015fti",
         "Berbe\u015fti"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Berbesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685089
+        "gn:id":685089,
+        "ro-ancpi:id":170630
     },
     "wof:country":"RO",
-    "wof:geomhash":"e03484647ebefeded2e00c508fcac6eb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bb74cd5ad1c1158b3d214ec2adb4eb7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209650055
+            "locality_id":1209650055,
+            "region_id":85687643
         }
     ],
     "wof:id":1209650055,
-    "wof:lastmodified":1566610287,
-    "wof:name":"Berbesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
+    "wof:name":"Berbe\u015fti",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":578,
     "wof:population_rank":2,
@@ -65,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.06053,
-    44.51301,
-    24.06053,
-    44.51301
+    24.055938,
+    44.504823,
+    24.065498,
+    44.51568
 ],
-  "geometry": {"coordinates":[24.06053,44.51301],"type":"Point"}
+  "geometry": {"coordinates":[[[24.056624,44.515639],[24.05951,44.51568],[24.062554,44.513956],[24.065168,44.511153],[24.065498,44.505505],[24.061276,44.504823],[24.05845,44.508918],[24.056462,44.51125],[24.055938,44.514173],[24.056624,44.515639]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.19458,45.60072,27.19458,45.60072",
-    "geom:latitude":45.60072,
-    "geom:longitude":27.19458,
+    "geom:area":0.000042,
+    "geom:area_square_m":360254.77807,
+    "geom:bbox":"27.188434,45.596547,27.197688,45.604258",
+    "geom:latitude":45.600493,
+    "geom:longitude":27.192705,
     "gn:admin1_code":"40",
     "gn:admin2_code":"177726",
     "gn:asciiname":"Armeni",
@@ -24,11 +24,12 @@
     "gn:population":190,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.17458,45.58072,27.21458,45.62072",
+    "lbl:latitude":45.60072,
+    "lbl:longitude":27.19458,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Armeni"
@@ -57,7 +58,11 @@
     "name:swe_x_preferred":[
         "Armeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686140
+        "gn:id":686140,
+        "ro-ancpi:id":177744
     },
     "wof:country":"RO",
-    "wof:geomhash":"a7513229cd625a6e73847058f4cebe25",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bd0de88af0cfa660450ff173388c7869",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +88,13 @@
         }
     ],
     "wof:id":1310044133,
-    "wof:lastmodified":1566610583,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203402,
     "wof:name":"Armeni",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
@@ -91,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.19458,
-    45.60072,
-    27.19458,
-    45.60072
+    27.188434,
+    45.596547,
+    27.197688,
+    45.604258
 ],
-  "geometry": {"coordinates":[27.19458,45.60072],"type":"Point"}
+  "geometry": {"coordinates":[[[27.196147,45.602365],[27.196625,45.601974],[27.197688,45.601165],[27.196571,45.60023],[27.195442,45.599163],[27.194634,45.598339],[27.19394,45.597645],[27.193387,45.596872],[27.192638,45.597349],[27.191745,45.596547],[27.19091,45.596889],[27.190673,45.597128],[27.189981,45.597426],[27.189855,45.597487],[27.189981,45.597622],[27.189749,45.598534],[27.188434,45.599023],[27.188946,45.599832],[27.188776,45.599892],[27.189351,45.600852],[27.188706,45.601323],[27.188745,45.601722],[27.188733,45.601951],[27.188918,45.602128],[27.189191,45.602504],[27.189515,45.602771],[27.189823,45.603047],[27.190023,45.602946],[27.191678,45.602441],[27.192981,45.604258],[27.194246,45.603806],[27.195228,45.603522],[27.195505,45.603359],[27.196425,45.602604],[27.196147,45.602365]]],"type":"Polygon"}
 }

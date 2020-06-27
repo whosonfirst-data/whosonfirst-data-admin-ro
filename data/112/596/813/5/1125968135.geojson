@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.15,44.88333,24.15,44.88333",
-    "geom:latitude":44.88333,
-    "geom:longitude":24.15,
+    "geom:area":0.000125,
+    "geom:area_square_m":1096397.996036,
+    "geom:bbox":"24.128135,44.870727,24.14357,44.906917",
+    "geom:latitude":44.888864,
+    "geom:longitude":24.13518,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2017,
     "iso:country":"RO",
-    "lbl:bbox":"24.13,44.86333,24.17,44.90333",
-    "lbl:latitude":44.88333,
-    "lbl:longitude":24.15,
+    "lbl:latitude":44.880687,
+    "lbl:longitude":24.136993,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":44.880687,
+    "mps:longitude":24.136993,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u067e\u064a\u0633\u064a\u0627\u0646\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Pesceana"
     ],
@@ -71,8 +75,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877394,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -88,11 +95,15 @@
         "gn:id":671080,
         "gp:id":877394,
         "qs_pg:id":412049,
+        "ro-ancpi:id":172288,
         "wd:id":"Q523672"
     },
     "wof:country":"RO",
     "wof:created":1497298054,
-    "wof:geomhash":"03d6ce3776c9562a21c3c11ea4be97f2",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"3c4da704b95d4301c90393155e4a0d70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,7 +113,13 @@
         }
     ],
     "wof:id":1125968135,
-    "wof:lastmodified":1566611352,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203692,
     "wof:name":"Pesceana",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -114,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.15,
-    44.88333,
-    24.15,
-    44.88333
+    24.128135,
+    44.870727,
+    24.14357,
+    44.906917
 ],
-  "geometry": {"coordinates":[24.15,44.88333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.139095,44.870727],[24.136548,44.870804],[24.136235,44.872926],[24.135652,44.87409],[24.134899,44.874027],[24.134535,44.874905],[24.134071,44.877141],[24.134853,44.878794],[24.134837,44.879866],[24.134776,44.882144],[24.135694,44.883759],[24.135111,44.886703],[24.133801,44.889584],[24.133986,44.891596],[24.132516,44.894437],[24.132637,44.8971],[24.133054,44.899803],[24.13187,44.901497],[24.128366,44.901585],[24.128135,44.90616],[24.130482,44.905948],[24.130549,44.906848],[24.132837,44.906917],[24.134912,44.899855],[24.135258,44.898345],[24.134996,44.896046],[24.136326,44.890044],[24.137611,44.887028],[24.137025,44.886603],[24.137129,44.885034],[24.142533,44.885668],[24.14357,44.884776],[24.141996,44.88373],[24.138898,44.883822],[24.139018,44.883018],[24.139007,44.881908],[24.139502,44.879442],[24.138537,44.879186],[24.139126,44.87762],[24.138922,44.876853],[24.137872,44.876825],[24.139095,44.870727]]],"type":"Polygon"}
 }

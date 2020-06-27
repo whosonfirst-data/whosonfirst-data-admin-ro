@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.3,46.0,23.3,46.0",
-    "geom:latitude":46.0,
-    "geom:longitude":23.3,
+    "geom:area":0.00001,
+    "geom:area_square_m":83087.488474,
+    "geom:bbox":"23.292189,46.001561,23.298278,46.004935",
+    "geom:latitude":46.003637,
+    "geom:longitude":23.294423,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3841.0",
     "gn:asciiname":"Viezuri",
@@ -24,17 +24,27 @@
     "gn:population":5,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.28,45.98,23.32,46.02",
+    "lbl:latitude":46.003908,
+    "lbl:longitude":23.294376,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.003908,
+    "mps:longitude":23.294376,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Viezuri"
+    ],
     "name:und_x_variant":[
         "Iezuri",
         "Vezuri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663005
+        "gn:id":663005,
+        "ro-ancpi:id":3949
     },
     "wof:country":"RO",
-    "wof:geomhash":"83bf9948168f9bec2a4129aba1267197",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3628d55533d04f7a28f00a2cc61b3a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +70,13 @@
         }
     ],
     "wof:id":1293407773,
-    "wof:lastmodified":1566610079,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203752,
     "wof:name":"Viezuri",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -68,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.3,
-    46.0,
-    23.3,
-    46.0
+    23.292189,
+    46.001561,
+    23.298278,
+    46.004935
 ],
-  "geometry": {"coordinates":[23.3,46.0],"type":"Point"}
+  "geometry": {"coordinates":[[[23.293595,46.004684],[23.296657,46.004935],[23.298278,46.004788],[23.29804,46.004012],[23.29559,46.004055],[23.295619,46.003657],[23.295112,46.003149],[23.294054,46.003031],[23.293783,46.001561],[23.292189,46.001582],[23.292582,46.004726],[23.293595,46.004684]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.79631,44.54463,24.79631,44.54463",
-    "geom:latitude":44.54463,
-    "geom:longitude":24.79631,
+    "geom:area":0.000087,
+    "geom:area_square_m":770344.782649,
+    "geom:bbox":"24.784101,44.53545,24.803321,44.548028",
+    "geom:latitude":44.542493,
+    "geom:longitude":24.792622,
     "gn:admin1_code":"03",
     "gn:admin2_code":"18938.0",
     "gn:asciiname":"Vlascuta",
@@ -24,13 +24,24 @@
     "gn:population":346,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.77631,44.52463,24.81631,44.56463",
+    "lbl:latitude":44.54463,
+    "lbl:longitude":24.79631,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Vl\u0103\u015fcu\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Vlascuta"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662557
+        "gn:id":662557,
+        "ro-ancpi:id":18992
     },
     "wof:country":"RO",
-    "wof:geomhash":"e27f5856158ff3cf35362f4ecb51a96c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"62aa5c04b7f7a5fb9e21babaee5d3b76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1309719497,
-    "wof:lastmodified":1566611241,
-    "wof:name":"Vlascuta",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203645,
+    "wof:name":"Vl\u0103\u015fcu\u0163a",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":346,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.79631,
-    44.54463,
-    24.79631,
-    44.54463
+    24.784101,
+    44.53545,
+    24.803321,
+    44.548028
 ],
-  "geometry": {"coordinates":[24.79631,44.54463],"type":"Point"}
+  "geometry": {"coordinates":[[[24.79558,44.548028],[24.795826,44.546416],[24.796367,44.54661],[24.799525,44.547197],[24.802533,44.547417],[24.803321,44.545913],[24.803109,44.545192],[24.800792,44.545016],[24.800463,44.544693],[24.800468,44.543187],[24.800198,44.5428],[24.79752,44.542838],[24.797608,44.543634],[24.796736,44.54346],[24.793456,44.543583],[24.793428,44.542981],[24.793133,44.541303],[24.792441,44.54113],[24.791821,44.540739],[24.791293,44.539875],[24.790704,44.538976],[24.791431,44.537665],[24.792067,44.536548],[24.79186,44.53545],[24.788851,44.535574],[24.788819,44.536198],[24.787554,44.536346],[24.786859,44.537398],[24.785826,44.539934],[24.784101,44.542598],[24.786416,44.543097],[24.788043,44.543498],[24.788823,44.544166],[24.789694,44.544662],[24.791588,44.54516],[24.792549,44.545721],[24.793449,44.546562],[24.794197,44.54751],[24.79558,44.548028]]],"type":"Polygon"}
 }

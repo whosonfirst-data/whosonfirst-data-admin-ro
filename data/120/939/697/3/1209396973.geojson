@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.33987,44.78872,25.33987,44.78872",
-    "geom:latitude":44.78872,
-    "geom:longitude":25.33987,
+    "geom:area":0.000024,
+    "geom:area_square_m":207412.832974,
+    "geom:bbox":"25.3305,44.784544,25.335811,44.796949",
+    "geom:latitude":44.790139,
+    "geom:longitude":25.333366,
     "gn:admin1_code":"16",
     "gn:admin2_code":"66580.0",
     "gn:asciiname":"Gherghitesti",
@@ -25,37 +25,64 @@
     "gn:population":459,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.31987,44.76872,25.35987,44.80872",
+    "lbl:latitude":44.790078,
+    "lbl:longitude":25.332883,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.790078,
+    "mps:longitude":25.332883,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gherghi\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gherghitesti"
+    ],
     "name:und_x_variant":[
         "Gheorghi\u0163e\u015fti",
         "Gherghi\u0163e\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677430
+        "gn:id":677430,
+        "ro-ancpi:id":66599
     },
     "wof:country":"RO",
-    "wof:geomhash":"c609aafafb607ea8a21c4912f1ef8bd2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a856fc13e019d0bf3496cfc7b3b7e49",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209396973
+            "locality_id":1209396973,
+            "region_id":85687637
         }
     ],
     "wof:id":1209396973,
-    "wof:lastmodified":1566610294,
-    "wof:name":"Gherghitesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203721,
+    "wof:name":"Gherghi\u0163e\u015fti",
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":459,
     "wof:population_rank":2,
@@ -65,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.33987,
-    44.78872,
-    25.33987,
-    44.78872
+    25.3305,
+    44.784544,
+    25.335811,
+    44.796949
 ],
-  "geometry": {"coordinates":[25.33987,44.78872],"type":"Point"}
+  "geometry": {"coordinates":[[[25.334798,44.791631],[25.33494,44.791684],[25.334979,44.791687],[25.335707,44.791051],[25.335566,44.790126],[25.335328,44.790022],[25.33447,44.789316],[25.333789,44.789229],[25.333934,44.788561],[25.334012,44.787639],[25.335564,44.785154],[25.335811,44.784758],[25.334102,44.784544],[25.334169,44.784757],[25.334106,44.784823],[25.332949,44.786036],[25.332513,44.786634],[25.33222,44.787598],[25.332013,44.787569],[25.331786,44.788562],[25.331715,44.789229],[25.331467,44.789218],[25.331426,44.78946],[25.330507,44.789693],[25.3305,44.7898],[25.33152,44.789927],[25.33153,44.790181],[25.331213,44.791257],[25.331686,44.791261],[25.331819,44.791396],[25.331969,44.79292],[25.332392,44.792954],[25.332344,44.793244],[25.332454,44.793651],[25.332938,44.794151],[25.333098,44.794464],[25.332808,44.794494],[25.332897,44.79561],[25.333759,44.796949],[25.334886,44.79678],[25.334237,44.794892],[25.334109,44.794296],[25.333543,44.794008],[25.333591,44.793707],[25.333315,44.793335],[25.332835,44.793449],[25.332775,44.793201],[25.332962,44.792539],[25.333401,44.792473],[25.333303,44.791298],[25.333776,44.791284],[25.334004,44.79051],[25.335092,44.790719],[25.334798,44.791594],[25.334798,44.791631]]],"type":"Polygon"}
 }

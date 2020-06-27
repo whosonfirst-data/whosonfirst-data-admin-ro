@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.66268,44.77818,26.66268,44.77818",
-    "geom:latitude":44.77818,
-    "geom:longitude":26.66268,
+    "geom:area":0.00007,
+    "geom:area_square_m":618244.487808,
+    "geom:bbox":"26.653638,44.771714,26.66709,44.786388",
+    "geom:latitude":44.777914,
+    "geom:longitude":26.660366,
     "gn:admin1_code":"22",
     "gn:admin2_code":"100709.0",
     "gn:asciiname":"Cotorca",
@@ -25,11 +25,12 @@
     "gn:population":237,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.64268,44.75818,26.68268,44.79818",
+    "lbl:latitude":44.77818,
+    "lbl:longitude":26.66268,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cotorca"
@@ -46,7 +47,11 @@
     "name:und_x_variant":[
         "Sili\u015ftea Cotorca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680474
+        "gn:id":680474,
+        "ro-ancpi:id":100727
     },
     "wof:country":"RO",
-    "wof:geomhash":"b22efe90f5af991bdfc4740d8992146d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6222be420ff5b6891ef8f48bc247a356",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +77,13 @@
         }
     ],
     "wof:id":1260240007,
-    "wof:lastmodified":1566610461,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203675,
     "wof:name":"Cotorca",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
@@ -80,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.66268,
-    44.77818,
-    26.66268,
-    44.77818
+    26.653638,
+    44.771714,
+    26.66709,
+    44.786388
 ],
-  "geometry": {"coordinates":[26.66268,44.77818],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.663947,44.780767],[26.664086,44.780295],[26.66363,44.779651],[26.663598,44.779393],[26.664099,44.778792],[26.66605,44.77863],[26.666741,44.778196],[26.667044,44.777478],[26.66709,44.776563],[26.666982,44.776183],[26.666744,44.776123],[26.666386,44.776077],[26.666259,44.775353],[26.664722,44.775289],[26.662757,44.775052],[26.662651,44.774747],[26.660646,44.775083],[26.660849,44.775635],[26.659381,44.776399],[26.658669,44.774546],[26.657633,44.771714],[26.655397,44.773345],[26.656486,44.77627],[26.653638,44.776784],[26.655083,44.780712],[26.659563,44.779887],[26.659809,44.780491],[26.660404,44.780126],[26.661018,44.78069],[26.66137,44.780525],[26.662197,44.781531],[26.663947,44.780767]]],[[[26.6651,44.784456],[26.663957,44.783155],[26.662385,44.783875],[26.662558,44.784081],[26.662799,44.784065],[26.66419,44.785729],[26.664701,44.786388],[26.666261,44.785794],[26.6651,44.784456]]]],"type":"MultiPolygon"}
 }

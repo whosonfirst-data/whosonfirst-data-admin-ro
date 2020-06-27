@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.69354,44.74181,24.69354,44.74181",
-    "geom:latitude":44.74181,
-    "geom:longitude":24.69354,
+    "geom:area":0.000025,
+    "geom:area_square_m":217292.784434,
+    "geom:bbox":"24.687154,44.736297,24.697221,44.742989",
+    "geom:latitude":44.740142,
+    "geom:longitude":24.692738,
     "gn:admin1_code":"03",
     "gn:admin2_code":"19793.0",
     "gn:asciiname":"Mogosesti",
@@ -24,13 +24,43 @@
     "gn:population":73,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.67354,44.72181,24.71354,44.76181",
+    "lbl:latitude":44.74181,
+    "lbl:longitude":24.69354,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u063a\u0648\u0634\u064a\u0634\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Mogo\u015fe\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Mogo\u015fe\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Mogo\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Mogosesti",
+        "Mogo\u0219e\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0448\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Mogosesti"
+    ],
+    "name:vol_x_preferred":[
+        "Mogo\u015fe\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +69,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672946
+        "gn:id":672946,
+        "ro-ancpi:id":19935
     },
     "wof:country":"RO",
-    "wof:geomhash":"02bea120e3649be792c854b86b41d546",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ebe4fa4ad43cc82f2a6d0d24c4ca9243",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +86,14 @@
         }
     ],
     "wof:id":1259795479,
-    "wof:lastmodified":1566611559,
-    "wof:name":"Mogosesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203649,
+    "wof:name":"Mogo\u015fe\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":73,
@@ -64,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.69354,
-    44.74181,
-    24.69354,
-    44.74181
+    24.687154,
+    44.736297,
+    24.697221,
+    44.742989
 ],
-  "geometry": {"coordinates":[24.69354,44.74181],"type":"Point"}
+  "geometry": {"coordinates":[[[24.69027,44.742697],[24.691227,44.742405],[24.692209,44.742096],[24.693553,44.741897],[24.694276,44.741697],[24.695156,44.741313],[24.695725,44.741112],[24.695779,44.740561],[24.694903,44.740411],[24.695059,44.740173],[24.696562,44.738945],[24.695815,44.738704],[24.696803,44.737309],[24.697221,44.736336],[24.69655,44.736297],[24.695001,44.736422],[24.694221,44.737633],[24.692948,44.739082],[24.692219,44.740275],[24.691392,44.74053],[24.689688,44.740507],[24.688527,44.740523],[24.687154,44.74142],[24.687741,44.742635],[24.689317,44.742419],[24.689572,44.742989],[24.690347,44.742826],[24.69027,44.742697]]],"type":"Polygon"}
 }

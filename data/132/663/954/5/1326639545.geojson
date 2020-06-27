@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.10606,46.24152,23.10606,46.24152",
-    "geom:latitude":46.24152,
-    "geom:longitude":23.10606,
+    "geom:area":0.00001,
+    "geom:area_square_m":87301.917091,
+    "geom:bbox":"23.097293,46.239313,23.106426,46.243427",
+    "geom:latitude":46.240922,
+    "geom:longitude":23.101905,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3459.0",
     "gn:asciiname":"Feresti",
@@ -24,13 +24,33 @@
     "gn:population":45,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.08606,46.22152,23.12606,46.26152",
+    "lbl:latitude":46.240672,
+    "lbl:longitude":23.102185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.240672,
+    "mps:longitude":23.102185,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "Fere\u015fti"
+    ],
+    "name:msa_x_preferred":[
+        "Fere\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Fere\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Feresti",
+        "Fere\u0219ti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678330
+        "gn:id":678330,
+        "ro-ancpi:id":3547
     },
     "wof:country":"RO",
-    "wof:geomhash":"baf85c38c19748891b583aecfd0fd674",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f92ea40fcbf8ec40af48b81c0c2f9904",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +76,14 @@
         }
     ],
     "wof:id":1326639545,
-    "wof:lastmodified":1566609845,
-    "wof:name":"Feresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203748,
+    "wof:name":"Fere\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":45,
@@ -64,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.10606,
-    46.24152,
-    23.10606,
-    46.24152
+    23.097293,
+    46.239313,
+    23.106426,
+    46.243427
 ],
-  "geometry": {"coordinates":[23.10606,46.24152],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.105239,46.241496],[23.106426,46.240799],[23.106303,46.24054],[23.105252,46.240722],[23.104046,46.240694],[23.103014,46.240751],[23.102747,46.239577],[23.101584,46.239313],[23.100578,46.239446],[23.098585,46.239404],[23.09891,46.239947],[23.099914,46.240208],[23.101407,46.240235],[23.101358,46.240433],[23.101088,46.241339],[23.103627,46.241799],[23.104347,46.241714],[23.105239,46.241496]]],[[[23.099986,46.241731],[23.099307,46.241068],[23.098604,46.241489],[23.098897,46.241747],[23.099897,46.242066],[23.099986,46.241731]]],[[[23.1026,46.242967],[23.101622,46.242196],[23.101277,46.242408],[23.101941,46.242951],[23.10157,46.243275],[23.101703,46.243399],[23.102078,46.243427],[23.1026,46.242967]]],[[[23.098503,46.242818],[23.098482,46.242005],[23.097293,46.242216],[23.097915,46.242869],[23.098503,46.242818]]]],"type":"MultiPolygon"}
 }

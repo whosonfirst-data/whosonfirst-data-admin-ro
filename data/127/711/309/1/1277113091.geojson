@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.13473,45.07358,24.13473,45.07358",
-    "geom:latitude":45.07358,
-    "geom:longitude":24.13473,
+    "geom:area":0.000108,
+    "geom:area_square_m":939883.400306,
+    "geom:bbox":"24.128661,45.064136,24.149148,45.081189",
+    "geom:latitude":45.074029,
+    "geom:longitude":24.138457,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171995.0",
     "gn:asciiname":"Pausesti",
@@ -25,13 +25,27 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.11473,45.05358,24.15473,45.09358",
+    "lbl:latitude":45.07358,
+    "lbl:longitude":24.13473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:msa_x_preferred":[
+        "P\u0103u\u0219e\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103u\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Pausesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -39,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671202
+        "gn:id":671202,
+        "ro-ancpi:id":172000
     },
     "wof:country":"RO",
-    "wof:geomhash":"445c9da4221e1b343205fec2a3f28033",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af0c3cf9bc4a56d4edd95af0bc4ce232",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +70,14 @@
         }
     ],
     "wof:id":1277113091,
-    "wof:lastmodified":1566610272,
-    "wof:name":"Pausesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
+    "wof:name":"P\u0103u\u015fe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -62,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.13473,
-    45.07358,
-    24.13473,
-    45.07358
+    24.128661,
+    45.064136,
+    24.149148,
+    45.081189
 ],
-  "geometry": {"coordinates":[24.13473,45.07358],"type":"Point"}
+  "geometry": {"coordinates":[[[24.146135,45.066122],[24.14297,45.064136],[24.141927,45.064713],[24.14009,45.065131],[24.138973,45.065853],[24.138956,45.066987],[24.138428,45.068352],[24.137679,45.070162],[24.136942,45.070994],[24.134632,45.072409],[24.131319,45.075806],[24.129116,45.078727],[24.128661,45.079735],[24.129647,45.079958],[24.129808,45.079653],[24.130717,45.080096],[24.132116,45.07766],[24.135344,45.079694],[24.140207,45.080966],[24.143517,45.081034],[24.148822,45.081189],[24.149148,45.080017],[24.145345,45.079966],[24.142006,45.079733],[24.138857,45.07892],[24.1392,45.078154],[24.142365,45.078059],[24.142029,45.076665],[24.137886,45.077055],[24.137151,45.076459],[24.135137,45.075622],[24.135723,45.074465],[24.137603,45.075168],[24.140881,45.075468],[24.140973,45.074236],[24.139308,45.07411],[24.139462,45.073527],[24.140033,45.071844],[24.141306,45.072209],[24.142974,45.069721],[24.141777,45.069314],[24.142952,45.067559],[24.145132,45.066815],[24.146135,45.066122]]],"type":"Polygon"}
 }

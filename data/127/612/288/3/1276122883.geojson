@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.3257,47.14121,22.3257,47.14121",
-    "geom:latitude":47.14121,
-    "geom:longitude":22.3257,
+    "geom:area":0.00003,
+    "geom:area_square_m":254005.348035,
+    "geom:bbox":"22.314556,47.136463,22.324787,47.142326",
+    "geom:latitude":47.139197,
+    "geom:longitude":22.320095,
     "gn:admin1_code":"05",
     "gn:admin2_code":"27757.0",
     "gn:asciiname":"Loranta",
@@ -24,13 +24,23 @@
     "gn:population":161,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.3057,47.12121,22.3457,47.16121",
+    "lbl:latitude":47.138894,
+    "lbl:longitude":22.320172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.138894,
+    "mps:longitude":22.320172,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Loranta"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674603
+        "gn:id":674603,
+        "ro-ancpi:id":27784
     },
     "wof:country":"RO",
-    "wof:geomhash":"8f83153ad99346b6749b5a471f08ac2e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b9abcba6703add29bec3356ccebca55",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1276122883,
-    "wof:lastmodified":1566610235,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203500,
     "wof:name":"Loranta",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.3257,
-    47.14121,
-    22.3257,
-    47.14121
+    22.314556,
+    47.136463,
+    22.324787,
+    47.142326
 ],
-  "geometry": {"coordinates":[22.3257,47.14121],"type":"Point"}
+  "geometry": {"coordinates":[[[22.322628,47.142037],[22.323534,47.141766],[22.324229,47.142099],[22.324787,47.141317],[22.324608,47.141257],[22.32395,47.140918],[22.323584,47.140571],[22.323279,47.140117],[22.322744,47.139712],[22.323403,47.139466],[22.323397,47.138491],[22.322694,47.137953],[22.321456,47.136849],[22.320798,47.137131],[22.32048,47.136935],[22.319905,47.136463],[22.318694,47.136867],[22.317141,47.137508],[22.31628,47.136687],[22.314556,47.13802],[22.314708,47.138247],[22.315704,47.138742],[22.316739,47.139182],[22.318133,47.139904],[22.319123,47.140533],[22.319963,47.14141],[22.321156,47.142326],[22.32204,47.142135],[22.322628,47.142037]]],"type":"Polygon"}
 }

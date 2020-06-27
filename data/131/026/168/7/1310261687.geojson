@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.07272,44.50845,23.07272,44.50845",
-    "geom:latitude":44.50845,
-    "geom:longitude":23.07272,
+    "geom:area":0.000024,
+    "geom:area_square_m":211098.571901,
+    "geom:bbox":"23.066669,44.503782,23.083627,44.509807",
+    "geom:latitude":44.507438,
+    "geom:longitude":23.074348,
     "gn:admin1_code":"26",
     "gn:admin2_code":"111587.0",
     "gn:asciiname":"Vladica",
@@ -24,13 +24,26 @@
     "gn:population":83,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.05272,44.48845,23.09272,44.52845",
+    "lbl:latitude":44.505851,
+    "lbl:longitude":23.069148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.505851,
+    "mps:longitude":23.069148,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Vl\u0103dica"
+    ],
+    "name:ron_x_variant":[
+        "Vladica"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662610
+        "gn:id":662610,
+        "ro-ancpi:id":110679
     },
     "wof:country":"RO",
-    "wof:geomhash":"1cddf7a1936dbabee63dbbcce0fe3be5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a128629eae54e618739f88d13ef80a31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1310261687,
-    "wof:lastmodified":1566610578,
-    "wof:name":"Vladica",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203338,
+    "wof:name":"Vl\u0103dica",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":83,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.07272,
-    44.50845,
-    23.07272,
-    44.50845
+    23.066669,
+    44.503782,
+    23.083627,
+    44.509807
 ],
-  "geometry": {"coordinates":[23.07272,44.50845],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.082005,44.508664],[23.081739,44.507897],[23.079611,44.507904],[23.073437,44.507662],[23.073647,44.508891],[23.078738,44.509236],[23.081076,44.509295],[23.081921,44.509807],[23.083627,44.509461],[23.083259,44.508736],[23.082005,44.508664]]],[[[23.071044,44.507885],[23.070857,44.50732],[23.068415,44.50772],[23.068116,44.507146],[23.069665,44.50645],[23.069821,44.506147],[23.073503,44.504565],[23.073209,44.503841],[23.073193,44.503782],[23.072894,44.50393],[23.072587,44.504082],[23.072111,44.504312],[23.071737,44.504493],[23.071301,44.5047],[23.070966,44.504073],[23.066669,44.506311],[23.067141,44.507068],[23.067223,44.507201],[23.067103,44.507339],[23.067046,44.507408],[23.06707,44.507427],[23.067625,44.507853],[23.06805,44.508007],[23.068544,44.508049],[23.069047,44.508091],[23.069233,44.508119],[23.069453,44.508697],[23.069854,44.508553],[23.069824,44.508338],[23.071491,44.50822],[23.071464,44.507892],[23.071044,44.507885]]]],"type":"MultiPolygon"}
 }

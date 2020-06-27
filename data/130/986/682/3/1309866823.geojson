@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.42247,44.57226,24.42247,44.57226",
-    "geom:latitude":44.57226,
-    "geom:longitude":24.42247,
+    "geom:area":0.000034,
+    "geom:area_square_m":299068.684669,
+    "geom:bbox":"24.41585,44.566854,24.429275,44.578135",
+    "geom:latitude":44.572668,
+    "geom:longitude":24.422369,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127858",
     "gn:asciiname":"Beria de Sus",
@@ -25,17 +25,25 @@
     "gn:population":256,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.40247,44.55226,24.44247,44.59226",
+    "lbl:latitude":44.57226,
+    "lbl:longitude":24.42247,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Beria de Sus"
+    ],
     "name:und_x_variant":[
         "Beria Mare",
         "Beria de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685010
+        "gn:id":685010,
+        "ro-ancpi:id":127885
     },
     "wof:country":"RO",
-    "wof:geomhash":"54bd7e796263e506472df033cdcb8876",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"205d2cfca91b04c4246ea75524e08e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1309866823,
-    "wof:lastmodified":1566611270,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203706,
     "wof:name":"Beria de Sus",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.42247,
-    44.57226,
-    24.42247,
-    44.57226
+    24.41585,
+    44.566854,
+    24.429275,
+    44.578135
 ],
-  "geometry": {"coordinates":[24.42247,44.57226],"type":"Point"}
+  "geometry": {"coordinates":[[[24.428809,44.577088],[24.429275,44.576901],[24.426018,44.57474],[24.420732,44.569851],[24.418698,44.566996],[24.418563,44.566854],[24.417207,44.567257],[24.416199,44.567506],[24.41585,44.567634],[24.416624,44.568542],[24.417804,44.56976],[24.419663,44.571419],[24.420897,44.572822],[24.422275,44.574711],[24.425685,44.577307],[24.426672,44.577899],[24.426673,44.578135],[24.428809,44.577088]]],"type":"Polygon"}
 }

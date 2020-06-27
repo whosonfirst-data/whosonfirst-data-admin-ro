@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.95486,45.01258,23.95486,45.01258",
-    "geom:latitude":45.01258,
-    "geom:longitude":23.95486,
+    "geom:area":0.000201,
+    "geom:area_square_m":1753847.77993,
+    "geom:bbox":"23.939831,45.010169,23.963281,45.028803",
+    "geom:latitude":45.019937,
+    "geom:longitude":23.950818,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169182",
     "gn:asciiname":"Balteni",
@@ -24,13 +24,42 @@
     "gn:population":415,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.93486,44.99258,23.97486,45.03258",
+    "lbl:latitude":45.01258,
+    "lbl:longitude":23.95486,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "B\u0103lteni"
+    ],
+    "name:deu_x_preferred":[
+        "B\u0103lteni"
+    ],
+    "name:eus_x_preferred":[
+        "B\u0103lteni"
+    ],
+    "name:ita_x_preferred":[
+        "Balteni"
+    ],
+    "name:nld_x_preferred":[
+        "B\u0103lteni"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103lteni"
+    ],
+    "name:ron_x_variant":[
+        "Balteni"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0435\u043d\u0438"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685530
+        "gn:id":685530,
+        "ro-ancpi:id":169208
     },
     "wof:country":"RO",
-    "wof:geomhash":"e654ebc09b145d6d504856ef3acee9d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13bf65fb28b44859f807839f80151ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +85,14 @@
         }
     ],
     "wof:id":1310532271,
-    "wof:lastmodified":1566610544,
-    "wof:name":"Balteni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"B\u0103lteni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":415,
@@ -64,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.95486,
-    45.01258,
-    23.95486,
-    45.01258
+    23.939831,
+    45.010169,
+    23.963281,
+    45.028803
 ],
-  "geometry": {"coordinates":[23.95486,45.01258],"type":"Point"}
+  "geometry": {"coordinates":[[[23.955555,45.013014],[23.951201,45.010169],[23.939831,45.023798],[23.95002,45.028803],[23.955476,45.025553],[23.954861,45.024648],[23.953948,45.022087],[23.958131,45.019062],[23.961441,45.021816],[23.963281,45.020879],[23.958771,45.015596],[23.955555,45.013014]]],"type":"Polygon"}
 }

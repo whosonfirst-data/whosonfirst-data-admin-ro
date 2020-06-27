@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.00008,45.66329,22.00008,45.66329",
-    "geom:latitude":45.66329,
-    "geom:longitude":22.00008,
+    "geom:area":0.000054,
+    "geom:area_square_m":469881.96906,
+    "geom:bbox":"21.989772,45.658335,22.006365,45.669365",
+    "geom:latitude":45.66346,
+    "geom:longitude":21.996675,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155350.0",
     "gn:asciiname":"Maguri",
@@ -24,13 +24,41 @@
     "gn:population":825,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.98008,45.64329,22.02008,45.68329",
+    "lbl:latitude":45.662259,
+    "lbl:longitude":21.998624,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.662259,
+    "mps:longitude":21.998624,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "M\u0103guri"
+    ],
+    "name:deu_x_preferred":[
+        "M\u0103guri"
+    ],
+    "name:epo_x_preferred":[
+        "M\u0103guri"
+    ],
+    "name:hun_x_preferred":[
+        "M\u0103guri"
+    ],
+    "name:ron_x_preferred":[
+        "M\u0103guri"
+    ],
+    "name:ron_x_variant":[
+        "Maguri"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0433\u0443\u0440\u0438"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674100
+        "gn:id":674100,
+        "ro-ancpi:id":155378
     },
     "wof:country":"RO",
-    "wof:geomhash":"877fd211b61ccd3010ae3c34311d2737",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"707417790db42b73b6930350c9f4ceae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +84,14 @@
         }
     ],
     "wof:id":1193177267,
-    "wof:lastmodified":1566610455,
-    "wof:name":"Maguri",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
+    "wof:name":"M\u0103guri",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":825,
@@ -64,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.00008,
-    45.66329,
-    22.00008,
-    45.66329
+    21.989772,
+    45.658335,
+    22.006365,
+    45.669365
 ],
-  "geometry": {"coordinates":[22.00008,45.66329],"type":"Point"}
+  "geometry": {"coordinates":[[[21.996055,45.663845],[21.997452,45.663309],[21.99797,45.663912],[21.999271,45.663443],[21.999936,45.663259],[22.001015,45.662977],[22.002261,45.662586],[22.001992,45.662014],[22.002831,45.661774],[22.003806,45.661744],[22.004581,45.661531],[22.005319,45.661407],[22.005825,45.661283],[22.006365,45.660957],[22.005177,45.660354],[22.004374,45.660602],[22.002615,45.658335],[21.999129,45.659597],[21.999664,45.6604],[21.998876,45.660773],[21.996795,45.661337],[21.995663,45.661773],[21.994917,45.662017],[21.99437,45.662393],[21.992389,45.66349],[21.989958,45.664214],[21.990533,45.665428],[21.989834,45.666009],[21.989772,45.666941],[21.990406,45.667904],[21.990785,45.668393],[21.991559,45.668701],[21.992285,45.669068],[21.992773,45.669365],[21.993733,45.66839],[21.994674,45.667542],[21.993832,45.667041],[21.99457,45.666605],[21.994246,45.66624],[21.995556,45.664924],[21.996023,45.664428],[21.996055,45.663845]]],"type":"Polygon"}
 }

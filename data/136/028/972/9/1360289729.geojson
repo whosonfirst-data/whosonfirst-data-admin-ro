@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.04185,46.43679,23.04185,46.43679",
-    "geom:latitude":46.43679,
-    "geom:longitude":23.04185,
+    "geom:area":0.000008,
+    "geom:area_square_m":66375.297821,
+    "geom:bbox":"23.028919,46.434691,23.047461,46.448848",
+    "geom:latitude":46.441076,
+    "geom:longitude":23.039139,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1455.0",
     "gn:asciiname":"Peste Valea Bistrii",
@@ -24,13 +24,23 @@
     "gn:population":31,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.02185,46.41679,23.06185,46.45679",
+    "lbl:latitude":46.443729,
+    "lbl:longitude":23.031473,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.443729,
+    "mps:longitude":23.031473,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Peste Valea Bistrii"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671056
+        "gn:id":671056,
+        "ro-ancpi:id":1614
     },
     "wof:country":"RO",
-    "wof:geomhash":"5da296d0855f6711ff3a41f4d50b3395",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3507429d18c3de49a26171e0d1f9482a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1360289729,
-    "wof:lastmodified":1566610636,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203760,
     "wof:name":"Peste Valea Bistrii",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.04185,
-    46.43679,
-    23.04185,
-    46.43679
+    23.028919,
+    46.434691,
+    23.047461,
+    46.448848
 ],
-  "geometry": {"coordinates":[23.04185,46.43679],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.044962,46.435201],[23.044479,46.434691],[23.043174,46.435305],[23.041549,46.435541],[23.041428,46.436216],[23.043163,46.436106],[23.044962,46.435201]]],[[[23.032371,46.443458],[23.031336,46.443179],[23.030735,46.443804],[23.028936,46.444322],[23.028919,46.444789],[23.031688,46.444195],[23.032371,46.443458]]],[[[23.039516,46.4488],[23.038952,46.447334],[23.038041,46.447403],[23.038559,46.448848],[23.039516,46.4488]]],[[[23.04201,46.438588],[23.042066,46.437573],[23.040784,46.437712],[23.041158,46.438627],[23.04201,46.438588]]],[[[23.047461,46.441989],[23.04732,46.441038],[23.046604,46.441066],[23.046698,46.44223],[23.047461,46.441989]]]],"type":"MultiPolygon"}
 }

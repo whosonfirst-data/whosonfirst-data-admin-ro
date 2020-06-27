@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.04514,46.89754,23.04514,46.89754",
-    "geom:latitude":46.89754,
-    "geom:longitude":23.04514,
+    "geom:area":0.000035,
+    "geom:area_square_m":294030.360301,
+    "geom:bbox":"23.037691,46.890784,23.046978,46.903117",
+    "geom:latitude":46.896844,
+    "geom:longitude":23.042837,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141081.0",
     "gn:asciiname":"Tetisu",
@@ -25,17 +25,30 @@
     "gn:population":398,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.02514,46.87754,23.06514,46.91754",
+    "lbl:latitude":46.896537,
+    "lbl:longitude":23.043295,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.896537,
+    "mps:longitude":23.043295,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Teti\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Tetisu"
+    ],
     "name:und_x_variant":[
         "Teti\u015f",
         "Teti\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665205
+        "gn:id":665205,
+        "ro-ancpi:id":141125
     },
     "wof:country":"RO",
-    "wof:geomhash":"2c75103072a058f389a66a4f0ba91d97",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"455d1d756ee2c149ec9c7ce24ad34f30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1293525325,
-    "wof:lastmodified":1566610044,
-    "wof:name":"Tetisu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203528,
+    "wof:name":"Teti\u015fu",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":398,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.04514,
-    46.89754,
-    23.04514,
-    46.89754
+    23.037691,
+    46.890784,
+    23.046978,
+    46.903117
 ],
-  "geometry": {"coordinates":[23.04514,46.89754],"type":"Point"}
+  "geometry": {"coordinates":[[[23.045014,46.897318],[23.045996,46.897299],[23.045905,46.897904],[23.046579,46.897993],[23.04673,46.897168],[23.04526,46.896988],[23.045191,46.896261],[23.045169,46.895904],[23.044311,46.895853],[23.04379,46.895142],[23.042375,46.893922],[23.041398,46.891899],[23.040302,46.891244],[23.038675,46.890835],[23.038469,46.890784],[23.037691,46.892366],[23.03881,46.892635],[23.039372,46.892948],[23.039998,46.894584],[23.04187,46.896371],[23.04253,46.897567],[23.042939,46.899223],[23.042885,46.899287],[23.042537,46.900258],[23.04254,46.900895],[23.042978,46.901527],[23.044216,46.902346],[23.044975,46.903117],[23.045896,46.90266],[23.046978,46.902145],[23.046012,46.901192],[23.045046,46.900514],[23.045415,46.899908],[23.04564,46.899221],[23.045602,46.899083],[23.045014,46.897318]]],"type":"Polygon"}
 }

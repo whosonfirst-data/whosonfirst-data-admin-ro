@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.20498,44.74309,24.20498,44.74309",
-    "geom:latitude":44.74309,
-    "geom:longitude":24.20498,
+    "geom:area":0.000047,
+    "geom:area_square_m":410829.816003,
+    "geom:bbox":"24.198157,44.74045,24.20397,44.757369",
+    "geom:latitude":44.748421,
+    "geom:longitude":24.200807,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174520.0",
     "gn:asciiname":"Racu",
@@ -25,16 +25,22 @@
     "gn:population":199,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.18498,44.72309,24.22498,44.76309",
+    "lbl:latitude":44.743656,
+    "lbl:longitude":24.201776,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.743656,
+    "mps:longitude":24.201776,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Racu"
     ],
     "name:epo_x_preferred":[
+        "Racu"
+    ],
+    "name:eus_x_preferred":[
         "Racu"
     ],
     "name:fra_x_preferred":[
@@ -49,10 +55,16 @@
     "name:nld_x_preferred":[
         "Racu"
     ],
+    "name:pol_x_preferred":[
+        "Racu"
+    ],
     "name:por_x_preferred":[
         "Racu"
     ],
     "name:ron_x_preferred":[
+        "Racu"
+    ],
+    "name:ron_x_variant":[
         "Comuna Racu"
     ],
     "name:srp_x_preferred":[
@@ -70,7 +82,11 @@
     "name:zho_x_preferred":[
         "\u62c9\u5eab\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,10 +95,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669302
+        "gn:id":669302,
+        "ro-ancpi:id":173668
     },
     "wof:country":"RO",
-    "wof:geomhash":"9e70a677523cfa29cfe2a0f397a3b420",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d6dce2f97ff97798524fabbb8e3b602e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +112,13 @@
         }
     ],
     "wof:id":1310040715,
-    "wof:lastmodified":1566610584,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
     "wof:name":"Racu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -104,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.20498,
-    44.74309,
-    24.20498,
-    44.74309
+    24.198157,
+    44.74045,
+    24.20397,
+    44.757369
 ],
-  "geometry": {"coordinates":[24.20498,44.74309],"type":"Point"}
+  "geometry": {"coordinates":[[[24.203379,44.744354],[24.20397,44.740748],[24.20333,44.74045],[24.202434,44.740597],[24.201366,44.741932],[24.199407,44.741879],[24.198845,44.744014],[24.200129,44.744089],[24.198157,44.757209],[24.201054,44.757369],[24.20122,44.750697],[24.203379,44.744354]]],"type":"Polygon"}
 }

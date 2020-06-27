@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.23933,44.70283,28.23933,44.70283",
-    "geom:latitude":44.70283,
-    "geom:longitude":28.23933,
+    "geom:area":0.000215,
+    "geom:area_square_m":1893880.690033,
+    "geom:bbox":"28.22526,44.696578,28.250626,44.709003",
+    "geom:latitude":44.702751,
+    "geom:longitude":28.237967,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62823.0",
     "gn:asciiname":"Dulgheru",
@@ -25,11 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.21933,44.68283,28.25933,44.72283",
+    "lbl:latitude":44.70283,
+    "lbl:longitude":28.23933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Dulgheru"
@@ -37,7 +38,11 @@
     "name:und_x_variant":[
         "Dulgherul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -45,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678763
+        "gn:id":678763,
+        "ro-ancpi:id":62850
     },
     "wof:country":"RO",
-    "wof:geomhash":"47766112372e4c3b9ce5da4f10a00f60",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1568d41b53e4676100060422bb984a14",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,13 @@
         }
     ],
     "wof:id":1344028945,
-    "wof:lastmodified":1566609969,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203610,
     "wof:name":"Dulgheru",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -68,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.23933,
-    44.70283,
-    28.23933,
-    44.70283
+    28.22526,
+    44.696578,
+    28.250626,
+    44.709003
 ],
-  "geometry": {"coordinates":[28.23933,44.70283],"type":"Point"}
+  "geometry": {"coordinates":[[[28.250329,44.701012],[28.250323,44.700925],[28.250066,44.700932],[28.249901,44.698951],[28.248639,44.700069],[28.245867,44.70011],[28.245749,44.698425],[28.243475,44.697961],[28.242937,44.696578],[28.241426,44.696817],[28.236754,44.697559],[28.234112,44.697941],[28.231938,44.698254],[28.227782,44.698784],[28.22526,44.69918],[28.22569,44.70017],[28.228227,44.70552],[28.229022,44.707266],[28.229367,44.707907],[28.23009,44.709003],[28.232799,44.708601],[28.236312,44.708123],[28.237687,44.707907],[28.239579,44.707649],[28.242766,44.707187],[28.244001,44.706992],[28.246322,44.706668],[28.250626,44.705222],[28.250329,44.701012]]],"type":"Polygon"}
 }

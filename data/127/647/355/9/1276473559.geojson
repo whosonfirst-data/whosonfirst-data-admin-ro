@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.58985,44.44883,25.58985,44.44883",
-    "geom:latitude":44.44883,
-    "geom:longitude":25.58985,
+    "geom:area":0.000018,
+    "geom:area_square_m":157967.161415,
+    "geom:bbox":"25.584444,44.445599,25.591193,44.449984",
+    "geom:latitude":44.447945,
+    "geom:longitude":25.588122,
     "gn:admin1_code":"42",
     "gn:admin2_code":"102348.0",
     "gn:asciiname":"Priboiu",
@@ -25,11 +25,12 @@
     "gn:population":170,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.56985,44.42883,25.60985,44.46883",
+    "lbl:latitude":44.44883,
+    "lbl:longitude":25.58985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Priboiu"
@@ -46,7 +47,11 @@
     "name:und_x_variant":[
         "Priboiul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669652
+        "gn:id":669652,
+        "ro-ancpi:id":102393
     },
     "wof:country":"RO",
-    "wof:geomhash":"e88a3192a07a69590377cd9ebe48ed44",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"97d439ae9348fac654f79251f03e897e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +77,13 @@
         }
     ],
     "wof:id":1276473559,
-    "wof:lastmodified":1566610230,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203329,
     "wof:name":"Priboiu",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
@@ -80,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.58985,
-    44.44883,
-    25.58985,
-    44.44883
+    25.584444,
+    44.445599,
+    25.591193,
+    44.449984
 ],
-  "geometry": {"coordinates":[25.58985,44.44883],"type":"Point"}
+  "geometry": {"coordinates":[[[25.585958,44.449984],[25.587321,44.44934],[25.58838,44.449732],[25.588833,44.449753],[25.590019,44.449478],[25.590116,44.449105],[25.590507,44.448436],[25.591119,44.447659],[25.591193,44.446356],[25.589747,44.446285],[25.589347,44.445949],[25.588677,44.445864],[25.588376,44.445599],[25.587058,44.446164],[25.58755,44.446341],[25.586727,44.447268],[25.586398,44.447093],[25.585667,44.447636],[25.58548,44.447492],[25.58496,44.448075],[25.584882,44.448223],[25.584444,44.448642],[25.585311,44.449083],[25.585137,44.44966],[25.585958,44.449984]]],"type":"Polygon"}
 }

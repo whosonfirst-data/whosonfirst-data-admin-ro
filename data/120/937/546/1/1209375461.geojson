@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.89502,44.8454,25.89502,44.8454",
-    "geom:latitude":44.8454,
-    "geom:longitude":25.89502,
+    "geom:area":0.000027,
+    "geom:area_square_m":232955.098843,
+    "geom:bbox":"25.887789,44.840989,25.899487,44.848338",
+    "geom:latitude":44.844885,
+    "geom:longitude":25.894013,
     "gn:admin1_code":"30",
     "gn:admin2_code":"136241.0",
     "gn:asciiname":"Satu de Sus",
@@ -25,37 +25,59 @@
     "gn:population":210,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.87502,44.8254,25.91502,44.8654",
+    "lbl:latitude":44.8454,
+    "lbl:longitude":25.89502,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Satu de Sus"
+    ],
     "name:und_x_variant":[
         "\u0162ig\u0103nia",
         "Satu de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687661
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667885
+        "gn:id":667885,
+        "ro-ancpi:id":134318
     },
     "wof:country":"RO",
-    "wof:geomhash":"ad1ea742e35017382365044b55b77987",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10c0a0dc283d0399be56511660865c8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209375461
+            "locality_id":1209375461,
+            "region_id":85687661
         }
     ],
     "wof:id":1209375461,
-    "wof:lastmodified":1566610302,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203577,
     "wof:name":"Satu de Sus",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":210,
     "wof:population_rank":2,
@@ -65,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.89502,
-    44.8454,
-    25.89502,
-    44.8454
+    25.887789,
+    44.840989,
+    25.899487,
+    44.848338
 ],
-  "geometry": {"coordinates":[25.89502,44.8454],"type":"Point"}
+  "geometry": {"coordinates":[[[25.899487,44.842455],[25.897792,44.840989],[25.89646,44.841168],[25.898291,44.842539],[25.887789,44.845576],[25.890038,44.846565],[25.890525,44.848338],[25.891682,44.848329],[25.893355,44.846206],[25.898662,44.844408],[25.899389,44.842851],[25.899487,44.842455]]],"type":"Polygon"}
 }

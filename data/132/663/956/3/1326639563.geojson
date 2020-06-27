@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.16648,46.24349,23.16648,46.24349",
-    "geom:latitude":46.24349,
-    "geom:longitude":23.16648,
+    "geom:area":0.000004,
+    "geom:area_square_m":33616.366473,
+    "geom:bbox":"23.164105,46.240834,23.169344,46.243957",
+    "geom:latitude":46.242292,
+    "geom:longitude":23.167056,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3459.0",
     "gn:asciiname":"Izbicioara",
@@ -24,13 +24,23 @@
     "gn:population":22,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.14648,46.22349,23.18648,46.26349",
+    "lbl:latitude":46.242136,
+    "lbl:longitude":23.167096,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.242136,
+    "mps:longitude":23.167096,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Izbicioara"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675406
+        "gn:id":675406,
+        "ro-ancpi:id":3583
     },
     "wof:country":"RO",
-    "wof:geomhash":"7531910172da6e6c388167aa34ec65da",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1247655e75786426f222a0585fce3418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1326639563,
-    "wof:lastmodified":1566609846,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203748,
     "wof:name":"Izbicioara",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.16648,
-    46.24349,
-    23.16648,
-    46.24349
+    23.164105,
+    46.240834,
+    23.169344,
+    46.243957
 ],
-  "geometry": {"coordinates":[23.16648,46.24349],"type":"Point"}
+  "geometry": {"coordinates":[[[23.164105,46.243688],[23.164369,46.243957],[23.166801,46.243216],[23.166768,46.242997],[23.167151,46.242613],[23.167795,46.242233],[23.168963,46.241776],[23.169344,46.241049],[23.168845,46.241203],[23.16839,46.240834],[23.16643,46.242001],[23.166069,46.242947],[23.164105,46.243688]]],"type":"Polygon"}
 }

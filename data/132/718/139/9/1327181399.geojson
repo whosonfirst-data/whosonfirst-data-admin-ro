@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.68194,44.61246,24.68194,44.61246",
-    "geom:latitude":44.61246,
-    "geom:longitude":24.68194,
+    "geom:area":0.000044,
+    "geom:area_square_m":384848.940683,
+    "geom:bbox":"24.679104,44.601614,24.686533,44.613929",
+    "geom:latitude":44.608177,
+    "geom:longitude":24.682576,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126228.0",
     "gn:asciiname":"Navargeni",
@@ -25,18 +25,31 @@
     "gn:population":113,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.66194,44.59246,24.70194,44.63246",
+    "lbl:latitude":44.608413,
+    "lbl:longitude":24.682322,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.608413,
+    "mps:longitude":24.682322,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "N\u0103v\u00e2rgeni"
+    ],
+    "name:ron_x_variant":[
+        "Navargeni"
+    ],
     "name:und_x_variant":[
         "Maldarul",
         "N\u0103v\u00e2rgeni",
         "N\u0103v\u00eergeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672488
+        "gn:id":672488,
+        "ro-ancpi:id":126308
     },
     "wof:country":"RO",
-    "wof:geomhash":"382ff8e1acb862772ce1eeaf4ab0677b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5cdb36fca9615fcd7e9efce91ef320bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1327181399,
-    "wof:lastmodified":1566609874,
-    "wof:name":"Navargeni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
+    "wof:name":"N\u0103v\u00e2rgeni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":113,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.68194,
-    44.61246,
-    24.68194,
-    44.61246
+    24.679104,
+    44.601614,
+    24.686533,
+    44.613929
 ],
-  "geometry": {"coordinates":[24.68194,44.61246],"type":"Point"}
+  "geometry": {"coordinates":[[[24.68152,44.6139],[24.682259,44.611099],[24.685806,44.611345],[24.686533,44.60916],[24.683973,44.609134],[24.684092,44.608016],[24.683947,44.606412],[24.68428,44.604784],[24.686484,44.602956],[24.684603,44.601614],[24.68412,44.601931],[24.68197,44.603638],[24.68106,44.606551],[24.679606,44.606439],[24.679563,44.607333],[24.680869,44.607421],[24.679549,44.610728],[24.679104,44.613929],[24.68152,44.6139]]],"type":"Polygon"}
 }

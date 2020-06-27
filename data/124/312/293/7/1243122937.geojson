@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.25078,44.2516,24.25078,44.2516",
-    "geom:latitude":44.2516,
-    "geom:longitude":24.25078,
+    "geom:area":0.000045,
+    "geom:area_square_m":399414.798579,
+    "geom:bbox":"24.240836,44.245997,24.258928,44.253695",
+    "geom:latitude":44.250682,
+    "geom:longitude":24.250655,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126825",
     "gn:asciiname":"Ulmet",
@@ -24,11 +24,12 @@
     "gn:population":258,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.23078,44.2316,24.27078,44.2716",
+    "lbl:latitude":44.2516,
+    "lbl:longitude":24.25078,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ulmet"
@@ -51,7 +52,11 @@
     "name:swe_x_preferred":[
         "Ulmet"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11001784
+        "gn:id":11001784,
+        "ro-ancpi:id":126898
     },
     "wof:country":"RO",
-    "wof:geomhash":"0d008defdbedb538dc5958f6cff1faa4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ef32e233ea4eff31d68c9feea85c510a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +82,13 @@
         }
     ],
     "wof:id":1243122937,
-    "wof:lastmodified":1566611468,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203707,
     "wof:name":"Ulmet",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -85,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.25078,
-    44.2516,
-    24.25078,
-    44.2516
+    24.240836,
+    44.245997,
+    24.258928,
+    44.253695
 ],
-  "geometry": {"coordinates":[24.25078,44.2516],"type":"Point"}
+  "geometry": {"coordinates":[[[24.241959,44.253695],[24.246574,44.252263],[24.247168,44.253067],[24.252309,44.252424],[24.251976,44.251905],[24.251576,44.251353],[24.253671,44.251131],[24.254029,44.251603],[24.255427,44.25133],[24.255323,44.251062],[24.258928,44.250601],[24.257878,44.24929],[24.256586,44.247524],[24.256344,44.246971],[24.256123,44.246445],[24.255923,44.245997],[24.254868,44.24724],[24.255078,44.248373],[24.253117,44.248709],[24.245592,44.250668],[24.245713,44.251025],[24.240836,44.25173],[24.241959,44.253695]]],"type":"Polygon"}
 }

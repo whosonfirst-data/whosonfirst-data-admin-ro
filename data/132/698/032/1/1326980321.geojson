@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.38116,44.93924,26.38116,44.93924",
-    "geom:latitude":44.93924,
-    "geom:longitude":26.38116,
+    "geom:area":0.000057,
+    "geom:area_square_m":499979.798039,
+    "geom:bbox":"26.367469,44.922144,26.386354,44.941523",
+    "geom:latitude":44.939176,
+    "geom:longitude":26.377119,
     "gn:admin1_code":"30",
     "gn:admin2_code":"132752.0",
     "gn:asciiname":"Valcelele",
@@ -25,17 +25,52 @@
     "gn:population":663,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.36116,44.91924,26.40116,44.95924",
+    "lbl:latitude":44.93924,
+    "lbl:longitude":26.38116,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:epo_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:eus_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:ron_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:ron_x_variant":[
+        "Valcelele"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043b\u0447\u0435\u043b\u0435\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Degera\u0163i",
         "V\u00eelcelele"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662876
+        "gn:id":662876,
+        "ro-ancpi:id":132798
     },
     "wof:country":"RO",
-    "wof:geomhash":"265ad240de11cfcb106cc62fac64ebe7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"11cd10d04b54277825d520c391e6ad0f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +96,14 @@
         }
     ],
     "wof:id":1326980321,
-    "wof:lastmodified":1566609851,
-    "wof:name":"Valcelele",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203574,
+    "wof:name":"V\u00e2lcelele",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":663,
@@ -69,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.38116,
-    44.93924000000001,
-    26.38116,
-    44.93924000000001
+    26.367469,
+    44.922144,
+    26.386354,
+    44.941523
 ],
-  "geometry": {"coordinates":[26.38116,44.93924000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.367469,44.940901],[26.369942,44.941327],[26.374165,44.941358],[26.3784,44.941388],[26.378544,44.941523],[26.379246,44.941378],[26.383109,44.941422],[26.383214,44.940436],[26.383177,44.939453],[26.384779,44.939387],[26.385366,44.938697],[26.385698,44.938369],[26.386354,44.93766],[26.385519,44.937638],[26.384469,44.937692],[26.383887,44.937763],[26.383138,44.93758],[26.382962,44.937719],[26.382538,44.937702],[26.381746,44.937588],[26.381349,44.937602],[26.379708,44.937121],[26.37918,44.937866],[26.377438,44.937427],[26.377197,44.937821],[26.37614,44.937602],[26.376552,44.937119],[26.376585,44.936918],[26.376529,44.936709],[26.376225,44.936594],[26.376097,44.936377],[26.376059,44.936095],[26.376305,44.935135],[26.375585,44.935071],[26.374903,44.93687],[26.373241,44.936566],[26.373048,44.9363],[26.372945,44.936807],[26.372697,44.938222],[26.372633,44.938478],[26.372633,44.93903],[26.372088,44.93905],[26.37199,44.939762],[26.371863,44.939836],[26.371793,44.940129],[26.369931,44.94006],[26.370373,44.938697],[26.369164,44.938548],[26.368771,44.93955],[26.368641,44.94003],[26.368628,44.940555],[26.367894,44.940449],[26.367469,44.940901]]],[[[26.378834,44.922333],[26.377862,44.922144],[26.377711,44.922565],[26.378664,44.922717],[26.378834,44.922333]]]],"type":"MultiPolygon"}
 }

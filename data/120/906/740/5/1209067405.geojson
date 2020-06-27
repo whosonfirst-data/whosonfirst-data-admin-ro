@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.52502,44.63559,24.52502,44.63559",
-    "geom:latitude":44.63559,
-    "geom:longitude":24.52502,
+    "geom:area":0.000082,
+    "geom:area_square_m":718971.311511,
+    "geom:bbox":"24.518639,44.626827,24.528578,44.643779",
+    "geom:latitude":44.634704,
+    "geom:longitude":24.524489,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128711.0",
     "gn:asciiname":"Teius",
@@ -25,11 +25,12 @@
     "gn:population":270,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.50502,44.61559,24.54502,44.65559",
+    "lbl:latitude":44.63559,
+    "lbl:longitude":24.52502,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Teius"
@@ -50,6 +51,12 @@
         "Teius"
     ],
     "name:pol_x_preferred":[
+        "Teius"
+    ],
+    "name:ron_x_preferred":[
+        "Teiu\u015f"
+    ],
+    "name:ron_x_variant":[
         "Teius"
     ],
     "name:rus_x_preferred":[
@@ -75,27 +82,45 @@
     "name:war_x_preferred":[
         "Teius"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665319
+        "gn:id":665319,
+        "ro-ancpi:id":128855
     },
     "wof:country":"RO",
-    "wof:geomhash":"d73b5221b458dbbf88031e1626b03b39",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f77fb8578f96741bf6e9d650d59c5824",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209067405
+            "locality_id":1209067405,
+            "region_id":85687607
         }
     ],
     "wof:id":1209067405,
-    "wof:lastmodified":1566610295,
-    "wof:name":"Teius",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
+    "wof:name":"Teiu\u015f",
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":270,
     "wof:population_rank":2,
@@ -105,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.52502,
-    44.63559,
-    24.52502,
-    44.63559
+    24.518639,
+    44.626827,
+    24.528578,
+    44.643779
 ],
-  "geometry": {"coordinates":[24.52502,44.63559],"type":"Point"}
+  "geometry": {"coordinates":[[[24.525746,44.633671],[24.527603,44.627696],[24.52464,44.626827],[24.523471,44.629018],[24.519947,44.626838],[24.518639,44.627749],[24.52261,44.631101],[24.520706,44.638742],[24.524342,44.640459],[24.5257,44.643779],[24.528578,44.643047],[24.526781,44.639516],[24.528515,44.63416],[24.525746,44.633671]]],"type":"Polygon"}
 }

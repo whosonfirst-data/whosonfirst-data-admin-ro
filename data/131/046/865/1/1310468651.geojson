@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.90532,46.96139,24.90532,46.96139",
-    "geom:latitude":46.96139,
-    "geom:longitude":24.90532,
+    "geom:area":0.000063,
+    "geom:area_square_m":531470.62759,
+    "geom:bbox":"24.912608,46.967649,24.931654,46.97643",
+    "geom:latitude":46.971239,
+    "geom:longitude":24.923852,
     "gn:admin1_code":"27",
     "gn:admin2_code":"116545.0",
     "gn:asciiname":"Galaoaia",
@@ -25,19 +25,36 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.88532,46.94139,24.92532,46.98139",
+    "lbl:latitude":46.969713,
+    "lbl:longitude":24.925439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.969713,
+    "mps:longitude":24.925439,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Galonya"
     ],
+    "name:por_x_preferred":[
+        "Rio G\u0103l\u0103oaia"
+    ],
+    "name:ron_x_preferred":[
+        "G\u0103l\u0103oaia"
+    ],
+    "name:ron_x_variant":[
+        "Galaoaia",
+        "R\u00e2ul G\u0103l\u0103oaia"
+    ],
     "name:und_x_variant":[
         "G\u0103loaia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -45,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677707
+        "gn:id":677707,
+        "ro-ancpi:id":118977
     },
     "wof:country":"RO",
-    "wof:geomhash":"dea08bdde01258c5e9207da06462c7bc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"78850c1d9b61812909880fd4894f9adc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +79,14 @@
         }
     ],
     "wof:id":1310468651,
-    "wof:lastmodified":1566610525,
-    "wof:name":"Galaoaia",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203450,
+    "wof:name":"G\u0103l\u0103oaia",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -68,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.90532,
-    46.96139,
-    24.90532,
-    46.96139
+    24.912608,
+    46.967649,
+    24.931654,
+    46.97643
 ],
-  "geometry": {"coordinates":[24.90532,46.96139],"type":"Point"}
+  "geometry": {"coordinates":[[[24.929983,46.971719],[24.928833,46.970124],[24.928101,46.969371],[24.927501,46.968475],[24.925958,46.96774],[24.924204,46.967649],[24.92334,46.968258],[24.921532,46.969636],[24.919151,46.969778],[24.916298,46.969829],[24.916927,46.969095],[24.915227,46.968395],[24.914467,46.96938],[24.913342,46.968985],[24.912608,46.970149],[24.91517,46.971405],[24.917865,46.971891],[24.920037,46.972053],[24.921476,46.972054],[24.922785,46.971822],[24.924042,46.97159],[24.924618,46.971501],[24.924798,46.973346],[24.927023,46.973688],[24.928877,46.97643],[24.930474,46.975858],[24.931654,46.974515],[24.930347,46.973565],[24.931133,46.972759],[24.929983,46.971719]]],"type":"Polygon"}
 }

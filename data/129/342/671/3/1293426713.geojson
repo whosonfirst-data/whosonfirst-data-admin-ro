@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11667,45.13333,24.11667,45.13333",
-    "geom:latitude":45.13333,
-    "geom:longitude":24.11667,
+    "geom:area":0.000064,
+    "geom:area_square_m":554671.103656,
+    "geom:bbox":"24.110342,45.121366,24.121663,45.13234",
+    "geom:latitude":45.127952,
+    "geom:longitude":24.115616,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168559",
     "gn:asciiname":"Barzesti",
@@ -24,17 +24,30 @@
     "gn:population":354,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.09667,45.11333,24.13667,45.15333",
+    "lbl:latitude":45.128868,
+    "lbl:longitude":24.115702,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.128868,
+    "mps:longitude":24.115702,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "B\u00e2rze\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Barzesti"
+    ],
     "name:und_x_variant":[
         "B\u0103rze\u015fti",
         "B\u00eerze\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684716
+        "gn:id":684716,
+        "ro-ancpi:id":168586
     },
     "wof:country":"RO",
-    "wof:geomhash":"9120d0ea59e7e0a0501a0375a845033a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c543c8982597d43262c9db7f64b937d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1293426713,
-    "wof:lastmodified":1566610126,
-    "wof:name":"Barzesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
+    "wof:name":"B\u00e2rze\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":354,
@@ -68,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
-    45.13333,
-    24.11667000000001,
-    45.13333
+    24.110342,
+    45.121366,
+    24.121663,
+    45.13234
 ],
-  "geometry": {"coordinates":[24.11667000000001,45.13333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.117036,45.121402],[24.117023,45.121401],[24.116365,45.121431],[24.116229,45.121431],[24.116125,45.121432],[24.116002,45.12143],[24.11578,45.121413],[24.115738,45.121417],[24.115442,45.121415],[24.114236,45.121366],[24.114234,45.121397],[24.113952,45.12139],[24.113744,45.121376],[24.113744,45.121376],[24.113642,45.126147],[24.113221,45.127328],[24.112314,45.127148],[24.111088,45.127828],[24.110342,45.128812],[24.111023,45.131482],[24.115629,45.131655],[24.117006,45.13234],[24.118631,45.132186],[24.119905,45.131615],[24.121663,45.129612],[24.119419,45.129439],[24.119428,45.128806],[24.119445,45.12769],[24.119559,45.126042],[24.116385,45.126092],[24.117038,45.121699],[24.117036,45.121402]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.00114,46.00043,24.00114,46.00043",
-    "geom:latitude":46.00043,
-    "geom:longitude":24.00114,
+    "geom:area":0.000005,
+    "geom:area_square_m":43133.833328,
+    "geom:bbox":"23.996161,45.999188,24.00355,46.024303",
+    "geom:latitude":46.011684,
+    "geom:longitude":24.000189,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3761.0",
     "gn:asciiname":"Capu Dealului",
@@ -24,11 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98114,45.98043,24.02114,46.02043",
+    "lbl:latitude":46.00043,
+    "lbl:longitude":24.00114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Capu Dealului"
@@ -42,7 +43,11 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u043f\u0443 \u0414\u0435\u0430\u043b\u0443\u043b\u0443\u0458"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -50,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682767
+        "gn:id":682767,
+        "ro-ancpi:id":3789
     },
     "wof:country":"RO",
-    "wof:geomhash":"e64acda17310359286ff3bbf441e645a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ca363d4cbeea217b804b031c1e7aa484",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +72,13 @@
         }
     ],
     "wof:id":1309726383,
-    "wof:lastmodified":1566611268,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203763,
     "wof:name":"Capu Dealului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -73,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.00114,
-    46.00043,
-    24.00114,
-    46.00043
+    23.996161,
+    45.999188,
+    24.00355,
+    46.024303
 ],
-  "geometry": {"coordinates":[24.00114,46.00043],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.001256,46.001023],[24.001765,46.000236],[24.002385,46.000373],[24.002687,46.000052],[24.002275,45.999856],[24.002562,45.999308],[24.002238,45.999188],[24.001668,45.999608],[24.001374,45.999936],[24.000972,46.000311],[24.000759,46.000633],[24.000523,46.001095],[24.000273,46.002281],[24.000886,46.00241],[24.001256,46.001023]]],[[[23.998319,46.021626],[23.997388,46.020874],[23.996161,46.021314],[23.997247,46.022015],[23.998319,46.021626]]],[[[24.00355,46.02362],[24.003,46.023214],[24.002144,46.023802],[24.002685,46.024214],[24.002819,46.024303],[24.003347,46.024039],[24.00322,46.023902],[24.00355,46.02362]]],[[[23.998542,46.020441],[23.998319,46.01996],[23.997284,46.019962],[23.997769,46.020626],[23.998542,46.020441]]]],"type":"MultiPolygon"}
 }

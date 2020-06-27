@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.45346,45.10801,22.45346,45.10801",
-    "geom:latitude":45.10801,
-    "geom:longitude":22.45346,
+    "geom:area":0.00001,
+    "geom:area_square_m":85978.334049,
+    "geom:bbox":"22.444927,45.107134,22.449171,45.111739",
+    "geom:latitude":45.109203,
+    "geom:longitude":22.446906,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Prislop",
@@ -24,11 +24,14 @@
     "gn:population":74,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.43346,45.08801,22.47346,45.12801",
+    "lbl:latitude":45.10924,
+    "lbl:longitude":22.446521,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.10924,
+    "mps:longitude":22.446521,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Prislop"
@@ -51,7 +54,11 @@
     "name:srp_x_preferred":[
         "\u041f\u0440\u0438\u0441\u043b\u043e\u043f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669599
+        "gn:id":669599,
+        "ro-ancpi:id":52446
     },
     "wof:country":"RO",
-    "wof:geomhash":"72eb34274b881bfac75f01ad6efa05fa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"83e1435495e946afdd98ed51e8395ab8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +84,13 @@
         }
     ],
     "wof:id":1293863945,
-    "wof:lastmodified":1566610145,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203618,
     "wof:name":"Prislop",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -85,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.45346,
-    45.10801,
-    22.45346,
-    45.10801
+    22.444927,
+    45.107134,
+    22.449171,
+    45.111739
 ],
-  "geometry": {"coordinates":[22.45346,45.10801],"type":"Point"}
+  "geometry": {"coordinates":[[[22.449171,45.108542],[22.447501,45.107134],[22.445449,45.108057],[22.444927,45.109647],[22.445457,45.11029],[22.449106,45.111739],[22.448502,45.11129],[22.447871,45.109608],[22.44786,45.10905],[22.447882,45.108878],[22.4483,45.108613],[22.449171,45.108542]]],"type":"Polygon"}
 }

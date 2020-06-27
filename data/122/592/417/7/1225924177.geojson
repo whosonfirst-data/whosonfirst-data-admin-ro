@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.41176,45.10247,22.41176,45.10247",
-    "geom:latitude":45.10247,
-    "geom:longitude":22.41176,
+    "geom:area":0.000019,
+    "geom:area_square_m":168935.098057,
+    "geom:bbox":"22.407603,45.097913,22.419467,45.105296",
+    "geom:latitude":45.101524,
+    "geom:longitude":22.415917,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Rustin",
@@ -24,11 +24,14 @@
     "gn:population":103,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.39176,45.08247,22.43176,45.12247",
+    "lbl:latitude":45.100419,
+    "lbl:longitude":22.417363,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.100419,
+    "mps:longitude":22.417363,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rustin"
@@ -39,7 +42,17 @@
     "name:fra_x_preferred":[
         "Rustin"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ru\u015ftin"
+    ],
+    "name:ron_x_variant":[
+        "Rustin"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668373
+        "gn:id":668373,
+        "ro-ancpi:id":52455
     },
     "wof:country":"RO",
-    "wof:geomhash":"7fdb7e4edbc73885cad97dea167541b5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b2b6efba50064f9ed2b21656e99d0f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,8 +78,14 @@
         }
     ],
     "wof:id":1225924177,
-    "wof:lastmodified":1566611607,
-    "wof:name":"Rustin",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203625,
+    "wof:name":"Ru\u015ftin",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":103,
@@ -73,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.41176,
-    45.10247,
-    22.41176,
-    45.10247
+    22.407603,
+    45.097913,
+    22.419467,
+    45.105296
 ],
-  "geometry": {"coordinates":[22.41176,45.10247],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.417395,45.103275],[22.417141,45.10294],[22.418572,45.102246],[22.41836,45.101858],[22.419467,45.101492],[22.419412,45.101268],[22.418752,45.100318],[22.419188,45.100216],[22.418604,45.099577],[22.419387,45.099381],[22.418883,45.098978],[22.418528,45.099027],[22.417764,45.097913],[22.41692,45.098107],[22.416786,45.097948],[22.416212,45.098074],[22.416362,45.098184],[22.416592,45.098334],[22.41673,45.098462],[22.416769,45.098573],[22.416772,45.098731],[22.416787,45.098851],[22.415172,45.099118],[22.415513,45.099966],[22.41663,45.10193],[22.414661,45.102552],[22.413699,45.102903],[22.413017,45.103739],[22.413333,45.104114],[22.415618,45.10374],[22.417395,45.103275]]],[[[22.410413,45.104424],[22.409841,45.104157],[22.40827,45.104222],[22.407603,45.104584],[22.408038,45.105296],[22.409532,45.105083],[22.410413,45.104424]]]],"type":"MultiPolygon"}
 }

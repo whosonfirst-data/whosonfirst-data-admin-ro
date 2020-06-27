@@ -1,0 +1,70 @@
+{
+  "id": 1713102827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21512.259663,
+    "geom:bbox":"22.672212,44.849772,22.675608,44.852381",
+    "geom:latitude":44.851099,
+    "geom:longitude":22.673996,
+    "iso:country":"RO",
+    "lbl:latitude":44.850654,
+    "lbl:longitude":22.674677,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":44.850654,
+    "mps:longitude":22.674677,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Nev\u0103\u0163u"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ro-ancpi:id":110508
+    },
+    "wof:country":"RO",
+    "wof:created":1588207634,
+    "wof:geomhash":"70a76d5e1f577fc0c554d2b71e701ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102827,
+            "region_id":85687599
+        }
+    ],
+    "wof:id":1713102827,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203344,
+    "wof:name":"Nev\u0103\u0163u",
+    "wof:parent_id":85687599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ro",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.672212,
+    44.849772,
+    22.675608,
+    44.852381
+],
+  "geometry": {"coordinates":[[[22.675049,44.85026],[22.674643,44.849772],[22.674576,44.850112],[22.673395,44.851058],[22.672863,44.851604],[22.672212,44.85209],[22.672738,44.852381],[22.673985,44.851412],[22.674918,44.851107],[22.675608,44.850501],[22.675049,44.85026]]],"type":"Polygon"}
+}

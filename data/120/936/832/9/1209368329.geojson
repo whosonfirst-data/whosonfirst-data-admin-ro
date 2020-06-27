@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.66851,44.22584,25.66851,44.22584",
-    "geom:latitude":44.22584,
-    "geom:longitude":25.66851,
+    "geom:area":0.000037,
+    "geom:area_square_m":329478.055607,
+    "geom:bbox":"25.659778,44.222221,25.673141,44.229932",
+    "geom:latitude":44.226152,
+    "geom:longitude":25.666469,
     "gn:admin1_code":"35",
     "gn:admin2_code":"153295.0",
     "gn:asciiname":"Stefeni",
@@ -25,38 +25,63 @@
     "gn:population":178,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.64851,44.20584,25.68851,44.24584",
+    "lbl:latitude":44.22584,
+    "lbl:longitude":25.66851,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u015etefeni"
+    ],
+    "name:ron_x_variant":[
+        "Stefeni"
+    ],
     "name:und_x_variant":[
         "Stefan Cel Mare",
         "\u015etefani",
         "\u015etefeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687585
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666212
+        "gn:id":666212,
+        "ro-ancpi:id":153320
     },
     "wof:country":"RO",
-    "wof:geomhash":"4d5c2f975893c42bdea30421957c8304",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0f239a85e6345897ab12c2256cbf95ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209368329
+            "locality_id":1209368329,
+            "region_id":85687585
         }
     ],
     "wof:id":1209368329,
-    "wof:lastmodified":1566610275,
-    "wof:name":"Stefeni",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203345,
+    "wof:name":"\u015etefeni",
+    "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":178,
     "wof:population_rank":1,
@@ -66,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.66851,
-    44.22584000000001,
-    25.66851,
-    44.22584000000001
+    25.659778,
+    44.222221,
+    25.673141,
+    44.229932
 ],
-  "geometry": {"coordinates":[25.66851,44.22584000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[25.662444,44.229932],[25.673141,44.224393],[25.670966,44.222221],[25.663311,44.226078],[25.659778,44.2279],[25.661498,44.229669],[25.661958,44.229449],[25.662444,44.229932]]],"type":"Polygon"}
 }

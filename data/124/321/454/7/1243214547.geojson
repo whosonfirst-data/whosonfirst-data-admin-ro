@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.30888,44.74722,24.30888,44.74722",
-    "geom:latitude":44.74722,
-    "geom:longitude":24.30888,
+    "geom:area":0.000051,
+    "geom:area_square_m":449608.977478,
+    "geom:bbox":"24.29393,44.739975,24.312626,44.749575",
+    "geom:latitude":44.745363,
+    "geom:longitude":24.304605,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126772",
     "gn:asciiname":"Batia",
@@ -24,16 +24,22 @@
     "gn:population":167,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.28888,44.72722,24.32888,44.76722",
+    "lbl:latitude":44.74639,
+    "lbl:longitude":24.3068,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.74639,
+    "mps:longitude":24.3068,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Batia"
     ],
     "name:fra_x_preferred":[
+        "Batia"
+    ],
+    "name:ron_x_preferred":[
         "Batia"
     ],
     "name:swe_x_preferred":[
@@ -42,7 +48,11 @@
     "name:war_x_preferred":[
         "Batia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685270
+        "gn:id":685270,
+        "ro-ancpi:id":126790
     },
     "wof:country":"RO",
-    "wof:geomhash":"fdf5880952871067f80c0884c5e41eba",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8e52ecfec576f6eca52b9e9e29105f63",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +78,13 @@
         }
     ],
     "wof:id":1243214547,
-    "wof:lastmodified":1566611529,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203707,
     "wof:name":"Batia",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -76,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.30888,
-    44.74722,
-    24.30888,
-    44.74722
+    24.29393,
+    44.739975,
+    24.312626,
+    44.749575
 ],
-  "geometry": {"coordinates":[24.30888,44.74722],"type":"Point"}
+  "geometry": {"coordinates":[[[24.30729,44.749483],[24.308148,44.74783],[24.30997,44.744806],[24.312626,44.740638],[24.307491,44.739975],[24.307423,44.740423],[24.310006,44.740734],[24.30912,44.741975],[24.307049,44.744996],[24.300589,44.744599],[24.29628,44.744709],[24.296303,44.745716],[24.29393,44.745669],[24.294167,44.746926],[24.297169,44.746677],[24.297248,44.747476],[24.299523,44.747411],[24.299534,44.746543],[24.301756,44.746655],[24.305561,44.747044],[24.304502,44.749575],[24.30729,44.749483]]],"type":"Polygon"}
 }

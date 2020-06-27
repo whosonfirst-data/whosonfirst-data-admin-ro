@@ -27,12 +27,15 @@
     "lbl:bbox":"27.53,46.41333,27.57,46.45333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,22 @@
     "wof:geomhash":"85261feca05bb2e247a6f7f51726c21c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209144397
+            "locality_id":1209144397,
+            "region_id":85687743
         }
     ],
     "wof:id":1209144397,
-    "wof:lastmodified":1566610338,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208589,
     "wof:name":"Tifesti",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

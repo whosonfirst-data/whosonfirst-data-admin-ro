@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.70219,46.58855,26.70219,46.58855",
-    "geom:latitude":46.58855,
-    "geom:longitude":26.70219,
+    "geom:area":0.000018,
+    "geom:area_square_m":150014.361691,
+    "geom:bbox":"26.697067,46.585982,26.70706,46.59567",
+    "geom:latitude":46.590087,
+    "geom:longitude":26.702259,
     "gn:admin1_code":"04",
     "gn:admin2_code":"25291.0",
     "gn:asciiname":"Stejaru",
@@ -24,16 +24,20 @@
     "gn:population":71,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.68219,46.56855,26.72219,46.60855",
+    "lbl:latitude":46.58855,
+    "lbl:longitude":26.70219,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Stejaru"
     ],
     "name:deu_x_preferred":[
+        "Stejaru"
+    ],
+    "name:eus_x_preferred":[
         "Stejaru"
     ],
     "name:ita_x_preferred":[
@@ -45,7 +49,11 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0435\u0436\u0430\u0440\u0443"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666184
+        "gn:id":666184,
+        "ro-ancpi:id":25344
     },
     "wof:country":"RO",
-    "wof:geomhash":"8113b1afaeac60344a7df7ff7bc4cc09",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e0bda397a39c3af5e0c2e3347d8112a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,7 +79,13 @@
         }
     ],
     "wof:id":1293722611,
-    "wof:lastmodified":1566610147,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203540,
     "wof:name":"Stejaru",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -79,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.70219,
-    46.58855,
-    26.70219,
-    46.58855
+    26.697067,
+    46.585982,
+    26.70706,
+    46.59567
 ],
-  "geometry": {"coordinates":[26.70219,46.58855],"type":"Point"}
+  "geometry": {"coordinates":[[[26.70706,46.595224],[26.706704,46.594752],[26.706114,46.594916],[26.705566,46.594265],[26.705096,46.593579],[26.705007,46.593251],[26.705032,46.592786],[26.704942,46.591477],[26.704847,46.590793],[26.704574,46.59029],[26.705036,46.590156],[26.705299,46.589915],[26.701688,46.587653],[26.701025,46.587504],[26.700247,46.587569],[26.699281,46.587757],[26.699477,46.586034],[26.698633,46.585982],[26.698469,46.587968],[26.697067,46.588293],[26.697528,46.589321],[26.700649,46.588691],[26.702061,46.589592],[26.703468,46.590438],[26.703652,46.590689],[26.703854,46.591238],[26.703936,46.591903],[26.703974,46.592997],[26.7041,46.5936],[26.704402,46.594201],[26.705561,46.59567],[26.70706,46.595224]]],"type":"Polygon"}
 }

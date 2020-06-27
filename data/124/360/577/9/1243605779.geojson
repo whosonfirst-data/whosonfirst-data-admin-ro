@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.95085,45.19473,28.95085,45.19473",
-    "geom:latitude":45.19473,
-    "geom:longitude":28.95085,
+    "geom:area":0.000019,
+    "geom:area_square_m":161369.86283,
+    "geom:bbox":"28.935746,45.192675,28.956518,45.195924",
+    "geom:latitude":45.194458,
+    "geom:longitude":28.946846,
     "gn:admin1_code":"37",
     "gn:admin2_code":"160779.0",
     "gn:asciiname":"Ilganii de Sus",
@@ -24,13 +24,21 @@
     "gn:population":68,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.93085,45.17473,28.97085,45.21473",
+    "lbl:latitude":45.19473,
+    "lbl:longitude":28.95085,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ilganii de Sus"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675671
+        "gn:id":675671,
+        "ro-ancpi:id":160797
     },
     "wof:country":"RO",
-    "wof:geomhash":"85488a372f4f9bc6d258ff36cc4e9cb5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ebdcff03c6faac9da2303b9609c0efcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1243605779,
-    "wof:lastmodified":1566611494,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203780,
     "wof:name":"Ilganii de Sus",
     "wof:parent_id":85687679,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.95085,
-    45.19473,
-    28.95085,
-    45.19473
+    28.935746,
+    45.192675,
+    28.956518,
+    45.195924
 ],
-  "geometry": {"coordinates":[28.95085,45.19473],"type":"Point"}
+  "geometry": {"coordinates":[[[28.956514,45.195007],[28.956518,45.194499],[28.954476,45.194401],[28.951873,45.194267],[28.950016,45.194247],[28.948296,45.194194],[28.94461,45.193841],[28.941608,45.193424],[28.939861,45.193273],[28.938278,45.193173],[28.935873,45.192675],[28.935746,45.192935],[28.937531,45.193353],[28.937516,45.193706],[28.939163,45.194439],[28.939636,45.193788],[28.941202,45.194213],[28.941407,45.193712],[28.942879,45.193929],[28.942846,45.194607],[28.944714,45.195064],[28.945335,45.195325],[28.945579,45.194809],[28.946025,45.19492],[28.945844,45.195462],[28.947971,45.195924],[28.948272,45.195378],[28.949177,45.195473],[28.949367,45.195058],[28.950813,45.195191],[28.951924,45.195095],[28.952939,45.19506],[28.955557,45.195027],[28.955688,45.195755],[28.956458,45.19563],[28.956514,45.195007]]],"type":"Polygon"}
 }

@@ -1,0 +1,70 @@
+{
+  "id": 1713102787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":42605.958,
+    "geom:bbox":"21.918056,44.716671,21.921128,44.718858",
+    "geom:latitude":44.717757,
+    "geom:longitude":21.91947,
+    "iso:country":"RO",
+    "lbl:latitude":44.717735,
+    "lbl:longitude":21.919441,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":44.717735,
+    "mps:longitude":21.919441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Valea Orevi\u0163a"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ro-ancpi:id":54001
+    },
+    "wof:country":"RO",
+    "wof:created":1588207625,
+    "wof:geomhash":"329f249d56209a40f1aa11dda5a2f812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713102787,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":1713102787,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203626,
+    "wof:name":"Valea Orevi\u0163a",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ro",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.918056,
+    44.716671,
+    21.921128,
+    44.718858
+],
+  "geometry": {"coordinates":[[[21.921128,44.717072],[21.918862,44.716671],[21.918246,44.717228],[21.918056,44.71837],[21.918178,44.718661],[21.918708,44.718858],[21.920662,44.718429],[21.921128,44.717072]]],"type":"Polygon"}
+}

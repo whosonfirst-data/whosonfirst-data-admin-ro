@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.85,45.98333,21.85,45.98333",
-    "geom:latitude":45.98333,
-    "geom:longitude":21.85,
+    "geom:area":0.000033,
+    "geom:area_square_m":286023.956186,
+    "geom:bbox":"21.842118,45.992397,21.854042,46.000955",
+    "geom:latitude":45.996627,
+    "geom:longitude":21.848937,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10765.0",
     "gn:asciiname":"Patars",
@@ -24,21 +24,34 @@
     "gn:population":67,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.83,45.96333,21.87,46.00333",
+    "lbl:latitude":45.997085,
+    "lbl:longitude":21.850337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.997085,
+    "mps:longitude":21.850337,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Petercse"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103t\u00e2r\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Patars"
     ],
     "name:und_x_variant":[
         "Petirs",
         "Petris",
         "P\u0103t\u00eer\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671269
+        "gn:id":671269,
+        "ro-ancpi:id":10792
     },
     "wof:country":"RO",
-    "wof:geomhash":"5db12b9099723c7c1d0f5db16e548477",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46469fe6b864138e1653d10305b304dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +77,14 @@
         }
     ],
     "wof:id":1259596303,
-    "wof:lastmodified":1566611577,
-    "wof:name":"Patars",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203717,
+    "wof:name":"P\u0103t\u00e2r\u015f",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":67,
@@ -72,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.85,
-    45.98333,
-    21.85,
-    45.98333
+    21.842118,
+    45.992397,
+    21.854042,
+    46.000955
 ],
-  "geometry": {"coordinates":[21.85,45.98333],"type":"Point"}
+  "geometry": {"coordinates":[[[21.852532,45.996602],[21.84922,45.994948],[21.848095,45.994256],[21.846507,45.994149],[21.845879,45.993845],[21.843775,45.992739],[21.842218,45.992397],[21.842118,45.994165],[21.844626,45.995426],[21.845307,45.995433],[21.849086,45.997009],[21.848731,45.997586],[21.849752,45.998213],[21.850332,45.998416],[21.849883,45.999376],[21.849274,46.000008],[21.852856,46.000955],[21.853867,45.999216],[21.854042,45.998155],[21.853359,45.997628],[21.853963,45.997371],[21.852532,45.996602]]],"type":"Polygon"}
 }

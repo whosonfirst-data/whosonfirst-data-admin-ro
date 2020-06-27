@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.94195,45.58685,22.94195,45.58685",
-    "geom:latitude":45.58685,
-    "geom:longitude":22.94195,
+    "geom:area":0.000016,
+    "geom:area_square_m":139756.533113,
+    "geom:bbox":"22.930544,45.582967,22.942973,45.587929",
+    "geom:latitude":45.585468,
+    "geom:longitude":22.937969,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91232.0",
     "gn:asciiname":"Vadu",
@@ -24,11 +24,14 @@
     "gn:population":116,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.92195,45.56685,22.96195,45.60685",
+    "lbl:latitude":45.586278,
+    "lbl:longitude":22.939429,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.586278,
+    "mps:longitude":22.939429,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vadu"
@@ -51,7 +54,11 @@
     "name:swe_x_preferred":[
         "Vadu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664014
+        "gn:id":664014,
+        "ro-ancpi:id":91321
     },
     "wof:country":"RO",
-    "wof:geomhash":"3530e4a8102d5d38a8091e3db4a07811",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73ad067b45a86f5c746651ead39716e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +84,13 @@
         }
     ],
     "wof:id":1327198323,
-    "wof:lastmodified":1566609857,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203793,
     "wof:name":"Vadu",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -85,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.94195,
-    45.58685,
-    22.94195,
-    45.58685
+    22.930544,
+    45.582967,
+    22.942973,
+    45.587929
 ],
-  "geometry": {"coordinates":[22.94195,45.58685],"type":"Point"}
+  "geometry": {"coordinates":[[[22.941929,45.58667],[22.942973,45.585679],[22.941925,45.585318],[22.94236,45.584643],[22.941522,45.584358],[22.940856,45.585658],[22.939052,45.585112],[22.938244,45.584898],[22.936583,45.58463],[22.936825,45.584207],[22.934895,45.583652],[22.934438,45.584401],[22.932534,45.583942],[22.93176,45.583392],[22.931232,45.582967],[22.930544,45.583265],[22.931034,45.583698],[22.931556,45.584104],[22.932319,45.584485],[22.932612,45.584614],[22.935182,45.585217],[22.935693,45.585182],[22.937089,45.585486],[22.937738,45.586132],[22.938828,45.587104],[22.939562,45.58738],[22.940292,45.587799],[22.940574,45.587929],[22.941929,45.58667]]],"type":"Polygon"}
 }

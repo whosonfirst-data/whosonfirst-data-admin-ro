@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.41636,44.25458,26.41636,44.25458",
-    "geom:latitude":44.25458,
-    "geom:longitude":26.41636,
+    "geom:area":0.000078,
+    "geom:area_square_m":688527.223106,
+    "geom:bbox":"26.407182,44.249685,26.420954,44.26097",
+    "geom:latitude":44.255059,
+    "geom:longitude":26.41424,
     "gn:admin1_code":"41",
     "gn:admin2_code":"101458",
     "gn:asciiname":"Buciumeni",
@@ -24,16 +24,20 @@
     "gn:population":715,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.39636,44.23458,26.43636,44.27458",
+    "lbl:latitude":44.25458,
+    "lbl:longitude":26.41636,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Buciumeni"
     ],
     "name:deu_x_preferred":[
+        "Buciumeni"
+    ],
+    "name:eus_x_preferred":[
         "Buciumeni"
     ],
     "name:ita_x_preferred":[
@@ -51,7 +55,11 @@
     "name:vol_x_preferred":[
         "Buciumeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683569
+        "gn:id":683569,
+        "ro-ancpi:id":101485
     },
     "wof:country":"RO",
-    "wof:geomhash":"4265130e5927cf4a309a7de69b8839e2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6e7de92f38eeeff3983dd47ca5dbd573",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +85,13 @@
         }
     ],
     "wof:id":1326560413,
-    "wof:lastmodified":1566609784,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203787,
     "wof:name":"Buciumeni",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
@@ -85,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.41636,
-    44.25458,
-    26.41636,
-    44.25458
+    26.407182,
+    44.249685,
+    26.420954,
+    44.26097
 ],
-  "geometry": {"coordinates":[26.41636,44.25458],"type":"Point"}
+  "geometry": {"coordinates":[[[26.418004,44.257529],[26.418314,44.256803],[26.418751,44.256752],[26.42048,44.255033],[26.420954,44.253942],[26.418278,44.253201],[26.417383,44.253142],[26.416928,44.252766],[26.417067,44.252635],[26.417911,44.252486],[26.418032,44.251698],[26.417659,44.251064],[26.417149,44.251022],[26.417359,44.249859],[26.415728,44.249685],[26.415069,44.251103],[26.413269,44.250876],[26.412028,44.250669],[26.411091,44.253389],[26.409447,44.253094],[26.409734,44.252387],[26.40862,44.25219],[26.407182,44.255831],[26.411041,44.256751],[26.409933,44.259271],[26.411978,44.259781],[26.413039,44.257182],[26.414943,44.257593],[26.414564,44.258568],[26.414388,44.259273],[26.415519,44.259558],[26.415031,44.260414],[26.416971,44.26097],[26.417642,44.259285],[26.41771,44.258217],[26.418004,44.257529]]],"type":"Polygon"}
 }

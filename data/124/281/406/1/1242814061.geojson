@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.9369,44.92226,23.9369,44.92226",
-    "geom:latitude":44.92226,
-    "geom:longitude":23.9369,
+    "geom:area":0.000061,
+    "geom:area_square_m":529985.233323,
+    "geom:bbox":"23.932585,44.921056,23.938791,44.940047",
+    "geom:latitude":44.930805,
+    "geom:longitude":23.935109,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172698",
     "gn:asciiname":"Balaciu",
@@ -25,11 +25,14 @@
     "gn:population":226,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.9169,44.90226,23.9569,44.94226",
+    "lbl:latitude":44.931128,
+    "lbl:longitude":23.934545,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.931128,
+    "mps:longitude":23.934545,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Balaciu"
@@ -47,6 +50,9 @@
         "Balaciu"
     ],
     "name:ron_x_preferred":[
+        "Balaciu"
+    ],
+    "name:ron_x_variant":[
         "Comuna Balaciu"
     ],
     "name:srp_x_preferred":[
@@ -67,7 +73,11 @@
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u4e18\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685718
+        "gn:id":685718,
+        "ro-ancpi:id":172714
     },
     "wof:country":"RO",
-    "wof:geomhash":"83ed1a2594193d9f1d61a9fff0c2d690",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c18b39a7487a1aaf0e720faf26c10022",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +103,13 @@
         }
     ],
     "wof:id":1242814061,
-    "wof:lastmodified":1566611445,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203693,
     "wof:name":"Balaciu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -101,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.9369,
-    44.92226,
-    23.9369,
-    44.92226
+    23.932585,
+    44.921056,
+    23.938791,
+    44.940047
 ],
-  "geometry": {"coordinates":[23.9369,44.92226],"type":"Point"}
+  "geometry": {"coordinates":[[[23.935734,44.929014],[23.936315,44.921056],[23.935256,44.921086],[23.932978,44.922774],[23.932585,44.926862],[23.932722,44.931152],[23.933373,44.933176],[23.935662,44.940047],[23.938791,44.939556],[23.937985,44.937055],[23.935734,44.929014]]],"type":"Polygon"}
 }

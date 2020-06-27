@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.81419,44.98412,22.81419,44.98412",
-    "geom:latitude":44.98412,
-    "geom:longitude":22.81419,
+    "geom:area":0.000014,
+    "geom:area_square_m":121890.761947,
+    "geom:bbox":"22.80934,44.981858,22.817723,44.985141",
+    "geom:latitude":44.983556,
+    "geom:longitude":22.813412,
     "gn:admin1_code":"26",
     "gn:admin2_code":"109924.0",
     "gn:asciiname":"Dealu Mare",
@@ -25,11 +25,12 @@
     "gn:population":99,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.79419,44.96412,22.83419,45.00412",
+    "lbl:latitude":44.98412,
+    "lbl:longitude":22.81419,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dealu Mare"
@@ -49,7 +50,11 @@
     "name:und_x_variant":[
         "Dealul Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679620
+        "gn:id":679620,
+        "ro-ancpi:id":109960
     },
     "wof:country":"RO",
-    "wof:geomhash":"46bb780918a393d639c64cff5e271629",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e696542e7a7f03e0b94d4e7601dba41",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +80,13 @@
         }
     ],
     "wof:id":1327101803,
-    "wof:lastmodified":1566609864,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203334,
     "wof:name":"Dealu Mare",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -83,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.81419,
-    44.98412,
-    22.81419,
-    44.98412
+    22.80934,
+    44.981858,
+    22.817723,
+    44.985141
 ],
-  "geometry": {"coordinates":[22.81419,44.98412],"type":"Point"}
+  "geometry": {"coordinates":[[[22.816175,44.983822],[22.816623,44.983323],[22.817723,44.982999],[22.817236,44.981904],[22.815426,44.982437],[22.814862,44.981858],[22.814066,44.982076],[22.81447,44.982744],[22.812502,44.983284],[22.812059,44.9829],[22.811691,44.982792],[22.81025,44.982994],[22.80934,44.983499],[22.810035,44.984567],[22.811392,44.985141],[22.813403,44.984767],[22.816175,44.983822]]],"type":"Polygon"}
 }

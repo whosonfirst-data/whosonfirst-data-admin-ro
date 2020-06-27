@@ -27,8 +27,9 @@
     "lbl:bbox":"27.56333,44.01333,27.60333,44.05333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Carvan",
@@ -37,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,22 @@
     "wof:geomhash":"2bc55ed87e51e7a3a7d16e102bb0edce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209187975
+            "locality_id":1209187975,
+            "region_id":85687633
         }
     ],
     "wof:id":1209187975,
-    "wof:lastmodified":1566610377,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208604,
     "wof:name":"Carvanu Mare",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

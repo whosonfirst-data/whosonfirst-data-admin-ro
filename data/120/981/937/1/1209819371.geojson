@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.39232,46.27057,23.39232,46.27057",
-    "geom:latitude":46.27057,
-    "geom:longitude":23.39232,
+    "geom:area":0.000009,
+    "geom:area_square_m":74517.421917,
+    "geom:bbox":"23.390607,46.268086,23.395604,46.271451",
+    "geom:latitude":46.269691,
+    "geom:longitude":23.393471,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4981.0",
     "gn:asciiname":"Marinesti",
@@ -24,13 +24,26 @@
     "gn:population":28,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.37232,46.25057,23.41232,46.29057",
+    "lbl:latitude":46.269592,
+    "lbl:longitude":23.393508,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.269592,
+    "mps:longitude":23.393508,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "M\u0103rine\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Marinesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673777
+        "gn:id":673777,
+        "ro-ancpi:id":5041
     },
     "wof:country":"RO",
-    "wof:geomhash":"bd50f38f2786b999c37a8ac6f61d7a44",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"da68336183c23339c45b4bcde5b4e94b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1209819371,
-    "wof:lastmodified":1566610399,
-    "wof:name":"Marinesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203757,
+    "wof:name":"M\u0103rine\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":28,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.39232,
-    46.27057,
-    23.39232,
-    46.27057
+    23.390607,
+    46.268086,
+    23.395604,
+    46.271451
 ],
-  "geometry": {"coordinates":[23.39232,46.27057],"type":"Point"}
+  "geometry": {"coordinates":[[[23.391879,46.268975],[23.391691,46.268978],[23.391285,46.269414],[23.390607,46.269846],[23.393069,46.270608],[23.394806,46.271451],[23.395604,46.270729],[23.394942,46.269953],[23.395382,46.269002],[23.394225,46.268713],[23.394187,46.268206],[23.393029,46.268086],[23.392935,46.26845],[23.392249,46.268484],[23.392001,46.268948],[23.391879,46.268975]]],"type":"Polygon"}
 }

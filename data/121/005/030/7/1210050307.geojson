@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.60894,44.51848,25.60894,44.51848",
-    "geom:latitude":44.51848,
-    "geom:longitude":25.60894,
+    "geom:area":0.000042,
+    "geom:area_square_m":373561.003059,
+    "geom:bbox":"25.601024,44.51428,25.613982,44.522816",
+    "geom:latitude":44.518059,
+    "geom:longitude":25.60702,
     "gn:admin1_code":"42",
     "gn:admin2_code":"103087.0",
     "gn:asciiname":"Podu Popa Nae",
@@ -25,17 +25,25 @@
     "gn:population":258,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.58894,44.49848,25.62894,44.53848",
+    "lbl:latitude":44.51848,
+    "lbl:longitude":25.60894,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Podu Popa Nae"
+    ],
     "name:und_x_variant":[
         "Podul lui Popa Nae",
         "Podu Popa Nae"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670278
+        "gn:id":670278,
+        "ro-ancpi:id":103121
     },
     "wof:country":"RO",
-    "wof:geomhash":"c23d88a5a2baedfdf1c767f4dd3e48dc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"467bacf30c94e08584c3c3b36cbb4079",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1210050307,
-    "wof:lastmodified":1566610412,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203329,
     "wof:name":"Podu Popa Nae",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.60894,
-    44.51848,
-    25.60894,
-    44.51848
+    25.601024,
+    44.51428,
+    25.613982,
+    44.522816
 ],
-  "geometry": {"coordinates":[25.60894,44.51848],"type":"Point"}
+  "geometry": {"coordinates":[[[25.611726,44.518989],[25.611124,44.518629],[25.610781,44.518451],[25.610503,44.518295],[25.610031,44.51803],[25.609225,44.517433],[25.608669,44.516942],[25.607946,44.516327],[25.607182,44.515708],[25.606454,44.515044],[25.605557,44.514432],[25.604949,44.51428],[25.604312,44.514292],[25.602814,44.514631],[25.601883,44.51514],[25.601108,44.51578],[25.601024,44.516098],[25.601109,44.516596],[25.601305,44.517184],[25.601468,44.517557],[25.601402,44.517843],[25.602863,44.518074],[25.603932,44.518695],[25.60483,44.518531],[25.607011,44.51933],[25.607141,44.519364],[25.607707,44.51875],[25.608254,44.518902],[25.609278,44.51948],[25.60823,44.521056],[25.608008,44.521454],[25.60832,44.521599],[25.608565,44.521729],[25.608801,44.522102],[25.609954,44.522816],[25.610634,44.522372],[25.612618,44.520804],[25.613982,44.519625],[25.613213,44.519366],[25.612718,44.519206],[25.612136,44.519065],[25.611726,44.518989]]],"type":"Polygon"}
 }

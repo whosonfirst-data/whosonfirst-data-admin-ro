@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.82548,45.81554,21.82548,45.81554",
-    "geom:latitude":45.81554,
-    "geom:longitude":21.82548,
+    "geom:area":0.000083,
+    "geom:area_square_m":713948.072682,
+    "geom:bbox":"21.816437,45.809801,21.829802,45.820699",
+    "geom:latitude":45.814926,
+    "geom:longitude":21.82364,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155546.0",
     "gn:asciiname":"Targoviste",
@@ -25,11 +25,12 @@
     "gn:population":450,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.80548,45.79554,21.84548,45.83554",
+    "lbl:latitude":45.81554,
+    "lbl:longitude":21.82548,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435"
@@ -59,7 +60,11 @@
         "\u0422\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435"
     ],
     "name:ron_x_preferred":[
-        "T\u00e2rgovi\u0219te"
+        "T\u00e2rgovi\u015fte"
+    ],
+    "name:ron_x_variant":[
+        "T\u00e2rgovi\u0219te",
+        "Targoviste"
     ],
     "name:rus_x_preferred":[
         "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435"
@@ -80,7 +85,11 @@
         "T\u00eergovi\u015fte",
         "T\u00e2rgovi\u015fte"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -89,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665023
+        "gn:id":665023,
+        "ro-ancpi:id":155582
     },
     "wof:country":"RO",
-    "wof:geomhash":"c735befd1719a3d7c2e6e5e57edfacb6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a672cc917d119dbc9740f029a42251a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,8 +115,14 @@
         }
     ],
     "wof:id":1343405569,
-    "wof:lastmodified":1566609929,
-    "wof:name":"Targoviste",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203736,
+    "wof:name":"T\u00e2rgovi\u015fte",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":450,
@@ -114,10 +133,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.82548,
-    45.81554000000001,
-    21.82548,
-    45.81554000000001
+    21.816437,
+    45.809801,
+    21.829802,
+    45.820699
 ],
-  "geometry": {"coordinates":[21.82548,45.81554000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.829418,45.820699],[21.829444,45.820635],[21.829586,45.820639],[21.829623,45.820357],[21.82951,45.820339],[21.829589,45.818854],[21.829628,45.818072],[21.829588,45.817991],[21.829619,45.81755],[21.829719,45.815598],[21.829802,45.814424],[21.828568,45.813247],[21.8284,45.813265],[21.828077,45.812875],[21.825836,45.810944],[21.82548,45.810926],[21.825432,45.810136],[21.823767,45.809867],[21.823725,45.811487],[21.823698,45.813399],[21.823616,45.815215],[21.823565,45.815255],[21.823557,45.815403],[21.823522,45.816969],[21.823531,45.817493],[21.823848,45.818154],[21.823748,45.818289],[21.823697,45.819179],[21.825513,45.819248],[21.826402,45.819901],[21.827732,45.820064],[21.828051,45.820424],[21.828738,45.820447],[21.828758,45.820582],[21.829418,45.820699]]],[[[21.822545,45.818599],[21.820991,45.809994],[21.820893,45.809801],[21.816437,45.810258],[21.816465,45.810401],[21.817575,45.816312],[21.819793,45.816121],[21.820235,45.818838],[21.822545,45.818599]]]],"type":"MultiPolygon"}
 }

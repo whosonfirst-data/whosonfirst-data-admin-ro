@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24189,44.98528,24.24189,44.98528",
-    "geom:latitude":44.98528,
-    "geom:longitude":24.24189,
+    "geom:area":0.000079,
+    "geom:area_square_m":689686.627049,
+    "geom:bbox":"24.234196,44.978647,24.253436,44.987944",
+    "geom:latitude":44.983916,
+    "geom:longitude":24.245571,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168372.0",
     "gn:asciiname":"Tatarani",
@@ -24,28 +24,73 @@
     "gn:population":335,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.22189,44.96528,24.26189,45.00528",
+    "lbl:latitude":44.98528,
+    "lbl:longitude":24.24189,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Tatarani"
     ],
+    "name:ceb_x_variant":[
+        "Comuna T\u0103t\u0103rani"
+    ],
+    "name:eus_x_preferred":[
+        "T\u0103t\u0103rani"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u062a\u0627\u0631\u0627\u0646\u06cc"
+    ],
     "name:ita_x_preferred":[
         "Tatarani"
+    ],
+    "name:ita_x_variant":[
+        "T\u0103t\u0103rani"
+    ],
+    "name:msa_x_preferred":[
+        "T\u0103t\u0103rani"
     ],
     "name:nld_x_preferred":[
         "Tatarani"
     ],
+    "name:nld_x_variant":[
+        "T\u0103t\u0103rani"
+    ],
+    "name:por_x_preferred":[
+        "T\u0103t\u0103rani"
+    ],
+    "name:ron_x_preferred":[
+        "T\u0103t\u0103rani"
+    ],
+    "name:ron_x_variant":[
+        "Tatarani",
+        "Comuna T\u0103t\u0103rani"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0430\u0442\u0430\u0440\u0430\u043d\u0438"
+    ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0422\u0430\u0442\u0430\u0440\u0430\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0442\u0435\u0440\u0430\u043d\u044c"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "T\u0103t\u0103rani"
+    ],
+    "name:vol_x_preferred":[
+        "T\u0103t\u0103rani"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u7279\u62c9\u5c3c\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,10 +99,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665460
+        "gn:id":665460,
+        "ro-ancpi:id":168434
     },
     "wof:country":"RO",
-    "wof:geomhash":"a88aadf87549f8920a76009ec21264b2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"06cae2b79195ca04166b89550d9faa03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,8 +116,14 @@
         }
     ],
     "wof:id":1360119099,
-    "wof:lastmodified":1566610629,
-    "wof:name":"Tatarani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203688,
+    "wof:name":"T\u0103t\u0103rani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":335,
@@ -79,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24189,
-    44.98528,
-    24.24189,
-    44.98528
+    24.234196,
+    44.978647,
+    24.253436,
+    44.987944
 ],
-  "geometry": {"coordinates":[24.24189,44.98528],"type":"Point"}
+  "geometry": {"coordinates":[[[24.243879,44.987669],[24.243805,44.986464],[24.246227,44.984158],[24.247728,44.987016],[24.247834,44.987218],[24.247857,44.98721],[24.248001,44.987169],[24.248028,44.987161],[24.24805,44.987155],[24.248061,44.987152],[24.248118,44.987136],[24.24815,44.987127],[24.248156,44.987125],[24.24834,44.987084],[24.248558,44.987115],[24.248645,44.98711],[24.248757,44.987095],[24.248898,44.987081],[24.248965,44.987069],[24.24925,44.987036],[24.250148,44.986924],[24.250943,44.986831],[24.251282,44.986788],[24.251461,44.986767],[24.251673,44.986742],[24.251769,44.986733],[24.251847,44.986726],[24.252095,44.986699],[24.252182,44.986681],[24.252303,44.986653],[24.252519,44.986583],[24.252632,44.986517],[24.252648,44.986539],[24.25273,44.986494],[24.252757,44.986478],[24.252775,44.986489],[24.252785,44.986496],[24.252823,44.986516],[24.252857,44.986535],[24.252862,44.986542],[24.252941,44.986646],[24.253076,44.986529],[24.253436,44.986216],[24.252504,44.985272],[24.250137,44.978647],[24.245852,44.979199],[24.244308,44.981734],[24.244288,44.983207],[24.234196,44.985015],[24.235117,44.986718],[24.240661,44.986265],[24.240586,44.987917],[24.241098,44.987944],[24.241893,44.987909],[24.241995,44.987911],[24.242304,44.987833],[24.243135,44.987742],[24.243567,44.987695],[24.243879,44.987669]]],"type":"Polygon"}
 }

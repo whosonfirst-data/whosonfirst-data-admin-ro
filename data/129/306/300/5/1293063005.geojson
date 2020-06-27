@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.21761,46.44356,25.21761,46.44356",
-    "geom:latitude":46.44356,
-    "geom:longitude":25.21761,
+    "geom:area":0.000012,
+    "geom:area_square_m":101769.600171,
+    "geom:bbox":"25.193552,46.45037,25.200521,46.453858",
+    "geom:latitude":46.452006,
+    "geom:longitude":25.19726,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84175.0",
     "gn:asciiname":"Calonda",
@@ -25,19 +25,29 @@
     "gn:population":58,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.19761,46.42356,25.23761,46.46356",
+    "lbl:latitude":46.452381,
+    "lbl:longitude":25.198765,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.452381,
+    "mps:longitude":25.198765,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Calonda"
+    ],
     "name:und_x_variant":[
         "Kalanda",
         "Calonda",
         "Calonde",
         "Colonda"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681098
+        "gn:id":681098,
+        "ro-ancpi:id":84200
     },
     "wof:country":"RO",
-    "wof:geomhash":"b0a7c81ef95759933e3784d5c2e90989",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e9a56767c4f21e23db679782ef936f7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +73,13 @@
         }
     ],
     "wof:id":1293063005,
-    "wof:lastmodified":1566610040,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203389,
     "wof:name":"Calonda",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
@@ -71,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.21761,
-    46.44356,
-    25.21761,
-    46.44356
+    25.193552,
+    46.45037,
+    25.200521,
+    46.453858
 ],
-  "geometry": {"coordinates":[25.21761,46.44356],"type":"Point"}
+  "geometry": {"coordinates":[[[25.194915,46.450387],[25.194626,46.45037],[25.194363,46.450432],[25.194062,46.450571],[25.193563,46.451248],[25.193552,46.451829],[25.194231,46.451993],[25.196993,46.452535],[25.198767,46.453755],[25.199182,46.453858],[25.199533,46.453831],[25.199934,46.453657],[25.200359,46.453223],[25.200521,46.452919],[25.200482,46.452503],[25.20038,46.452208],[25.199877,46.451792],[25.199123,46.451438],[25.19857,46.451266],[25.19749,46.451163],[25.196486,46.450948],[25.194915,46.450387]]],"type":"Polygon"}
 }

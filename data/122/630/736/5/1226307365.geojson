@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.94431,45.57143,22.94431,45.57143",
-    "geom:latitude":45.57143,
-    "geom:longitude":22.94431,
+    "geom:area":0.000046,
+    "geom:area_square_m":394597.261558,
+    "geom:bbox":"22.934508,45.566942,22.955389,45.576866",
+    "geom:latitude":45.571846,
+    "geom:longitude":22.944872,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91232",
     "gn:asciiname":"Barastii Hategului",
@@ -25,17 +25,28 @@
     "gn:population":480,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.92431,45.55143,22.96431,45.59143",
+    "lbl:latitude":45.57143,
+    "lbl:longitude":22.94431,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "B\u0103r\u0103\u015ftii Ha\u0163egului"
+    ],
+    "name:ron_x_variant":[
+        "Barastii Hategului"
+    ],
     "name:und_x_variant":[
         "B\u0103re\u015ftii-Hategului",
         "B\u0103r\u0103\u015ftii-Ha\u0163egului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685403
+        "gn:id":685403,
+        "ro-ancpi:id":91269
     },
     "wof:country":"RO",
-    "wof:geomhash":"ecb5070694e270d412ba8e0af87cd260",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fb6fb345ba3d5b9c7db75e21ddb33c0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1226307365,
-    "wof:lastmodified":1566611695,
-    "wof:name":"Barastii Hategului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203809,
+    "wof:name":"B\u0103r\u0103\u015ftii Ha\u0163egului",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":480,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.94431,
-    45.57143,
-    22.94431,
-    45.57143
+    22.934508,
+    45.566942,
+    22.955389,
+    45.576866
 ],
-  "geometry": {"coordinates":[22.94431,45.57143],"type":"Point"}
+  "geometry": {"coordinates":[[[22.955389,45.574137],[22.953554,45.573337],[22.951652,45.572454],[22.951134,45.572965],[22.950701,45.573429],[22.950419,45.573702],[22.9489,45.572986],[22.9465,45.571883],[22.942881,45.570236],[22.943319,45.569823],[22.943357,45.569465],[22.943354,45.568422],[22.942175,45.568438],[22.942161,45.569034],[22.941577,45.569666],[22.941008,45.569392],[22.941269,45.569119],[22.940627,45.568743],[22.940277,45.569075],[22.939197,45.568413],[22.937841,45.567836],[22.936219,45.566942],[22.934989,45.567884],[22.934508,45.56827],[22.93653,45.569323],[22.938034,45.570084],[22.939168,45.570515],[22.939423,45.570633],[22.940018,45.571164],[22.9405,45.571551],[22.94059,45.573253],[22.94052,45.57337],[22.941667,45.573793],[22.942062,45.573465],[22.941947,45.573237],[22.943782,45.57201],[22.944556,45.572386],[22.946621,45.573352],[22.948608,45.57431],[22.951753,45.575832],[22.953793,45.576802],[22.953932,45.576866],[22.953747,45.57605],[22.953761,45.575896],[22.955215,45.574373],[22.955389,45.574137]]],"type":"Polygon"}
 }

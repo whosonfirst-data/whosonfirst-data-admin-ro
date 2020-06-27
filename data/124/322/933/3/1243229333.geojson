@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.36847,44.95029,23.36847,44.95029",
-    "geom:latitude":44.95029,
-    "geom:longitude":23.36847,
+    "geom:area":0.000025,
+    "geom:area_square_m":217422.263756,
+    "geom:bbox":"23.365894,44.94917,23.373555,44.961854",
+    "geom:latitude":44.955809,
+    "geom:longitude":23.369123,
     "gn:admin1_code":"19",
     "gn:admin2_code":"80123.0",
     "gn:asciiname":"Merfulesti",
@@ -24,13 +24,26 @@
     "gn:population":251,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.34847,44.93029,23.38847,44.97029",
+    "lbl:latitude":44.952129,
+    "lbl:longitude":23.367341,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.952129,
+    "mps:longitude":23.367341,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Merfule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Merfulesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673567
+        "gn:id":673567,
+        "ro-ancpi:id":80187
     },
     "wof:country":"RO",
-    "wof:geomhash":"e9c58d9075290aac8283c7c6a40b15bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"639546ee87d4b3c4f50e4c5115f2d137",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1243229333,
-    "wof:lastmodified":1566611478,
-    "wof:name":"Merfulesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203671,
+    "wof:name":"Merfule\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":251,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.36847,
-    44.95029,
-    23.36847,
-    44.95029
+    23.365894,
+    44.94917,
+    23.373555,
+    44.961854
 ],
-  "geometry": {"coordinates":[23.36847,44.95029],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.367407,44.949285],[23.366067,44.94917],[23.365894,44.949885],[23.365943,44.950832],[23.366248,44.952812],[23.366437,44.953545],[23.366705,44.953652],[23.367555,44.953894],[23.368506,44.955965],[23.370099,44.955717],[23.368672,44.953919],[23.368024,44.953242],[23.367992,44.953114],[23.368568,44.952979],[23.368542,44.952217],[23.368333,44.951075],[23.368244,44.950016],[23.368105,44.949455],[23.367407,44.949285]]],[[[23.370189,44.956765],[23.369398,44.956693],[23.36955,44.957259],[23.369649,44.957986],[23.369129,44.958107],[23.369253,44.958791],[23.36885,44.959426],[23.368893,44.960033],[23.369299,44.960568],[23.37012,44.961297],[23.372052,44.961854],[23.373555,44.959775],[23.370913,44.958781],[23.371153,44.958383],[23.371229,44.958273],[23.370658,44.958035],[23.370366,44.957305],[23.370189,44.956765]]]],"type":"MultiPolygon"}
 }

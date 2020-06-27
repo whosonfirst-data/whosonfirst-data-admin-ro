@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.64681,46.54866,23.64681,46.54866",
-    "geom:latitude":46.54866,
-    "geom:longitude":23.64681,
+    "geom:area":0.00004,
+    "geom:area_square_m":341289.486823,
+    "geom:bbox":"23.64075,46.543495,23.652733,46.551969",
+    "geom:latitude":46.547984,
+    "geom:longitude":23.644979,
     "gn:admin1_code":"13",
     "gn:admin2_code":"58918.0",
     "gn:asciiname":"Petrestii de Sus",
@@ -25,17 +25,30 @@
     "gn:population":119,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.62681,46.52866,23.66681,46.56866",
+    "lbl:latitude":46.547808,
+    "lbl:longitude":23.64457,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.547808,
+    "mps:longitude":23.64457,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Petre\u015ftii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Petrestii de Sus"
+    ],
     "name:und_x_variant":[
         "Petridu de Sus",
         "Petre\u015ftii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670983
+        "gn:id":670983,
+        "ro-ancpi:id":58972
     },
     "wof:country":"RO",
-    "wof:geomhash":"722e80078131d8134da9e0813048b835",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"94d447cad96bc0672ef843059876b817",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1293469205,
-    "wof:lastmodified":1566610058,
-    "wof:name":"Petrestii de Sus",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203412,
+    "wof:name":"Petre\u015ftii de Sus",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":119,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.64681,
-    46.54866,
-    23.64681,
-    46.54866
+    23.64075,
+    46.543495,
+    23.652733,
+    46.551969
 ],
-  "geometry": {"coordinates":[23.64681,46.54866],"type":"Point"}
+  "geometry": {"coordinates":[[[23.648129,46.548453],[23.6489,46.548182],[23.649756,46.548378],[23.651937,46.550615],[23.652733,46.550284],[23.652245,46.549729],[23.651697,46.549813],[23.649572,46.547829],[23.649529,46.547199],[23.650234,46.5467],[23.649526,46.546238],[23.649712,46.546061],[23.648869,46.545502],[23.647898,46.545896],[23.64696,46.546011],[23.646107,46.545857],[23.644788,46.545142],[23.643915,46.54509],[23.642065,46.543495],[23.640915,46.544097],[23.642527,46.545623],[23.642868,46.546284],[23.64252,46.54634],[23.641455,46.547766],[23.64185,46.548014],[23.641677,46.548232],[23.642175,46.548456],[23.642205,46.548986],[23.642428,46.549153],[23.641862,46.549255],[23.641946,46.54959],[23.64075,46.549789],[23.64116,46.550934],[23.641887,46.551969],[23.644509,46.551724],[23.644434,46.550592],[23.644655,46.550423],[23.646564,46.550023],[23.646835,46.549121],[23.646795,46.54856],[23.648129,46.548453]]],"type":"Polygon"}
 }

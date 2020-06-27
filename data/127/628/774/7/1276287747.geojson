@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.16437,44.78231,27.16437,44.78231",
-    "geom:latitude":44.78231,
-    "geom:longitude":27.16437,
+    "geom:area":0.000101,
+    "geom:area_square_m":887273.547457,
+    "geom:bbox":"27.157368,44.773695,27.170696,44.786727",
+    "geom:latitude":44.780928,
+    "geom:longitude":27.163853,
     "gn:admin1_code":"22",
     "gn:admin2_code":"94045.0",
     "gn:asciiname":"Tovarasia",
@@ -24,13 +24,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.14437,44.76231,27.18437,44.80231",
+    "lbl:latitude":44.78231,
+    "lbl:longitude":27.16437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Tov\u0103r\u0103\u015fia"
+    ],
+    "name:ron_x_variant":[
+        "Tovarasia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664688
+        "gn:id":664688,
+        "ro-ancpi:id":94072
     },
     "wof:country":"RO",
-    "wof:geomhash":"3eaf774232a9c2035596702b3e8de2ac",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1586b175eba8004bdd85dba058521d53",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +66,14 @@
         }
     ],
     "wof:id":1276287747,
-    "wof:lastmodified":1566610173,
-    "wof:name":"Tovarasia",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203674,
+    "wof:name":"Tov\u0103r\u0103\u015fia",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.16437,
-    44.78231,
-    27.16437,
-    44.78231
+    27.157368,
+    44.773695,
+    27.170696,
+    44.786727
 ],
-  "geometry": {"coordinates":[27.16437,44.78231],"type":"Point"}
+  "geometry": {"coordinates":[[[27.168333,44.778458],[27.167451,44.776167],[27.167026,44.776245],[27.166616,44.776324],[27.166468,44.776351],[27.166189,44.776404],[27.165813,44.776475],[27.165387,44.776556],[27.16493,44.776641],[27.164789,44.776667],[27.164557,44.776713],[27.164127,44.776793],[27.163987,44.776417],[27.163545,44.776494],[27.163343,44.775988],[27.162102,44.776191],[27.161668,44.775031],[27.159376,44.775441],[27.158729,44.773695],[27.158215,44.773775],[27.158803,44.775454],[27.158999,44.775438],[27.159126,44.775819],[27.159202,44.775812],[27.159493,44.776661],[27.157368,44.777071],[27.158286,44.779497],[27.159595,44.78291],[27.16059,44.785397],[27.161107,44.786727],[27.166771,44.785672],[27.170696,44.78489],[27.170099,44.783216],[27.169105,44.780579],[27.168333,44.778458]]],"type":"Polygon"}
 }

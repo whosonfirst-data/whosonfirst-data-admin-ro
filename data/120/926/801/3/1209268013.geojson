@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.42528,44.36125,25.42528,44.36125",
-    "geom:latitude":44.36125,
-    "geom:longitude":25.42528,
+    "geom:area":0.000095,
+    "geom:area_square_m":837201.849966,
+    "geom:bbox":"25.415049,44.352403,25.431198,44.36789",
+    "geom:latitude":44.361025,
+    "geom:longitude":25.422757,
     "gn:admin1_code":"35",
     "gn:admin2_code":"155136.0",
     "gn:asciiname":"Purani",
@@ -25,14 +25,18 @@
     "gn:population":801,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.40528,44.34125,25.44528,44.38125",
+    "lbl:latitude":44.36125,
+    "lbl:longitude":25.42528,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Purani"
+    ],
+    "name:eus_x_preferred":[
+        "Purani"
     ],
     "name:ita_x_preferred":[
         "Purani"
@@ -47,6 +51,9 @@
         "Purani"
     ],
     "name:ron_x_preferred":[
+        "Purani"
+    ],
+    "name:ron_x_variant":[
         "Comuna Purani"
     ],
     "name:srp_x_preferred":[
@@ -64,28 +71,46 @@
     "name:zho_x_preferred":[
         "\u666e\u62c9\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687585
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":669484,
+        "ro-ancpi:id":154255,
         "wk:page":"Purani"
     },
     "wof:country":"RO",
-    "wof:geomhash":"68c3470f752bced9a25f32eba08a662a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8b092f899352783e94399f1be88c9eb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209268013
+            "locality_id":1209268013,
+            "region_id":85687585
         }
     ],
     "wof:id":1209268013,
-    "wof:lastmodified":1566610389,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203346,
     "wof:name":"Purani",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":801,
     "wof:population_rank":2,
@@ -95,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.42528,
-    44.36125,
-    25.42528,
-    44.36125
+    25.415049,
+    44.352403,
+    25.431198,
+    44.36789
 ],
-  "geometry": {"coordinates":[25.42528,44.36125],"type":"Point"}
+  "geometry": {"coordinates":[[[25.422687,44.36789],[25.42364,44.367098],[25.424115,44.366505],[25.427109,44.361027],[25.427596,44.360605],[25.428216,44.360098],[25.429385,44.35875],[25.42843,44.358214],[25.427277,44.357628],[25.428771,44.356059],[25.429883,44.355074],[25.431198,44.353413],[25.430486,44.352994],[25.430697,44.352765],[25.429862,44.352403],[25.429291,44.352821],[25.427466,44.354622],[25.427176,44.355367],[25.425388,44.356985],[25.424398,44.357241],[25.424099,44.357538],[25.423621,44.358383],[25.424141,44.358649],[25.423676,44.35915],[25.421704,44.358394],[25.421428,44.358751],[25.42011,44.358296],[25.419625,44.359082],[25.418794,44.358981],[25.418626,44.358849],[25.418218,44.358699],[25.416439,44.35847],[25.416087,44.358431],[25.416197,44.358115],[25.41599,44.3581],[25.415886,44.358384],[25.415474,44.358353],[25.415108,44.358603],[25.415049,44.358875],[25.415251,44.35913],[25.415273,44.359837],[25.415209,44.360329],[25.415508,44.360848],[25.416273,44.361796],[25.416441,44.362631],[25.416855,44.36291],[25.417225,44.363224],[25.418139,44.363976],[25.41842,44.364279],[25.419106,44.365092],[25.419365,44.365475],[25.419613,44.3666],[25.420223,44.367246],[25.420761,44.367373],[25.421945,44.367725],[25.422139,44.367648],[25.422687,44.36789]]],"type":"Polygon"}
 }

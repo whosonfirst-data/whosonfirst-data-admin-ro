@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.86374,46.35867,22.86374,46.35867",
-    "geom:latitude":46.35867,
-    "geom:longitude":22.86374,
+    "geom:area":0.000018,
+    "geom:area_square_m":155578.989197,
+    "geom:bbox":"22.856679,46.355446,22.865925,46.358752",
+    "geom:latitude":46.356986,
+    "geom:longitude":22.861261,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Martesti",
@@ -24,13 +24,26 @@
     "gn:population":67,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.84374,46.33867,22.88374,46.37867",
+    "lbl:latitude":46.3571,
+    "lbl:longitude":22.861349,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.3571,
+    "mps:longitude":22.861349,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "M\u0103rte\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Martesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673743
+        "gn:id":673743,
+        "ro-ancpi:id":2782
     },
     "wof:country":"RO",
-    "wof:geomhash":"8fc6bb8923726cd61570d1526b38194f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ade1469162e61972346e4559fea38138",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1343363089,
-    "wof:lastmodified":1566609876,
-    "wof:name":"Martesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203749,
+    "wof:name":"M\u0103rte\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":67,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.86374,
-    46.35867,
-    22.86374,
-    46.35867
+    22.856679,
+    46.355446,
+    22.865925,
+    46.358752
 ],
-  "geometry": {"coordinates":[22.86374,46.35867],"type":"Point"}
+  "geometry": {"coordinates":[[[22.863061,46.358265],[22.863138,46.358142],[22.863518,46.357602],[22.865636,46.357641],[22.865925,46.356653],[22.864898,46.356286],[22.861204,46.355446],[22.85975,46.356128],[22.857614,46.35564],[22.856679,46.356132],[22.857129,46.356551],[22.857244,46.356839],[22.85743,46.357128],[22.857793,46.357495],[22.858178,46.357751],[22.85865,46.357881],[22.859147,46.357946],[22.859486,46.358004],[22.859733,46.358098],[22.859973,46.358244],[22.860407,46.358613],[22.860619,46.358704],[22.860869,46.358746],[22.861228,46.358752],[22.861925,46.358567],[22.863061,46.358265]]],"type":"Polygon"}
 }

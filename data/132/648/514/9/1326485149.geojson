@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.5,44.80833,22.5,44.80833",
-    "geom:latitude":44.80833,
-    "geom:longitude":22.5,
+    "geom:area":0.000057,
+    "geom:area_square_m":499078.413122,
+    "geom:bbox":"22.495501,44.803584,22.508107,44.812153",
+    "geom:latitude":44.80787,
+    "geom:longitude":22.501206,
     "gn:admin1_code":"26",
     "gn:admin2_code":"112334.0",
     "gn:asciiname":"Moisesti",
@@ -24,17 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.48,44.78833,22.52,44.82833",
+    "lbl:latitude":44.80833,
+    "lbl:longitude":22.5,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Moise\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Moisesti"
+    ],
     "name:und_x_variant":[
         "Moj\u0161esti",
         "Moise\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672919
+        "gn:id":672919,
+        "ro-ancpi:id":112361
     },
     "wof:country":"RO",
-    "wof:geomhash":"a383f269ebec4e90439665179049ac76",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13dcbe6cec3712b63cde6ac1d36520ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1326485149,
-    "wof:lastmodified":1566609840,
-    "wof:name":"Moisesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203334,
+    "wof:name":"Moise\u015fti",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.5,
-    44.80833,
-    22.5,
-    44.80833
+    22.495501,
+    44.803584,
+    22.508107,
+    44.812153
 ],
-  "geometry": {"coordinates":[22.5,44.80833],"type":"Point"}
+  "geometry": {"coordinates":[[[22.497399,44.811297],[22.498106,44.811142],[22.499063,44.811192],[22.499983,44.811273],[22.502205,44.811376],[22.505159,44.810523],[22.506458,44.80983],[22.506999,44.808859],[22.508107,44.807507],[22.507451,44.807292],[22.506599,44.808366],[22.505002,44.808294],[22.503677,44.807883],[22.502852,44.807446],[22.502388,44.806635],[22.503026,44.806084],[22.503641,44.80608],[22.504561,44.805509],[22.505245,44.805078],[22.506701,44.804543],[22.506267,44.803951],[22.505728,44.803984],[22.505097,44.80438],[22.504839,44.804128],[22.504085,44.803821],[22.503152,44.8038],[22.502954,44.804196],[22.502274,44.804545],[22.501166,44.804138],[22.499948,44.803584],[22.499164,44.80409],[22.498346,44.803827],[22.497976,44.804401],[22.497709,44.805275],[22.497288,44.805617],[22.4972,44.806241],[22.497547,44.806548],[22.497444,44.807058],[22.497267,44.807908],[22.497415,44.808651],[22.496833,44.810061],[22.496634,44.810953],[22.49598,44.810839],[22.495501,44.811725],[22.496822,44.812153],[22.497399,44.811297]]],"type":"Polygon"}
 }

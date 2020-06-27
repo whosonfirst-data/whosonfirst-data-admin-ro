@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.52297,45.00664,23.52297,45.00664",
-    "geom:latitude":45.00664,
-    "geom:longitude":23.52297,
+    "geom:area":0.000019,
+    "geom:area_square_m":166195.475465,
+    "geom:bbox":"23.517966,45.002995,23.526437,45.009207",
+    "geom:latitude":45.005662,
+    "geom:longitude":23.521824,
     "gn:admin1_code":"19",
     "gn:admin2_code":"78329",
     "gn:asciiname":"Blahnita de Jos",
@@ -25,17 +25,30 @@
     "gn:population":112,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.50297,44.98664,23.54297,45.02664",
+    "lbl:latitude":45.005568,
+    "lbl:longitude":23.521182,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.005568,
+    "mps:longitude":23.521182,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Blahni\u0163a de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Blahnita de Jos"
+    ],
     "name:und_x_variant":[
         "Purceleni",
         "Blahni\u0163a de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684614
+        "gn:id":684614,
+        "ro-ancpi:id":78347
     },
     "wof:country":"RO",
-    "wof:geomhash":"2326180f7a9b5c576f3b58cd542bf125",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3ec5c2b1c4df59d904bf043a0d1047aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1276190643,
-    "wof:lastmodified":1566610175,
-    "wof:name":"Blahnita de Jos",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203662,
+    "wof:name":"Blahni\u0163a de Jos",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":112,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.52297,
-    45.00664,
-    23.52297,
-    45.00664
+    23.517966,
+    45.002995,
+    23.526437,
+    45.009207
 ],
-  "geometry": {"coordinates":[23.52297,45.00664],"type":"Point"}
+  "geometry": {"coordinates":[[[23.522586,45.007165],[23.522232,45.006119],[23.522154,45.00589],[23.524342,45.005575],[23.524787,45.005601],[23.526437,45.005008],[23.525802,45.004338],[23.52543,45.003779],[23.5246,45.004145],[23.524197,45.004227],[23.522238,45.004487],[23.521628,45.004569],[23.521304,45.004084],[23.520831,45.003708],[23.519513,45.002995],[23.518673,45.003324],[23.518894,45.003493],[23.517966,45.003825],[23.519612,45.004696],[23.519833,45.004911],[23.518974,45.00489],[23.519166,45.005861],[23.519143,45.006032],[23.519157,45.006136],[23.519229,45.006234],[23.520188,45.006137],[23.52036,45.006245],[23.52046,45.006405],[23.520478,45.006614],[23.520673,45.007135],[23.521115,45.008475],[23.521346,45.009207],[23.523192,45.008966],[23.522586,45.007165]]],"type":"Polygon"}
 }

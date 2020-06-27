@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.52228,45.98042,21.52228,45.98042",
-    "geom:latitude":45.98042,
-    "geom:longitude":21.52228,
+    "geom:area":0.000042,
+    "geom:area_square_m":360549.480785,
+    "geom:bbox":"21.51538,45.975707,21.527271,45.982516",
+    "geom:latitude":45.979189,
+    "geom:longitude":21.520203,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156035.0",
     "gn:asciiname":"Charlotenburg",
@@ -25,12 +25,16 @@
     "gn:population":135,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.50228,45.96042,21.54228,46.00042",
+    "lbl:latitude":45.98042,
+    "lbl:longitude":21.52228,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Charlotenburg"
+    ],
     "name:und_x_variant":[
         "\u015earlotenburg",
         "Baricza",
@@ -39,7 +43,11 @@
         "\u015earlota",
         "Charlotenburg"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682234
+        "gn:id":682234,
+        "ro-ancpi:id":156071
     },
     "wof:country":"RO",
-    "wof:geomhash":"2c2457209ffd611cb73032bb4b09da45",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb09c2608e787a49038d4ee7d5bfa5d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +73,13 @@
         }
     ],
     "wof:id":1343414067,
-    "wof:lastmodified":1566609914,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203736,
     "wof:name":"Charlotenburg",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -73,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.52228,
-    45.98042,
-    21.52228,
-    45.98042
+    21.51538,
+    45.975707,
+    21.527271,
+    45.982516
 ],
-  "geometry": {"coordinates":[21.52228,45.98042],"type":"Point"}
+  "geometry": {"coordinates":[[[21.521149,45.981987],[21.521239,45.981519],[21.524905,45.981678],[21.524817,45.982473],[21.526017,45.982516],[21.526117,45.981539],[21.527156,45.981523],[21.527271,45.980793],[21.524505,45.980763],[21.5244,45.979933],[21.522709,45.979821],[21.52267,45.979057],[21.522466,45.97755],[21.52181,45.976654],[21.521855,45.97599],[21.521213,45.975707],[21.521012,45.975971],[21.520295,45.975882],[21.519693,45.975816],[21.518417,45.975912],[21.517517,45.976182],[21.51636,45.976609],[21.515851,45.977355],[21.51538,45.978268],[21.515447,45.979009],[21.515779,45.979589],[21.516157,45.979904],[21.516886,45.980222],[21.517547,45.980547],[21.518129,45.980955],[21.518898,45.98246],[21.519889,45.982452],[21.519926,45.982004],[21.521149,45.981987]]],"type":"Polygon"}
 }

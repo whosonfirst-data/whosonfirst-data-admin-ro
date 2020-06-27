@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.29422,45.10392,27.29422,45.10392",
-    "geom:latitude":45.10392,
-    "geom:longitude":27.29422,
+    "geom:area":0.000069,
+    "geom:area_square_m":605635.287625,
+    "geom:bbox":"27.283137,45.098072,27.296438,45.108286",
+    "geom:latitude":45.103564,
+    "geom:longitude":27.2908,
     "gn:admin1_code":"08",
     "gn:admin2_code":"42771.0",
     "gn:asciiname":"Horia",
@@ -24,11 +24,12 @@
     "gn:population":415,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.27422,45.08392,27.31422,45.12392",
+    "lbl:latitude":45.10392,
+    "lbl:longitude":27.29422,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Horia"
@@ -37,6 +38,9 @@
         "Horia"
     ],
     "name:epo_x_preferred":[
+        "Horia"
+    ],
+    "name:eus_x_preferred":[
         "Horia"
     ],
     "name:fra_x_preferred":[
@@ -63,27 +67,45 @@
     "name:vol_x_preferred":[
         "Horia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687663
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676011
+        "gn:id":676011,
+        "ro-ancpi:id":42815
     },
     "wof:country":"RO",
-    "wof:geomhash":"f087295ee4c1d6a379930b3979265b95",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6dbd9b027b2fee554db6fb65d50f5c63",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209026537
+            "locality_id":1209026537,
+            "region_id":85687663
         }
     ],
     "wof:id":1209026537,
-    "wof:lastmodified":1566610368,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203772,
     "wof:name":"Horia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":415,
     "wof:population_rank":2,
@@ -93,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.29422000000001,
-    45.10392,
-    27.29422000000001,
-    45.10392
+    27.283137,
+    45.098072,
+    27.296438,
+    45.108286
 ],
-  "geometry": {"coordinates":[27.29422000000001,45.10392],"type":"Point"}
+  "geometry": {"coordinates":[[[27.285208,45.108286],[27.285416,45.107687],[27.2876,45.107791],[27.288247,45.106275],[27.290174,45.105782],[27.290358,45.105966],[27.291744,45.106048],[27.29226,45.106217],[27.292795,45.106387],[27.293903,45.106435],[27.296383,45.106478],[27.296371,45.105915],[27.296438,45.104817],[27.295695,45.104778],[27.295826,45.103373],[27.296128,45.099894],[27.296116,45.099315],[27.292731,45.099321],[27.292811,45.098084],[27.292213,45.098072],[27.291585,45.098391],[27.290756,45.098697],[27.290661,45.099349],[27.289832,45.09935],[27.289017,45.099445],[27.289162,45.100295],[27.289667,45.100768],[27.289712,45.101049],[27.289716,45.101158],[27.289729,45.101221],[27.289769,45.101255],[27.289824,45.101281],[27.289874,45.101311],[27.289898,45.101365],[27.2899,45.101415],[27.289902,45.101457],[27.289968,45.10146],[27.290017,45.101466],[27.289767,45.10242],[27.289636,45.102415],[27.289579,45.102763],[27.288675,45.10277],[27.288626,45.103041],[27.287782,45.103064],[27.285688,45.103661],[27.283921,45.105264],[27.283137,45.10767],[27.285208,45.108286]]],"type":"Polygon"}
 }

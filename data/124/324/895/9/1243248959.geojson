@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.61674,45.34486,27.61674,45.34486",
-    "geom:latitude":45.34486,
-    "geom:longitude":27.61674,
+    "geom:area":0.000046,
+    "geom:area_square_m":400464.325701,
+    "geom:bbox":"27.602738,45.337531,27.613885,45.347977",
+    "geom:latitude":45.343221,
+    "geom:longitude":27.608862,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43929.0",
     "gn:asciiname":"Pitulati",
@@ -25,17 +25,30 @@
     "gn:population":406,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.59674,45.32486,27.63674,45.36486",
+    "lbl:latitude":45.34295,
+    "lbl:longitude":27.608024,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.34295,
+    "mps:longitude":27.608024,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pitula\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Pitulati"
+    ],
     "name:und_x_variant":[
         "Pitula\u0163ii-Vechi",
         "Pitula\u0163i"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670597
+        "gn:id":670597,
+        "ro-ancpi:id":43974
     },
     "wof:country":"RO",
-    "wof:geomhash":"4073c7abcb81f96778933bb379fcdb23",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"67f58c4273aea43ee4facb7b257369e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1243248959,
-    "wof:lastmodified":1566611465,
-    "wof:name":"Pitulati",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203775,
+    "wof:name":"Pitula\u0163i",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":406,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.61674,
-    45.34486,
-    27.61674,
-    45.34486
+    27.602738,
+    45.337531,
+    27.613885,
+    45.347977
 ],
-  "geometry": {"coordinates":[27.61674,45.34486],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.613409,45.347951],[27.613794,45.347486],[27.613264,45.347284],[27.613885,45.346447],[27.612913,45.346005],[27.613394,45.345422],[27.61356,45.345475],[27.613873,45.344953],[27.613569,45.34382],[27.613421,45.34374],[27.61357,45.343519],[27.612895,45.343185],[27.612484,45.342884],[27.611668,45.342511],[27.611453,45.342684],[27.610946,45.342461],[27.610803,45.342583],[27.609931,45.342158],[27.610067,45.342015],[27.610028,45.341681],[27.608166,45.340868],[27.605553,45.339634],[27.60548,45.339602],[27.604077,45.341177],[27.604677,45.341465],[27.604483,45.341721],[27.604386,45.341684],[27.604094,45.342065],[27.603504,45.341811],[27.602738,45.342619],[27.603799,45.343109],[27.603133,45.343795],[27.604033,45.344216],[27.604636,45.343543],[27.605837,45.344119],[27.60748,45.344842],[27.6111,45.346556],[27.610497,45.347231],[27.612256,45.347977],[27.612558,45.347649],[27.613409,45.347951]]],[[[27.610487,45.338414],[27.608251,45.337531],[27.607616,45.338285],[27.607756,45.338374],[27.607419,45.338926],[27.609319,45.339774],[27.610487,45.338414]]]],"type":"MultiPolygon"}
 }

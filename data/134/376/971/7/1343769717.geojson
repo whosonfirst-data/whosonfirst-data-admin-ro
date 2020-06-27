@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.7057,45.0386,24.7057,45.0386",
-    "geom:latitude":45.0386,
-    "geom:longitude":24.7057,
+    "geom:area":0.000005,
+    "geom:area_square_m":47337.495277,
+    "geom:bbox":"24.704038,45.046041,24.706853,45.048964",
+    "geom:latitude":45.047376,
+    "geom:longitude":24.70534,
     "gn:admin1_code":"03",
     "gn:admin2_code":"14165.0",
     "gn:asciiname":"Stejari",
@@ -25,14 +25,20 @@
     "gn:population":190,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.6857,45.0186,24.7257,45.0586",
+    "lbl:latitude":45.047416,
+    "lbl:longitude":24.705313,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.047416,
+    "mps:longitude":24.705313,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Stejari"
+    ],
+    "name:eus_x_preferred":[
+        "Stejari"
     ],
     "name:ita_x_preferred":[
         "Stejari"
@@ -47,6 +53,9 @@
         "Stejari"
     ],
     "name:ron_x_preferred":[
+        "Stejari"
+    ],
+    "name:ron_x_variant":[
         "Comuna Stejari"
     ],
     "name:srp_x_preferred":[
@@ -67,7 +76,11 @@
     "name:zho_x_preferred":[
         "\u65af\u6cf0\u624e\u91cc\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -76,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666197
+        "gn:id":666197,
+        "ro-ancpi:id":14227
     },
     "wof:country":"RO",
-    "wof:geomhash":"0f292ff0f7d28058d7f5f916a445c0e7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b83d9d1fb206c8bf4f5230f5a55e23f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +106,13 @@
         }
     ],
     "wof:id":1343769717,
-    "wof:lastmodified":1566609925,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203632,
     "wof:name":"Stejari",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -101,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.7057,
-    45.0386,
-    24.7057,
-    45.0386
+    24.704038,
+    45.046041,
+    24.706853,
+    45.048964
 ],
-  "geometry": {"coordinates":[24.7057,45.0386],"type":"Point"}
+  "geometry": {"coordinates":[[[24.705556,45.048331],[24.705575,45.048293],[24.705749,45.048326],[24.70587,45.048342],[24.706026,45.04816],[24.706091,45.048002],[24.706383,45.047861],[24.706512,45.047781],[24.706513,45.04762],[24.706555,45.047526],[24.706593,45.047483],[24.706389,45.047394],[24.706249,45.047354],[24.706163,45.047332],[24.70628,45.047193],[24.706684,45.046722],[24.706803,45.046403],[24.706837,45.046283],[24.706853,45.046173],[24.706581,45.046124],[24.70578,45.046066],[24.705405,45.046041],[24.704948,45.046069],[24.704664,45.046098],[24.704273,45.047604],[24.704038,45.048818],[24.705254,45.048964],[24.705312,45.048788],[24.705361,45.048665],[24.705438,45.048526],[24.705556,45.048331]]],"type":"Polygon"}
 }

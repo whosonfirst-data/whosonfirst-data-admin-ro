@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.37933,44.89057,24.37933,44.89057",
-    "geom:latitude":44.89057,
-    "geom:longitude":24.37933,
+    "geom:area":0.000033,
+    "geom:area_square_m":290769.855338,
+    "geom:bbox":"24.36927,44.886725,24.385358,44.895583",
+    "geom:latitude":44.890259,
+    "geom:longitude":24.377907,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173374.0",
     "gn:asciiname":"Delureni",
@@ -25,11 +25,12 @@
     "gn:population":150,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.35933,44.87057,24.39933,44.91057",
+    "lbl:latitude":44.89057,
+    "lbl:longitude":24.37933,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Delureni"
@@ -49,27 +50,45 @@
     "name:und_x_variant":[
         "Delurenii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679489
+        "gn:id":679489,
+        "ro-ancpi:id":173427
     },
     "wof:country":"RO",
-    "wof:geomhash":"407eed4d63dfe1defec28f4cb698d12c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"337a2e99f7be5af25df1096c7f6e0340",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209042609
+            "locality_id":1209042609,
+            "region_id":85687643
         }
     ],
     "wof:id":1209042609,
-    "wof:lastmodified":1566610354,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
     "wof:name":"Delureni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":150,
     "wof:population_rank":1,
@@ -79,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.37933,
-    44.89057,
-    24.37933,
-    44.89057
+    24.36927,
+    44.886725,
+    24.385358,
+    44.895583
 ],
-  "geometry": {"coordinates":[24.37933,44.89057],"type":"Point"}
+  "geometry": {"coordinates":[[[24.379457,44.890444],[24.382257,44.887614],[24.381478,44.886987],[24.377509,44.889857],[24.374788,44.888591],[24.375984,44.887963],[24.374709,44.887019],[24.3742,44.887499],[24.369627,44.886725],[24.36927,44.888111],[24.372333,44.888603],[24.374809,44.889737],[24.374495,44.890246],[24.378568,44.89174],[24.380892,44.892593],[24.383435,44.895583],[24.385358,44.894788],[24.383085,44.892489],[24.379457,44.890444]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.2924,45.06531,27.2924,45.06531",
-    "geom:latitude":45.06531,
-    "geom:longitude":27.2924,
+    "geom:area":0.000035,
+    "geom:area_square_m":304245.138131,
+    "geom:bbox":"27.286387,45.061736,27.295527,45.067923",
+    "geom:latitude":45.064429,
+    "geom:longitude":27.29101,
     "gn:admin1_code":"08",
     "gn:admin2_code":"42771",
     "gn:asciiname":"Bratesu Vechi",
@@ -25,39 +25,64 @@
     "gn:population":147,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.2724,45.04531,27.3124,45.08531",
+    "lbl:latitude":45.06531,
+    "lbl:longitude":27.2924,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Brate\u015fu Vechi"
+    ],
+    "name:ron_x_variant":[
+        "Bratesu Vechi"
+    ],
     "name:und_x_variant":[
         "Brate\u015ful-Vechi",
         "Brate\u015ful-Vechiu",
         "Brate\u015fu",
         "Brate\u015fu Vechi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687663
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683810
+        "gn:id":683810,
+        "ro-ancpi:id":42799
     },
     "wof:country":"RO",
-    "wof:geomhash":"543179c9d482fe88eb7873bacf91e40f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5a982b17919dfd9b14b540795dc69f0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209600807
+            "locality_id":1209600807,
+            "region_id":85687663
         }
     ],
     "wof:id":1209600807,
-    "wof:lastmodified":1566610360,
-    "wof:name":"Bratesu Vechi",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203772,
+    "wof:name":"Brate\u015fu Vechi",
+    "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":147,
     "wof:population_rank":1,
@@ -67,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.2924,
-    45.06531,
-    27.2924,
-    45.06531
+    27.286387,
+    45.061736,
+    27.295527,
+    45.067923
 ],
-  "geometry": {"coordinates":[27.2924,45.06531],"type":"Point"}
+  "geometry": {"coordinates":[[[27.291658,45.062382],[27.29152,45.06187],[27.290508,45.061886],[27.290498,45.061789],[27.289779,45.061827],[27.289723,45.061736],[27.289143,45.061853],[27.287164,45.061875],[27.287361,45.062409],[27.286387,45.062411],[27.287136,45.063605],[27.287966,45.064989],[27.28893,45.066743],[27.289565,45.067923],[27.289977,45.067812],[27.289888,45.067643],[27.29117,45.067255],[27.293331,45.066548],[27.294236,45.066203],[27.294361,45.066076],[27.295527,45.065689],[27.295137,45.064864],[27.295258,45.06482],[27.295011,45.064177],[27.294531,45.063363],[27.294001,45.062344],[27.291658,45.062382]]],"type":"Polygon"}
 }

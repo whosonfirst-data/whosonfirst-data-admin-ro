@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.12022,46.40256,23.12022,46.40256",
-    "geom:latitude":46.40256,
-    "geom:longitude":23.12022,
+    "geom:area":0.000004,
+    "geom:area_square_m":36307.764876,
+    "geom:bbox":"23.123978,46.402656,23.127429,46.404746",
+    "geom:latitude":46.403583,
+    "geom:longitude":23.125572,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3039.0",
     "gn:asciiname":"Taranesti",
@@ -24,13 +24,26 @@
     "gn:population":50,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.10022,46.38256,23.14022,46.42256",
+    "lbl:latitude":46.403475,
+    "lbl:longitude":23.125572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.403475,
+    "mps:longitude":23.125572,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u0162\u0103r\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Taranesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665528
+        "gn:id":665528,
+        "ro-ancpi:id":3351
     },
     "wof:country":"RO",
-    "wof:geomhash":"744a385075c108500d74d4f277e54967",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4bfb3e5fbd1a595135c35b7e203122dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1209833299,
-    "wof:lastmodified":1566610314,
-    "wof:name":"Taranesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203755,
+    "wof:name":"\u0162\u0103r\u0103ne\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":50,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.12022,
-    46.40256,
-    23.12022,
-    46.40256
+    23.123978,
+    46.402656,
+    23.127429,
+    46.404746
 ],
-  "geometry": {"coordinates":[23.12022,46.40256],"type":"Point"}
+  "geometry": {"coordinates":[[[23.123978,46.404746],[23.125464,46.404292],[23.127062,46.403852],[23.127429,46.402984],[23.12565,46.402656],[23.124255,46.40322],[23.123978,46.404746]]],"type":"Polygon"}
 }

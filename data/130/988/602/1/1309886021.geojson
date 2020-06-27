@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.54662,45.03022,22.54662,45.03022",
-    "geom:latitude":45.03022,
-    "geom:longitude":22.54662,
+    "geom:area":0.000011,
+    "geom:area_square_m":93768.836971,
+    "geom:bbox":"22.545598,45.029159,22.551836,45.032353",
+    "geom:latitude":45.030789,
+    "geom:longitude":22.548292,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Scarisoara",
@@ -24,13 +24,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.52662,45.01022,22.56662,45.05022",
+    "lbl:latitude":45.03022,
+    "lbl:longitude":22.54662,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Sc\u0103ri\u015foara"
+    ],
+    "name:ron_x_variant":[
+        "Scarisoara"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667725
+        "gn:id":667725,
+        "ro-ancpi:id":52464
     },
     "wof:country":"RO",
-    "wof:geomhash":"9bdb002e39564129ee9b1ae5bfcee4af",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"deabde065be77b12b4948383b70d1d15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +66,14 @@
         }
     ],
     "wof:id":1309886021,
-    "wof:lastmodified":1566611263,
-    "wof:name":"Scarisoara",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203623,
+    "wof:name":"Sc\u0103ri\u015foara",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.54662,
-    45.03022,
-    22.54662,
-    45.03022
+    22.545598,
+    45.029159,
+    22.551836,
+    45.032353
 ],
-  "geometry": {"coordinates":[22.54662,45.03022],"type":"Point"}
+  "geometry": {"coordinates":[[[22.551836,45.03151],[22.550107,45.030305],[22.548585,45.029159],[22.547257,45.029742],[22.546418,45.029345],[22.545758,45.030537],[22.545598,45.031662],[22.547839,45.032121],[22.54914,45.031003],[22.55136,45.032353],[22.551836,45.03151]]],"type":"Polygon"}
 }

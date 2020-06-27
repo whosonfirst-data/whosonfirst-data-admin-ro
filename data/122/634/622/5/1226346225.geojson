@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.90936,46.34626,22.90936,46.34626",
-    "geom:latitude":46.34626,
-    "geom:longitude":22.90936,
+    "geom:area":0.000016,
+    "geom:area_square_m":138899.771324,
+    "geom:bbox":"22.904975,46.345871,22.912526,46.349599",
+    "geom:latitude":46.347729,
+    "geom:longitude":22.908856,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Poieni",
@@ -24,13 +24,21 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.88936,46.32626,22.92936,46.36626",
+    "lbl:latitude":46.34626,
+    "lbl:longitude":22.90936,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Poieni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +46,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670003
+        "gn:id":670003,
+        "ro-ancpi:id":8719
     },
     "wof:country":"RO",
-    "wof:geomhash":"c0236d43b776aa08d7552b930377cbaf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"066392009a7b4693676cf7d0f52a736e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,20 +63,28 @@
         }
     ],
     "wof:id":1226346225,
-    "wof:lastmodified":1566611634,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203769,
     "wof:name":"Poieni",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310515691
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    22.90936,
-    46.34626,
-    22.90936,
-    46.34626
+    22.904975,
+    46.345871,
+    22.912526,
+    46.349599
 ],
-  "geometry": {"coordinates":[22.90936,46.34626],"type":"Point"}
+  "geometry": {"coordinates":[[[22.912385,46.349547],[22.912526,46.348948],[22.912292,46.348534],[22.911808,46.348116],[22.911202,46.347777],[22.91079,46.347205],[22.911468,46.346662],[22.910061,46.345871],[22.908185,46.346502],[22.906478,46.346753],[22.906335,46.346368],[22.904975,46.346498],[22.904983,46.348],[22.905709,46.34795],[22.905812,46.348698],[22.908974,46.348246],[22.908864,46.349064],[22.909875,46.349109],[22.910278,46.349599],[22.912385,46.349547]]],"type":"Polygon"}
 }

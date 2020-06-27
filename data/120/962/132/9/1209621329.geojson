@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.11484,46.65492,27.11484,46.65492",
-    "geom:latitude":46.65492,
-    "geom:longitude":27.11484,
+    "geom:area":0.000015,
+    "geom:area_square_m":129203.594122,
+    "geom:bbox":"27.108038,46.650898,27.114544,46.656188",
+    "geom:latitude":46.654002,
+    "geom:longitude":27.111638,
     "gn:admin1_code":"04",
     "gn:admin2_code":"26353",
     "gn:asciiname":"Balusa",
@@ -25,37 +25,64 @@
     "gn:population":79,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.09484,46.63492,27.13484,46.67492",
+    "lbl:latitude":46.654582,
+    "lbl:longitude":27.11186,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.654582,
+    "mps:longitude":27.11186,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "B\u0103lu\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Balusa"
+    ],
     "name:und_x_variant":[
         "Balu\u015f",
         "B\u0103lu\u015fa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687715
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685507
+        "gn:id":685507,
+        "ro-ancpi:id":25380
     },
     "wof:country":"RO",
-    "wof:geomhash":"37530f720d1a766b8f0f4ad0b9c095cd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5cec675a61d69bf7c26362ab925fd752",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209621329
+            "locality_id":1209621329,
+            "region_id":85687715
         }
     ],
     "wof:id":1209621329,
-    "wof:lastmodified":1566610291,
-    "wof:name":"Balusa",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203542,
+    "wof:name":"B\u0103lu\u015fa",
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":79,
     "wof:population_rank":1,
@@ -65,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.11484,
-    46.65492,
-    27.11484,
-    46.65492
+    27.108038,
+    46.650898,
+    27.114544,
+    46.656188
 ],
-  "geometry": {"coordinates":[27.11484,46.65492],"type":"Point"}
+  "geometry": {"coordinates":[[[27.113385,46.655372],[27.113383,46.654859],[27.113381,46.654238],[27.114025,46.654356],[27.114544,46.653598],[27.114425,46.653286],[27.114395,46.652795],[27.11435,46.652572],[27.114388,46.652284],[27.114429,46.652188],[27.113776,46.652251],[27.113189,46.650898],[27.112376,46.651075],[27.112825,46.652082],[27.11302,46.652662],[27.112857,46.652918],[27.112759,46.653153],[27.112715,46.65336],[27.111261,46.653319],[27.109594,46.653138],[27.108733,46.653004],[27.108038,46.654413],[27.108666,46.65458],[27.10872,46.654712],[27.10855,46.654989],[27.108446,46.655234],[27.109147,46.65544],[27.109483,46.655152],[27.109718,46.655084],[27.11008,46.655093],[27.110639,46.655372],[27.111443,46.655721],[27.113244,46.656188],[27.113385,46.655372]]],"type":"Polygon"}
 }

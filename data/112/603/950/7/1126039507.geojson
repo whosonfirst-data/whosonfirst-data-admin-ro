@@ -4,26 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38333,44.66667,24.38333,44.66667",
-    "geom:latitude":44.66667,
-    "geom:longitude":24.38333,
+    "geom:area":0.000186,
+    "geom:area_square_m":1632204.544515,
+    "geom:bbox":"24.372735,44.658606,24.385676,44.687415",
+    "geom:latitude":44.672274,
+    "geom:longitude":24.379102,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2542,
     "iso:country":"RO",
-    "lbl:bbox":"24.36333,44.64667,24.40333,44.68667",
-    "lbl:latitude":44.66667,
-    "lbl:longitude":24.38333,
+    "lbl:latitude":44.670938,
+    "lbl:longitude":24.379004,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":44.670938,
+    "mps:longitude":24.379004,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Comuna Cungrea"
+    ],
+    "name:eus_x_preferred":[
+        "Cungrea"
     ],
     "name:fra_x_preferred":[
         "Cungrea"
@@ -41,6 +45,9 @@
         "Cungrea"
     ],
     "name:ron_x_preferred":[
+        "Cungrea"
+    ],
+    "name:ron_x_variant":[
         "Comuna Cungrea"
     ],
     "name:srp_x_preferred":[
@@ -76,8 +83,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":870866,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -92,11 +102,15 @@
     "wof:concordances":{
         "gn:id":679959,
         "gp:id":870866,
-        "qs_pg:id":262300
+        "qs_pg:id":262300,
+        "ro-ancpi:id":126512
     },
     "wof:country":"RO",
     "wof:created":1497302044,
-    "wof:geomhash":"94e08f874c9c230721b9a71eae0191a9",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"6ee973b7e37ae63f715f66c7b3239921",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,7 +120,13 @@
         }
     ],
     "wof:id":1126039507,
-    "wof:lastmodified":1566611296,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203706,
     "wof:name":"Cungrea",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -118,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38333,
-    44.66667,
-    24.38333,
-    44.66667
+    24.372735,
+    44.658606,
+    24.385676,
+    44.687415
 ],
-  "geometry": {"coordinates":[24.38333,44.66667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.382663,44.687086],[24.381119,44.68639],[24.381179,44.685767],[24.381743,44.684753],[24.380871,44.6842],[24.379745,44.681455],[24.380106,44.680069],[24.380793,44.677028],[24.381738,44.674086],[24.381872,44.672866],[24.382127,44.672321],[24.383091,44.670634],[24.382054,44.669222],[24.382354,44.667863],[24.382686,44.666821],[24.384894,44.663925],[24.385676,44.659172],[24.379329,44.658606],[24.379223,44.660182],[24.375548,44.665035],[24.375349,44.672229],[24.375025,44.674145],[24.375985,44.674392],[24.375836,44.676642],[24.37502,44.677788],[24.374646,44.679414],[24.372775,44.679226],[24.372735,44.679633],[24.373483,44.679726],[24.373549,44.680286],[24.374612,44.68089],[24.374606,44.68145],[24.374374,44.682704],[24.375505,44.682925],[24.374804,44.683743],[24.37477,44.68404],[24.374603,44.684283],[24.374166,44.684889],[24.373999,44.685208],[24.373975,44.685613],[24.374266,44.685633],[24.374327,44.68584],[24.37643,44.685884],[24.376535,44.686351],[24.376716,44.686554],[24.377017,44.68684],[24.377645,44.687415],[24.379787,44.687212],[24.382663,44.687086]]],"type":"Polygon"}
 }

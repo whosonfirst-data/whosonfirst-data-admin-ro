@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.97674,46.79552,27.97674,46.79552",
-    "geom:latitude":46.79552,
-    "geom:longitude":27.97674,
+    "geom:area":0.000046,
+    "geom:area_square_m":389768.811745,
+    "geom:bbox":"27.967548,46.789834,27.979717,46.799678",
+    "geom:latitude":46.794706,
+    "geom:longitude":27.974975,
     "gn:admin1_code":"38",
     "gn:admin2_code":"162924.0",
     "gn:asciiname":"Rosiori",
@@ -24,33 +24,58 @@
     "gn:population":224,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.95674,46.77552,27.99674,46.81552",
+    "lbl:latitude":46.79552,
+    "lbl:longitude":27.97674,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ro\u015fiori"
+    ],
+    "name:ron_x_variant":[
+        "Rosiori"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687743
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668617
+        "gn:id":668617,
+        "ro-ancpi:id":162988
     },
     "wof:country":"RO",
-    "wof:geomhash":"9d278a0d24bd65269ec009eb1f07b892",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"af942fc9123b88c6bc32c7f8504e2e4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209457767
+            "locality_id":1209457767,
+            "region_id":85687743
         }
     ],
     "wof:id":1209457767,
-    "wof:lastmodified":1566610386,
-    "wof:name":"Rosiori",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203468,
+    "wof:name":"Ro\u015fiori",
+    "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":224,
     "wof:population_rank":2,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.97674,
-    46.79552,
-    27.97674,
-    46.79552
+    27.967548,
+    46.789834,
+    27.979717,
+    46.799678
 ],
-  "geometry": {"coordinates":[27.97674,46.79552],"type":"Point"}
+  "geometry": {"coordinates":[[[27.97798,46.797643],[27.978378,46.796493],[27.979349,46.795787],[27.979717,46.793955],[27.978293,46.791825],[27.977021,46.79193],[27.976914,46.79212],[27.975479,46.791996],[27.975458,46.791724],[27.973946,46.791866],[27.973983,46.792433],[27.973223,46.792471],[27.973912,46.793518],[27.974867,46.793682],[27.976362,46.79532],[27.976223,46.796171],[27.975936,46.796763],[27.975811,46.79585],[27.975544,46.795299],[27.974002,46.794105],[27.973239,46.793319],[27.972178,46.791474],[27.97211,46.789834],[27.970918,46.78987],[27.970473,46.790743],[27.970462,46.791934],[27.970753,46.792174],[27.967582,46.792313],[27.967548,46.793213],[27.971624,46.793099],[27.971923,46.793864],[27.972892,46.795156],[27.973372,46.795162],[27.973722,46.795904],[27.973449,46.79593],[27.973584,46.796427],[27.9741,46.796433],[27.974126,46.796983],[27.973478,46.797809],[27.973537,46.799678],[27.976974,46.799611],[27.976883,46.798944],[27.976479,46.798219],[27.977009,46.79772],[27.97798,46.797643]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.04273,46.37719,23.04273,46.37719",
-    "geom:latitude":46.37719,
-    "geom:longitude":23.04273,
+    "geom:area":0.000008,
+    "geom:area_square_m":66386.958209,
+    "geom:bbox":"23.041508,46.380906,23.045793,46.384156",
+    "geom:latitude":46.382363,
+    "geom:longitude":23.043636,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1455.0",
     "gn:asciiname":"Motorasti",
@@ -25,17 +25,30 @@
     "gn:population":108,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.02273,46.35719,23.06273,46.39719",
+    "lbl:latitude":46.382177,
+    "lbl:longitude":23.043669,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.382177,
+    "mps:longitude":23.043669,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Motor\u0103\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Motorasti"
+    ],
     "name:und_x_variant":[
         "Motore\u015ftii",
         "Motor\u0103\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672762
+        "gn:id":672762,
+        "ro-ancpi:id":1605
     },
     "wof:country":"RO",
-    "wof:geomhash":"73fb3e09dc700c96932a7309f5cd0117",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8ccc0ab26dfeaa8b2c3c0c4928de801c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1326939953,
-    "wof:lastmodified":1566609791,
-    "wof:name":"Motorasti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203747,
+    "wof:name":"Motor\u0103\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":108,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.04273,
-    46.37719,
-    23.04273,
-    46.37719
+    23.041508,
+    46.380906,
+    23.045793,
+    46.384156
 ],
-  "geometry": {"coordinates":[23.04273,46.37719],"type":"Point"}
+  "geometry": {"coordinates":[[[23.045608,46.38248],[23.045793,46.382324],[23.044782,46.38119],[23.042716,46.380906],[23.041508,46.382428],[23.042972,46.383056],[23.042734,46.384156],[23.044116,46.384068],[23.044388,46.383202],[23.045608,46.38248]]],"type":"Polygon"}
 }

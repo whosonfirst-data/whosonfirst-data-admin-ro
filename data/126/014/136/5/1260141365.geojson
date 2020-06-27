@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23313,44.24501,24.23313,44.24501",
-    "geom:latitude":44.24501,
-    "geom:longitude":24.23313,
+    "geom:area":0.000029,
+    "geom:area_square_m":257840.625069,
+    "geom:bbox":"24.22766,44.24261,24.237038,44.247017",
+    "geom:latitude":44.244895,
+    "geom:longitude":24.231995,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126825.0",
     "gn:asciiname":"Rosienii Mici",
@@ -25,17 +25,28 @@
     "gn:population":315,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.21313,44.22501,24.25313,44.26501",
+    "lbl:latitude":44.24501,
+    "lbl:longitude":24.23313,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ro\u015fienii Mici"
+    ],
+    "name:ron_x_variant":[
+        "Rosienii Mici"
+    ],
     "name:und_x_variant":[
         "Ro\u015fienii Mica",
         "Ro\u015fienii Mici"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668632
+        "gn:id":668632,
+        "ro-ancpi:id":126889
     },
     "wof:country":"RO",
-    "wof:geomhash":"7eda6d41f9cadbe7d5b6e377bd504aef",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f3e0c5a6ab77c63908a08e108318792e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1260141365,
-    "wof:lastmodified":1566610473,
-    "wof:name":"Rosienii Mici",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
+    "wof:name":"Ro\u015fienii Mici",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":315,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23313,
-    44.24501,
-    24.23313,
-    44.24501
+    24.22766,
+    44.24261,
+    24.237038,
+    44.247017
 ],
-  "geometry": {"coordinates":[24.23313,44.24501],"type":"Point"}
+  "geometry": {"coordinates":[[[24.236873,44.245383],[24.236873,44.245383],[24.236873,44.245383],[24.23631,44.245487],[24.236231,44.2445],[24.236,44.24372],[24.235839,44.243278],[24.235839,44.243278],[24.235762,44.243285],[24.234177,44.243139],[24.230761,44.243316],[24.229923,44.24261],[24.228024,44.24308],[24.22829,44.244119],[24.22766,44.24473],[24.228261,44.246309],[24.228486,44.247017],[24.233181,44.246491],[24.237038,44.246262],[24.236873,44.245383]]],"type":"Polygon"}
 }

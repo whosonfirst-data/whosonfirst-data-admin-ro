@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.28247,46.26358,27.28247,46.26358",
-    "geom:latitude":46.26358,
-    "geom:longitude":27.28247,
+    "geom:area":0.000013,
+    "geom:area_square_m":107896.705759,
+    "geom:bbox":"27.300336,46.256125,27.304183,46.269049",
+    "geom:latitude":46.262217,
+    "geom:longitude":27.301922,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22237",
     "gn:asciiname":"Blaga",
@@ -24,11 +24,14 @@
     "gn:population":249,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.26247,46.24358,27.30247,46.28358",
+    "lbl:latitude":46.261766,
+    "lbl:longitude":27.301252,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.261766,
+    "mps:longitude":27.301252,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Blaga"
@@ -54,27 +57,45 @@
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0491\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687715
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684623
+        "gn:id":684623,
+        "ro-ancpi:id":22273
     },
     "wof:country":"RO",
-    "wof:geomhash":"3ca28e0c8a30398df194ac8b74589f41",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"70fd8f2729b00bb679aa7b56287b7397",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209515843
+            "locality_id":1209515843,
+            "region_id":85687715
         }
     ],
     "wof:id":1209515843,
-    "wof:lastmodified":1566610365,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203542,
     "wof:name":"Blaga",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":249,
     "wof:population_rank":2,
@@ -84,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.28247,
-    46.26358,
-    27.28247,
-    46.26358
+    27.300336,
+    46.256125,
+    27.304183,
+    46.269049
 ],
-  "geometry": {"coordinates":[27.28247,46.26358],"type":"Point"}
+  "geometry": {"coordinates":[[[27.30186,46.262887],[27.302818,46.256554],[27.303252,46.256536],[27.303274,46.256125],[27.302223,46.256155],[27.301731,46.259513],[27.300756,46.259478],[27.300336,46.263018],[27.300374,46.263855],[27.301611,46.263864],[27.303538,46.269049],[27.304183,46.268978],[27.30186,46.262887]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.48663,46.28274,27.48663,46.28274",
-    "geom:latitude":46.28274,
-    "geom:longitude":27.48663,
+    "geom:area":0.000019,
+    "geom:area_square_m":160083.499422,
+    "geom:bbox":"27.480795,46.280248,27.488006,46.28548",
+    "geom:latitude":46.28302,
+    "geom:longitude":27.484709,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163057.0",
     "gn:asciiname":"Pacuraresti",
@@ -25,37 +25,62 @@
     "gn:population":41,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.46663,46.26274,27.50663,46.30274",
+    "lbl:latitude":46.28274,
+    "lbl:longitude":27.48663,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "P\u0103cur\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Pacuraresti"
+    ],
     "name:und_x_variant":[
         "P\u0103curare\u015ftii",
         "P\u0103cur\u0103re\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687743
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671571
+        "gn:id":671571,
+        "ro-ancpi:id":163128
     },
     "wof:country":"RO",
-    "wof:geomhash":"e340b7d17c151a0374910b22e42d55e7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"53ad3aea8fb4554e435d2611075757f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209165861
+            "locality_id":1209165861,
+            "region_id":85687743
         }
     ],
     "wof:id":1209165861,
-    "wof:lastmodified":1566610372,
-    "wof:name":"Pacuraresti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203468,
+    "wof:name":"P\u0103cur\u0103re\u015fti",
+    "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":41,
     "wof:population_rank":1,
@@ -65,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.48663,
-    46.28274,
-    27.48663,
-    46.28274
+    27.480795,
+    46.280248,
+    27.488006,
+    46.28548
 ],
-  "geometry": {"coordinates":[27.48663,46.28274],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.484491,46.28548],[27.484665,46.284967],[27.486127,46.285293],[27.486103,46.283205],[27.486741,46.28326],[27.488006,46.280796],[27.487567,46.280664],[27.487558,46.280661],[27.487027,46.280502],[27.486892,46.280461],[27.486843,46.280447],[27.486836,46.280446],[27.486817,46.280444],[27.485196,46.280248],[27.484532,46.280983],[27.484459,46.282584],[27.484071,46.282583],[27.484061,46.282583],[27.483084,46.28258],[27.482177,46.282914],[27.480795,46.284625],[27.484491,46.28548]]],[[[27.48425,46.281255],[27.48424,46.280899],[27.483619,46.280931],[27.483645,46.281257],[27.48425,46.281255]]]],"type":"MultiPolygon"}
 }

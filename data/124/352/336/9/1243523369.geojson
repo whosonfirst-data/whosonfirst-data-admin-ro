@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.52255,44.7174,27.52255,44.7174",
-    "geom:latitude":44.7174,
-    "geom:longitude":27.52255,
+    "geom:area":0.000037,
+    "geom:area_square_m":327320.378712,
+    "geom:bbox":"27.515916,44.713845,27.526209,44.721154",
+    "geom:latitude":44.716927,
+    "geom:longitude":27.520998,
     "gn:admin1_code":"22",
     "gn:admin2_code":"94688",
     "gn:asciiname":"Bucsa",
@@ -24,13 +24,24 @@
     "gn:population":179,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.50255,44.6974,27.54255,44.7374",
+    "lbl:latitude":44.7174,
+    "lbl:longitude":27.52255,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Buc\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Bucsa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683533
+        "gn:id":683533,
+        "ro-ancpi:id":94704
     },
     "wof:country":"RO",
-    "wof:geomhash":"c5afdcce6030defe92a70d6b0d7edae4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fc5955de083922fb9e27eab6afbcda11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1243523369,
-    "wof:lastmodified":1566611432,
-    "wof:name":"Bucsa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203678,
+    "wof:name":"Buc\u015fa",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
     "wof:population":179,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.52255,
-    44.7174,
-    27.52255,
-    44.7174
+    27.515916,
+    44.713845,
+    27.526209,
+    44.721154
 ],
-  "geometry": {"coordinates":[27.52255,44.7174],"type":"Point"}
+  "geometry": {"coordinates":[[[27.516083,44.71587],[27.515916,44.717208],[27.516798,44.717225],[27.516825,44.717159],[27.517478,44.717231],[27.51746,44.717499],[27.518087,44.717562],[27.517997,44.71839],[27.51785,44.719802],[27.520494,44.719993],[27.520419,44.721154],[27.521409,44.721143],[27.521426,44.720372],[27.521341,44.720305],[27.521428,44.719626],[27.521667,44.719635],[27.521751,44.719232],[27.522097,44.719239],[27.522157,44.718752],[27.521836,44.718737],[27.521973,44.717901],[27.52395,44.718059],[27.524994,44.718065],[27.52502,44.71797],[27.526209,44.717882],[27.526129,44.716971],[27.525195,44.716992],[27.525184,44.716797],[27.525122,44.71681],[27.524886,44.716875],[27.52465,44.716949],[27.524487,44.716995],[27.524674,44.715519],[27.524867,44.714145],[27.521457,44.713845],[27.521404,44.714262],[27.520582,44.714226],[27.52045,44.715032],[27.517811,44.714834],[27.517713,44.715961],[27.516083,44.71587]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.83333,44.15,27.83333,44.15",
-    "geom:latitude":44.15,
-    "geom:longitude":27.83333,
+    "geom:area":0.000026,
+    "geom:area_square_m":232230.160253,
+    "geom:bbox":"27.830142,44.14032,27.836103,44.146485",
+    "geom:latitude":44.143398,
+    "geom:longitude":27.833348,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61005.0",
     "gn:asciiname":"Floriile",
@@ -24,36 +24,60 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.81333,44.13,27.85333,44.17",
+    "lbl:latitude":44.143456,
+    "lbl:longitude":27.833348,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.143456,
+    "mps:longitude":27.833348,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Floriile"
+    ],
     "name:und_x_variant":[
         "Bac Cuius",
         "Floriile"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687633
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678027
+        "gn:id":678027,
+        "ro-ancpi:id":61041
     },
     "wof:country":"RO",
-    "wof:geomhash":"fea1bd966a72b7f0fdaa1867a4200c9b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e99562dad7d263f40a2e05a458669498",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209297993
+            "locality_id":1209297993,
+            "region_id":85687633
         }
     ],
     "wof:id":1209297993,
-    "wof:lastmodified":1566610373,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203611,
     "wof:name":"Floriile",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -61,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.83333,
-    44.15,
-    27.83333,
-    44.15
+    27.830142,
+    44.14032,
+    27.836103,
+    44.146485
 ],
-  "geometry": {"coordinates":[27.83333,44.15],"type":"Point"}
+  "geometry": {"coordinates":[[[27.835568,44.145879],[27.835541,44.14547],[27.835748,44.145466],[27.835833,44.144963],[27.835178,44.144965],[27.835369,44.143811],[27.835377,44.143433],[27.835587,44.143422],[27.835596,44.143128],[27.835789,44.142751],[27.835961,44.142296],[27.836088,44.141709],[27.836103,44.141287],[27.835132,44.141034],[27.834813,44.140565],[27.833829,44.14032],[27.833658,44.140725],[27.832264,44.140345],[27.831882,44.140408],[27.830996,44.14192],[27.830819,44.142371],[27.83139,44.142415],[27.831335,44.142951],[27.830369,44.142964],[27.830142,44.144159],[27.830682,44.144199],[27.830822,44.144589],[27.831473,44.144752],[27.831576,44.144878],[27.831388,44.145981],[27.83164,44.146096],[27.833022,44.146241],[27.83503,44.146428],[27.835699,44.146485],[27.835671,44.146155],[27.835968,44.146128],[27.835904,44.145878],[27.835568,44.145879]]],"type":"Polygon"}
 }

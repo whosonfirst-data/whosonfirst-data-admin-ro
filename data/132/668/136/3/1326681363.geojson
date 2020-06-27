@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.376,46.65909,27.376,46.65909",
-    "geom:latitude":46.65909,
-    "geom:longitude":27.376,
+    "geom:area":0.000002,
+    "geom:area_square_m":16633.222707,
+    "geom:bbox":"27.371051,46.657333,27.373454,46.658524",
+    "geom:latitude":46.657892,
+    "geom:longitude":27.372213,
     "gn:admin1_code":"38",
     "gn:admin2_code":"164393",
     "gn:asciiname":"Albina",
@@ -24,11 +24,14 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.356,46.63909,27.396,46.67909",
+    "lbl:latitude":46.657914,
+    "lbl:longitude":27.372213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.657914,
+    "mps:longitude":27.372213,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Albina"
@@ -69,7 +72,11 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0456\u043d\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -77,10 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686533
+        "gn:id":686533,
+        "ro-ancpi:id":164419
     },
     "wof:country":"RO",
-    "wof:geomhash":"ccf5b0fa10d5e9202ae2e1791e36d530",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c733ba0bba061dfb8d4d98e1ae39e273",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +101,13 @@
         }
     ],
     "wof:id":1326681363,
-    "wof:lastmodified":1566609798,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203462,
     "wof:name":"Albina",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -100,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.376,
-    46.65909,
-    27.376,
-    46.65909
+    27.371051,
+    46.657333,
+    27.373454,
+    46.658524
 ],
-  "geometry": {"coordinates":[27.376,46.65909],"type":"Point"}
+  "geometry": {"coordinates":[[[27.373454,46.657552],[27.372791,46.657343],[27.372486,46.657333],[27.372107,46.657494],[27.371601,46.65751],[27.37123,46.657491],[27.371051,46.658244],[27.371804,46.658524],[27.372066,46.658407],[27.372714,46.658283],[27.373361,46.658008],[27.373454,46.657552]]],"type":"Polygon"}
 }

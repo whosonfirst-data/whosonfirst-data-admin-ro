@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.53457,45.53503,21.53457,45.53503",
-    "geom:latitude":45.53503,
-    "geom:longitude":21.53457,
+    "geom:area":0.00008,
+    "geom:area_square_m":694875.010186,
+    "geom:bbox":"21.519515,45.529526,21.540217,45.541086",
+    "geom:latitude":45.535011,
+    "geom:longitude":21.532795,
     "gn:admin1_code":"36",
     "gn:admin2_code":"159035.0",
     "gn:asciiname":"Cadar",
@@ -25,19 +25,27 @@
     "gn:population":304,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.51457,45.51503,21.55457,45.55503",
+    "lbl:latitude":45.53503,
+    "lbl:longitude":21.53457,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cadar"
+    ],
     "name:und_x_variant":[
         "K\u00e1d\u00e1r",
         "Cad\u0103r",
         "Kadariu",
         "Cadar"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683061
+        "gn:id":683061,
+        "ro-ancpi:id":159053
     },
     "wof:country":"RO",
-    "wof:geomhash":"565c6155e39dd5f851350ade6ba5f74a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2165bf7bd3cc310e10258bcb62983efe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +71,13 @@
         }
     ],
     "wof:id":1225984655,
-    "wof:lastmodified":1566611665,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203746,
     "wof:name":"Cadar",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -71,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.53457,
-    45.53503,
-    21.53457,
-    45.53503
+    21.519515,
+    45.529526,
+    21.540217,
+    45.541086
 ],
-  "geometry": {"coordinates":[21.53457,45.53503],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.534945,45.537386],[21.536468,45.537185],[21.537695,45.53739],[21.538801,45.536815],[21.539893,45.535264],[21.53922,45.533872],[21.538721,45.533284],[21.539443,45.532408],[21.53867,45.531617],[21.540217,45.530817],[21.538915,45.529526],[21.533865,45.532101],[21.531755,45.532274],[21.530081,45.533038],[21.525323,45.535387],[21.524604,45.535799],[21.525264,45.536416],[21.524906,45.536588],[21.526355,45.537846],[21.528489,45.539455],[21.530094,45.538912],[21.532298,45.537559],[21.533476,45.537537],[21.534945,45.537386]]],[[[21.52145,45.540475],[21.520588,45.539689],[21.519515,45.540329],[21.520307,45.541086],[21.52145,45.540475]]],[[[21.52657,45.533635],[21.525195,45.533334],[21.524821,45.53401],[21.526047,45.534223],[21.52657,45.533635]]]],"type":"MultiPolygon"}
 }

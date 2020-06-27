@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.75078,44.45722,23.75078,44.45722",
-    "geom:latitude":44.45722,
-    "geom:longitude":23.75078,
+    "geom:area":0.000012,
+    "geom:area_square_m":108889.767423,
+    "geom:bbox":"23.743026,44.45525,23.749524,44.460184",
+    "geom:latitude":44.457469,
+    "geom:longitude":23.746756,
     "gn:admin1_code":"17",
     "gn:admin2_code":"72677.0",
     "gn:asciiname":"Zlatari",
@@ -24,11 +24,14 @@
     "gn:population":8,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.73078,44.43722,23.77078,44.47722",
+    "lbl:latitude":44.458775,
+    "lbl:longitude":23.745993,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.458775,
+    "mps:longitude":23.745993,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Zlatari"
@@ -42,13 +45,23 @@
     "name:hrv_x_preferred":[
         "Zlatari"
     ],
+    "name:ron_x_preferred":[
+        "Zl\u0103tari"
+    ],
+    "name:ron_x_variant":[
+        "Zlatari"
+    ],
     "name:srp_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0430\u0440\u0438"
     ],
     "name:swe_x_preferred":[
         "Zlatari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662165
+        "gn:id":662165,
+        "ro-ancpi:id":72800
     },
     "wof:country":"RO",
-    "wof:geomhash":"653d0cbd73d858d792367707f63ca53b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a7609edc6cd722bd2fe1be0c02c76529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,8 +87,14 @@
         }
     ],
     "wof:id":1193113425,
-    "wof:lastmodified":1566610453,
-    "wof:name":"Zlatari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203320,
+    "wof:name":"Zl\u0103tari",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":8,
@@ -82,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.75078,
-    44.45722,
-    23.75078,
-    44.45722
+    23.743026,
+    44.45525,
+    23.749524,
+    44.460184
 ],
-  "geometry": {"coordinates":[23.75078,44.45722],"type":"Point"}
+  "geometry": {"coordinates":[[[23.746085,44.460184],[23.746091,44.459613],[23.74642,44.459629],[23.746847,44.458925],[23.747661,44.458401],[23.747943,44.458582],[23.748851,44.458209],[23.749447,44.457922],[23.748758,44.457607],[23.749418,44.457387],[23.749524,44.457223],[23.749164,44.456526],[23.748707,44.455906],[23.748019,44.45585],[23.747882,44.455429],[23.747759,44.455286],[23.747447,44.45525],[23.746799,44.455305],[23.746475,44.455332],[23.745886,44.45542],[23.745499,44.455515],[23.745099,44.455682],[23.744865,44.456313],[23.745383,44.456826],[23.745644,44.456708],[23.745882,44.456908],[23.746539,44.456114],[23.746735,44.456068],[23.746974,44.456366],[23.747328,44.456318],[23.747802,44.456982],[23.747313,44.457144],[23.746387,44.457857],[23.746215,44.457935],[23.745725,44.457992],[23.745316,44.457937],[23.744642,44.457913],[23.743513,44.457773],[23.743026,44.458479],[23.743873,44.458705],[23.744374,44.458178],[23.745303,44.458272],[23.744858,44.459365],[23.745377,44.459438],[23.745296,44.460152],[23.746085,44.460184]]],"type":"Polygon"}
 }

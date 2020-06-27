@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.51524,46.04632,24.51524,46.04632",
-    "geom:latitude":46.04632,
-    "geom:longitude":24.51524,
+    "geom:area":0.000067,
+    "geom:area_square_m":573394.225426,
+    "geom:bbox":"24.50397,46.036225,24.52071,46.050561",
+    "geom:latitude":46.04521,
+    "geom:longitude":24.513689,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144232.0",
     "gn:asciiname":"Pelisor",
@@ -25,17 +25,28 @@
     "gn:population":479,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.49524,46.02632,24.53524,46.06632",
+    "lbl:latitude":46.04632,
+    "lbl:longitude":24.51524,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Peli\u015for"
+    ],
+    "name:ron_x_variant":[
+        "Pelisor"
+    ],
     "name:und_x_variant":[
         "M\u0103g\u0103rei",
         "Peli\u015for"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671166
+        "gn:id":671166,
+        "ro-ancpi:id":144278
     },
     "wof:country":"RO",
-    "wof:geomhash":"bc8a22d113e0178f5fa4041ef7e1c691",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7307d9f0e872bfdbcedcf1f0a4a1c021",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1259737315,
-    "wof:lastmodified":1566611589,
-    "wof:name":"Pelisor",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203658,
+    "wof:name":"Peli\u015for",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":479,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.51524,
-    46.04632,
-    24.51524,
-    46.04632
+    24.50397,
+    46.036225,
+    24.52071,
+    46.050561
 ],
-  "geometry": {"coordinates":[24.51524,46.04632],"type":"Point"}
+  "geometry": {"coordinates":[[[24.509489,46.048822],[24.512251,46.047757],[24.512634,46.048139],[24.514046,46.048018],[24.515431,46.048278],[24.516332,46.049342],[24.518801,46.048368],[24.517924,46.047256],[24.518201,46.046766],[24.52071,46.045938],[24.520082,46.044969],[24.51869,46.045517],[24.518742,46.044678],[24.516623,46.044677],[24.516517,46.041224],[24.517256,46.03996],[24.519448,46.036295],[24.517902,46.036225],[24.515936,46.040034],[24.51514,46.040046],[24.51329,46.040925],[24.512479,46.042372],[24.512089,46.045347],[24.507226,46.047401],[24.504796,46.048535],[24.50397,46.049339],[24.504993,46.050561],[24.509489,46.048822]]],"type":"Polygon"}
 }

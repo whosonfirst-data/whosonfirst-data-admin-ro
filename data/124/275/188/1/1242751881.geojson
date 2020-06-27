@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.01659,46.08814,23.01659,46.08814",
-    "geom:latitude":46.08814,
-    "geom:longitude":23.01659,
+    "geom:area":0.000068,
+    "geom:area_square_m":585197.739373,
+    "geom:bbox":"23.010265,46.08574,23.02495,46.094916",
+    "geom:latitude":46.089917,
+    "geom:longitude":23.016754,
     "gn:admin1_code":"21",
     "gn:admin2_code":"87843.0",
     "gn:asciiname":"Oprisesti",
@@ -24,13 +24,24 @@
     "gn:population":69,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.99659,46.06814,23.03659,46.10814",
+    "lbl:latitude":46.08814,
+    "lbl:longitude":23.01659,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Opri\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Oprisesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671780
+        "gn:id":671780,
+        "ro-ancpi:id":87914
     },
     "wof:country":"RO",
-    "wof:geomhash":"0f518bf88f23537c790fc4aa031ca0d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10a8542f0a2ddfe3e6656977e5aa842c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1242751881,
-    "wof:lastmodified":1566611444,
-    "wof:name":"Oprisesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203806,
+    "wof:name":"Opri\u015fe\u015fti",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":69,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.01659,
-    46.08814,
-    23.01659,
-    46.08814
+    23.010265,
+    46.08574,
+    23.02495,
+    46.094916
 ],
-  "geometry": {"coordinates":[23.01659,46.08814],"type":"Point"}
+  "geometry": {"coordinates":[[[23.018381,46.085858],[23.014515,46.08574],[23.014398,46.085917],[23.015174,46.08688],[23.014546,46.087947],[23.01355,46.087974],[23.012211,46.088291],[23.010265,46.089079],[23.012245,46.090951],[23.012121,46.091941],[23.011857,46.093007],[23.01203,46.093343],[23.016663,46.094916],[23.019114,46.094054],[23.020175,46.093182],[23.017927,46.091084],[23.022159,46.088464],[23.024298,46.088424],[23.02495,46.087821],[23.022161,46.086708],[23.020284,46.086019],[23.018381,46.085858]]],"type":"Polygon"}
 }

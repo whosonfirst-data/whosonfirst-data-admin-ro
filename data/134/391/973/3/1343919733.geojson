@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.94339,46.49296,25.94339,46.49296",
-    "geom:latitude":46.49296,
-    "geom:longitude":25.94339,
+    "geom:area":0.000054,
+    "geom:area_square_m":457737.308466,
+    "geom:bbox":"25.940292,46.484675,25.952801,46.497163",
+    "geom:latitude":46.490449,
+    "geom:longitude":25.944327,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84754.0",
     "gn:asciiname":"Comiat",
@@ -25,17 +25,25 @@
     "gn:population":386,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.92339,46.47296,25.96339,46.51296",
+    "lbl:latitude":46.49296,
+    "lbl:longitude":25.94339,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Comiat"
+    ],
     "name:und_x_variant":[
         "Komj\u00e0t Pataka",
         "Comiat"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680999
+        "gn:id":680999,
+        "ro-ancpi:id":84772
     },
     "wof:country":"RO",
-    "wof:geomhash":"c2480ecfdaccb1a229cf503a57050855",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f36bf6671841816b18ab0a69e89c5301",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1343919733,
-    "wof:lastmodified":1566609880,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203389,
     "wof:name":"Comiat",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.94339,
-    46.49296,
-    25.94339,
-    46.49296
+    25.940292,
+    46.484675,
+    25.952801,
+    46.497163
 ],
-  "geometry": {"coordinates":[25.94339,46.49296],"type":"Point"}
+  "geometry": {"coordinates":[[[25.944208,46.484675],[25.944194,46.484688],[25.943631,46.485244],[25.943484,46.48528],[25.943343,46.485282],[25.943201,46.485208],[25.941592,46.485429],[25.94244,46.487939],[25.940292,46.490484],[25.940417,46.49375],[25.943538,46.496281],[25.94478,46.496892],[25.944836,46.497161],[25.945517,46.497163],[25.946348,46.494656],[25.943246,46.49362],[25.94478,46.491286],[25.949194,46.488867],[25.952801,46.486145],[25.952347,46.485673],[25.950234,46.486733],[25.949906,46.487447],[25.945115,46.487919],[25.944753,46.485377],[25.944208,46.484675]]],"type":"Polygon"}
 }

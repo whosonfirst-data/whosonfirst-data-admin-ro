@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.99501,45.74585,24.99501,45.74585",
-    "geom:latitude":45.74585,
-    "geom:longitude":24.99501,
+    "geom:area":0.000092,
+    "geom:area_square_m":789906.239961,
+    "geom:bbox":"24.990956,45.735398,25.004684,45.749558",
+    "geom:latitude":45.743162,
+    "geom:longitude":24.997126,
     "gn:admin1_code":"09",
     "gn:admin2_code":"41113.0",
     "gn:asciiname":"Copacel",
@@ -24,33 +24,101 @@
     "gn:population":761,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.97501,45.72585,25.01501,45.76585",
+    "lbl:latitude":45.74585,
+    "lbl:longitude":24.99501,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Comuna Cop\u0103cel"
+    ],
+    "name:epo_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:eus_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:fra_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:ita_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:msa_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:nld_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:por_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:ron_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:ron_x_variant":[
+        "Copacel",
+        "Comuna Cop\u0103cel"
+    ],
+    "name:sqi_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u043e\u043f\u0430\u0447\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u0447\u0435\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:vol_x_preferred":[
+        "Cop\u0103cel"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u73c0\u5207\u723e\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687683
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680937
+        "gn:id":680937,
+        "ro-ancpi:id":41131
     },
     "wof:country":"RO",
-    "wof:geomhash":"4bf4871f28b1e9e728e60ff2d8e2955a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73f52d3c0537d05ccf85b35298a647f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209611195
+            "locality_id":1209611195,
+            "region_id":85687683
         }
     ],
     "wof:id":1209611195,
-    "wof:lastmodified":1566610344,
-    "wof:name":"Copacel",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203781,
+    "wof:name":"Cop\u0103cel",
+    "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":761,
     "wof:population_rank":2,
@@ -60,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.99501,
-    45.74585,
-    24.99501,
-    45.74585
+    24.990956,
+    45.735398,
+    25.004684,
+    45.749558
 ],
-  "geometry": {"coordinates":[24.99501,45.74585],"type":"Point"}
+  "geometry": {"coordinates":[[[24.997489,45.746404],[24.998659,45.744553],[24.999482,45.744877],[25.000363,45.744149],[24.999658,45.743788],[24.999586,45.743737],[25.000756,45.742706],[25.00181,45.742018],[25.002706,45.741209],[25.003832,45.740026],[25.004034,45.739814],[25.004684,45.739217],[25.003616,45.738681],[25.003182,45.738863],[25.002171,45.738398],[25.002199,45.738269],[25.003066,45.736803],[25.003412,45.735914],[25.001593,45.735398],[25.001434,45.736338],[25.000986,45.737521],[25.000842,45.737653],[24.999094,45.737167],[24.998877,45.737835],[24.998242,45.737825],[24.997462,45.738613],[24.996509,45.73928],[24.995931,45.739564],[24.995679,45.739711],[24.994885,45.740196],[24.994119,45.740661],[24.993498,45.740924],[24.993339,45.741429],[24.992155,45.741156],[24.99188,45.742137],[24.993122,45.742329],[24.993324,45.742734],[24.993079,45.743168],[24.9927,45.743346],[24.992208,45.743872],[24.991327,45.744832],[24.991139,45.745257],[24.991284,45.746278],[24.991385,45.746672],[24.991317,45.746899],[24.990956,45.747283],[24.991851,45.748243],[24.9924,45.748274],[24.992833,45.749558],[24.994917,45.749558],[24.997922,45.749144],[24.998659,45.748487],[24.999655,45.747364],[24.997489,45.746404]]],"type":"Polygon"}
 }

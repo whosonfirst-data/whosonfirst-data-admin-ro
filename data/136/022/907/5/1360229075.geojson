@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.92883,45.72783,21.92883,45.72783",
-    "geom:latitude":45.72783,
-    "geom:longitude":21.92883,
+    "geom:area":0.000054,
+    "geom:area_square_m":467227.762069,
+    "geom:bbox":"21.920481,45.723867,21.933098,45.733805",
+    "geom:latitude":45.728224,
+    "geom:longitude":21.927461,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156473.0",
     "gn:asciiname":"Hezeris",
@@ -25,18 +25,29 @@
     "gn:population":267,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.90883,45.70783,21.94883,45.74783",
+    "lbl:latitude":45.72783,
+    "lbl:longitude":21.92883,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Hezeri\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Hezeris"
+    ],
     "name:und_x_variant":[
         "Lugosegres",
         "Hezeres",
         "Hezeri\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676214
+        "gn:id":676214,
+        "ro-ancpi:id":156491
     },
     "wof:country":"RO",
-    "wof:geomhash":"e6ac4e10c67e66fdb054d217e89eec8a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"79d9e2e2df1483f654e3fa1381ffa9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1360229075,
-    "wof:lastmodified":1566610616,
-    "wof:name":"Hezeris",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
+    "wof:name":"Hezeri\u015f",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":267,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.92883,
-    45.72783,
-    21.92883,
-    45.72783
+    21.920481,
+    45.723867,
+    21.933098,
+    45.733805
 ],
-  "geometry": {"coordinates":[21.92883,45.72783],"type":"Point"}
+  "geometry": {"coordinates":[[[21.933098,45.732312],[21.93119,45.729753],[21.930112,45.728041],[21.931241,45.727886],[21.928476,45.723867],[21.927333,45.724237],[21.927055,45.723872],[21.926321,45.724138],[21.926645,45.724584],[21.926059,45.724882],[21.925762,45.725243],[21.92478,45.724512],[21.923892,45.724822],[21.922909,45.725214],[21.920481,45.725853],[21.921235,45.726984],[21.922032,45.727044],[21.922583,45.727561],[21.923237,45.728192],[21.923421,45.728634],[21.924017,45.728942],[21.925109,45.728556],[21.926193,45.730192],[21.927303,45.731465],[21.928274,45.73099],[21.928673,45.731231],[21.929643,45.732687],[21.930189,45.733805],[21.931135,45.733627],[21.932617,45.733375],[21.932042,45.732691],[21.931886,45.732484],[21.932427,45.732485],[21.933098,45.732312]]],"type":"Polygon"}
 }

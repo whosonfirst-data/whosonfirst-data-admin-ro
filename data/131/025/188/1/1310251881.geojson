@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.36033,44.75672,24.36033,44.75672",
-    "geom:latitude":44.75672,
-    "geom:longitude":24.36033,
+    "geom:area":0.00023,
+    "geom:area_square_m":2020938.133545,
+    "geom:bbox":"24.339716,44.743748,24.369311,44.763852",
+    "geom:latitude":44.754328,
+    "geom:longitude":24.355942,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130231.0",
     "gn:asciiname":"Dienci",
@@ -24,13 +24,21 @@
     "gn:population":787,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.34033,44.73672,24.38033,44.77672",
+    "lbl:latitude":44.75672,
+    "lbl:longitude":24.36033,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dienci"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679415
+        "gn:id":679415,
+        "ro-ancpi:id":130259
     },
     "wof:country":"RO",
-    "wof:geomhash":"2452c52a1add88c70e1175e5833ed50f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"39b2d5984ac6506291475fce71d1b90e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1310251881,
-    "wof:lastmodified":1566610535,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
     "wof:name":"Dienci",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36033,
-    44.75672,
-    24.36033,
-    44.75672
+    24.339716,
+    44.743748,
+    24.369311,
+    44.763852
 ],
-  "geometry": {"coordinates":[24.36033,44.75672],"type":"Point"}
+  "geometry": {"coordinates":[[[24.363293,44.759366],[24.362592,44.754064],[24.361533,44.752133],[24.362305,44.751054],[24.362179,44.749056],[24.36572,44.749142],[24.365841,44.747203],[24.362506,44.74726],[24.359863,44.743748],[24.357218,44.744003],[24.35935,44.747288],[24.357195,44.747868],[24.350303,44.749286],[24.344946,44.751658],[24.342091,44.75229],[24.339876,44.751748],[24.339716,44.7539],[24.345823,44.753774],[24.34583,44.754209],[24.346551,44.755961],[24.346081,44.757218],[24.347411,44.758119],[24.348109,44.759465],[24.349613,44.759598],[24.351645,44.756952],[24.354822,44.757873],[24.353543,44.759418],[24.35607,44.760733],[24.362223,44.763023],[24.368701,44.763852],[24.369311,44.762957],[24.367249,44.76181],[24.363293,44.759366]]],"type":"Polygon"}
 }

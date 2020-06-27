@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.43384,45.17717,23.43384,45.17717",
-    "geom:latitude":45.17717,
-    "geom:longitude":23.43384,
+    "geom:area":0.000025,
+    "geom:area_square_m":221553.957068,
+    "geom:bbox":"23.427497,45.172965,23.437796,45.178691",
+    "geom:latitude":45.176294,
+    "geom:longitude":23.43281,
     "gn:admin1_code":"19",
     "gn:admin2_code":"80908",
     "gn:asciiname":"Arseni",
@@ -25,17 +25,28 @@
     "gn:population":65,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.41384,45.15717,23.45384,45.19717",
+    "lbl:latitude":45.17717,
+    "lbl:longitude":23.43384,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ar\u015feni"
+    ],
+    "name:ron_x_variant":[
+        "Arseni"
+    ],
     "name:und_x_variant":[
         "Ar\u015fenii",
         "Ar\u015feni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686119
+        "gn:id":686119,
+        "ro-ancpi:id":80926
     },
     "wof:country":"RO",
-    "wof:geomhash":"aa930ca482f013dac9b8eb6dc0f5ed1d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a9c6d5d33a2cf1a1917238781c627106",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1259558783,
-    "wof:lastmodified":1566611551,
-    "wof:name":"Arseni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203672,
+    "wof:name":"Ar\u015feni",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":65,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.43384,
-    45.17717,
-    23.43384,
-    45.17717
+    23.427497,
+    45.172965,
+    23.437796,
+    45.178691
 ],
-  "geometry": {"coordinates":[23.43384,45.17717],"type":"Point"}
+  "geometry": {"coordinates":[[[23.432666,45.178691],[23.432563,45.177915],[23.434268,45.178034],[23.436251,45.178346],[23.437577,45.177473],[23.437796,45.176277],[23.435068,45.175523],[23.434321,45.174899],[23.43007,45.17496],[23.429841,45.17396],[23.428669,45.172965],[23.427497,45.173504],[23.427887,45.174343],[23.428575,45.174878],[23.429649,45.175653],[23.429754,45.176327],[23.431345,45.178582],[23.432666,45.178691]]],"type":"Polygon"}
 }

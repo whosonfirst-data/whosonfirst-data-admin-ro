@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.48028,44.78222,21.48028,44.78222",
-    "geom:latitude":44.78222,
-    "geom:longitude":21.48028,
+    "geom:area":0.00002,
+    "geom:area_square_m":177957.65675,
+    "geom:bbox":"21.476469,44.780968,21.487298,44.784986",
+    "geom:latitude":44.782555,
+    "geom:longitude":21.481645,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"RO",
-    "lbl:bbox":"21.46028,44.76222,21.50028,44.80222",
     "lbl:latitude":44.78222,
     "lbl:longitude":21.48028,
     "lbl:max_zoom":17.0,
@@ -22,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u06a4\u064a\u0633\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Divici"
     ],
@@ -42,6 +44,12 @@
     ],
     "name:ron_x_preferred":[
         "Divici"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0414\u0438\u0432\u0438\u045b"
+    ],
+    "name:srp_el_x_preferred":[
+        "Divi\u0107"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0438\u0432\u0438\u045b"
@@ -72,7 +80,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":871364,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -89,11 +100,15 @@
         "gn:id":679305,
         "gp:id":871364,
         "qs_pg:id":983743,
+        "ro-ancpi:id":53540,
         "wd:id":"Q839698"
     },
     "wof:country":"RO",
     "wof:created":1497296536,
-    "wof:geomhash":"f29fb4880634261e1689b04e02bb0142",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"e08399c4e55a58774726202057ef070c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,7 +118,13 @@
         }
     ],
     "wof:id":1125922695,
-    "wof:lastmodified":1566611277,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203623,
     "wof:name":"Divici",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -115,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.48028,
-    44.78222,
-    21.48028,
-    44.78222
+    21.476469,
+    44.780968,
+    21.487298,
+    44.784986
 ],
-  "geometry": {"coordinates":[21.48028,44.78222],"type":"Point"}
+  "geometry": {"coordinates":[[[21.480804,44.783631],[21.481074,44.783347],[21.486409,44.78388],[21.486574,44.782738],[21.48682,44.782757],[21.486927,44.782766],[21.487001,44.782778],[21.487062,44.782787],[21.487143,44.782802],[21.487298,44.782071],[21.481879,44.781602],[21.481054,44.781507],[21.47994,44.78127],[21.478573,44.780968],[21.476561,44.781094],[21.476497,44.781861],[21.476601,44.781961],[21.47658,44.78211],[21.476469,44.782743],[21.477527,44.783004],[21.47754,44.78281],[21.477959,44.782838],[21.478212,44.782486],[21.479536,44.78252],[21.479485,44.783522],[21.480157,44.783543],[21.480187,44.784083],[21.479784,44.784138],[21.479841,44.784582],[21.480553,44.784986],[21.481287,44.784934],[21.480804,44.783631]]],"type":"Polygon"}
 }

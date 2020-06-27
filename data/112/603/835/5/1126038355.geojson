@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.95278,45.83306,21.95278,45.83306",
-    "geom:latitude":45.83306,
-    "geom:longitude":21.95278,
+    "geom:area":0.000129,
+    "geom:area_square_m":1109398.620323,
+    "geom:bbox":"21.954018,45.825062,21.965025,45.842595",
+    "geom:latitude":45.834482,
+    "geom:longitude":21.958968,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3012,
     "iso:country":"RO",
-    "lbl:bbox":"21.93278,45.81306,21.97278,45.85306",
-    "lbl:latitude":45.83306,
-    "lbl:longitude":21.95278,
+    "lbl:latitude":45.836447,
+    "lbl:longitude":21.959513,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.836447,
+    "mps:longitude":21.959513,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062b\u0627\u0648\u0633\u064a\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u0442\u0445\u0430\u0443\u0441\u0435\u043d"
     ],
@@ -70,8 +74,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":867231,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -87,11 +94,15 @@
         "gn:id":684956,
         "gp:id":867231,
         "qs_pg:id":967496,
+        "ro-ancpi:id":155859,
         "wd:id":"Q14769077"
     },
     "wof:country":"RO",
     "wof:created":1497301949,
-    "wof:geomhash":"d315f5fdde1aae6097ba60c9bec14ac7",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"6ad3cb42f226a03c4adbb2451b9b2f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +112,13 @@
         }
     ],
     "wof:id":1126038355,
-    "wof:lastmodified":1566611294,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203744,
     "wof:name":"Bethausen",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -113,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.95278,
-    45.83306,
-    21.95278,
-    45.83306
+    21.954018,
+    45.825062,
+    21.965025,
+    45.842595
 ],
-  "geometry": {"coordinates":[21.95278,45.83306],"type":"Point"}
+  "geometry": {"coordinates":[[[21.964992,45.833921],[21.965025,45.832397],[21.96085,45.832381],[21.960866,45.831365],[21.960587,45.831358],[21.960546,45.830308],[21.960152,45.830321],[21.960023,45.830322],[21.959652,45.83032],[21.959444,45.830323],[21.959475,45.83009],[21.959347,45.825422],[21.956784,45.825337],[21.954277,45.825062],[21.954018,45.828549],[21.954368,45.830161],[21.95484,45.832376],[21.955003,45.833187],[21.95508,45.833853],[21.954909,45.834421],[21.954899,45.835088],[21.954865,45.835841],[21.954861,45.837366],[21.954867,45.839587],[21.955071,45.840648],[21.957762,45.842595],[21.959759,45.842568],[21.959837,45.840727],[21.964497,45.840642],[21.964875,45.840091],[21.964949,45.839084],[21.965,45.838956],[21.964992,45.833921]]],"type":"Polygon"}
 }

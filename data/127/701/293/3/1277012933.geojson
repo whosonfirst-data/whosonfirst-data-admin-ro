@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24427,44.58783,24.24427,44.58783",
-    "geom:latitude":44.58783,
-    "geom:longitude":24.24427,
+    "geom:area":0.000068,
+    "geom:area_square_m":595334.592414,
+    "geom:bbox":"24.234928,44.579062,24.256998,44.589383",
+    "geom:latitude":44.585066,
+    "geom:longitude":24.243881,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173748.0",
     "gn:asciiname":"Serbanesti",
@@ -24,13 +24,43 @@
     "gn:population":942,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.22427,44.56783,24.26427,44.60783",
+    "lbl:latitude":44.58783,
+    "lbl:longitude":24.24427,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:deu_x_preferred":[
+        "\u0218erb\u0103ne\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "\u015eerb\u0103ne\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "\u015eerb\u0103ne\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "\u015eerb\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Serbanesti",
+        "\u0218erb\u0103ne\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u0440\u0431\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Serbanesti"
+    ],
+    "name:vol_x_preferred":[
+        "\u015eerb\u0103ne\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +69,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667379
+        "gn:id":667379,
+        "ro-ancpi:id":173784
     },
     "wof:country":"RO",
-    "wof:geomhash":"fee5802425106729437a25bea26fa524",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b3d195699983685825e84ae9470c14d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +86,14 @@
         }
     ],
     "wof:id":1277012933,
-    "wof:lastmodified":1566610156,
-    "wof:name":"Serbanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203683,
+    "wof:name":"\u015eerb\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":942,
@@ -64,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24427,
-    44.58783,
-    24.24427,
-    44.58783
+    24.234928,
+    44.579062,
+    24.256998,
+    44.589383
 ],
-  "geometry": {"coordinates":[24.24427,44.58783],"type":"Point"}
+  "geometry": {"coordinates":[[[24.244458,44.589226],[24.244563,44.588583],[24.24879,44.587041],[24.256998,44.584166],[24.256371,44.582937],[24.247548,44.585058],[24.244324,44.5857],[24.236589,44.579062],[24.236296,44.579193],[24.234928,44.580454],[24.238023,44.584539],[24.240377,44.587052],[24.238719,44.588138],[24.23894,44.589383],[24.241056,44.588832],[24.242381,44.588814],[24.244458,44.589226]]],"type":"Polygon"}
 }

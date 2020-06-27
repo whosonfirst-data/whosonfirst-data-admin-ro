@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.48336,47.23028,22.48336,47.23028",
-    "geom:latitude":47.23028,
-    "geom:longitude":22.48336,
+    "geom:area":0.000042,
+    "geom:area_square_m":353199.854354,
+    "geom:bbox":"22.472773,47.22704,22.488263,47.233205",
+    "geom:latitude":47.229961,
+    "geom:longitude":22.481405,
     "gn:admin1_code":"05",
     "gn:admin2_code":"31262.0",
     "gn:asciiname":"Valcelele",
@@ -25,17 +25,52 @@
     "gn:population":266,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.46336,47.21028,22.50336,47.25028",
+    "lbl:latitude":47.23028,
+    "lbl:longitude":22.48336,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:epo_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:eus_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:ita_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:nld_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:ron_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "name:ron_x_variant":[
+        "Valcelele"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043b\u0447\u0435\u043b\u0435\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "R\u00eetu Blaghii",
         "V\u00eelcelele"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "V\u00e2lcelele"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662871
+        "gn:id":662871,
+        "ro-ancpi:id":31324
     },
     "wof:country":"RO",
-    "wof:geomhash":"ec3dcc4132a2de63bca4616c18150fbf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b9ed8a54d5a1c4202d55d5ff606682b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +96,14 @@
         }
     ],
     "wof:id":1242878969,
-    "wof:lastmodified":1566611440,
-    "wof:name":"Valcelele",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203510,
+    "wof:name":"V\u00e2lcelele",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":266,
@@ -69,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.48336,
-    47.23028,
-    22.48336,
-    47.23028
+    22.472773,
+    47.22704,
+    22.488263,
+    47.233205
 ],
-  "geometry": {"coordinates":[22.48336,47.23028],"type":"Point"}
+  "geometry": {"coordinates":[[[22.483645,47.229386],[22.484278,47.228088],[22.48224,47.227642],[22.480216,47.227701],[22.477845,47.22704],[22.476516,47.228602],[22.476006,47.228404],[22.474791,47.227832],[22.474426,47.227636],[22.473888,47.227321],[22.473709,47.227201],[22.472879,47.227646],[22.472773,47.227864],[22.477035,47.230073],[22.480737,47.231633],[22.483094,47.232593],[22.486745,47.233205],[22.487518,47.232011],[22.488263,47.230914],[22.487058,47.230589],[22.483645,47.229386]]],"type":"Polygon"}
 }

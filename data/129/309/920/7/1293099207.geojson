@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.06958,46.71231,27.06958,46.71231",
-    "geom:latitude":46.71231,
-    "geom:longitude":27.06958,
+    "geom:area":0.000033,
+    "geom:area_square_m":277393.241798,
+    "geom:bbox":"27.066278,46.70814,27.072158,46.715638",
+    "geom:latitude":46.71179,
+    "geom:longitude":27.06959,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24999.0",
     "gn:asciiname":"Neguseni",
@@ -25,17 +25,28 @@
     "gn:population":76,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.04958,46.69231,27.08958,46.73231",
+    "lbl:latitude":46.71231,
+    "lbl:longitude":27.06958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Negu\u015feni"
+    ],
+    "name:ron_x_variant":[
+        "Neguseni"
+    ],
     "name:und_x_variant":[
         "Negu\u015fenii",
         "Negu\u015feni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672334
+        "gn:id":672334,
+        "ro-ancpi:id":25022
     },
     "wof:country":"RO",
-    "wof:geomhash":"b14878cc2ab8ec07ef3b9118d77d22b2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e36c73546888505bd9dad77d479e2bb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1293099207,
-    "wof:lastmodified":1566610029,
-    "wof:name":"Neguseni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203539,
+    "wof:name":"Negu\u015feni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":76,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.06958,
-    46.71231,
-    27.06958,
-    46.71231
+    27.066278,
+    46.70814,
+    27.072158,
+    46.715638
 ],
-  "geometry": {"coordinates":[27.06958,46.71231],"type":"Point"}
+  "geometry": {"coordinates":[[[27.07057,46.71521],[27.071548,46.714749],[27.072158,46.714743],[27.072114,46.713364],[27.072015,46.711963],[27.071914,46.71091],[27.071953,46.70814],[27.070356,46.708203],[27.06889,46.708245],[27.068816,46.70852],[27.068437,46.708773],[27.068009,46.708959],[27.067977,46.70972],[27.06693,46.71001],[27.06631,46.710891],[27.066278,46.711741],[27.066621,46.712365],[27.067297,46.712763],[27.067646,46.713533],[27.067981,46.71525],[27.067985,46.715335],[27.067997,46.715387],[27.068115,46.715443],[27.068353,46.715638],[27.07057,46.71521]]],"type":"Polygon"}
 }

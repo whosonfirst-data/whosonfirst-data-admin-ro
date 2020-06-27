@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.71699,44.46234,24.71699,44.46234",
-    "geom:latitude":44.46234,
-    "geom:longitude":24.71699,
+    "geom:area":0.000028,
+    "geom:area_square_m":251153.041261,
+    "geom:bbox":"24.713149,44.458044,24.718201,44.46917",
+    "geom:latitude":44.462846,
+    "geom:longitude":24.715673,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126326.0",
     "gn:asciiname":"Burdulesti",
@@ -24,13 +24,26 @@
     "gn:population":327,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.69699,44.44234,24.73699,44.48234",
+    "lbl:latitude":44.460226,
+    "lbl:longitude":24.715712,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.460226,
+    "mps:longitude":24.715712,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Burdule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Burdulesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683234
+        "gn:id":683234,
+        "ro-ancpi:id":126344
     },
     "wof:country":"RO",
-    "wof:geomhash":"8bd12169ffc2d48660a751dbc9a336f3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bc42dc3f5529970b7c93b675443c6d84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1226403523,
-    "wof:lastmodified":1566611678,
-    "wof:name":"Burdulesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203708,
+    "wof:name":"Burdule\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":327,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.71699,
-    44.46234000000001,
-    24.71699,
-    44.46234000000001
+    24.713149,
+    44.458044,
+    24.718201,
+    44.46917
 ],
-  "geometry": {"coordinates":[24.71699,44.46234000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.718201,44.469009],[24.716741,44.465819],[24.715863,44.464407],[24.715709,44.46332],[24.716849,44.462302],[24.71788,44.459855],[24.716324,44.458053],[24.713149,44.458044],[24.713669,44.45939],[24.714385,44.463774],[24.714126,44.464621],[24.716036,44.46917],[24.718201,44.469009]]],"type":"Polygon"}
 }

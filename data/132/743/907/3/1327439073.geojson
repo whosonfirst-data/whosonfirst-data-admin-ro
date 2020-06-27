@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.89813,44.44911,24.89813,44.44911",
-    "geom:latitude":44.44911,
-    "geom:longitude":24.89813,
+    "geom:area":0.000204,
+    "geom:area_square_m":1797595.327692,
+    "geom:bbox":"24.888994,44.441441,24.907464,44.455638",
+    "geom:latitude":44.448228,
+    "geom:longitude":24.897587,
     "gn:admin1_code":"03",
     "gn:admin2_code":"15064.0",
     "gn:asciiname":"Burdea",
@@ -25,23 +25,31 @@
     "gn:population":844,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.87813,44.42911,24.91813,44.46911",
+    "lbl:latitude":44.44911,
+    "lbl:longitude":24.89813,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:por_x_preferred":[
         "Rio Burdea"
     ],
     "name:ron_x_preferred":[
+        "Burdea"
+    ],
+    "name:ron_x_variant":[
         "R\u00e2ul Burdea"
     ],
     "name:und_x_variant":[
         "Bundea",
         "Burdea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683245
+        "gn:id":683245,
+        "ro-ancpi:id":15082
     },
     "wof:country":"RO",
-    "wof:geomhash":"ec7c724f5e3d758d5cee7e364bf2ffca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"babb0bf1644b2f2ab8f9d4867c4473a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -63,7 +75,13 @@
         }
     ],
     "wof:id":1327439073,
-    "wof:lastmodified":1566609855,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203631,
     "wof:name":"Burdea",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -75,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.89813,
-    44.44911,
-    24.89813,
-    44.44911
+    24.888994,
+    44.441441,
+    24.907464,
+    44.455638
 ],
-  "geometry": {"coordinates":[24.89813,44.44911],"type":"Point"}
+  "geometry": {"coordinates":[[[24.904075,44.442478],[24.899836,44.441796],[24.898303,44.441642],[24.898235,44.442052],[24.890725,44.441441],[24.888994,44.454765],[24.901024,44.455638],[24.901523,44.455096],[24.901983,44.454373],[24.901795,44.453902],[24.901419,44.453396],[24.901613,44.452477],[24.902951,44.451521],[24.904617,44.450998],[24.906295,44.449705],[24.905952,44.449457],[24.906142,44.448625],[24.906924,44.448499],[24.907301,44.448174],[24.907464,44.447632],[24.906734,44.447113],[24.907331,44.443063],[24.905263,44.442577],[24.904075,44.442478]]],"type":"Polygon"}
 }

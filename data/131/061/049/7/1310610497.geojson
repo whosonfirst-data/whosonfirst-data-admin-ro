@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.98386,46.30375,22.98386,46.30375",
-    "geom:latitude":46.30375,
-    "geom:longitude":22.98386,
+    "geom:area":0.000026,
+    "geom:area_square_m":220746.201268,
+    "geom:bbox":"22.977109,46.30098,22.985464,46.310678",
+    "geom:latitude":46.305513,
+    "geom:longitude":22.981625,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Lehesti",
@@ -24,13 +24,26 @@
     "gn:population":77,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.96386,46.28375,23.00386,46.32375",
+    "lbl:latitude":46.306437,
+    "lbl:longitude":22.981213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.306437,
+    "mps:longitude":22.981213,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Lehe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Lehesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674919
+        "gn:id":674919,
+        "ro-ancpi:id":7589
     },
     "wof:country":"RO",
-    "wof:geomhash":"27c5566a12a5aa097ca1a6e789e8cc46",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f382b77a38e68b8483d396646b56d99f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1310610497,
-    "wof:lastmodified":1566610587,
-    "wof:name":"Lehesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203759,
+    "wof:name":"Lehe\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":77,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.98386,
-    46.30375,
-    22.98386,
-    46.30375
+    22.977109,
+    46.30098,
+    22.985464,
+    46.310678
 ],
-  "geometry": {"coordinates":[22.98386,46.30375],"type":"Point"}
+  "geometry": {"coordinates":[[[22.982471,46.303538],[22.982137,46.304162],[22.981728,46.304476],[22.981526,46.30515],[22.980132,46.305844],[22.979902,46.3074],[22.980573,46.307672],[22.980695,46.308664],[22.979836,46.309097],[22.979314,46.310678],[22.981238,46.310605],[22.981439,46.309968],[22.982438,46.309818],[22.982481,46.309252],[22.981887,46.307385],[22.984044,46.30756],[22.984721,46.306547],[22.982513,46.305625],[22.984019,46.302937],[22.985464,46.30133],[22.983843,46.30098],[22.982851,46.302829],[22.981519,46.302155],[22.977486,46.301611],[22.977109,46.302569],[22.982471,46.303538]]],"type":"Polygon"}
 }

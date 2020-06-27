@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.16591,47.49959,26.16591,47.49959",
-    "geom:latitude":47.49959,
-    "geom:longitude":26.16591,
+    "geom:area":0.00008,
+    "geom:area_square_m":670633.290574,
+    "geom:bbox":"26.150536,47.493622,26.171517,47.501715",
+    "geom:latitude":47.497764,
+    "geom:longitude":26.1616,
     "gn:admin1_code":"34",
     "gn:admin2_code":"149049",
     "gn:asciiname":"Bradatel",
@@ -24,13 +24,24 @@
     "gn:population":714,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.14591,47.47959,26.18591,47.51959",
+    "lbl:latitude":47.49959,
+    "lbl:longitude":26.16591,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Br\u0103d\u0103\u0163el"
+    ],
+    "name:ron_x_variant":[
+        "Bradatel"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683968
+        "gn:id":683968,
+        "ro-ancpi:id":149076
     },
     "wof:country":"RO",
-    "wof:geomhash":"8a826391f3e3370540c7bfe188a1700d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10f46af6afe8c1e6da17e0afe4ce72c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1343911787,
-    "wof:lastmodified":1566609880,
-    "wof:name":"Bradatel",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203427,
+    "wof:name":"Br\u0103d\u0103\u0163el",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":714,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.16591,
-    47.49959000000001,
-    26.16591,
-    47.49959000000001
+    26.150536,
+    47.493622,
+    26.171517,
+    47.501715
 ],
-  "geometry": {"coordinates":[26.16591,47.49959000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[26.158531,47.500006],[26.161506,47.499982],[26.163377,47.500094],[26.164205,47.500268],[26.164389,47.500307],[26.164445,47.500319],[26.169329,47.501715],[26.171517,47.499469],[26.171148,47.498078],[26.171015,47.497438],[26.168016,47.497697],[26.16735,47.497357],[26.166804,47.496705],[26.166262,47.495786],[26.166213,47.495648],[26.164253,47.496493],[26.162878,47.495161],[26.162727,47.49538],[26.158793,47.494465],[26.158755,47.494456],[26.158752,47.494459],[26.156543,47.496308],[26.154802,47.494607],[26.152776,47.493622],[26.150536,47.495089],[26.152772,47.496313],[26.154862,47.498777],[26.155701,47.499251],[26.155965,47.499012],[26.156472,47.499253],[26.157516,47.499784],[26.158531,47.500006]]],"type":"Polygon"}
 }

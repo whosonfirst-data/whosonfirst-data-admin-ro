@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34035,44.57274,24.34035,44.57274",
-    "geom:latitude":44.57274,
-    "geom:longitude":24.34035,
+    "geom:area":0.000049,
+    "geom:area_square_m":432696.302303,
+    "geom:bbox":"24.332827,44.567685,24.341933,44.576364",
+    "geom:latitude":44.571743,
+    "geom:longitude":24.337454,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129380.0",
     "gn:asciiname":"Schitu Deleni",
@@ -25,18 +25,26 @@
     "gn:population":245,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.32035,44.55274,24.36035,44.59274",
+    "lbl:latitude":44.57274,
+    "lbl:longitude":24.34035,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Schitu Deleni"
+    ],
     "name:und_x_variant":[
         "Schitul-Deleni",
         "Schitu",
         "Schitu-Deleni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667656
+        "gn:id":667656,
+        "ro-ancpi:id":129451
     },
     "wof:country":"RO",
-    "wof:geomhash":"5b4d4b06b523e01e94aa33a8d1c56a20",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d2c18c0afdf32ea15e3d3935363a7223",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +70,13 @@
         }
     ],
     "wof:id":1243119295,
-    "wof:lastmodified":1566611521,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203707,
     "wof:name":"Schitu Deleni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -70,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34035,
-    44.57274,
-    24.34035,
-    44.57274
+    24.332827,
+    44.567685,
+    24.341933,
+    44.576364
 ],
-  "geometry": {"coordinates":[24.34035,44.57274],"type":"Point"}
+  "geometry": {"coordinates":[[[24.341374,44.574464],[24.3415,44.573292],[24.341369,44.572365],[24.340632,44.571107],[24.340075,44.570247],[24.339959,44.568819],[24.339294,44.568893],[24.339277,44.568495],[24.338142,44.568582],[24.337752,44.568019],[24.336623,44.567685],[24.335016,44.568151],[24.333302,44.568359],[24.332827,44.568783],[24.332987,44.569076],[24.333214,44.570167],[24.333251,44.570981],[24.333141,44.572024],[24.334119,44.573159],[24.334732,44.573352],[24.335649,44.573186],[24.336696,44.573153],[24.337518,44.573641],[24.337147,44.573994],[24.336753,44.573847],[24.335915,44.573764],[24.335226,44.573986],[24.336221,44.574599],[24.336895,44.574727],[24.337434,44.575284],[24.338496,44.575827],[24.339721,44.576364],[24.341933,44.575292],[24.341374,44.574464]]],"type":"Polygon"}
 }

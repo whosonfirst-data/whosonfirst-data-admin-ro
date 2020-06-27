@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.86365,45.79865,23.86365,45.79865",
-    "geom:latitude":45.79865,
-    "geom:longitude":23.86365,
+    "geom:area":0.000034,
+    "geom:area_square_m":297371.252039,
+    "geom:bbox":"23.856291,45.794584,23.872831,45.799929",
+    "geom:latitude":45.797468,
+    "geom:longitude":23.865075,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145499.0",
     "gn:asciiname":"Gales",
@@ -24,11 +24,12 @@
     "gn:population":346,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.84365,45.77865,23.88365,45.81865",
+    "lbl:latitude":45.79865,
+    "lbl:longitude":23.86365,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Gales"
@@ -48,6 +49,12 @@
     "name:por_x_preferred":[
         "Gal\u00eas"
     ],
+    "name:ron_x_preferred":[
+        "Gale\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Gales"
+    ],
     "name:swe_x_preferred":[
         "Gales"
     ],
@@ -57,7 +64,11 @@
     "name:und_x_variant":[
         "Gale\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677661
+        "gn:id":677661,
+        "ro-ancpi:id":145541
     },
     "wof:country":"RO",
-    "wof:geomhash":"ca8a3ab8a9fb7a6cc14681ae49970a23",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f01f1620ff4cdf3b44ea18f47d0dd19d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,8 +94,14 @@
         }
     ],
     "wof:id":1242922187,
-    "wof:lastmodified":1566611449,
-    "wof:name":"Gales",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203658,
+    "wof:name":"Gale\u015f",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":346,
@@ -91,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.86365,
-    45.79865,
-    23.86365,
-    45.79865
+    23.856291,
+    45.794584,
+    23.872831,
+    45.799929
 ],
-  "geometry": {"coordinates":[23.86365,45.79865],"type":"Point"}
+  "geometry": {"coordinates":[[[23.872785,45.795928],[23.872025,45.795398],[23.87179,45.79517],[23.871701,45.79479],[23.87168,45.794584],[23.870144,45.794944],[23.868617,45.795447],[23.867318,45.79591],[23.866247,45.796325],[23.863839,45.797348],[23.860384,45.797349],[23.860265,45.796738],[23.859938,45.795895],[23.859495,45.796013],[23.858819,45.79613],[23.858852,45.796304],[23.858991,45.797374],[23.858043,45.797497],[23.858054,45.798056],[23.857149,45.798216],[23.856291,45.798612],[23.856691,45.799144],[23.860388,45.798602],[23.860503,45.798771],[23.861333,45.799829],[23.863779,45.799929],[23.864538,45.799388],[23.865758,45.798802],[23.868011,45.797895],[23.872831,45.796822],[23.872785,45.795928]]],"type":"Polygon"}
 }

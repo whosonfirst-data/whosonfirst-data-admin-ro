@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08866,45.1312,24.08866,45.1312",
-    "geom:latitude":45.1312,
-    "geom:longitude":24.08866,
+    "geom:area":0.000167,
+    "geom:area_square_m":1457184.601526,
+    "geom:bbox":"24.077503,45.12813,24.111023,45.140626",
+    "geom:latitude":45.133603,
+    "geom:longitude":24.092445,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168559.0",
     "gn:asciiname":"Negrulesti",
@@ -24,13 +24,26 @@
     "gn:population":591,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.06866,45.1112,24.10866,45.1512",
+    "lbl:latitude":45.136425,
+    "lbl:longitude":24.086604,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.136425,
+    "mps:longitude":24.086604,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Negrule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Negrulesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672345
+        "gn:id":672345,
+        "ro-ancpi:id":168595
     },
     "wof:country":"RO",
-    "wof:geomhash":"2a33a6a8dcfe5513c59e72176b6376d8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a840733d9c219c9c6a81e50103f52a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1276370825,
-    "wof:lastmodified":1566610255,
-    "wof:name":"Negrulesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
+    "wof:name":"Negrule\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":591,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08866,
-    45.1312,
-    24.08866,
-    45.1312
+    24.077503,
+    45.12813,
+    24.111023,
+    45.140626
 ],
-  "geometry": {"coordinates":[24.08866,45.1312],"type":"Point"}
+  "geometry": {"coordinates":[[[24.111023,45.131482],[24.110342,45.128812],[24.107683,45.12813],[24.103665,45.128276],[24.099104,45.129554],[24.090879,45.128908],[24.087168,45.128617],[24.086293,45.129862],[24.084347,45.132147],[24.078508,45.136592],[24.077503,45.140308],[24.082929,45.140626],[24.082763,45.139293],[24.085028,45.139559],[24.086582,45.140383],[24.088884,45.140542],[24.088858,45.139381],[24.088734,45.138354],[24.090489,45.137475],[24.093406,45.136734],[24.091624,45.134849],[24.090832,45.135348],[24.088616,45.13406],[24.087384,45.133119],[24.087746,45.13207],[24.088897,45.130732],[24.089517,45.130579],[24.090541,45.130383],[24.09185,45.130647],[24.093911,45.131022],[24.09282,45.13288],[24.10178,45.133263],[24.104387,45.133333],[24.106399,45.132579],[24.111023,45.131482]]],"type":"Polygon"}
 }

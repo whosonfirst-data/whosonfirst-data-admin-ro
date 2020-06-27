@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41407,44.90664,24.41407,44.90664",
-    "geom:latitude":44.90664,
-    "geom:longitude":24.41407,
+    "geom:area":0.000109,
+    "geom:area_square_m":955352.231926,
+    "geom:bbox":"24.404258,44.89953,24.42352,44.917009",
+    "geom:latitude":44.908751,
+    "geom:longitude":24.413741,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404.0",
     "gn:asciiname":"Linia pe Vale",
@@ -25,16 +25,20 @@
     "gn:population":86,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.39407,44.88664,24.43407,44.92664",
+    "lbl:latitude":44.90664,
+    "lbl:longitude":24.41407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna D\u0103nicei"
     ],
     "name:epo_x_preferred":[
+        "D\u0103nicei"
+    ],
+    "name:eus_x_preferred":[
         "D\u0103nicei"
     ],
     "name:ita_x_preferred":[
@@ -50,7 +54,11 @@
         "D\u0103nicei"
     ],
     "name:ron_x_preferred":[
-        "Comuna D\u0103nicei"
+        "Linia Pe Vale"
+    ],
+    "name:ron_x_variant":[
+        "Comuna D\u0103nicei",
+        "Linia pe Vale"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0430\u043d\u0438\u0447\u0435\u0458"
@@ -64,10 +72,17 @@
     "name:vie_x_preferred":[
         "Danicei"
     ],
+    "name:vie_x_variant":[
+        "D\u0103nicei"
+    ],
     "name:zho_x_preferred":[
         "\u5fb7\u5c3c\u5207\u4f0a\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,10 +92,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":674755,
+        "ro-ancpi:id":169510,
         "wk:page":"D%C4%83nicei"
     },
     "wof:country":"RO",
-    "wof:geomhash":"d59ec2f3772037cbec59ec36ada7b457",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b5dd77424ff0dd8238fc8e5524dce422",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,8 +109,14 @@
         }
     ],
     "wof:id":1293426079,
-    "wof:lastmodified":1566610127,
-    "wof:name":"Linia pe Vale",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
+    "wof:name":"Linia Pe Vale",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":86,
@@ -102,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41407,
-    44.90664,
-    24.41407,
-    44.90664
+    24.404258,
+    44.89953,
+    24.42352,
+    44.917009
 ],
-  "geometry": {"coordinates":[24.41407,44.90664],"type":"Point"}
+  "geometry": {"coordinates":[[[24.42352,44.915195],[24.4084,44.89953],[24.404258,44.900866],[24.41667,44.917009],[24.42352,44.915195]]],"type":"Polygon"}
 }

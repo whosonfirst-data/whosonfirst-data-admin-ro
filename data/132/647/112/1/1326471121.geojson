@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.66667,44.01667,24.66667,44.01667",
-    "geom:latitude":44.01667,
-    "geom:longitude":24.66667,
+    "geom:area":0.000028,
+    "geom:area_square_m":251590.172728,
+    "geom:bbox":"24.644328,44.016945,24.655283,44.022661",
+    "geom:latitude":44.019677,
+    "geom:longitude":24.650087,
     "gn:admin1_code":"35",
     "gn:admin2_code":"155083",
     "gn:asciiname":"Barsestii de Jos",
@@ -24,17 +24,30 @@
     "gn:population":162,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.64667,43.99667,24.68667,44.03667",
+    "lbl:latitude":44.020316,
+    "lbl:longitude":24.649257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.020316,
+    "mps:longitude":24.649257,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "B\u00e2rse\u015ftii de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Barsestii de Jos"
+    ],
     "name:und_x_variant":[
         "B\u00e2r\u015fe\u015fti-de-Jos",
         "B\u00eerse\u015ftii de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684747
+        "gn:id":684747,
+        "ro-ancpi:id":153650
     },
     "wof:country":"RO",
-    "wof:geomhash":"b7936f6f728ea4c2647307c7d2f1940f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9a6ba5eab4950e9b1738666d40541a4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1326471121,
-    "wof:lastmodified":1566609828,
-    "wof:name":"Barsestii de Jos",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203345,
+    "wof:name":"B\u00e2rse\u015ftii de Jos",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":162,
@@ -68,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.66667,
-    44.01667,
-    24.66667,
-    44.01667
+    24.644328,
+    44.016945,
+    24.655283,
+    44.022661
 ],
-  "geometry": {"coordinates":[24.66667,44.01667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.653359,44.017095],[24.652506,44.016945],[24.6522,44.017006],[24.651346,44.016953],[24.650985,44.016963],[24.651026,44.017023],[24.650819,44.017759],[24.650659,44.018051],[24.650139,44.018031],[24.648842,44.018735],[24.648092,44.018819],[24.647477,44.019002],[24.646926,44.019023],[24.646281,44.018842],[24.645658,44.018794],[24.645725,44.019462],[24.644328,44.019522],[24.644328,44.020366],[24.645417,44.020382],[24.645411,44.02026],[24.646803,44.020279],[24.647007,44.021653],[24.646555,44.022394],[24.647382,44.022661],[24.647972,44.021835],[24.650312,44.022359],[24.651308,44.02013],[24.652655,44.020227],[24.654344,44.020216],[24.654554,44.020162],[24.654848,44.019863],[24.655283,44.018979],[24.654254,44.018188],[24.653103,44.017959],[24.653359,44.017095]]],"type":"Polygon"}
 }

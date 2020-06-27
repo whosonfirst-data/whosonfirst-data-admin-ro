@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.93945,46.4038,22.93945,46.4038",
-    "geom:latitude":46.4038,
-    "geom:longitude":22.93945,
+    "geom:area":0.000015,
+    "geom:area_square_m":125123.598746,
+    "geom:bbox":"22.936421,46.402633,22.945159,46.407426",
+    "geom:latitude":46.405025,
+    "geom:longitude":22.941072,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8229.0",
     "gn:asciiname":"Valtori",
@@ -24,37 +24,65 @@
     "gn:population":57,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.91945,46.3838,22.95945,46.4238",
+    "lbl:latitude":46.4038,
+    "lbl:longitude":22.93945,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "V\u00e2ltori"
+    ],
+    "name:ron_x_preferred":[
+        "V\u00e2ltori"
+    ],
+    "name:ron_x_variant":[
+        "Valtori"
+    ],
     "name:und_x_variant":[
         "Vulturii",
         "Vultur"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662405
+        "gn:id":662405,
+        "ro-ancpi:id":8345
     },
     "wof:country":"RO",
-    "wof:geomhash":"7b84a0a1c2aa1aaeadb0cab86974cbfa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a6cb09ee75c2ccc313dd72b86f6f1de9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209632991
+            "locality_id":1209632991,
+            "region_id":85687697
         }
     ],
     "wof:id":1209632991,
-    "wof:lastmodified":1566610303,
-    "wof:name":"Valtori",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203755,
+    "wof:name":"V\u00e2ltori",
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":57,
     "wof:population_rank":1,
@@ -64,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.93945,
-    46.4038,
-    22.93945,
-    46.4038
+    22.936421,
+    46.402633,
+    22.945159,
+    46.407426
 ],
-  "geometry": {"coordinates":[22.93945,46.4038],"type":"Point"}
+  "geometry": {"coordinates":[[[22.942862,46.407308],[22.943092,46.407426],[22.944315,46.40601],[22.944761,46.405431],[22.945159,46.404498],[22.944373,46.404215],[22.943812,46.404851],[22.943626,46.405417],[22.943168,46.405403],[22.94291,46.405805],[22.9422,46.405952],[22.94178,46.405915],[22.941134,46.405592],[22.941416,46.405208],[22.941384,46.404009],[22.941719,46.403841],[22.94209,46.403678],[22.942286,46.403682],[22.942613,46.403676],[22.942721,46.403657],[22.943004,46.403556],[22.943075,46.403501],[22.94307,46.403405],[22.94215,46.403369],[22.941328,46.403343],[22.940536,46.403448],[22.94016,46.402633],[22.939215,46.403095],[22.938511,46.403406],[22.938734,46.403688],[22.938547,46.403697],[22.937961,46.403762],[22.937614,46.403836],[22.937225,46.403937],[22.936807,46.404041],[22.936421,46.404119],[22.936561,46.404569],[22.937358,46.404565],[22.937704,46.404367],[22.938332,46.404235],[22.938831,46.404346],[22.939142,46.404642],[22.939521,46.406068],[22.940137,46.406984],[22.941921,46.406543],[22.942862,46.407308]]],"type":"Polygon"}
 }

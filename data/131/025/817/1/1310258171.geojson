@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.05765,44.34007,25.05765,44.34007",
-    "geom:latitude":44.34007,
-    "geom:longitude":25.05765,
+    "geom:area":0.000121,
+    "geom:area_square_m":1073556.609041,
+    "geom:bbox":"25.048992,44.332611,25.064586,44.347792",
+    "geom:latitude":44.33896,
+    "geom:longitude":25.055737,
     "gn:admin1_code":"35",
     "gn:admin2_code":"152528",
     "gn:asciiname":"Baldovinesti",
@@ -24,13 +24,40 @@
     "gn:population":572,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.03765,44.32007,25.07765,44.36007",
+    "lbl:latitude":44.34007,
+    "lbl:longitude":25.05765,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "Baldovine\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Baldovine\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Baldovine\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Baldovinesti",
+        "Baldovine\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0434\u043e\u0432\u0456\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Baldovinesti"
+    ],
+    "name:vol_x_preferred":[
+        "Baldovine\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685644
+        "gn:id":685644,
+        "ro-ancpi:id":152546
     },
     "wof:country":"RO",
-    "wof:geomhash":"089002da8b1ee0c6692331ae0c84cd4b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9a17cce0e03696b7bcb67feef3902fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +83,14 @@
         }
     ],
     "wof:id":1310258171,
-    "wof:lastmodified":1566610534,
-    "wof:name":"Baldovinesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203346,
+    "wof:name":"Baldovine\u015fti",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":572,
@@ -64,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.05765,
-    44.34007,
-    25.05765,
-    44.34007
+    25.048992,
+    44.332611,
+    25.064586,
+    44.347792
 ],
-  "geometry": {"coordinates":[25.05765,44.34007],"type":"Point"}
+  "geometry": {"coordinates":[[[25.064586,44.336846],[25.057843,44.333061],[25.05634,44.334329],[25.056258,44.3344],[25.052948,44.332611],[25.052605,44.332959],[25.051643,44.332644],[25.050478,44.333359],[25.048992,44.334681],[25.049581,44.334977],[25.049369,44.335197],[25.049544,44.3353],[25.049469,44.335363],[25.049757,44.335534],[25.049557,44.335772],[25.049993,44.336042],[25.049758,44.336292],[25.050646,44.336906],[25.050398,44.337235],[25.050981,44.337546],[25.050789,44.33772],[25.051863,44.338432],[25.051122,44.33916],[25.052077,44.339731],[25.051831,44.340239],[25.051911,44.340867],[25.052206,44.341178],[25.051508,44.341841],[25.052029,44.342135],[25.051074,44.342919],[25.051767,44.343324],[25.051377,44.343667],[25.05167,44.34387],[25.051319,44.344129],[25.051533,44.344276],[25.050035,44.345603],[25.050551,44.34585],[25.050896,44.346704],[25.051953,44.347417],[25.052752,44.347792],[25.058512,44.342522],[25.064586,44.336846]]],"type":"Polygon"}
 }

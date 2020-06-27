@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.14507,46.02234,23.14507,46.02234",
-    "geom:latitude":46.02234,
-    "geom:longitude":23.14507,
+    "geom:area":0.00003,
+    "geom:area_square_m":254708.494222,
+    "geom:bbox":"23.140362,46.018034,23.14724,46.028755",
+    "geom:latitude":46.022782,
+    "geom:longitude":23.143464,
     "gn:admin1_code":"21",
     "gn:admin2_code":"87843",
     "gn:asciiname":"Ardeu",
@@ -25,17 +25,33 @@
     "gn:population":74,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.12507,46.00234,23.16507,46.04234",
+    "lbl:latitude":46.022085,
+    "lbl:longitude":23.143412,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.022085,
+    "mps:longitude":23.143412,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:por_x_preferred":[
+        "Rio Ardeu"
+    ],
+    "name:ron_x_preferred":[
+        "Ardeu"
+    ],
+    "name:ron_x_variant":[
+        "R\u00e2ul Ardeu"
+    ],
     "name:und_x_variant":[
         "Ardeul",
         "Ardeu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686208
+        "gn:id":686208,
+        "ro-ancpi:id":87870
     },
     "wof:country":"RO",
-    "wof:geomhash":"4b4758d6ce9fd909ea303f1fef550343",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"08f526f8e2184289b6f319a3da21f1bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +77,13 @@
         }
     ],
     "wof:id":1276941653,
-    "wof:lastmodified":1566610194,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203796,
     "wof:name":"Ardeu",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -69,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.14507,
-    46.02234,
-    23.14507,
-    46.02234
+    23.140362,
+    46.018034,
+    23.14724,
+    46.028755
 ],
-  "geometry": {"coordinates":[23.14507,46.02234],"type":"Point"}
+  "geometry": {"coordinates":[[[23.144873,46.022996],[23.145197,46.021575],[23.146654,46.021849],[23.147224,46.021377],[23.146764,46.020232],[23.14724,46.019219],[23.145881,46.018503],[23.145426,46.018034],[23.144586,46.018195],[23.142397,46.02078],[23.141678,46.021616],[23.141598,46.022347],[23.141595,46.023253],[23.140826,46.025576],[23.140362,46.027013],[23.140503,46.028596],[23.142161,46.028755],[23.142544,46.02722],[23.142765,46.02562],[23.143019,46.024642],[23.143791,46.023922],[23.144873,46.022996]]],"type":"Polygon"}
 }

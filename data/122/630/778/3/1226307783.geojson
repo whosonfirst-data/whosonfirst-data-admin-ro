@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.31562,46.2345,25.31562,46.2345",
-    "geom:latitude":46.2345,
-    "geom:longitude":25.31562,
+    "geom:area":0.000017,
+    "geom:area_square_m":149533.2826,
+    "geom:bbox":"25.310656,46.23223,25.317743,46.236593",
+    "geom:latitude":46.234251,
+    "geom:longitude":25.314077,
     "gn:admin1_code":"20",
     "gn:admin2_code":"83197",
     "gn:asciiname":"Alexandrita",
@@ -25,18 +25,29 @@
     "gn:population":49,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.29562,46.2145,25.33562,46.2545",
+    "lbl:latitude":46.2345,
+    "lbl:longitude":25.31562,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Alexandri\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Alexandrita"
+    ],
     "name:und_x_variant":[
         "S\u00e0ndortelke",
         "Alexandria",
         "Alexandri\u0163a"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686498
+        "gn:id":686498,
+        "ro-ancpi:id":83213
     },
     "wof:country":"RO",
-    "wof:geomhash":"ace5e0b183f3df12b29ec95e892fedb2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"933d0af1440443cd3dd0b3d61fd3e99d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1226307783,
-    "wof:lastmodified":1566611696,
-    "wof:name":"Alexandrita",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203397,
+    "wof:name":"Alexandri\u0163a",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":49,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.31562000000001,
-    46.2345,
-    25.31562000000001,
-    46.2345
+    25.310656,
+    46.23223,
+    25.317743,
+    46.236593
 ],
-  "geometry": {"coordinates":[25.31562000000001,46.2345],"type":"Point"}
+  "geometry": {"coordinates":[[[25.314371,46.236281],[25.314374,46.23618],[25.314415,46.236079],[25.314966,46.236194],[25.315761,46.235511],[25.315641,46.235456],[25.315946,46.235093],[25.316676,46.234421],[25.316323,46.234241],[25.316151,46.234004],[25.316211,46.233886],[25.316846,46.234128],[25.316956,46.234093],[25.316925,46.233995],[25.317154,46.233486],[25.317743,46.232786],[25.316625,46.232497],[25.315621,46.232855],[25.31527,46.232989],[25.314818,46.232976],[25.315174,46.232733],[25.315074,46.23223],[25.314163,46.232246],[25.312747,46.232897],[25.31115,46.233618],[25.311321,46.233904],[25.310824,46.234502],[25.310922,46.234853],[25.310656,46.234972],[25.311219,46.23543],[25.311615,46.23532],[25.311873,46.235311],[25.312168,46.235105],[25.3124,46.235059],[25.312683,46.23513],[25.312646,46.235398],[25.31239,46.235711],[25.312172,46.235891],[25.312755,46.236389],[25.313128,46.236308],[25.313592,46.236369],[25.313836,46.236207],[25.314028,46.23635],[25.313951,46.236593],[25.314372,46.236586],[25.314385,46.236356],[25.314371,46.236281]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.55504,44.39358,24.55504,44.39358",
-    "geom:latitude":44.39358,
-    "geom:longitude":24.55504,
+    "geom:area":0.000025,
+    "geom:area_square_m":219668.89687,
+    "geom:bbox":"24.546962,44.385157,24.555328,44.390717",
+    "geom:latitude":44.388142,
+    "geom:longitude":24.550697,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128052.0",
     "gn:asciiname":"Magura",
@@ -24,14 +24,20 @@
     "gn:population":710,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.53504,44.37358,24.57504,44.41358",
+    "lbl:latitude":44.38849,
+    "lbl:longitude":24.550633,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.38849,
+    "mps:longitude":24.550633,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Magura"
+    ],
+    "name:ceb_x_variant":[
+        "M\u0103gura"
     ],
     "name:ces_x_preferred":[
         "Magura"
@@ -42,13 +48,28 @@
     "name:epo_x_preferred":[
         "Magura"
     ],
+    "name:epo_x_variant":[
+        "M\u0103gura"
+    ],
+    "name:hun_x_preferred":[
+        "M\u0103gura"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103gura"
+    ],
     "name:nld_x_preferred":[
         "Magura"
+    ],
+    "name:nld_x_variant":[
+        "M\u0103gura"
     ],
     "name:pol_x_preferred":[
         "Magura"
     ],
     "name:ron_x_preferred":[
+        "M\u0103gura"
+    ],
+    "name:ron_x_variant":[
         "Magura"
     ],
     "name:rus_x_preferred":[
@@ -66,7 +87,14 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0491\u0443\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "M\u0103gura"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +103,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674160
+        "gn:id":674160,
+        "ro-ancpi:id":128089
     },
     "wof:country":"RO",
-    "wof:geomhash":"bfc49d0b840c95e25e9d5b77d48a256f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8654741a5b8ef850347af4aab6adb313",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,8 +120,14 @@
         }
     ],
     "wof:id":1226711019,
-    "wof:lastmodified":1566611674,
-    "wof:name":"Magura",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203708,
+    "wof:name":"M\u0103gura",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":710,
@@ -100,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.55504,
-    44.39358,
-    24.55504,
-    44.39358
+    24.546962,
+    44.385157,
+    24.555328,
+    44.390717
 ],
-  "geometry": {"coordinates":[24.55504,44.39358],"type":"Point"}
+  "geometry": {"coordinates":[[[24.552158,44.390449],[24.553057,44.389806],[24.555328,44.387791],[24.551113,44.386484],[24.548098,44.385157],[24.54741,44.385617],[24.546962,44.387235],[24.548631,44.387513],[24.548386,44.390129],[24.548383,44.39036],[24.548743,44.39044],[24.550573,44.390717],[24.552158,44.390449]]],"type":"Polygon"}
 }

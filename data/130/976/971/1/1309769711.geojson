@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.58764,44.34332,23.58764,44.34332",
-    "geom:latitude":44.34332,
-    "geom:longitude":23.58764,
+    "geom:area":0.000021,
+    "geom:area_square_m":183314.353054,
+    "geom:bbox":"23.575163,44.341578,23.585492,44.344899",
+    "geom:latitude":44.343329,
+    "geom:longitude":23.580623,
     "gn:admin1_code":"17",
     "gn:admin2_code":"73772.0",
     "gn:asciiname":"Predestii Mici",
@@ -25,18 +25,31 @@
     "gn:population":17,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.56764,44.32332,23.60764,44.36332",
+    "lbl:latitude":44.343228,
+    "lbl:longitude":23.582172,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.343228,
+    "mps:longitude":23.582172,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Prede\u015ftii Mici"
+    ],
+    "name:ron_x_variant":[
+        "Predestii Mici"
+    ],
     "name:und_x_variant":[
         "Diea",
         "Dia",
         "Prede\u015ftii Mici"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669692
+        "gn:id":669692,
+        "ro-ancpi:id":73843
     },
     "wof:country":"RO",
-    "wof:geomhash":"f62fcf43246f6eb593fd835266626bb9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3e74c3f2c8be482e63f49d9ab463b159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1309769711,
-    "wof:lastmodified":1566611246,
-    "wof:name":"Predestii Mici",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203325,
+    "wof:name":"Prede\u015ftii Mici",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":17,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.58764,
-    44.34332,
-    23.58764,
-    44.34332
+    23.575163,
+    44.341578,
+    23.585492,
+    44.344899
 ],
-  "geometry": {"coordinates":[23.58764,44.34332],"type":"Point"}
+  "geometry": {"coordinates":[[[23.582986,44.344585],[23.583155,44.343986],[23.584126,44.34393],[23.585492,44.343852],[23.585158,44.342214],[23.584399,44.342254],[23.584201,44.341578],[23.57971,44.341964],[23.579872,44.342452],[23.579949,44.342645],[23.578518,44.342789],[23.577772,44.342841],[23.577286,44.342897],[23.576912,44.342973],[23.576661,44.342976],[23.576324,44.342978],[23.575373,44.343031],[23.575163,44.343173],[23.575612,44.343978],[23.576199,44.344899],[23.57689,44.344885],[23.578004,44.344885],[23.578875,44.344861],[23.579572,44.344772],[23.579492,44.344027],[23.579485,44.343925],[23.581057,44.343703],[23.581561,44.344793],[23.582986,44.344585]]],"type":"Polygon"}
 }

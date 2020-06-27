@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.94049,47.78648,22.94049,47.78648",
-    "geom:latitude":47.78648,
-    "geom:longitude":22.94049,
+    "geom:area":0.000416,
+    "geom:area_square_m":3454211.398762,
+    "geom:bbox":"22.918482,47.781033,22.945129,47.808056",
+    "geom:latitude":47.792045,
+    "geom:longitude":22.931288,
     "gn:admin1_code":"32",
     "gn:admin2_code":"138280.0",
     "gn:asciiname":"Martinesti",
@@ -24,13 +24,46 @@
     "gn:population":208,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.92049,47.76648,22.96049,47.80648",
+    "lbl:latitude":47.78648,
+    "lbl:longitude":22.94049,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:epo_x_preferred":[
+        "M\u0103rtine\u015fti"
+    ],
+    "name:hun_x_preferred":[
+        "Martinesd"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103rtine\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "M\u0103rtine\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "M\u0103rtine\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Martinesti",
+        "M\u0103rtine\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0442\u0456\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Martinesti"
+    ],
+    "name:vol_x_preferred":[
+        "M\u0103rtine\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +72,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673735
+        "gn:id":673735,
+        "ro-ancpi:id":138333
     },
     "wof:country":"RO",
-    "wof:geomhash":"161748d961cb887fb48548c8f8f9b6a6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d2d7701f291695a63d7c9eb82c229ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +89,14 @@
         }
     ],
     "wof:id":1360130327,
-    "wof:lastmodified":1566610614,
-    "wof:name":"Martinesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203364,
+    "wof:name":"M\u0103rtine\u015fti",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":208,
@@ -64,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.94049,
-    47.78648,
-    22.94049,
-    47.78648
+    22.918482,
+    47.781033,
+    22.945129,
+    47.808056
 ],
-  "geometry": {"coordinates":[22.94049,47.78648],"type":"Point"}
+  "geometry": {"coordinates":[[[22.934351,47.808056],[22.938555,47.805334],[22.93881,47.801772],[22.935585,47.799237],[22.93609,47.794457],[22.937444,47.793265],[22.938204,47.791921],[22.937703,47.791173],[22.93535,47.79075],[22.943154,47.789197],[22.943871,47.787113],[22.945129,47.785682],[22.943123,47.78181],[22.939488,47.78165],[22.935553,47.781033],[22.930347,47.781274],[22.925085,47.782038],[22.921964,47.783197],[22.919391,47.78389],[22.918482,47.784506],[22.919314,47.785988],[22.919175,47.786241],[22.919757,47.786977],[22.920948,47.787838],[22.921199,47.788686],[22.921297,47.789198],[22.920476,47.791931],[22.921201,47.794232],[22.921415,47.794192],[22.922441,47.796196],[22.922602,47.796203],[22.925042,47.800126],[22.925823,47.80093],[22.925952,47.802186],[22.926935,47.803962],[22.926361,47.804274],[22.927173,47.805043],[22.927773,47.805755],[22.929566,47.805241],[22.931935,47.806618],[22.934351,47.808056]]],"type":"Polygon"}
 }

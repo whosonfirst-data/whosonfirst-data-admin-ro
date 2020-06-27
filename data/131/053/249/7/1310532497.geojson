@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.07191,44.92073,24.07191,44.92073",
-    "geom:latitude":44.92073,
-    "geom:longitude":24.07191,
+    "geom:area":0.000051,
+    "geom:area_square_m":446251.93399,
+    "geom:bbox":"24.056523,44.914475,24.072413,44.925257",
+    "geom:latitude":44.917667,
+    "geom:longitude":24.066262,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172581.0",
     "gn:asciiname":"Frasina",
@@ -25,17 +25,30 @@
     "gn:population":34,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.05191,44.90073,24.09191,44.94073",
+    "lbl:latitude":44.916087,
+    "lbl:longitude":24.064396,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.916087,
+    "mps:longitude":24.064396,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Fr\u0103sina"
+    ],
+    "name:ron_x_variant":[
+        "Frasina"
+    ],
     "name:und_x_variant":[
         "Frasana",
         "Frasina"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677961
+        "gn:id":677961,
+        "ro-ancpi:id":172652
     },
     "wof:country":"RO",
-    "wof:geomhash":"c91ff696a1e9bd6d6d319b54c3723222",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2910be9e59e04476c17c2c28d97b2b73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1310532497,
-    "wof:lastmodified":1566610545,
-    "wof:name":"Frasina",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"Fr\u0103sina",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":34,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.07191,
-    44.92073,
-    24.07191,
-    44.92073
+    24.056523,
+    44.914475,
+    24.072413,
+    44.925257
 ],
-  "geometry": {"coordinates":[24.07191,44.92073],"type":"Point"}
+  "geometry": {"coordinates":[[[24.071965,44.914531],[24.069026,44.914827],[24.068942,44.914475],[24.067178,44.914499],[24.065142,44.914551],[24.062829,44.915145],[24.058852,44.915444],[24.058364,44.915798],[24.058296,44.916665],[24.056592,44.917005],[24.056523,44.917901],[24.058409,44.918814],[24.059891,44.917522],[24.060923,44.917467],[24.06631,44.917411],[24.066484,44.916998],[24.066035,44.916582],[24.066516,44.915708],[24.069639,44.915525],[24.069796,44.917432],[24.067806,44.917643],[24.06793,44.919039],[24.069264,44.918977],[24.069228,44.919578],[24.068703,44.922538],[24.067822,44.9225],[24.067783,44.922806],[24.067792,44.923279],[24.067814,44.925152],[24.068934,44.925257],[24.069228,44.924325],[24.069439,44.923643],[24.06992,44.922074],[24.070132,44.921368],[24.070387,44.920511],[24.071916,44.920512],[24.072413,44.916648],[24.071965,44.914531]]],"type":"Polygon"}
 }

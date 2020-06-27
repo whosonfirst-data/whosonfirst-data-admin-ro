@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.92179,46.61991,26.92179,46.61991",
-    "geom:latitude":46.61991,
-    "geom:longitude":26.92179,
+    "geom:area":0.000107,
+    "geom:area_square_m":907893.165763,
+    "geom:bbox":"26.915096,46.602364,26.938216,46.628968",
+    "geom:latitude":46.612569,
+    "geom:longitude":26.925769,
     "gn:admin1_code":"04",
     "gn:admin2_code":"25228",
     "gn:asciiname":"Bogdan Voda",
@@ -24,13 +24,66 @@
     "gn:population":315,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.90179,46.59991,26.94179,46.63991",
+    "lbl:latitude":46.61044,
+    "lbl:longitude":26.925614,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.61044,
+    "mps:longitude":26.925614,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Comuna Bogdan Vod\u0103"
+    ],
+    "name:epo_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:eus_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:fra_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:msa_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:nld_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Bogdan Voda",
+        "Comuna Bogdan Vod\u0103"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u043e\u0433\u0434\u0430\u043d \u0412\u043e\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d-\u0412\u043e\u0434\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:vol_x_preferred":[
+        "Bogdan Vod\u0103"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u683c\u4e39\u5927\u516c\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +92,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684382
+        "gn:id":684382,
+        "ro-ancpi:id":25246
     },
     "wof:country":"RO",
-    "wof:geomhash":"59c1388b747c44714db61548e597a739",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7b9fbcee90b88f685c7c357fa7e30680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +109,14 @@
         }
     ],
     "wof:id":1309744925,
-    "wof:lastmodified":1566611260,
-    "wof:name":"Bogdan Voda",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203551,
+    "wof:name":"Bogdan Vod\u0103",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":315,
@@ -64,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.92179,
-    46.61991,
-    26.92179,
-    46.61991
+    26.915096,
+    46.602364,
+    26.938216,
+    46.628968
 ],
-  "geometry": {"coordinates":[26.92179,46.61991],"type":"Point"}
+  "geometry": {"coordinates":[[[26.93558,46.607527],[26.936392,46.60672],[26.938216,46.604909],[26.934911,46.603394],[26.934959,46.602942],[26.934045,46.602596],[26.933416,46.602364],[26.932882,46.602664],[26.932413,46.602855],[26.931603,46.602873],[26.930863,46.602911],[26.929734,46.602852],[26.929188,46.603855],[26.928799,46.604316],[26.928524,46.604679],[26.928253,46.605088],[26.928018,46.605357],[26.927686,46.605477],[26.927252,46.605513],[26.925433,46.608719],[26.924979,46.608813],[26.924801,46.608176],[26.923971,46.608228],[26.923896,46.609742],[26.923989,46.611256],[26.923248,46.612723],[26.922057,46.612388],[26.922297,46.611852],[26.920804,46.611499],[26.920693,46.61267],[26.923018,46.613188],[26.922578,46.614174],[26.922347,46.614185],[26.922149,46.61458],[26.921704,46.614638],[26.920312,46.617173],[26.919824,46.617149],[26.919292,46.61796],[26.916856,46.61732],[26.916033,46.618115],[26.918511,46.61889],[26.917462,46.620826],[26.918402,46.621063],[26.915876,46.625789],[26.915096,46.628649],[26.916919,46.628968],[26.917682,46.626179],[26.920418,46.620936],[26.920588,46.620967],[26.923657,46.615484],[26.923502,46.615427],[26.924251,46.614244],[26.930181,46.61645],[26.930919,46.615576],[26.925609,46.613536],[26.932246,46.605326],[26.933458,46.605872],[26.933093,46.606416],[26.93558,46.607527]]],"type":"Polygon"}
 }

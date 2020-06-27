@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.47812,44.19589,23.47812,44.19589",
-    "geom:latitude":44.19589,
-    "geom:longitude":23.47812,
+    "geom:area":0.000057,
+    "geom:area_square_m":506184.799825,
+    "geom:bbox":"23.440159,44.192147,23.484863,44.204479",
+    "geom:latitude":44.196363,
+    "geom:longitude":23.475073,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74028.0",
     "gn:asciiname":"Marza",
@@ -25,17 +25,28 @@
     "gn:population":543,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.45812,44.17589,23.49812,44.21589",
+    "lbl:latitude":44.19589,
+    "lbl:longitude":23.47812,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u00e2rza"
+    ],
+    "name:ron_x_variant":[
+        "Marza"
+    ],
     "name:und_x_variant":[
         "M\u00e2rza",
         "M\u00eerza"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673085
+        "gn:id":673085,
+        "ro-ancpi:id":74046
     },
     "wof:country":"RO",
-    "wof:geomhash":"ea6b2a7f3e8a4c8f9a1ceae14834464a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"26e7152b5f240c22f50eda36bff05885",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1276626279,
-    "wof:lastmodified":1566610259,
-    "wof:name":"Marza",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203319,
+    "wof:name":"M\u00e2rza",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":543,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.47812,
-    44.19589000000001,
-    23.47812,
-    44.19589000000001
+    23.440159,
+    44.192147,
+    23.484863,
+    44.204479
 ],
-  "geometry": {"coordinates":[23.47812,44.19589000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.483512,44.192147],[23.48023,44.193051],[23.478427,44.193059],[23.475215,44.193881],[23.473674,44.194475],[23.473851,44.194777],[23.469709,44.195835],[23.470811,44.197878],[23.473294,44.197496],[23.474402,44.197561],[23.475148,44.197339],[23.475801,44.197115],[23.47676,44.198441],[23.477972,44.20072],[23.480649,44.200007],[23.479974,44.198418],[23.478687,44.196339],[23.483694,44.19491],[23.484813,44.194543],[23.484385,44.193753],[23.484599,44.193447],[23.484863,44.192965],[23.484777,44.192822],[23.484006,44.193056],[23.483512,44.192147]]],[[[23.440266,44.202489],[23.440159,44.202809],[23.440392,44.203296],[23.440576,44.203592],[23.441128,44.20385],[23.441331,44.204095],[23.441418,44.204479],[23.442919,44.204112],[23.4419,44.201927],[23.441112,44.202209],[23.44062,44.202427],[23.440266,44.202489]]]],"type":"MultiPolygon"}
 }

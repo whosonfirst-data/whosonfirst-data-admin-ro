@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.15521,45.33973,26.15521,45.33973",
-    "geom:latitude":45.33973,
-    "geom:longitude":26.15521,
+    "geom:area":0.000006,
+    "geom:area_square_m":50168.279858,
+    "geom:bbox":"26.148521,45.340035,26.153592,45.343479",
+    "geom:latitude":45.341916,
+    "geom:longitude":26.151093,
     "gn:admin1_code":"30",
     "gn:admin2_code":"135315.0",
     "gn:asciiname":"Zmeuret",
@@ -25,17 +25,27 @@
     "gn:population":45,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.13521,45.31973,26.17521,45.35973",
+    "lbl:latitude":45.341989,
+    "lbl:longitude":26.151055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.341989,
+    "mps:longitude":26.151055,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Zmeuret"
+    ],
     "name:und_x_variant":[
         "Smeuretut",
         "Smeuret"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666634
+        "gn:id":666634,
+        "ro-ancpi:id":135397
     },
     "wof:country":"RO",
-    "wof:geomhash":"a7c5a1a066f7c30ec0a1e1547987a8eb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"397286dca544b40266a54a233551f731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1242724559,
-    "wof:lastmodified":1566611442,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203586,
     "wof:name":"Zmeuret",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.15521,
-    45.33973,
-    26.15521,
-    45.33973
+    26.148521,
+    45.340035,
+    26.153592,
+    45.343479
 ],
-  "geometry": {"coordinates":[26.15521,45.33973],"type":"Point"}
+  "geometry": {"coordinates":[[[26.151397,45.342516],[26.151587,45.342297],[26.151791,45.342295],[26.152026,45.342293],[26.152176,45.342119],[26.15225,45.341757],[26.152494,45.341668],[26.152653,45.341451],[26.152727,45.341082],[26.153095,45.341093],[26.153592,45.340389],[26.153538,45.340238],[26.15328,45.340118],[26.152961,45.340035],[26.151985,45.34078],[26.151246,45.341119],[26.150833,45.341397],[26.150089,45.342003],[26.149455,45.342254],[26.148521,45.342804],[26.148692,45.343156],[26.149009,45.34316],[26.149133,45.34323],[26.149351,45.343401],[26.149536,45.343442],[26.150201,45.343479],[26.150372,45.343355],[26.150285,45.343089],[26.150466,45.34295],[26.151014,45.342757],[26.151397,45.342516]]],"type":"Polygon"}
 }

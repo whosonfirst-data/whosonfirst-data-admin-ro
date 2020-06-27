@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.99068,44.45621,25.99068,44.45621",
-    "geom:latitude":44.45621,
-    "geom:longitude":25.99068,
+    "geom:area":0.000105,
+    "geom:area_square_m":925022.781459,
+    "geom:bbox":"25.980628,44.450349,25.998936,44.460931",
+    "geom:latitude":44.455589,
+    "geom:longitude":25.990049,
     "gn:admin1_code":"43",
     "gn:admin2_code":"179249.0",
     "gn:asciiname":"Dudu",
@@ -25,11 +25,12 @@
     "gn:population":757,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.97068,44.43621,26.01068,44.47621",
+    "lbl:latitude":44.45621,
+    "lbl:longitude":25.99068,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dudu"
@@ -76,27 +77,45 @@
     "name:und_x_variant":[
         "Dudul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687611
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678778
+        "gn:id":678778,
+        "ro-ancpi:id":179267
     },
     "wof:country":"RO",
-    "wof:geomhash":"b05f77a613aef38647b926b01e559de9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a8217e220fd284135f528e493c034439",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209345397
+            "locality_id":1209345397,
+            "region_id":85687611
         }
     ],
     "wof:id":1209345397,
-    "wof:lastmodified":1566610368,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203627,
     "wof:name":"Dudu",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687611,
     "wof:placetype":"locality",
     "wof:population":757,
     "wof:population_rank":2,
@@ -106,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.99068,
-    44.45621,
-    25.99068,
-    44.45621
+    25.980628,
+    44.450349,
+    25.998936,
+    44.460931
 ],
-  "geometry": {"coordinates":[25.99068,44.45621],"type":"Point"}
+  "geometry": {"coordinates":[[[25.998936,44.452206],[25.997952,44.450349],[25.987253,44.452924],[25.986572,44.452265],[25.984556,44.452999],[25.98481,44.453233],[25.983192,44.45335],[25.980628,44.453987],[25.985562,44.460201],[25.985677,44.460135],[25.986591,44.459613],[25.986942,44.459817],[25.987156,44.459681],[25.987615,44.459501],[25.988177,44.459424],[25.988626,44.459513],[25.98883,44.459645],[25.989047,44.459849],[25.989588,44.460322],[25.989717,44.460501],[25.990072,44.460865],[25.990377,44.460931],[25.992963,44.459632],[25.993716,44.458966],[25.994269,44.458968],[25.99615,44.45668],[25.998003,44.456392],[25.998056,44.456148],[25.998025,44.455142],[25.997349,44.455107],[25.995808,44.455423],[25.99588,44.452855],[25.998212,44.452325],[25.998936,44.452206]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.3376,44.52207,24.3376,44.52207",
-    "geom:latitude":44.52207,
-    "geom:longitude":24.3376,
+    "geom:area":0.000037,
+    "geom:area_square_m":329182.403233,
+    "geom:bbox":"24.337506,44.52171,24.346485,44.527096",
+    "geom:latitude":44.524488,
+    "geom:longitude":24.341891,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129380.0",
     "gn:asciiname":"Cherlestii din Deal",
@@ -25,18 +25,31 @@
     "gn:population":397,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.3176,44.50207,24.3576,44.54207",
+    "lbl:latitude":44.524417,
+    "lbl:longitude":24.341891,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.524417,
+    "mps:longitude":24.341891,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cherle\u015ftii Din Deal"
+    ],
+    "name:ron_x_variant":[
+        "Cherlestii din Deal"
+    ],
     "name:und_x_variant":[
         "Cherle\u015fti Vale",
         "Cherlesti-din Vale",
         "Cherle\u015ftii din Vale"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682185
+        "gn:id":682185,
+        "ro-ancpi:id":129406
     },
     "wof:country":"RO",
-    "wof:geomhash":"0c152cfee593f831aa130bac85e676e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7764566dbfe344c17043227e9af05648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1326481087,
-    "wof:lastmodified":1566609839,
-    "wof:name":"Cherlestii din Deal",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
+    "wof:name":"Cherle\u015ftii Din Deal",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":397,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.3376,
-    44.52207,
-    24.3376,
-    44.52207
+    24.337506,
+    44.52171,
+    24.346485,
+    44.527096
 ],
-  "geometry": {"coordinates":[24.3376,44.52207],"type":"Point"}
+  "geometry": {"coordinates":[[[24.338841,44.527096],[24.343166,44.526919],[24.343689,44.526926],[24.34384,44.526928],[24.345887,44.526957],[24.346485,44.525773],[24.345071,44.525338],[24.34545,44.52171],[24.338399,44.522012],[24.338411,44.523936],[24.337506,44.52521],[24.337969,44.525683],[24.338841,44.527096]]],"type":"Polygon"}
 }

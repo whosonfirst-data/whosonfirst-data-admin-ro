@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.39129,44.81598,21.39129,44.81598",
-    "geom:latitude":44.81598,
-    "geom:longitude":21.39129,
+    "geom:area":0.000013,
+    "geom:area_square_m":115133.498766,
+    "geom:bbox":"21.388235,44.815034,21.39286,44.819865",
+    "geom:latitude":44.817243,
+    "geom:longitude":21.390117,
     "gn:admin1_code":"12",
     "gn:admin2_code":"54109",
     "gn:asciiname":"Bazias",
@@ -25,18 +25,29 @@
     "gn:population":51,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.37129,44.79598,21.41129,44.83598",
+    "lbl:latitude":44.81598,
+    "lbl:longitude":21.39129,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bazia\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Bazias"
+    ],
     "name:und_x_variant":[
         "Brazia\u015f",
         "Bazja\u0161",
         "Bazia\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685235
+        "gn:id":685235,
+        "ro-ancpi:id":54127
     },
     "wof:country":"RO",
-    "wof:geomhash":"4e55c4ecff43c53077c39497a2a45bab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f1531b5b4f4ea96226e1cfaf03058731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1259560669,
-    "wof:lastmodified":1566611585,
-    "wof:name":"Bazias",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203625,
+    "wof:name":"Bazia\u015f",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":51,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.39129,
-    44.81598,
-    21.39129,
-    44.81598
+    21.388235,
+    44.815034,
+    21.39286,
+    44.819865
 ],
-  "geometry": {"coordinates":[21.39129,44.81598],"type":"Point"}
+  "geometry": {"coordinates":[[[21.392027,44.815278],[21.391781,44.815089],[21.391382,44.815237],[21.389022,44.815034],[21.388888,44.815654],[21.388768,44.816264],[21.388654,44.816873],[21.388567,44.817483],[21.388473,44.818089],[21.388372,44.818707],[21.388346,44.818895],[21.388235,44.819507],[21.390376,44.819865],[21.390854,44.818425],[21.391272,44.817247],[21.392588,44.817117],[21.39286,44.816635],[21.391744,44.816091],[21.39194,44.815541],[21.392027,44.815278]]],"type":"Polygon"}
 }

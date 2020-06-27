@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.10985,46.66191,24.10985,46.66191",
-    "geom:latitude":46.66191,
-    "geom:longitude":24.10985,
+    "geom:area":0.000022,
+    "geom:area_square_m":182587.772267,
+    "geom:bbox":"24.103737,46.658743,24.111857,46.665535",
+    "geom:latitude":46.661712,
+    "geom:longitude":24.107953,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118370",
     "gn:asciiname":"Cirhagau",
@@ -24,16 +24,27 @@
     "gn:population":11,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.08985,46.64191,24.12985,46.68191",
+    "lbl:latitude":46.66191,
+    "lbl:longitude":24.10985,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Cserh\u00e1g\u00f3"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cirhag\u0103u"
+    ],
+    "name:ron_x_variant":[
+        "Cirhagau"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11001448
+        "gn:id":11001448,
+        "ro-ancpi:id":118405
     },
     "wof:country":"RO",
-    "wof:geomhash":"2291d8666888f9d313491075f0581bfc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bbd9624d98a781d2e497891d05ac048c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1276191911,
-    "wof:lastmodified":1566610176,
-    "wof:name":"Cirhagau",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203446,
+    "wof:name":"Cirhag\u0103u",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":11,
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.10985,
-    46.66191,
-    24.10985,
-    46.66191
+    24.103737,
+    46.658743,
+    24.111857,
+    46.665535
 ],
-  "geometry": {"coordinates":[24.10985,46.66191],"type":"Point"}
+  "geometry": {"coordinates":[[[24.107304,46.65934],[24.104563,46.658743],[24.10418,46.659577],[24.10474,46.659864],[24.103737,46.660584],[24.106951,46.661938],[24.107407,46.662317],[24.106937,46.662757],[24.108667,46.663986],[24.107871,46.665058],[24.108788,46.665535],[24.111857,46.66224],[24.109066,46.660597],[24.107304,46.65934]]],"type":"Polygon"}
 }

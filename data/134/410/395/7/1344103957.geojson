@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.33756,44.53625,24.33756,44.53625",
-    "geom:latitude":44.53625,
-    "geom:longitude":24.33756,
+    "geom:area":0.000056,
+    "geom:area_square_m":496833.199078,
+    "geom:bbox":"24.331248,44.531129,24.341625,44.539134",
+    "geom:latitude":44.534967,
+    "geom:longitude":24.336076,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129380.0",
     "gn:asciiname":"Cherlestii Mosteni",
@@ -25,17 +25,28 @@
     "gn:population":334,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.31756,44.51625,24.35756,44.55625",
+    "lbl:latitude":44.53625,
+    "lbl:longitude":24.33756,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cherle\u015ftii Mo\u015fteni"
+    ],
+    "name:ron_x_variant":[
+        "Cherlestii Mosteni"
+    ],
     "name:und_x_variant":[
         "Mo\u015fteni",
         "Cherle\u015fti Mo\u015fteni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682184
+        "gn:id":682184,
+        "ro-ancpi:id":129415
     },
     "wof:country":"RO",
-    "wof:geomhash":"0b9e0f1188f6897a2cd8b36cfe26333c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4235253cc4c9f3551ed4b8f54b179712",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1344103957,
-    "wof:lastmodified":1566609963,
-    "wof:name":"Cherlestii Mosteni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
+    "wof:name":"Cherle\u015ftii Mo\u015fteni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":334,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.33756,
-    44.53625,
-    24.33756,
-    44.53625
+    24.331248,
+    44.531129,
+    24.341625,
+    44.539134
 ],
-  "geometry": {"coordinates":[24.33756,44.53625],"type":"Point"}
+  "geometry": {"coordinates":[[[24.339034,44.539134],[24.341338,44.537175],[24.341625,44.536534],[24.34039,44.536178],[24.340624,44.535754],[24.341616,44.534878],[24.338359,44.53317],[24.337924,44.531836],[24.33761,44.531522],[24.337222,44.531499],[24.335772,44.531418],[24.331433,44.531129],[24.331248,44.53231],[24.331623,44.535514],[24.332606,44.536713],[24.333309,44.537468],[24.334076,44.538037],[24.334409,44.538032],[24.335597,44.53799],[24.336128,44.538514],[24.336656,44.538401],[24.337047,44.538452],[24.337694,44.538648],[24.338085,44.538625],[24.338436,44.538775],[24.339034,44.539134]]],"type":"Polygon"}
 }

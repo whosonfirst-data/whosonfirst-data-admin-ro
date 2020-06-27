@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.83031,46.78743,26.83031,46.78743",
-    "geom:latitude":46.78743,
-    "geom:longitude":26.83031,
+    "geom:area":0.000048,
+    "geom:area_square_m":409693.427643,
+    "geom:bbox":"26.821715,46.782814,26.83355,46.791275",
+    "geom:latitude":46.786398,
+    "geom:longitude":26.827494,
     "gn:admin1_code":"28",
     "gn:admin2_code":"121153.0",
     "gn:asciiname":"Liliac",
@@ -25,17 +25,25 @@
     "gn:population":120,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.81031,46.76743,26.85031,46.80743",
+    "lbl:latitude":46.78743,
+    "lbl:longitude":26.83031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Liliac"
+    ],
     "name:und_x_variant":[
         "Liliacu",
         "Liliac"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674788
+        "gn:id":674788,
+        "ro-ancpi:id":121215
     },
     "wof:country":"RO",
-    "wof:geomhash":"f30b10b5c15ccd47a5fd06d4bfccf6ce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0edd9e2e769844f0c42c7a31ee74c61a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1192969285,
-    "wof:lastmodified":1566610444,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203561,
     "wof:name":"Liliac",
     "wof:parent_id":85687747,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.83031,
-    46.78743,
-    26.83031,
-    46.78743
+    26.821715,
+    46.782814,
+    26.83355,
+    46.791275
 ],
-  "geometry": {"coordinates":[26.83031,46.78743],"type":"Point"}
+  "geometry": {"coordinates":[[[26.827676,46.790195],[26.827271,46.789227],[26.829412,46.788708],[26.829162,46.788258],[26.83017,46.787696],[26.831126,46.788296],[26.831687,46.78796],[26.831606,46.787863],[26.832204,46.787293],[26.831118,46.786731],[26.83355,46.78434],[26.831915,46.783557],[26.829758,46.783036],[26.829548,46.783964],[26.828404,46.784926],[26.827456,46.784542],[26.827805,46.783525],[26.825995,46.782814],[26.824124,46.784488],[26.822957,46.783605],[26.821715,46.785054],[26.824418,46.786278],[26.825136,46.786485],[26.823389,46.789338],[26.823772,46.789651],[26.824486,46.789496],[26.825374,46.791275],[26.826097,46.791138],[26.825968,46.790809],[26.827676,46.790195]]],"type":"Polygon"}
 }

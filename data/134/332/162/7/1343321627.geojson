@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.03639,47.69377,23.03639,47.69377",
-    "geom:latitude":47.69377,
-    "geom:longitude":23.03639,
+    "geom:area":0.000018,
+    "geom:area_square_m":149584.096951,
+    "geom:bbox":"23.030727,47.689851,23.038807,47.697161",
+    "geom:latitude":47.69354,
+    "geom:longitude":23.034794,
     "gn:admin1_code":"32",
     "gn:admin2_code":"139394.0",
     "gn:asciiname":"Tireac",
@@ -25,17 +25,27 @@
     "gn:population":107,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.01639,47.67377,23.05639,47.71377",
+    "lbl:latitude":47.693559,
+    "lbl:longitude":23.034793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.693559,
+    "mps:longitude":23.034793,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Tireac"
+    ],
     "name:und_x_variant":[
         "Tirac",
         "Tireac"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665028
+        "gn:id":665028,
+        "ro-ancpi:id":139447
     },
     "wof:country":"RO",
-    "wof:geomhash":"098b5b4da26b060b224796ad58bc7223",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b49d468a762f5f629f23fa696c0e6a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1343321627,
-    "wof:lastmodified":1566609943,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203362,
     "wof:name":"Tireac",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.03639,
-    47.69377,
-    23.03639,
-    47.69377
+    23.030727,
+    47.689851,
+    23.038807,
+    47.697161
 ],
-  "geometry": {"coordinates":[23.03639,47.69377],"type":"Point"}
+  "geometry": {"coordinates":[[[23.03823,47.696998],[23.038807,47.696346],[23.038326,47.695828],[23.038328,47.695772],[23.03823,47.695727],[23.037697,47.69517],[23.037446,47.694902],[23.03722,47.694611],[23.037153,47.69454],[23.037091,47.694502],[23.036994,47.694466],[23.03675,47.69421],[23.035726,47.693096],[23.03524,47.692563],[23.034995,47.692325],[23.034428,47.691764],[23.034145,47.691473],[23.03407,47.691401],[23.033883,47.691155],[23.033291,47.690365],[23.032909,47.689851],[23.031745,47.690297],[23.030727,47.69075],[23.032083,47.692149],[23.033051,47.693189],[23.033913,47.694053],[23.034984,47.695198],[23.035429,47.695675],[23.035939,47.696228],[23.036773,47.697114],[23.037498,47.696744],[23.03755,47.696759],[23.037689,47.696685],[23.03816,47.697136],[23.038267,47.697161],[23.038313,47.697136],[23.038302,47.697089],[23.03823,47.696998]]],"type":"Polygon"}
 }

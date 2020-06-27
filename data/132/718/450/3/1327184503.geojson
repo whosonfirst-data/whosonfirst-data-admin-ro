@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.98327,44.75827,25.98327,44.75827",
-    "geom:latitude":44.75827,
-    "geom:longitude":25.98327,
+    "geom:area":0.000062,
+    "geom:area_square_m":545170.665256,
+    "geom:bbox":"25.978131,44.754275,25.994678,44.760547",
+    "geom:latitude":44.757297,
+    "geom:longitude":25.986395,
     "gn:admin1_code":"30",
     "gn:admin2_code":"134559.0",
     "gn:asciiname":"Carbunari",
@@ -25,17 +25,71 @@
     "gn:population":141,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.96327,44.73827,26.00327,44.77827",
+    "lbl:latitude":44.75827,
+    "lbl:longitude":25.98327,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Comuna C\u0103rbunari"
+    ],
+    "name:deu_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:epo_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:eus_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:msa_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:nld_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:pol_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:por_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:ron_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:ron_x_variant":[
+        "Carbunari",
+        "Comuna C\u0103rbunari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0440\u0431\u0443\u043d\u0430\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u0431\u0443\u043d\u0430\u0440\u0456"
+    ],
     "name:und_x_variant":[
         "C\u0103rbunarii",
         "C\u0103rbunari"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:vol_x_preferred":[
+        "C\u0103rbunari"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u723e\u5e03\u7d0d\u91cc\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +98,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682701
+        "gn:id":682701,
+        "ro-ancpi:id":134577
     },
     "wof:country":"RO",
-    "wof:geomhash":"de241bf06abc041834070456cd955ad9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4103272c569a3f48648cec0113934948",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +115,14 @@
         }
     ],
     "wof:id":1327184503,
-    "wof:lastmodified":1566609875,
-    "wof:name":"Carbunari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203574,
+    "wof:name":"C\u0103rbunari",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":141,
@@ -69,10 +133,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.98327,
-    44.75827,
-    25.98327,
-    44.75827
+    25.978131,
+    44.754275,
+    25.994678,
+    44.760547
 ],
-  "geometry": {"coordinates":[25.98327,44.75827],"type":"Point"}
+  "geometry": {"coordinates":[[[25.992656,44.759214],[25.993035,44.759101],[25.993791,44.757719],[25.994398,44.756635],[25.994678,44.755668],[25.993073,44.755279],[25.993114,44.754956],[25.991984,44.7548],[25.991837,44.75505],[25.989688,44.754893],[25.989722,44.754414],[25.987685,44.754275],[25.987559,44.754392],[25.986328,44.754444],[25.986323,44.755537],[25.984484,44.755661],[25.984553,44.755345],[25.983901,44.755334],[25.983985,44.756439],[25.983432,44.756456],[25.983435,44.756613],[25.982054,44.756774],[25.982075,44.756625],[25.9827,44.756446],[25.982568,44.756207],[25.981441,44.756291],[25.981257,44.757071],[25.980466,44.757011],[25.980408,44.755663],[25.979804,44.755726],[25.979321,44.754956],[25.978131,44.7551],[25.978594,44.75591],[25.978491,44.757134],[25.978637,44.758267],[25.978187,44.758969],[25.979881,44.759532],[25.98041,44.759047],[25.981206,44.760547],[25.984528,44.760096],[25.984513,44.75923],[25.986005,44.759262],[25.986187,44.758419],[25.987911,44.75857],[25.98779,44.759516],[25.988154,44.759618],[25.988428,44.759313],[25.988692,44.758772],[25.989143,44.758815],[25.98903,44.759148],[25.989533,44.759202],[25.989947,44.759042],[25.990094,44.758689],[25.991093,44.758767],[25.990909,44.759564],[25.991261,44.759624],[25.991536,44.759013],[25.992656,44.759214]]],"type":"Polygon"}
 }

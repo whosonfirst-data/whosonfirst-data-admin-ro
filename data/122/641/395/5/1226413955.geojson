@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.74013,44.48234,23.74013,44.48234",
-    "geom:latitude":44.48234,
-    "geom:longitude":23.74013,
+    "geom:area":0.000028,
+    "geom:area_square_m":249764.770198,
+    "geom:bbox":"23.733622,44.480401,23.744462,44.486589",
+    "geom:latitude":44.482816,
+    "geom:longitude":23.738183,
     "gn:admin1_code":"17",
     "gn:admin2_code":"72677",
     "gn:asciiname":"Adancata",
@@ -25,17 +25,55 @@
     "gn:population":131,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.72013,44.46234,23.76013,44.50234",
+    "lbl:latitude":44.48234,
+    "lbl:longitude":23.74013,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "name:deu_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "name:eus_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "name:hun_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "name:ita_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "name:nld_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "name:ron_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "name:ron_x_variant":[
+        "Adancata"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0434\u0430\u043d\u043a\u0430\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0438\u043d\u043a\u0430\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Ad\u00e2ncata",
         "Ad\u00eencata"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "Ad\u00e2ncata"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +82,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686675
+        "gn:id":686675,
+        "ro-ancpi:id":72695
     },
     "wof:country":"RO",
-    "wof:geomhash":"e57961fb83e4a252ce7ab3c938e5cdbf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b7d3e15c886753780737848d2d5188cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +99,14 @@
         }
     ],
     "wof:id":1226413955,
-    "wof:lastmodified":1566611685,
-    "wof:name":"Adancata",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203327,
+    "wof:name":"Ad\u00e2ncata",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":131,
@@ -69,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.74013,
-    44.48234,
-    23.74013,
-    44.48234
+    23.733622,
+    44.480401,
+    23.744462,
+    44.486589
 ],
-  "geometry": {"coordinates":[23.74013,44.48234],"type":"Point"}
+  "geometry": {"coordinates":[[[23.737668,44.486589],[23.737786,44.486056],[23.738028,44.486129],[23.737987,44.485571],[23.738078,44.485014],[23.739106,44.48496],[23.739175,44.484502],[23.740046,44.484512],[23.741072,44.484589],[23.741317,44.484119],[23.740821,44.484062],[23.740108,44.484063],[23.739408,44.48406],[23.739229,44.483953],[23.739441,44.482701],[23.740771,44.482799],[23.742141,44.482983],[23.742332,44.482648],[23.743273,44.483025],[23.744105,44.483076],[23.744369,44.482644],[23.744462,44.482435],[23.739701,44.480902],[23.739057,44.480712],[23.737399,44.480492],[23.73722,44.480479],[23.73703,44.480472],[23.736593,44.480416],[23.735723,44.480401],[23.735475,44.480956],[23.734965,44.480936],[23.734896,44.481822],[23.733622,44.48186],[23.733657,44.482415],[23.734165,44.482317],[23.734989,44.482479],[23.73476,44.482975],[23.734582,44.483255],[23.73442,44.483632],[23.736102,44.484011],[23.736057,44.484654],[23.73655,44.484721],[23.736548,44.484826],[23.736562,44.485058],[23.736468,44.485345],[23.736381,44.485751],[23.736447,44.486341],[23.737668,44.486589]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.85267,45.96488,23.85267,45.96488",
-    "geom:latitude":45.96488,
-    "geom:longitude":23.85267,
+    "geom:area":0.000016,
+    "geom:area_square_m":138540.212948,
+    "geom:bbox":"23.847749,45.960663,23.85503,45.966222",
+    "geom:latitude":45.96359,
+    "geom:longitude":23.851327,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4268.0",
     "gn:asciiname":"Dealu Dostatului",
@@ -24,13 +24,26 @@
     "gn:population":24,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.83267,45.94488,23.87267,45.98488",
+    "lbl:latitude":45.964443,
+    "lbl:longitude":23.850417,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.964443,
+    "mps:longitude":23.850417,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dealu Do\u015ftatului"
+    ],
+    "name:ron_x_variant":[
+        "Dealu Dostatului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679648
+        "gn:id":679648,
+        "ro-ancpi:id":4295
     },
     "wof:country":"RO",
-    "wof:geomhash":"5de55b82e2556b376c743841218f619c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"35ff540389c78360f9041b28744c6676",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1226356455,
-    "wof:lastmodified":1566611643,
-    "wof:name":"Dealu Dostatului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203769,
+    "wof:name":"Dealu Do\u015ftatului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":24,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.85267,
-    45.96488,
-    23.85267,
-    45.96488
+    23.847749,
+    45.960663,
+    23.85503,
+    45.966222
 ],
-  "geometry": {"coordinates":[23.85267,45.96488],"type":"Point"}
+  "geometry": {"coordinates":[[[23.851213,45.966222],[23.851711,45.965548],[23.85173,45.965073],[23.852286,45.964325],[23.852845,45.96397],[23.854297,45.963001],[23.853783,45.962613],[23.854653,45.962258],[23.85503,45.961766],[23.854244,45.961373],[23.853847,45.961532],[23.853205,45.961107],[23.853238,45.960902],[23.852456,45.960663],[23.851703,45.961805],[23.852159,45.962206],[23.852695,45.962399],[23.852029,45.96296],[23.850984,45.963075],[23.848797,45.962505],[23.848257,45.962968],[23.849109,45.963459],[23.848497,45.964642],[23.847749,45.965077],[23.851213,45.966222]]],"type":"Polygon"}
 }

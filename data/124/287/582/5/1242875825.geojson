@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.69912,44.78304,24.69912,44.78304",
-    "geom:latitude":44.78304,
-    "geom:longitude":24.69912,
+    "geom:area":0.000072,
+    "geom:area_square_m":636221.073054,
+    "geom:bbox":"24.693629,44.774494,24.715818,44.78782",
+    "geom:latitude":44.781509,
+    "geom:longitude":24.700939,
     "gn:admin1_code":"03",
     "gn:admin2_code":"18028.0",
     "gn:asciiname":"Paduroiu din Vale",
@@ -25,18 +25,29 @@
     "gn:population":807,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.67912,44.76304,24.71912,44.80304",
+    "lbl:latitude":44.78304,
+    "lbl:longitude":24.69912,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "P\u0103duroiu din Vale"
+    ],
+    "name:ron_x_variant":[
+        "Paduroiu din Vale"
+    ],
     "name:und_x_variant":[
         "P\u0103duroiul",
         "P\u0103duroiu",
         "P\u0103duroiu din Vale"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671497
+        "gn:id":671497,
+        "ro-ancpi:id":18144
     },
     "wof:country":"RO",
-    "wof:geomhash":"7c6580f2b9aecb5eb9ec5f133e53f8d2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"42a99db72479aa683337754f251dece3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1242875825,
-    "wof:lastmodified":1566611440,
-    "wof:name":"Paduroiu din Vale",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203648,
+    "wof:name":"P\u0103duroiu din Vale",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":807,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.69912,
-    44.78304,
-    24.69912,
-    44.78304
+    24.693629,
+    44.774494,
+    24.715818,
+    44.78782
 ],
-  "geometry": {"coordinates":[24.69912,44.78304],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.701331,44.784363],[24.703326,44.781783],[24.704248,44.78214],[24.704805,44.78129],[24.704037,44.781004],[24.705143,44.779171],[24.707671,44.775129],[24.70573,44.774494],[24.705261,44.775848],[24.704612,44.776398],[24.703455,44.778513],[24.701574,44.777811],[24.700868,44.778704],[24.698341,44.777881],[24.697558,44.77885],[24.697166,44.779467],[24.697181,44.780204],[24.696769,44.781229],[24.696022,44.782661],[24.696555,44.783202],[24.696497,44.783715],[24.693632,44.784023],[24.693629,44.784496],[24.69396,44.784865],[24.695899,44.785174],[24.695135,44.786101],[24.694892,44.786373],[24.696339,44.78703],[24.696198,44.787307],[24.69858,44.78782],[24.701331,44.784363]]],[[[24.70796,44.780648],[24.708943,44.779286],[24.710198,44.779656],[24.710829,44.778695],[24.708182,44.777901],[24.706559,44.780333],[24.70796,44.780648]]],[[[24.715818,44.779051],[24.715767,44.778697],[24.715216,44.77877],[24.715241,44.779106],[24.715818,44.779051]]],[[[24.711226,44.779524],[24.710797,44.779414],[24.710625,44.779685],[24.711057,44.779798],[24.711226,44.779524]]]],"type":"MultiPolygon"}
 }

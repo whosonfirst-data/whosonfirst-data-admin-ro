@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.38432,46.83684,25.38432,46.83684",
-    "geom:latitude":46.83684,
-    "geom:longitude":25.38432,
+    "geom:area":0.000057,
+    "geom:area_square_m":482942.425256,
+    "geom:bbox":"25.363378,46.833156,25.390938,46.840868",
+    "geom:latitude":46.837673,
+    "geom:longitude":25.378189,
     "gn:admin1_code":"20",
     "gn:admin2_code":"85412.0",
     "gn:asciiname":"Fagetel",
@@ -25,17 +25,28 @@
     "gn:population":19,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.36432,46.81684,25.40432,46.85684",
+    "lbl:latitude":46.83684,
+    "lbl:longitude":25.38432,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "F\u0103ge\u0163el"
+    ],
+    "name:ron_x_variant":[
+        "Fagetel"
+    ],
     "name:und_x_variant":[
         "Kicsib\u00fckk",
         "F\u0103ge\u0163el"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678482
+        "gn:id":678482,
+        "ro-ancpi:id":85430
     },
     "wof:country":"RO",
-    "wof:geomhash":"6ca5af0217324a3e2578a3cb99aa4105",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fc9536082e6d52789edbd21656a3d8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1276401109,
-    "wof:lastmodified":1566610233,
-    "wof:name":"Fagetel",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203390,
+    "wof:name":"F\u0103ge\u0163el",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":19,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.38432,
-    46.83684,
-    25.38432,
-    46.83684
+    25.363378,
+    46.833156,
+    25.390938,
+    46.840868
 ],
-  "geometry": {"coordinates":[25.38432,46.83684],"type":"Point"}
+  "geometry": {"coordinates":[[[25.380354,46.838761],[25.387107,46.837282],[25.390225,46.835511],[25.390938,46.835431],[25.390501,46.834227],[25.39036,46.833156],[25.388068,46.833388],[25.38818,46.83423],[25.386899,46.834937],[25.382309,46.835974],[25.382072,46.834933],[25.382796,46.834789],[25.382595,46.834436],[25.380104,46.834897],[25.380231,46.837735],[25.377225,46.838618],[25.373317,46.838332],[25.37334,46.837805],[25.370577,46.837867],[25.370576,46.838737],[25.36347,46.838533],[25.363378,46.839547],[25.365235,46.839926],[25.367419,46.840868],[25.37077,46.840762],[25.380354,46.838761]]],"type":"Polygon"}
 }

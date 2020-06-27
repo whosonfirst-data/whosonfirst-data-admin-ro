@@ -27,8 +27,9 @@
     "lbl:bbox":"25.86333,46.88,25.90333,46.92",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bistra"
@@ -43,6 +44,9 @@
         "Bistra"
     ],
     "name:epo_x_preferred":[
+        "Bistra"
+    ],
+    "name:eus_x_preferred":[
         "Bistra"
     ],
     "name:fra_x_preferred":[
@@ -84,12 +88,17 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0441\u0442\u0440\u0430"
     ],
+    "name:vie_x_preferred":[
+        "Bistra"
+    ],
     "name:vol_x_preferred":[
         "Bistra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,14 +108,22 @@
     "wof:geomhash":"4f390bd0f007efe1d501c9687e2e60c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209376293
+            "locality_id":1209376293,
+            "region_id":85687747
         }
     ],
     "wof:id":1209376293,
-    "wof:lastmodified":1566610300,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208599,
     "wof:name":"Bistra",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687747,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

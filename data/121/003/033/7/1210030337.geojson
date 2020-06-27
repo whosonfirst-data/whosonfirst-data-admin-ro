@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.84326,46.34842,22.84326,46.34842",
-    "geom:latitude":46.34842,
-    "geom:longitude":22.84326,
+    "geom:area":0.000005,
+    "geom:area_square_m":41520.712598,
+    "geom:bbox":"22.839868,46.352574,22.844614,46.354634",
+    "geom:latitude":46.353695,
+    "geom:longitude":22.842031,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Stertesti",
@@ -24,13 +24,26 @@
     "gn:population":13,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.82326,46.32842,22.86326,46.36842",
+    "lbl:latitude":46.353565,
+    "lbl:longitude":22.841204,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.353565,
+    "mps:longitude":22.841204,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u015eterte\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stertesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666157
+        "gn:id":666157,
+        "ro-ancpi:id":2844
     },
     "wof:country":"RO",
-    "wof:geomhash":"0844a11ff8d60e80f1313b91d82471f7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5ac1b08cb1432d4333b27eceaf9548a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1210030337,
-    "wof:lastmodified":1566610411,
-    "wof:name":"Stertesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203757,
+    "wof:name":"\u015eterte\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":13,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.84326,
-    46.34842,
-    22.84326,
-    46.34842
+    22.839868,
+    46.352574,
+    22.844614,
+    46.354634
 ],
-  "geometry": {"coordinates":[22.84326,46.34842],"type":"Point"}
+  "geometry": {"coordinates":[[[22.843697,46.354615],[22.843807,46.354063],[22.843965,46.353923],[22.844614,46.353703],[22.844262,46.353146],[22.842592,46.353762],[22.84182,46.353263],[22.841222,46.352574],[22.840405,46.352665],[22.839868,46.352622],[22.840359,46.353618],[22.840736,46.354447],[22.840932,46.354401],[22.841046,46.354375],[22.841184,46.354343],[22.841392,46.354295],[22.841664,46.35428],[22.841811,46.354271],[22.842042,46.354369],[22.842302,46.354479],[22.842542,46.354542],[22.842755,46.354598],[22.843084,46.354626],[22.843305,46.35463],[22.843477,46.354634],[22.843697,46.354615]]],"type":"Polygon"}
 }

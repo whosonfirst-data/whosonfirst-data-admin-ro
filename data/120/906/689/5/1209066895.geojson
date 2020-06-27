@@ -2,8 +2,9 @@
   "id": 1209066895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.98114,45.06552,25.98114,45.06552",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Plopeni"
@@ -114,14 +115,16 @@
         }
     ],
     "wof:id":1209066895,
-    "wof:lastmodified":1566610295,
+    "wof:lastmodified":1588368333,
     "wof:name":"Plopeni",
     "wof:parent_id":85633745,
     "wof:placetype":"locality",
     "wof:population":1590,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101791789
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.76507,44.45939,24.76507,44.45939",
-    "geom:latitude":44.45939,
-    "geom:longitude":24.76507,
+    "geom:area":0.000032,
+    "geom:area_square_m":278825.192566,
+    "geom:bbox":"24.760838,44.457171,24.770047,44.46321",
+    "geom:latitude":44.460251,
+    "geom:longitude":24.764955,
     "gn:admin1_code":"03",
     "gn:admin2_code":"14450",
     "gn:asciiname":"Brabeti",
@@ -24,13 +24,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.74507,44.43939,24.78507,44.47939",
+    "lbl:latitude":44.45939,
+    "lbl:longitude":24.76507,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Brabe\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Brabeti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683981
+        "gn:id":683981,
+        "ro-ancpi:id":14496
     },
     "wof:country":"RO",
-    "wof:geomhash":"ec33631f14306820cb6687ba383407ab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cde9e0033ebb63a88a7ceb350ead3835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +66,14 @@
         }
     ],
     "wof:id":1193148543,
-    "wof:lastmodified":1566610431,
-    "wof:name":"Brabeti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203638,
+    "wof:name":"Brabe\u0163i",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.76507,
-    44.45939,
-    24.76507,
-    44.45939
+    24.760838,
+    44.457171,
+    24.770047,
+    44.46321
 ],
-  "geometry": {"coordinates":[24.76507,44.45939],"type":"Point"}
+  "geometry": {"coordinates":[[[24.764309,44.462177],[24.764527,44.461903],[24.767362,44.462615],[24.767488,44.462523],[24.76998,44.46321],[24.770047,44.462709],[24.769894,44.462701],[24.769855,44.462647],[24.770007,44.4626],[24.769824,44.462329],[24.769671,44.462303],[24.769671,44.462267],[24.769745,44.462139],[24.769257,44.461879],[24.769293,44.46177],[24.769433,44.461759],[24.769328,44.46156],[24.769147,44.461407],[24.768991,44.461217],[24.768885,44.461],[24.768856,44.460754],[24.76866,44.460474],[24.768271,44.460088],[24.767868,44.459592],[24.767576,44.458884],[24.765643,44.458128],[24.764645,44.457791],[24.764584,44.457892],[24.763026,44.457533],[24.761799,44.457171],[24.761349,44.458367],[24.761024,44.460126],[24.760838,44.461435],[24.764309,44.462177]]],"type":"Polygon"}
 }

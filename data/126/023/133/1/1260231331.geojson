@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.70547,45.16386,25.70547,45.16386",
-    "geom:latitude":45.16386,
-    "geom:longitude":25.70547,
+    "geom:area":0.000001,
+    "geom:area_square_m":9635.874771,
+    "geom:bbox":"25.713288,45.164681,25.714514,45.166002",
+    "geom:latitude":45.165362,
+    "geom:longitude":25.713886,
     "gn:admin1_code":"30",
     "gn:admin2_code":"132805.0",
     "gn:asciiname":"Valea Oprii",
@@ -24,13 +24,23 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.68547,45.14386,25.72547,45.18386",
+    "lbl:latitude":45.165354,
+    "lbl:longitude":25.713836,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.165354,
+    "mps:longitude":25.713836,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Oprii"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +48,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663541
+        "gn:id":663541,
+        "ro-ancpi:id":132832
     },
     "wof:country":"RO",
-    "wof:geomhash":"a143cfbcbc7163678edb188589353b91",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"04a0858498584504f58bb09b626d0b22",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +65,13 @@
         }
     ],
     "wof:id":1260231331,
-    "wof:lastmodified":1566610463,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203578,
     "wof:name":"Valea Oprii",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
@@ -61,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.70547,
-    45.16386,
-    25.70547,
-    45.16386
+    25.713288,
+    45.164681,
+    25.714514,
+    45.166002
 ],
-  "geometry": {"coordinates":[25.70547,45.16386],"type":"Point"}
+  "geometry": {"coordinates":[[[25.714152,45.164739],[25.713539,45.164681],[25.713417,45.165007],[25.713288,45.165735],[25.714464,45.166002],[25.714514,45.165653],[25.714194,45.165041],[25.714152,45.164739]]],"type":"Polygon"}
 }

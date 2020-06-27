@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.37809,45.33743,21.37809,45.33743",
-    "geom:latitude":45.33743,
-    "geom:longitude":21.37809,
+    "geom:area":0.00008,
+    "geom:area_square_m":696394.362313,
+    "geom:bbox":"21.370769,45.332882,21.386046,45.342906",
+    "geom:latitude":45.337453,
+    "geom:longitude":21.378096,
     "gn:admin1_code":"36",
     "gn:admin2_code":"157086.0",
     "gn:asciiname":"Butin",
@@ -25,11 +25,12 @@
     "gn:population":463,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.35809,45.31743,21.39809,45.35743",
+    "lbl:latitude":45.33743,
+    "lbl:longitude":21.37809,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Butyn"
@@ -53,7 +54,13 @@
         "Butyn"
     ],
     "name:ron_x_preferred":[
+        "Butin"
+    ],
+    "name:ron_x_variant":[
         "Butin\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0438\u043d"
     ],
     "name:srp_x_preferred":[
         "Butin"
@@ -63,7 +70,11 @@
         "Butyin",
         "Temesb\u00f6k\u00e9ny"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683149
+        "gn:id":683149,
+        "ro-ancpi:id":157120
     },
     "wof:country":"RO",
-    "wof:geomhash":"905dc9cf54fbda3aa7421d67e1f18cfe",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"824e8adfa45fe4b3f29fbbe22c49ae77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +100,13 @@
         }
     ],
     "wof:id":1276485393,
-    "wof:lastmodified":1566610247,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203737,
     "wof:name":"Butin",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -97,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.37809,
-    45.33743,
-    21.37809,
-    45.33743
+    21.370769,
+    45.332882,
+    21.386046,
+    45.342906
 ],
-  "geometry": {"coordinates":[21.37809,45.33743],"type":"Point"}
+  "geometry": {"coordinates":[[[21.381314,45.342043],[21.381945,45.340972],[21.382307,45.340972],[21.382528,45.341046],[21.382675,45.34083],[21.383224,45.339876],[21.383511,45.339491],[21.382765,45.339126],[21.3821,45.338771],[21.382636,45.338007],[21.385585,45.338439],[21.385985,45.337813],[21.386046,45.337441],[21.385921,45.337066],[21.384221,45.336779],[21.383907,45.336607],[21.378881,45.33375],[21.379114,45.333441],[21.378739,45.333176],[21.378224,45.333066],[21.377788,45.333458],[21.374725,45.333091],[21.373666,45.332882],[21.37294,45.332887],[21.372006,45.333851],[21.370769,45.335138],[21.371314,45.335852],[21.371896,45.336288],[21.373503,45.336915],[21.374697,45.337557],[21.374132,45.338527],[21.375784,45.340692],[21.375529,45.340811],[21.375594,45.341063],[21.37591,45.340981],[21.37672,45.342192],[21.378339,45.342611],[21.379541,45.342906],[21.38012,45.342822],[21.37978,45.34203],[21.381314,45.342043]]],"type":"Polygon"}
 }

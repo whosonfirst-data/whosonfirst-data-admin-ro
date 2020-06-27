@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35,45.13333,24.35,45.13333",
-    "geom:latitude":45.13333,
-    "geom:longitude":24.35,
+    "geom:area":0.000062,
+    "geom:area_square_m":545018.411355,
+    "geom:bbox":"24.368441,45.144799,24.376512,45.160214",
+    "geom:latitude":45.151627,
+    "geom:longitude":24.373085,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3830,
     "iso:country":"RO",
-    "lbl:bbox":"24.33,45.11333,24.37,45.15333",
-    "lbl:latitude":45.13333,
-    "lbl:longitude":24.35,
+    "lbl:latitude":45.148978,
+    "lbl:longitude":24.373023,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.148978,
+    "mps:longitude":24.373023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0686\u0648\u0631\u064a\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Bujoreni"
     ],
@@ -73,8 +77,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":868390,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -90,11 +97,15 @@
         "gn:id":683346,
         "gp:id":868390,
         "qs_pg:id":127897,
+        "ro-ancpi:id":168915,
         "wd:id":"Q1889960"
     },
     "wof:country":"RO",
     "wof:created":1497300296,
-    "wof:geomhash":"441327c660b48e26a2afc6f13bd3f68d",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"fb9f14ee7f7d52a366b1989583459666",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +115,13 @@
         }
     ],
     "wof:id":1126011401,
-    "wof:lastmodified":1566611376,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203692,
     "wof:name":"Bujoreni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -116,10 +133,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35,
-    45.13333,
-    24.35,
-    45.13333
+    24.368441,
+    45.144799,
+    24.376512,
+    45.160214
 ],
-  "geometry": {"coordinates":[24.35,45.13333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.375402,45.144799],[24.371824,45.146084],[24.368459,45.147295],[24.368705,45.147691],[24.369236,45.148464],[24.369909,45.14906],[24.368441,45.149819],[24.369587,45.150517],[24.369821,45.150413],[24.372099,45.151738],[24.373789,45.15277],[24.374675,45.153165],[24.374638,45.155294],[24.371763,45.154924],[24.371406,45.156001],[24.369839,45.156236],[24.369354,45.156862],[24.370622,45.157394],[24.371796,45.156735],[24.37268,45.157162],[24.370889,45.158437],[24.370417,45.159072],[24.370539,45.160095],[24.372001,45.160214],[24.374481,45.157841],[24.375953,45.155699],[24.376512,45.154134],[24.376114,45.151368],[24.375843,45.148007],[24.375402,45.144799]]],"type":"Polygon"}
 }

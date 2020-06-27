@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.49216,47.0234,22.49216,47.0234",
-    "geom:latitude":47.0234,
-    "geom:longitude":22.49216,
+    "geom:area":0.00005,
+    "geom:area_square_m":420966.744825,
+    "geom:bbox":"22.484165,47.018011,22.496684,47.027454",
+    "geom:latitude":47.022902,
+    "geom:longitude":22.490343,
     "gn:admin1_code":"05",
     "gn:admin2_code":"27212.0",
     "gn:asciiname":"Cacuciu Vechi",
@@ -25,17 +25,25 @@
     "gn:population":190,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.47216,47.0034,22.51216,47.0434",
+    "lbl:latitude":47.0234,
+    "lbl:longitude":22.49216,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cacuciu Vechi"
+    ],
     "name:und_x_variant":[
         "C\u0103cuciu Vechiu",
         "Cacuciu Vechi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683065
+        "gn:id":683065,
+        "ro-ancpi:id":27230
     },
     "wof:country":"RO",
-    "wof:geomhash":"82b143008bf1d8b4a6d86447f6b64809",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0e68586cdbad3a3a6f41178f6011f412",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1209838485,
-    "wof:lastmodified":1566610313,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203501,
     "wof:name":"Cacuciu Vechi",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.49216,
-    47.0234,
-    22.49216,
-    47.0234
+    22.484165,
+    47.018011,
+    22.496684,
+    47.027454
 ],
-  "geometry": {"coordinates":[22.49216,47.0234],"type":"Point"}
+  "geometry": {"coordinates":[[[22.487068,47.027454],[22.489058,47.026572],[22.489174,47.026652],[22.491824,47.025082],[22.490991,47.024221],[22.493086,47.022978],[22.493293,47.022698],[22.493879,47.023204],[22.495354,47.022165],[22.495428,47.021476],[22.495036,47.021259],[22.496684,47.019501],[22.4956,47.018369],[22.495326,47.018011],[22.493303,47.019163],[22.492977,47.018721],[22.489952,47.020629],[22.487759,47.022077],[22.486357,47.023036],[22.484693,47.024128],[22.485273,47.025076],[22.484165,47.02577],[22.484855,47.026963],[22.485527,47.026702],[22.485764,47.026331],[22.487068,47.027454]]],"type":"Polygon"}
 }

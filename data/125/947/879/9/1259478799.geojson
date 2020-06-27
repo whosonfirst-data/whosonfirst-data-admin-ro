@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.52284,44.98565,27.52284,44.98565",
-    "geom:latitude":44.98565,
-    "geom:longitude":27.52284,
+    "geom:area":0.000017,
+    "geom:area_square_m":145789.156393,
+    "geom:bbox":"27.520515,44.981481,27.525891,44.987255",
+    "geom:latitude":44.984025,
+    "geom:longitude":27.523289,
     "gn:admin1_code":"08",
     "gn:admin2_code":"42913.0",
     "gn:asciiname":"Filiu",
@@ -25,11 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.50284,44.96565,27.54284,45.00565",
+    "lbl:latitude":44.98565,
+    "lbl:longitude":27.52284,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Filiu"
@@ -37,7 +38,11 @@
     "name:und_x_variant":[
         "Filiul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -45,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678237
+        "gn:id":678237,
+        "ro-ancpi:id":42940
     },
     "wof:country":"RO",
-    "wof:geomhash":"72f7d42439ea7a5ae405aebd9a477d45",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6c00c033dbef8bca2213bd510277bc70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +67,13 @@
         }
     ],
     "wof:id":1259478799,
-    "wof:lastmodified":1566611564,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203775,
     "wof:name":"Filiu",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
@@ -68,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.52284,
-    44.98565,
-    27.52284,
-    44.98565
+    27.520515,
+    44.981481,
+    27.525891,
+    44.987255
 ],
-  "geometry": {"coordinates":[27.52284,44.98565],"type":"Point"}
+  "geometry": {"coordinates":[[[27.525891,44.984722],[27.524921,44.982305],[27.523877,44.982367],[27.523856,44.981481],[27.522787,44.981805],[27.521807,44.981928],[27.520749,44.982512],[27.520515,44.982663],[27.52226,44.985678],[27.52256,44.98607],[27.523587,44.987255],[27.523812,44.987158],[27.524462,44.986879],[27.523981,44.98556],[27.525402,44.985293],[27.525344,44.984799],[27.525891,44.984722]]],"type":"Polygon"}
 }

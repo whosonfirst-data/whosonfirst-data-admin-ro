@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.99223,44.44897,23.99223,44.44897",
-    "geom:latitude":44.44897,
-    "geom:longitude":23.99223,
+    "geom:area":0.00001,
+    "geom:area_square_m":91563.389762,
+    "geom:bbox":"23.988922,44.445618,23.992998,44.450436",
+    "geom:latitude":44.447985,
+    "geom:longitude":23.990688,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130124.0",
     "gn:asciiname":"Mardale",
@@ -25,37 +25,61 @@
     "gn:population":76,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.97223,44.42897,24.01223,44.46897",
+    "lbl:latitude":44.447802,
+    "lbl:longitude":23.990487,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.447802,
+    "mps:longitude":23.990487,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Mardale"
+    ],
     "name:und_x_variant":[
         "Mardalele",
         "Mardale"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673846
+        "gn:id":673846,
+        "ro-ancpi:id":130160
     },
     "wof:country":"RO",
-    "wof:geomhash":"8b6652ae7d2a8d8fb265dcef71361c72",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5b616ee2da149167c13c50b6b987046f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209275473
+            "locality_id":1209275473,
+            "region_id":85687607
         }
     ],
     "wof:id":1209275473,
-    "wof:lastmodified":1566610377,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
     "wof:name":"Mardale",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":76,
     "wof:population_rank":1,
@@ -65,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.99223,
-    44.44897,
-    23.99223,
-    44.44897
+    23.988922,
+    44.445618,
+    23.992998,
+    44.450436
 ],
-  "geometry": {"coordinates":[23.99223,44.44897],"type":"Point"}
+  "geometry": {"coordinates":[[[23.991379,44.448258],[23.992998,44.445948],[23.992639,44.445804],[23.99256,44.445772],[23.992175,44.445618],[23.991593,44.446118],[23.989901,44.445989],[23.988922,44.450012],[23.989845,44.450188],[23.989931,44.450204],[23.991147,44.450436],[23.991524,44.449536],[23.991129,44.449431],[23.991613,44.448481],[23.991358,44.448416],[23.991379,44.448258]]],"type":"Polygon"}
 }

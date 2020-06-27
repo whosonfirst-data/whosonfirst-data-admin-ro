@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.69137,44.60442,23.69137,44.60442",
-    "geom:latitude":44.60442,
-    "geom:longitude":23.69137,
+    "geom:area":0.000012,
+    "geom:area_square_m":104467.235283,
+    "geom:bbox":"23.69796,44.602682,23.702928,44.606111",
+    "geom:latitude":44.604294,
+    "geom:longitude":23.700444,
     "gn:admin1_code":"19",
     "gn:admin2_code":"79932.0",
     "gn:asciiname":"Slamnesti",
@@ -24,13 +24,26 @@
     "gn:population":252,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.67137,44.58442,23.71137,44.62442",
+    "lbl:latitude":44.604386,
+    "lbl:longitude":23.700492,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.604386,
+    "mps:longitude":23.700492,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Sl\u0103mne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Slamnesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666778
+        "gn:id":666778,
+        "ro-ancpi:id":80007
     },
     "wof:country":"RO",
-    "wof:geomhash":"efc8c22436672180aaf6e518f1d9fe0f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1c768747231ba80be5eee29c5e666c32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1360147259,
-    "wof:lastmodified":1566610614,
-    "wof:name":"Slamnesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203666,
+    "wof:name":"Sl\u0103mne\u015fti",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":252,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.69137000000001,
-    44.60442000000001,
-    23.69137000000001,
-    44.60442000000001
+    23.69796,
+    44.602682,
+    23.702928,
+    44.606111
 ],
-  "geometry": {"coordinates":[23.69137000000001,44.60442000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[23.700861,44.606111],[23.701983,44.60513],[23.702581,44.60487],[23.702926,44.604159],[23.702928,44.603483],[23.702511,44.603116],[23.701424,44.602682],[23.700621,44.603006],[23.69958,44.602994],[23.698655,44.603238],[23.698447,44.603382],[23.69796,44.60369],[23.698043,44.604239],[23.698036,44.60518],[23.698061,44.605268],[23.698812,44.605433],[23.699317,44.605508],[23.699633,44.605502],[23.699806,44.605605],[23.70001,44.605975],[23.700861,44.606111]]],"type":"Polygon"}
 }

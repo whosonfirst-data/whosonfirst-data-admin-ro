@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.15973,45.71651,22.15973,45.71651",
-    "geom:latitude":45.71651,
-    "geom:longitude":22.15973,
+    "geom:area":0.000048,
+    "geom:area_square_m":410535.999575,
+    "geom:bbox":"22.155746,45.707523,22.160915,45.724253",
+    "geom:latitude":45.715969,
+    "geom:longitude":22.158296,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156927.0",
     "gn:asciiname":"Hauzesti",
@@ -25,17 +25,30 @@
     "gn:population":169,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.13973,45.69651,22.17973,45.73651",
+    "lbl:latitude":45.71588,
+    "lbl:longitude":22.158257,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.71588,
+    "mps:longitude":22.158257,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "H\u0103uze\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Hauzesti"
+    ],
     "name:und_x_variant":[
         "H\u0103nze\u015fti",
         "H\u0103uze\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676269
+        "gn:id":676269,
+        "ro-ancpi:id":156972
     },
     "wof:country":"RO",
-    "wof:geomhash":"87dbc57ba4dc6e0b1ec3c2c94ce71bf4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"14391160ec29ce4875487dfc761ccff6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1326870269,
-    "wof:lastmodified":1566609780,
-    "wof:name":"Hauzesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203735,
+    "wof:name":"H\u0103uze\u015fti",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":169,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.15973,
-    45.71651,
-    22.15973,
-    45.71651
+    22.155746,
+    45.707523,
+    22.160915,
+    45.724253
 ],
-  "geometry": {"coordinates":[22.15973,45.71651],"type":"Point"}
+  "geometry": {"coordinates":[[[22.160358,45.707987],[22.158434,45.707523],[22.156931,45.713539],[22.156814,45.715243],[22.156766,45.716187],[22.156559,45.71756],[22.15579,45.720538],[22.155746,45.7224],[22.157039,45.722509],[22.156887,45.723707],[22.156837,45.724235],[22.158186,45.724253],[22.159208,45.723958],[22.159182,45.721781],[22.158973,45.721372],[22.158873,45.720118],[22.159072,45.719378],[22.159184,45.718841],[22.159335,45.717825],[22.159601,45.717054],[22.159716,45.71568],[22.160047,45.713674],[22.160721,45.710702],[22.16041,45.710378],[22.160915,45.708138],[22.160358,45.707987]]],"type":"Polygon"}
 }

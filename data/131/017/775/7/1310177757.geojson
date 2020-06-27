@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.25055,44.77831,25.25055,44.77831",
-    "geom:latitude":44.77831,
-    "geom:longitude":25.25055,
+    "geom:area":0.000023,
+    "geom:area_square_m":206010.993646,
+    "geom:bbox":"25.24445,44.775577,25.251994,44.781085",
+    "geom:latitude":44.778527,
+    "geom:longitude":25.248592,
     "gn:admin1_code":"16",
     "gn:admin2_code":"69170.0",
     "gn:asciiname":"Livezile",
@@ -25,19 +25,26 @@
     "gn:population":404,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.23055,44.75831,25.27055,44.79831",
+    "lbl:latitude":44.77831,
+    "lbl:longitude":25.25055,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Livezile"
+    ],
+    "name:ces_x_preferred":[
         "Livezile"
     ],
     "name:deu_x_preferred":[
         "Livezile"
     ],
     "name:epo_x_preferred":[
+        "Livezile"
+    ],
+    "name:eus_x_preferred":[
         "Livezile"
     ],
     "name:fra_x_preferred":[
@@ -71,7 +78,11 @@
     "name:vol_x_preferred":[
         "Livezile"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,10 +91,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674646
+        "gn:id":674646,
+        "ro-ancpi:id":69214
     },
     "wof:country":"RO",
-    "wof:geomhash":"d21a0b2ed0da496f2a412fd622647273",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"92684ce06f9ec0f8d54947e9aba8ab18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,7 +108,13 @@
         }
     ],
     "wof:id":1310177757,
-    "wof:lastmodified":1566610576,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203722,
     "wof:name":"Livezile",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -105,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.25055,
-    44.77831,
-    25.25055,
-    44.77831
+    25.24445,
+    44.775577,
+    25.251994,
+    44.781085
 ],
-  "geometry": {"coordinates":[25.25055,44.77831],"type":"Point"}
+  "geometry": {"coordinates":[[[25.248238,44.781085],[25.24842,44.780255],[25.249944,44.780276],[25.250446,44.78016],[25.250642,44.780417],[25.251122,44.78027],[25.251159,44.780259],[25.251994,44.780004],[25.251229,44.779118],[25.251211,44.779097],[25.251217,44.779072],[25.251412,44.77832],[25.251804,44.77681],[25.251867,44.776584],[25.251666,44.776283],[25.251015,44.775577],[25.24999,44.776162],[25.249193,44.776555],[25.248818,44.776692],[25.24849,44.777278],[25.247262,44.777163],[25.245825,44.777035],[25.245312,44.776748],[25.24445,44.776739],[25.244497,44.776845],[25.24452,44.776895],[25.244779,44.77747],[25.246303,44.778327],[25.246566,44.77849],[25.247097,44.778537],[25.24707,44.779002],[25.246554,44.779021],[25.246525,44.779132],[25.245615,44.779165],[25.245405,44.779162],[25.244732,44.780069],[25.24467,44.780346],[25.244524,44.78052],[25.244875,44.78061],[25.24546,44.780501],[25.246667,44.780505],[25.247223,44.780521],[25.247215,44.781014],[25.247955,44.781065],[25.248008,44.781069],[25.248238,44.781085]]],"type":"Polygon"}
 }

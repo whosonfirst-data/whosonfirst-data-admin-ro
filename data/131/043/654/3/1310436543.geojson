@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.30395,44.47923,26.30395,44.47923",
-    "geom:latitude":44.47923,
-    "geom:longitude":26.30395,
+    "geom:area":0.000054,
+    "geom:area_square_m":475170.730535,
+    "geom:bbox":"26.292972,44.475022,26.310717,44.485028",
+    "geom:latitude":44.479359,
+    "geom:longitude":26.301621,
     "gn:admin1_code":"43",
     "gn:admin2_code":"103130.0",
     "gn:asciiname":"Cozieni",
@@ -24,14 +24,18 @@
     "gn:population":694,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.28395,44.45923,26.32395,44.49923",
+    "lbl:latitude":44.47923,
+    "lbl:longitude":26.30395,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Cozieni"
+    ],
+    "name:eus_x_preferred":[
+        "Cozieni"
     ],
     "name:ita_x_preferred":[
         "Cozieni"
@@ -42,10 +46,16 @@
     "name:nld_x_preferred":[
         "Cozieni"
     ],
+    "name:pol_x_preferred":[
+        "Cozieni"
+    ],
     "name:por_x_preferred":[
         "Cozieni"
     ],
     "name:ron_x_preferred":[
+        "Cozieni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Cozieni"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +73,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u6fdf\u8036\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680405
+        "gn:id":680405,
+        "ro-ancpi:id":103158
     },
     "wof:country":"RO",
-    "wof:geomhash":"a35193282561b256b5aa1183509e6a3e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3021565de26c8ddbf1280e5b2b1078c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +103,13 @@
         }
     ],
     "wof:id":1310436543,
-    "wof:lastmodified":1566610575,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203627,
     "wof:name":"Cozieni",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",
@@ -97,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.30395,
-    44.47923,
-    26.30395,
-    44.47923
+    26.292972,
+    44.475022,
+    26.310717,
+    44.485028
 ],
-  "geometry": {"coordinates":[26.30395,44.47923],"type":"Point"}
+  "geometry": {"coordinates":[[[26.292972,44.482534],[26.293471,44.485028],[26.293843,44.484881],[26.297028,44.483601],[26.296828,44.482057],[26.29907,44.480841],[26.299976,44.479522],[26.300333,44.479463],[26.302757,44.480146],[26.303008,44.479532],[26.304018,44.479531],[26.310191,44.480363],[26.310378,44.479965],[26.310717,44.478847],[26.305957,44.476398],[26.303105,44.475022],[26.302712,44.475332],[26.302393,44.475794],[26.302314,44.476215],[26.302261,44.476642],[26.301921,44.476945],[26.3015,44.477192],[26.301148,44.477361],[26.300767,44.477455],[26.300499,44.477515],[26.30023,44.477442],[26.299732,44.477416],[26.299173,44.477486],[26.298402,44.477622],[26.297633,44.477803],[26.297029,44.478243],[26.296846,44.478843],[26.296108,44.479712],[26.295762,44.480143],[26.29554,44.480669],[26.295481,44.480961],[26.295284,44.481414],[26.295066,44.481762],[26.295101,44.482036],[26.295324,44.482315],[26.295131,44.482472],[26.294143,44.482328],[26.293879,44.482402],[26.293567,44.482546],[26.293155,44.482579],[26.292972,44.482534]]],"type":"Polygon"}
 }

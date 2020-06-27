@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.8702,44.6962,21.8702,44.6962",
-    "geom:latitude":44.6962,
-    "geom:longitude":21.8702,
+    "geom:area":0.00001,
+    "geom:area_square_m":85672.187524,
+    "geom:bbox":"21.864146,44.693159,21.869413,44.696974",
+    "geom:latitude":44.694998,
+    "geom:longitude":21.867161,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53853.0",
     "gn:asciiname":"Ogasu Podului",
@@ -24,13 +24,26 @@
     "gn:population":4,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.8502,44.6762,21.8902,44.7162",
+    "lbl:latitude":44.695137,
+    "lbl:longitude":21.86738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.695137,
+    "mps:longitude":21.86738,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Oga\u015fu Podului"
+    ],
+    "name:ron_x_variant":[
+        "Ogasu Podului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671953
+        "gn:id":671953,
+        "ro-ancpi:id":53988
     },
     "wof:country":"RO",
-    "wof:geomhash":"11eb3fec8bd742eff5664fbad0339ae1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2e553acf58d6fcbe4bfc5d8032f95090",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1242664637,
-    "wof:lastmodified":1566611450,
-    "wof:name":"Ogasu Podului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203624,
+    "wof:name":"Oga\u015fu Podului",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":4,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.8702,
-    44.6962,
-    21.8702,
-    44.6962
+    21.864146,
+    44.693159,
+    21.869413,
+    44.696974
 ],
-  "geometry": {"coordinates":[21.8702,44.6962],"type":"Point"}
+  "geometry": {"coordinates":[[[21.868798,44.695172],[21.869413,44.693745],[21.868359,44.693159],[21.867647,44.693896],[21.866983,44.693547],[21.866441,44.694381],[21.864734,44.694285],[21.864146,44.695442],[21.866079,44.695583],[21.866133,44.696141],[21.868883,44.696974],[21.868321,44.695854],[21.868798,44.695172]]],"type":"Polygon"}
 }

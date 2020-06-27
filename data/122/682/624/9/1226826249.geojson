@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.81406,44.78489,21.81406,44.78489",
-    "geom:latitude":44.78489,
-    "geom:longitude":21.81406,
+    "geom:area":0.000025,
+    "geom:area_square_m":215954.083736,
+    "geom:bbox":"21.808837,44.78069,21.818626,44.786369",
+    "geom:latitude":44.78348,
+    "geom:longitude":21.813607,
     "gn:admin1_code":"12",
     "gn:admin2_code":"54163.0",
     "gn:asciiname":"Carsa Rosie",
@@ -24,13 +24,24 @@
     "gn:population":94,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.79406,44.76489,21.83406,44.80489",
+    "lbl:latitude":44.78489,
+    "lbl:longitude":21.81406,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u00e2r\u015fa Ro\u015fie"
+    ],
+    "name:ron_x_variant":[
+        "Carsa Rosie"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681533
+        "gn:id":681533,
+        "ro-ancpi:id":54181
     },
     "wof:country":"RO",
-    "wof:geomhash":"ac40e6748581e338f6535ec3276944a4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ed8c77dea85d8871f8d35f10b732488f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1226826249,
-    "wof:lastmodified":1566611671,
-    "wof:name":"Carsa Rosie",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203626,
+    "wof:name":"C\u00e2r\u015fa Ro\u015fie",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":94,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.81406,
-    44.78489,
-    21.81406,
-    44.78489
+    21.808837,
+    44.78069,
+    21.818626,
+    44.786369
 ],
-  "geometry": {"coordinates":[21.81406,44.78489],"type":"Point"}
+  "geometry": {"coordinates":[[[21.816854,44.784773],[21.817014,44.78338],[21.81732,44.78296],[21.817891,44.783073],[21.818189,44.782755],[21.818626,44.782369],[21.8186,44.781921],[21.817413,44.782208],[21.816467,44.782272],[21.815906,44.782431],[21.815393,44.782356],[21.814808,44.78234],[21.81352,44.782138],[21.8126,44.781771],[21.811591,44.781501],[21.811317,44.781013],[21.810464,44.781224],[21.810408,44.780715],[21.809637,44.78069],[21.808837,44.780834],[21.809086,44.781573],[21.809422,44.781914],[21.809438,44.782384],[21.810843,44.782626],[21.812123,44.783718],[21.811621,44.78434],[21.81109,44.784277],[21.811017,44.785428],[21.813194,44.785602],[21.813232,44.786369],[21.814397,44.786323],[21.814435,44.786136],[21.814613,44.785667],[21.815987,44.785407],[21.815984,44.785147],[21.816854,44.784773]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.75576,46.40849,22.75576,46.40849",
-    "geom:latitude":46.40849,
-    "geom:longitude":22.75576,
+    "geom:area":0.000009,
+    "geom:area_square_m":79798.534672,
+    "geom:bbox":"22.750735,46.406957,22.756884,46.409298",
+    "geom:latitude":46.408041,
+    "geom:longitude":22.753437,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577",
     "gn:asciiname":"Badai",
@@ -24,13 +24,24 @@
     "gn:population":36,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.73576,46.38849,22.77576,46.42849",
+    "lbl:latitude":46.40849,
+    "lbl:longitude":22.75576,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103d\u0103i"
+    ],
+    "name:ron_x_variant":[
+        "Badai"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685917
+        "gn:id":685917,
+        "ro-ancpi:id":2611
     },
     "wof:country":"RO",
-    "wof:geomhash":"bbbdde9be04b5be4cfc53a44d8c3f6a7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aea72ec118efd33d53e03a31d8c8f636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1209918201,
-    "wof:lastmodified":1566610287,
-    "wof:name":"Badai",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203755,
+    "wof:name":"B\u0103d\u0103i",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":36,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.75576,
-    46.40849,
-    22.75576,
-    46.40849
+    22.750735,
+    46.406957,
+    22.756884,
+    46.409298
 ],
-  "geometry": {"coordinates":[22.75576,46.40849],"type":"Point"}
+  "geometry": {"coordinates":[[[22.756271,46.408531],[22.756884,46.407782],[22.756046,46.407173],[22.75457,46.407423],[22.754597,46.407012],[22.752527,46.406957],[22.750815,46.407768],[22.750735,46.409246],[22.752218,46.409298],[22.752984,46.409276],[22.752942,46.408475],[22.754514,46.408498],[22.75553,46.408614],[22.756105,46.408734],[22.756271,46.408531]]],"type":"Polygon"}
 }

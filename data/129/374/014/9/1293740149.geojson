@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.91696,47.16059,26.91696,47.16059",
-    "geom:latitude":47.16059,
-    "geom:longitude":26.91696,
+    "geom:area":0.000033,
+    "geom:area_square_m":276337.608724,
+    "geom:bbox":"26.911136,47.156079,26.923655,47.162528",
+    "geom:latitude":47.159079,
+    "geom:longitude":26.916672,
     "gn:admin1_code":"23",
     "gn:admin2_code":"99209.0",
     "gn:asciiname":"Cucova",
@@ -24,11 +24,12 @@
     "gn:population":152,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.89696,47.14059,26.93696,47.18059",
+    "lbl:latitude":47.16059,
+    "lbl:longitude":26.91696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cucova"
@@ -42,7 +43,11 @@
     "name:srp_x_preferred":[
         "\u041a\u0443\u043a\u043e\u0432\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680034
+        "gn:id":680034,
+        "ro-ancpi:id":99245
     },
     "wof:country":"RO",
-    "wof:geomhash":"96b17b22f1b4e2cb6cc55c4ebcab8c39",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f2f249036b41218e237bedaaf8c18f45",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +73,13 @@
         }
     ],
     "wof:id":1293740149,
-    "wof:lastmodified":1566610134,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203373,
     "wof:name":"Cucova",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
@@ -76,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.91696,
-    47.16059,
-    26.91696,
-    47.16059
+    26.911136,
+    47.156079,
+    26.923655,
+    47.162528
 ],
-  "geometry": {"coordinates":[26.91696,47.16059],"type":"Point"}
+  "geometry": {"coordinates":[[[26.921011,47.158258],[26.921708,47.157715],[26.923229,47.158414],[26.923655,47.15794],[26.921481,47.156997],[26.921157,47.156885],[26.920866,47.156865],[26.920602,47.156926],[26.919735,47.156469],[26.91889,47.156079],[26.918625,47.156426],[26.918279,47.156632],[26.918043,47.156963],[26.916583,47.156304],[26.915819,47.157085],[26.915622,47.157175],[26.915338,47.157387],[26.914991,47.157295],[26.914674,47.157941],[26.914611,47.157996],[26.914354,47.15794],[26.913699,47.158669],[26.913181,47.159269],[26.912631,47.159724],[26.912001,47.160187],[26.911386,47.160565],[26.911136,47.160837],[26.91347,47.16187],[26.913619,47.161896],[26.914898,47.162528],[26.916598,47.161305],[26.916208,47.161046],[26.916801,47.16084],[26.917625,47.160576],[26.918326,47.159877],[26.919754,47.159232],[26.921011,47.158258]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.76925,45.80958,22.76925,45.80958",
-    "geom:latitude":45.80958,
-    "geom:longitude":22.76925,
+    "geom:area":0.00001,
+    "geom:area_square_m":90382.154747,
+    "geom:bbox":"22.762826,45.806624,22.769453,45.812285",
+    "geom:latitude":45.809566,
+    "geom:longitude":22.766192,
     "gn:admin1_code":"21",
     "gn:admin2_code":"90431.0",
     "gn:asciiname":"Cutin",
@@ -24,11 +24,14 @@
     "gn:population":43,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.74925,45.78958,22.78925,45.82958",
+    "lbl:latitude":45.80944,
+    "lbl:longitude":22.766148,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.80944,
+    "mps:longitude":22.766148,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u064a\u0646"
@@ -81,6 +84,9 @@
     "name:por_x_preferred":[
         "Cutina"
     ],
+    "name:ron_x_preferred":[
+        "Cutin"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u0442\u0438\u043d"
     ],
@@ -93,7 +99,11 @@
     "name:vie_x_preferred":[
         "Cutin"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -102,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679871
+        "gn:id":679871,
+        "ro-ancpi:id":90477
     },
     "wof:country":"RO",
-    "wof:geomhash":"067dc24b386e39a2e9e753c436fea63b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"89d34bf09f84c76057d245c68f62e71d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -115,7 +129,13 @@
         }
     ],
     "wof:id":1344121287,
-    "wof:lastmodified":1566609904,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203794,
     "wof:name":"Cutin",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -127,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.76925,
-    45.80958,
-    22.76925,
-    45.80958
+    22.762826,
+    45.806624,
+    22.769453,
+    45.812285
 ],
-  "geometry": {"coordinates":[22.76925,45.80958],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.769453,45.809218],[22.768985,45.808234],[22.768242,45.80838],[22.767396,45.807944],[22.767395,45.807518],[22.766724,45.807526],[22.7667,45.808264],[22.765905,45.808687],[22.764901,45.80901],[22.764673,45.809144],[22.765253,45.809574],[22.762826,45.811508],[22.763733,45.812241],[22.763811,45.812285],[22.765882,45.810551],[22.766167,45.810306],[22.766797,45.809951],[22.769453,45.809218]]],[[[22.767457,45.806643],[22.766513,45.806624],[22.766501,45.807218],[22.767446,45.807224],[22.767457,45.806643]]]],"type":"MultiPolygon"}
 }

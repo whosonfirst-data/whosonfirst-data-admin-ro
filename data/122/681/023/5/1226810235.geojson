@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.50996,44.73876,24.50996,44.73876",
-    "geom:latitude":44.73876,
-    "geom:longitude":24.50996,
+    "geom:area":0.000117,
+    "geom:area_square_m":1027858.612339,
+    "geom:bbox":"24.497156,44.732651,24.517179,44.7432",
+    "geom:latitude":44.738263,
+    "geom:longitude":24.507783,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128962.0",
     "gn:asciiname":"Optasani",
@@ -25,17 +25,28 @@
     "gn:population":196,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.48996,44.71876,24.52996,44.75876",
+    "lbl:latitude":44.73876,
+    "lbl:longitude":24.50996,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Opt\u0103\u015fani"
+    ],
+    "name:ron_x_variant":[
+        "Optasani"
+    ],
     "name:und_x_variant":[
         "Opt\u015fani",
         "Opt\u0103\u015fani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671772
+        "gn:id":671772,
+        "ro-ancpi:id":129004
     },
     "wof:country":"RO",
-    "wof:geomhash":"6400e9db4286595bcf10ba5650909178",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"830d5943ec0dda1beec99e7788db00f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1226810235,
-    "wof:lastmodified":1566611611,
-    "wof:name":"Optasani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203708,
+    "wof:name":"Opt\u0103\u015fani",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":196,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.50996,
-    44.73876,
-    24.50996,
-    44.73876
+    24.497156,
+    44.732651,
+    24.517179,
+    44.7432
 ],
-  "geometry": {"coordinates":[24.50996,44.73876],"type":"Point"}
+  "geometry": {"coordinates":[[[24.510027,44.7432],[24.516791,44.740557],[24.517179,44.739639],[24.509651,44.732651],[24.497702,44.73707],[24.497156,44.738586],[24.501312,44.739132],[24.502075,44.740887],[24.504062,44.742286],[24.50637,44.741929],[24.510027,44.7432]]],"type":"Polygon"}
 }

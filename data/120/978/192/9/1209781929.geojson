@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.4235,45.91812,27.4235,45.91812",
-    "geom:latitude":45.91812,
-    "geom:longitude":27.4235,
+    "geom:area":0.000032,
+    "geom:area_square_m":278068.778428,
+    "geom:bbox":"27.417585,45.912828,27.425206,45.921955",
+    "geom:latitude":45.917418,
+    "geom:longitude":27.421459,
     "gn:admin1_code":"18",
     "gn:admin2_code":"75258.0",
     "gn:asciiname":"Frunzeasca",
@@ -24,13 +24,21 @@
     "gn:population":313,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.4035,45.89812,27.4435,45.93812",
+    "lbl:latitude":45.91812,
+    "lbl:longitude":27.4235,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Frunzeasca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677856
+        "gn:id":677856,
+        "ro-ancpi:id":75276
     },
     "wof:country":"RO",
-    "wof:geomhash":"d6a02c3cd7ac07dc5747f217c4475063",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f22d2786929c2f77dfd78667dfa5e90f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1209781929,
-    "wof:lastmodified":1566610325,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203482,
     "wof:name":"Frunzeasca",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.4235,
-    45.91812,
-    27.4235,
-    45.91812
+    27.417585,
+    45.912828,
+    27.425206,
+    45.921955
 ],
-  "geometry": {"coordinates":[27.4235,45.91812],"type":"Point"}
+  "geometry": {"coordinates":[[[27.424703,45.921509],[27.425206,45.921401],[27.424113,45.918954],[27.422865,45.916384],[27.421138,45.912828],[27.417585,45.913612],[27.420096,45.918428],[27.421775,45.921905],[27.42236,45.921955],[27.424703,45.921509]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.45895,45.08623,22.45895,45.08623",
-    "geom:latitude":45.08623,
-    "geom:longitude":22.45895,
+    "geom:area":0.000022,
+    "geom:area_square_m":194208.307328,
+    "geom:bbox":"22.454146,45.080256,22.465124,45.089416",
+    "geom:latitude":45.085949,
+    "geom:longitude":22.460172,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Lunca Zaicii",
@@ -24,13 +24,21 @@
     "gn:population":88,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.43895,45.06623,22.47895,45.10623",
+    "lbl:latitude":45.08623,
+    "lbl:longitude":22.45895,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Lunca Zaicii"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674346
+        "gn:id":674346,
+        "ro-ancpi:id":52366
     },
     "wof:country":"RO",
-    "wof:geomhash":"f7ae846e7dd936886872c18a80d8b20c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"476c700c2e871d08c6e3829f07d31159",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1310085763,
-    "wof:lastmodified":1566610558,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203620,
     "wof:name":"Lunca Zaicii",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.45895,
-    45.08623,
-    22.45895,
-    45.08623
+    22.454146,
+    45.080256,
+    22.465124,
+    45.089416
 ],
-  "geometry": {"coordinates":[22.45895,45.08623],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.464242,45.085779],[22.463476,45.085535],[22.463109,45.085705],[22.462745,45.085367],[22.460204,45.085503],[22.459319,45.085661],[22.458202,45.086407],[22.458323,45.086739],[22.4587,45.087864],[22.45902,45.088532],[22.459376,45.088828],[22.460729,45.089416],[22.46127,45.089255],[22.461574,45.088893],[22.462632,45.088408],[22.462246,45.087892],[22.465124,45.086919],[22.464242,45.085779]]],[[[22.455584,45.08336],[22.456269,45.0827],[22.456377,45.082739],[22.456586,45.082831],[22.456941,45.082979],[22.457177,45.083083],[22.45817,45.082528],[22.457767,45.081011],[22.457314,45.080256],[22.456419,45.080569],[22.457236,45.08181],[22.456423,45.082186],[22.456953,45.082579],[22.456786,45.082678],[22.455601,45.082034],[22.455093,45.081532],[22.454818,45.081709],[22.454146,45.08269],[22.455584,45.08336]]]],"type":"MultiPolygon"}
 }

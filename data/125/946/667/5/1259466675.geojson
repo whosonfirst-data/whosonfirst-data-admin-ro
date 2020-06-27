@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.26546,43.79477,28.26546,43.79477",
-    "geom:latitude":43.79477,
-    "geom:longitude":28.26546,
+    "geom:area":0.000034,
+    "geom:area_square_m":302964.002173,
+    "geom:bbox":"28.255838,43.789896,28.268151,43.796301",
+    "geom:latitude":43.793387,
+    "geom:longitude":28.262861,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62397.0",
     "gn:asciiname":"Graniceru",
@@ -25,18 +25,29 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.24546,43.77477,28.28546,43.81477",
+    "lbl:latitude":43.79477,
+    "lbl:longitude":28.26546,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Gr\u0103niceru"
+    ],
+    "name:ron_x_variant":[
+        "Graniceru"
+    ],
     "name:und_x_variant":[
         "Canli-Cicur",
         "Gr\u0103nicerul",
         "Gr\u0103niceru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676788
+        "gn:id":676788,
+        "ro-ancpi:id":62422
     },
     "wof:country":"RO",
-    "wof:geomhash":"11ce4978f7668c50dc0b0504b10cf3c7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"12bd6e2f686bb06a60770410de569882",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1259466675,
-    "wof:lastmodified":1566611560,
-    "wof:name":"Graniceru",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203615,
+    "wof:name":"Gr\u0103niceru",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.26546,
-    43.79477,
-    28.26546,
-    43.79477
+    28.255838,
+    43.789896,
+    28.268151,
+    43.796301
 ],
-  "geometry": {"coordinates":[28.26546,43.79477],"type":"Point"}
+  "geometry": {"coordinates":[[[28.260298,43.793523],[28.262064,43.796301],[28.265493,43.795427],[28.265672,43.795139],[28.266517,43.794953],[28.268151,43.794587],[28.267426,43.793741],[28.267511,43.793118],[28.267777,43.792518],[28.267355,43.792458],[28.266926,43.792629],[28.266747,43.792288],[28.266638,43.791756],[28.266289,43.791579],[28.265991,43.791587],[28.26575,43.791912],[28.265474,43.791964],[28.265282,43.791738],[28.265063,43.791383],[28.264657,43.791265],[28.26445,43.791127],[28.264839,43.790942],[28.265233,43.790858],[28.264976,43.790548],[28.264302,43.789896],[28.264078,43.790523],[28.263837,43.790848],[28.263144,43.790941],[28.263268,43.791371],[28.262705,43.791633],[28.262057,43.791825],[28.262032,43.792086],[28.261925,43.792305],[28.261157,43.792472],[28.26086,43.792163],[28.260621,43.791809],[28.260437,43.791727],[28.26013,43.791939],[28.255838,43.792461],[28.256446,43.793917],[28.260298,43.793523]]],"type":"Polygon"}
 }

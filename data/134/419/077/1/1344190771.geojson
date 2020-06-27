@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.03106,44.89594,24.03106,44.89594",
-    "geom:latitude":44.89594,
-    "geom:longitude":24.03106,
+    "geom:area":0.000098,
+    "geom:area_square_m":856837.858107,
+    "geom:bbox":"24.025297,44.893351,24.041662,44.903574",
+    "geom:latitude":44.897483,
+    "geom:longitude":24.033285,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170685.0",
     "gn:asciiname":"Maldaresti",
@@ -24,13 +24,40 @@
     "gn:population":363,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.01106,44.87594,24.05106,44.91594",
+    "lbl:latitude":44.89594,
+    "lbl:longitude":24.03106,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "M\u0103ld\u0103re\u015fti"
+    ],
+    "name:nld_x_preferred":[
+        "M\u0103ld\u0103re\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "M\u0103ld\u0103re\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "M\u0103ld\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Maldaresti",
+        "M\u0103ld\u0103re\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0434\u0435\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Maldaresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674026
+        "gn:id":674026,
+        "ro-ancpi:id":170756
     },
     "wof:country":"RO",
-    "wof:geomhash":"fc3e5ac8561ecd679203f4598661d8eb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"41ea7d25e904ae9fd6b7ba69a04c3e19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +83,14 @@
         }
     ],
     "wof:id":1344190771,
-    "wof:lastmodified":1566609955,
-    "wof:name":"Maldaresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203680,
+    "wof:name":"M\u0103ld\u0103re\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":363,
@@ -64,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.03106,
-    44.89594,
-    24.03106,
-    44.89594
+    24.025297,
+    44.893351,
+    24.041662,
+    44.903574
 ],
-  "geometry": {"coordinates":[24.03106,44.89594],"type":"Point"}
+  "geometry": {"coordinates":[[[24.041662,44.89457],[24.038684,44.893493],[24.033945,44.893351],[24.027946,44.894184],[24.025297,44.895081],[24.029264,44.90114],[24.030213,44.901658],[24.032975,44.902567],[24.032953,44.902593],[24.033625,44.90283],[24.033831,44.902909],[24.033821,44.902953],[24.034249,44.903089],[24.034378,44.903113],[24.034476,44.903132],[24.034501,44.903137],[24.034636,44.903183],[24.034787,44.903237],[24.034981,44.903303],[24.03523,44.90339],[24.035444,44.90346],[24.035758,44.903568],[24.035774,44.903574],[24.038472,44.897542],[24.041662,44.89457]]],"type":"Polygon"}
 }

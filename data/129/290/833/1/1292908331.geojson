@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.35528,46.80342,22.35528,46.80342",
-    "geom:latitude":46.80342,
-    "geom:longitude":22.35528,
+    "geom:area":0.000047,
+    "geom:area_square_m":397226.42331,
+    "geom:bbox":"22.3501,46.798312,22.361642,46.807268",
+    "geom:latitude":46.802811,
+    "geom:longitude":22.355466,
     "gn:admin1_code":"05",
     "gn:admin2_code":"30470.0",
     "gn:asciiname":"Lacu Sarat",
@@ -24,13 +24,27 @@
     "gn:population":80,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.33528,46.78342,22.37528,46.82342",
+    "lbl:latitude":46.80342,
+    "lbl:longitude":22.35528,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:hun_x_preferred":[
+        "Lacu S\u0103rat"
+    ],
+    "name:ron_x_preferred":[
+        "Lacu S\u0103rat"
+    ],
+    "name:ron_x_variant":[
+        "Lacu Sarat"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675096
+        "gn:id":675096,
+        "ro-ancpi:id":30522
     },
     "wof:country":"RO",
-    "wof:geomhash":"ba5b032e76582f91f1b2ff2cae54ea71",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"abda1d1b343fa9d62af7b0835f976686",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +70,14 @@
         }
     ],
     "wof:id":1292908331,
-    "wof:lastmodified":1566610115,
-    "wof:name":"Lacu Sarat",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203499,
+    "wof:name":"Lacu S\u0103rat",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
     "wof:population":80,
@@ -64,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.35528,
-    46.80342,
-    22.35528,
-    46.80342
+    22.3501,
+    46.798312,
+    22.361642,
+    46.807268
 ],
-  "geometry": {"coordinates":[22.35528,46.80342],"type":"Point"}
+  "geometry": {"coordinates":[[[22.361412,46.800225],[22.361642,46.799541],[22.360981,46.798312],[22.358876,46.798968],[22.357902,46.799246],[22.356784,46.799789],[22.356292,46.800033],[22.35561,46.799678],[22.355429,46.799769],[22.354756,46.800085],[22.354289,46.800281],[22.353535,46.801116],[22.352807,46.801609],[22.352114,46.801849],[22.351815,46.802032],[22.35121,46.803541],[22.350272,46.804883],[22.3501,46.805718],[22.352707,46.806422],[22.356268,46.807268],[22.356163,46.805378],[22.356931,46.804392],[22.358408,46.802763],[22.358823,46.802293],[22.358939,46.801262],[22.361412,46.800225]]],"type":"Polygon"}
 }

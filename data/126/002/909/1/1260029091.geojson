@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.23229,47.88275,23.23229,47.88275",
-    "geom:latitude":47.88275,
-    "geom:longitude":23.23229,
+    "geom:area":0.000014,
+    "geom:area_square_m":116800.274776,
+    "geom:bbox":"23.22502,47.881042,23.231149,47.886162",
+    "geom:latitude":47.883696,
+    "geom:longitude":23.228272,
     "gn:admin1_code":"32",
     "gn:admin2_code":"137229.0",
     "gn:asciiname":"Pasunea Mare",
@@ -24,13 +24,26 @@
     "gn:population":299,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.21229,47.86275,23.25229,47.90275",
+    "lbl:latitude":47.883705,
+    "lbl:longitude":23.228318,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.883705,
+    "mps:longitude":23.228318,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u0103\u015funea Mare"
+    ],
+    "name:ron_x_variant":[
+        "Pasunea Mare"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671279
+        "gn:id":671279,
+        "ro-ancpi:id":137265
     },
     "wof:country":"RO",
-    "wof:geomhash":"2f3251bd580557a9878a6825093facc2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0fddef867bb7d14d6634c4133178da52",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1260029091,
-    "wof:lastmodified":1566610510,
-    "wof:name":"Pasunea Mare",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203364,
+    "wof:name":"P\u0103\u015funea Mare",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":299,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.23229,
-    47.88275,
-    23.23229,
-    47.88275
+    23.22502,
+    47.881042,
+    23.231149,
+    47.886162
 ],
-  "geometry": {"coordinates":[23.23229,47.88275],"type":"Point"}
+  "geometry": {"coordinates":[[[23.229944,47.881543],[23.22953,47.881042],[23.228046,47.882248],[23.226986,47.883099],[23.22662,47.883451],[23.226221,47.883743],[23.22502,47.884729],[23.225779,47.885177],[23.226337,47.885504],[23.226448,47.885594],[23.22743,47.886162],[23.227947,47.88574],[23.228574,47.885135],[23.229328,47.884551],[23.229805,47.884174],[23.231004,47.883165],[23.230729,47.882986],[23.231149,47.882678],[23.230736,47.88237],[23.230903,47.88225],[23.230823,47.882186],[23.229944,47.881543]]],"type":"Polygon"}
 }

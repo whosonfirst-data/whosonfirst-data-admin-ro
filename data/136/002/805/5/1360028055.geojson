@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.96667,45.61667,26.96667,45.61667",
-    "geom:latitude":45.61667,
-    "geom:longitude":26.96667,
+    "geom:area":0.000012,
+    "geom:area_square_m":103171.175067,
+    "geom:bbox":"26.963659,45.610107,26.969557,45.614108",
+    "geom:latitude":45.612064,
+    "geom:longitude":26.966673,
     "gn:admin1_code":"40",
     "gn:admin2_code":"176338.0",
     "gn:asciiname":"Sotarcari",
@@ -25,17 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.94667,45.59667,26.98667,45.63667",
+    "lbl:latitude":45.611909,
+    "lbl:longitude":26.966226,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.611909,
+    "mps:longitude":26.966226,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "\u015eot\u00e2rcari"
+    ],
+    "name:ron_x_variant":[
+        "Sotarcari"
+    ],
     "name:und_x_variant":[
         "\u015eot\u00e2rcari",
         "\u015eot\u00eercari"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666405
+        "gn:id":666405,
+        "ro-ancpi:id":176436
     },
     "wof:country":"RO",
-    "wof:geomhash":"2b66ab26bb17d974b20cb4adaac15bca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3355509520668c4e18fe8ea191af8788",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1360028055,
-    "wof:lastmodified":1566610648,
-    "wof:name":"Sotarcari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203403,
+    "wof:name":"\u015eot\u00e2rcari",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.96667,
-    45.61667,
-    26.96667,
-    45.61667
+    26.963659,
+    45.610107,
+    26.969557,
+    45.614108
 ],
-  "geometry": {"coordinates":[26.96667,45.61667],"type":"Point"}
+  "geometry": {"coordinates":[[[26.967105,45.613215],[26.967096,45.612608],[26.968092,45.612657],[26.968281,45.612485],[26.968465,45.612404],[26.968667,45.612374],[26.968739,45.612214],[26.968656,45.611871],[26.968747,45.611706],[26.968888,45.611676],[26.969044,45.611701],[26.969215,45.611784],[26.969431,45.611653],[26.969408,45.611391],[26.96929,45.610882],[26.969557,45.610586],[26.969412,45.610505],[26.969194,45.610107],[26.968708,45.610232],[26.967648,45.610586],[26.966974,45.61073],[26.966098,45.610808],[26.965763,45.610837],[26.965541,45.610963],[26.965188,45.611228],[26.964527,45.611924],[26.964722,45.61193],[26.964872,45.612077],[26.963659,45.613108],[26.964392,45.61346],[26.965101,45.613802],[26.965578,45.613977],[26.966303,45.614108],[26.96677,45.613595],[26.966908,45.613448],[26.967105,45.613215]]],"type":"Polygon"}
 }

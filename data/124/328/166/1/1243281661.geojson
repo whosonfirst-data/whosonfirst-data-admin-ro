@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.95207,46.38076,22.95207,46.38076",
-    "geom:latitude":46.38076,
-    "geom:longitude":22.95207,
+    "geom:area":0.000008,
+    "geom:area_square_m":64949.567319,
+    "geom:bbox":"22.957059,46.381489,22.962669,46.384443",
+    "geom:latitude":46.383028,
+    "geom:longitude":22.960174,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Culdesti",
@@ -24,13 +24,26 @@
     "gn:population":91,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.93207,46.36076,22.97207,46.40076",
+    "lbl:latitude":46.383001,
+    "lbl:longitude":22.960174,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.383001,
+    "mps:longitude":22.960174,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Culde\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Culdesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679971
+        "gn:id":679971,
+        "ro-ancpi:id":8489
     },
     "wof:country":"RO",
-    "wof:geomhash":"8f90bb8c080c94ed9ed877922a2b664b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b9ebb506c092305b554599649a768b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1243281661,
-    "wof:lastmodified":1566611525,
-    "wof:name":"Culdesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203767,
+    "wof:name":"Culde\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":91,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.95207000000001,
-    46.38076,
-    22.95207000000001,
-    46.38076
+    22.957059,
+    46.381489,
+    22.962669,
+    46.384443
 ],
-  "geometry": {"coordinates":[22.95207000000001,46.38076],"type":"Point"}
+  "geometry": {"coordinates":[[[22.957728,46.384443],[22.957967,46.384335],[22.958312,46.384285],[22.958853,46.384288],[22.959397,46.384081],[22.960526,46.383713],[22.961181,46.383581],[22.962173,46.383099],[22.962561,46.382858],[22.962669,46.38264],[22.962609,46.382295],[22.962535,46.381857],[22.961493,46.381489],[22.960808,46.38197],[22.959035,46.382544],[22.958888,46.383103],[22.958287,46.383248],[22.957059,46.383526],[22.957584,46.38404],[22.957429,46.384244],[22.957728,46.384443]]],"type":"Polygon"}
 }

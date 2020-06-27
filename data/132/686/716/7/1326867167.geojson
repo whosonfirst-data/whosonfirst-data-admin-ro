@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.16038,44.9575,24.16038,44.9575",
-    "geom:latitude":44.9575,
-    "geom:longitude":24.16038,
+    "geom:area":0.000091,
+    "geom:area_square_m":798141.621211,
+    "geom:bbox":"24.147409,44.948137,24.171562,44.962139",
+    "geom:latitude":44.955042,
+    "geom:longitude":24.161008,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173686.0",
     "gn:asciiname":"Ciorasti",
@@ -24,13 +24,30 @@
     "gn:population":699,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.14038,44.9375,24.18038,44.9775",
+    "lbl:latitude":44.9575,
+    "lbl:longitude":24.16038,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:msa_x_preferred":[
+        "Cior\u0103\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Cior\u0103\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ciorasti"
+    ],
+    "name:vie_x_preferred":[
+        "Ciorasti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681666
+        "gn:id":681666,
+        "ro-ancpi:id":173711
     },
     "wof:country":"RO",
-    "wof:geomhash":"92be5c6d2d833cda2e1cfdcde902cd11",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"876d199446da9b31d35c6f40ef941a82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +73,14 @@
         }
     ],
     "wof:id":1326867167,
-    "wof:lastmodified":1566609770,
-    "wof:name":"Ciorasti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203678,
+    "wof:name":"Cior\u0103\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":699,
@@ -64,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.16038,
-    44.9575,
-    24.16038,
-    44.9575
+    24.147409,
+    44.948137,
+    24.171562,
+    44.962139
 ],
-  "geometry": {"coordinates":[24.16038,44.9575],"type":"Point"}
+  "geometry": {"coordinates":[[[24.168811,44.948614],[24.167026,44.948161],[24.166678,44.948137],[24.163764,44.949279],[24.165148,44.951109],[24.164241,44.952955],[24.163189,44.952333],[24.162161,44.953112],[24.162821,44.953601],[24.16055,44.955405],[24.160159,44.955176],[24.15637,44.957043],[24.154883,44.956009],[24.154084,44.95569],[24.153655,44.955978],[24.152592,44.955055],[24.151126,44.955711],[24.151693,44.95634],[24.151387,44.956532],[24.15227,44.957325],[24.148573,44.959063],[24.147409,44.959316],[24.148194,44.960105],[24.150894,44.962139],[24.15091,44.962085],[24.150945,44.960729],[24.151885,44.960768],[24.153238,44.95955],[24.154592,44.960293],[24.155846,44.959613],[24.157199,44.958944],[24.158397,44.958225],[24.159756,44.957489],[24.160589,44.957667],[24.161268,44.957366],[24.161964,44.957697],[24.164121,44.955894],[24.165944,44.956615],[24.167901,44.955539],[24.171562,44.950415],[24.168811,44.948614]]],"type":"Polygon"}
 }

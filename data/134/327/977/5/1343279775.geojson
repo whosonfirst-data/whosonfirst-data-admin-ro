@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.88811,46.36758,22.88811,46.36758",
-    "geom:latitude":46.36758,
-    "geom:longitude":22.88811,
+    "geom:area":0.000016,
+    "geom:area_square_m":132348.776726,
+    "geom:bbox":"22.891067,46.368875,22.900724,46.372463",
+    "geom:latitude":46.370859,
+    "geom:longitude":22.895722,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Vidra",
@@ -24,14 +24,20 @@
     "gn:population":65,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.86811,46.34758,22.90811,46.38758",
+    "lbl:latitude":46.370924,
+    "lbl:longitude":22.895796,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.370924,
+    "mps:longitude":22.895796,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u062f\u0631\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u064a\u062f\u0631\u0627\u060c \u0623\u0644\u0628\u0627"
     ],
     "name:ceb_x_preferred":[
         "Comuna Vidra"
@@ -40,6 +46,9 @@
         "Vidra"
     ],
     "name:epo_x_preferred":[
+        "Vidra"
+    ],
+    "name:eus_x_preferred":[
         "Vidra"
     ],
     "name:fra_x_preferred":[
@@ -67,6 +76,9 @@
         "Vidra"
     ],
     "name:ron_x_preferred":[
+        "Vidra"
+    ],
+    "name:ron_x_variant":[
         "Comuna Vidra"
     ],
     "name:sqi_x_preferred":[
@@ -87,7 +99,11 @@
     "name:zho_x_preferred":[
         "\u7ef4\u5fb7\u62c9\u4e61"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,10 +113,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":662968,
+        "ro-ancpi:id":8434,
         "wk:page":"Vidra%2C_Alba"
     },
     "wof:country":"RO",
-    "wof:geomhash":"9afeab9fe1a458afa6205c0fd14c4110",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17a98ab59182f7f20447fc99e0fa1ece",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +130,13 @@
         }
     ],
     "wof:id":1343279775,
-    "wof:lastmodified":1566609973,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203750,
     "wof:name":"Vidra",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -122,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.88811,
-    46.36758,
-    22.88811,
-    46.36758
+    22.891067,
+    46.368875,
+    22.900724,
+    46.372463
 ],
-  "geometry": {"coordinates":[22.88811,46.36758],"type":"Point"}
+  "geometry": {"coordinates":[[[22.891236,46.368875],[22.891067,46.369148],[22.892108,46.369749],[22.892182,46.370502],[22.892803,46.370882],[22.892171,46.371344],[22.893223,46.371829],[22.893618,46.371581],[22.894489,46.371594],[22.895337,46.371722],[22.896774,46.371932],[22.897064,46.372002],[22.897441,46.372238],[22.898065,46.372118],[22.899148,46.372463],[22.899646,46.37243],[22.900095,46.372271],[22.900471,46.372332],[22.900583,46.372129],[22.900647,46.372001],[22.900724,46.371457],[22.899421,46.37119],[22.89788,46.370633],[22.897965,46.370225],[22.896807,46.370204],[22.895796,46.370059],[22.894908,46.369684],[22.892981,46.36892],[22.8926,46.369241],[22.892288,46.369081],[22.892007,46.369264],[22.891884,46.369157],[22.891538,46.369009],[22.891236,46.368875]]],"type":"Polygon"}
 }

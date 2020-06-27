@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.34735,44.48509,24.34735,44.48509",
-    "geom:latitude":44.48509,
-    "geom:longitude":24.34735,
+    "geom:area":0.000054,
+    "geom:area_square_m":480552.191648,
+    "geom:bbox":"24.33683,44.484057,24.347502,44.490921",
+    "geom:latitude":44.487395,
+    "geom:longitude":24.34265,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126433.0",
     "gn:asciiname":"Pietrisu",
@@ -24,13 +24,24 @@
     "gn:population":565,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.32735,44.46509,24.36735,44.50509",
+    "lbl:latitude":44.48509,
+    "lbl:longitude":24.34735,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pietri\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Pietrisu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670846
+        "gn:id":670846,
+        "ro-ancpi:id":126479
     },
     "wof:country":"RO",
-    "wof:geomhash":"eb065b4d9825ce60be14eba24e3f78e1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cb0f53a7a9d7b94ef49862fa6a9a34ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1344207993,
-    "wof:lastmodified":1566609967,
-    "wof:name":"Pietrisu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
+    "wof:name":"Pietri\u015fu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":565,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.34735,
-    44.48509,
-    24.34735,
-    44.48509
+    24.33683,
+    44.484057,
+    24.347502,
+    44.490921
 ],
-  "geometry": {"coordinates":[24.34735,44.48509],"type":"Point"}
+  "geometry": {"coordinates":[[[24.347502,44.484678],[24.345144,44.484485],[24.342862,44.484667],[24.341524,44.484554],[24.340145,44.484441],[24.338829,44.484284],[24.337437,44.484057],[24.33683,44.484086],[24.336918,44.484217],[24.339026,44.487273],[24.338186,44.488649],[24.338327,44.48895],[24.336991,44.489932],[24.338166,44.490223],[24.338368,44.490529],[24.341108,44.490447],[24.341045,44.489801],[24.343315,44.489705],[24.343492,44.490921],[24.345711,44.490872],[24.345747,44.490862],[24.347146,44.489451],[24.347362,44.488794],[24.347502,44.484678]]],"type":"Polygon"}
 }

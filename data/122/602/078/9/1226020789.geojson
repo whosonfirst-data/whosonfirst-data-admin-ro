@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.48478,46.07033,27.48478,46.07033",
-    "geom:latitude":46.07033,
-    "geom:longitude":27.48478,
+    "geom:area":0.000039,
+    "geom:area_square_m":331213.929569,
+    "geom:bbox":"27.474035,46.064648,27.48726,46.072178",
+    "geom:latitude":46.068746,
+    "geom:longitude":27.481131,
     "gn:admin1_code":"18",
     "gn:admin2_code":"76406.0",
     "gn:asciiname":"Gara Ghidigeni",
@@ -25,17 +25,27 @@
     "gn:population":48,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.46478,46.05033,27.50478,46.09033",
+    "lbl:latitude":46.068113,
+    "lbl:longitude":27.483987,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.068113,
+    "mps:longitude":27.483987,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gara Ghidigeni"
+    ],
     "name:und_x_variant":[
         "Ghidigeni",
         "Gara Ghidigeni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677598
+        "gn:id":677598,
+        "ro-ancpi:id":76424
     },
     "wof:country":"RO",
-    "wof:geomhash":"4018eaa21b2e24be252277191e149d27",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ae451c5e0803078c7f63dfb6fef31a8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1226020789,
-    "wof:lastmodified":1566611634,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203486,
     "wof:name":"Gara Ghidigeni",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.48478,
-    46.07033,
-    27.48478,
-    46.07033
+    27.474035,
+    46.064648,
+    27.48726,
+    46.072178
 ],
-  "geometry": {"coordinates":[27.48478,46.07033],"type":"Point"}
+  "geometry": {"coordinates":[[[27.481827,46.070599],[27.48726,46.069348],[27.486666,46.068271],[27.485147,46.066499],[27.485509,46.066363],[27.484209,46.065389],[27.483785,46.065643],[27.48349,46.064648],[27.480443,46.065785],[27.482518,46.069385],[27.480524,46.069953],[27.47889,46.068051],[27.474035,46.069582],[27.476329,46.072178],[27.477144,46.071809],[27.478157,46.071464],[27.478543,46.071371],[27.47946,46.071147],[27.481827,46.070599]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.4009,44.81813,24.4009,44.81813",
-    "geom:latitude":44.81813,
-    "geom:longitude":24.4009,
+    "geom:area":0.000135,
+    "geom:area_square_m":1186094.928003,
+    "geom:bbox":"24.397821,44.811242,24.410982,44.833937",
+    "geom:latitude":44.823023,
+    "geom:longitude":24.403429,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128882.0",
     "gn:asciiname":"Launele",
@@ -24,13 +24,24 @@
     "gn:population":205,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.3809,44.79813,24.4209,44.83813",
+    "lbl:latitude":44.81813,
+    "lbl:longitude":24.4009,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "L\u0103unele"
+    ],
+    "name:ron_x_variant":[
+        "Launele"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674989
+        "gn:id":674989,
+        "ro-ancpi:id":128926
     },
     "wof:country":"RO",
-    "wof:geomhash":"3a0d23f5add1fabf4af69f8a2c487ece",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8ea77600d53d225bfd4bc93b671321c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1209967589,
-    "wof:lastmodified":1566610289,
-    "wof:name":"Launele",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
+    "wof:name":"L\u0103unele",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":205,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.4009,
-    44.81813,
-    24.4009,
-    44.81813
+    24.397821,
+    44.811242,
+    24.410982,
+    44.833937
 ],
-  "geometry": {"coordinates":[24.4009,44.81813],"type":"Point"}
+  "geometry": {"coordinates":[[[24.403834,44.814414],[24.401984,44.814052],[24.401853,44.812964],[24.401232,44.811242],[24.401207,44.811251],[24.400033,44.811649],[24.398953,44.812404],[24.398899,44.813497],[24.397882,44.813537],[24.397899,44.814569],[24.397936,44.817185],[24.397821,44.819932],[24.398208,44.821557],[24.398373,44.822676],[24.399755,44.822481],[24.400548,44.822501],[24.401013,44.823019],[24.402616,44.824723],[24.401609,44.827669],[24.402227,44.828344],[24.401028,44.828881],[24.402876,44.830787],[24.404356,44.832215],[24.402404,44.832978],[24.402519,44.833533],[24.403509,44.833398],[24.404687,44.833937],[24.406193,44.833346],[24.405983,44.833036],[24.410953,44.830969],[24.410959,44.830979],[24.410982,44.830969],[24.406832,44.824138],[24.405194,44.818251],[24.403846,44.814416],[24.403834,44.814414]]],"type":"Polygon"}
 }

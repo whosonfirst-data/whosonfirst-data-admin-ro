@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.84726,44.78103,21.84726,44.78103",
-    "geom:latitude":44.78103,
-    "geom:longitude":21.84726,
+    "geom:area":0.000017,
+    "geom:area_square_m":149296.407616,
+    "geom:bbox":"21.841587,44.778231,21.849694,44.783236",
+    "geom:latitude":44.780791,
+    "geom:longitude":21.844837,
     "gn:admin1_code":"12",
     "gn:admin2_code":"54163.0",
     "gn:asciiname":"Rachita",
@@ -24,13 +24,35 @@
     "gn:population":183,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.82726,44.76103,21.86726,44.80103",
+    "lbl:latitude":44.781221,
+    "lbl:longitude":21.844162,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.781221,
+    "mps:longitude":21.844162,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "R\u0103chita"
+    ],
+    "name:deu_x_preferred":[
+        "R\u0103chita"
+    ],
+    "name:epo_x_preferred":[
+        "R\u0103chita"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103chita"
+    ],
+    "name:ron_x_variant":[
+        "Rachita"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669384
+        "gn:id":669384,
+        "ro-ancpi:id":54225
     },
     "wof:country":"RO",
-    "wof:geomhash":"6cd134cf869f92ad0fdcf7509f51d2af",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e96092d0eae02fabc8be992d362bf9e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +78,14 @@
         }
     ],
     "wof:id":1293763757,
-    "wof:lastmodified":1566610076,
-    "wof:name":"Rachita",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203617,
+    "wof:name":"R\u0103chita",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":183,
@@ -64,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.84726,
-    44.78103,
-    21.84726,
-    44.78103
+    21.841587,
+    44.778231,
+    21.849694,
+    44.783236
 ],
-  "geometry": {"coordinates":[21.84726,44.78103],"type":"Point"}
+  "geometry": {"coordinates":[[[21.842452,44.78293],[21.843093,44.782525],[21.843801,44.782625],[21.844761,44.782431],[21.84548,44.781915],[21.847014,44.781103],[21.846982,44.780796],[21.848095,44.780753],[21.849363,44.779856],[21.849694,44.779194],[21.848368,44.779111],[21.847612,44.780449],[21.846006,44.778231],[21.84572,44.779307],[21.84485,44.779413],[21.844432,44.779939],[21.843707,44.779808],[21.84363,44.779218],[21.842686,44.779348],[21.84273,44.780002],[21.842094,44.78014],[21.842094,44.781174],[21.841587,44.781811],[21.841623,44.783131],[21.841674,44.783236],[21.841953,44.783229],[21.842452,44.78293]]],"type":"Polygon"}
 }

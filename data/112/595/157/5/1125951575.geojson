@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.88333,45.8,22.88333,45.8",
-    "geom:latitude":45.8,
-    "geom:longitude":22.88333,
+    "geom:area":0.000067,
+    "geom:area_square_m":579931.402962,
+    "geom:bbox":"22.873959,45.795339,22.89079,45.803002",
+    "geom:latitude":45.798994,
+    "geom:longitude":22.882546,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1272,
     "iso:country":"RO",
-    "lbl:bbox":"22.86333,45.78,22.90333,45.82",
     "lbl:latitude":45.8,
     "lbl:longitude":22.88333,
     "lbl:max_zoom":16.0,
@@ -22,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u067e\u064a\u0633\u062a\u064a\u0634\u0648 \u0645\u064a\u0643"
+    ],
     "name:ceb_x_preferred":[
         "Pe\u0219ti\u0219u Mic"
     ],
@@ -41,7 +43,11 @@
         "Pesti\u0219u Mic"
     ],
     "name:ron_x_preferred":[
-        "Pesti\u0219u Mic"
+        "Pesti\u015fu Mic"
+    ],
+    "name:ron_x_variant":[
+        "Pesti\u0219u Mic",
+        "Pe\u0219ti\u015fu Mic"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0435\u0448\u0442\u0438\u0448\u0443 \u041c\u0438\u043a"
@@ -70,7 +76,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":877415,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -87,11 +96,15 @@
         "gn:id":671049,
         "gp:id":877415,
         "qs_pg:id":185423,
+        "ro-ancpi:id":90440,
         "wd:id":"Q12725031"
     },
     "wof:country":"RO",
     "wof:created":1497297477,
-    "wof:geomhash":"ff24f5cca5184f18b6fc48e12a7e741e",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"36daa5ec436caf9c79e72b8d23cc8c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,8 +114,14 @@
         }
     ],
     "wof:id":1125951575,
-    "wof:lastmodified":1566611280,
-    "wof:name":"Pe\u0219ti\u015fu Mic",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203804,
+    "wof:name":"Pesti\u015fu Mic",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":1272,
@@ -113,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.88333,
-    45.8,
-    22.88333,
-    45.8
+    22.873959,
+    45.795339,
+    22.89079,
+    45.803002
 ],
-  "geometry": {"coordinates":[22.88333,45.8],"type":"Point"}
+  "geometry": {"coordinates":[[[22.880041,45.801839],[22.882133,45.801076],[22.884392,45.801326],[22.885159,45.801645],[22.885741,45.801416],[22.885867,45.800504],[22.886055,45.799771],[22.886938,45.79956],[22.886982,45.800234],[22.888245,45.800161],[22.888126,45.79846],[22.888672,45.79855],[22.88952,45.79855],[22.890349,45.798453],[22.89079,45.798317],[22.890054,45.795339],[22.889518,45.795585],[22.888964,45.795703],[22.888475,45.795886],[22.888123,45.796104],[22.887919,45.795443],[22.887232,45.795447],[22.886774,45.795422],[22.886744,45.79563],[22.88618,45.795431],[22.884386,45.795518],[22.883025,45.796274],[22.882961,45.796464],[22.880737,45.797304],[22.878774,45.798069],[22.873959,45.799624],[22.874806,45.801466],[22.875368,45.803002],[22.878007,45.802314],[22.880041,45.801839]]],"type":"Polygon"}
 }

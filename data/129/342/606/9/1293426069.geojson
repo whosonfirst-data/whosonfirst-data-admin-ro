@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.71064,47.22965,22.71064,47.22965",
-    "geom:latitude":47.22965,
-    "geom:longitude":22.71064,
+    "geom:area":0.000055,
+    "geom:area_square_m":463170.085783,
+    "geom:bbox":"22.703141,47.223634,22.7214,47.232683",
+    "geom:latitude":47.228838,
+    "geom:longitude":22.710442,
     "gn:admin1_code":"31",
     "gn:admin2_code":"142239",
     "gn:asciiname":"Bilghez",
@@ -24,13 +24,21 @@
     "gn:population":493,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.69064,47.20965,22.73064,47.24965",
+    "lbl:latitude":47.22965,
+    "lbl:longitude":22.71064,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bilghez"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684853
+        "gn:id":684853,
+        "ro-ancpi:id":142257
     },
     "wof:country":"RO",
-    "wof:geomhash":"712deb90c4a8d933eb7233d6ed820c20",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"36bd2cbc3b9d48b67c7f84c843850a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1293426069,
-    "wof:lastmodified":1566610127,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203528,
     "wof:name":"Bilghez",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.71064,
-    47.22965,
-    22.71064,
-    47.22965
+    22.703141,
+    47.223634,
+    22.7214,
+    47.232683
 ],
-  "geometry": {"coordinates":[22.71064,47.22965],"type":"Point"}
+  "geometry": {"coordinates":[[[22.71956,47.231251],[22.719629,47.230972],[22.718672,47.230441],[22.718291,47.230743],[22.715693,47.230083],[22.714295,47.229087],[22.714239,47.228634],[22.712033,47.228436],[22.711933,47.228112],[22.709592,47.227563],[22.710155,47.226337],[22.708188,47.225421],[22.708599,47.224656],[22.706833,47.223634],[22.706548,47.223889],[22.704988,47.225201],[22.70428,47.224839],[22.703141,47.225581],[22.703905,47.225982],[22.703634,47.227011],[22.704901,47.227249],[22.706482,47.229436],[22.70658,47.230782],[22.707629,47.231489],[22.70738,47.232006],[22.707881,47.232219],[22.71017,47.230805],[22.714526,47.2315],[22.719131,47.232683],[22.720285,47.23258],[22.7214,47.232051],[22.71956,47.231251]]],"type":"Polygon"}
 }

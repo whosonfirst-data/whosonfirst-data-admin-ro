@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08333,44.91667,24.08333,44.91667",
-    "geom:latitude":44.91667,
-    "geom:longitude":24.08333,
+    "geom:area":0.000081,
+    "geom:area_square_m":705035.655347,
+    "geom:bbox":"24.056241,44.925965,24.073902,44.938391",
+    "geom:latitude":44.931872,
+    "geom:longitude":24.065272,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172581",
     "gn:asciiname":"Baiasa",
@@ -24,13 +24,26 @@
     "gn:population":165,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.06333,44.89667,24.10333,44.93667",
+    "lbl:latitude":44.928124,
+    "lbl:longitude":24.066008,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.928124,
+    "mps:longitude":24.066008,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103ia\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Baiasa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685808
+        "gn:id":685808,
+        "ro-ancpi:id":172607
     },
     "wof:country":"RO",
-    "wof:geomhash":"787e3347b992e435a3f3fac1fb5e6286",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e4a8b6f53adea29f3c662aacc47d881e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1310629721,
-    "wof:lastmodified":1566610542,
-    "wof:name":"Baiasa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"B\u0103ia\u015fa",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":165,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08333,
-    44.91667,
-    24.08333,
-    44.91667
+    24.056241,
+    44.925965,
+    24.073902,
+    44.938391
 ],
-  "geometry": {"coordinates":[24.08333,44.91667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.068754,44.938391],[24.069262,44.93651],[24.070602,44.937542],[24.073902,44.935941],[24.070022,44.932583],[24.068797,44.927456],[24.068502,44.926399],[24.065412,44.925965],[24.063095,44.927068],[24.06279,44.928188],[24.063438,44.929001],[24.062752,44.929799],[24.062136,44.929643],[24.061673,44.92979],[24.061149,44.929396],[24.059653,44.930037],[24.059304,44.930487],[24.056783,44.930001],[24.05663,44.930703],[24.059876,44.931208],[24.059586,44.931645],[24.058414,44.931937],[24.057908,44.932561],[24.056249,44.933115],[24.056241,44.934541],[24.058204,44.934676],[24.059702,44.933985],[24.060778,44.93417],[24.060355,44.935147],[24.062438,44.93539],[24.06393,44.931321],[24.066006,44.930199],[24.067021,44.930442],[24.06671,44.932248],[24.06852,44.934035],[24.067875,44.93631],[24.067183,44.938164],[24.068754,44.938391]]],"type":"Polygon"}
 }

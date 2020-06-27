@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.01685,44.81635,24.01685,44.81635",
-    "geom:latitude":44.81635,
-    "geom:longitude":24.01685,
+    "geom:area":0.000028,
+    "geom:area_square_m":244387.850047,
+    "geom:bbox":"24.010043,44.811371,24.019655,44.820834",
+    "geom:latitude":44.816284,
+    "geom:longitude":24.014651,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Sotani",
@@ -24,33 +24,60 @@
     "gn:population":227,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.99685,44.79635,24.03685,44.83635",
+    "lbl:latitude":44.815315,
+    "lbl:longitude":24.014323,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.815315,
+    "mps:longitude":24.014323,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u015eotani"
+    ],
+    "name:ron_x_variant":[
+        "Sotani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666408
+        "gn:id":666408,
+        "ro-ancpi:id":169869
     },
     "wof:country":"RO",
-    "wof:geomhash":"e466a25d51b10a2ab95455467f671109",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4c13a063681676e04aa563cdf209d47e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209043091
+            "locality_id":1209043091,
+            "region_id":85687643
         }
     ],
     "wof:id":1209043091,
-    "wof:lastmodified":1566610353,
-    "wof:name":"Sotani",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"\u015eotani",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":227,
     "wof:population_rank":2,
@@ -60,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.01685,
-    44.81635,
-    24.01685,
-    44.81635
+    24.010043,
+    44.811371,
+    24.019655,
+    44.820834
 ],
-  "geometry": {"coordinates":[24.01685,44.81635],"type":"Point"}
+  "geometry": {"coordinates":[[[24.019655,44.820163],[24.012815,44.811371],[24.01132,44.812258],[24.013095,44.815395],[24.010043,44.816115],[24.010235,44.817601],[24.014123,44.816648],[24.017709,44.820834],[24.019655,44.820163]]],"type":"Polygon"}
 }

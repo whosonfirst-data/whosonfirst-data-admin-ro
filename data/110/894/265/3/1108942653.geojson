@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0761431841,44.4705291537,26.0761431841,44.4705291537",
+    "geom:bbox":"26.076143,44.470529,26.076143,44.470529",
     "geom:latitude":44.470529,
     "geom:longitude":26.076143,
     "iso:country":"RO",
@@ -26,15 +26,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363239,
-    "wof:geomhash":"c24ad6d86d6e3357ad3c7ad1c98caaec",
+    "wof:geomhash":"d22ac89eef485f495fe426553c9b60aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,7 +45,13 @@
         }
     ],
     "wof:id":1108942653,
-    "wof:lastmodified":1566610515,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208079,
     "wof:name":"Sectorul 1",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -55,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.07614318411085,
-    44.47052915373236,
-    26.07614318411085,
-    44.47052915373236
+    26.076143,
+    44.470529,
+    26.076143,
+    44.470529
 ],
-  "geometry": {"coordinates":[26.07614318411085,44.47052915373236],"type":"Point"}
+  "geometry": {"coordinates":[26.076143,44.470529],"type":"Point"}
 }

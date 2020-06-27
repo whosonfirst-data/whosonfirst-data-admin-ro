@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.43791,46.07289,23.43791,46.07289",
-    "geom:latitude":46.07289,
-    "geom:longitude":23.43791,
+    "geom:area":0.000026,
+    "geom:area_square_m":219769.811782,
+    "geom:bbox":"23.421813,46.064698,23.437432,46.074652",
+    "geom:latitude":46.072031,
+    "geom:longitude":23.430112,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5577.0",
     "gn:asciiname":"Poiana Ursului",
@@ -25,17 +25,27 @@
     "gn:population":24,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.41791,46.05289,23.45791,46.09289",
+    "lbl:latitude":46.073622,
+    "lbl:longitude":23.431213,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.073622,
+    "mps:longitude":23.431213,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Poiana Ursului"
+    ],
     "name:und_x_variant":[
         "Dealu G\u0103urenilor",
         "Poiana Ursului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670017
+        "gn:id":670017,
+        "ro-ancpi:id":5657
     },
     "wof:country":"RO",
-    "wof:geomhash":"8da271b75597fd176af9177617001f28",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c0b8708a150d2dc1a180d657fc2ae3a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1226246709,
-    "wof:lastmodified":1566611681,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203769,
     "wof:name":"Poiana Ursului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.43791,
-    46.07289,
-    23.43791,
-    46.07289
+    23.421813,
+    46.064698,
+    23.437432,
+    46.074652
 ],
-  "geometry": {"coordinates":[23.43791,46.07289],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.434196,46.074652],[23.434656,46.073584],[23.436755,46.073701],[23.437432,46.072125],[23.436722,46.07165],[23.435272,46.071496],[23.435087,46.072579],[23.432827,46.07289],[23.431187,46.072673],[23.426746,46.072119],[23.426183,46.071442],[23.424438,46.071365],[23.424389,46.072192],[23.425954,46.072372],[23.426693,46.073105],[23.426748,46.073828],[23.427507,46.073873],[23.430679,46.074533],[23.432423,46.074645],[23.434196,46.074652]]],[[[23.424274,46.068396],[23.422304,46.067453],[23.421813,46.06853],[23.423524,46.069317],[23.424274,46.068396]]],[[[23.42773,46.065271],[23.427153,46.064698],[23.426187,46.065498],[23.425729,46.066883],[23.426691,46.067108],[23.427013,46.066232],[23.42773,46.065271]]]],"type":"MultiPolygon"}
 }

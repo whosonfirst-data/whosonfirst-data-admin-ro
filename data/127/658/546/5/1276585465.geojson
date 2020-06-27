@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.04643,46.75232,27.04643,46.75232",
-    "geom:latitude":46.75232,
-    "geom:longitude":27.04643,
+    "geom:area":0.000025,
+    "geom:area_square_m":210392.3128,
+    "geom:bbox":"27.042182,46.746175,27.0563,46.755117",
+    "geom:latitude":46.750887,
+    "geom:longitude":27.047276,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22111.0",
     "gn:asciiname":"Padureni",
@@ -24,13 +24,50 @@
     "gn:population":64,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.02643,46.73232,27.06643,46.77232",
+    "lbl:latitude":46.748862,
+    "lbl:longitude":27.050608,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.748862,
+    "mps:longitude":27.050608,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:deu_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:epo_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:eus_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:hun_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ita_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ron_x_variant":[
+        "Padureni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0434\u0443\u0440\u0435\u043d\u0438"
+    ],
+    "name:vie_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +76,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671523
+        "gn:id":671523,
+        "ro-ancpi:id":22157
     },
     "wof:country":"RO",
-    "wof:geomhash":"fe441393fc4ebb0eeb1f7b5fd4ae7ff2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e4919b0c3c58b409a3184cddac326fda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +93,14 @@
         }
     ],
     "wof:id":1276585465,
-    "wof:lastmodified":1566610198,
-    "wof:name":"Padureni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203541,
+    "wof:name":"P\u0103dureni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":64,
@@ -64,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.04643,
-    46.75232000000001,
-    27.04643,
-    46.75232000000001
+    27.042182,
+    46.746175,
+    27.0563,
+    46.755117
 ],
-  "geometry": {"coordinates":[27.04643,46.75232000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.045494,46.755117],[27.044983,46.752713],[27.044919,46.752392],[27.045241,46.752368],[27.045738,46.752151],[27.046171,46.751856],[27.046451,46.751601],[27.046167,46.751218],[27.046256,46.750351],[27.043678,46.750194],[27.043506,46.750978],[27.042606,46.750583],[27.042182,46.754876],[27.042214,46.754956],[27.044689,46.754842],[27.045494,46.755117]]],[[[27.052873,46.748879],[27.054307,46.748028],[27.055463,46.746906],[27.055853,46.747115],[27.0563,46.74671],[27.055333,46.746175],[27.05401,46.747229],[27.053737,46.746967],[27.053025,46.747559],[27.053386,46.747806],[27.052742,46.748216],[27.052249,46.748418],[27.051329,46.748706],[27.051897,46.747459],[27.051608,46.747017],[27.050042,46.747413],[27.050349,46.748108],[27.049824,46.748624],[27.04849,46.749583],[27.048655,46.750062],[27.048466,46.75045],[27.048461,46.750645],[27.048603,46.750816],[27.048889,46.751031],[27.050157,46.750022],[27.051157,46.749399],[27.052873,46.748879]]],[[[27.052802,46.751486],[27.052341,46.75117],[27.051887,46.751743],[27.052557,46.75195],[27.052802,46.751486]]]],"type":"MultiPolygon"}
 }

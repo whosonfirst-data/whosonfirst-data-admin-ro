@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.46063,45.11753,24.46063,45.11753",
-    "geom:latitude":45.11753,
-    "geom:longitude":24.46063,
+    "geom:area":0.00003,
+    "geom:area_square_m":265064.128731,
+    "geom:bbox":"24.453725,45.114191,24.465673,45.11862",
+    "geom:latitude":45.116222,
+    "geom:longitude":24.459899,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170220.0",
     "gn:asciiname":"Vatasesti",
@@ -24,33 +24,60 @@
     "gn:population":162,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.44063,45.09753,24.48063,45.13753",
+    "lbl:latitude":45.116045,
+    "lbl:longitude":24.459989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.116045,
+    "mps:longitude":24.459989,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "V\u0103t\u0103\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Vatasesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663108
+        "gn:id":663108,
+        "ro-ancpi:id":170337
     },
     "wof:country":"RO",
-    "wof:geomhash":"15c3e8f705e3a9aeaf4aa4a0f23251d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"74089f897d801bb8fa1f758858348ca2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209139799
+            "locality_id":1209139799,
+            "region_id":85687643
         }
     ],
     "wof:id":1209139799,
-    "wof:lastmodified":1566610337,
-    "wof:name":"Vatasesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
+    "wof:name":"V\u0103t\u0103\u015fe\u015fti",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":162,
     "wof:population_rank":1,
@@ -60,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.46063,
-    45.11753,
-    24.46063,
-    45.11753
+    24.453725,
+    45.114191,
+    24.465673,
+    45.11862
 ],
-  "geometry": {"coordinates":[24.46063,45.11753],"type":"Point"}
+  "geometry": {"coordinates":[[[24.45676,45.117278],[24.457247,45.117231],[24.458134,45.117288],[24.460968,45.117512],[24.465673,45.117062],[24.464753,45.114191],[24.458011,45.114849],[24.455267,45.115514],[24.453725,45.117925],[24.45573,45.11862],[24.456667,45.118572],[24.45676,45.117278]]],"type":"Polygon"}
 }

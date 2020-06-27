@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.66196,44.7883,24.66196,44.7883",
-    "geom:latitude":44.7883,
-    "geom:longitude":24.66196,
+    "geom:area":0.000051,
+    "geom:area_square_m":450639.556395,
+    "geom:bbox":"24.659184,44.784599,24.673268,44.799455",
+    "geom:latitude":44.792695,
+    "geom:longitude":24.66661,
     "gn:admin1_code":"03",
     "gn:admin2_code":"18028.0",
     "gn:asciiname":"Gardinesti",
@@ -24,33 +24,58 @@
     "gn:population":234,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.64196,44.7683,24.68196,44.8083",
+    "lbl:latitude":44.7883,
+    "lbl:longitude":24.66196,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "G\u0103rdine\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Gardinesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687645
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676823
+        "gn:id":676823,
+        "ro-ancpi:id":18108
     },
     "wof:country":"RO",
-    "wof:geomhash":"3fb1254c39f6d891374850327a77d545",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4da4f7fd1a8b0b43ae0e44c43e0c4e9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209216709
+            "locality_id":1209216709,
+            "region_id":85687645
         }
     ],
     "wof:id":1209216709,
-    "wof:lastmodified":1566610391,
-    "wof:name":"Gardinesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203637,
+    "wof:name":"G\u0103rdine\u015fti",
+    "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":234,
     "wof:population_rank":2,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.66196,
-    44.7883,
-    24.66196,
-    44.7883
+    24.659184,
+    44.784599,
+    24.673268,
+    44.799455
 ],
-  "geometry": {"coordinates":[24.66196,44.7883],"type":"Point"}
+  "geometry": {"coordinates":[[[24.671997,44.797306],[24.672459,44.796693],[24.672116,44.796514],[24.673268,44.793836],[24.673066,44.79264],[24.672545,44.792638],[24.672241,44.790139],[24.671366,44.790205],[24.6719,44.792925],[24.672399,44.79291],[24.67244,44.793213],[24.671923,44.793333],[24.670893,44.795891],[24.670594,44.795624],[24.668348,44.793345],[24.666126,44.791027],[24.663265,44.788041],[24.661677,44.786652],[24.661513,44.786428],[24.661762,44.785446],[24.660449,44.785463],[24.660164,44.784599],[24.659184,44.784648],[24.659446,44.786121],[24.659947,44.786654],[24.659872,44.787539],[24.659568,44.787696],[24.661125,44.78916],[24.662831,44.791001],[24.665093,44.793364],[24.667504,44.795764],[24.667482,44.797198],[24.667539,44.798891],[24.669048,44.799089],[24.669109,44.79941],[24.669692,44.799455],[24.669827,44.799205],[24.670021,44.798959],[24.670177,44.798733],[24.670401,44.798334],[24.670711,44.797684],[24.670751,44.797676],[24.670813,44.797684],[24.670889,44.79765],[24.671997,44.797306]]],"type":"Polygon"}
 }

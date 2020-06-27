@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.92002,44.88981,23.92002,44.88981",
-    "geom:latitude":44.88981,
-    "geom:longitude":23.92002,
+    "geom:area":0.000046,
+    "geom:area_square_m":407192.661051,
+    "geom:bbox":"23.893745,44.882162,23.918657,44.889262",
+    "geom:latitude":44.886276,
+    "geom:longitude":23.906329,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172698.0",
     "gn:asciiname":"Ratalesti",
@@ -24,13 +24,26 @@
     "gn:population":230,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.90002,44.86981,23.94002,44.90981",
+    "lbl:latitude":44.883684,
+    "lbl:longitude":23.897438,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.883684,
+    "mps:longitude":23.897438,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "R\u0103\u0163\u0103le\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ratalesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669118
+        "gn:id":669118,
+        "ro-ancpi:id":172787
     },
     "wof:country":"RO",
-    "wof:geomhash":"38c8531a3c56c3b7aa24494e4857fffd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2282023cab84843023ebf56bbd0e0f98",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1327467921,
-    "wof:lastmodified":1566609814,
-    "wof:name":"Ratalesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
+    "wof:name":"R\u0103\u0163\u0103le\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":230,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.92002,
-    44.88981,
-    23.92002,
-    44.88981
+    23.893745,
+    44.882162,
+    23.918657,
+    44.889262
 ],
-  "geometry": {"coordinates":[23.92002,44.88981],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.918657,44.887301],[23.905409,44.886802],[23.905371,44.888743],[23.918445,44.889262],[23.918657,44.887301]]],[[[23.899429,44.883294],[23.897706,44.882162],[23.895774,44.882886],[23.895323,44.88403],[23.893745,44.884085],[23.893899,44.885141],[23.905501,44.885026],[23.905377,44.884159],[23.902858,44.883348],[23.899429,44.883294]]]],"type":"MultiPolygon"}
 }

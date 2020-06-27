@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.56869,44.24463,27.56869,44.24463",
-    "geom:latitude":44.24463,
-    "geom:longitude":27.56869,
+    "geom:area":0.000062,
+    "geom:area_square_m":552684.981643,
+    "geom:bbox":"27.558306,44.237352,27.573809,44.247586",
+    "geom:latitude":44.242297,
+    "geom:longitude":27.565267,
     "gn:admin1_code":"41",
     "gn:admin2_code":"94651.0",
     "gn:asciiname":"Oltina",
@@ -24,11 +24,12 @@
     "gn:population":496,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.54869,44.22463,27.58869,44.26463",
+    "lbl:latitude":44.24463,
+    "lbl:longitude":27.56869,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u062a\u064a\u0646\u0627"
@@ -37,6 +38,9 @@
         "Comuna Oltina"
     ],
     "name:epo_x_preferred":[
+        "Oltina"
+    ],
+    "name:eus_x_preferred":[
         "Oltina"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +56,9 @@
         "Oltina"
     ],
     "name:ron_x_preferred":[
+        "Oltina"
+    ],
+    "name:ron_x_variant":[
         "Comuna Oltina"
     ],
     "name:srp_x_preferred":[
@@ -69,7 +76,11 @@
     "name:zho_x_preferred":[
         "\u5967\u723e\u8482\u7d0d\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671823
+        "gn:id":671823,
+        "ro-ancpi:id":94679
     },
     "wof:country":"RO",
-    "wof:geomhash":"0361a08f78710520d07ca25d9a1809f4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8b42682485eca0adde97a01cbfc01fd7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +106,13 @@
         }
     ],
     "wof:id":1209946171,
-    "wof:lastmodified":1566610360,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203788,
     "wof:name":"Oltina",
     "wof:parent_id":85687615,
     "wof:placetype":"locality",
@@ -103,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.56869,
-    44.24463,
-    27.56869,
-    44.24463
+    27.558306,
+    44.237352,
+    27.573809,
+    44.247586
 ],
-  "geometry": {"coordinates":[27.56869,44.24463],"type":"Point"}
+  "geometry": {"coordinates":[[[27.573809,44.246626],[27.572296,44.244664],[27.571279,44.24394],[27.570359,44.243167],[27.569069,44.242188],[27.568626,44.241859],[27.567482,44.241133],[27.566131,44.240353],[27.564829,44.239529],[27.563561,44.238673],[27.563864,44.238384],[27.562972,44.237811],[27.562419,44.23748],[27.562111,44.237828],[27.561666,44.237665],[27.560091,44.237352],[27.559793,44.237672],[27.559354,44.238206],[27.558306,44.239047],[27.559053,44.239504],[27.559005,44.239581],[27.558525,44.240355],[27.559013,44.240503],[27.558937,44.240747],[27.559234,44.240871],[27.559159,44.241092],[27.560284,44.241592],[27.559949,44.242447],[27.561205,44.242754],[27.560969,44.243164],[27.562517,44.243753],[27.564841,44.244745],[27.564325,44.245335],[27.565179,44.245691],[27.565988,44.244888],[27.566144,44.244993],[27.568075,44.245883],[27.568614,44.245263],[27.570299,44.246188],[27.57203,44.247126],[27.572864,44.247586],[27.573809,44.246626]]],"type":"Polygon"}
 }

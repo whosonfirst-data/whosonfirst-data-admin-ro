@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35293,44.92673,24.35293,44.92673",
-    "geom:latitude":44.92673,
-    "geom:longitude":24.35293,
+    "geom:area":0.000057,
+    "geom:area_square_m":497034.407955,
+    "geom:bbox":"24.334562,44.922642,24.365755,44.928529",
+    "geom:latitude":44.925705,
+    "geom:longitude":24.348322,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173374.0",
     "gn:asciiname":"Netesti",
@@ -25,17 +25,28 @@
     "gn:population":131,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.33293,44.90673,24.37293,44.94673",
+    "lbl:latitude":44.92673,
+    "lbl:longitude":24.35293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Ne\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Netesti"
+    ],
     "name:und_x_variant":[
         "Ni\u0163estii",
         "Ne\u0163e\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672295
+        "gn:id":672295,
+        "ro-ancpi:id":173481
     },
     "wof:country":"RO",
-    "wof:geomhash":"9e9f6678e0be0ae3092380662423d807",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"981eb343b89fad4a942ed7f1d4c651a9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1276581523,
-    "wof:lastmodified":1566610197,
-    "wof:name":"Netesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203683,
+    "wof:name":"Ne\u0163e\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":131,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35293,
-    44.92673,
-    24.35293,
-    44.92673
+    24.334562,
+    44.922642,
+    24.365755,
+    44.928529
 ],
-  "geometry": {"coordinates":[24.35293,44.92673],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.358183,44.92572],[24.344821,44.923321],[24.341593,44.925268],[24.349476,44.928529],[24.357383,44.926933],[24.358183,44.92572]]],[[[24.339476,44.923558],[24.335526,44.922642],[24.334562,44.924467],[24.337943,44.925604],[24.339476,44.923558]]],[[[24.365735,44.927586],[24.363621,44.926626],[24.362966,44.927326],[24.364999,44.928257],[24.365755,44.9276],[24.365735,44.927586]]]],"type":"MultiPolygon"}
 }

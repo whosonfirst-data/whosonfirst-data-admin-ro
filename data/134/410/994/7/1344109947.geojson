@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.03615,46.0289,21.03615,46.0289",
-    "geom:latitude":46.0289,
-    "geom:longitude":21.03615,
+    "geom:area":0.000095,
+    "geom:area_square_m":814016.059817,
+    "geom:bbox":"21.025502,46.023186,21.042817,46.033514",
+    "geom:latitude":46.028551,
+    "geom:longitude":21.035082,
     "gn:admin1_code":"36",
     "gn:admin2_code":"159213.0",
     "gn:asciiname":"Sanpetru Mic",
@@ -25,12 +25,19 @@
     "gn:population":546,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.01615,46.0089,21.05615,46.0489",
+    "lbl:latitude":46.0289,
+    "lbl:longitude":21.03615,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u00e2npetru Mic"
+    ],
+    "name:ron_x_variant":[
+        "Sanpetru Mic"
+    ],
     "name:und_x_variant":[
         "S\u00eenpetru Mic",
         "S\u00e2npetrul-Mic",
@@ -38,7 +45,11 @@
         "Kisszentp\u00e9ter",
         "S\u00e2npetru Mic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666948
+        "gn:id":666948,
+        "ro-ancpi:id":159240
     },
     "wof:country":"RO",
-    "wof:geomhash":"cd2c698b0834108a151dfcb519252519",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ee506d4a63a0780f860b8b027d91197e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +75,14 @@
         }
     ],
     "wof:id":1344109947,
-    "wof:lastmodified":1566609963,
-    "wof:name":"Sanpetru Mic",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203736,
+    "wof:name":"S\u00e2npetru Mic",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":546,
@@ -72,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.03615,
-    46.0289,
-    21.03615,
-    46.0289
+    21.025502,
+    46.023186,
+    21.042817,
+    46.033514
 ],
-  "geometry": {"coordinates":[21.03615,46.0289],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.03742,46.033514],[21.039188,46.032017],[21.040497,46.032463],[21.042269,46.0309],[21.041293,46.029598],[21.042353,46.028166],[21.038742,46.026861],[21.038397,46.027227],[21.035944,46.026402],[21.035154,46.026136],[21.032562,46.025311],[21.032045,46.02585],[21.030564,46.02513],[21.029963,46.02571],[21.029344,46.025444],[21.028686,46.026156],[21.028006,46.025843],[21.026848,46.027294],[21.027798,46.027861],[21.026936,46.029188],[21.025784,46.02877],[21.025502,46.029219],[21.02839,46.030285],[21.028255,46.030837],[21.029838,46.03147],[21.03022,46.031038],[21.03137,46.031479],[21.031151,46.031872],[21.031899,46.032121],[21.032522,46.031452],[21.03742,46.033514]]],[[[21.04257,46.024595],[21.042817,46.023278],[21.038867,46.023186],[21.03672,46.024007],[21.036309,46.025145],[21.037221,46.025305],[21.038769,46.025553],[21.039264,46.02557],[21.040904,46.025429],[21.04257,46.024595]]]],"type":"MultiPolygon"}
 }

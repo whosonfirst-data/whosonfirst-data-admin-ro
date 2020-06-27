@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.15934,44.33179,28.15934,44.33179",
-    "geom:latitude":44.33179,
-    "geom:longitude":28.15934,
+    "geom:area":0.000038,
+    "geom:area_square_m":335901.699594,
+    "geom:bbox":"28.15335,44.327753,28.162171,44.334451",
+    "geom:latitude":44.33145,
+    "geom:longitude":28.158034,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62280.0",
     "gn:asciiname":"Tibrinu",
@@ -25,18 +25,29 @@
     "gn:population":105,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.13934,44.31179,28.17934,44.35179",
+    "lbl:latitude":44.33179,
+    "lbl:longitude":28.15934,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u0162ibrinu"
+    ],
+    "name:ron_x_variant":[
+        "Tibrinu"
+    ],
     "name:und_x_variant":[
         "Ceabacu",
         "Tibrinul",
         "\u0162ibrinu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665184
+        "gn:id":665184,
+        "ro-ancpi:id":62351
     },
     "wof:country":"RO",
-    "wof:geomhash":"f0f6375a1575259c12d01ed875951e9f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"01843ba75c39ee6121b79222709c50b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1293079983,
-    "wof:lastmodified":1566610025,
-    "wof:name":"Tibrinu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203610,
+    "wof:name":"\u0162ibrinu",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":105,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.15934,
-    44.33179000000001,
-    28.15934,
-    44.33179000000001
+    28.15335,
+    44.327753,
+    28.162171,
+    44.334451
 ],
-  "geometry": {"coordinates":[28.15934,44.33179000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[28.155432,44.334098],[28.156258,44.333943],[28.157702,44.333953],[28.15921,44.33384],[28.160453,44.333785],[28.160644,44.333719],[28.160952,44.333447],[28.161448,44.332945],[28.161762,44.331762],[28.161791,44.33085],[28.162171,44.330264],[28.162049,44.329668],[28.161011,44.327753],[28.157599,44.328975],[28.157464,44.330096],[28.156869,44.329992],[28.156342,44.329836],[28.156032,44.329804],[28.155631,44.329926],[28.15472,44.330193],[28.154164,44.33074],[28.15335,44.331467],[28.15388,44.333665],[28.15371,44.334451],[28.15437,44.334352],[28.155052,44.33415],[28.155432,44.334098]]],"type":"Polygon"}
 }

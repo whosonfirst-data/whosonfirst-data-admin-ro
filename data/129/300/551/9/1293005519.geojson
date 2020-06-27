@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.43333,46.65,22.43333,46.65",
-    "geom:latitude":46.65,
-    "geom:longitude":22.43333,
+    "geom:area":0.000027,
+    "geom:area_square_m":224896.950066,
+    "geom:bbox":"22.420158,46.658236,22.435731,46.663062",
+    "geom:latitude":46.660837,
+    "geom:longitude":22.428509,
     "gn:admin1_code":"05",
     "gn:admin2_code":"27846.0",
     "gn:asciiname":"Teleac",
@@ -24,11 +24,14 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.41333,46.63,22.45333,46.67",
+    "lbl:latitude":46.661143,
+    "lbl:longitude":22.42904,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.661143,
+    "mps:longitude":22.42904,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Teleac"
@@ -51,7 +54,11 @@
     "name:und_x_variant":[
         "Telek"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -59,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665300
+        "gn:id":665300,
+        "ro-ancpi:id":27891
     },
     "wof:country":"RO",
-    "wof:geomhash":"ec1ba27b479e4f39adf3fd1160ce9b00",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"00b255e43b9e85a38b80d25fce74d636",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,7 +83,13 @@
         }
     ],
     "wof:id":1293005519,
-    "wof:lastmodified":1566610027,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203499,
     "wof:name":"Teleac",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
@@ -82,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.43333,
-    46.65,
-    22.43333,
-    46.65
+    22.420158,
+    46.658236,
+    22.435731,
+    46.663062
 ],
-  "geometry": {"coordinates":[22.43333,46.65],"type":"Point"}
+  "geometry": {"coordinates":[[[22.434947,46.663062],[22.435731,46.661223],[22.433517,46.660872],[22.431999,46.660565],[22.431188,46.660641],[22.430029,46.66055],[22.429361,46.660205],[22.428369,46.66007],[22.427968,46.659863],[22.427321,46.659669],[22.426339,46.6596],[22.425177,46.659273],[22.425296,46.658795],[22.424434,46.658785],[22.424388,46.659189],[22.423917,46.659018],[22.423118,46.658558],[22.42197,46.658523],[22.42093,46.658236],[22.420404,46.658648],[22.420158,46.658934],[22.421211,46.65924],[22.422179,46.659309],[22.422048,46.659759],[22.423338,46.659985],[22.423042,46.66044],[22.424064,46.660529],[22.423945,46.661026],[22.424955,46.661086],[22.424804,46.661375],[22.425294,46.661442],[22.425754,46.661264],[22.42781,46.661772],[22.429943,46.662385],[22.430044,46.662274],[22.433233,46.662844],[22.434947,46.663062]]],"type":"Polygon"}
 }

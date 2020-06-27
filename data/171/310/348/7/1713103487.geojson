@@ -1,0 +1,70 @@
+{
+  "id": 1713103487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000014,
+    "geom:area_square_m":125048.128375,
+    "geom:bbox":"24.210748,45.204077,24.221363,45.20576",
+    "geom:latitude":45.204976,
+    "geom:longitude":24.216176,
+    "iso:country":"RO",
+    "lbl:latitude":45.204979,
+    "lbl:longitude":24.216177,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":45.204979,
+    "mps:longitude":24.216177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Tisa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ro-ancpi:id":167776
+    },
+    "wof:country":"RO",
+    "wof:created":1588207773,
+    "wof:geomhash":"d603a7db3504904ae1dd5ff2fe77f2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103487,
+            "region_id":85687643
+        }
+    ],
+    "wof:id":1713103487,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203697,
+    "wof:name":"Tisa",
+    "wof:parent_id":85687643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ro",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.210748,
+    45.204077,
+    24.221363,
+    45.20576
+],
+  "geometry": {"coordinates":[[[24.221191,45.205572],[24.221363,45.204077],[24.210748,45.204523],[24.210752,45.20576],[24.221191,45.205572]]],"type":"Polygon"}
+}

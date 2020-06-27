@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.52342,44.76906,24.52342,44.76906",
-    "geom:latitude":44.76906,
-    "geom:longitude":24.52342,
+    "geom:area":0.000089,
+    "geom:area_square_m":785508.806595,
+    "geom:bbox":"24.518791,44.758406,24.529538,44.787119",
+    "geom:latitude":44.772407,
+    "geom:longitude":24.521771,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126905.0",
     "gn:asciiname":"Isaci",
@@ -25,17 +25,27 @@
     "gn:population":298,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.50342,44.74906,24.54342,44.78906",
+    "lbl:latitude":44.773767,
+    "lbl:longitude":24.520957,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.773767,
+    "mps:longitude":24.520957,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Isaci"
+    ],
     "name:und_x_variant":[
         "Cojoci",
         "Isaci"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675493
+        "gn:id":675493,
+        "ro-ancpi:id":126950
     },
     "wof:country":"RO",
-    "wof:geomhash":"25f5c547f4267199250fb6909cb6f0af",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"486f4d8d2b4ba6dce61a7fff6a4f92cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1242624543,
-    "wof:lastmodified":1566611509,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203707,
     "wof:name":"Isaci",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.52342,
-    44.76906,
-    24.52342,
-    44.76906
+    24.518791,
+    44.758406,
+    24.529538,
+    44.787119
 ],
-  "geometry": {"coordinates":[24.52342,44.76906],"type":"Point"}
+  "geometry": {"coordinates":[[[24.523015,44.785846],[24.522354,44.785566],[24.522445,44.781902],[24.522498,44.776059],[24.523492,44.765466],[24.523681,44.763362],[24.526632,44.759745],[24.529538,44.75971],[24.525433,44.758406],[24.521803,44.760784],[24.520877,44.762896],[24.520839,44.763971],[24.521075,44.765916],[24.520428,44.766057],[24.520125,44.769023],[24.518791,44.775643],[24.519683,44.782685],[24.519893,44.786794],[24.521915,44.787119],[24.523015,44.785846]]],"type":"Polygon"}
 }

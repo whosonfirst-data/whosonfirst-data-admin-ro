@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.02717,44.79276,24.02717,44.79276",
-    "geom:latitude":44.79276,
-    "geom:longitude":24.02717,
+    "geom:area":0.000108,
+    "geom:area_square_m":944178.781588,
+    "geom:bbox":"24.021758,44.784903,24.038963,44.795469",
+    "geom:latitude":44.790448,
+    "geom:longitude":24.029126,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173132.0",
     "gn:asciiname":"Varleni",
@@ -25,17 +25,28 @@
     "gn:population":406,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.00717,44.77276,24.04717,44.81276",
+    "lbl:latitude":44.79276,
+    "lbl:longitude":24.02717,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "V\u00e2rleni"
+    ],
+    "name:ron_x_variant":[
+        "Varleni"
+    ],
     "name:und_x_variant":[
         "V\u00e2rleni",
         "V\u00eerleni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662760
+        "gn:id":662760,
+        "ro-ancpi:id":173221
     },
     "wof:country":"RO",
-    "wof:geomhash":"03a13ee70be51a877ca684d0458ddfe9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c72f7204e49eb99d39caac54951d6783",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1259619887,
-    "wof:lastmodified":1566611574,
-    "wof:name":"Varleni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203695,
+    "wof:name":"V\u00e2rleni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":406,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.02717,
-    44.79276,
-    24.02717,
-    44.79276
+    24.021758,
+    44.784903,
+    24.038963,
+    44.795469
 ],
-  "geometry": {"coordinates":[24.02717,44.79276],"type":"Point"}
+  "geometry": {"coordinates":[[[24.033482,44.795157],[24.034363,44.793964],[24.034213,44.792202],[24.03507,44.792439],[24.038798,44.792471],[24.038963,44.791196],[24.037356,44.790773],[24.03409,44.788907],[24.032113,44.787078],[24.030411,44.785966],[24.025626,44.784903],[24.024399,44.785352],[24.021758,44.788903],[24.023505,44.791574],[24.025267,44.795469],[24.03062,44.7948],[24.033482,44.795157]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.83333,46.5,22.83333,46.5",
-    "geom:latitude":46.5,
-    "geom:longitude":22.83333,
+    "geom:area":0.000019,
+    "geom:area_square_m":159944.539218,
+    "geom:bbox":"22.819967,46.479429,22.838255,46.485113",
+    "geom:latitude":46.48241,
+    "geom:longitude":22.826501,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4525.0",
     "gn:asciiname":"Hanasesti",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.81333,46.48,22.85333,46.52",
+    "lbl:latitude":46.482783,
+    "lbl:longitude":22.823808,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.482783,
+    "mps:longitude":22.823808,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Han\u0103\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Hanasesti"
+    ],
     "name:und_x_variant":[
         "Hanise\u015fci",
         "H\u0103n\u0103\u015fe\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676338
+        "gn:id":676338,
+        "ro-ancpi:id":4605
     },
     "wof:country":"RO",
-    "wof:geomhash":"9aa2f0568b5bbb650d608aed8e019d33",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f93eb7d71ca95f90427b7ec78edbfc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +72,14 @@
         }
     ],
     "wof:id":1326547921,
-    "wof:lastmodified":1566609854,
-    "wof:name":"Hanasesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203748,
+    "wof:name":"Han\u0103\u015fe\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.83333,
-    46.5,
-    22.83333,
-    46.5
+    22.819967,
+    46.479429,
+    22.838255,
+    46.485113
 ],
-  "geometry": {"coordinates":[22.83333,46.5],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.827485,46.483763],[22.826523,46.482399],[22.827567,46.481698],[22.826394,46.481383],[22.823335,46.481598],[22.821626,46.481946],[22.821058,46.481321],[22.819967,46.482129],[22.820547,46.482793],[22.822164,46.483331],[22.823718,46.484042],[22.824815,46.483537],[22.826203,46.485113],[22.827285,46.484909],[22.827485,46.483763]]],[[[22.837183,46.479673],[22.836495,46.479429],[22.835255,46.480387],[22.835202,46.480762],[22.835703,46.481365],[22.835799,46.48159],[22.836132,46.48161],[22.836305,46.480855],[22.837119,46.480561],[22.83773,46.480566],[22.838151,46.480541],[22.838255,46.479818],[22.837183,46.479673]]]],"type":"MultiPolygon"}
 }

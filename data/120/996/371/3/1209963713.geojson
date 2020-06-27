@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.61097,44.10386,24.61097,44.10386",
-    "geom:latitude":44.10386,
-    "geom:longitude":24.61097,
+    "geom:area":0.000113,
+    "geom:area_square_m":1006297.18694,
+    "geom:bbox":"24.597679,44.094316,24.617194,44.114571",
+    "geom:latitude":44.104998,
+    "geom:longitude":24.607147,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126585.0",
     "gn:asciiname":"Zanoaga",
@@ -24,13 +24,33 @@
     "gn:population":491,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.59097,44.08386,24.63097,44.12386",
+    "lbl:latitude":44.10386,
+    "lbl:longitude":24.61097,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Z\u0103noaga"
+    ],
+    "name:deu_x_preferred":[
+        "Z\u0103noaga"
+    ],
+    "name:ron_x_preferred":[
+        "Z\u0103noaga"
+    ],
+    "name:ron_x_variant":[
+        "Zanoaga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043d\u043e\u0430\u0433\u0430"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662313
+        "gn:id":662313,
+        "ro-ancpi:id":126638
     },
     "wof:country":"RO",
-    "wof:geomhash":"1a78c4aa83b704b78b756411f6d78acb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8062323c9cd128d7ed16abf8dc093e40",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +76,14 @@
         }
     ],
     "wof:id":1209963713,
-    "wof:lastmodified":1566610289,
-    "wof:name":"Zanoaga",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
+    "wof:name":"Z\u0103noaga",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":491,
@@ -64,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.61097,
-    44.10386,
-    24.61097,
-    44.10386
+    24.597679,
+    44.094316,
+    24.617194,
+    44.114571
 ],
-  "geometry": {"coordinates":[24.61097,44.10386],"type":"Point"}
+  "geometry": {"coordinates":[[[24.617194,44.094684],[24.614485,44.094316],[24.613376,44.096788],[24.612013,44.099749],[24.611401,44.100342],[24.610479,44.100676],[24.608854,44.101321],[24.606817,44.10217],[24.605596,44.103019],[24.601709,44.10565],[24.59911,44.107325],[24.597679,44.109127],[24.599637,44.109998],[24.599293,44.110943],[24.599061,44.112085],[24.598677,44.113281],[24.601427,44.114571],[24.604601,44.111265],[24.607333,44.107597],[24.610239,44.105415],[24.612492,44.103218],[24.613004,44.101849],[24.614071,44.102226],[24.614522,44.102252],[24.614691,44.101915],[24.614722,44.101115],[24.614799,44.100789],[24.617061,44.098913],[24.617194,44.094684]]],"type":"Polygon"}
 }

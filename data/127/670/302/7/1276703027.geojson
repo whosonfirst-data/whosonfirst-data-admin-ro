@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.40873,46.61002,27.40873,46.61002",
-    "geom:latitude":46.61002,
-    "geom:longitude":27.40873,
+    "geom:area":0.000011,
+    "geom:area_square_m":90886.988088,
+    "geom:bbox":"27.403274,46.608358,27.409969,46.610982",
+    "geom:latitude":46.609816,
+    "geom:longitude":27.406591,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163486.0",
     "gn:asciiname":"Ciuperca",
@@ -24,13 +24,21 @@
     "gn:population":41,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.38873,46.59002,27.42873,46.63002",
+    "lbl:latitude":46.61002,
+    "lbl:longitude":27.40873,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciuperca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681407
+        "gn:id":681407,
+        "ro-ancpi:id":163538
     },
     "wof:country":"RO",
-    "wof:geomhash":"121f73b8c37367391a441c38a1ab945c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9a32bf1f4f0861701171db0d633cb5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1276703027,
-    "wof:lastmodified":1566610241,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203466,
     "wof:name":"Ciuperca",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.40873,
-    46.61002,
-    27.40873,
-    46.61002
+    27.403274,
+    46.608358,
+    27.409969,
+    46.610982
 ],
-  "geometry": {"coordinates":[27.40873,46.61002],"type":"Point"}
+  "geometry": {"coordinates":[[[27.408917,46.610888],[27.40925,46.610133],[27.409969,46.609331],[27.408646,46.608886],[27.407829,46.608744],[27.407845,46.608575],[27.407054,46.608486],[27.40695,46.609132],[27.406914,46.609325],[27.406243,46.609265],[27.406062,46.609658],[27.405598,46.609585],[27.405703,46.609024],[27.405638,46.608887],[27.404645,46.608358],[27.403717,46.609712],[27.403274,46.609882],[27.403801,46.610398],[27.404063,46.610982],[27.40466,46.610781],[27.406305,46.610754],[27.408917,46.610888]]],"type":"Polygon"}
 }

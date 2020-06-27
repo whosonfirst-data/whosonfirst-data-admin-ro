@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.41667,46.1,23.41667,46.1",
-    "geom:latitude":46.1,
-    "geom:longitude":23.41667,
+    "geom:area":0.000136,
+    "geom:area_square_m":1162841.48914,
+    "geom:bbox":"23.390211,46.094813,23.428008,46.10694",
+    "geom:latitude":46.101283,
+    "geom:longitude":23.411971,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3114,
     "iso:country":"RO",
-    "lbl:bbox":"23.39667,46.08,23.43667,46.12",
     "lbl:latitude":46.1,
     "lbl:longitude":23.41667,
     "lbl:max_zoom":15.0,
@@ -22,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062a\u064a\u0634"
+    ],
     "name:ceb_x_preferred":[
         "Mete\u0219"
     ],
@@ -56,6 +58,9 @@
         "Mete\u0219"
     ],
     "name:ron_x_preferred":[
+        "Mete\u015f"
+    ],
+    "name:ron_x_variant":[
         "Mete\u0219"
     ],
     "name:srp_x_preferred":[
@@ -78,7 +83,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":127435,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -90,11 +98,15 @@
     "wof:concordances":{
         "gn:id":673506,
         "qs_pg:id":127435,
+        "ro-ancpi:id":5586,
         "wd:id":"Q858192"
     },
     "wof:country":"RO",
     "wof:created":1497290371,
-    "wof:geomhash":"587b9034f7d9c47a6473211b9cf09439",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"9238c9d603320abdde25c59945390eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,7 +116,13 @@
         }
     ],
     "wof:id":1125778559,
-    "wof:lastmodified":1566611413,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203765,
     "wof:name":"Mete\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -116,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.41667,
-    46.1,
-    23.41667,
-    46.1
+    23.390211,
+    46.094813,
+    23.428008,
+    46.10694
 ],
-  "geometry": {"coordinates":[23.41667,46.1],"type":"Point"}
+  "geometry": {"coordinates":[[[23.424705,46.095392],[23.423734,46.094813],[23.423359,46.095099],[23.423072,46.095318],[23.421222,46.096731],[23.420092,46.097593],[23.415139,46.098751],[23.41414,46.100373],[23.405844,46.101924],[23.404234,46.102225],[23.402067,46.101755],[23.397153,46.100689],[23.395736,46.101255],[23.394839,46.101614],[23.39187,46.101383],[23.390211,46.103234],[23.391065,46.103362],[23.392452,46.103571],[23.394826,46.103929],[23.402081,46.104393],[23.40174,46.106245],[23.402338,46.106403],[23.404374,46.10694],[23.404702,46.10667],[23.408021,46.103931],[23.415618,46.102078],[23.416127,46.102921],[23.416597,46.1037],[23.41719,46.103534],[23.418249,46.103237],[23.418918,46.101615],[23.424186,46.103006],[23.425211,46.101844],[23.425385,46.101646],[23.426842,46.099994],[23.428008,46.097361],[23.424705,46.095392]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29096,44.88127,24.29096,44.88127",
-    "geom:latitude":44.88127,
-    "geom:longitude":24.29096,
+    "geom:area":0.000057,
+    "geom:area_square_m":495416.345664,
+    "geom:bbox":"24.26894,44.873088,24.282785,44.881178",
+    "geom:latitude":44.877448,
+    "geom:longitude":24.276498,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171806.0",
     "gn:asciiname":"Stoicanesti",
@@ -25,17 +25,36 @@
     "gn:population":398,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.27096,44.86127,24.31096,44.90127",
+    "lbl:latitude":44.877917,
+    "lbl:longitude":24.277075,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.877917,
+    "mps:longitude":24.277075,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:msa_x_preferred":[
+        "Stoic\u0103ne\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Stoic\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stoicanesti"
+    ],
     "name:und_x_variant":[
         "Stoic\u0103nene\u015fti",
         "Stoic\u0103ne\u015fti"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Stoicanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666057
+        "gn:id":666057,
+        "ro-ancpi:id":171860
     },
     "wof:country":"RO",
-    "wof:geomhash":"e08ca37eccbae3971a6295de5e15f78c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ee708f7037b0b1eb4c3dde391267634d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +80,14 @@
         }
     ],
     "wof:id":1225874971,
-    "wof:lastmodified":1566611659,
-    "wof:name":"Stoicanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203696,
+    "wof:name":"Stoic\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":398,
@@ -69,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29096,
-    44.88127,
-    24.29096,
-    44.88127
+    24.26894,
+    44.873088,
+    24.282785,
+    44.881178
 ],
-  "geometry": {"coordinates":[24.29096,44.88127],"type":"Point"}
+  "geometry": {"coordinates":[[[24.282785,44.879328],[24.280957,44.877942],[24.280799,44.876827],[24.27993,44.876007],[24.277785,44.875002],[24.278027,44.873999],[24.276271,44.873879],[24.274141,44.873688],[24.273238,44.874148],[24.26945,44.873088],[24.26894,44.874761],[24.274902,44.876076],[24.274105,44.878191],[24.271933,44.878175],[24.271567,44.87974],[24.27964,44.881062],[24.282207,44.881178],[24.282785,44.879328]]],"type":"Polygon"}
 }

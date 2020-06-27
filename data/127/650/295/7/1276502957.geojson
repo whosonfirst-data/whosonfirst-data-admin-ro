@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.12606,44.69974,27.12606,44.69974",
-    "geom:latitude":44.69974,
-    "geom:longitude":27.12606,
+    "geom:area":0.000053,
+    "geom:area_square_m":464196.631762,
+    "geom:bbox":"27.115684,44.695254,27.130096,44.702832",
+    "geom:latitude":44.699535,
+    "geom:longitude":27.123907,
     "gn:admin1_code":"22",
     "gn:admin2_code":"94269.0",
     "gn:asciiname":"Mircea cel Batran",
@@ -24,13 +24,24 @@
     "gn:population":255,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.10606,44.67974,27.14606,44.71974",
+    "lbl:latitude":44.69974,
+    "lbl:longitude":27.12606,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mircea Cel B\u0103tr\u00e2n"
+    ],
+    "name:ron_x_variant":[
+        "Mircea cel Batran"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673155
+        "gn:id":673155,
+        "ro-ancpi:id":94296
     },
     "wof:country":"RO",
-    "wof:geomhash":"be500d216735cf982f085b010685f1ed",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5bb1900245908c5a48b8761e0cc5400d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1276502957,
-    "wof:lastmodified":1566610209,
-    "wof:name":"Mircea cel Batran",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203674,
+    "wof:name":"Mircea Cel B\u0103tr\u00e2n",
     "wof:parent_id":85687621,
     "wof:placetype":"locality",
     "wof:population":255,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.12606,
-    44.69974000000001,
-    27.12606,
-    44.69974000000001
+    27.115684,
+    44.695254,
+    27.130096,
+    44.702832
 ],
-  "geometry": {"coordinates":[27.12606,44.69974000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[27.125623,44.702832],[27.127044,44.702246],[27.129316,44.701406],[27.130096,44.701059],[27.128619,44.699015],[27.127445,44.697497],[27.12576,44.695254],[27.121152,44.696976],[27.121796,44.697915],[27.12207,44.698205],[27.122207,44.698338],[27.121166,44.698572],[27.120091,44.698891],[27.119513,44.699153],[27.118755,44.699566],[27.117814,44.699945],[27.117152,44.700093],[27.115684,44.700637],[27.115775,44.700815],[27.115898,44.701041],[27.116017,44.701268],[27.116138,44.70149],[27.116252,44.701694],[27.116261,44.70171],[27.116301,44.701793],[27.116324,44.701756],[27.116355,44.701736],[27.116592,44.701645],[27.117026,44.701485],[27.117711,44.701221],[27.11806,44.701087],[27.11857,44.701548],[27.119343,44.701225],[27.120053,44.702137],[27.122627,44.701154],[27.122926,44.701573],[27.123203,44.701475],[27.123603,44.702035],[27.124234,44.702213],[27.124602,44.70266],[27.12534,44.702397],[27.125623,44.702832]]],"type":"Polygon"}
 }

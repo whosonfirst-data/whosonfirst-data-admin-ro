@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.76667,45.85,27.76667,45.85",
-    "geom:latitude":45.85,
-    "geom:longitude":27.76667,
+    "geom:area":0.000131,
+    "geom:area_square_m":1128676.538435,
+    "geom:bbox":"27.777839,45.847528,27.790253,45.868297",
+    "geom:latitude":45.856707,
+    "geom:longitude":27.783459,
     "gn:admin1_code":"18",
     "gn:admin2_code":"76004.0",
     "gn:asciiname":"Corni",
@@ -24,14 +24,20 @@
     "gn:population":2481,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.74667,45.83,27.78667,45.87",
+    "lbl:latitude":45.856699,
+    "lbl:longitude":27.783036,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.856699,
+    "mps:longitude":27.783036,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Corni"
+    ],
+    "name:eus_x_preferred":[
+        "Corni"
     ],
     "name:ita_x_preferred":[
         "Corni"
@@ -46,6 +52,9 @@
         "Corni"
     ],
     "name:ron_x_preferred":[
+        "Corni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Corni"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +72,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u723e\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,10 +86,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":680746,
+        "ro-ancpi:id":76013,
         "wk:page":"Corni%2C_Gala%C8%9Bi"
     },
     "wof:country":"RO",
-    "wof:geomhash":"ba15f8156e1e78419fdb7c0495e7c01a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"641664410698447ee7234d77c1643fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +103,13 @@
         }
     ],
     "wof:id":1326593107,
-    "wof:lastmodified":1566609793,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203480,
     "wof:name":"Corni",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -98,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.76667,
-    45.85,
-    27.76667,
-    45.85
+    27.777839,
+    45.847528,
+    27.790253,
+    45.868297
 ],
-  "geometry": {"coordinates":[27.76667,45.85],"type":"Point"}
+  "geometry": {"coordinates":[[[27.78258,45.866637],[27.783478,45.863556],[27.783876,45.863573],[27.784333,45.862192],[27.785037,45.861375],[27.78546,45.861374],[27.786335,45.859374],[27.78654,45.859387],[27.786963,45.858323],[27.786662,45.858188],[27.786662,45.857677],[27.786852,45.857637],[27.78738,45.854846],[27.787953,45.85451],[27.789459,45.850964],[27.790098,45.850226],[27.789721,45.849884],[27.790253,45.848141],[27.783712,45.847528],[27.783071,45.849962],[27.782034,45.851644],[27.781972,45.852117],[27.781411,45.85211],[27.781227,45.852747],[27.777873,45.852741],[27.777839,45.85301],[27.778964,45.853644],[27.778978,45.854248],[27.77919,45.854242],[27.779362,45.855731],[27.779041,45.856161],[27.77906,45.85727],[27.778807,45.85733],[27.778958,45.859072],[27.779586,45.859334],[27.779408,45.861402],[27.778987,45.862737],[27.779378,45.862862],[27.777945,45.866789],[27.780983,45.867279],[27.78068,45.868143],[27.782047,45.868297],[27.78258,45.866637]]],"type":"Polygon"}
 }

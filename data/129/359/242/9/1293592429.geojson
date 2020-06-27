@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.04449,46.51007,22.04449,46.51007",
-    "geom:latitude":46.51007,
-    "geom:longitude":22.04449,
+    "geom:area":0.00002,
+    "geom:area_square_m":166209.216044,
+    "geom:bbox":"22.038847,46.507515,22.050545,46.511213",
+    "geom:latitude":46.509402,
+    "geom:longitude":22.043524,
     "gn:admin1_code":"02",
     "gn:admin2_code":"11236.0",
     "gn:asciiname":"Comanesti",
@@ -24,21 +24,84 @@
     "gn:population":141,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.02449,46.49007,22.06449,46.53007",
+    "lbl:latitude":46.51007,
+    "lbl:longitude":22.04449,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "name:ron_x_preferred":[
+    "name:ace_x_preferred":[
+        "Com\u0103ne\u015fti"
+    ],
+    "name:deu_x_preferred":[
         "Com\u0103ne\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "Com\u0103ne\u015fti"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0646\u0634\u062a"
+    ],
+    "name:hun_x_preferred":[
+        "Kom\u00e1nfalva"
+    ],
+    "name:ind_x_preferred":[
+        "Com\u0103ne\u015fti"
+    ],
+    "name:ita_x_preferred":[
+        "Com\u0103ne\u015fti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30de\u30cd\u30b7\u30e5\u30c6\u30a3"
+    ],
+    "name:nld_x_preferred":[
+        "Com\u0103ne\u0219ti"
+    ],
+    "name:pol_x_preferred":[
+        "Com\u0103ne\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Com\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Com\u0103ne\u0219ti",
+        "Comanesti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u044d\u043d\u0435\u0448\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Com\u0103ne\u0219ti"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u043d\u0435\u0448\u0442\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Com\u0103ne\u015fti"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u043e\u043c\u044d\u043d\u0435\u0448\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
     "name:und_x_variant":[
         "Kumanyesd",
         "Cum\u0103ne\u015fti",
         "Kom\u00e1nfalva"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Comanesti"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9ed8\u5167\u4ec0\u8482"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681016
+        "gn:id":681016,
+        "ro-ancpi:id":11281
     },
     "wof:country":"RO",
-    "wof:geomhash":"ccb28c9be808c9935a5d473413243d8c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ebaddaf5621b6d4db87b70329041133a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +127,14 @@
         }
     ],
     "wof:id":1293592429,
-    "wof:lastmodified":1566610086,
-    "wof:name":"Comanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203710,
+    "wof:name":"Com\u0103ne\u015fti",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":141,
@@ -72,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.04449,
-    46.51007,
-    22.04449,
-    46.51007
+    22.038847,
+    46.507515,
+    22.050545,
+    46.511213
 ],
-  "geometry": {"coordinates":[22.04449,46.51007],"type":"Point"}
+  "geometry": {"coordinates":[[[22.044006,46.510979],[22.044427,46.510849],[22.045174,46.510933],[22.046608,46.510177],[22.046419,46.510042],[22.04706,46.509747],[22.046819,46.509416],[22.046621,46.509019],[22.046952,46.508969],[22.046981,46.508793],[22.048434,46.508807],[22.049762,46.50863],[22.049793,46.508474],[22.050545,46.508219],[22.050284,46.507977],[22.050172,46.507991],[22.049674,46.508077],[22.049432,46.508127],[22.048859,46.508225],[22.048436,46.508289],[22.048113,46.508363],[22.047903,46.508424],[22.047628,46.508481],[22.047321,46.508545],[22.047045,46.508628],[22.046852,46.508722],[22.046659,46.508833],[22.046563,46.508921],[22.046493,46.508969],[22.046377,46.50902],[22.046104,46.508849],[22.045355,46.508414],[22.045058,46.508504],[22.044317,46.508096],[22.043788,46.507776],[22.043518,46.507515],[22.042622,46.507584],[22.04179,46.508195],[22.041152,46.508739],[22.041009,46.50876],[22.040702,46.508436],[22.038847,46.508765],[22.038947,46.509474],[22.039279,46.509451],[22.039534,46.509418],[22.039792,46.509378],[22.039898,46.510029],[22.040424,46.510411],[22.04143,46.510742],[22.042056,46.511213],[22.04261,46.511136],[22.044006,46.510979]]],"type":"Polygon"}
 }

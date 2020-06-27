@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.15886,44.87406,24.15886,44.87406",
-    "geom:latitude":44.87406,
-    "geom:longitude":24.15886,
+    "geom:area":0.000054,
+    "geom:area_square_m":477292.516687,
+    "geom:bbox":"24.150191,44.86847,24.161116,44.887786",
+    "geom:latitude":44.877721,
+    "geom:longitude":24.156674,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172947.0",
     "gn:asciiname":"Crangu",
@@ -25,17 +25,61 @@
     "gn:population":429,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.13886,44.85406,24.17886,44.89406",
+    "lbl:latitude":44.873224,
+    "lbl:longitude":24.157046,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.873224,
+    "mps:longitude":24.157046,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Comuna Cr\u00e2ngu"
+    ],
+    "name:ita_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:msa_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:nld_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:por_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:ron_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:ron_x_variant":[
+        "Crangu",
+        "Comuna Cr\u00e2ngu"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0430\u043d\u0433\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u043d\u0433\u0443"
+    ],
     "name:und_x_variant":[
         "Lahovari",
         "Cr\u00eengu"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:vol_x_preferred":[
+        "Cr\u00e2ngu"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u502b\u53e4\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680223
+        "gn:id":680223,
+        "ro-ancpi:id":172983
     },
     "wof:country":"RO",
-    "wof:geomhash":"96ca4761b926437267e05f3638f07289",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5070d46879cd8adc889b3197efa5889e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +105,14 @@
         }
     ],
     "wof:id":1360116313,
-    "wof:lastmodified":1566610630,
-    "wof:name":"Crangu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203688,
+    "wof:name":"Cr\u00e2ngu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":429,
@@ -69,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.15886,
-    44.87406,
-    24.15886,
-    44.87406
+    24.150191,
+    44.86847,
+    24.161116,
+    44.887786
 ],
-  "geometry": {"coordinates":[24.15886,44.87406],"type":"Point"}
+  "geometry": {"coordinates":[[[24.161116,44.869261],[24.159129,44.86847],[24.15763,44.869664],[24.154867,44.873022],[24.152783,44.872966],[24.152718,44.87346],[24.153293,44.873702],[24.156519,44.87493],[24.157529,44.877121],[24.158566,44.877541],[24.156838,44.880355],[24.154727,44.882498],[24.153099,44.883693],[24.150191,44.887183],[24.152416,44.887786],[24.153181,44.88648],[24.155217,44.884519],[24.157982,44.882377],[24.158423,44.882019],[24.159581,44.880691],[24.160035,44.879573],[24.160113,44.8784],[24.158616,44.874787],[24.158873,44.872087],[24.161116,44.869261]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.86415,44.14019,25.86415,44.14019",
-    "geom:latitude":44.14019,
-    "geom:longitude":25.86415,
+    "geom:area":0.000064,
+    "geom:area_square_m":566352.010176,
+    "geom:bbox":"25.857533,44.134921,25.869757,44.14573",
+    "geom:latitude":44.14077,
+    "geom:longitude":25.863334,
     "gn:admin1_code":"42",
     "gn:admin2_code":"105348.0",
     "gn:asciiname":"Mirau",
@@ -25,17 +25,28 @@
     "gn:population":225,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.84415,44.12019,25.88415,44.16019",
+    "lbl:latitude":44.14019,
+    "lbl:longitude":25.86415,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Mir\u0103u"
+    ],
+    "name:ron_x_variant":[
+        "Mirau"
+    ],
     "name:und_x_variant":[
         "Miraul",
         "Mir\u0103u"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673158
+        "gn:id":673158,
+        "ro-ancpi:id":105375
     },
     "wof:country":"RO",
-    "wof:geomhash":"3da22b047340d7d28f8a3f9a9d877a76",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7bf7a1fce86cf65ab02b25b66fd8284",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1310439525,
-    "wof:lastmodified":1566610575,
-    "wof:name":"Mirau",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203329,
+    "wof:name":"Mir\u0103u",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":225,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.86415,
-    44.14019,
-    25.86415,
-    44.14019
+    25.857533,
+    44.134921,
+    25.869757,
+    44.14573
 ],
-  "geometry": {"coordinates":[25.86415,44.14019],"type":"Point"}
+  "geometry": {"coordinates":[[[25.867917,44.14573],[25.86792,44.145067],[25.868567,44.145094],[25.86844,44.142942],[25.868751,44.142976],[25.869103,44.14302],[25.869259,44.14304],[25.869398,44.143071],[25.869538,44.14312],[25.869757,44.143221],[25.869678,44.141683],[25.866269,44.141576],[25.866205,44.140138],[25.865683,44.140075],[25.865643,44.137925],[25.864634,44.137992],[25.864396,44.137703],[25.862614,44.136506],[25.862147,44.135789],[25.862202,44.135505],[25.862384,44.135187],[25.862204,44.134921],[25.861534,44.135181],[25.861102,44.13539],[25.860696,44.135717],[25.859661,44.136323],[25.858995,44.136749],[25.858384,44.136874],[25.857979,44.136934],[25.857674,44.137172],[25.857533,44.137469],[25.857576,44.137884],[25.858832,44.138614],[25.859107,44.139281],[25.858637,44.139342],[25.858219,44.139395],[25.859459,44.140418],[25.858813,44.141018],[25.860573,44.142616],[25.862472,44.14442],[25.862672,44.14465],[25.864376,44.145078],[25.865217,44.145133],[25.867917,44.14573]]],"type":"Polygon"}
 }

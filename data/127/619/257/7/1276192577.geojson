@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.81671,44.2794,22.81671,44.2794",
-    "geom:latitude":44.2794,
-    "geom:longitude":22.81671,
+    "geom:area":0.000062,
+    "geom:area_square_m":546135.603697,
+    "geom:bbox":"22.80709,44.274926,22.821479,44.282543",
+    "geom:latitude":44.279119,
+    "geom:longitude":22.814785,
     "gn:admin1_code":"26",
     "gn:admin2_code":"112030.0",
     "gn:asciiname":"Poiana Gruii",
@@ -25,19 +25,27 @@
     "gn:population":320,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.79671,44.2594,22.83671,44.2994",
+    "lbl:latitude":44.2794,
+    "lbl:longitude":22.81671,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Poiana Gruii"
+    ],
     "name:und_x_variant":[
         "Baciu",
         "Poiana Cioarii",
         "Poiana Ciorii",
         "Poiana Gruii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670079
+        "gn:id":670079,
+        "ro-ancpi:id":112067
     },
     "wof:country":"RO",
-    "wof:geomhash":"6a8b10cf3a16193897e1e3bf19b23698",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5061f6f2728142a550a7324cda27ceb7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +71,13 @@
         }
     ],
     "wof:id":1276192577,
-    "wof:lastmodified":1566610175,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203336,
     "wof:name":"Poiana Gruii",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -71,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.81671,
-    44.2794,
-    22.81671,
-    44.2794
+    22.80709,
+    44.274926,
+    22.821479,
+    44.282543
 ],
-  "geometry": {"coordinates":[22.81671,44.2794],"type":"Point"}
+  "geometry": {"coordinates":[[[22.813193,44.280914],[22.813426,44.280836],[22.81353,44.281003],[22.813748,44.281353],[22.815528,44.280792],[22.816482,44.282193],[22.817171,44.281972],[22.817479,44.282493],[22.819898,44.281655],[22.819525,44.281076],[22.819645,44.28101],[22.821479,44.280332],[22.820525,44.278942],[22.821087,44.278839],[22.820765,44.278287],[22.820221,44.278476],[22.817963,44.274926],[22.813596,44.276414],[22.808721,44.278105],[22.809771,44.279559],[22.80709,44.280373],[22.808384,44.282516],[22.808401,44.282543],[22.808769,44.282417],[22.809539,44.282154],[22.810308,44.281891],[22.811073,44.281625],[22.811837,44.281358],[22.81248,44.28115],[22.813193,44.280914]]],"type":"Polygon"}
 }

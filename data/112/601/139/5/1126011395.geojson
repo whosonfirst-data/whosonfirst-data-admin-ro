@@ -4,28 +4,32 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91667,46.78333,23.91667,46.78333",
-    "geom:latitude":46.78333,
-    "geom:longitude":23.91667,
+    "geom:area":0.000023,
+    "geom:area_square_m":193297.017069,
+    "geom:bbox":"23.885935,46.793297,23.901838,46.799576",
+    "geom:latitude":46.795758,
+    "geom:longitude":23.894465,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":2536,
     "iso:country":"RO",
-    "lbl:bbox":"23.89667,46.76333,23.93667,46.80333",
-    "lbl:latitude":46.78333,
-    "lbl:longitude":23.91667,
+    "lbl:latitude":46.796393,
+    "lbl:longitude":23.896332,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.796393,
+    "mps:longitude":23.896332,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Comuna C\u0103ianu"
     ],
     "name:epo_x_preferred":[
+        "C\u0103ianu Mic"
+    ],
+    "name:eus_x_preferred":[
         "C\u0103ianu Mic"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +45,9 @@
         "C\u0103ianu Mic"
     ],
     "name:ron_x_preferred":[
+        "C\u0103ianu Mic"
+    ],
+    "name:ron_x_variant":[
         "Comuna C\u0103ianu Mic"
     ],
     "name:sqi_x_preferred":[
@@ -54,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Caianu Mic"
+    ],
+    "name:vie_x_variant":[
+        "C\u0103ianu Mic"
     ],
     "name:vol_x_preferred":[
         "C\u0103ianu Mic"
@@ -77,8 +87,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":868611,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -93,11 +106,15 @@
     "wof:concordances":{
         "gn:id":683051,
         "gp:id":868611,
-        "qs_pg:id":127889
+        "qs_pg:id":127889,
+        "ro-ancpi:id":56381
     },
     "wof:country":"RO",
     "wof:created":1497300295,
-    "wof:geomhash":"31d01f0d1d48ec23245d68cc64af3667",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"eb6efc34baf4a3f43b9322337a2df959",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,7 +124,13 @@
         }
     ],
     "wof:id":1126011395,
-    "wof:lastmodified":1566611372,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203421,
     "wof:name":"C\u0103ianu Mic",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
@@ -119,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.91667,
-    46.78333,
-    23.91667,
-    46.78333
+    23.885935,
+    46.793297,
+    23.901838,
+    46.799576
 ],
-  "geometry": {"coordinates":[23.91667,46.78333],"type":"Point"}
+  "geometry": {"coordinates":[[[23.901838,46.793991],[23.901672,46.793297],[23.901431,46.793309],[23.89954,46.793398],[23.896225,46.79424],[23.896011,46.794293],[23.896205,46.794676],[23.893567,46.795002],[23.893538,46.794809],[23.89264,46.794661],[23.891956,46.79466],[23.890178,46.79485],[23.889133,46.795048],[23.88798,46.795374],[23.887713,46.795559],[23.885935,46.795855],[23.886137,46.796754],[23.889265,46.796223],[23.89348,46.795523],[23.893611,46.795793],[23.894634,46.795616],[23.894852,46.795959],[23.895079,46.79645],[23.89471,46.796544],[23.894844,46.796952],[23.895415,46.796851],[23.895452,46.79734],[23.895808,46.797343],[23.8957,46.79853],[23.896523,46.798586],[23.896608,46.799051],[23.896735,46.799255],[23.896883,46.799398],[23.897114,46.799505],[23.897462,46.799576],[23.897599,46.798589],[23.897672,46.798177],[23.897589,46.797668],[23.897552,46.797458],[23.897407,46.797381],[23.897432,46.796515],[23.897492,46.796077],[23.897317,46.79604],[23.897353,46.795324],[23.897421,46.795224],[23.897821,46.795087],[23.898047,46.794983],[23.898063,46.794908],[23.897943,46.794665],[23.901198,46.793839],[23.901379,46.794006],[23.901497,46.794017],[23.901838,46.793991]]],"type":"Polygon"}
 }

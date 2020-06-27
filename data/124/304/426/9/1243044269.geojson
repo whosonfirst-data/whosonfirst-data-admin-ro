@@ -27,8 +27,9 @@
     "lbl:bbox":"24.09667,44.03,24.13667,44.07",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +42,7 @@
         "gn:id":674301
     },
     "wof:country":"RO",
-    "wof:geomhash":"c1786080683da7d22ea6d119b3561137",
+    "wof:geomhash":"ef97d2484a580b68e82395c817eb87b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +52,13 @@
         }
     ],
     "wof:id":1243044269,
-    "wof:lastmodified":1566611486,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208578,
     "wof:name":"Lupancesti",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -61,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667000000001,
+    24.11667,
     44.05,
-    24.11667000000001,
+    24.11667,
     44.05
 ],
-  "geometry": {"coordinates":[24.11667000000001,44.05],"type":"Point"}
+  "geometry": {"coordinates":[24.11667,44.05],"type":"Point"}
 }

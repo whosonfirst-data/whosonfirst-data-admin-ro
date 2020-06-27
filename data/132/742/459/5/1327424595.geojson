@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.57143,45.33242,27.57143,45.33242",
-    "geom:latitude":45.33242,
-    "geom:longitude":27.57143,
+    "geom:area":0.000006,
+    "geom:area_square_m":50909.985644,
+    "geom:bbox":"27.571882,45.325495,27.575618,45.32753",
+    "geom:latitude":45.326403,
+    "geom:longitude":27.573731,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43929.0",
     "gn:asciiname":"Desirati",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.55143,45.31242,27.59143,45.35242",
+    "lbl:latitude":45.326506,
+    "lbl:longitude":27.573696,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.326506,
+    "mps:longitude":27.573696,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "De\u015fira\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Desirati"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679459
+        "gn:id":679459,
+        "ro-ancpi:id":43947
     },
     "wof:country":"RO",
-    "wof:geomhash":"a2bbbd812dea79712c874c63f537c3da",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"28b9abe2439c90fbc81fb55e20aeaead",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +68,14 @@
         }
     ],
     "wof:id":1327424595,
-    "wof:lastmodified":1566609866,
-    "wof:name":"Desirati",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203771,
+    "wof:name":"De\u015fira\u0163i",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.57143,
-    45.33242,
-    27.57143,
-    45.33242
+    27.571882,
+    45.325495,
+    27.575618,
+    45.32753
 ],
-  "geometry": {"coordinates":[27.57143,45.33242],"type":"Point"}
+  "geometry": {"coordinates":[[[27.574612,45.327199],[27.574995,45.327014],[27.575101,45.326912],[27.575483,45.326852],[27.575618,45.326749],[27.575605,45.326614],[27.575567,45.32611],[27.57554,45.325689],[27.575199,45.325655],[27.57453,45.32556],[27.57356,45.325509],[27.573264,45.325495],[27.572268,45.325507],[27.572021,45.325591],[27.572189,45.326041],[27.572052,45.326591],[27.571882,45.327153],[27.572424,45.32714],[27.573097,45.327333],[27.573601,45.32753],[27.574058,45.327363],[27.574612,45.327199]]],"type":"Polygon"}
 }

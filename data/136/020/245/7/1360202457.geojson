@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.26071,46.02211,23.26071,46.02211",
-    "geom:latitude":46.02211,
-    "geom:longitude":23.26071,
+    "geom:area":0.000007,
+    "geom:area_square_m":63181.455854,
+    "geom:bbox":"23.256191,46.014686,23.259914,46.021036",
+    "geom:latitude":46.018592,
+    "geom:longitude":23.258332,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3841.0",
     "gn:asciiname":"Valea Mare",
@@ -24,11 +24,14 @@
     "gn:population":42,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.24071,46.00211,23.28071,46.04211",
+    "lbl:latitude":46.018995,
+    "lbl:longitude":23.258205,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.018995,
+    "mps:longitude":23.258205,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Mare"
@@ -37,6 +40,9 @@
         "Valea Mare"
     ],
     "name:epo_x_preferred":[
+        "Valea Mare"
+    ],
+    "name:eus_x_preferred":[
         "Valea Mare"
     ],
     "name:fra_x_preferred":[
@@ -60,7 +66,11 @@
     "name:vol_x_preferred":[
         "Valea Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663622
+        "gn:id":663622,
+        "ro-ancpi:id":3930
     },
     "wof:country":"RO",
-    "wof:geomhash":"e83df14a154028ecda2712f88bbdd2b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"950f0469abaa760b06cdf425ee8d3f00",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +96,13 @@
         }
     ],
     "wof:id":1360202457,
-    "wof:lastmodified":1566610625,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203760,
     "wof:name":"Valea Mare",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -94,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.26071,
-    46.02211,
-    23.26071,
-    46.02211
+    23.256191,
+    46.014686,
+    23.259914,
+    46.021036
 ],
-  "geometry": {"coordinates":[23.26071,46.02211],"type":"Point"}
+  "geometry": {"coordinates":[[[23.259914,46.014789],[23.259244,46.014686],[23.259003,46.01566],[23.258402,46.015595],[23.25835,46.016391],[23.258793,46.016498],[23.258101,46.017809],[23.25748,46.018087],[23.257526,46.019559],[23.256805,46.019591],[23.256191,46.019902],[23.256232,46.020268],[23.256955,46.020243],[23.258026,46.020854],[23.258992,46.021036],[23.259774,46.020819],[23.25948,46.020559],[23.259113,46.020553],[23.258814,46.020036],[23.259044,46.01897],[23.258632,46.018303],[23.258781,46.01753],[23.259496,46.01589],[23.259914,46.014789]]],"type":"Polygon"}
 }

@@ -2,8 +2,9 @@
   "id": 1125836389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.350681,46.161879,24.350681,46.161879",
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
@@ -176,12 +177,14 @@
         }
     ],
     "wof:id":1125836389,
-    "wof:lastmodified":1566611418,
+    "wof:lastmodified":1588368343,
     "wof:name":"Media\u0219",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101751995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

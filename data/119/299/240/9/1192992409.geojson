@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.73556,45.63394,22.73556,45.63394",
-    "geom:latitude":45.63394,
-    "geom:longitude":22.73556,
+    "geom:area":0.000022,
+    "geom:area_square_m":186695.398772,
+    "geom:bbox":"22.729285,45.627508,22.765898,45.635441",
+    "geom:latitude":45.633693,
+    "geom:longitude":22.737666,
     "gn:admin1_code":"21",
     "gn:admin2_code":"90725.0",
     "gn:asciiname":"Mesteacan",
@@ -24,13 +24,36 @@
     "gn:population":25,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.71556,45.61394,22.75556,45.65394",
+    "lbl:latitude":45.63394,
+    "lbl:longitude":22.73556,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Mesteac\u0103n"
+    ],
+    "name:deu_x_preferred":[
+        "Mesteac\u0103n"
+    ],
+    "name:epo_x_preferred":[
+        "Mesteac\u0103n"
+    ],
+    "name:hun_x_preferred":[
+        "Mesteac\u0103n"
+    ],
+    "name:ron_x_preferred":[
+        "Mesteac\u0103n"
+    ],
+    "name:ron_x_variant":[
+        "Mesteacan"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673526
+        "gn:id":673526,
+        "ro-ancpi:id":90789
     },
     "wof:country":"RO",
-    "wof:geomhash":"4fa0ceb168de5f54dbbb6ce292e2f2be",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"faf6d4615cd734b91bb24fe648f64467",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +79,14 @@
         }
     ],
     "wof:id":1192992409,
-    "wof:lastmodified":1566610447,
-    "wof:name":"Mesteacan",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203799,
+    "wof:name":"Mesteac\u0103n",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":25,
@@ -64,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.73556,
-    45.63394,
-    22.73556,
-    45.63394
+    22.729285,
+    45.627508,
+    22.765898,
+    45.635441
 ],
-  "geometry": {"coordinates":[22.73556,45.63394],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.729875,45.635441],[22.730649,45.635119],[22.730712,45.635201],[22.731633,45.634823],[22.731814,45.634748],[22.732191,45.635182],[22.732712,45.634977],[22.732609,45.634834],[22.733505,45.634761],[22.735482,45.634564],[22.735854,45.634719],[22.736314,45.634191],[22.736619,45.634202],[22.739032,45.634475],[22.741534,45.634792],[22.742135,45.634457],[22.74289,45.634196],[22.743189,45.633913],[22.743347,45.633837],[22.743501,45.633941],[22.744177,45.633379],[22.744833,45.632878],[22.744783,45.632404],[22.743456,45.632486],[22.74289,45.63289],[22.74228,45.633387],[22.741266,45.633217],[22.741115,45.632903],[22.739637,45.633089],[22.738749,45.63349],[22.738164,45.63292],[22.737466,45.633252],[22.736836,45.633233],[22.735944,45.633303],[22.735357,45.633283],[22.735391,45.633096],[22.734247,45.632919],[22.733332,45.63284],[22.732817,45.632911],[22.732231,45.633012],[22.731407,45.633536],[22.730792,45.633944],[22.729989,45.634308],[22.729285,45.634609],[22.729762,45.635251],[22.729875,45.635441]]],[[[22.765898,45.627968],[22.765612,45.627508],[22.76514,45.627589],[22.764922,45.628018],[22.76474,45.628202],[22.765083,45.628505],[22.765898,45.627968]]]],"type":"MultiPolygon"}
 }

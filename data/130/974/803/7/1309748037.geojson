@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.36819,45.17036,24.36819,45.17036",
-    "geom:latitude":45.17036,
-    "geom:longitude":24.36819,
+    "geom:area":0.000041,
+    "geom:area_square_m":356607.553804,
+    "geom:bbox":"24.359525,45.165717,24.367872,45.174709",
+    "geom:latitude":45.170399,
+    "geom:longitude":24.364038,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168880.0",
     "gn:asciiname":"Lunca",
@@ -24,11 +24,14 @@
     "gn:population":360,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.34819,45.15036,24.38819,45.19036",
+    "lbl:latitude":45.170709,
+    "lbl:longitude":24.36467,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.170709,
+    "mps:longitude":24.36467,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lunca"
@@ -37,6 +40,9 @@
         "Lunca"
     ],
     "name:epo_x_preferred":[
+        "Lunca"
+    ],
+    "name:eus_x_preferred":[
         "Lunca"
     ],
     "name:fra_x_preferred":[
@@ -60,7 +66,11 @@
     "name:vol_x_preferred":[
         "Lunca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674487
+        "gn:id":674487,
+        "ro-ancpi:id":168933
     },
     "wof:country":"RO",
-    "wof:geomhash":"4dbe0c3b4224ec648990cca0e5de842e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a89e539e1eed814e767d0dd6a788103f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +96,13 @@
         }
     ],
     "wof:id":1309748037,
-    "wof:lastmodified":1566611259,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
     "wof:name":"Lunca",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -94,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36819,
-    45.17036,
-    24.36819,
-    45.17036
+    24.359525,
+    45.165717,
+    24.367872,
+    45.174709
 ],
-  "geometry": {"coordinates":[24.36819,45.17036],"type":"Point"}
+  "geometry": {"coordinates":[[[24.362246,45.174435],[24.363395,45.174708],[24.3634,45.174709],[24.363398,45.174449],[24.364001,45.174048],[24.36472,45.173847],[24.36593,45.173636],[24.366403,45.173288],[24.366758,45.172201],[24.367027,45.171786],[24.367872,45.171011],[24.36701,45.169155],[24.367178,45.167792],[24.365223,45.1675],[24.365353,45.16683],[24.364881,45.166095],[24.363436,45.165717],[24.36196,45.166198],[24.361386,45.166545],[24.361402,45.166809],[24.362987,45.167149],[24.363016,45.167909],[24.362902,45.168868],[24.361706,45.168835],[24.361286,45.1696],[24.360614,45.17082],[24.361231,45.171579],[24.361488,45.171872],[24.361495,45.172401],[24.360048,45.172573],[24.359525,45.172658],[24.359632,45.173501],[24.359715,45.173705],[24.36038,45.173575],[24.361821,45.173362],[24.362656,45.173197],[24.363634,45.173078],[24.362513,45.173974],[24.362246,45.174435]]],"type":"Polygon"}
 }

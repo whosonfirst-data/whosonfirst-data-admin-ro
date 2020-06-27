@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0025111452,44.4167653525,26.0025111452,44.4167653525",
+    "geom:bbox":"26.002511,44.416765,26.002511,44.416765",
     "geom:latitude":44.416765,
     "geom:longitude":26.002511,
     "iso:country":"RO",
@@ -33,25 +33,33 @@
     "wof:belongsto":[
         102191581,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363209,
-    "wof:geomhash":"f86e9c5e2118b7ed1b3923d353281688",
+    "wof:geomhash":"715ad9b7ecbb77c4aa2f2dd74fc8584c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633745,
+            "locality_id":101751949,
             "neighbourhood_id":1108942601,
             "region_id":85687595
         }
     ],
     "wof:id":1108942601,
-    "wof:lastmodified":1566610513,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208078,
     "wof:name":"Brancusi",
-    "wof:parent_id":-1,
+    "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -59,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.00251114518601,
-    44.41676535247628,
-    26.00251114518601,
-    44.41676535247628
+    26.002511,
+    44.416765,
+    26.002511,
+    44.416765
 ],
-  "geometry": {"coordinates":[26.00251114518601,44.41676535247628],"type":"Point"}
+  "geometry": {"coordinates":[26.002511,44.416765],"type":"Point"}
 }

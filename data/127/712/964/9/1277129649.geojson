@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.92873,45.82899,21.92873,45.82899",
-    "geom:latitude":45.82899,
-    "geom:longitude":21.92873,
+    "geom:area":0.000094,
+    "geom:area_square_m":807202.792343,
+    "geom:bbox":"21.91782,45.824199,21.939319,45.833542",
+    "geom:latitude":45.829069,
+    "geom:longitude":21.92867,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155840.0",
     "gn:asciiname":"Cutina",
@@ -25,13 +25,17 @@
     "gn:population":396,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.90873,45.80899,21.94873,45.84899",
+    "lbl:latitude":45.82899,
+    "lbl:longitude":21.92873,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Cutina"
+    ],
+    "name:ron_x_preferred":[
         "Cutina"
     ],
     "name:swe_x_preferred":[
@@ -48,7 +52,11 @@
     "name:war_x_preferred":[
         "Cutina"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679870
+        "gn:id":679870,
+        "ro-ancpi:id":155886
     },
     "wof:country":"RO",
-    "wof:geomhash":"5da963fe77583883d8e98c5040ae862c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4f22dd0ee32a56ef450d38250e624319",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +82,13 @@
         }
     ],
     "wof:id":1277129649,
-    "wof:lastmodified":1566610215,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203737,
     "wof:name":"Cutina",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -82,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.92873,
-    45.82899000000001,
-    21.92873,
-    45.82899000000001
+    21.91782,
+    45.824199,
+    21.939319,
+    45.833542
 ],
-  "geometry": {"coordinates":[21.92873,45.82899000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[21.938111,45.832828],[21.938773,45.832266],[21.93887,45.831451],[21.939058,45.831156],[21.939097,45.830748],[21.939319,45.830478],[21.938478,45.83013],[21.936828,45.829485],[21.932915,45.827781],[21.929436,45.826641],[21.927122,45.82587],[21.926026,45.82548],[21.924925,45.825186],[21.923377,45.824567],[21.922879,45.825285],[21.920107,45.824199],[21.918342,45.826309],[21.91782,45.826923],[21.920447,45.828121],[21.924361,45.829776],[21.925627,45.830855],[21.925331,45.831231],[21.926403,45.832054],[21.927431,45.832755],[21.928111,45.833013],[21.92903,45.832971],[21.92931,45.832673],[21.929819,45.83217],[21.929973,45.831873],[21.93012,45.831755],[21.931253,45.832541],[21.93201,45.832138],[21.934485,45.833008],[21.935089,45.832564],[21.937535,45.833542],[21.938111,45.832828]]],"type":"Polygon"}
 }

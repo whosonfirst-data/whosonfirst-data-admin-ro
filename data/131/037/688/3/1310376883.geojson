@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.7394,44.66889,23.7394,44.66889",
-    "geom:latitude":44.66889,
-    "geom:longitude":23.7394,
+    "geom:area":0.000014,
+    "geom:area_square_m":127432.703642,
+    "geom:bbox":"23.733566,44.671212,23.738236,44.681383",
+    "geom:latitude":44.675834,
+    "geom:longitude":23.735561,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74956.0",
     "gn:asciiname":"Putinei",
@@ -25,17 +25,30 @@
     "gn:population":141,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.7194,44.64889,23.7594,44.68889",
+    "lbl:latitude":44.673385,
+    "lbl:longitude":23.736117,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.673385,
+    "mps:longitude":23.736117,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pu\u0163inei"
+    ],
+    "name:ron_x_variant":[
+        "Putinei"
+    ],
     "name:und_x_variant":[
         "Putineiul",
         "Pu\u0163inei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669445
+        "gn:id":669445,
+        "ro-ancpi:id":72356
     },
     "wof:country":"RO",
-    "wof:geomhash":"56726c4e69af5e8d6cc900851055387e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f0ded016a9505e9edf7038361c4abb90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1310376883,
-    "wof:lastmodified":1566610559,
-    "wof:name":"Putinei",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203320,
+    "wof:name":"Pu\u0163inei",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":141,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.7394,
-    44.66889000000001,
-    23.7394,
-    44.66889000000001
+    23.733566,
+    44.671212,
+    23.738236,
+    44.681383
 ],
-  "geometry": {"coordinates":[23.7394,44.66889000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.737436,44.672917],[23.73765,44.672195],[23.737709,44.671861],[23.737691,44.671673],[23.737789,44.671543],[23.738178,44.671532],[23.738236,44.671234],[23.737422,44.671223],[23.736874,44.671212],[23.736433,44.671558],[23.736268,44.672363],[23.735541,44.672334],[23.734248,44.672565],[23.734229,44.673428],[23.734007,44.673685],[23.733962,44.673937],[23.735191,44.673958],[23.735173,44.674308],[23.735781,44.674378],[23.735736,44.675178],[23.736762,44.67521],[23.73684,44.674652],[23.736899,44.673993],[23.737332,44.673967],[23.737333,44.67357],[23.737336,44.673504],[23.737436,44.672917]]],[[[23.735682,44.67832],[23.734822,44.678286],[23.733566,44.678373],[23.733688,44.679293],[23.733869,44.681345],[23.734468,44.681383],[23.735221,44.681309],[23.735358,44.68091],[23.735524,44.680583],[23.735502,44.679653],[23.735781,44.67954],[23.735682,44.67832]]],[[[23.73651,44.676483],[23.736572,44.675941],[23.735292,44.675968],[23.735263,44.676147],[23.735225,44.676223],[23.735139,44.676386],[23.735055,44.676502],[23.73651,44.676483]]]],"type":"MultiPolygon"}
 }

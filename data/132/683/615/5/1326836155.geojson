@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.16867,46.49565,27.16867,46.49565",
-    "geom:latitude":46.49565,
-    "geom:longitude":27.16867,
+    "geom:area":0.000013,
+    "geom:area_square_m":114566.772589,
+    "geom:bbox":"27.165977,46.489923,27.171373,46.49721",
+    "geom:latitude":46.493668,
+    "geom:longitude":27.168626,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24089",
     "gn:asciiname":"Barna",
@@ -24,11 +24,12 @@
     "gn:population":32,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.14867,46.47565,27.18867,46.51565",
+    "lbl:latitude":46.49565,
+    "lbl:longitude":27.16867,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bearna"
@@ -54,6 +55,9 @@
     "name:nld_x_preferred":[
         "Bearna"
     ],
+    "name:ron_x_preferred":[
+        "Barna"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u043d\u0430"
     ],
@@ -68,7 +72,11 @@
         "B\u00eerna",
         "B\u00eera"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684836
+        "gn:id":684836,
+        "ro-ancpi:id":24105
     },
     "wof:country":"RO",
-    "wof:geomhash":"60039ddcc85d2d8eccadf0cdfad2fb53",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7caa17a85b130865ce2ef8694ac4381f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +102,13 @@
         }
     ],
     "wof:id":1326836155,
-    "wof:lastmodified":1566609837,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203537,
     "wof:name":"Barna",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -102,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.16867,
-    46.49565,
-    27.16867,
-    46.49565
+    27.165977,
+    46.489923,
+    27.171373,
+    46.49721
 ],
-  "geometry": {"coordinates":[27.16867,46.49565],"type":"Point"}
+  "geometry": {"coordinates":[[[27.171373,46.490532],[27.17031,46.489923],[27.169576,46.490654],[27.169225,46.491436],[27.167888,46.492456],[27.167177,46.493757],[27.165977,46.495037],[27.166906,46.495488],[27.167101,46.496669],[27.167907,46.49721],[27.169841,46.495213],[27.168385,46.494846],[27.169148,46.493222],[27.170812,46.491888],[27.171373,46.490532]]],"type":"Polygon"}
 }

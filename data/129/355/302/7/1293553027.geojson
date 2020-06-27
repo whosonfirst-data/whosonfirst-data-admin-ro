@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.86548,44.59726,23.86548,44.59726",
-    "geom:latitude":44.59726,
-    "geom:longitude":23.86548,
+    "geom:area":0.000041,
+    "geom:area_square_m":357034.433107,
+    "geom:bbox":"23.859469,44.586442,23.87574,44.600941",
+    "geom:latitude":44.592741,
+    "geom:longitude":23.866677,
     "gn:admin1_code":"17",
     "gn:admin2_code":"71340.0",
     "gn:asciiname":"Saliste",
@@ -25,17 +25,61 @@
     "gn:population":250,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.84548,44.57726,23.88548,44.61726",
+    "lbl:latitude":44.593727,
+    "lbl:longitude":23.865261,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.593727,
+    "mps:longitude":23.865261,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "S\u0103li\u0219te"
+    ],
+    "name:epo_x_preferred":[
+        "S\u0103li\u0219te"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u06cc\u0634\u062a\u0647"
+    ],
+    "name:hun_x_preferred":[
+        "Szelistye"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0103li\u015fte"
+    ],
+    "name:nld_x_preferred":[
+        "S\u0103li\u0219te"
+    ],
+    "name:pol_x_preferred":[
+        "S\u0103li\u015fte"
+    ],
+    "name:ron_x_preferred":[
+        "S\u0103li\u015fte"
+    ],
+    "name:ron_x_variant":[
+        "Saliste",
+        "S\u0103li\u0219te"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0456\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Salistea",
         "S\u0103li\u015fte"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Saliste"
+    ],
+    "name:zho_x_preferred":[
+        "\u745f\u5229\u4ec0\u6cf0"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668154
+        "gn:id":668154,
+        "ro-ancpi:id":71420
     },
     "wof:country":"RO",
-    "wof:geomhash":"caa792863dd1e2657285b65557731d71",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"788d827f215f63b2cdebcadb871df708",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +105,14 @@
         }
     ],
     "wof:id":1293553027,
-    "wof:lastmodified":1566610046,
-    "wof:name":"Saliste",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203318,
+    "wof:name":"S\u0103li\u015fte",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":250,
@@ -69,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.86548,
-    44.59726,
-    23.86548,
-    44.59726
+    23.859469,
+    44.586442,
+    23.87574,
+    44.600941
 ],
-  "geometry": {"coordinates":[23.86548,44.59726],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.862151,44.600941],[23.862799,44.59999],[23.863022,44.598914],[23.863938,44.597901],[23.864355,44.596742],[23.863578,44.596579],[23.863921,44.596015],[23.8644,44.595231],[23.865463,44.595362],[23.867265,44.593037],[23.868248,44.590938],[23.868611,44.590287],[23.869367,44.589138],[23.870572,44.58902],[23.870132,44.58807],[23.869883,44.587323],[23.869777,44.586442],[23.868726,44.586484],[23.868786,44.586666],[23.868674,44.587048],[23.868097,44.587985],[23.866927,44.589502],[23.866794,44.589542],[23.86555,44.590504],[23.864403,44.592897],[23.863999,44.593587],[23.86397,44.594053],[23.863074,44.595643],[23.863676,44.59582],[23.863247,44.596646],[23.862179,44.596412],[23.862111,44.596467],[23.860826,44.598656],[23.86038,44.599872],[23.859594,44.600379],[23.859469,44.600629],[23.860609,44.600841],[23.860689,44.60076],[23.862151,44.600941]]],[[[23.874111,44.589344],[23.874346,44.58838],[23.875674,44.588435],[23.87574,44.587573],[23.874656,44.587479],[23.872657,44.58732],[23.871157,44.58712],[23.870977,44.588053],[23.87101,44.588548],[23.871368,44.589085],[23.874111,44.589344]]]],"type":"MultiPolygon"}
 }

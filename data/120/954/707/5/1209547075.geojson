@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21902,44.66489,24.21902,44.66489",
-    "geom:latitude":44.66489,
-    "geom:longitude":24.21902,
+    "geom:area":0.000058,
+    "geom:area_square_m":507667.927106,
+    "geom:bbox":"24.213133,44.659688,24.228095,44.67073",
+    "geom:latitude":44.664757,
+    "geom:longitude":24.219912,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173597.0",
     "gn:asciiname":"Mazili",
@@ -24,33 +24,58 @@
     "gn:population":354,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.19902,44.64489,24.23902,44.68489",
+    "lbl:latitude":44.66489,
+    "lbl:longitude":24.21902,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "M\u0103zili"
+    ],
+    "name:ron_x_variant":[
+        "Mazili"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673644
+        "gn:id":673644,
+        "ro-ancpi:id":173640
     },
     "wof:country":"RO",
-    "wof:geomhash":"cf59d32b844ef7d6497a0dec454b6e23",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9388cc7772ff7335a6f1aabab6e60221",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209547075
+            "locality_id":1209547075,
+            "region_id":85687643
         }
     ],
     "wof:id":1209547075,
-    "wof:lastmodified":1566610283,
-    "wof:name":"Mazili",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
+    "wof:name":"M\u0103zili",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":354,
     "wof:population_rank":2,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.21902,
-    44.66489,
-    24.21902,
-    44.66489
+    24.213133,
+    44.659688,
+    24.228095,
+    44.67073
 ],
-  "geometry": {"coordinates":[24.21902,44.66489],"type":"Point"}
+  "geometry": {"coordinates":[[[24.228095,44.660912],[24.225893,44.659688],[24.223083,44.661527],[24.215821,44.664158],[24.21457,44.661494],[24.213133,44.661969],[24.213526,44.664576],[24.215142,44.666731],[24.221134,44.67073],[24.223651,44.669803],[24.218783,44.667344],[24.224989,44.663404],[24.227594,44.661227],[24.228095,44.660912]]],"type":"Polygon"}
 }

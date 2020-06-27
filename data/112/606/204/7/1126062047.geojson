@@ -21,6 +21,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:asm_x_preferred":[
+        "\u09ac\u09f0\u09be"
+    ],
     "name:cat_x_preferred":[
         "Bora"
     ],
@@ -109,7 +112,6 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101792603,
         85633745,
         85687621
     ],
@@ -126,15 +128,21 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101792603,
+            "locality_id":-1,
             "neighbourhood_id":1126062047,
             "region_id":85687621
         }
     ],
     "wof:id":1126062047,
-    "wof:lastmodified":1566611365,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208278,
     "wof:name":"Bora",
-    "wof:parent_id":101792603,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

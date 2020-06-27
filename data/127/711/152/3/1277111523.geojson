@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.09547,47.26036,23.09547,47.26036",
-    "geom:latitude":47.26036,
-    "geom:longitude":23.09547,
+    "geom:area":0.000065,
+    "geom:area_square_m":542188.808791,
+    "geom:bbox":"23.087085,47.25114,23.098579,47.264917",
+    "geom:latitude":47.257826,
+    "geom:longitude":23.092339,
     "gn:admin1_code":"31",
     "gn:admin2_code":"140823.0",
     "gn:asciiname":"Cristur Criseni",
@@ -25,18 +25,31 @@
     "gn:population":624,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.07547,47.24036,23.11547,47.28036",
+    "lbl:latitude":47.257188,
+    "lbl:longitude":23.092906,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.257188,
+    "mps:longitude":23.092906,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cristur Cri\u015feni"
+    ],
+    "name:ron_x_variant":[
+        "Cristur Criseni"
+    ],
     "name:und_x_variant":[
         "Cristur",
         "Cristur Cri\u015feni",
         "Cristuri-Cri\u015feni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680150
+        "gn:id":680150,
+        "ro-ancpi:id":140841
     },
     "wof:country":"RO",
-    "wof:geomhash":"8282182f99eeb9c7c0d3b2856a91f3b6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cdc69bea0f10bcfec4e463ee108aa21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1277111523,
-    "wof:lastmodified":1566610273,
-    "wof:name":"Cristur Criseni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203529,
+    "wof:name":"Cristur Cri\u015feni",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":624,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.09547,
-    47.26036,
-    23.09547,
-    47.26036
+    23.087085,
+    47.25114,
+    23.098579,
+    47.264917
 ],
-  "geometry": {"coordinates":[23.09547,47.26036],"type":"Point"}
+  "geometry": {"coordinates":[[[23.095027,47.260738],[23.09598,47.257384],[23.096734,47.256214],[23.097847,47.255577],[23.098579,47.255195],[23.097955,47.254726],[23.097364,47.254818],[23.092838,47.254093],[23.093398,47.25277],[23.09311,47.252709],[23.09369,47.251511],[23.092035,47.25114],[23.091537,47.252377],[23.0913,47.252327],[23.090937,47.253135],[23.090122,47.25449],[23.089626,47.255075],[23.089016,47.255414],[23.087703,47.25478],[23.087198,47.25528],[23.089241,47.256256],[23.089628,47.25717],[23.090145,47.258428],[23.090292,47.258693],[23.090046,47.258674],[23.08964,47.258834],[23.088686,47.258821],[23.088166,47.258596],[23.087085,47.259487],[23.087955,47.260367],[23.088799,47.26099],[23.089774,47.260557],[23.090096,47.261534],[23.089881,47.262376],[23.090754,47.264018],[23.091605,47.264917],[23.093721,47.263993],[23.091513,47.262422],[23.091995,47.262157],[23.093491,47.261635],[23.094465,47.261113],[23.095027,47.260738]]],"type":"Polygon"}
 }

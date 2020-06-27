@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.65781,44.67017,24.65781,44.67017",
-    "geom:latitude":44.67017,
-    "geom:longitude":24.65781,
+    "geom:area":0.000098,
+    "geom:area_square_m":863504.33518,
+    "geom:bbox":"24.652748,44.656914,24.665041,44.67734",
+    "geom:latitude":44.666485,
+    "geom:longitude":24.658279,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126228.0",
     "gn:asciiname":"Chelbesti",
@@ -24,13 +24,24 @@
     "gn:population":139,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.63781,44.65017,24.67781,44.69017",
+    "lbl:latitude":44.67017,
+    "lbl:longitude":24.65781,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Chelbe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Chelbesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682212
+        "gn:id":682212,
+        "ro-ancpi:id":126264
     },
     "wof:country":"RO",
-    "wof:geomhash":"76108613287c90e251fd04e9e0ac0333",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ffffddb03dce747af2d1609b75fc75c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1343323113,
-    "wof:lastmodified":1566609943,
-    "wof:name":"Chelbesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
+    "wof:name":"Chelbe\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":139,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.65781,
-    44.67017,
-    24.65781,
-    44.67017
+    24.652748,
+    44.656914,
+    24.665041,
+    44.67734
 ],
-  "geometry": {"coordinates":[24.65781,44.67017],"type":"Point"}
+  "geometry": {"coordinates":[[[24.658523,44.656914],[24.657052,44.659876],[24.656631,44.661632],[24.655199,44.661577],[24.656326,44.66519],[24.655085,44.667954],[24.654741,44.669357],[24.654041,44.672057],[24.653604,44.674992],[24.652748,44.676667],[24.655187,44.67734],[24.657166,44.675005],[24.657283,44.672964],[24.658706,44.668343],[24.661838,44.66923],[24.665041,44.666317],[24.661957,44.664651],[24.661285,44.660728],[24.661775,44.657428],[24.658523,44.656914]]],"type":"Polygon"}
 }

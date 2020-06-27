@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.97851,44.80635,23.97851,44.80635",
-    "geom:latitude":44.80635,
-    "geom:longitude":23.97851,
+    "geom:area":0.000034,
+    "geom:area_square_m":295204.612159,
+    "geom:bbox":"23.967497,44.801736,23.977908,44.809055",
+    "geom:latitude":44.8054,
+    "geom:longitude":23.973573,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Seciu",
@@ -25,11 +25,14 @@
     "gn:population":95,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.95851,44.78635,23.99851,44.82635",
+    "lbl:latitude":44.806996,
+    "lbl:longitude":23.975821,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.806996,
+    "mps:longitude":23.975821,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Seciu"
@@ -46,7 +49,11 @@
     "name:und_x_variant":[
         "Secui"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667488
+        "gn:id":667488,
+        "ro-ancpi:id":169841
     },
     "wof:country":"RO",
-    "wof:geomhash":"50ad24308c0dc17c0a505435800350fb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bf783c61ea90c3fdbef58a5027109562",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +79,13 @@
         }
     ],
     "wof:id":1260115285,
-    "wof:lastmodified":1566610490,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
     "wof:name":"Seciu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -80,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.97851,
-    44.80635,
-    23.97851,
-    44.80635
+    23.967497,
+    44.801736,
+    23.977908,
+    44.809055
 ],
-  "geometry": {"coordinates":[23.97851,44.80635],"type":"Point"}
+  "geometry": {"coordinates":[[[23.977653,44.807887],[23.977908,44.805694],[23.97701,44.801755],[23.974966,44.801736],[23.974904,44.807224],[23.971673,44.807399],[23.969933,44.806464],[23.972551,44.802455],[23.97055,44.802079],[23.967497,44.80634],[23.970872,44.808056],[23.973917,44.808236],[23.974082,44.809055],[23.975591,44.808915],[23.975679,44.807997],[23.977653,44.807887]]],"type":"Polygon"}
 }

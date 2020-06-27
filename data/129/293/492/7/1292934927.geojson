@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.63999,47.37563,23.63999,47.37563",
-    "geom:latitude":47.37563,
-    "geom:longitude":23.63999,
+    "geom:area":0.000041,
+    "geom:area_square_m":345694.161515,
+    "geom:bbox":"23.633026,47.369521,23.645781,47.381726",
+    "geom:latitude":47.375553,
+    "geom:longitude":23.639641,
     "gn:admin1_code":"31",
     "gn:admin2_code":"141580.0",
     "gn:asciiname":"Sasa",
@@ -24,11 +24,14 @@
     "gn:population":122,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.61999,47.35563,23.65999,47.39563",
+    "lbl:latitude":47.377709,
+    "lbl:longitude":23.639738,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.377709,
+    "mps:longitude":23.639738,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0639\u0633\u0639"
@@ -54,6 +57,12 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30b5"
     ],
+    "name:ron_x_preferred":[
+        "\u015easa"
+    ],
+    "name:ron_x_variant":[
+        "Sasa"
+    ],
     "name:sqi_x_preferred":[
         "Sasa"
     ],
@@ -63,7 +72,11 @@
     "name:swe_x_preferred":[
         "Sasa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +85,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667938
+        "gn:id":667938,
+        "ro-ancpi:id":141713
     },
     "wof:country":"RO",
-    "wof:geomhash":"b6053a120b7e358f7db35bfb7727ad12",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7272b04d7e6128750dd968880a3e2998",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,8 +102,14 @@
         }
     ],
     "wof:id":1292934927,
-    "wof:lastmodified":1566610056,
-    "wof:name":"Sasa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203528,
+    "wof:name":"\u015easa",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
     "wof:population":122,
@@ -97,10 +120,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.63999,
-    47.37563,
-    23.63999,
-    47.37563
+    23.633026,
+    47.369521,
+    23.645781,
+    47.381726
 ],
-  "geometry": {"coordinates":[23.63999,47.37563],"type":"Point"}
+  "geometry": {"coordinates":[[[23.639599,47.381241],[23.639502,47.379141],[23.640112,47.379448],[23.641134,47.378374],[23.642829,47.377429],[23.644307,47.376243],[23.64454,47.375964],[23.645781,47.374209],[23.644346,47.373774],[23.643404,47.374937],[23.639461,47.37625],[23.639322,47.374098],[23.639764,47.373002],[23.640856,47.372467],[23.641132,47.37238],[23.642026,47.369816],[23.640186,47.369521],[23.639579,47.371026],[23.639295,47.371457],[23.637984,47.372254],[23.637723,47.374576],[23.634805,47.374521],[23.633026,47.375514],[23.633798,47.376384],[23.636691,47.376297],[23.636727,47.375807],[23.637781,47.375827],[23.638622,47.379568],[23.637908,47.380345],[23.636909,47.380439],[23.637035,47.380975],[23.638475,47.380804],[23.639378,47.381726],[23.639811,47.381566],[23.639599,47.381241]]],"type":"Polygon"}
 }

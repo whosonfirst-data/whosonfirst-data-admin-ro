@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.52016,44.75383,23.52016,44.75383",
-    "geom:latitude":44.75383,
-    "geom:longitude":23.52016,
+    "geom:area":0.000014,
+    "geom:area_square_m":124483.461001,
+    "geom:bbox":"23.511547,44.751333,23.520493,44.755346",
+    "geom:latitude":44.753361,
+    "geom:longitude":23.517301,
     "gn:admin1_code":"19",
     "gn:admin2_code":"78604",
     "gn:asciiname":"Bobaia",
@@ -24,11 +24,14 @@
     "gn:population":328,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.50016,44.73383,23.54016,44.77383",
+    "lbl:latitude":44.752925,
+    "lbl:longitude":23.51842,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.752925,
+    "mps:longitude":23.51842,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bobaia"
@@ -42,7 +45,11 @@
     "name:srp_x_preferred":[
         "\u0411\u043e\u0431\u0430\u0458\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684548
+        "gn:id":684548,
+        "ro-ancpi:id":78622
     },
     "wof:country":"RO",
-    "wof:geomhash":"bc6403cebe3a016d52ca2b17642beca2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f4c3fb9e86b5a4c74382a753ce74f2df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +75,13 @@
         }
     ],
     "wof:id":1310180383,
-    "wof:lastmodified":1566610569,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203666,
     "wof:name":"Bobaia",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
@@ -76,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.52016,
-    44.75383,
-    23.52016,
-    44.75383
+    23.511547,
+    44.751333,
+    23.520493,
+    44.755346
 ],
-  "geometry": {"coordinates":[23.52016,44.75383],"type":"Point"}
+  "geometry": {"coordinates":[[[23.516947,44.754343],[23.518338,44.754105],[23.518456,44.754179],[23.518677,44.754589],[23.519628,44.754562],[23.520274,44.754209],[23.51989,44.753717],[23.52043,44.753553],[23.520482,44.753326],[23.520481,44.753017],[23.520493,44.752931],[23.519973,44.752313],[23.520318,44.752173],[23.520285,44.751679],[23.519989,44.751333],[23.518959,44.751537],[23.518698,44.751638],[23.518473,44.751761],[23.518336,44.751591],[23.518264,44.751532],[23.517389,44.751369],[23.516495,44.75188],[23.516564,44.75193],[23.517321,44.752598],[23.517135,44.75285],[23.516489,44.753075],[23.516597,44.753501],[23.515911,44.753566],[23.514639,44.753783],[23.512467,44.754293],[23.512516,44.754507],[23.511547,44.754711],[23.511568,44.754796],[23.511741,44.755297],[23.512254,44.755346],[23.51243,44.75503],[23.512499,44.755009],[23.513818,44.75479],[23.514507,44.754698],[23.515291,44.754642],[23.516748,44.754365],[23.516947,44.754343]]],"type":"Polygon"}
 }

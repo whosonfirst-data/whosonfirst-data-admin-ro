@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.08783,48.01164,27.08783,48.01164",
-    "geom:latitude":48.01164,
-    "geom:longitude":27.08783,
+    "geom:area":0.000049,
+    "geom:area_square_m":404766.209778,
+    "geom:bbox":"27.078247,48.007435,27.088492,48.015331",
+    "geom:latitude":48.011545,
+    "geom:longitude":27.084292,
     "gn:admin1_code":"07",
     "gn:admin2_code":"37958.0",
     "gn:asciiname":"Manoleasa-Prut",
@@ -24,13 +24,23 @@
     "gn:population":124,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.06783,47.99164,27.10783,48.03164",
+    "lbl:latitude":48.012387,
+    "lbl:longitude":27.084707,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":48.012387,
+    "mps:longitude":27.084707,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Manoleasa-Prut"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673906
+        "gn:id":673906,
+        "ro-ancpi:id":38027
     },
     "wof:country":"RO",
-    "wof:geomhash":"73fd49be5a23f0ba825712c52294135e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"491cda88cf56b39a98e789c1d680cd4e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1310296855,
-    "wof:lastmodified":1566610573,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203517,
     "wof:name":"Manoleasa-Prut",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.08783,
-    48.01164,
-    27.08783,
-    48.01164
+    27.078247,
+    48.007435,
+    27.088492,
+    48.015331
 ],
-  "geometry": {"coordinates":[27.08783,48.01164],"type":"Point"}
+  "geometry": {"coordinates":[[[27.087648,48.008359],[27.086947,48.008211],[27.086283,48.008174],[27.085921,48.008233],[27.085723,48.00832],[27.084682,48.008303],[27.08213,48.008218],[27.082027,48.007727],[27.080299,48.007435],[27.079852,48.007644],[27.079139,48.00801],[27.078585,48.008312],[27.078247,48.008806],[27.07869,48.00899],[27.081342,48.00965],[27.082679,48.009914],[27.082533,48.01034],[27.082055,48.011386],[27.081492,48.012613],[27.080975,48.013844],[27.080574,48.014706],[27.08173,48.014999],[27.083781,48.015259],[27.085477,48.015331],[27.087869,48.015217],[27.088414,48.015181],[27.088492,48.015036],[27.088347,48.014327],[27.08813,48.013603],[27.08801,48.013203],[27.087997,48.012868],[27.087715,48.012323],[27.087571,48.011811],[27.087508,48.011031],[27.087572,48.010516],[27.087659,48.009934],[27.087871,48.009708],[27.088034,48.009382],[27.087885,48.008591],[27.087648,48.008359]]],"type":"Polygon"}
 }

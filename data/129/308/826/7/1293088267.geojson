@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.3856,44.81066,22.3856,44.81066",
-    "geom:latitude":44.81066,
-    "geom:longitude":22.3856,
+    "geom:area":0.000029,
+    "geom:area_square_m":257902.539085,
+    "geom:bbox":"22.38555,44.805644,22.391094,44.815912",
+    "geom:latitude":44.810868,
+    "geom:longitude":22.388389,
     "gn:admin1_code":"12",
     "gn:admin2_code":"54387",
     "gn:asciiname":"Barza",
@@ -25,14 +25,18 @@
     "gn:population":602,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.3656,44.79066,22.4056,44.83066",
+    "lbl:latitude":44.81066,
+    "lbl:longitude":22.3856,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Barza"
+    ],
+    "name:ceb_x_variant":[
+        "Comuna B\u00e2rza"
     ],
     "name:deu_x_preferred":[
         "Barza"
@@ -40,20 +44,45 @@
     "name:epo_x_preferred":[
         "Barza"
     ],
+    "name:eus_x_preferred":[
+        "B\u00e2rza"
+    ],
     "name:fra_x_preferred":[
         "Barza"
+    ],
+    "name:ita_x_preferred":[
+        "B\u00e2rza"
+    ],
+    "name:msa_x_preferred":[
+        "B\u00e2rza"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00e2rza"
     ],
     "name:por_x_preferred":[
         "Barza"
     ],
+    "name:por_x_variant":[
+        "B\u00e2rza"
+    ],
     "name:ron_x_preferred":[
-        "Barza"
+        "B\u00e2rza"
+    ],
+    "name:ron_x_variant":[
+        "Barza",
+        "Comuna B\u00e2rza"
     ],
     "name:srp_x_preferred":[
         "Barza"
     ],
+    "name:srp_x_variant":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0411\u0430\u0440\u0437\u0430"
+    ],
     "name:swe_x_preferred":[
         "Barza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0440\u0437\u0430"
     ],
     "name:und_x_variant":[
         "B\u00eerza",
@@ -63,7 +92,20 @@
     "name:vie_x_preferred":[
         "Barza"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_variant":[
+        "B\u00e2rza"
+    ],
+    "name:vol_x_preferred":[
+        "B\u00e2rza"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u723e\u624e\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +114,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684733
+        "gn:id":684733,
+        "ro-ancpi:id":54403
     },
     "wof:country":"RO",
-    "wof:geomhash":"f58625633a3427b04e8a9432c043db13",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c4b4e90c20c8fc13f1b7eab11812f03",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,8 +131,14 @@
         }
     ],
     "wof:id":1293088267,
-    "wof:lastmodified":1566610039,
-    "wof:name":"Barza",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203617,
+    "wof:name":"B\u00e2rza",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":602,
@@ -97,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.3856,
-    44.81066,
-    22.3856,
-    44.81066
+    22.38555,
+    44.805644,
+    22.391094,
+    44.815912
 ],
-  "geometry": {"coordinates":[22.3856,44.81066],"type":"Point"}
+  "geometry": {"coordinates":[[[22.388185,44.805657],[22.387691,44.805644],[22.386583,44.807324],[22.386181,44.807913],[22.385661,44.809275],[22.38555,44.809802],[22.385583,44.810976],[22.385912,44.811309],[22.386582,44.811907],[22.387593,44.813003],[22.388845,44.814181],[22.389549,44.815106],[22.390248,44.815783],[22.390396,44.815912],[22.391039,44.815689],[22.391076,44.815237],[22.391084,44.814014],[22.391094,44.813565],[22.390872,44.812805],[22.390571,44.811741],[22.390337,44.810341],[22.390259,44.809884],[22.389514,44.809556],[22.389073,44.808848],[22.388858,44.807825],[22.388421,44.807153],[22.38831,44.806424],[22.388185,44.805657]]],"type":"Polygon"}
 }

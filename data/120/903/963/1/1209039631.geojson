@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.19353,46.20401,27.19353,46.20401",
-    "geom:latitude":46.20401,
-    "geom:longitude":27.19353,
+    "geom:area":0.000026,
+    "geom:area_square_m":225879.456994,
+    "geom:bbox":"27.187142,46.200788,27.194439,46.211478",
+    "geom:latitude":46.206002,
+    "geom:longitude":27.19091,
     "gn:admin1_code":"04",
     "gn:admin2_code":"25745.0",
     "gn:asciiname":"Cornii de Jos",
@@ -24,33 +24,57 @@
     "gn:population":152,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.17353,46.18401,27.21353,46.22401",
+    "lbl:latitude":46.202981,
+    "lbl:longitude":27.191925,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.202981,
+    "mps:longitude":27.191925,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cornii de Jos"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687715
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680736
+        "gn:id":680736,
+        "ro-ancpi:id":25763
     },
     "wof:country":"RO",
-    "wof:geomhash":"3a13fd67d5b295eb0bd8b8649eab5c51",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c993d6607cf049ec8eea83d07c344469",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209039631
+            "locality_id":1209039631,
+            "region_id":85687715
         }
     ],
     "wof:id":1209039631,
-    "wof:lastmodified":1566610353,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203542,
     "wof:name":"Cornii de Jos",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":152,
     "wof:population_rank":1,
@@ -60,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.19353,
-    46.20401,
-    27.19353,
-    46.20401
+    27.187142,
+    46.200788,
+    27.194439,
+    46.211478
 ],
-  "geometry": {"coordinates":[27.19353,46.20401],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.191133,46.207227],[27.191049,46.206827],[27.192114,46.20693],[27.192103,46.205575],[27.191652,46.205422],[27.193863,46.20323],[27.194439,46.202075],[27.193789,46.202299],[27.193753,46.201792],[27.192599,46.201455],[27.192378,46.20085],[27.19168,46.200788],[27.191533,46.200961],[27.190969,46.20096],[27.190776,46.201852],[27.190304,46.201809],[27.189871,46.203591],[27.190786,46.203982],[27.190694,46.204131],[27.190324,46.204478],[27.18972,46.205313],[27.18957,46.205652],[27.18951,46.206133],[27.189371,46.207038],[27.190023,46.207188],[27.190064,46.207367],[27.191133,46.207227]]],[[[27.192214,46.210951],[27.191271,46.209442],[27.191509,46.209392],[27.191242,46.208855],[27.190678,46.208813],[27.189563,46.208652],[27.189535,46.20868],[27.189001,46.208458],[27.188649,46.209197],[27.187381,46.209116],[27.187142,46.210263],[27.187705,46.210284],[27.187643,46.210925],[27.189386,46.210797],[27.18942,46.210672],[27.190227,46.210714],[27.190325,46.211478],[27.191074,46.211435],[27.192214,46.210951]]]],"type":"MultiPolygon"}
 }

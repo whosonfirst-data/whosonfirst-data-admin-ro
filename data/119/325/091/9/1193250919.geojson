@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.20074,44.82049,25.20074,44.82049",
-    "geom:latitude":44.82049,
-    "geom:longitude":25.20074,
+    "geom:area":0.000014,
+    "geom:area_square_m":119816.951766,
+    "geom:bbox":"25.197173,44.817122,25.20159,44.82401",
+    "geom:latitude":44.82052,
+    "geom:longitude":25.199331,
     "gn:admin1_code":"16",
     "gn:admin2_code":"69170.0",
     "gn:asciiname":"Stratonesti",
@@ -24,13 +24,26 @@
     "gn:population":42,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.18074,44.80049,25.22074,44.84049",
+    "lbl:latitude":44.820482,
+    "lbl:longitude":25.199364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.820482,
+    "mps:longitude":25.199364,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Stratone\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stratonesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666001
+        "gn:id":666001,
+        "ro-ancpi:id":69232
     },
     "wof:country":"RO",
-    "wof:geomhash":"ad0574a20de6e057a1710cd52a4b7115",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"889007aa00886532d60b79480871f63b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1193250919,
-    "wof:lastmodified":1566610434,
-    "wof:name":"Stratonesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203721,
+    "wof:name":"Stratone\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":42,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.20074,
-    44.82049,
-    25.20074,
-    44.82049
+    25.197173,
+    44.817122,
+    25.20159,
+    44.82401
 ],
-  "geometry": {"coordinates":[25.20074,44.82049],"type":"Point"}
+  "geometry": {"coordinates":[[[25.20159,44.817404],[25.199833,44.817122],[25.199222,44.818658],[25.198791,44.818857],[25.198182,44.820919],[25.197692,44.821775],[25.197173,44.823158],[25.197268,44.823882],[25.198902,44.82401],[25.199022,44.823199],[25.199573,44.822013],[25.200462,44.820546],[25.200584,44.820345],[25.201073,44.819291],[25.20159,44.817404]]],"type":"Polygon"}
 }

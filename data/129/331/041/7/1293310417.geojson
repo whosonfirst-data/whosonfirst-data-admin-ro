@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.98614,46.37442,22.98614,46.37442",
-    "geom:latitude":46.37442,
-    "geom:longitude":22.98614,
+    "geom:area":0.000012,
+    "geom:area_square_m":105119.81632,
+    "geom:bbox":"22.99109,46.368616,23.001428,46.371959",
+    "geom:latitude":46.370822,
+    "geom:longitude":22.996187,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Puiuletesti",
@@ -24,13 +24,26 @@
     "gn:population":76,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.96614,46.35442,23.00614,46.39442",
+    "lbl:latitude":46.371292,
+    "lbl:longitude":22.994498,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.371292,
+    "mps:longitude":22.994498,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Puiule\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Puiuletesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669497
+        "gn:id":669497,
+        "ro-ancpi:id":8737
     },
     "wof:country":"RO",
-    "wof:geomhash":"cf0c9a63f6ddba67f04753a58299aa16",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"715f43ed34cd3c06bdb43c77ef071b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293310417,
-    "wof:lastmodified":1566610030,
-    "wof:name":"Puiuletesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203751,
+    "wof:name":"Puiule\u0163e\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":76,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.98614,
-    46.37442,
-    22.98614,
-    46.37442
+    22.99109,
+    46.368616,
+    23.001428,
+    46.371959
 ],
-  "geometry": {"coordinates":[22.98614,46.37442],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.997964,46.370786],[22.997027,46.370679],[22.997313,46.369612],[22.997773,46.369046],[22.997173,46.368616],[22.996283,46.369446],[22.996185,46.370624],[22.99417,46.370822],[22.993355,46.370124],[22.992898,46.370062],[22.99109,46.370612],[22.991564,46.371533],[22.992068,46.3714],[22.993376,46.371687],[22.993604,46.37188],[22.994565,46.371788],[22.995773,46.371513],[22.997302,46.371769],[22.997964,46.370786]]],[[[22.997964,46.370786],[22.999404,46.371494],[23.000824,46.371959],[23.001428,46.371462],[23.000755,46.370889],[22.999074,46.369805],[22.997964,46.370786]]]],"type":"MultiPolygon"}
 }

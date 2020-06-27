@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.91998,46.37685,22.91998,46.37685",
-    "geom:latitude":46.37685,
-    "geom:longitude":22.91998,
+    "geom:area":0.000013,
+    "geom:area_square_m":106790.797845,
+    "geom:bbox":"22.915764,46.375108,22.925592,46.379094",
+    "geom:latitude":46.376834,
+    "geom:longitude":22.920854,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Goiesti",
@@ -24,17 +24,47 @@
     "gn:population":79,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.89998,46.35685,22.93998,46.39685",
+    "lbl:latitude":46.37685,
+    "lbl:longitude":22.91998,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "Goie\u015fti"
+    ],
+    "name:nld_x_preferred":[
+        "Goie\u0219ti"
+    ],
+    "name:por_x_preferred":[
+        "Goie\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Goie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Goiesti",
+        "Goie\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0454\u0448\u0442\u044c"
+    ],
     "name:und_x_variant":[
         "Goie\u015fti",
         "Goe\u015fti"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Goiesti"
+    ],
+    "name:vol_x_preferred":[
+        "Goie\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -43,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676994
+        "gn:id":676994,
+        "ro-ancpi:id":8568
     },
     "wof:country":"RO",
-    "wof:geomhash":"76e26a3bb9ce7912160d3ef385e1c215",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c09dbca7888471fb62086d996b82f62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +90,14 @@
         }
     ],
     "wof:id":1327047829,
-    "wof:lastmodified":1566609821,
-    "wof:name":"Goiesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203748,
+    "wof:name":"Goie\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":79,
@@ -68,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.91998,
-    46.37685,
-    22.91998,
-    46.37685
+    22.915764,
+    46.375108,
+    22.925592,
+    46.379094
 ],
-  "geometry": {"coordinates":[22.91998,46.37685],"type":"Point"}
+  "geometry": {"coordinates":[[[22.917426,46.375357],[22.916724,46.375915],[22.916562,46.376044],[22.916367,46.376144],[22.916207,46.376226],[22.915858,46.376349],[22.915764,46.376424],[22.917233,46.376651],[22.918905,46.377134],[22.919445,46.377292],[22.920969,46.377422],[22.920788,46.378003],[22.921192,46.378485],[22.92107,46.379094],[22.921906,46.378959],[22.922057,46.378464],[22.921667,46.378471],[22.922089,46.377429],[22.92196,46.377288],[22.922553,46.377139],[22.922835,46.377526],[22.923413,46.377519],[22.923447,46.377813],[22.925306,46.377835],[22.925462,46.377474],[22.925216,46.377399],[22.925592,46.376878],[22.924801,46.376754],[22.924355,46.376615],[22.922621,46.376355],[22.920188,46.376258],[22.920533,46.375442],[22.919933,46.375108],[22.919548,46.375836],[22.918736,46.37575],[22.917426,46.375357]]],"type":"Polygon"}
 }

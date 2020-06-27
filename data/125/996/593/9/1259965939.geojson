@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.57358,46.69914,23.57358,46.69914",
-    "geom:latitude":46.69914,
-    "geom:longitude":23.57358,
+    "geom:area":0.000012,
+    "geom:area_square_m":100893.311087,
+    "geom:bbox":"23.568382,46.696475,23.575812,46.699741",
+    "geom:latitude":46.697922,
+    "geom:longitude":23.572457,
     "gn:admin1_code":"13",
     "gn:admin2_code":"57582.0",
     "gn:asciiname":"Casele Micesti",
@@ -24,19 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.55358,46.67914,23.59358,46.71914",
+    "lbl:latitude":46.69914,
+    "lbl:longitude":23.57358,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Kaszoly"
     ],
+    "name:ron_x_preferred":[
+        "Casele Mice\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Casele Micesti"
+    ],
     "name:und_x_variant":[
         "Casele Mice\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682611
+        "gn:id":682611,
+        "ro-ancpi:id":57608
     },
     "wof:country":"RO",
-    "wof:geomhash":"ab8a3109d4bc9b66fc46033c9646193d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"83483fe3bef5f9768c7435d0c2deccd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1259965939,
-    "wof:lastmodified":1566611541,
-    "wof:name":"Casele Micesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203423,
+    "wof:name":"Casele Mice\u015fti",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.57358,
-    46.69914,
-    23.57358,
-    46.69914
+    23.568382,
+    46.696475,
+    23.575812,
+    46.699741
 ],
-  "geometry": {"coordinates":[23.57358,46.69914],"type":"Point"}
+  "geometry": {"coordinates":[[[23.57525,46.697685],[23.574625,46.69725],[23.573461,46.696475],[23.570921,46.697245],[23.569683,46.697068],[23.569159,46.696599],[23.568382,46.697489],[23.568814,46.697737],[23.569822,46.698159],[23.57079,46.698401],[23.571555,46.698521],[23.571419,46.698792],[23.572503,46.699191],[23.573397,46.699465],[23.573728,46.699695],[23.573808,46.699741],[23.573925,46.699644],[23.574411,46.698962],[23.575812,46.698184],[23.575407,46.697689],[23.57525,46.697685]]],"type":"Polygon"}
 }

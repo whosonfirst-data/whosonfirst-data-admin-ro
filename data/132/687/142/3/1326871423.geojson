@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.85365,45.91209,23.85365,45.91209",
-    "geom:latitude":45.91209,
-    "geom:longitude":23.85365,
+    "geom:area":0.000073,
+    "geom:area_square_m":630700.918576,
+    "geom:bbox":"23.844434,45.906372,23.857528,45.917976",
+    "geom:latitude":45.912282,
+    "geom:longitude":23.851603,
     "gn:admin1_code":"33",
     "gn:admin2_code":"143922.0",
     "gn:asciiname":"Sangatin",
@@ -25,17 +25,28 @@
     "gn:population":365,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.83365,45.89209,23.87365,45.93209",
+    "lbl:latitude":45.91209,
+    "lbl:longitude":23.85365,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u00e2ng\u0103tin"
+    ],
+    "name:ron_x_variant":[
+        "Sangatin"
+    ],
     "name:und_x_variant":[
         "S\u00e2ng\u0103tin",
         "S\u00eeng\u0103tin"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667038
+        "gn:id":667038,
+        "ro-ancpi:id":143940
     },
     "wof:country":"RO",
-    "wof:geomhash":"3a8f3fa039d478f37a0f96556ebe65c0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bcbec51d501054c1abce99f726214aea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1326871423,
-    "wof:lastmodified":1566609780,
-    "wof:name":"Sangatin",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203652,
+    "wof:name":"S\u00e2ng\u0103tin",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":365,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.85365,
-    45.91209,
-    23.85365,
-    45.91209
+    23.844434,
+    45.906372,
+    23.857528,
+    45.917976
 ],
-  "geometry": {"coordinates":[23.85365,45.91209],"type":"Point"}
+  "geometry": {"coordinates":[[[23.855932,45.915547],[23.856815,45.913916],[23.857271,45.91234],[23.857528,45.911835],[23.856502,45.911201],[23.854807,45.909084],[23.852036,45.909963],[23.851437,45.909112],[23.853753,45.908112],[23.853839,45.907333],[23.85301,45.907391],[23.853004,45.907293],[23.854437,45.90673],[23.85427,45.906372],[23.852767,45.906951],[23.849452,45.907126],[23.847265,45.909125],[23.84941,45.912349],[23.844553,45.913191],[23.844434,45.913486],[23.844964,45.91519],[23.845673,45.915138],[23.848482,45.914726],[23.851306,45.914432],[23.849682,45.917381],[23.851648,45.917976],[23.853418,45.916787],[23.853665,45.915742],[23.854771,45.915614],[23.855932,45.915547]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.4,47.65,23.4,47.65",
-    "geom:latitude":47.65,
-    "geom:longitude":23.4,
+    "geom:area":0.000118,
+    "geom:area_square_m":981983.40404,
+    "geom:bbox":"23.387394,47.628568,23.408618,47.646877",
+    "geom:latitude":47.638034,
+    "geom:longitude":23.398953,
     "gn:admin1_code":"25",
     "gn:admin2_code":"107001",
     "gn:asciiname":"Ariesu de Camp",
@@ -24,19 +24,32 @@
     "gn:population":274,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.38,47.63,23.42,47.67",
+    "lbl:latitude":47.640541,
+    "lbl:longitude":23.401499,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.640541,
+    "mps:longitude":23.401499,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Mez\u0151aranyos"
     ],
+    "name:ron_x_preferred":[
+        "Arie\u015fu de C\u00e2mp"
+    ],
+    "name:ron_x_variant":[
+        "Ariesu de Camp"
+    ],
     "name:und_x_variant":[
         "Arie\u0219u de C\u00eemp"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686165
+        "gn:id":686165,
+        "ro-ancpi:id":107029
     },
     "wof:country":"RO",
-    "wof:geomhash":"480f2fb9dbb93b3a749f5857a87dda46",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f13af29fb19eb2fa8557715799bcb7a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1277029715,
-    "wof:lastmodified":1566610217,
-    "wof:name":"Ariesu de Camp",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203354,
+    "wof:name":"Arie\u015fu de C\u00e2mp",
     "wof:parent_id":85687761,
     "wof:placetype":"locality",
     "wof:population":274,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.4,
-    47.65,
-    23.4,
-    47.65
+    23.387394,
+    47.628568,
+    23.408618,
+    47.646877
 ],
-  "geometry": {"coordinates":[23.4,47.65],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.403389,47.644295],[23.404718,47.644211],[23.406042,47.644339],[23.40617,47.642872],[23.406241,47.642494],[23.406962,47.641989],[23.408102,47.641787],[23.407624,47.640374],[23.407882,47.640212],[23.407735,47.64004],[23.406686,47.63908],[23.406446,47.63886],[23.405836,47.639129],[23.40458,47.637423],[23.403617,47.636767],[23.40168,47.636214],[23.400557,47.635663],[23.400508,47.634769],[23.396491,47.633958],[23.395336,47.632972],[23.394468,47.631094],[23.390876,47.629683],[23.390624,47.629438],[23.390283,47.629013],[23.389975,47.628568],[23.388466,47.629669],[23.387394,47.63159],[23.390965,47.632295],[23.392312,47.634312],[23.394313,47.636074],[23.395732,47.638744],[23.395875,47.639792],[23.39696,47.641149],[23.399962,47.645628],[23.402294,47.64461],[23.403389,47.644295]]],[[[23.408618,47.646317],[23.407788,47.646072],[23.407427,47.646633],[23.408256,47.646877],[23.408618,47.646317]]]],"type":"MultiPolygon"}
 }

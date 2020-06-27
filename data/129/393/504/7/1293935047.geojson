@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.53076,46.68567,27.53076,46.68567",
-    "geom:latitude":46.68567,
-    "geom:longitude":27.53076,
+    "geom:area":0.000128,
+    "geom:area_square_m":1088369.423764,
+    "geom:bbox":"27.520206,46.677261,27.536791,46.69238",
+    "geom:latitude":46.685379,
+    "geom:longitude":27.529631,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163379.0",
     "gn:asciiname":"Fundatura",
@@ -24,13 +24,36 @@
     "gn:population":648,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.51076,46.66567,27.55076,46.70567",
+    "lbl:latitude":46.68567,
+    "lbl:longitude":27.53076,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Fund\u0103tura"
+    ],
+    "name:deu_x_preferred":[
+        "Fund\u0103tura"
+    ],
+    "name:epo_x_preferred":[
+        "Fund\u0103tura"
+    ],
+    "name:ron_x_preferred":[
+        "Fund\u0103tura"
+    ],
+    "name:ron_x_variant":[
+        "Fundatura"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0443\u043d\u0434\u0430\u0442\u0443\u0440\u0430"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677824
+        "gn:id":677824,
+        "ro-ancpi:id":163431
     },
     "wof:country":"RO",
-    "wof:geomhash":"97b1e59b192577f7cfbf7b3a5475404c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2e5fc3424a47a8a24e8141884a7806fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +79,14 @@
         }
     ],
     "wof:id":1293935047,
-    "wof:lastmodified":1566610103,
-    "wof:name":"Fundatura",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203465,
+    "wof:name":"Fund\u0103tura",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":648,
@@ -64,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.53076,
-    46.68567,
-    27.53076,
-    46.68567
+    27.520206,
+    46.677261,
+    27.536791,
+    46.69238
 ],
-  "geometry": {"coordinates":[27.53076,46.68567],"type":"Point"}
+  "geometry": {"coordinates":[[[27.536776,46.689935],[27.53675,46.689283],[27.535917,46.689716],[27.535267,46.690055],[27.534198,46.688777],[27.531772,46.688369],[27.532328,46.687311],[27.531382,46.687067],[27.53256,46.68461],[27.533591,46.684766],[27.533956,46.684188],[27.533326,46.683972],[27.533937,46.682883],[27.534999,46.682977],[27.535756,46.681427],[27.536361,46.679147],[27.53419,46.678456],[27.534401,46.678093],[27.532191,46.677261],[27.529303,46.679416],[27.529246,46.67945],[27.525878,46.678169],[27.525413,46.678726],[27.523608,46.678156],[27.522811,46.679044],[27.524731,46.679604],[27.524591,46.679855],[27.527347,46.680395],[27.527087,46.68143],[27.526255,46.682508],[27.526107,46.683788],[27.525195,46.686083],[27.526737,46.686448],[27.526248,46.687414],[27.525351,46.688586],[27.523242,46.687443],[27.521326,46.689329],[27.520405,46.690393],[27.520206,46.690529],[27.524345,46.690837],[27.528145,46.691873],[27.527829,46.692273],[27.53164,46.69238],[27.533992,46.692148],[27.534425,46.691548],[27.535827,46.6914],[27.535676,46.690353],[27.53624,46.690329],[27.536791,46.690304],[27.536776,46.689935]]],"type":"Polygon"}
 }

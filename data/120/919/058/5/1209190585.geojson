@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.56087,44.38718,23.56087,44.38718",
-    "geom:latitude":44.38718,
-    "geom:longitude":23.56087,
+    "geom:area":0.000023,
+    "geom:area_square_m":200132.079272,
+    "geom:bbox":"23.5554,44.382464,23.563307,44.388269",
+    "geom:latitude":44.38551,
+    "geom:longitude":23.55958,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74242.0",
     "gn:asciiname":"Pereni",
@@ -25,42 +25,66 @@
     "gn:population":74,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.54087,44.36718,23.58087,44.40718",
+    "lbl:latitude":44.385473,
+    "lbl:longitude":23.55952,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.385473,
+    "mps:longitude":23.55952,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "Pereni"
     ],
     "name:ron_x_preferred":[
+        "Pereni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Pereni"
     ],
     "name:und_x_variant":[
         "Perieni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687581
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671149
+        "gn:id":671149,
+        "ro-ancpi:id":74297
     },
     "wof:country":"RO",
-    "wof:geomhash":"5bd831345dc084a26cd392fc6fe1b4a8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d3ddac4f68f5fe2a3ff5be7921d9362f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209190585
+            "locality_id":1209190585,
+            "region_id":85687581
         }
     ],
     "wof:id":1209190585,
-    "wof:lastmodified":1566610389,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203320,
     "wof:name":"Pereni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":74,
     "wof:population_rank":1,
@@ -70,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.56087,
-    44.38718,
-    23.56087,
-    44.38718
+    23.5554,
+    44.382464,
+    23.563307,
+    44.388269
 ],
-  "geometry": {"coordinates":[23.56087,44.38718],"type":"Point"}
+  "geometry": {"coordinates":[[[23.556376,44.388269],[23.556823,44.38809],[23.557175,44.388189],[23.558098,44.387915],[23.558533,44.387775],[23.559752,44.387253],[23.560913,44.386696],[23.562447,44.385991],[23.562656,44.385754],[23.562873,44.384274],[23.563307,44.383956],[23.562516,44.383385],[23.561485,44.382464],[23.560606,44.382912],[23.559951,44.383321],[23.559408,44.383665],[23.558717,44.383972],[23.558293,44.384228],[23.557732,44.384561],[23.557684,44.384866],[23.557534,44.385038],[23.557241,44.385315],[23.5569,44.385593],[23.556747,44.385865],[23.556826,44.386105],[23.556774,44.386316],[23.556371,44.386563],[23.556042,44.386725],[23.55584,44.386812],[23.555444,44.386975],[23.5554,44.38713],[23.556376,44.388269]]],"type":"Polygon"}
 }

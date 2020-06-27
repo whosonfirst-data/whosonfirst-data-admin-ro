@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.13264,46.80146,28.13264,46.80146",
-    "geom:latitude":46.80146,
-    "geom:longitude":28.13264,
+    "geom:area":0.000019,
+    "geom:area_square_m":158473.073067,
+    "geom:bbox":"28.116214,46.80545,28.126359,46.818356",
+    "geom:latitude":46.809023,
+    "geom:longitude":28.120758,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163618.0",
     "gn:asciiname":"Dranceni",
@@ -25,14 +25,23 @@
     "gn:population":438,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.11264,46.78146,28.15264,46.82146",
+    "lbl:latitude":46.807614,
+    "lbl:longitude":28.120273,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.807614,
+    "mps:longitude":28.120273,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Dr\u00e2nceni"
+    ],
+    "name:ces_x_preferred":[
+        "Dr\u00e2nceni"
+    ],
+    "name:eus_x_preferred":[
+        "Dr\u00e2nceni"
     ],
     "name:ita_x_preferred":[
         "Dr\u00e2nceni"
@@ -47,7 +56,11 @@
         "Dr\u00e2nceni"
     ],
     "name:ron_x_preferred":[
-        "Comuna Dr\u00e2nceni"
+        "Dr\u00e2nceni"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Dr\u00e2nceni",
+        "Dranceni"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0414\u0440\u0430\u043d\u0447\u0435\u043d\u0438"
@@ -61,10 +74,17 @@
         "Dr\u00eenceni-T\u00eerg",
         "Dr\u00e2nceni T\u00e2rg"
     ],
+    "name:vie_x_preferred":[
+        "Dr\u00e2nceni"
+    ],
     "name:zho_x_preferred":[
         "\u5fb7\u502b\u5207\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -74,10 +94,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":678823,
+        "ro-ancpi:id":163627,
         "wk:page":"Dr%C3%A2nceni"
     },
     "wof:country":"RO",
-    "wof:geomhash":"d809c4f97e02ae8af5bca83e25df5525",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4530b3d0bf9f06aaa47372370f87fb17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,8 +111,14 @@
         }
     ],
     "wof:id":1326769145,
-    "wof:lastmodified":1566609823,
-    "wof:name":"Dranceni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203462,
+    "wof:name":"Dr\u00e2nceni",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":438,
@@ -99,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.13264,
-    46.80146,
-    28.13264,
-    46.80146
+    28.116214,
+    46.80545,
+    28.126359,
+    46.818356
 ],
-  "geometry": {"coordinates":[28.13264,46.80146],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.122633,46.807807],[28.123001,46.807543],[28.124064,46.80733],[28.125212,46.807053],[28.126158,46.806825],[28.126359,46.806817],[28.126306,46.806505],[28.125761,46.806151],[28.125453,46.805905],[28.124498,46.805755],[28.124165,46.805755],[28.123469,46.80545],[28.123312,46.805594],[28.123133,46.805827],[28.122927,46.806026],[28.122936,46.806175],[28.1228,46.806495],[28.122596,46.80672],[28.122043,46.806902],[28.121352,46.807333],[28.121239,46.807143],[28.121017,46.80685],[28.120495,46.806452],[28.120214,46.806679],[28.119573,46.806661],[28.118714,46.807071],[28.117925,46.807803],[28.117342,46.807898],[28.116856,46.807903],[28.116707,46.807986],[28.117014,46.808425],[28.116932,46.808559],[28.116344,46.809014],[28.116214,46.80943],[28.116503,46.809993],[28.116948,46.810174],[28.117399,46.810223],[28.117761,46.810082],[28.118436,46.80958],[28.11904,46.809178],[28.119518,46.808814],[28.120399,46.808562],[28.121544,46.808223],[28.122633,46.807807]]],[[[28.12196,46.818356],[28.122652,46.817551],[28.122656,46.817367],[28.12123,46.817152],[28.121295,46.816818],[28.120181,46.816685],[28.120129,46.817119],[28.119852,46.81711],[28.119548,46.81744],[28.120843,46.817896],[28.120929,46.817799],[28.12196,46.818356]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.43917,45.62201,21.43917,45.62201",
-    "geom:latitude":45.62201,
-    "geom:longitude":21.43917,
+    "geom:area":0.000094,
+    "geom:area_square_m":809871.733266,
+    "geom:bbox":"21.429651,45.615407,21.443925,45.626749",
+    "geom:latitude":45.621688,
+    "geom:longitude":21.436776,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158449.0",
     "gn:asciiname":"Otvesti",
@@ -25,38 +25,63 @@
     "gn:population":279,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.41917,45.60201,21.45917,45.64201",
+    "lbl:latitude":45.62201,
+    "lbl:longitude":21.43917,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Otve\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Otvesti"
+    ],
     "name:und_x_variant":[
         "E\u00f6tv\u00f6sfalva",
         "\u00d6tv\u00f6sd",
         "Otve\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687655
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671587
+        "gn:id":671587,
+        "ro-ancpi:id":158485
     },
     "wof:country":"RO",
-    "wof:geomhash":"96ac53f07f75ab75e148314e65ab34c6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fa143d85cee067e86b15d59dbf588375",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209455137
+            "locality_id":1209455137,
+            "region_id":85687655
         }
     ],
     "wof:id":1209455137,
-    "wof:lastmodified":1566610386,
-    "wof:name":"Otvesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203738,
+    "wof:name":"Otve\u015fti",
+    "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":279,
     "wof:population_rank":2,
@@ -66,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.43917,
-    45.62201,
-    21.43917,
-    45.62201
+    21.429651,
+    45.615407,
+    21.443925,
+    45.626749
 ],
-  "geometry": {"coordinates":[21.43917,45.62201],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.435514,45.626749],[21.435698,45.624565],[21.437401,45.62468],[21.43742,45.624484],[21.44337,45.624804],[21.443679,45.621856],[21.443925,45.618645],[21.437218,45.618261],[21.437211,45.617384],[21.434993,45.617258],[21.433912,45.617225],[21.433698,45.617754],[21.433469,45.618033],[21.432279,45.618022],[21.432088,45.619174],[21.431159,45.619193],[21.431102,45.619681],[21.431068,45.620496],[21.431235,45.620538],[21.431139,45.621724],[21.430813,45.621716],[21.429781,45.621716],[21.429651,45.624233],[21.431739,45.624201],[21.431619,45.626483],[21.433375,45.626579],[21.435514,45.626749]]],[[[21.437673,45.615913],[21.437671,45.615448],[21.436179,45.615407],[21.436178,45.616108],[21.43768,45.61614],[21.437673,45.615913]]]],"type":"MultiPolygon"}
 }

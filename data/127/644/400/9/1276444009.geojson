@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.06451,45.35478,25.06451,45.35478",
-    "geom:latitude":45.35478,
-    "geom:longitude":25.06451,
+    "geom:area":0.000016,
+    "geom:area_square_m":140937.274097,
+    "geom:bbox":"25.059883,45.348133,25.064018,45.357514",
+    "geom:latitude":45.352759,
+    "geom:longitude":25.062723,
     "gn:admin1_code":"03",
     "gn:admin2_code":"16908.0",
     "gn:asciiname":"Pojorata",
@@ -24,13 +24,63 @@
     "gn:population":496,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.04451,45.33478,25.08451,45.37478",
+    "lbl:latitude":45.355269,
+    "lbl:longitude":25.062754,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.355269,
+    "mps:longitude":25.062754,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Comuna Pojor\u00e2ta"
+    ],
+    "name:eus_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:ita_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:msa_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:nld_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:pol_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:por_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:ron_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:ron_x_variant":[
+        "Pojorata",
+        "Comuna Pojor\u00e2ta"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u043e\u0436\u043e\u0440\u0430\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0436\u043e\u0440\u0438\u0442\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:vol_x_preferred":[
+        "Pojor\u00e2ta"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u82e5\u52d2\u5854\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669970
+        "gn:id":669970,
+        "ro-ancpi:id":16926
     },
     "wof:country":"RO",
-    "wof:geomhash":"9955930ec9bb0380fa630bf1187efd1c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5a8c6b6b93c8362ade5b4426d3d36d38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +106,14 @@
         }
     ],
     "wof:id":1276444009,
-    "wof:lastmodified":1566610171,
-    "wof:name":"Pojorata",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203635,
+    "wof:name":"Pojor\u00e2ta",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":496,
@@ -64,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.06451,
-    45.35478,
-    25.06451,
-    45.35478
+    25.059883,
+    45.348133,
+    25.064018,
+    45.357514
 ],
-  "geometry": {"coordinates":[25.06451,45.35478],"type":"Point"}
+  "geometry": {"coordinates":[[[25.063817,45.354116],[25.063839,45.353185],[25.063914,45.352293],[25.063912,45.35115],[25.064018,45.350515],[25.064013,45.34984],[25.064013,45.349092],[25.06363,45.349165],[25.063403,45.349159],[25.062846,45.348926],[25.062539,45.348795],[25.062756,45.348494],[25.06205,45.348133],[25.061807,45.348176],[25.061624,45.348581],[25.061451,45.349072],[25.061207,45.349385],[25.061138,45.349821],[25.060938,45.350392],[25.061766,45.350477],[25.062526,45.350573],[25.062605,45.350972],[25.062561,45.351266],[25.061647,45.351181],[25.061621,45.351482],[25.06271,45.351524],[25.062849,45.351499],[25.062875,45.351886],[25.062911,45.352536],[25.062929,45.353353],[25.062947,45.353574],[25.062947,45.353647],[25.062703,45.353641],[25.061859,45.353623],[25.06131,45.353605],[25.060622,45.353605],[25.060039,45.353569],[25.059962,45.353676],[25.059883,45.353922],[25.060158,45.353943],[25.060195,45.353771],[25.060458,45.353645],[25.06077,45.353671],[25.061284,45.353856],[25.061786,45.3539],[25.06197,45.353931],[25.061782,45.354455],[25.061705,45.354901],[25.06159,45.355313],[25.061334,45.355412],[25.061252,45.355899],[25.061465,45.355915],[25.061461,45.35615],[25.06164,45.356507],[25.061925,45.356803],[25.062031,45.356929],[25.062432,45.357065],[25.062616,45.357201],[25.062612,45.357344],[25.062604,45.357419],[25.062656,45.357437],[25.062955,45.357514],[25.063489,45.35646],[25.063882,45.355528],[25.063833,45.354374],[25.063817,45.354116]]],"type":"Polygon"}
 }

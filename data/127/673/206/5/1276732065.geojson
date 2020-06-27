@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.57197,44.76782,25.57197,44.76782",
-    "geom:latitude":44.76782,
-    "geom:longitude":25.57197,
+    "geom:area":0.000021,
+    "geom:area_square_m":186218.49492,
+    "geom:bbox":"25.561917,44.76601,25.574721,44.769805",
+    "geom:latitude":44.767524,
+    "geom:longitude":25.568592,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68789.0",
     "gn:asciiname":"Movila",
@@ -24,13 +24,17 @@
     "gn:population":228,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.55197,44.74782,25.59197,44.78782",
+    "lbl:latitude":44.76782,
+    "lbl:longitude":25.57197,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Movila"
+    ],
+    "name:eus_x_preferred":[
         "Movila"
     ],
     "name:fra_x_preferred":[
@@ -51,7 +55,11 @@
     "name:vie_x_preferred":[
         "Movila"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672750
+        "gn:id":672750,
+        "ro-ancpi:id":68850
     },
     "wof:country":"RO",
-    "wof:geomhash":"dcba85b5a42bd4acf87a9a6a04b0aae6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"339e704b3e5ef31c7ea762636543ed7b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +85,13 @@
         }
     ],
     "wof:id":1276732065,
-    "wof:lastmodified":1566610181,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203720,
     "wof:name":"Movila",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -85,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.57197,
-    44.76782,
-    25.57197,
-    44.76782
+    25.561917,
+    44.76601,
+    25.574721,
+    44.769805
 ],
-  "geometry": {"coordinates":[25.57197,44.76782],"type":"Point"}
+  "geometry": {"coordinates":[[[25.574401,44.768354],[25.574721,44.767676],[25.573956,44.767488],[25.573448,44.767358],[25.573472,44.767112],[25.569052,44.766445],[25.566146,44.76601],[25.566141,44.766211],[25.565759,44.766251],[25.564779,44.766342],[25.563894,44.766457],[25.563029,44.766643],[25.562561,44.766822],[25.561917,44.768356],[25.562631,44.768492],[25.564251,44.767967],[25.565136,44.767805],[25.566614,44.767835],[25.567508,44.767912],[25.569566,44.768141],[25.57075,44.768331],[25.572567,44.76871],[25.572192,44.769449],[25.572952,44.769583],[25.573606,44.769805],[25.573911,44.769228],[25.574401,44.768354]]],"type":"Polygon"}
 }

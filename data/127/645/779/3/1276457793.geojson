@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.96193,46.38356,22.96193,46.38356",
-    "geom:latitude":46.38356,
-    "geom:longitude":22.96193,
+    "geom:area":0.000022,
+    "geom:area_square_m":189762.242791,
+    "geom:bbox":"22.962976,46.373064,22.976735,46.381342",
+    "geom:latitude":46.377002,
+    "geom:longitude":22.968322,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Ficaresti",
@@ -24,13 +24,26 @@
     "gn:population":62,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.94193,46.36356,22.98193,46.40356",
+    "lbl:latitude":46.375899,
+    "lbl:longitude":22.973667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.375899,
+    "mps:longitude":22.973667,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Fic\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ficaresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678293
+        "gn:id":678293,
+        "ro-ancpi:id":8540
     },
     "wof:country":"RO",
-    "wof:geomhash":"deb10e68e230782de28776b577fddacd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1f40af05fd5e657c6d616fe034d6f42d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1276457793,
-    "wof:lastmodified":1566610177,
-    "wof:name":"Ficaresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203753,
+    "wof:name":"Fic\u0103re\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":62,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.96193,
-    46.38356,
-    22.96193,
-    46.38356
+    22.962976,
+    46.373064,
+    22.976735,
+    46.381342
 ],
-  "geometry": {"coordinates":[22.96193,46.38356],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.967884,46.377744],[22.966298,46.376951],[22.964597,46.377996],[22.963403,46.378532],[22.962976,46.381006],[22.963601,46.381342],[22.964512,46.380641],[22.965166,46.380364],[22.966249,46.379619],[22.967052,46.378312],[22.967884,46.377744]]],[[[22.976735,46.375286],[22.975822,46.37413],[22.970434,46.376703],[22.971248,46.377436],[22.971489,46.3776],[22.976735,46.375286]]],[[[22.964968,46.375021],[22.966081,46.374292],[22.966893,46.375039],[22.968231,46.374597],[22.966541,46.373064],[22.963803,46.374418],[22.964968,46.375021]]]],"type":"MultiPolygon"}
 }

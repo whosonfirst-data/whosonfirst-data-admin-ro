@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38333,45.43333,24.38333,45.43333",
-    "geom:latitude":45.43333,
-    "geom:longitude":24.38333,
+    "geom:area":0.000173,
+    "geom:area_square_m":1500258.183988,
+    "geom:bbox":"24.37041,45.42889,24.396765,45.449643",
+    "geom:latitude":45.440501,
+    "geom:longitude":24.381853,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1653,
     "iso:country":"RO",
-    "lbl:bbox":"24.36333,45.41333,24.40333,45.45333",
     "lbl:latitude":45.43333,
     "lbl:longitude":24.38333,
     "lbl:max_zoom":16.0,
@@ -22,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0634\u0648\u0627\u0631\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Boi\u0219oara"
     ],
@@ -44,6 +46,9 @@
         "Boi\u0219oara"
     ],
     "name:ron_x_preferred":[
+        "Boi\u015foara"
+    ],
+    "name:ron_x_variant":[
         "Boi\u0219oara"
     ],
     "name:srp_x_preferred":[
@@ -69,7 +74,10 @@
     "qs_pg:pop_sr":3,
     "qs_pg:qs_id":275366,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -81,11 +89,15 @@
     "wof:concordances":{
         "gn:id":684328,
         "qs_pg:id":275366,
+        "ro-ancpi:id":168764,
         "wd:id":"Q2298101"
     },
     "wof:country":"RO",
     "wof:created":1497297543,
-    "wof:geomhash":"47a0d291ee02c15c5d48da42548b98cf",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"247cd93fe537f264467b5ad49d7629f6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +107,13 @@
         }
     ],
     "wof:id":1125953525,
-    "wof:lastmodified":1566611280,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
     "wof:name":"Boi\u015foara",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -107,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38333,
-    45.43333,
-    24.38333,
-    45.43333
+    24.37041,
+    45.42889,
+    24.396765,
+    45.449643
 ],
-  "geometry": {"coordinates":[24.38333,45.43333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.377014,45.444797],[24.379485,45.443369],[24.381232,45.445678],[24.382851,45.446167],[24.385796,45.4453],[24.389873,45.444298],[24.390607,45.441249],[24.386944,45.44129],[24.386696,45.439551],[24.396654,45.438383],[24.396765,45.43735],[24.385905,45.438584],[24.385442,45.438206],[24.386629,45.436451],[24.391083,45.435018],[24.389871,45.432945],[24.385982,45.434545],[24.384025,45.433828],[24.38459,45.433437],[24.385394,45.432643],[24.385641,45.431639],[24.385666,45.43054],[24.386296,45.429087],[24.385612,45.42889],[24.384956,45.43083],[24.383012,45.433392],[24.381776,45.433209],[24.37843,45.436724],[24.376396,45.43943],[24.375329,45.438625],[24.374482,45.439284],[24.375614,45.440063],[24.373688,45.441974],[24.373011,45.441572],[24.371333,45.442703],[24.372215,45.44346],[24.372011,45.445016],[24.37041,45.448192],[24.371263,45.449643],[24.373825,45.448475],[24.375477,45.445835],[24.377567,45.445479],[24.377014,45.444797]]],"type":"Polygon"}
 }

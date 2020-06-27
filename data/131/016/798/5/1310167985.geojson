@@ -2,8 +2,9 @@
   "id": 1310167985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"23.35,45.05,23.35,45.05",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,12 +52,14 @@
         }
     ],
     "wof:id":1310167985,
-    "wof:lastmodified":1566610571,
+    "wof:lastmodified":1588368334,
     "wof:name":"Preajba Mica",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260354767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

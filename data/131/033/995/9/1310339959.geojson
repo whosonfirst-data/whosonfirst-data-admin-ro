@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.0,45.2,24.0,45.2",
-    "geom:latitude":45.2,
-    "geom:longitude":24.0,
+    "geom:area":0.000181,
+    "geom:area_square_m":1574212.228702,
+    "geom:bbox":"23.984616,45.170272,24.003652,45.199101",
+    "geom:latitude":45.185234,
+    "geom:longitude":23.995174,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168041.0",
     "gn:asciiname":"Romanii de Sus",
@@ -25,17 +25,27 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98,45.18,24.02,45.22",
+    "lbl:latitude":45.186293,
+    "lbl:longitude":23.993443,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.186293,
+    "mps:longitude":23.993443,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Romanii de Sus"
+    ],
     "name:und_x_variant":[
         "Rom\u00e2nii de Sus",
         "Rom\u00eenii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668695
+        "gn:id":668695,
+        "ro-ancpi:id":168096
     },
     "wof:country":"RO",
-    "wof:geomhash":"490bac71f3971a4f5c8eff480d7ce338",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bdf40ef3f01b41b1210806c1fa477177",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +70,13 @@
         }
     ],
     "wof:id":1310339959,
-    "wof:lastmodified":1566610597,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203688,
     "wof:name":"Romanii de Sus",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -66,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.0,
-    45.2,
-    24.0,
-    45.2
+    23.984616,
+    45.170272,
+    24.003652,
+    45.199101
 ],
-  "geometry": {"coordinates":[24.0,45.2],"type":"Point"}
+  "geometry": {"coordinates":[[[24.003652,45.189703],[24.003415,45.187761],[24.002567,45.186203],[24.002505,45.184997],[24.003147,45.180041],[24.000772,45.179691],[23.99989,45.18394],[23.995572,45.184126],[23.994959,45.179229],[23.993232,45.177708],[23.99282,45.175587],[23.995887,45.171306],[23.994795,45.170272],[23.989915,45.173678],[23.989725,45.176296],[23.991207,45.18363],[23.987218,45.185977],[23.984616,45.189355],[23.986903,45.191528],[23.992117,45.19025],[23.995649,45.188256],[23.999126,45.189382],[24.000605,45.189584],[24.000088,45.194408],[23.999896,45.1951],[23.99906,45.19877],[24.001617,45.199101],[24.002301,45.197361],[24.00147,45.196544],[24.002271,45.194692],[24.003141,45.19303],[24.003435,45.191612],[24.003652,45.189703]]],"type":"Polygon"}
 }

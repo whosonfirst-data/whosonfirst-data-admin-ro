@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.04506,44.83662,24.04506,44.83662",
-    "geom:latitude":44.83662,
-    "geom:longitude":24.04506,
+    "geom:area":0.000017,
+    "geom:area_square_m":145754.678571,
+    "geom:bbox":"24.04535,44.83237,24.054168,44.836702",
+    "geom:latitude":44.834744,
+    "geom:longitude":24.050387,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173132.0",
     "gn:asciiname":"Garnicetu",
@@ -24,13 +24,26 @@
     "gn:population":36,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.02506,44.81662,24.06506,44.85662",
+    "lbl:latitude":44.834202,
+    "lbl:longitude":24.051423,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.834202,
+    "mps:longitude":24.051423,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "G\u00e2rnicetu"
+    ],
+    "name:ron_x_variant":[
+        "Garnicetu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677162
+        "gn:id":677162,
+        "ro-ancpi:id":173187
     },
     "wof:country":"RO",
-    "wof:geomhash":"bd664714cfaad3f71cbd46b29f87ac62",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7f237dea7f5b016f3059541fcc603fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1209846541,
-    "wof:lastmodified":1566610314,
-    "wof:name":"Garnicetu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
+    "wof:name":"G\u00e2rnicetu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":36,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.04506,
-    44.83662,
-    24.04506,
-    44.83662
+    24.04535,
+    44.83237,
+    24.054168,
+    44.836702
 ],
-  "geometry": {"coordinates":[24.04506,44.83662],"type":"Point"}
+  "geometry": {"coordinates":[[[24.053123,44.832442],[24.050613,44.83237],[24.049786,44.834609],[24.045397,44.835681],[24.04535,44.836431],[24.048086,44.836702],[24.050092,44.835658],[24.054148,44.835514],[24.054168,44.834314],[24.052878,44.834252],[24.053123,44.832442]]],"type":"Polygon"}
 }

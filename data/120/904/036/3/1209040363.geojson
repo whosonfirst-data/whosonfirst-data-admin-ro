@@ -27,12 +27,15 @@
     "lbl:bbox":"26.46328,44.40785,26.50328,44.44785",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687615
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,22 @@
     "wof:geomhash":"c743241a158074c541222e27486a4267",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209040363
+            "locality_id":1209040363,
+            "region_id":85687615
         }
     ],
     "wof:id":1209040363,
-    "wof:lastmodified":1566610354,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208626,
     "wof:name":"Alexandru I. Cuza",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

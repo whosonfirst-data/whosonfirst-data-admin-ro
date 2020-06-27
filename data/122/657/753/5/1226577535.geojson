@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.05349,44.9058,24.05349,44.9058",
-    "geom:latitude":44.9058,
-    "geom:longitude":24.05349,
+    "geom:area":0.000019,
+    "geom:area_square_m":165813.935451,
+    "geom:bbox":"24.050195,44.902072,24.055714,44.910303",
+    "geom:latitude":44.906483,
+    "geom:longitude":24.052459,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170685.0",
     "gn:asciiname":"Dealu Corni",
@@ -24,13 +24,23 @@
     "gn:population":55,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.03349,44.8858,24.07349,44.9258",
+    "lbl:latitude":44.906208,
+    "lbl:longitude":24.051581,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.906208,
+    "mps:longitude":24.051581,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dealu Corni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679657
+        "gn:id":679657,
+        "ro-ancpi:id":170738
     },
     "wof:country":"RO",
-    "wof:geomhash":"51fa9aa72705280d4ae3d3e06620b5d9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2bae8cdb7b711407f8bc8bbc07eae02e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1226577535,
-    "wof:lastmodified":1566611650,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203695,
     "wof:name":"Dealu Corni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.05349,
-    44.9058,
-    24.05349,
-    44.9058
+    24.050195,
+    44.902072,
+    24.055714,
+    44.910303
 ],
-  "geometry": {"coordinates":[24.05349,44.9058],"type":"Point"}
+  "geometry": {"coordinates":[[[24.054428,44.902891],[24.053427,44.902072],[24.051035,44.904148],[24.050472,44.90597],[24.050195,44.90843],[24.050883,44.90873],[24.055066,44.910303],[24.055714,44.908963],[24.052502,44.907915],[24.052751,44.905652],[24.054428,44.902891]]],"type":"Polygon"}
 }

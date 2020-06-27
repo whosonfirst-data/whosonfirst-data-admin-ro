@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.46723,44.10182,28.46723,44.10182",
-    "geom:latitude":44.10182,
-    "geom:longitude":28.46723,
+    "geom:area":0.000134,
+    "geom:area_square_m":1188961.876375,
+    "geom:bbox":"28.459436,44.094891,28.472238,44.107759",
+    "geom:latitude":44.101806,
+    "geom:longitude":28.465749,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61620.0",
     "gn:asciiname":"Straja",
@@ -25,13 +25,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.44723,44.08182,28.48723,44.12182",
+    "lbl:latitude":44.10182,
+    "lbl:longitude":28.46723,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
+        "Straja"
+    ],
+    "name:eus_x_preferred":[
         "Straja"
     ],
     "name:fra_x_preferred":[
@@ -48,7 +52,11 @@
     "name:vie_x_preferred":[
         "Straja"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -56,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666018
+        "gn:id":666018,
+        "ro-ancpi:id":61666
     },
     "wof:country":"RO",
-    "wof:geomhash":"3104a4f50f163cd629415f595bfa30cd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f164c0d953d9dbc10f7b2aac0b62f0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +81,13 @@
         }
     ],
     "wof:id":1259963245,
-    "wof:lastmodified":1566611541,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203615,
     "wof:name":"Straja",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -79,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.46723,
-    44.10182,
-    28.46723,
-    44.10182
+    28.459436,
+    44.094891,
+    28.472238,
+    44.107759
 ],
-  "geometry": {"coordinates":[28.46723,44.10182],"type":"Point"}
+  "geometry": {"coordinates":[[[28.459482,44.107146],[28.460049,44.107607],[28.46093,44.107759],[28.464763,44.107312],[28.469027,44.10712],[28.470848,44.107473],[28.471625,44.107549],[28.472119,44.107474],[28.472238,44.106692],[28.471829,44.105388],[28.472042,44.103412],[28.471948,44.103207],[28.471473,44.103252],[28.471127,44.103008],[28.471018,44.102578],[28.470985,44.100908],[28.470966,44.099954],[28.470947,44.099785],[28.47078,44.098224],[28.470524,44.098112],[28.470422,44.097786],[28.471137,44.097255],[28.471957,44.096392],[28.472172,44.095129],[28.472116,44.094891],[28.467307,44.094965],[28.4664,44.097147],[28.464748,44.097288],[28.464115,44.09641],[28.463514,44.096069],[28.462186,44.09594],[28.461886,44.09591],[28.461955,44.097075],[28.46174,44.09765],[28.461449,44.097629],[28.459471,44.09787],[28.459436,44.100774],[28.459575,44.102415],[28.45956,44.103148],[28.459533,44.104546],[28.459482,44.107146]]],"type":"Polygon"}
 }

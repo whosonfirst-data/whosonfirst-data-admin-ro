@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.71371,44.21491,22.71371,44.21491",
-    "geom:latitude":44.21491,
-    "geom:longitude":22.71371,
+    "geom:area":0.000075,
+    "geom:area_square_m":662901.601336,
+    "geom:bbox":"22.703332,44.210015,22.718639,44.219472",
+    "geom:latitude":44.214635,
+    "geom:longitude":22.711628,
     "gn:admin1_code":"26",
     "gn:admin2_code":"113206.0",
     "gn:asciiname":"Cozia",
@@ -24,11 +24,12 @@
     "gn:population":731,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.69371,44.19491,22.73371,44.23491",
+    "lbl:latitude":44.21491,
+    "lbl:longitude":22.71371,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cozia"
@@ -48,7 +49,11 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u0456\u044f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680412
+        "gn:id":680412,
+        "ro-ancpi:id":113224
     },
     "wof:country":"RO",
-    "wof:geomhash":"9bf34ef58d5319a03ca0758ba1d8e0ce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1baa5d422a1e5af3ca0c8bff172333c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,13 @@
         }
     ],
     "wof:id":1276395959,
-    "wof:lastmodified":1566610258,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203336,
     "wof:name":"Cozia",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -82,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.71371,
-    44.21491,
-    22.71371,
-    44.21491
+    22.703332,
+    44.210015,
+    22.718639,
+    44.219472
 ],
-  "geometry": {"coordinates":[22.71371,44.21491],"type":"Point"}
+  "geometry": {"coordinates":[[[22.7116,44.219465],[22.712171,44.219186],[22.712756,44.219472],[22.7143,44.218183],[22.7158,44.217117],[22.717114,44.216623],[22.718029,44.215583],[22.717437,44.215185],[22.718639,44.214027],[22.717349,44.213318],[22.712696,44.210696],[22.712904,44.210555],[22.712756,44.210381],[22.710893,44.210471],[22.709933,44.210015],[22.707422,44.212309],[22.705801,44.213809],[22.705372,44.213501],[22.705076,44.21376],[22.705504,44.214094],[22.704724,44.214815],[22.703689,44.214169],[22.703332,44.214461],[22.704168,44.21501],[22.703832,44.215363],[22.704242,44.215568],[22.704687,44.215157],[22.706057,44.215831],[22.705806,44.216152],[22.706226,44.216375],[22.706486,44.216123],[22.708869,44.217362],[22.708546,44.217707],[22.708792,44.217823],[22.709196,44.217549],[22.711809,44.21899],[22.711519,44.21922],[22.7116,44.219465]]],"type":"Polygon"}
 }

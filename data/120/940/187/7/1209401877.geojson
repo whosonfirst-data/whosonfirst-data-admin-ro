@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.46282,45.06988,22.46282,45.06988",
-    "geom:latitude":45.06988,
-    "geom:longitude":22.46282,
+    "geom:area":0.000007,
+    "geom:area_square_m":59260.125921,
+    "geom:bbox":"22.465974,45.068402,22.469592,45.071265",
+    "geom:latitude":45.069817,
+    "geom:longitude":22.467992,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Sub Plai",
@@ -24,33 +24,57 @@
     "gn:population":94,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.44282,45.04988,22.48282,45.08988",
+    "lbl:latitude":45.069914,
+    "lbl:longitude":22.468026,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.069914,
+    "mps:longitude":22.468026,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Sub Plai"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687627
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665855
+        "gn:id":665855,
+        "ro-ancpi:id":52507
     },
     "wof:country":"RO",
-    "wof:geomhash":"d205247c477a26db3bceb5ad43161f9f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6989084e50e6276c7b5a8ca1a861650b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209401877
+            "locality_id":1209401877,
+            "region_id":85687627
         }
     ],
     "wof:id":1209401877,
-    "wof:lastmodified":1566610325,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203619,
     "wof:name":"Sub Plai",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":94,
     "wof:population_rank":1,
@@ -60,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.46282,
-    45.06988,
-    22.46282,
-    45.06988
+    22.465974,
+    45.068402,
+    22.469592,
+    45.071265
 ],
-  "geometry": {"coordinates":[22.46282,45.06988],"type":"Point"}
+  "geometry": {"coordinates":[[[22.469588,45.069965],[22.469584,45.068795],[22.469063,45.068402],[22.467754,45.068951],[22.466903,45.068698],[22.466025,45.069953],[22.465974,45.070065],[22.466888,45.070468],[22.466741,45.070766],[22.467157,45.070923],[22.467089,45.071244],[22.467963,45.071265],[22.468431,45.070771],[22.469354,45.070566],[22.469592,45.070349],[22.469588,45.069965]]],"type":"Polygon"}
 }

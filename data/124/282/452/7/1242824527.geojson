@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.05513,45.2124,26.05513,45.2124",
-    "geom:latitude":45.2124,
-    "geom:longitude":26.05513,
+    "geom:area":0.000014,
+    "geom:area_square_m":126086.701315,
+    "geom:bbox":"26.054228,45.208181,26.059894,45.212325",
+    "geom:latitude":45.210426,
+    "geom:longitude":26.057107,
     "gn:admin1_code":"30",
     "gn:admin2_code":"132896.0",
     "gn:asciiname":"Piatra",
@@ -24,16 +24,22 @@
     "gn:population":44,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.03513,45.1924,26.07513,45.2324",
+    "lbl:latitude":45.210409,
+    "lbl:longitude":26.057107,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.210409,
+    "mps:longitude":26.057107,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Piatra"
     ],
     "name:deu_x_preferred":[
+        "Piatra"
+    ],
+    "name:eus_x_preferred":[
         "Piatra"
     ],
     "name:hun_x_preferred":[
@@ -54,7 +60,11 @@
     "name:vie_x_preferred":[
         "Piatra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -63,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670916
+        "gn:id":670916,
+        "ro-ancpi:id":132967
     },
     "wof:country":"RO",
-    "wof:geomhash":"5afe2c94896daa267b4e55236ba49ef5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ce97e6b5462c5fef7b6411fdfa1dccf7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +90,13 @@
         }
     ],
     "wof:id":1242824527,
-    "wof:lastmodified":1566611505,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203587,
     "wof:name":"Piatra",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
@@ -88,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.05513,
-    45.2124,
-    26.05513,
-    45.2124
+    26.054228,
+    45.208181,
+    26.059894,
+    45.212325
 ],
-  "geometry": {"coordinates":[26.05513,45.2124],"type":"Point"}
+  "geometry": {"coordinates":[[[26.059894,45.212032],[26.059819,45.211278],[26.059528,45.211295],[26.059888,45.21011],[26.059223,45.210102],[26.059219,45.209867],[26.058756,45.209899],[26.057263,45.208696],[26.05676,45.208181],[26.056239,45.208371],[26.055579,45.208597],[26.055251,45.20885],[26.055054,45.209079],[26.054664,45.209268],[26.054397,45.209527],[26.054252,45.209842],[26.054228,45.21017],[26.054496,45.210516],[26.055191,45.211044],[26.056199,45.211632],[26.056709,45.211977],[26.056977,45.212266],[26.057482,45.212325],[26.058054,45.212249],[26.059431,45.212058],[26.059894,45.212032]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.03279,44.936,24.03279,44.936",
-    "geom:latitude":44.936,
-    "geom:longitude":24.03279,
+    "geom:area":0.000015,
+    "geom:area_square_m":129510.182604,
+    "geom:bbox":"24.02621,44.933225,24.033807,44.93727",
+    "geom:latitude":44.935217,
+    "geom:longitude":24.029737,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170792",
     "gn:asciiname":"Beresti",
@@ -24,33 +24,94 @@
     "gn:population":403,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.01279,44.916,24.05279,44.956",
+    "lbl:latitude":44.935371,
+    "lbl:longitude":24.029737,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.935371,
+    "mps:longitude":24.029737,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:deu_x_preferred":[
+        "Bere\u0219ti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0634\u062a"
+    ],
+    "name:hun_x_preferred":[
+        "Bere\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Bere\u015fti"
+    ],
+    "name:nld_x_preferred":[
+        "Bere\u0219ti"
+    ],
+    "name:pol_x_preferred":[
+        "Bere\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Bere\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Bere\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Beresti",
+        "Bere\u0219ti"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0448\u0442\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Beresti"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u96f7\u4ec0\u8482"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685039
+        "gn:id":685039,
+        "ro-ancpi:id":170818
     },
     "wof:country":"RO",
-    "wof:geomhash":"1ecfe303cad74432e6c4ff5997a61cf3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e76478139853525c455e4692b592ff1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209141841
+            "locality_id":1209141841,
+            "region_id":85687643
         }
     ],
     "wof:id":1209141841,
-    "wof:lastmodified":1566610339,
-    "wof:name":"Beresti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
+    "wof:name":"Bere\u015fti",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":403,
     "wof:population_rank":2,
@@ -60,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.03279,
-    44.93600000000001,
-    24.03279,
-    44.93600000000001
+    24.02621,
+    44.933225,
+    24.033807,
+    44.93727
 ],
-  "geometry": {"coordinates":[24.03279,44.93600000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.033807,44.935272],[24.027332,44.933225],[24.02621,44.934937],[24.030732,44.93727],[24.033807,44.935272]]],"type":"Polygon"}
 }

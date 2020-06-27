@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29899,45.49937,24.29899,45.49937",
-    "geom:latitude":45.49937,
-    "geom:longitude":24.29899,
+    "geom:area":0.000041,
+    "geom:area_square_m":356095.071328,
+    "geom:bbox":"24.288136,45.492622,24.302208,45.500549",
+    "geom:latitude":45.496903,
+    "geom:longitude":24.296723,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169119.0",
     "gn:asciiname":"Cainenii Mari",
@@ -25,16 +25,20 @@
     "gn:population":761,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.27899,45.47937,24.31899,45.51937",
+    "lbl:latitude":45.49937,
+    "lbl:longitude":24.29899,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna C\u00e2ineni"
     ],
     "name:epo_x_preferred":[
+        "C\u00e2ineni"
+    ],
+    "name:eus_x_preferred":[
         "C\u00e2ineni"
     ],
     "name:fra_x_preferred":[
@@ -53,7 +57,11 @@
         "C\u00e2ineni"
     ],
     "name:ron_x_preferred":[
-        "Comuna C\u00e2ineni"
+        "C\u00e2inenii Mari"
+    ],
+    "name:ron_x_variant":[
+        "Comuna C\u00e2ineni",
+        "Cainenii Mari"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0438\u043d\u0435\u043d\u0438"
@@ -72,7 +80,11 @@
     "name:zho_x_preferred":[
         "\u514b\u4f0a\u5167\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,10 +94,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":681921,
+        "ro-ancpi:id":169137,
         "wk:page":"C%C3%A2ineni"
     },
     "wof:country":"RO",
-    "wof:geomhash":"0a0619ec5ba5285d595b8311bc20f9fb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c0d49f12440ddb675d1db21ae27e082",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,8 +111,14 @@
         }
     ],
     "wof:id":1259416877,
-    "wof:lastmodified":1566611561,
-    "wof:name":"Cainenii Mari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"C\u00e2inenii Mari",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":761,
@@ -107,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29899,
-    45.49937,
-    24.29899,
-    45.49937
+    24.288136,
+    45.492622,
+    24.302208,
+    45.500549
 ],
-  "geometry": {"coordinates":[24.29899,45.49937],"type":"Point"}
+  "geometry": {"coordinates":[[[24.300208,45.500549],[24.302208,45.499828],[24.301698,45.499453],[24.30203,45.498477],[24.300121,45.497545],[24.299654,45.497079],[24.29951,45.495209],[24.298923,45.494247],[24.29646,45.493126],[24.293821,45.49265],[24.292673,45.492622],[24.291152,45.492955],[24.289835,45.493641],[24.288136,45.493729],[24.288154,45.494492],[24.290077,45.494328],[24.291098,45.493864],[24.291827,45.493487],[24.29287,45.493562],[24.294148,45.493766],[24.296502,45.494143],[24.296707,45.494418],[24.29622,45.49555],[24.295639,45.496358],[24.29393,45.498182],[24.292674,45.498468],[24.291652,45.49896],[24.291822,45.499178],[24.291903,45.499169],[24.292199,45.499151],[24.292495,45.499155],[24.292862,45.499173],[24.293195,45.499222],[24.293813,45.49935],[24.295548,45.49973],[24.296672,45.499972],[24.297031,45.500037],[24.297385,45.500091],[24.297604,45.500117],[24.297841,45.500133],[24.298149,45.500146],[24.298466,45.500148],[24.298813,45.500127],[24.299147,45.500091],[24.299549,45.500031],[24.29961,45.500018],[24.299809,45.500195],[24.300208,45.500549]]],"type":"Polygon"}
 }

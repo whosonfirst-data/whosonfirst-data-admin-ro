@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.89084,44.82094,21.89084,44.82094",
-    "geom:latitude":44.82094,
-    "geom:longitude":21.89084,
+    "geom:area":0.000035,
+    "geom:area_square_m":310348.679384,
+    "geom:bbox":"21.884655,44.813954,21.895521,44.828184",
+    "geom:latitude":44.820538,
+    "geom:longitude":21.8897,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52570",
     "gn:asciiname":"Boina",
@@ -24,16 +24,20 @@
     "gn:population":19,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.87084,44.80094,21.91084,44.84094",
+    "lbl:latitude":44.82094,
+    "lbl:longitude":21.89084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:dan_x_preferred":[
         "Boina"
     ],
     "name:fra_x_preferred":[
+        "Boina"
+    ],
+    "name:ron_x_preferred":[
         "Boina"
     ],
     "name:slk_x_preferred":[
@@ -42,7 +46,11 @@
     "name:spa_x_preferred":[
         "Boina"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684339
+        "gn:id":684339,
+        "ro-ancpi:id":52605
     },
     "wof:country":"RO",
-    "wof:geomhash":"f63bfc359a1f124ba9134c64658ae9a2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9450f084f54d3236eb1fa1edf57b0c80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +76,13 @@
         }
     ],
     "wof:id":1226032031,
-    "wof:lastmodified":1566611643,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203626,
     "wof:name":"Boina",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -76,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.89084,
-    44.82094,
-    21.89084,
-    44.82094
+    21.884655,
+    44.813954,
+    21.895521,
+    44.828184
 ],
-  "geometry": {"coordinates":[21.89084,44.82094],"type":"Point"}
+  "geometry": {"coordinates":[[[21.888487,44.825152],[21.891269,44.820648],[21.891673,44.820022],[21.892392,44.818652],[21.893201,44.81848],[21.895235,44.817896],[21.894722,44.817202],[21.895521,44.816688],[21.89427,44.816053],[21.893594,44.816322],[21.892821,44.816316],[21.892126,44.81643],[21.891516,44.816329],[21.891431,44.815604],[21.891858,44.815279],[21.891182,44.814759],[21.890437,44.814874],[21.889662,44.813996],[21.888749,44.813954],[21.888862,44.815901],[21.890014,44.815831],[21.890763,44.818403],[21.890744,44.818767],[21.890651,44.819015],[21.889977,44.820345],[21.889154,44.821555],[21.887874,44.821306],[21.887795,44.822119],[21.886974,44.82208],[21.885595,44.821859],[21.884655,44.82298],[21.887406,44.823723],[21.886558,44.825041],[21.885666,44.826335],[21.885847,44.826406],[21.884865,44.827911],[21.885217,44.828184],[21.885811,44.827754],[21.886654,44.827548],[21.88686,44.827167],[21.887576,44.826354],[21.888487,44.825152]]],"type":"Polygon"}
 }

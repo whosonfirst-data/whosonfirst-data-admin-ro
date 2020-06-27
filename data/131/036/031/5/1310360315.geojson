@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.09456,44.31739,23.09456,44.31739",
-    "geom:latitude":44.31739,
-    "geom:longitude":23.09456,
+    "geom:area":0.000068,
+    "geom:area_square_m":601351.204028,
+    "geom:bbox":"23.085951,44.312254,23.101683,44.321494",
+    "geom:latitude":44.316952,
+    "geom:longitude":23.093613,
     "gn:admin1_code":"26",
     "gn:admin2_code":"112771.0",
     "gn:asciiname":"Prisaceaua",
@@ -25,17 +25,28 @@
     "gn:population":668,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.07456,44.29739,23.11456,44.33739",
+    "lbl:latitude":44.31739,
+    "lbl:longitude":23.09456,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Pris\u0103ceaua"
+    ],
+    "name:ron_x_variant":[
+        "Prisaceaua"
+    ],
     "name:und_x_variant":[
         "Pris\u0103ceana",
         "Pris\u0103ceaua"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669614
+        "gn:id":669614,
+        "ro-ancpi:id":112799
     },
     "wof:country":"RO",
-    "wof:geomhash":"afd930ab45f9177c7b4ba4349a78e81e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"063ae8d71b8b05d5338847144bb127d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1310360315,
-    "wof:lastmodified":1566610549,
-    "wof:name":"Prisaceaua",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203338,
+    "wof:name":"Pris\u0103ceaua",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":668,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.09456,
-    44.31739,
-    23.09456,
-    44.31739
+    23.085951,
+    44.312254,
+    23.101683,
+    44.321494
 ],
-  "geometry": {"coordinates":[23.09456,44.31739],"type":"Point"}
+  "geometry": {"coordinates":[[[23.089454,44.320217],[23.090616,44.319949],[23.093061,44.320101],[23.094949,44.319993],[23.096047,44.319928],[23.096618,44.319783],[23.097435,44.319375],[23.098383,44.318719],[23.098911,44.3183],[23.098082,44.316945],[23.09857,44.316821],[23.097954,44.315798],[23.099086,44.315507],[23.098653,44.314595],[23.099493,44.31441],[23.100114,44.314028],[23.10032,44.31398],[23.100444,44.313942],[23.101683,44.3139],[23.101396,44.313521],[23.100715,44.312575],[23.099198,44.313015],[23.098743,44.312254],[23.095864,44.313105],[23.095969,44.313406],[23.09541,44.31364],[23.093796,44.314153],[23.091989,44.314793],[23.091276,44.315074],[23.090625,44.31555],[23.089417,44.316084],[23.088531,44.316486],[23.088091,44.31654],[23.085951,44.317146],[23.086467,44.318669],[23.086639,44.319095],[23.088527,44.318647],[23.088642,44.318923],[23.086894,44.319779],[23.086997,44.320094],[23.086497,44.320263],[23.086765,44.321494],[23.088018,44.320666],[23.089454,44.320217]]],"type":"Polygon"}
 }

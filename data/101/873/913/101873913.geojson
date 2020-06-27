@@ -4,23 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.366082,43.924013,25.366082,43.924013",
-    "geom:latitude":43.924013,
-    "geom:longitude":25.366082,
+    "geom:area":0.000087,
+    "geom:area_square_m":775917.532117,
+    "geom:bbox":"25.350339,43.910883,25.365969,43.923285",
+    "geom:latitude":43.917877,
+    "geom:longitude":25.358113,
     "gn:population":1218,
     "iso:country":"RO",
-    "lbl:bbox":"25.346082,43.904013,25.386082,43.944013",
-    "lbl:latitude":43.924013,
-    "lbl:longitude":25.366082,
+    "lbl:latitude":43.917188,
+    "lbl:longitude":25.357495,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
-    "mps:latitude":43.924013,
-    "mps:longitude":25.366082,
+    "mps:latitude":43.917188,
+    "mps:longitude":25.357495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0644\u0648\u0645\u0641\u064a\u0631\u064a\u0634\u062a\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e\u043c\u0444\u0438\u0440\u0435\u0449"
     ],
@@ -37,6 +39,9 @@
         "Calomfire\u0219ti"
     ],
     "name:ron_x_preferred":[
+        "Calomfire\u015fti"
+    ],
+    "name:ron_x_variant":[
         "Calomfire\u0219ti"
     ],
     "name:srp_x_preferred":[
@@ -56,9 +61,10 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"buffered point",
-    "src:geom":"whosonfirst",
+    "src:geom":"ro-ancpi",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -73,13 +79,15 @@
         "gn:id":682926,
         "gp:id":878391,
         "qs_pg:id":8,
+        "ro-ancpi:id":151852,
         "wd:id":"Q12107842"
     },
     "wof:country":"RO",
     "wof:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
-    "wof:geomhash":"080790f74b52dc653c751a6008821503",
+    "wof:geomhash":"e3069d8e7f087e7ee8f4e433d96c4772",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,7 +97,13 @@
         }
     ],
     "wof:id":101873913,
-    "wof:lastmodified":1582311870,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203347,
     "wof:name":"Calomfire\u015fti",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
@@ -101,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.366082,
-    43.924013,
-    25.366082,
-    43.924013
+    25.350339,
+    43.910883,
+    25.365969,
+    43.923285
 ],
-  "geometry": {"coordinates":[25.366082,43.924013],"type":"Point"}
+  "geometry": {"coordinates":[[[[25.354504,43.922636],[25.354621,43.922256],[25.355027,43.922341],[25.355766,43.922201],[25.357078,43.922162],[25.357676,43.922384],[25.358573,43.922619],[25.359314,43.920867],[25.35948,43.920899],[25.362107,43.914923],[25.36138,43.914298],[25.360564,43.914041],[25.359841,43.913578],[25.360494,43.911865],[25.359313,43.910883],[25.356832,43.911028],[25.35673,43.91196],[25.355215,43.913895],[25.354546,43.913708],[25.354309,43.914019],[25.35505,43.914206],[25.354767,43.914707],[25.354651,43.915276],[25.353267,43.919244],[25.35279,43.919229],[25.352744,43.919504],[25.350643,43.919304],[25.350339,43.920374],[25.352346,43.920798],[25.353352,43.921433],[25.353047,43.922365],[25.354504,43.922636]]],[[[25.365137,43.923285],[25.365667,43.922203],[25.362812,43.921682],[25.363313,43.920538],[25.364274,43.920739],[25.36442,43.920404],[25.365366,43.920682],[25.365969,43.919315],[25.36165,43.918487],[25.360993,43.920111],[25.362183,43.920411],[25.361806,43.921485],[25.360373,43.921166],[25.359874,43.922307],[25.363641,43.923131],[25.363737,43.922932],[25.365137,43.923285]]]],"type":"MultiPolygon"}
 }

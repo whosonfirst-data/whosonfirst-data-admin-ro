@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.98928,46.17816,26.98928,46.17816",
-    "geom:latitude":46.17816,
-    "geom:longitude":26.98928,
+    "geom:area":0.00001,
+    "geom:area_square_m":88151.629154,
+    "geom:bbox":"26.985743,46.175493,26.991952,46.180308",
+    "geom:latitude":46.178155,
+    "geom:longitude":26.988807,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22059",
     "gn:asciiname":"Boistea de Jos",
@@ -25,17 +25,28 @@
     "gn:population":16,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.96928,46.15816,27.00928,46.19816",
+    "lbl:latitude":46.17816,
+    "lbl:longitude":26.98928,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Boi\u015ftea de Jos"
+    ],
+    "name:ron_x_variant":[
+        "Boistea de Jos"
+    ],
     "name:und_x_variant":[
         "Boitea de Jos",
         "Boi\u015ftea de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684322
+        "gn:id":684322,
+        "ro-ancpi:id":22086
     },
     "wof:country":"RO",
-    "wof:geomhash":"08f12da46af6c41ffd6faf2bfcdb14ca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f0595a0f015e6f7dabb7ec39b65433cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1276762955,
-    "wof:lastmodified":1566610223,
-    "wof:name":"Boistea de Jos",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203541,
+    "wof:name":"Boi\u015ftea de Jos",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":16,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.98928,
-    46.17816,
-    26.98928,
-    46.17816
+    26.985743,
+    46.175493,
+    26.991952,
+    46.180308
 ],
-  "geometry": {"coordinates":[26.98928,46.17816],"type":"Point"}
+  "geometry": {"coordinates":[[[26.991936,46.179666],[26.990202,46.177833],[26.988487,46.176511],[26.988228,46.176152],[26.987429,46.175493],[26.986811,46.176006],[26.987757,46.176435],[26.987338,46.177259],[26.986885,46.17746],[26.987236,46.177691],[26.986937,46.178023],[26.986523,46.1778],[26.985743,46.179009],[26.986218,46.179127],[26.986707,46.178458],[26.987354,46.178888],[26.987467,46.178829],[26.987606,46.178747],[26.987692,46.178698],[26.988747,46.179588],[26.989121,46.179581],[26.989372,46.179413],[26.98957,46.178668],[26.991318,46.180308],[26.991952,46.180089],[26.991768,46.179736],[26.991936,46.179666]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.29758,47.63824,26.29758,47.63824",
-    "geom:latitude":47.63824,
-    "geom:longitude":26.29758,
+    "geom:area":0.000205,
+    "geom:area_square_m":1709874.458563,
+    "geom:bbox":"26.283068,47.629738,26.306598,47.643473",
+    "geom:latitude":47.636972,
+    "geom:longitude":26.294327,
     "gn:admin1_code":"34",
     "gn:admin2_code":"146281.0",
     "gn:asciiname":"Lisaura",
@@ -24,13 +24,21 @@
     "gn:population":747,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.27758,47.61824,26.31758,47.65824",
+    "lbl:latitude":47.63824,
+    "lbl:longitude":26.29758,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Lisaura"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674718
+        "gn:id":674718,
+        "ro-ancpi:id":146307
     },
     "wof:country":"RO",
-    "wof:geomhash":"5265df89d37b91d9472f54c9dced09e8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"059ed36d46e90c6d37a8bebb611c73fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1226387667,
-    "wof:lastmodified":1566611707,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203441,
     "wof:name":"Lisaura",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.29758,
-    47.63824,
-    26.29758,
-    47.63824
+    26.283068,
+    47.629738,
+    26.306598,
+    47.643473
 ],
-  "geometry": {"coordinates":[26.29758,47.63824],"type":"Point"}
+  "geometry": {"coordinates":[[[26.296116,47.643473],[26.299959,47.64121],[26.303853,47.638922],[26.305816,47.637785],[26.306598,47.636156],[26.305305,47.634487],[26.303508,47.634908],[26.301893,47.63459],[26.302202,47.63366],[26.302947,47.631636],[26.303028,47.631388],[26.303042,47.631234],[26.302732,47.631049],[26.302707,47.631028],[26.302527,47.630878],[26.302277,47.63067],[26.300689,47.630352],[26.297635,47.632022],[26.294592,47.629738],[26.293176,47.630756],[26.295707,47.632834],[26.292713,47.634095],[26.290565,47.631599],[26.28834,47.630085],[26.284879,47.631963],[26.286004,47.634406],[26.287426,47.637282],[26.283574,47.637857],[26.283271,47.639011],[26.283264,47.639068],[26.283255,47.639133],[26.283068,47.640588],[26.285302,47.640348],[26.285325,47.640427],[26.285622,47.641824],[26.285872,47.643062],[26.288758,47.643001],[26.289167,47.642925],[26.291401,47.642824],[26.294074,47.643201],[26.296116,47.643473]]],"type":"Polygon"}
 }

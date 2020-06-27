@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.78118,48.10459,26.78118,48.10459",
-    "geom:latitude":48.10459,
-    "geom:longitude":26.78118,
+    "geom:area":0.000043,
+    "geom:area_square_m":355177.060217,
+    "geom:bbox":"26.774436,48.100399,26.787596,48.107247",
+    "geom:latitude":48.10404,
+    "geom:longitude":26.781369,
     "gn:admin1_code":"07",
     "gn:admin2_code":"36809",
     "gn:asciiname":"Nicolae Balcescu",
@@ -24,13 +24,63 @@
     "gn:population":33,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.76118,48.08459,26.80118,48.12459",
+    "lbl:latitude":48.10459,
+    "lbl:longitude":26.78118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0643\u0648\u0644\u0627\u064a \u0628\u0627\u0644\u062a\u0634\u064a\u0633\u0643\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:epo_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:fra_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d5\u05dc\u05d0\u05d9\u05d4 \u05d1\u05dc\u05e6'\u05e1\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u056c\u0561\u0575\u0565 \u0532\u0568\u056c\u0579\u0565\u057d\u056f\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:ita_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:pol_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:ron_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:ron_x_variant":[
+        "Nicolae Balcescu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044d\u043b\u0447\u0435\u0441\u043a\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Nicolae B\u0103lcescu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043b\u0430\u0454 \u0411\u0435\u043b\u0447\u0435\u0441\u043a\u0443"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10942059
+        "gn:id":10942059,
+        "ro-ancpi:id":36881
     },
     "wof:country":"RO",
-    "wof:geomhash":"e5be0c99467e55ac51ee88507d8b7dad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"788c076f821d8023f6e095a99cb731c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +106,14 @@
         }
     ],
     "wof:id":1293805229,
-    "wof:lastmodified":1566610133,
-    "wof:name":"Nicolae Balcescu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203515,
+    "wof:name":"Nicolae B\u0103lcescu",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:population":33,
@@ -64,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.78118,
-    48.10459,
-    26.78118,
-    48.10459
+    26.774436,
+    48.100399,
+    26.787596,
+    48.107247
 ],
-  "geometry": {"coordinates":[26.78118,48.10459],"type":"Point"}
+  "geometry": {"coordinates":[[[26.782986,48.106358],[26.784269,48.105497],[26.784792,48.105181],[26.785314,48.104927],[26.785817,48.104819],[26.7866,48.104651],[26.78711,48.104574],[26.787227,48.104054],[26.787596,48.103774],[26.78712,48.103312],[26.786573,48.103027],[26.786357,48.103149],[26.784289,48.101621],[26.782118,48.100399],[26.78128,48.100937],[26.780204,48.10174],[26.777545,48.103473],[26.775571,48.104939],[26.774819,48.105492],[26.774436,48.105775],[26.7756,48.106406],[26.77618,48.106715],[26.776893,48.106247],[26.777499,48.105849],[26.778304,48.105818],[26.779338,48.105826],[26.780166,48.106268],[26.780812,48.106751],[26.781558,48.107247],[26.782986,48.106358]]],"type":"Polygon"}
 }

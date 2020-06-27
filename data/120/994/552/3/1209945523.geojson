@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.36458,45.41228,24.36458,45.41228",
-    "geom:latitude":45.41228,
-    "geom:longitude":24.36458,
+    "geom:area":0.000043,
+    "geom:area_square_m":372673.668543,
+    "geom:bbox":"24.35617,45.404131,24.372021,45.415143",
+    "geom:latitude":45.410414,
+    "geom:longitude":24.361783,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174496",
     "gn:asciiname":"Bratovesti",
@@ -24,14 +24,21 @@
     "gn:population":239,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.34458,45.39228,24.38458,45.43228",
+    "lbl:latitude":45.41228,
+    "lbl:longitude":24.36458,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:msa_x_preferred":[
         "Bratovoe\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Bratove\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Bratovesti"
     ],
     "name:und_x_variant":[
         "Bratove\u015fti"
@@ -39,7 +46,11 @@
     "name:vie_x_preferred":[
         "Bratovoesti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +60,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":683790,
+        "ro-ancpi:id":172180,
         "wk:page":"Bratovoe%C5%9Fti"
     },
     "wof:country":"RO",
-    "wof:geomhash":"6aefb11dab72394b1a99565ce139e3cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bed9710dcc111f2e1a9a3a1dd7623eca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,8 +77,14 @@
         }
     ],
     "wof:id":1209945523,
-    "wof:lastmodified":1566610360,
-    "wof:name":"Bratovesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"Bratove\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":239,
@@ -74,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36458,
-    45.41228,
-    24.36458,
-    45.41228
+    24.35617,
+    45.404131,
+    24.372021,
+    45.415143
 ],
-  "geometry": {"coordinates":[24.36458,45.41228],"type":"Point"}
+  "geometry": {"coordinates":[[[24.372021,45.414326],[24.367373,45.412415],[24.364844,45.411186],[24.362569,45.411181],[24.360952,45.411155],[24.361403,45.409728],[24.36219,45.406938],[24.364306,45.405802],[24.362006,45.405069],[24.360954,45.406627],[24.360578,45.407984],[24.358836,45.408066],[24.358705,45.40451],[24.358736,45.404252],[24.357584,45.404131],[24.357376,45.406092],[24.356799,45.406096],[24.356817,45.406472],[24.357361,45.406475],[24.357425,45.408502],[24.357559,45.409124],[24.358897,45.410316],[24.35923,45.410685],[24.358705,45.410897],[24.358316,45.411585],[24.358386,45.412183],[24.360281,45.412094],[24.360255,45.412579],[24.359187,45.412703],[24.359212,45.413339],[24.35617,45.413354],[24.356171,45.414174],[24.360718,45.413908],[24.360623,45.413616],[24.363815,45.412538],[24.36775,45.413688],[24.371413,45.415143],[24.372021,45.414326]]],"type":"Polygon"}
 }

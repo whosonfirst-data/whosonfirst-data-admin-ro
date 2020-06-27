@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.52316,44.32959,28.52316,44.32959",
-    "geom:latitude":44.32959,
-    "geom:longitude":28.52316,
+    "geom:area":0.000085,
+    "geom:area_square_m":749543.762258,
+    "geom:bbox":"28.517915,44.323911,28.535242,44.334215",
+    "geom:latitude":44.328841,
+    "geom:longitude":28.523087,
     "gn:admin1_code":"14",
     "gn:admin2_code":"63152.0",
     "gn:asciiname":"Oituz",
@@ -24,14 +24,18 @@
     "gn:population":565,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.50316,44.30959,28.54316,44.34959",
+    "lbl:latitude":44.32959,
+    "lbl:longitude":28.52316,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Oituz"
+    ],
+    "name:eus_x_preferred":[
+        "Oituz"
     ],
     "name:ita_x_preferred":[
         "Oituz"
@@ -49,6 +53,9 @@
         "Oituz"
     ],
     "name:ron_x_preferred":[
+        "Oituz"
+    ],
+    "name:ron_x_variant":[
         "Comuna Oituz"
     ],
     "name:sqi_x_preferred":[
@@ -69,7 +76,11 @@
     "name:zho_x_preferred":[
         "\u5967\u4f0a\u5716\u8332\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -78,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671898
+        "gn:id":671898,
+        "ro-ancpi:id":62217
     },
     "wof:country":"RO",
-    "wof:geomhash":"ba7864f982db663b88187482a872e52d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"762386f61835bc91e3e2a713abf7aa97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +106,13 @@
         }
     ],
     "wof:id":1243155721,
-    "wof:lastmodified":1566611467,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203615,
     "wof:name":"Oituz",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -103,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.52316,
-    44.32959,
-    28.52316,
-    44.32959
+    28.517915,
+    44.323911,
+    28.535242,
+    44.334215
 ],
-  "geometry": {"coordinates":[28.52316,44.32959],"type":"Point"}
+  "geometry": {"coordinates":[[[28.523545,44.33406],[28.524013,44.333017],[28.524773,44.333178],[28.5252,44.332213],[28.524502,44.332007],[28.526957,44.328308],[28.534887,44.329378],[28.535242,44.32826],[28.527375,44.327187],[28.527675,44.325186],[28.518809,44.323911],[28.518775,44.326659],[28.517915,44.32666],[28.517944,44.334215],[28.520263,44.334127],[28.520741,44.333512],[28.523545,44.33406]]],"type":"Polygon"}
 }

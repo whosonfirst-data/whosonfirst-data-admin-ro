@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.09533,46.60341,28.09533,46.60341",
-    "geom:latitude":46.60341,
-    "geom:longitude":28.09533,
+    "geom:area":0.000015,
+    "geom:area_square_m":131032.081402,
+    "geom:bbox":"28.090336,46.599913,28.096813,46.608616",
+    "geom:latitude":46.603638,
+    "geom:longitude":28.093667,
     "gn:admin1_code":"38",
     "gn:admin2_code":"165185.0",
     "gn:asciiname":"Davidesti",
@@ -24,13 +24,35 @@
     "gn:population":256,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.07533,46.58341,28.11533,46.62341",
+    "lbl:latitude":46.603436,
+    "lbl:longitude":28.093959,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.603436,
+    "mps:longitude":28.093959,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0641\u064a\u062f\u064a\u0634\u062a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0432\u0438\u0434\u0435\u0448\u0442\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Davide\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Davidesti"
+    ],
+    "name:vie_x_preferred":[
+        "Davidesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +61,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679699
+        "gn:id":679699,
+        "ro-ancpi:id":165210
     },
     "wof:country":"RO",
-    "wof:geomhash":"1abddd45198f5afebf619271a31cf2e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"315d6f09f658d46ee321587270f0c827",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +78,14 @@
         }
     ],
     "wof:id":1226787959,
-    "wof:lastmodified":1566611677,
-    "wof:name":"Davidesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203479,
+    "wof:name":"Davide\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":256,
@@ -64,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.09533,
-    46.60341,
-    28.09533,
-    46.60341
+    28.090336,
+    46.599913,
+    28.096813,
+    46.608616
 ],
-  "geometry": {"coordinates":[28.09533,46.60341],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.092219,46.606268],[28.092264,46.606008],[28.092921,46.606131],[28.093058,46.605897],[28.093365,46.605619],[28.09393,46.604916],[28.094032,46.60454],[28.094487,46.604609],[28.094767,46.604035],[28.095484,46.602547],[28.095847,46.601941],[28.095945,46.601864],[28.096813,46.600457],[28.095414,46.600104],[28.094588,46.599913],[28.094327,46.600335],[28.093885,46.601065],[28.093828,46.601495],[28.093825,46.601909],[28.093735,46.602038],[28.09364,46.602355],[28.093353,46.602396],[28.093194,46.602822],[28.092943,46.603329],[28.093047,46.603637],[28.093014,46.603767],[28.092761,46.603933],[28.09228,46.604283],[28.091915,46.604752],[28.091557,46.605272],[28.091133,46.605516],[28.090647,46.606148],[28.091068,46.60626],[28.091023,46.60637],[28.090989,46.606516],[28.090969,46.606691],[28.090927,46.606845],[28.090835,46.607064],[28.090801,46.607132],[28.092209,46.607522],[28.092704,46.606864],[28.091984,46.606674],[28.092219,46.606268]]],[[[28.091762,46.608274],[28.090483,46.607986],[28.090336,46.608301],[28.091577,46.608616],[28.091762,46.608274]]]],"type":"MultiPolygon"}
 }

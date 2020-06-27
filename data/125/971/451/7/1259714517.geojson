@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.37685,45.45298,24.37685,45.45298",
-    "geom:latitude":45.45298,
-    "geom:longitude":24.37685,
+    "geom:area":0.000075,
+    "geom:area_square_m":650856.442123,
+    "geom:bbox":"24.368084,45.445901,24.381774,45.461462",
+    "geom:latitude":45.455212,
+    "geom:longitude":24.375276,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168755.0",
     "gn:asciiname":"Gaujani",
@@ -24,13 +24,63 @@
     "gn:population":807,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.35685,45.43298,24.39685,45.47298",
+    "lbl:latitude":45.455336,
+    "lbl:longitude":24.374809,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.455336,
+    "mps:longitude":24.374809,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:cat_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:ceb_x_preferred":[
+        "Comuna G\u0103ujani"
+    ],
+    "name:eus_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:ita_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:msa_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:nld_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:por_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:ron_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:ron_x_variant":[
+        "Gaujani",
+        "Comuna G\u0103ujani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0413\u0430\u0443\u0436\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0443\u0436\u0430\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:vol_x_preferred":[
+        "G\u0103ujani"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u70cf\u624e\u5c3c\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677576
+        "gn:id":677576,
+        "ro-ancpi:id":168782
     },
     "wof:country":"RO",
-    "wof:geomhash":"5add23c1bf4151d838946987ff416c49",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9b4f8b26cf5ae7900fe53f06b1ea00f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +106,14 @@
         }
     ],
     "wof:id":1259714517,
-    "wof:lastmodified":1566611565,
-    "wof:name":"Gaujani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"G\u0103ujani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":807,
@@ -64,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.37685,
-    45.45298,
-    24.37685,
-    45.45298
+    24.368084,
+    45.445901,
+    24.381774,
+    45.461462
 ],
-  "geometry": {"coordinates":[24.37685,45.45298],"type":"Point"}
+  "geometry": {"coordinates":[[[24.371179,45.461462],[24.373549,45.460494],[24.374171,45.460633],[24.374288,45.461446],[24.376556,45.46138],[24.376394,45.457549],[24.379489,45.45845],[24.379745,45.459253],[24.381774,45.458625],[24.381138,45.457924],[24.380348,45.457388],[24.378101,45.456729],[24.378618,45.45536],[24.381049,45.453417],[24.378388,45.451896],[24.377362,45.452864],[24.37675,45.453082],[24.375774,45.45283],[24.376487,45.44967],[24.378111,45.446033],[24.376461,45.445901],[24.375754,45.446978],[24.374957,45.449315],[24.374706,45.450244],[24.374671,45.450335],[24.37403,45.451922],[24.373546,45.452883],[24.372226,45.452395],[24.370946,45.453061],[24.371808,45.453775],[24.371565,45.454631],[24.368314,45.453985],[24.368084,45.454741],[24.3704,45.455477],[24.371793,45.456747],[24.373052,45.458893],[24.370313,45.46056],[24.371179,45.461462]]],"type":"Polygon"}
 }

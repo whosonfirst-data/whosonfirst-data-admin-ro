@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.22122,47.61551,26.22122,47.61551",
-    "geom:latitude":47.61551,
-    "geom:longitude":26.22122,
+    "geom:area":0.000016,
+    "geom:area_square_m":136789.178402,
+    "geom:bbox":"26.221808,47.613104,26.237328,47.625968",
+    "geom:latitude":47.618788,
+    "geom:longitude":26.228714,
     "gn:admin1_code":"34",
     "gn:admin2_code":"149414",
     "gn:asciiname":"Bulai",
@@ -25,18 +25,28 @@
     "gn:population":621,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.20122,47.59551,26.24122,47.63551",
+    "lbl:latitude":47.614807,
+    "lbl:longitude":26.226543,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.614807,
+    "mps:longitude":26.226543,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bulai"
+    ],
     "name:und_x_variant":[
         "Bulai-Frumoasa",
         "Bulaia",
         "Bulai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683334
+        "gn:id":683334,
+        "ro-ancpi:id":149432
     },
     "wof:country":"RO",
-    "wof:geomhash":"860ed91a85c8710bb2d32ab8ecb918c5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"563b402b6e07317f3c5107ac9825aa7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +72,13 @@
         }
     ],
     "wof:id":1343307187,
-    "wof:lastmodified":1566609888,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203427,
     "wof:name":"Bulai",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
@@ -70,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.22122,
-    47.61551,
-    26.22122,
-    47.61551
+    26.221808,
+    47.613104,
+    26.237328,
+    47.625968
 ],
-  "geometry": {"coordinates":[26.22122,47.61551],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.225068,47.61748],[26.225328,47.615802],[26.226552,47.615522],[26.226885,47.615344],[26.229525,47.613932],[26.228647,47.613222],[26.228088,47.613104],[26.225506,47.614751],[26.224762,47.614548],[26.224015,47.615381],[26.224352,47.615593],[26.224335,47.616063],[26.224642,47.616138],[26.224413,47.616814],[26.223654,47.617427],[26.2226,47.617007],[26.221808,47.617973],[26.223709,47.618558],[26.225068,47.61748]]],[[[26.235619,47.625968],[26.237328,47.624332],[26.237038,47.624205],[26.236928,47.624158],[26.2365,47.623972],[26.235508,47.62489],[26.234397,47.624436],[26.234136,47.624638],[26.23224,47.623803],[26.231783,47.624255],[26.235265,47.625809],[26.235376,47.625859],[26.235619,47.625968]]],[[[26.231923,47.622812],[26.231491,47.621648],[26.231379,47.621667],[26.23061,47.622981],[26.231283,47.623324],[26.231923,47.622812]]],[[[26.232968,47.620685],[26.232386,47.62045],[26.231726,47.621273],[26.23227,47.621465],[26.232968,47.620685]]]],"type":"MultiPolygon"}
 }

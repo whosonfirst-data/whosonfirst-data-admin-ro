@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.68435,44.60698,24.68435,44.60698",
-    "geom:latitude":44.60698,
-    "geom:longitude":24.68435,
+    "geom:area":0.000036,
+    "geom:area_square_m":313080.831412,
+    "geom:bbox":"24.684869,44.596169,24.693313,44.605157",
+    "geom:latitude":44.600364,
+    "geom:longitude":24.689668,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126228",
     "gn:asciiname":"Batareni",
@@ -25,17 +25,30 @@
     "gn:population":125,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.66435,44.58698,24.70435,44.62698",
+    "lbl:latitude":44.600444,
+    "lbl:longitude":24.690084,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.600444,
+    "mps:longitude":24.690084,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "B\u0103t\u0103reni"
+    ],
+    "name:ron_x_variant":[
+        "Batareni"
+    ],
     "name:und_x_variant":[
         "B\u0103tereni",
         "B\u0103t\u0103reni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685275
+        "gn:id":685275,
+        "ro-ancpi:id":126255
     },
     "wof:country":"RO",
-    "wof:geomhash":"0a31761f97f3025c51f0fd0260b7a23d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a8bb8e93cae2e21b1edf134a9be10de",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1293161851,
-    "wof:lastmodified":1566610125,
-    "wof:name":"Batareni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203699,
+    "wof:name":"B\u0103t\u0103reni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":125,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.68435,
-    44.60698,
-    24.68435,
-    44.60698
+    24.684869,
+    44.596169,
+    24.693313,
+    44.605157
 ],
-  "geometry": {"coordinates":[24.68435,44.60698],"type":"Point"}
+  "geometry": {"coordinates":[[[24.689162,44.596436],[24.684869,44.596169],[24.690621,44.605157],[24.693313,44.604469],[24.691683,44.598232],[24.689678,44.598075],[24.689162,44.596436]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.24423,44.59797,24.24423,44.59797",
-    "geom:latitude":44.59797,
-    "geom:longitude":24.24423,
+    "geom:area":0.000075,
+    "geom:area_square_m":662008.848487,
+    "geom:bbox":"24.238006,44.588814,24.247208,44.60332",
+    "geom:latitude":44.59614,
+    "geom:longitude":24.242119,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173748.0",
     "gn:asciiname":"Condoiesti",
@@ -24,13 +24,24 @@
     "gn:population":407,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.22423,44.57797,24.26423,44.61797",
+    "lbl:latitude":44.59797,
+    "lbl:longitude":24.24423,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Condoie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Condoiesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680973
+        "gn:id":680973,
+        "ro-ancpi:id":173766
     },
     "wof:country":"RO",
-    "wof:geomhash":"1458e6b5a1152e9b5d232b6a603146ce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d3d6d43362688805f12bb42f4bd117a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1310136245,
-    "wof:lastmodified":1566610530,
-    "wof:name":"Condoiesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"Condoie\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":407,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.24423,
-    44.59797,
-    24.24423,
-    44.59797
+    24.238006,
+    44.588814,
+    24.247208,
+    44.60332
 ],
-  "geometry": {"coordinates":[24.24423,44.59797],"type":"Point"}
+  "geometry": {"coordinates":[[[24.244458,44.589226],[24.242381,44.588814],[24.241056,44.588832],[24.23894,44.589383],[24.238935,44.59613],[24.238006,44.596175],[24.238083,44.598422],[24.24008,44.598716],[24.242096,44.603044],[24.242234,44.60332],[24.24437,44.603152],[24.247208,44.602409],[24.245658,44.600083],[24.245886,44.597371],[24.243953,44.597335],[24.24377,44.595106],[24.243971,44.59381],[24.243461,44.592941],[24.244458,44.589226]]],"type":"Polygon"}
 }

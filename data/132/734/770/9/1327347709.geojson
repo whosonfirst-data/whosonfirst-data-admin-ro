@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.14271,46.22521,23.14271,46.22521",
-    "geom:latitude":46.22521,
-    "geom:longitude":23.14271,
+    "geom:area":0.00001,
+    "geom:area_square_m":82460.641877,
+    "geom:bbox":"23.13906,46.221819,23.147687,46.22755",
+    "geom:latitude":46.225616,
+    "geom:longitude":23.141919,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3459.0",
     "gn:asciiname":"Valea Poienii",
@@ -24,11 +24,14 @@
     "gn:population":47,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.12271,46.20521,23.16271,46.24521",
+    "lbl:latitude":46.226068,
+    "lbl:longitude":23.140547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.226068,
+    "mps:longitude":23.140547,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Poienii"
@@ -48,7 +51,11 @@
     "name:srp_x_preferred":[
         "\u0412\u0430\u0459\u0430 \u041f\u043e\u0458\u0435\u043d\u0438\u0458"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663508
+        "gn:id":663508,
+        "ro-ancpi:id":3725
     },
     "wof:country":"RO",
-    "wof:geomhash":"f9368fd5f61072849ef7f1985fe8098a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5dbcb00d6d58275bccc5c9f9dee105f9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +81,13 @@
         }
     ],
     "wof:id":1327347709,
-    "wof:lastmodified":1566609817,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203747,
     "wof:name":"Valea Poienii",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -82,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.14271,
-    46.22521,
-    23.14271,
-    46.22521
+    23.13906,
+    46.221819,
+    23.147687,
+    46.22755
 ],
-  "geometry": {"coordinates":[23.14271,46.22521],"type":"Point"}
+  "geometry": {"coordinates":[[[23.139964,46.222097],[23.13989,46.222116],[23.140073,46.223168],[23.141099,46.223613],[23.141315,46.223822],[23.141388,46.22394],[23.141428,46.224121],[23.141417,46.224287],[23.141383,46.224526],[23.141317,46.224765],[23.141278,46.224842],[23.141228,46.224927],[23.141137,46.225071],[23.141014,46.225213],[23.140715,46.225171],[23.140401,46.225133],[23.13906,46.226523],[23.139624,46.226755],[23.141126,46.227131],[23.142093,46.227427],[23.143018,46.227189],[23.147564,46.22755],[23.147687,46.227121],[23.145106,46.226997],[23.144491,46.22684],[23.143308,46.226732],[23.143237,46.22654],[23.142182,46.226502],[23.141587,46.226315],[23.141348,46.226092],[23.141711,46.22517],[23.141965,46.225176],[23.142022,46.224304],[23.14201,46.223611],[23.141921,46.223401],[23.141822,46.223313],[23.141709,46.223186],[23.141281,46.22295],[23.141009,46.22275],[23.1409,46.222269],[23.141177,46.221969],[23.14097,46.221819],[23.140458,46.222093],[23.139964,46.222097]]],"type":"Polygon"}
 }

@@ -27,8 +27,9 @@
     "lbl:bbox":"25.01333,46.49667,25.05333,46.53667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Demetestana",
@@ -37,7 +38,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,22 @@
     "wof:geomhash":"a314be2b52d8d5536803da8331642230",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209577369
+            "locality_id":1209577369,
+            "region_id":85687733
         }
     ],
     "wof:id":1209577369,
-    "wof:lastmodified":1566610340,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208582,
     "wof:name":"Demetertana",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

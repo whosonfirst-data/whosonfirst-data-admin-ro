@@ -49,7 +49,6 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101834547,
         85633745,
         85687645
     ],
@@ -66,15 +65,21 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101834547,
+            "locality_id":-1,
             "neighbourhood_id":1126102433,
             "region_id":85687645
         }
     ],
     "wof:id":1126102433,
-    "wof:lastmodified":1566611284,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208278,
     "wof:name":"M\u0103rcu\u0219i",
-    "wof:parent_id":101834547,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

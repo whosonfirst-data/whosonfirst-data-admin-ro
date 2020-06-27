@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.5749470609,47.1683469839,27.5749470609,47.1683469839",
+    "geom:bbox":"27.574947,47.168347,27.574947,47.168347",
     "geom:latitude":47.168347,
     "geom:longitude":27.574947,
     "iso:country":"RO",
@@ -66,11 +66,17 @@
     "name:deu_x_preferred":[
         "Ia\u0219i"
     ],
+    "name:deu_x_variant":[
+        "Iasi"
+    ],
     "name:ell_x_preferred":[
         "\u0399\u03ac\u03c3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ia\u0219i"
+    ],
+    "name:eng_x_variant":[
+        "Iasi"
     ],
     "name:epo_x_preferred":[
         "Ia\u0219i"
@@ -200,6 +206,9 @@
     ],
     "name:pol_x_preferred":[
         "Jassy"
+    ],
+    "name:por_br_x_preferred":[
+        "Ia\u0219i"
     ],
     "name:por_x_preferred":[
         "Ia\u0219i"
@@ -404,7 +413,7 @@
     },
     "wof:country":"RO",
     "wof:created":1499131037,
-    "wof:geomhash":"c6c3947c9e8ff8502a036b175ebeb5ff",
+    "wof:geomhash":"f9744df3eb0abd42b2cdf467268e92b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -414,7 +423,13 @@
         }
     ],
     "wof:id":1141909177,
-    "wof:lastmodified":1566611719,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208582,
     "wof:name":"Iasi",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
@@ -424,10 +439,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.57494706087027,
-    47.1683469839291,
-    27.57494706087027,
-    47.1683469839291
+    27.574947,
+    47.168347,
+    27.574947,
+    47.168347
 ],
-  "geometry": {"coordinates":[27.57494706087027,47.1683469839291],"type":"Point"}
+  "geometry": {"coordinates":[27.574947,47.168347],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0907451373,44.3937914747,26.0907451373,44.3937914747",
+    "geom:bbox":"26.090745,44.393791,26.090745,44.393791",
     "geom:latitude":44.393791,
     "geom:longitude":26.090745,
     "iso:country":"RO",
@@ -32,8 +32,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -42,7 +42,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363212,
-    "wof:geomhash":"8cc96d1e72a9b8ee63f26132d89f64a8",
+    "wof:geomhash":"666dc05e0963dee929253048174b47e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1108942607,
-    "wof:lastmodified":1566610513,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208078,
     "wof:name":"Giurgiului",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.090745137335,
-    44.39379147474521,
-    26.090745137335,
-    44.39379147474521
+    26.090745,
+    44.393791,
+    26.090745,
+    44.393791
 ],
-  "geometry": {"coordinates":[26.090745137335,44.39379147474521],"type":"Point"}
+  "geometry": {"coordinates":[26.090745,44.393791],"type":"Point"}
 }

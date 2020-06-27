@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.18333,45.15,24.18333,45.15",
-    "geom:latitude":45.15,
-    "geom:longitude":24.18333,
+    "geom:area":0.000062,
+    "geom:area_square_m":544641.312655,
+    "geom:bbox":"24.177935,45.138966,24.205161,45.1494",
+    "geom:latitude":45.145369,
+    "geom:longitude":24.189495,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173230.0",
     "gn:asciiname":"Zmeuratu",
@@ -24,18 +24,31 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.16333,45.13,24.20333,45.17",
+    "lbl:latitude":45.147623,
+    "lbl:longitude":24.189702,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.147623,
+    "mps:longitude":24.189702,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Zmeur\u0103tu"
+    ],
+    "name:ron_x_variant":[
+        "Zmeuratu"
+    ],
     "name:und_x_variant":[
         "Zmeur\u0103t",
         "Zmeuratul",
         "Zmeur\u0103tu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662151
+        "gn:id":662151,
+        "ro-ancpi:id":173365
     },
     "wof:country":"RO",
-    "wof:geomhash":"1d9c44ee7d4be430838017c5e85788bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eb416584d2684c9e9673c6dbeaf929d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1260114405,
-    "wof:lastmodified":1566610489,
-    "wof:name":"Zmeuratu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"Zmeur\u0103tu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.18333,
-    45.15,
-    24.18333,
-    45.15
+    24.177935,
+    45.138966,
+    24.205161,
+    45.1494
 ],
-  "geometry": {"coordinates":[24.18333,45.15],"type":"Point"}
+  "geometry": {"coordinates":[[[24.191605,45.149038],[24.191351,45.147274],[24.195045,45.147658],[24.197563,45.14748],[24.198489,45.148577],[24.199513,45.148447],[24.199311,45.147768],[24.202011,45.147351],[24.204015,45.147882],[24.205161,45.147389],[24.20485,45.146277],[24.203232,45.145944],[24.200109,45.146722],[24.198354,45.146806],[24.197087,45.146507],[24.194209,45.14639],[24.194334,45.145725],[24.193034,45.145449],[24.190248,45.144915],[24.189996,45.142231],[24.188235,45.142207],[24.188404,45.143371],[24.188662,45.145023],[24.188338,45.144869],[24.185471,45.143573],[24.184461,45.143587],[24.182436,45.143351],[24.181288,45.141937],[24.180546,45.13994],[24.179724,45.138966],[24.17817,45.139069],[24.179127,45.141101],[24.177935,45.141413],[24.178392,45.142339],[24.180304,45.1438],[24.182271,45.144484],[24.184313,45.144671],[24.184172,45.145533],[24.185756,45.145596],[24.185953,45.147289],[24.184305,45.148579],[24.185112,45.148897],[24.18697,45.147256],[24.186864,45.145812],[24.188745,45.146808],[24.187654,45.14758],[24.189035,45.1494],[24.191605,45.149038]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.2037051184,45.7233351962,21.2037051184,45.7233351962",
+    "geom:bbox":"21.203705,45.723335,21.203705,45.723335",
     "geom:latitude":45.723335,
     "geom:longitude":21.203705,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"3b2ca36721050dc6b02fd89d89855475",
+    "wof:geomhash":"0d4d81dad5c703d2660cd1fff6224a19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838851,
-    "wof:lastmodified":1566610408,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208080,
     "wof:name":"Steaua",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.20370511843419,
-    45.7233351962067,
-    21.20370511843419,
-    45.7233351962067
+    21.203705,
+    45.723335,
+    21.203705,
+    45.723335
 ],
-  "geometry": {"coordinates":[21.20370511843419,45.7233351962067],"type":"Point"}
+  "geometry": {"coordinates":[21.203705,45.723335],"type":"Point"}
 }

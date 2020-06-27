@@ -4,25 +4,29 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.71667,46.36667,23.71667,46.36667",
-    "geom:latitude":46.36667,
-    "geom:longitude":23.71667,
+    "geom:area":0.000094,
+    "geom:area_square_m":797921.271706,
+    "geom:bbox":"23.696648,46.356227,23.709568,46.371832",
+    "geom:latitude":46.3643,
+    "geom:longitude":23.703618,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2298,
     "iso:country":"RO",
-    "lbl:bbox":"23.69667,46.34667,23.73667,46.38667",
-    "lbl:latitude":46.36667,
-    "lbl:longitude":23.71667,
+    "lbl:latitude":46.364193,
+    "lbl:longitude":23.704597,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":46.364193,
+    "mps:longitude":23.704597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u0627\u0633\u0644\u0627\u0648"
+    ],
+    "name:arz_x_preferred":[
         "\u0645\u064a\u0631\u0627\u0633\u0644\u0627\u0648"
     ],
     "name:ceb_x_preferred":[
@@ -95,8 +99,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":875886,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -112,11 +119,15 @@
         "gn:id":673160,
         "gp:id":875886,
         "qs_pg:id":1278928,
+        "ro-ancpi:id":5764,
         "wd:id":"Q1096653"
     },
     "wof:country":"RO",
     "wof:created":1497298440,
-    "wof:geomhash":"9dc68249df4e5141dc058a0450351e96",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"cd09411498ed1a625a8fe85a675853e2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -126,7 +137,13 @@
         }
     ],
     "wof:id":1125978297,
-    "wof:lastmodified":1566611342,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203764,
     "wof:name":"Mir\u0103sl\u0103u",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -138,10 +155,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.71667,
-    46.36667,
-    23.71667,
-    46.36667
+    23.696648,
+    46.356227,
+    23.709568,
+    46.371832
 ],
-  "geometry": {"coordinates":[23.71667,46.36667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.703288,46.371371],[23.70379,46.370676],[23.705357,46.3685],[23.705489,46.368318],[23.70825,46.364485],[23.707579,46.361044],[23.709568,46.360125],[23.70498,46.356762],[23.704703,46.356559],[23.70425,46.356227],[23.700275,46.35967],[23.701941,46.362652],[23.700618,46.364718],[23.699633,46.369537],[23.696648,46.370226],[23.697647,46.371832],[23.699256,46.371701],[23.701381,46.371527],[23.703079,46.371389],[23.703288,46.371371]]],"type":"Polygon"}
 }

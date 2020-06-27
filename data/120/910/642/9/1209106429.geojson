@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.83124,46.57984,26.83124,46.57984",
-    "geom:latitude":46.57984,
-    "geom:longitude":26.83124,
+    "geom:area":0.000032,
+    "geom:area_square_m":275697.33466,
+    "geom:bbox":"26.816278,46.575004,26.832806,46.58316",
+    "geom:latitude":46.57758,
+    "geom:longitude":26.824826,
     "gn:admin1_code":"04",
     "gn:admin2_code":"20466.0",
     "gn:asciiname":"Padureni",
@@ -25,37 +25,88 @@
     "gn:population":355,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.81124,46.55984,26.85124,46.59984",
+    "lbl:latitude":46.57638,
+    "lbl:longitude":26.822635,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.57638,
+    "mps:longitude":26.822635,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:deu_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:epo_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:eus_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:hun_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ita_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "name:ron_x_variant":[
+        "Padureni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0434\u0443\u0440\u0435\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Sec\u0103tura",
         "P\u0103dureni"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "P\u0103dureni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687715
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671530
+        "gn:id":671530,
+        "ro-ancpi:id":20509
     },
     "wof:country":"RO",
-    "wof:geomhash":"59c25df6aa5bffc62633429c6cf216d6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"39aa98d61787171055d38a5bcb53ce4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209106429
+            "locality_id":1209106429,
+            "region_id":85687715
         }
     ],
     "wof:id":1209106429,
-    "wof:lastmodified":1566610396,
-    "wof:name":"Padureni",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203543,
+    "wof:name":"P\u0103dureni",
+    "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":355,
     "wof:population_rank":2,
@@ -65,10 +116,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.83124,
-    46.57984,
-    26.83124,
-    46.57984
+    26.816278,
+    46.575004,
+    26.832806,
+    46.58316
 ],
-  "geometry": {"coordinates":[26.83124,46.57984],"type":"Point"}
+  "geometry": {"coordinates":[[[26.832806,46.582634],[26.830814,46.579648],[26.82974,46.578594],[26.829194,46.57662],[26.829111,46.576552],[26.829157,46.576484],[26.829072,46.576177],[26.828295,46.576355],[26.827668,46.576044],[26.827181,46.575896],[26.825957,46.575739],[26.825216,46.575637],[26.824781,46.57525],[26.823915,46.575004],[26.823032,46.575132],[26.822922,46.575009],[26.821579,46.575363],[26.82054,46.57528],[26.819125,46.57544],[26.817999,46.575636],[26.817802,46.575471],[26.816278,46.576291],[26.816468,46.577039],[26.817459,46.577057],[26.817914,46.576868],[26.819079,46.577657],[26.819599,46.57741],[26.821105,46.577068],[26.82071,46.577597],[26.820669,46.578348],[26.821149,46.578397],[26.821681,46.577502],[26.822499,46.577807],[26.822643,46.577669],[26.823125,46.577775],[26.823228,46.577409],[26.823659,46.577459],[26.824198,46.57728],[26.824074,46.577043],[26.825055,46.576766],[26.826774,46.576875],[26.827764,46.577371],[26.828007,46.580187],[26.828621,46.58028],[26.828824,46.579935],[26.828711,46.579039],[26.831476,46.58316],[26.832057,46.58277],[26.832806,46.582634]]],"type":"Polygon"}
 }

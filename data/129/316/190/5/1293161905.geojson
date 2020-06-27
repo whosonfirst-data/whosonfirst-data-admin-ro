@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.79148,44.29903,24.79148,44.29903",
-    "geom:latitude":44.29903,
-    "geom:longitude":24.79148,
+    "geom:area":0.000144,
+    "geom:area_square_m":1274192.27747,
+    "geom:bbox":"24.774763,44.286838,24.799878,44.307531",
+    "geom:latitude":44.298008,
+    "geom:longitude":24.788665,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130311.0",
     "gn:asciiname":"Ghimpetenii Noi",
@@ -24,13 +24,24 @@
     "gn:population":568,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.77148,44.27903,24.81148,44.31903",
+    "lbl:latitude":44.29903,
+    "lbl:longitude":24.79148,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ghimpe\u0163enii Noi"
+    ],
+    "name:ron_x_variant":[
+        "Ghimpetenii Noi"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677364
+        "gn:id":677364,
+        "ro-ancpi:id":127741
     },
     "wof:country":"RO",
-    "wof:geomhash":"555c544e6b082bbc3a73df1e35c99edc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4afbce4abe0973d6455080caf12c5b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1293161905,
-    "wof:lastmodified":1566610124,
-    "wof:name":"Ghimpetenii Noi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203699,
+    "wof:name":"Ghimpe\u0163enii Noi",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":568,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.79148,
-    44.29903,
-    24.79148,
-    44.29903
+    24.774763,
+    44.286838,
+    24.799878,
+    44.307531
 ],
-  "geometry": {"coordinates":[24.79148,44.29903],"type":"Point"}
+  "geometry": {"coordinates":[[[24.778301,44.287211],[24.774763,44.286838],[24.780612,44.29323],[24.784317,44.297034],[24.79044,44.301814],[24.790137,44.304967],[24.791326,44.307511],[24.793938,44.307531],[24.799878,44.307413],[24.797618,44.300293],[24.793159,44.299979],[24.789083,44.295152],[24.781772,44.287576],[24.778301,44.287211]]],"type":"Polygon"}
 }

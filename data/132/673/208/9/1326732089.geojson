@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.69768,45.24817,24.69768,45.24817",
-    "geom:latitude":45.24817,
-    "geom:longitude":24.69768,
+    "geom:area":0.000011,
+    "geom:area_square_m":95573.773044,
+    "geom:bbox":"24.692379,45.246552,24.697188,45.252205",
+    "geom:latitude":45.248726,
+    "geom:longitude":24.694619,
     "gn:admin1_code":"03",
     "gn:admin2_code":"13819.0",
     "gn:asciiname":"Dumiresti",
@@ -24,13 +24,26 @@
     "gn:population":91,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.67768,45.22817,24.71768,45.26817",
+    "lbl:latitude":45.248211,
+    "lbl:longitude":24.694583,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.248211,
+    "mps:longitude":24.694583,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dumire\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Dumiresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678654
+        "gn:id":678654,
+        "ro-ancpi:id":13873
     },
     "wof:country":"RO",
-    "wof:geomhash":"6bfc517e2539ddae06f575f1f8404f32",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"afbdc9f7252268feaac0bd594f732c49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1326732089,
-    "wof:lastmodified":1566609779,
-    "wof:name":"Dumiresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203630,
+    "wof:name":"Dumire\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":91,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.69768,
-    45.24817,
-    24.69768,
-    45.24817
+    24.692379,
+    45.246552,
+    24.697188,
+    45.252205
 ],
-  "geometry": {"coordinates":[24.69768,45.24817],"type":"Point"}
+  "geometry": {"coordinates":[[[24.696549,45.248734],[24.69717,45.248287],[24.697188,45.247956],[24.696554,45.247707],[24.696204,45.247318],[24.695552,45.247204],[24.695269,45.247038],[24.69446,45.246552],[24.694074,45.246757],[24.693495,45.247151],[24.692774,45.247592],[24.692571,45.247975],[24.692661,45.248241],[24.692379,45.248369],[24.692519,45.248532],[24.692989,45.248466],[24.69298,45.248641],[24.693281,45.248662],[24.693494,45.249118],[24.69376,45.249547],[24.693617,45.24987],[24.693769,45.250065],[24.693818,45.250316],[24.693749,45.25093],[24.69373,45.251312],[24.693799,45.251589],[24.693855,45.251869],[24.694371,45.252205],[24.694751,45.251955],[24.694578,45.25157],[24.694735,45.250711],[24.695081,45.249444],[24.695509,45.24915],[24.696549,45.248734]]],"type":"Polygon"}
 }

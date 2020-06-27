@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.09642,44.86554,25.09642,44.86554",
-    "geom:latitude":44.86554,
-    "geom:longitude":25.09642,
+    "geom:area":0.000023,
+    "geom:area_square_m":204830.13007,
+    "geom:bbox":"25.090092,44.866965,25.098965,44.871641",
+    "geom:latitude":44.86906,
+    "geom:longitude":25.093976,
     "gn:admin1_code":"03",
     "gn:admin2_code":"18242.0",
     "gn:asciiname":"Samaila",
@@ -25,17 +25,30 @@
     "gn:population":346,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.07642,44.84554,25.11642,44.88554",
+    "lbl:latitude":44.868825,
+    "lbl:longitude":25.093169,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.868825,
+    "mps:longitude":25.093169,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u0103m\u0103ila"
+    ],
+    "name:ron_x_variant":[
+        "Samaila"
+    ],
     "name:und_x_variant":[
         "Samoelele",
         "Samaila"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668122
+        "gn:id":668122,
+        "ro-ancpi:id":18288
     },
     "wof:country":"RO",
-    "wof:geomhash":"e02326ab681e76bd3d0e5ef0fe452fa0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8ea63eb35f47c87d5edee01f799ae85d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1259981621,
-    "wof:lastmodified":1566611538,
-    "wof:name":"Samaila",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203649,
+    "wof:name":"S\u0103m\u0103ila",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":346,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.09642,
-    44.86554,
-    25.09642,
-    44.86554
+    25.090092,
+    44.866965,
+    25.098965,
+    44.871641
 ],
-  "geometry": {"coordinates":[25.09642,44.86554],"type":"Point"}
+  "geometry": {"coordinates":[[[25.092304,44.871412],[25.093133,44.870618],[25.093734,44.870618],[25.094408,44.870169],[25.095533,44.870094],[25.096688,44.870157],[25.097603,44.870135],[25.097992,44.869623],[25.097766,44.869068],[25.098156,44.868854],[25.098846,44.868523],[25.098965,44.868033],[25.097644,44.867884],[25.096279,44.867896],[25.095214,44.867727],[25.095348,44.867204],[25.093757,44.86706],[25.091819,44.866965],[25.091488,44.867138],[25.090976,44.867971],[25.091159,44.869496],[25.09074,44.870489],[25.090515,44.870364],[25.090092,44.870747],[25.090276,44.871411],[25.091228,44.871584],[25.091534,44.871641],[25.091999,44.871504],[25.092304,44.871412]]],"type":"Polygon"}
 }

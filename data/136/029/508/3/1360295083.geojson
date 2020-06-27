@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.81307,46.37749,23.81307,46.37749",
-    "geom:latitude":46.37749,
-    "geom:longitude":23.81307,
+    "geom:area":0.000073,
+    "geom:area_square_m":623926.538297,
+    "geom:bbox":"23.805327,46.370088,23.817508,46.381414",
+    "geom:latitude":46.376227,
+    "geom:longitude":23.810443,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1794.0",
     "gn:asciiname":"Cisteiu de Mures",
@@ -25,17 +25,28 @@
     "gn:population":643,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.79307,46.35749,23.83307,46.39749",
+    "lbl:latitude":46.37749,
+    "lbl:longitude":23.81307,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cisteiu de Mure\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Cisteiu de Mures"
+    ],
     "name:und_x_variant":[
         "Cisteiul de Mure\u015f",
         "Cisteiu de Mure\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681499
+        "gn:id":681499,
+        "ro-ancpi:id":1838
     },
     "wof:country":"RO",
-    "wof:geomhash":"d62bc8fa2a9454ead6fa250a78326792",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d97c7724ca7a7ea10d160661db1b1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1360295083,
-    "wof:lastmodified":1566610633,
-    "wof:name":"Cisteiu de Mures",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203760,
+    "wof:name":"Cisteiu de Mure\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":643,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.81307,
-    46.37749,
-    23.81307,
-    46.37749
+    23.805327,
+    46.370088,
+    23.817508,
+    46.381414
 ],
-  "geometry": {"coordinates":[23.81307,46.37749],"type":"Point"}
+  "geometry": {"coordinates":[[[23.81365,46.373789],[23.810897,46.372829],[23.810861,46.37275],[23.805348,46.370088],[23.8054,46.371039],[23.805327,46.371914],[23.8062,46.372619],[23.806564,46.373279],[23.806744,46.374328],[23.80712,46.374938],[23.807025,46.375263],[23.806717,46.375737],[23.806571,46.376083],[23.806512,46.376803],[23.806285,46.377576],[23.806122,46.378],[23.806448,46.377938],[23.806379,46.379098],[23.805937,46.37965],[23.805974,46.379931],[23.806513,46.380573],[23.807472,46.381102],[23.807989,46.381414],[23.808378,46.381408],[23.809044,46.381208],[23.810911,46.380416],[23.811338,46.380287],[23.81213,46.380091],[23.812786,46.379767],[23.81372,46.378865],[23.814157,46.378519],[23.814491,46.378414],[23.814841,46.378365],[23.815061,46.378179],[23.815604,46.37743],[23.817508,46.374936],[23.813867,46.37349],[23.81365,46.373789]]],"type":"Polygon"}
 }

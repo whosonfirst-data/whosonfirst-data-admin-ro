@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.09195,44.8504,26.09195,44.8504",
-    "geom:latitude":44.8504,
-    "geom:longitude":26.09195,
+    "geom:area":0.000051,
+    "geom:area_square_m":446411.052822,
+    "geom:bbox":"26.087756,44.846455,26.098862,44.856436",
+    "geom:latitude":44.851427,
+    "geom:longitude":26.09275,
     "gn:admin1_code":"30",
     "gn:admin2_code":"130552.0",
     "gn:asciiname":"Puscasi",
@@ -25,17 +25,38 @@
     "gn:population":428,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.07195,44.8304,26.11195,44.8704",
+    "lbl:latitude":44.8504,
+    "lbl:longitude":26.09195,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "Pu\u015fca\u015fi"
+    ],
+    "name:por_x_preferred":[
+        "Pu\u015fca\u015fi"
+    ],
+    "name:ron_x_preferred":[
+        "Pu\u015fca\u015fi"
+    ],
+    "name:ron_x_variant":[
+        "Puscasi",
+        "Pu\u0219ca\u0219i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0448\u043a\u0430\u0448\u0456"
+    ],
     "name:und_x_variant":[
         "Pu\u015fca\u015f",
         "Pu\u015fca\u015fi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669464
+        "gn:id":669464,
+        "ro-ancpi:id":130589
     },
     "wof:country":"RO",
-    "wof:geomhash":"7bc3b77ee261d214f57ca9b9ccad3b63",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b5d32fb03fbe34cde41e2d88ae86f2a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +82,14 @@
         }
     ],
     "wof:id":1193224583,
-    "wof:lastmodified":1566610433,
-    "wof:name":"Puscasi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203577,
+    "wof:name":"Pu\u015fca\u015fi",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":428,
@@ -69,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.09195,
-    44.8504,
-    26.09195,
-    44.8504
+    26.087756,
+    44.846455,
+    26.098862,
+    44.856436
 ],
-  "geometry": {"coordinates":[26.09195,44.8504],"type":"Point"}
+  "geometry": {"coordinates":[[[26.097829,44.84686],[26.096454,44.846552],[26.096021,44.846455],[26.093048,44.848753],[26.089906,44.848097],[26.089703,44.848352],[26.089073,44.848294],[26.088469,44.849343],[26.088676,44.849606],[26.088669,44.850659],[26.089459,44.850694],[26.089982,44.850828],[26.089036,44.851914],[26.088445,44.851758],[26.088243,44.85224],[26.089467,44.852584],[26.089014,44.852922],[26.087756,44.854241],[26.090295,44.856436],[26.091918,44.854962],[26.092062,44.854576],[26.092293,44.854034],[26.092295,44.853834],[26.092294,44.852956],[26.093039,44.852175],[26.094307,44.853056],[26.097078,44.854989],[26.098018,44.854337],[26.097939,44.854274],[26.098862,44.853662],[26.096101,44.851644],[26.09619,44.851558],[26.094234,44.850218],[26.095539,44.849154],[26.098375,44.846982],[26.097829,44.84686]]],"type":"Polygon"}
 }

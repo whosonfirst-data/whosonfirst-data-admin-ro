@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.04699,45.73057,25.04699,45.73057",
-    "geom:latitude":45.73057,
-    "geom:longitude":25.04699,
+    "geom:area":0.00008,
+    "geom:area_square_m":690465.856801,
+    "geom:bbox":"25.040359,45.721963,25.04925,45.736263",
+    "geom:latitude":45.730192,
+    "geom:longitude":25.045693,
     "gn:admin1_code":"09",
     "gn:admin2_code":"41113.0",
     "gn:asciiname":"Margineni",
@@ -24,13 +24,51 @@
     "gn:population":378,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.02699,45.71057,25.06699,45.75057",
+    "lbl:latitude":45.73057,
+    "lbl:longitude":25.04699,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:deu_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:eus_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:fra_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:hun_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:nld_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:ron_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "name:ron_x_variant":[
+        "Margineni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0452\u0438\u043d\u0435\u043d\u0438"
+    ],
+    "name:vol_x_preferred":[
+        "M\u0103rgineni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673797
+        "gn:id":673797,
+        "ro-ancpi:id":41159
     },
     "wof:country":"RO",
-    "wof:geomhash":"c400e517db73b29351acde7a89e97c83",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4e6570a7d39a5025806a1b710742438f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +94,14 @@
         }
     ],
     "wof:id":1277095337,
-    "wof:lastmodified":1566610160,
-    "wof:name":"Margineni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203781,
+    "wof:name":"M\u0103rgineni",
     "wof:parent_id":85687683,
     "wof:placetype":"locality",
     "wof:population":378,
@@ -64,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.04699,
-    45.73057,
-    25.04699,
-    45.73057
+    25.040359,
+    45.721963,
+    25.04925,
+    45.736263
 ],
-  "geometry": {"coordinates":[25.04699,45.73057],"type":"Point"}
+  "geometry": {"coordinates":[[[25.049023,45.731783],[25.04917,45.729469],[25.049232,45.726781],[25.048528,45.726781],[25.048506,45.72593],[25.049207,45.723934],[25.04925,45.723471],[25.048631,45.723113],[25.049099,45.722142],[25.048118,45.721963],[25.047714,45.722665],[25.046178,45.722681],[25.045454,45.72401],[25.044688,45.725294],[25.044177,45.726146],[25.043815,45.726579],[25.043048,45.727923],[25.04266,45.728544],[25.043897,45.728932],[25.044068,45.729006],[25.042704,45.730411],[25.042619,45.730605],[25.040806,45.730217],[25.040529,45.73068],[25.040359,45.730859],[25.041084,45.730964],[25.041382,45.731053],[25.041212,45.731725],[25.041107,45.733024],[25.040745,45.734114],[25.040639,45.734567],[25.041151,45.734865],[25.041263,45.735221],[25.044697,45.736175],[25.047449,45.736263],[25.047683,45.735681],[25.048002,45.735367],[25.048514,45.7348],[25.04879,45.733112],[25.049023,45.731783]]],"type":"Polygon"}
 }

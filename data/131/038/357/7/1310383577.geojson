@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.68333,45.23333,26.68333,45.23333",
-    "geom:latitude":45.23333,
-    "geom:longitude":26.68333,
+    "geom:area":0.000008,
+    "geom:area_square_m":69395.883148,
+    "geom:bbox":"26.696911,45.226775,26.701317,45.23096",
+    "geom:latitude":45.228678,
+    "geom:longitude":26.698778,
     "gn:admin1_code":"11",
     "gn:admin2_code":"50102.0",
     "gn:asciiname":"Carlomanesti",
@@ -24,16 +24,29 @@
     "gn:population":177,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.66333,45.21333,26.70333,45.25333",
+    "lbl:latitude":45.227696,
+    "lbl:longitude":26.698445,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.227696,
+    "mps:longitude":26.698445,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u00e2rlom\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Carlomanesti"
+    ],
     "name:und_x_variant":[
         "C\u00eerlom\u0103ne\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681545
+        "gn:id":681545,
+        "ro-ancpi:id":50148
     },
     "wof:country":"RO",
-    "wof:geomhash":"87646a64a2764030bca607e8961ba457",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"415f5fba45b6797eeff3d65b449022db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +72,14 @@
         }
     ],
     "wof:id":1310383577,
-    "wof:lastmodified":1566610545,
-    "wof:name":"Carlomanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203597,
+    "wof:name":"C\u00e2rlom\u0103ne\u015fti",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":177,
@@ -67,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.68333,
-    45.23333,
-    26.68333,
-    45.23333
+    26.696911,
+    45.226775,
+    26.701317,
+    45.23096
 ],
-  "geometry": {"coordinates":[26.68333,45.23333],"type":"Point"}
+  "geometry": {"coordinates":[[[26.699951,45.226984],[26.696911,45.226775],[26.697294,45.227376],[26.697495,45.227653],[26.697786,45.228083],[26.697068,45.228221],[26.697344,45.228636],[26.697388,45.22871],[26.697302,45.228746],[26.697966,45.229569],[26.698378,45.229717],[26.698629,45.229702],[26.698535,45.230846],[26.698742,45.230861],[26.699972,45.23096],[26.699756,45.228854],[26.701281,45.228862],[26.701317,45.228473],[26.698681,45.228596],[26.699951,45.226984]]],"type":"Polygon"}
 }

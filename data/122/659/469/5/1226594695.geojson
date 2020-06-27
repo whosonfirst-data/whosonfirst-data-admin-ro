@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.60235,44.7244,24.60235,44.7244",
-    "geom:latitude":44.7244,
-    "geom:longitude":24.60235,
+    "geom:area":0.000033,
+    "geom:area_square_m":288366.186715,
+    "geom:bbox":"24.597483,44.718989,24.607531,44.731244",
+    "geom:latitude":44.725025,
+    "geom:longitude":24.601112,
     "gn:admin1_code":"29",
     "gn:admin2_code":"125757.0",
     "gn:asciiname":"Mereni",
@@ -24,16 +24,22 @@
     "gn:population":223,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.58235,44.7044,24.62235,44.7444",
+    "lbl:latitude":44.725597,
+    "lbl:longitude":24.599932,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.725597,
+    "mps:longitude":24.599932,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mereni"
     ],
     "name:deu_x_preferred":[
+        "Mereni"
+    ],
+    "name:eus_x_preferred":[
         "Mereni"
     ],
     "name:fra_x_preferred":[
@@ -60,7 +66,11 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0435\u043d\u044c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673580
+        "gn:id":673580,
+        "ro-ancpi:id":125819
     },
     "wof:country":"RO",
-    "wof:geomhash":"e00b1122eb52c9e8dd28f6fb5672dac8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4ccaae9a1d92b567427626ccac509f18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,7 +96,13 @@
         }
     ],
     "wof:id":1226594695,
-    "wof:lastmodified":1566611646,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203708,
     "wof:name":"Mereni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -94,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.60235,
-    44.7244,
-    24.60235,
-    44.7244
+    24.597483,
+    44.718989,
+    24.607531,
+    44.731244
 ],
-  "geometry": {"coordinates":[24.60235,44.7244],"type":"Point"}
+  "geometry": {"coordinates":[[[24.604448,44.722091],[24.607531,44.719799],[24.606866,44.718989],[24.605673,44.719847],[24.60328,44.721043],[24.602588,44.720737],[24.598697,44.7245],[24.597483,44.727329],[24.59823,44.729293],[24.599261,44.731179],[24.600962,44.731244],[24.600845,44.730593],[24.600284,44.73018],[24.599896,44.728837],[24.600994,44.727775],[24.601629,44.725227],[24.603233,44.722918],[24.604448,44.722091]]],"type":"Polygon"}
 }

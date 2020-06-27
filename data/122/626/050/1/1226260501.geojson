@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.2,46.36667,23.2,46.36667",
-    "geom:latitude":46.36667,
-    "geom:longitude":23.2,
+    "geom:area":0.000009,
+    "geom:area_square_m":79709.930515,
+    "geom:bbox":"23.205422,46.352028,23.21183,46.355086",
+    "geom:latitude":46.353687,
+    "geom:longitude":23.208074,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5336.0",
     "gn:asciiname":"Parau Carbunari",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.18,46.34667,23.22,46.38667",
+    "lbl:latitude":46.353184,
+    "lbl:longitude":23.207491,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.353184,
+    "mps:longitude":23.207491,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u00e2r\u00e2u-C\u0103rbun\u0103ri"
+    ],
+    "name:ron_x_variant":[
+        "Parau Carbunari"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670736
+        "gn:id":670736,
+        "ro-ancpi:id":5489
     },
     "wof:country":"RO",
-    "wof:geomhash":"1030c8c227dfee6c6e076500b8dafb72",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bd544eb0fe948ff0b47759b5089778e3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +68,14 @@
         }
     ],
     "wof:id":1226260501,
-    "wof:lastmodified":1566611620,
-    "wof:name":"Parau Carbunari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203769,
+    "wof:name":"P\u00e2r\u00e2u-C\u0103rbun\u0103ri",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.2,
-    46.36667,
-    23.2,
-    46.36667
+    23.205422,
+    46.352028,
+    23.21183,
+    46.355086
 ],
-  "geometry": {"coordinates":[23.2,46.36667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.206403,46.355075],[23.206453,46.355086],[23.206478,46.35505],[23.206555,46.354984],[23.206668,46.354887],[23.206732,46.354848],[23.206826,46.35479],[23.206898,46.354765],[23.206999,46.354729],[23.207137,46.354683],[23.207215,46.354637],[23.207298,46.354567],[23.207368,46.354464],[23.207499,46.354179],[23.208831,46.354971],[23.209839,46.354733],[23.210199,46.354388],[23.21183,46.353676],[23.211095,46.353175],[23.209654,46.353768],[23.208784,46.3533],[23.208382,46.352757],[23.208436,46.352599],[23.208211,46.352028],[23.20647,46.352376],[23.205951,46.352733],[23.206383,46.35312],[23.205422,46.35405],[23.206403,46.355075]]],"type":"Polygon"}
 }

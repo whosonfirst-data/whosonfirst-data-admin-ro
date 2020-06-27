@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.92194,44.68279,23.92194,44.68279",
-    "geom:latitude":44.68279,
-    "geom:longitude":23.92194,
+    "geom:area":0.000079,
+    "geom:area_square_m":692026.641508,
+    "geom:bbox":"23.913866,44.674992,23.928033,44.693025",
+    "geom:latitude":44.682942,
+    "geom:longitude":23.919287,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168452.0",
     "gn:asciiname":"Carlogani",
@@ -25,17 +25,62 @@
     "gn:population":345,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.90194,44.66279,23.94194,44.70279",
+    "lbl:latitude":44.68279,
+    "lbl:longitude":23.92194,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Comuna C\u00e2rlogani"
+    ],
+    "name:eus_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:msa_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:nld_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:por_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:ron_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:ron_x_variant":[
+        "Carlogani",
+        "Comuna C\u00e2rlogani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0440\u043b\u043e\u0433\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0440\u043b\u043e\u0433\u0430\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "C\u00e2rlogani",
         "C\u00eerlogani"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:vol_x_preferred":[
+        "C\u00e2rlogani"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u723e\u6d1b\u52a0\u5c3c\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681548
+        "gn:id":681548,
+        "ro-ancpi:id":168498
     },
     "wof:country":"RO",
-    "wof:geomhash":"6c33ea48130759addd2dec0be9aa6888",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"144bf8d83c6ff6f7c376979ea269a918",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +106,14 @@
         }
     ],
     "wof:id":1193170935,
-    "wof:lastmodified":1566610455,
-    "wof:name":"Carlogani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"C\u00e2rlogani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":345,
@@ -69,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.92194,
-    44.68279,
-    23.92194,
-    44.68279
+    23.913866,
+    44.674992,
+    23.928033,
+    44.693025
 ],
-  "geometry": {"coordinates":[23.92194,44.68279],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.916204,44.686318],[23.916219,44.684983],[23.917175,44.68508],[23.918249,44.686123],[23.919582,44.686988],[23.922203,44.687683],[23.922393,44.687153],[23.920746,44.686804],[23.919651,44.686045],[23.919078,44.685068],[23.921344,44.685453],[23.922455,44.686154],[23.925419,44.686412],[23.925344,44.685568],[23.922541,44.684963],[23.92139,44.6846],[23.924683,44.68377],[23.923988,44.681465],[23.922137,44.680643],[23.922121,44.680064],[23.922781,44.679622],[23.92315,44.679791],[23.927339,44.67703],[23.927058,44.676789],[23.928033,44.676372],[23.92734,44.675668],[23.923487,44.678214],[23.921434,44.679273],[23.920273,44.682223],[23.917582,44.681691],[23.917745,44.68141],[23.918661,44.679417],[23.918898,44.679139],[23.919844,44.678156],[23.920345,44.675059],[23.919038,44.674992],[23.91834,44.675592],[23.917051,44.678816],[23.917045,44.678826],[23.916788,44.679433],[23.915931,44.680962],[23.914721,44.68066],[23.914257,44.681407],[23.914986,44.681597],[23.914078,44.683555],[23.913866,44.685249],[23.914592,44.687621],[23.914907,44.689339],[23.917796,44.689476],[23.916204,44.686318]]],[[[23.91886,44.692897],[23.918591,44.691574],[23.9164,44.691703],[23.916628,44.693025],[23.91886,44.692897]]]],"type":"MultiPolygon"}
 }

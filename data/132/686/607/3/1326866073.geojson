@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.84313,44.84844,23.84313,44.84844",
-    "geom:latitude":44.84844,
-    "geom:longitude":23.84313,
+    "geom:area":0.000109,
+    "geom:area_square_m":955485.419016,
+    "geom:bbox":"23.83797,44.818548,23.872604,44.846923",
+    "geom:latitude":44.835582,
+    "geom:longitude":23.855265,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170872.0",
     "gn:asciiname":"Plesoiu",
@@ -25,17 +25,46 @@
     "gn:population":316,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.82313,44.82844,23.86313,44.86844",
+    "lbl:latitude":44.838847,
+    "lbl:longitude":23.869374,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.838847,
+    "mps:longitude":23.869374,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "name:por_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "name:ron_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "name:ron_x_variant":[
+        "Plesoiu",
+        "Ple\u0219oiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u043e\u044e"
+    ],
     "name:und_x_variant":[
         "Ple\u015foiul",
         "Ple\u015foiu"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Plesoiu"
+    ],
+    "name:vol_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670493
+        "gn:id":670493,
+        "ro-ancpi:id":170934
     },
     "wof:country":"RO",
-    "wof:geomhash":"12edaaac5f290ece88dd91d7f2db66a4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"96b7166132e4444cbbc07040185ec262",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +90,14 @@
         }
     ],
     "wof:id":1326866073,
-    "wof:lastmodified":1566609769,
-    "wof:name":"Plesoiu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203678,
+    "wof:name":"Ple\u015foiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":316,
@@ -69,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.84313,
-    44.84844,
-    23.84313,
-    44.84844
+    23.83797,
+    44.818548,
+    23.872604,
+    44.846923
 ],
-  "geometry": {"coordinates":[23.84313,44.84844],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.841046,44.846602],[23.843179,44.846923],[23.844261,44.845202],[23.843495,44.842403],[23.843299,44.840311],[23.843643,44.839346],[23.844159,44.837254],[23.843738,44.835652],[23.842709,44.83203],[23.84078,44.832198],[23.840999,44.834314],[23.841744,44.836447],[23.841275,44.837613],[23.840753,44.839982],[23.841574,44.845256],[23.841046,44.846602]]],[[[23.871691,44.835529],[23.87001,44.835263],[23.866844,44.839744],[23.865157,44.8436],[23.867188,44.844202],[23.869547,44.840661],[23.87187,44.838901],[23.871691,44.835529]]],[[[23.872267,44.831237],[23.872604,44.823781],[23.870098,44.823814],[23.868867,44.83097],[23.872267,44.831237]]],[[[23.853586,44.840879],[23.853026,44.839616],[23.848764,44.839808],[23.848799,44.841231],[23.849036,44.842679],[23.850711,44.843037],[23.851485,44.842659],[23.853586,44.840879]]],[[[23.841026,44.819112],[23.838859,44.818548],[23.83797,44.822084],[23.840501,44.822188],[23.841026,44.819112]]],[[[23.844395,44.830221],[23.843965,44.828647],[23.841433,44.828887],[23.841699,44.830675],[23.841717,44.830672],[23.844395,44.830221]]]],"type":"MultiPolygon"}
 }

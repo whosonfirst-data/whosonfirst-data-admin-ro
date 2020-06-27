@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.44177,45.69663,27.44177,45.69663",
-    "geom:latitude":45.69663,
-    "geom:longitude":27.44177,
+    "geom:area":0.000117,
+    "geom:area_square_m":1012276.506897,
+    "geom:bbox":"27.432714,45.689809,27.447527,45.703207",
+    "geom:latitude":45.695728,
+    "geom:longitude":27.440236,
     "gn:admin1_code":"18",
     "gn:admin2_code":"77402.0",
     "gn:asciiname":"Salcia",
@@ -24,16 +24,20 @@
     "gn:population":926,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.42177,45.67663,27.46177,45.71663",
+    "lbl:latitude":45.69663,
+    "lbl:longitude":27.44177,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Salcia"
     ],
     "name:deu_x_preferred":[
+        "Salcia"
+    ],
+    "name:eus_x_preferred":[
         "Salcia"
     ],
     "name:fra_x_preferred":[
@@ -60,27 +64,45 @@
     "name:vol_x_preferred":[
         "Salcia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687709
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668208
+        "gn:id":668208,
+        "ro-ancpi:id":77439
     },
     "wof:country":"RO",
-    "wof:geomhash":"a20255303a5b6b0fedc682ddc0556c6d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0f908450480832b3159209ec6b690aa3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209082075
+            "locality_id":1209082075,
+            "region_id":85687709
         }
     ],
     "wof:id":1209082075,
-    "wof:lastmodified":1566610299,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203482,
     "wof:name":"Salcia",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:population":926,
     "wof:population_rank":2,
@@ -90,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.44177,
-    45.69663,
-    27.44177,
-    45.69663
+    27.432714,
+    45.689809,
+    27.447527,
+    45.703207
 ],
-  "geometry": {"coordinates":[27.44177,45.69663],"type":"Point"}
+  "geometry": {"coordinates":[[[27.435537,45.702658],[27.437808,45.703075],[27.438281,45.703207],[27.439072,45.702075],[27.439732,45.701505],[27.441225,45.700787],[27.443014,45.700062],[27.44387,45.699648],[27.4444,45.698972],[27.444708,45.69854],[27.444896,45.69785],[27.445228,45.697208],[27.447527,45.69499],[27.447505,45.69449],[27.446063,45.694256],[27.446322,45.692005],[27.446567,45.69119],[27.447016,45.690429],[27.444904,45.689809],[27.443828,45.690813],[27.437688,45.690193],[27.436874,45.690799],[27.43632,45.691301],[27.43594,45.691854],[27.435933,45.692399],[27.435303,45.693295],[27.434497,45.693377],[27.433588,45.692852],[27.432714,45.693851],[27.434828,45.694884],[27.434433,45.696564],[27.434526,45.69727],[27.434877,45.698199],[27.435572,45.699502],[27.436199,45.701061],[27.436103,45.701728],[27.435537,45.702658]]],"type":"Polygon"}
 }

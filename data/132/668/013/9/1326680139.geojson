@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.10857,44.94936,26.10857,44.94936",
-    "geom:latitude":44.94936,
-    "geom:longitude":26.10857,
+    "geom:area":0.000094,
+    "geom:area_square_m":826694.104587,
+    "geom:bbox":"26.096256,44.94297,26.112836,44.952975",
+    "geom:latitude":44.947635,
+    "geom:longitude":26.104551,
     "gn:admin1_code":"30",
     "gn:admin2_code":"130614.0",
     "gn:asciiname":"Moara Noua",
@@ -24,13 +24,30 @@
     "gn:population":859,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.08857,44.92936,26.12857,44.96936",
+    "lbl:latitude":44.94936,
+    "lbl:longitude":26.10857,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:deu_x_preferred":[
+        "Moara Nou\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Moara Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Moara Noua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0430\u0440\u0430-\u041d\u043e\u0443\u0435"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673000
+        "gn:id":673000,
+        "ro-ancpi:id":130669
     },
     "wof:country":"RO",
-    "wof:geomhash":"cead15d9acd0ada23487a88500b29dce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1a359eef9ee15ef0431e042a48000620",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +73,14 @@
         }
     ],
     "wof:id":1326680139,
-    "wof:lastmodified":1566609797,
-    "wof:name":"Moara Noua",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203573,
+    "wof:name":"Moara Nou\u0103",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":859,
@@ -64,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.10857,
-    44.94936,
-    26.10857,
-    44.94936
+    26.096256,
+    44.94297,
+    26.112836,
+    44.952975
 ],
-  "geometry": {"coordinates":[26.10857,44.94936],"type":"Point"}
+  "geometry": {"coordinates":[[[26.101315,44.94297],[26.10096,44.943137],[26.100509,44.944677],[26.099753,44.94701],[26.09909,44.947971],[26.09909,44.947972],[26.099079,44.947987],[26.099025,44.948066],[26.098763,44.948271],[26.098711,44.948311],[26.098709,44.948313],[26.098408,44.948548],[26.097844,44.948937],[26.097842,44.948938],[26.097705,44.949025],[26.097702,44.949027],[26.097026,44.949415],[26.097026,44.949415],[26.097439,44.94961],[26.096256,44.950186],[26.097171,44.950857],[26.098433,44.950336],[26.102542,44.952975],[26.103555,44.952477],[26.105451,44.951841],[26.106458,44.951868],[26.106527,44.951938],[26.107023,44.951804],[26.107712,44.951459],[26.108686,44.950941],[26.10898,44.950271],[26.109652,44.950423],[26.109746,44.949986],[26.109407,44.949895],[26.110506,44.948367],[26.110239,44.948224],[26.109945,44.948175],[26.109708,44.948011],[26.110111,44.946135],[26.110123,44.944505],[26.112836,44.944655],[26.112699,44.943627],[26.107685,44.943458],[26.10704,44.943263],[26.101315,44.94297]]],"type":"Polygon"}
 }

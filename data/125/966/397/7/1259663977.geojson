@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.85761,44.83594,21.85761,44.83594",
-    "geom:latitude":44.83594,
-    "geom:longitude":21.85761,
+    "geom:area":0.000012,
+    "geom:area_square_m":103813.927421,
+    "geom:bbox":"21.852898,44.833449,21.858518,44.837296",
+    "geom:latitude":44.83551,
+    "geom:longitude":21.855559,
     "gn:admin1_code":"12",
     "gn:admin2_code":"54163.0",
     "gn:asciiname":"Dristie",
@@ -24,13 +24,24 @@
     "gn:population":35,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.83761,44.81594,21.87761,44.85594",
+    "lbl:latitude":44.83594,
+    "lbl:longitude":21.85761,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dri\u015ftie"
+    ],
+    "name:ron_x_variant":[
+        "Dristie"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678818
+        "gn:id":678818,
+        "ro-ancpi:id":54190
     },
     "wof:country":"RO",
-    "wof:geomhash":"05aa52166bd8e380a67a78fa54d25a8b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9c8fb0ab91973b4bfd4c37f1c976a455",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1259663977,
-    "wof:lastmodified":1566611575,
-    "wof:name":"Dristie",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203625,
+    "wof:name":"Dri\u015ftie",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":35,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.85761,
-    44.83594,
-    21.85761,
-    44.83594
+    21.852898,
+    44.833449,
+    21.858518,
+    44.837296
 ],
-  "geometry": {"coordinates":[21.85761,44.83594],"type":"Point"}
+  "geometry": {"coordinates":[[[21.856437,44.834079],[21.854867,44.833449],[21.853721,44.834416],[21.85412,44.835259],[21.852898,44.835598],[21.853487,44.836535],[21.856115,44.837296],[21.858518,44.83577],[21.857215,44.834941],[21.856437,44.834079]]],"type":"Polygon"}
 }

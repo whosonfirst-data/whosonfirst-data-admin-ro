@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.2216,44.77377,25.2216,44.77377",
-    "geom:latitude":44.77377,
-    "geom:longitude":25.2216,
+    "geom:area":0.000027,
+    "geom:area_square_m":236164.189807,
+    "geom:bbox":"25.208637,44.771512,25.221896,44.776632",
+    "geom:latitude":44.773955,
+    "geom:longitude":25.215153,
     "gn:admin1_code":"16",
     "gn:admin2_code":"69170.0",
     "gn:asciiname":"Feteni",
@@ -24,13 +24,26 @@
     "gn:population":137,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.2016,44.75377,25.2416,44.79377",
+    "lbl:latitude":44.774061,
+    "lbl:longitude":25.214153,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.774061,
+    "mps:longitude":25.214153,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Fe\u0163eni"
+    ],
+    "name:ron_x_variant":[
+        "Feteni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678309
+        "gn:id":678309,
+        "ro-ancpi:id":69198
     },
     "wof:country":"RO",
-    "wof:geomhash":"77cfd7adb70ba027340ee8e3fa3ac8e6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1d8e8f28d894664ca0321046c7b453f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293765757,
-    "wof:lastmodified":1566610075,
-    "wof:name":"Feteni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203719,
+    "wof:name":"Fe\u0163eni",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":137,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.2216,
-    44.77377,
-    25.2216,
-    44.77377
+    25.208637,
+    44.771512,
+    25.221896,
+    44.776632
 ],
-  "geometry": {"coordinates":[25.2216,44.77377],"type":"Point"}
+  "geometry": {"coordinates":[[[25.208655,44.774399],[25.208637,44.774404],[25.208808,44.774823],[25.208856,44.77498],[25.208867,44.775052],[25.20892,44.775125],[25.20899,44.775222],[25.209524,44.775939],[25.209587,44.776027],[25.209595,44.776038],[25.210697,44.775729],[25.211361,44.776632],[25.21371,44.775667],[25.213497,44.775291],[25.214342,44.775064],[25.214635,44.775534],[25.215506,44.775287],[25.215186,44.774572],[25.218513,44.773606],[25.218831,44.774001],[25.219914,44.773697],[25.220445,44.774374],[25.22166,44.774033],[25.221473,44.773694],[25.221896,44.77358],[25.220778,44.771512],[25.214889,44.772822],[25.209145,44.774273],[25.208655,44.774399]]],"type":"Polygon"}
 }

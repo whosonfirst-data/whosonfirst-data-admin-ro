@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.92999,46.73323,27.92999,46.73323",
-    "geom:latitude":46.73323,
-    "geom:longitude":27.92999,
+    "geom:area":0.000018,
+    "geom:area_square_m":155192.024028,
+    "geom:bbox":"27.924369,46.731583,27.931731,46.740975",
+    "geom:latitude":46.735202,
+    "geom:longitude":27.9279,
     "gn:admin1_code":"38",
     "gn:admin2_code":"166315.0",
     "gn:asciiname":"Mantu",
@@ -25,13 +25,17 @@
     "gn:population":50,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.90999,46.71323,27.94999,46.75323",
+    "lbl:latitude":46.73323,
+    "lbl:longitude":27.92999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
+        "Mantu"
+    ],
+    "name:ron_x_preferred":[
         "Mantu"
     ],
     "name:und_x_variant":[
@@ -39,7 +43,11 @@
         "Mantul",
         "Man\u0163u"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673902
+        "gn:id":673902,
+        "ro-ancpi:id":166379
     },
     "wof:country":"RO",
-    "wof:geomhash":"4c011cf05f4a350f8c21207a0d1b2303",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6ffdf87082c6feb7f7adf6af1c32bd30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +73,13 @@
         }
     ],
     "wof:id":1344095301,
-    "wof:lastmodified":1566609910,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203463,
     "wof:name":"Mantu",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -73,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.92999,
-    46.73323,
-    27.92999,
-    46.73323
+    27.924369,
+    46.731583,
+    27.931731,
+    46.740975
 ],
-  "geometry": {"coordinates":[27.92999,46.73323],"type":"Point"}
+  "geometry": {"coordinates":[[[27.929022,46.737998],[27.930057,46.737317],[27.929381,46.736925],[27.928671,46.737379],[27.928059,46.736883],[27.927942,46.736006],[27.929674,46.733564],[27.931731,46.732324],[27.929984,46.731583],[27.92966,46.731906],[27.929043,46.731674],[27.928125,46.732729],[27.926259,46.731772],[27.925728,46.732402],[27.926218,46.732985],[27.926188,46.733264],[27.926934,46.733634],[27.926249,46.734291],[27.926621,46.73451],[27.925977,46.73523],[27.927598,46.735947],[27.92774,46.736843],[27.928622,46.737739],[27.926921,46.738929],[27.924369,46.740006],[27.92604,46.740975],[27.929022,46.737998]]],"type":"Polygon"}
 }

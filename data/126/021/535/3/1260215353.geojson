@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.96727,44.77261,23.96727,44.77261",
-    "geom:latitude":44.77261,
-    "geom:longitude":23.96727,
+    "geom:area":0.000011,
+    "geom:area_square_m":94377.148686,
+    "geom:bbox":"23.963513,44.76902,23.967915,44.77318",
+    "geom:latitude":44.77125,
+    "geom:longitude":23.96595,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Tanislavi",
@@ -25,17 +25,27 @@
     "gn:population":113,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.94727,44.75261,23.98727,44.79261",
+    "lbl:latitude":44.771309,
+    "lbl:longitude":23.965984,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.771309,
+    "mps:longitude":23.965984,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Tanislavi"
+    ],
     "name:und_x_variant":[
         "Tanislavul",
         "Tanislavi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665537
+        "gn:id":665537,
+        "ro-ancpi:id":169878
     },
     "wof:country":"RO",
-    "wof:geomhash":"a03fda64c8abde3b9f2dd6deff7907db",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2d6998a1f5472947c78e587203dac41b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1260215353,
-    "wof:lastmodified":1566610495,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
     "wof:name":"Tanislavi",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.96727000000001,
-    44.77261,
-    23.96727000000001,
-    44.77261
+    23.963513,
+    44.76902,
+    23.967915,
+    44.77318
 ],
-  "geometry": {"coordinates":[23.96727000000001,44.77261],"type":"Point"}
+  "geometry": {"coordinates":[[[23.966948,44.772658],[23.967859,44.770322],[23.967915,44.76902],[23.966825,44.769259],[23.965656,44.769694],[23.965286,44.76989],[23.964216,44.771591],[23.963513,44.772835],[23.964008,44.773172],[23.96426,44.77318],[23.966948,44.772658]]],"type":"Polygon"}
 }

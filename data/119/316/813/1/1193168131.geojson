@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.89283,44.63536,23.89283,44.63536",
-    "geom:latitude":44.63536,
-    "geom:longitude":23.89283,
+    "geom:area":0.000017,
+    "geom:area_square_m":153719.03932,
+    "geom:bbox":"23.888323,44.636691,23.897569,44.641059",
+    "geom:latitude":44.638682,
+    "geom:longitude":23.892494,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170097.0",
     "gn:asciiname":"Cazanesti",
@@ -24,13 +24,48 @@
     "gn:population":285,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.87283,44.61536,23.91283,44.65536",
+    "lbl:latitude":44.638385,
+    "lbl:longitude":23.892564,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.638385,
+    "mps:longitude":23.892564,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:deu_x_preferred":[
+        "C\u0103z\u0103ne\u0219ti"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0632\u0646\u0634\u062a"
+    ],
+    "name:hun_x_preferred":[
+        "C\u0103z\u0103ne\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103z\u0103ne\u015fti"
+    ],
+    "name:pol_x_preferred":[
+        "C\u0103z\u0103ne\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "C\u0103z\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cazanesti",
+        "C\u0103z\u0103ne\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0437\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u6fa4\u5167\u4ec0\u8482"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +74,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682500
+        "gn:id":682500,
+        "ro-ancpi:id":170113
     },
     "wof:country":"RO",
-    "wof:geomhash":"9867ec9cceaafc41a9c2c0519f8df2a5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d741b4910b543455db22ff639f708837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +91,14 @@
         }
     ],
     "wof:id":1193168131,
-    "wof:lastmodified":1566610453,
-    "wof:name":"Cazanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"C\u0103z\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":285,
@@ -64,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.89283,
-    44.63536,
-    23.89283,
-    44.63536
+    23.888323,
+    44.636691,
+    23.897569,
+    44.641059
 ],
-  "geometry": {"coordinates":[23.89283,44.63536],"type":"Point"}
+  "geometry": {"coordinates":[[[23.89341,44.63992],[23.893571,44.638597],[23.89528,44.637968],[23.89739,44.63823],[23.897569,44.637166],[23.895282,44.636691],[23.892871,44.637314],[23.888641,44.638435],[23.888323,44.639709],[23.889438,44.640527],[23.890979,44.640437],[23.891014,44.639202],[23.891936,44.638872],[23.892274,44.639554],[23.891781,44.641059],[23.893635,44.641053],[23.89341,44.63992]]],"type":"Polygon"}
 }

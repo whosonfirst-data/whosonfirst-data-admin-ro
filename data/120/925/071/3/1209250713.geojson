@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.91425,44.79393,23.91425,44.79393",
-    "geom:latitude":44.79393,
-    "geom:longitude":23.91425,
+    "geom:area":0.000155,
+    "geom:area_square_m":1363433.621049,
+    "geom:bbox":"23.909865,44.779286,23.91808,44.813947",
+    "geom:latitude":44.796829,
+    "geom:longitude":23.913632,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173855.0",
     "gn:asciiname":"Popesti",
@@ -24,33 +24,58 @@
     "gn:population":423,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.89425,44.77393,23.93425,44.81393",
+    "lbl:latitude":44.79393,
+    "lbl:longitude":23.91425,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pope\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Popesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669903
+        "gn:id":669903,
+        "ro-ancpi:id":173917
     },
     "wof:country":"RO",
-    "wof:geomhash":"a18fcba79e77485e437e6056c7fbbbf6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c760490f5f2d03461a2bf5ff3b977c95",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209250713
+            "locality_id":1209250713,
+            "region_id":85687643
         }
     ],
     "wof:id":1209250713,
-    "wof:lastmodified":1566610336,
-    "wof:name":"Popesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
+    "wof:name":"Pope\u015fti",
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":423,
     "wof:population_rank":2,
@@ -60,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.91425,
-    44.79393,
-    23.91425,
-    44.79393
+    23.909865,
+    44.779286,
+    23.91808,
+    44.813947
 ],
-  "geometry": {"coordinates":[23.91425,44.79393],"type":"Point"}
+  "geometry": {"coordinates":[[[23.917843,44.813902],[23.917062,44.812223],[23.916304,44.810631],[23.91808,44.809954],[23.917905,44.805307],[23.914499,44.802504],[23.915481,44.795277],[23.915162,44.790089],[23.915687,44.779286],[23.913083,44.779317],[23.911741,44.781973],[23.909865,44.793032],[23.910603,44.800725],[23.912612,44.808517],[23.914742,44.813947],[23.917843,44.813902]]],"type":"Polygon"}
 }

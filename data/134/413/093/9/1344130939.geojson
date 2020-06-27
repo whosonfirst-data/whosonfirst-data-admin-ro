@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.07196,46.00962,23.07196,46.00962",
-    "geom:latitude":46.00962,
-    "geom:longitude":23.07196,
+    "geom:area":0.000023,
+    "geom:area_square_m":194477.365349,
+    "geom:bbox":"23.064982,46.00483,23.077359,46.01106",
+    "geom:latitude":46.008233,
+    "geom:longitude":23.06971,
     "gn:admin1_code":"21",
     "gn:admin2_code":"87843.0",
     "gn:asciiname":"Rosia",
@@ -25,11 +25,12 @@
     "gn:population":17,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.05196,45.98962,23.09196,46.02962",
+    "lbl:latitude":46.00962,
+    "lbl:longitude":23.07196,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rosia"
@@ -43,6 +44,12 @@
     "name:nld_x_preferred":[
         "Rosia"
     ],
+    "name:ron_x_preferred":[
+        "Ro\u015fia"
+    ],
+    "name:ron_x_variant":[
+        "Rosia"
+    ],
     "name:swe_x_preferred":[
         "Rosia"
     ],
@@ -50,7 +57,11 @@
         "Valea Ro\u015fie",
         "Ro\u015fia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -59,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668655
+        "gn:id":668655,
+        "ro-ancpi:id":87941
     },
     "wof:country":"RO",
-    "wof:geomhash":"0f0ad2fae23aaba0315ab5af9bd99140",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"afdb33007a6bb34d03bfa1738bd00c87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,8 +87,14 @@
         }
     ],
     "wof:id":1344130939,
-    "wof:lastmodified":1566609901,
-    "wof:name":"Rosia",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203794,
+    "wof:name":"Ro\u015fia",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":17,
@@ -84,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.07196,
-    46.00962,
-    23.07196,
-    46.00962
+    23.064982,
+    46.00483,
+    23.077359,
+    46.01106
 ],
-  "geometry": {"coordinates":[23.07196,46.00962],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.070308,46.01106],[23.071138,46.01063],[23.071461,46.010884],[23.072741,46.010363],[23.071388,46.008937],[23.071,46.009108],[23.069462,46.007892],[23.069549,46.007227],[23.069375,46.00683],[23.069278,46.006609],[23.068649,46.00635],[23.067778,46.005855],[23.065975,46.00483],[23.065281,46.005378],[23.064982,46.005559],[23.066996,46.007361],[23.066928,46.00784],[23.067049,46.009494],[23.06648,46.009734],[23.066743,46.010236],[23.068046,46.010151],[23.068699,46.01051],[23.070308,46.01106]]],[[[23.077359,46.008311],[23.074922,46.006135],[23.073822,46.00666],[23.075369,46.008345],[23.077359,46.008311]]]],"type":"MultiPolygon"}
 }

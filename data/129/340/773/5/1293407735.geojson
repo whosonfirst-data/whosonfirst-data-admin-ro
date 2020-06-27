@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.47293,46.03743,23.47293,46.03743",
-    "geom:latitude":46.03743,
-    "geom:longitude":23.47293,
+    "geom:area":0.000013,
+    "geom:area_square_m":114958.331213,
+    "geom:bbox":"23.469618,46.034391,23.479963,46.038399",
+    "geom:latitude":46.036675,
+    "geom:longitude":23.474961,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8826.0",
     "gn:asciiname":"Ciocasu",
@@ -24,13 +24,24 @@
     "gn:population":25,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.45293,46.01743,23.49293,46.05743",
+    "lbl:latitude":46.03743,
+    "lbl:longitude":23.47293,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cioca\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Ciocasu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681734
+        "gn:id":681734,
+        "ro-ancpi:id":8844
     },
     "wof:country":"RO",
-    "wof:geomhash":"70d7539be79b5ec744c49e7d0d2a696c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"443b66c4ef4eec57fd987c2b98854906",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1293407735,
-    "wof:lastmodified":1566610079,
-    "wof:name":"Ciocasu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203752,
+    "wof:name":"Cioca\u015fu",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":25,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.47293,
-    46.03743,
-    23.47293,
-    46.03743
+    23.469618,
+    46.034391,
+    23.479963,
+    46.038399
 ],
-  "geometry": {"coordinates":[23.47293,46.03743],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.474293,46.038399],[23.476597,46.037808],[23.477524,46.037906],[23.478646,46.037146],[23.479368,46.036712],[23.479963,46.036414],[23.479057,46.035107],[23.477519,46.035879],[23.477819,46.036096],[23.477589,46.03645],[23.476941,46.036893],[23.475953,46.03722],[23.474556,46.037313],[23.473872,46.037252],[23.475029,46.03611],[23.474758,46.035748],[23.473798,46.035957],[23.471784,46.036228],[23.471785,46.036611],[23.472256,46.036848],[23.471856,46.037617],[23.472461,46.037847],[23.474293,46.038399]]],[[[23.471281,46.034422],[23.469618,46.034391],[23.469666,46.035286],[23.471507,46.035549],[23.471281,46.034422]]]],"type":"MultiPolygon"}
 }

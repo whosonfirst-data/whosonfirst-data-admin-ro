@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.99441,44.58087,23.99441,44.58087",
-    "geom:latitude":44.58087,
-    "geom:longitude":23.99441,
+    "geom:area":0.000052,
+    "geom:area_square_m":453916.776598,
+    "geom:bbox":"23.989432,44.577714,24.005246,44.584072",
+    "geom:latitude":44.580855,
+    "geom:longitude":23.997537,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169583.0",
     "gn:asciiname":"Milesti",
@@ -25,17 +25,28 @@
     "gn:population":422,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.97441,44.56087,24.01441,44.60087",
+    "lbl:latitude":44.58087,
+    "lbl:longitude":23.99441,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Mile\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Milesti"
+    ],
     "name:und_x_variant":[
         "Mierle\u015fti",
         "Mile\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673311
+        "gn:id":673311,
+        "ro-ancpi:id":169592
     },
     "wof:country":"RO",
-    "wof:geomhash":"7c25a6cbcd559f555dcafad4f6c56c76",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"712b77309d4da1c17f77770e360aa896",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1326767567,
-    "wof:lastmodified":1566609823,
-    "wof:name":"Milesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
+    "wof:name":"Mile\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":422,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.99441,
-    44.58087,
-    23.99441,
-    44.58087
+    23.989432,
+    44.577714,
+    24.005246,
+    44.584072
 ],
-  "geometry": {"coordinates":[23.99441,44.58087],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.999144,44.583406],[23.999634,44.58298],[24.002069,44.583357],[24.005246,44.580452],[24.000155,44.578127],[23.998324,44.577723],[23.994873,44.577714],[23.994672,44.578876],[23.99547,44.578937],[23.99597,44.57962],[23.99511,44.579666],[23.995387,44.580207],[23.9959,44.580201],[23.996149,44.580601],[23.997712,44.580841],[23.99836,44.579975],[23.998817,44.580539],[23.999041,44.581553],[23.997734,44.582155],[23.994969,44.582572],[23.995022,44.583036],[23.996696,44.582932],[23.997925,44.58332],[23.999144,44.583406]]],[[[23.994431,44.58276],[23.994512,44.57964],[23.992655,44.57859],[23.991799,44.581569],[23.990094,44.581037],[23.989432,44.582122],[23.990696,44.583359],[23.992669,44.583912],[23.993336,44.584072],[23.994431,44.58276]]]],"type":"MultiPolygon"}
 }

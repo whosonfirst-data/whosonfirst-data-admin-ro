@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.01667,44.55,24.01667,44.55",
-    "geom:latitude":44.55,
-    "geom:longitude":24.01667,
+    "geom:area":0.000136,
+    "geom:area_square_m":1199287.756029,
+    "geom:bbox":"24.00864,44.538812,24.036659,44.555428",
+    "geom:latitude":44.546905,
+    "geom:longitude":24.022333,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":2606,
     "iso:country":"RO",
-    "lbl:bbox":"23.99667,44.53,24.03667,44.57",
     "lbl:latitude":44.55,
     "lbl:longitude":24.01667,
     "lbl:max_zoom":15.0,
@@ -22,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0644\u0648\u0634\u0648"
+    ],
     "name:ceb_x_preferred":[
         "Lalo\u0219u"
     ],
@@ -47,6 +49,9 @@
         "Lalo\u0219u"
     ],
     "name:ron_x_preferred":[
+        "Lalo\u015fu"
+    ],
+    "name:ron_x_variant":[
         "Lalo\u0219u"
     ],
     "name:srp_x_preferred":[
@@ -72,7 +77,10 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":1027774,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -84,11 +92,15 @@
     "wof:concordances":{
         "gn:id":675071,
         "qs_pg:id":1027774,
+        "ro-ancpi:id":170621,
         "wd:id":"Q2008165"
     },
     "wof:country":"RO",
     "wof:created":1497295738,
-    "wof:geomhash":"867803d67e63c2c43e955018b0807aa0",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"e5c9453e98ec90ae25d429dbd99fbdf6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,7 +110,13 @@
         }
     ],
     "wof:id":1125899367,
-    "wof:lastmodified":1566611321,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
     "wof:name":"Lalo\u015fu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -110,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.01667,
-    44.55,
-    24.01667,
-    44.55
+    24.00864,
+    44.538812,
+    24.036659,
+    44.555428
 ],
-  "geometry": {"coordinates":[24.01667,44.55],"type":"Point"}
+  "geometry": {"coordinates":[[[24.035632,44.545125],[24.033511,44.543521],[24.032232,44.542556],[24.028316,44.544266],[24.023557,44.547084],[24.021413,44.547168],[24.011751,44.538812],[24.009275,44.54165],[24.015529,44.546095],[24.01707,44.547845],[24.00864,44.553694],[24.010859,44.555428],[24.012943,44.552612],[24.019175,44.549323],[24.022488,44.549734],[24.023661,44.550051],[24.023715,44.551072],[24.02567,44.551574],[24.026038,44.54882],[24.029395,44.550866],[24.031056,44.549757],[24.030278,44.549316],[24.031647,44.548562],[24.033919,44.549322],[24.036659,44.547737],[24.034729,44.545755],[24.035632,44.545125]]],"type":"Polygon"}
 }

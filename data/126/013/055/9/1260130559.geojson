@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.59394,44.07454,24.59394,44.07454",
-    "geom:latitude":44.07454,
-    "geom:longitude":24.59394,
+    "geom:area":0.000065,
+    "geom:area_square_m":579296.629056,
+    "geom:bbox":"24.588312,44.069376,24.600512,44.080154",
+    "geom:latitude":44.074773,
+    "geom:longitude":24.59338,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129040.0",
     "gn:asciiname":"Uria",
@@ -24,11 +24,12 @@
     "gn:population":226,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.57394,44.05454,24.61394,44.09454",
+    "lbl:latitude":44.07454,
+    "lbl:longitude":24.59394,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Uria"
@@ -51,6 +52,9 @@
     "name:fas_x_preferred":[
         "\u06af\u06cc\u0644\u0647\u200c\u0645\u0627\u062a"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0646\u0647\u200c\u0633\u0641\u06cc\u062f"
+    ],
     "name:fin_x_preferred":[
         "Kiislat"
     ],
@@ -65,6 +69,9 @@
     ],
     "name:hun_x_preferred":[
         "Uria"
+    ],
+    "name:iku_x_preferred":[
+        "\u140a\u1483\u1438"
     ],
     "name:ita_x_preferred":[
         "Uria"
@@ -99,6 +106,9 @@
     "name:por_x_preferred":[
         "Uria"
     ],
+    "name:ron_x_preferred":[
+        "Uria"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0439\u0440\u044b"
     ],
@@ -120,7 +130,11 @@
     "name:zho_x_preferred":[
         "\u6d77\u9d09\u5c6c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -129,10 +143,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664165
+        "gn:id":664165,
+        "ro-ancpi:id":129086
     },
     "wof:country":"RO",
-    "wof:geomhash":"562b794da8f23233e908123f24f977a1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c6dcba002c83e88ede22248adad73880",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -142,7 +160,13 @@
         }
     ],
     "wof:id":1260130559,
-    "wof:lastmodified":1566610470,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
     "wof:name":"Uria",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -154,10 +178,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.59394,
-    44.07454,
-    24.59394,
-    44.07454
+    24.588312,
+    44.069376,
+    24.600512,
+    44.080154
 ],
-  "geometry": {"coordinates":[24.59394,44.07454],"type":"Point"}
+  "geometry": {"coordinates":[[[24.594326,44.077636],[24.595895,44.075175],[24.596584,44.07521],[24.599155,44.073528],[24.600512,44.071549],[24.599024,44.070789],[24.599281,44.070033],[24.598103,44.069376],[24.595992,44.071681],[24.593855,44.0721],[24.589708,44.071777],[24.588312,44.072215],[24.58914,44.076153],[24.588794,44.079895],[24.59258,44.080154],[24.594326,44.077636]]],"type":"Polygon"}
 }

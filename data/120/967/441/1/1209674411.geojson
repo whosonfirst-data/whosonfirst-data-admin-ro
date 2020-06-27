@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.73176,45.83561,22.73176,45.83561",
-    "geom:latitude":45.83561,
-    "geom:longitude":22.73176,
+    "geom:area":0.00001,
+    "geom:area_square_m":87276.914547,
+    "geom:bbox":"22.727491,45.832757,22.731705,45.837823",
+    "geom:latitude":45.835558,
+    "geom:longitude":22.729636,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91982.0",
     "gn:asciiname":"Runcu Mic",
@@ -25,37 +25,61 @@
     "gn:population":38,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.71176,45.81561,22.75176,45.85561",
+    "lbl:latitude":45.835885,
+    "lbl:longitude":22.729955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.835885,
+    "mps:longitude":22.729955,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Runcu Mic"
+    ],
     "name:und_x_variant":[
         "Runcul Mic",
         "Runcu Mic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687671
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668449
+        "gn:id":668449,
+        "ro-ancpi:id":92088
     },
     "wof:country":"RO",
-    "wof:geomhash":"ea944cf5dafc934d376157d05792bc20",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"01f07fecf582111b5cf7e83a0361c2cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209674411
+            "locality_id":1209674411,
+            "region_id":85687671
         }
     ],
     "wof:id":1209674411,
-    "wof:lastmodified":1566610356,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203798,
     "wof:name":"Runcu Mic",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":38,
     "wof:population_rank":1,
@@ -65,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.73176,
-    45.83561,
-    22.73176,
-    45.83561
+    22.727491,
+    45.832757,
+    22.731705,
+    45.837823
 ],
-  "geometry": {"coordinates":[22.73176,45.83561],"type":"Point"}
+  "geometry": {"coordinates":[[[22.731705,45.835904],[22.731291,45.834989],[22.730749,45.835101],[22.730351,45.834105],[22.729766,45.833429],[22.729986,45.833241],[22.729368,45.832757],[22.728368,45.833664],[22.728719,45.834248],[22.728741,45.835865],[22.728865,45.835894],[22.727623,45.836586],[22.727491,45.836764],[22.729312,45.837823],[22.731284,45.836394],[22.731705,45.835904]]],"type":"Polygon"}
 }

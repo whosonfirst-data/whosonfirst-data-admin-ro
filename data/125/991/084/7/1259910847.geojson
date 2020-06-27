@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.87764,44.64783,23.87764,44.64783",
-    "geom:latitude":44.64783,
-    "geom:longitude":23.87764,
+    "geom:area":0.000126,
+    "geom:area_square_m":1111308.497599,
+    "geom:bbox":"23.868791,44.63028,23.905512,44.654803",
+    "geom:latitude":44.641152,
+    "geom:longitude":23.882247,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170097.0",
     "gn:asciiname":"Stirbesti",
@@ -25,17 +25,30 @@
     "gn:population":340,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.85764,44.62783,23.89764,44.66783",
+    "lbl:latitude":44.641398,
+    "lbl:longitude":23.880437,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.641398,
+    "mps:longitude":23.880437,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u015etirbe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stirbesti"
+    ],
     "name:und_x_variant":[
         "\u015etirbe\u015ftii de Jos",
         "\u015etirbe\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666103
+        "gn:id":666103,
+        "ro-ancpi:id":170159
     },
     "wof:country":"RO",
-    "wof:geomhash":"8d3c079476a6f33a6855db9cd2589699",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c550dbb72e9945e92a8b306adc34f19d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1259910847,
-    "wof:lastmodified":1566611540,
-    "wof:name":"Stirbesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"\u015etirbe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":340,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.87764,
-    44.64783,
-    23.87764,
-    44.64783
+    23.868791,
+    44.63028,
+    23.905512,
+    44.654803
 ],
-  "geometry": {"coordinates":[23.87764,44.64783],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.87187,44.654803],[23.872736,44.653695],[23.875398,44.654717],[23.876966,44.65315],[23.873983,44.652099],[23.877423,44.648074],[23.881463,44.6426],[23.883631,44.639609],[23.887174,44.637627],[23.88985,44.636071],[23.893143,44.635848],[23.89686,44.63591],[23.902667,44.635175],[23.905512,44.634758],[23.904246,44.63297],[23.898542,44.633986],[23.891108,44.633837],[23.887984,44.634546],[23.880248,44.638912],[23.876164,44.64482],[23.87026,44.652266],[23.86914,44.653782],[23.869824,44.654041],[23.87187,44.654803]]],[[[23.87745,44.630729],[23.875118,44.63028],[23.874188,44.632638],[23.868791,44.636351],[23.869916,44.636746],[23.872405,44.636215],[23.874805,44.634076],[23.87745,44.630729]]]],"type":"MultiPolygon"}
 }

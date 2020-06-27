@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.81176,46.35871,27.81176,46.35871",
-    "geom:latitude":46.35871,
-    "geom:longitude":27.81176,
+    "geom:area":0.000088,
+    "geom:area_square_m":751117.414464,
+    "geom:bbox":"27.801471,46.350955,27.814986,46.3631",
+    "geom:latitude":46.357586,
+    "geom:longitude":27.808589,
     "gn:admin1_code":"38",
     "gn:admin2_code":"162194.0",
     "gn:asciiname":"1 Decembrie",
@@ -24,14 +24,18 @@
     "gn:population":417,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.79176,46.33871,27.83176,46.37871",
+    "lbl:latitude":46.35871,
+    "lbl:longitude":27.81176,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:fas_x_preferred":[
         "\u062f\u0633\u0645\u0628\u0631\u0627\u06cc"
+    ],
+    "name:ron_x_preferred":[
+        "1 Decembrie"
     ],
     "name:vie_x_preferred":[
         "Prim Decembrie"
@@ -39,7 +43,11 @@
     "name:zho_x_preferred":[
         "\u5341\u4e8c\u6708\u4e00\u65e5\u4e61"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664644
+        "gn:id":664644,
+        "ro-ancpi:id":162318
     },
     "wof:country":"RO",
-    "wof:geomhash":"bb8b66bfc38bf943f0d6afd7cec27300",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"73cb519debeb57abf0c69345e4a28374",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +73,13 @@
         }
     ],
     "wof:id":1326581041,
-    "wof:lastmodified":1566609787,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203461,
     "wof:name":"1 Decembrie",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -73,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.81176,
-    46.35871,
-    27.81176,
-    46.35871
+    27.801471,
+    46.350955,
+    27.814986,
+    46.3631
 ],
-  "geometry": {"coordinates":[27.81176,46.35871],"type":"Point"}
+  "geometry": {"coordinates":[[[27.812092,46.355739],[27.811711,46.355053],[27.811276,46.353992],[27.810886,46.353536],[27.81074,46.353459],[27.810425,46.352952],[27.81188,46.352553],[27.811494,46.351485],[27.810039,46.351883],[27.809744,46.350955],[27.808129,46.351356],[27.808047,46.351153],[27.805317,46.352008],[27.807614,46.354328],[27.807166,46.354536],[27.803667,46.355661],[27.803147,46.355483],[27.801726,46.356529],[27.801471,46.35748],[27.803497,46.359027],[27.806889,46.361454],[27.806724,46.361725],[27.806694,46.362222],[27.810965,46.362966],[27.813268,46.3631],[27.814986,46.362494],[27.81477,46.362296],[27.814244,46.361793],[27.813872,46.361427],[27.813313,46.360943],[27.813175,46.360801],[27.812965,46.360563],[27.812865,46.360466],[27.813213,46.360253],[27.81318,46.360009],[27.813483,46.359419],[27.813719,46.359032],[27.812564,46.357504],[27.812915,46.357053],[27.812448,46.356327],[27.812092,46.355739]]],"type":"Polygon"}
 }

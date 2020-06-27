@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.03827,44.99733,24.03827,44.99733",
-    "geom:latitude":44.99733,
-    "geom:longitude":24.03827,
+    "geom:area":0.000174,
+    "geom:area_square_m":1519485.255059,
+    "geom:bbox":"24.017539,44.978934,24.050397,45.012815",
+    "geom:latitude":44.996758,
+    "geom:longitude":24.034901,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169039.0",
     "gn:asciiname":"Grosi",
@@ -25,17 +25,53 @@
     "gn:population":481,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.01827,44.97733,24.05827,45.01733",
+    "lbl:latitude":44.99733,
+    "lbl:longitude":24.03827,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:epo_x_preferred":[
+        "Gro\u015fi"
+    ],
+    "name:fra_x_preferred":[
+        "Gro\u0219i"
+    ],
+    "name:hun_x_preferred":[
+        "T\u0151k\u00e9sb\u00e1nya"
+    ],
+    "name:ita_x_preferred":[
+        "Gro\u015fi"
+    ],
+    "name:por_x_preferred":[
+        "Gro\u015fi"
+    ],
+    "name:ron_x_preferred":[
+        "Gro\u015fi"
+    ],
+    "name:ron_x_variant":[
+        "Grosi",
+        "Gro\u0219i"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0448\u0456"
+    ],
     "name:und_x_variant":[
         "Grosii",
         "Gro\u015fi"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Grosi"
+    ],
+    "name:vol_x_preferred":[
+        "Gro\u015fi"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676658
+        "gn:id":676658,
+        "ro-ancpi:id":169066
     },
     "wof:country":"RO",
-    "wof:geomhash":"7a22e28f4b7546869abd29005a98e442",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cc71d76ba0bf4b4498ea5707ff7bc923",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +97,14 @@
         }
     ],
     "wof:id":1243010209,
-    "wof:lastmodified":1566611430,
-    "wof:name":"Grosi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203693,
+    "wof:name":"Gro\u015fi",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":481,
@@ -69,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.03827,
-    44.99733,
-    24.03827,
-    44.99733
+    24.017539,
+    44.978934,
+    24.050397,
+    45.012815
 ],
-  "geometry": {"coordinates":[24.03827,44.99733],"type":"Point"}
+  "geometry": {"coordinates":[[[24.050397,44.980452],[24.048002,44.978934],[24.042341,44.985997],[24.032892,44.997553],[24.030025,45.000138],[24.02509,45.003585],[24.017539,45.009832],[24.018851,45.011196],[24.02022,45.012815],[24.024753,45.008919],[24.032684,45.002918],[24.037772,44.998364],[24.045554,44.988705],[24.050397,44.980452]]],"type":"Polygon"}
 }

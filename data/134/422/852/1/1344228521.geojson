@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.34999,44.50457,23.34999,44.50457",
-    "geom:latitude":44.50457,
-    "geom:longitude":23.34999,
+    "geom:area":0.000024,
+    "geom:area_square_m":212970.442811,
+    "geom:bbox":"23.34372,44.502618,23.355516,44.505825",
+    "geom:latitude":44.504003,
+    "geom:longitude":23.349191,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70744",
     "gn:asciiname":"Berbesu",
@@ -25,18 +25,29 @@
     "gn:population":133,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.32999,44.48457,23.36999,44.52457",
+    "lbl:latitude":44.50457,
+    "lbl:longitude":23.34999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Berbe\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Berbesu"
+    ],
     "name:und_x_variant":[
         "Berbesul",
         "Berbe\u015fu-Iord\u0103che\u015fti",
         "Berbe\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685084
+        "gn:id":685084,
+        "ro-ancpi:id":70771
     },
     "wof:country":"RO",
-    "wof:geomhash":"5946d7d73b91e98b694d5b840d4f78bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d7bbf7454c1612eeba6788ac75f2c4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1344228521,
-    "wof:lastmodified":1566609899,
-    "wof:name":"Berbesu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203317,
+    "wof:name":"Berbe\u015fu",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":133,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.34999,
-    44.50457,
-    23.34999,
-    44.50457
+    23.34372,
+    44.502618,
+    23.355516,
+    44.505825
 ],
-  "geometry": {"coordinates":[23.34999,44.50457],"type":"Point"}
+  "geometry": {"coordinates":[[[23.349407,44.504978],[23.349884,44.504897],[23.35103,44.504942],[23.351748,44.504732],[23.3537,44.504932],[23.354376,44.505],[23.354754,44.50498],[23.354933,44.505006],[23.354968,44.505064],[23.355,44.505107],[23.355039,44.505137],[23.355103,44.505172],[23.355153,44.505191],[23.3552,44.505203],[23.355278,44.505212],[23.355387,44.5052],[23.3554,44.50515],[23.355516,44.503993],[23.354318,44.503764],[23.354398,44.503229],[23.352135,44.502983],[23.350742,44.502787],[23.34905,44.502739],[23.346043,44.502618],[23.345062,44.502622],[23.344992,44.502626],[23.34483,44.503494],[23.343729,44.503401],[23.34372,44.503534],[23.343749,44.504212],[23.344363,44.504335],[23.344756,44.504395],[23.344529,44.505231],[23.344795,44.505329],[23.344743,44.505825],[23.345526,44.505766],[23.345615,44.505485],[23.346638,44.50533],[23.34753,44.505273],[23.348464,44.505124],[23.349407,44.504978]]],"type":"Polygon"}
 }

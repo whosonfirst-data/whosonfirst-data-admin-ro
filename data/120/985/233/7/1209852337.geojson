@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.92297,44.79271,23.92297,44.79271",
-    "geom:latitude":44.79271,
-    "geom:longitude":23.92297,
+    "geom:area":0.000105,
+    "geom:area_square_m":919085.385113,
+    "geom:bbox":"23.917923,44.783062,23.927593,44.820046",
+    "geom:latitude":44.798979,
+    "geom:longitude":23.92092,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173855.0",
     "gn:asciiname":"Tepesti",
@@ -25,17 +25,28 @@
     "gn:population":518,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.90297,44.77271,23.94297,44.81271",
+    "lbl:latitude":44.79271,
+    "lbl:longitude":23.92297,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u0162epe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Tepesti"
+    ],
     "name:und_x_variant":[
         "T\u00e2pe\u015fti",
         "\u0162epe\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665249
+        "gn:id":665249,
+        "ro-ancpi:id":173926
     },
     "wof:country":"RO",
-    "wof:geomhash":"91a82df9d625d5696777df6d89be127a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b45fb9097853802cb788dfe8b14ff53a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1209852337,
-    "wof:lastmodified":1566610330,
-    "wof:name":"Tepesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
+    "wof:name":"\u0162epe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":518,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.92297,
-    44.79271,
-    23.92297,
-    44.79271
+    23.917923,
+    44.783062,
+    23.927593,
+    44.820046
 ],
-  "geometry": {"coordinates":[23.92297,44.79271],"type":"Point"}
+  "geometry": {"coordinates":[[[23.922759,44.78314],[23.920142,44.783062],[23.920161,44.789041],[23.917923,44.799274],[23.918049,44.8034],[23.919268,44.804108],[23.918749,44.810308],[23.918522,44.813859],[23.918659,44.815316],[23.920529,44.81594],[23.920937,44.816852],[23.921978,44.818042],[23.9215,44.820046],[23.922777,44.820028],[23.923423,44.817219],[23.921174,44.815181],[23.920859,44.812068],[23.921414,44.803542],[23.920608,44.800514],[23.921672,44.795573],[23.923871,44.79144],[23.92383,44.789944],[23.927455,44.790092],[23.927593,44.788481],[23.923229,44.788648],[23.922759,44.78314]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.97833,46.78022,24.97833,46.78022",
-    "geom:latitude":46.78022,
-    "geom:longitude":24.97833,
+    "geom:area":0.000143,
+    "geom:area_square_m":1209279.291487,
+    "geom:bbox":"24.961709,46.767044,24.984194,46.782744",
+    "geom:latitude":46.775508,
+    "geom:longitude":24.972945,
     "gn:admin1_code":"27",
     "gn:admin2_code":"117426.0",
     "gn:asciiname":"Dubistea de Padure",
@@ -24,16 +24,27 @@
     "gn:population":273,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.95833,46.76022,24.99833,46.80022",
+    "lbl:latitude":46.78022,
+    "lbl:longitude":24.97833,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Erd\u0151dubiste"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dubi\u015ftea de P\u0103dure"
+    ],
+    "name:ron_x_variant":[
+        "Dubistea de Padure"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678797
+        "gn:id":678797,
+        "ro-ancpi:id":117462
     },
     "wof:country":"RO",
-    "wof:geomhash":"de64ec1b969c7076173c74167075f37e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ca89cfe002b9a0cb85e0e24e36b7a44e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1309753691,
-    "wof:lastmodified":1566611266,
-    "wof:name":"Dubistea de Padure",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203456,
+    "wof:name":"Dubi\u015ftea de P\u0103dure",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":273,
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.97833,
-    46.78022,
-    24.97833,
-    46.78022
+    24.961709,
+    46.767044,
+    24.984194,
+    46.782744
 ],
-  "geometry": {"coordinates":[24.97833,46.78022],"type":"Point"}
+  "geometry": {"coordinates":[[[24.965887,46.782494],[24.968304,46.776269],[24.972932,46.775716],[24.973114,46.777957],[24.976266,46.779295],[24.976544,46.780729],[24.977795,46.78213],[24.979464,46.781685],[24.984194,46.780125],[24.983406,46.7785],[24.981228,46.777067],[24.981367,46.77592],[24.978687,46.774288],[24.977847,46.773033],[24.974959,46.773208],[24.972291,46.771777],[24.975289,46.769819],[24.977958,46.769192],[24.977374,46.767044],[24.97424,46.767616],[24.973053,46.768343],[24.972159,46.768265],[24.970786,46.768628],[24.969992,46.769142],[24.969652,46.769562],[24.968308,46.769946],[24.968906,46.770992],[24.968918,46.771771],[24.967734,46.771771],[24.966815,46.772056],[24.964535,46.772574],[24.964094,46.77266],[24.964433,46.773629],[24.964464,46.77497],[24.964619,46.775671],[24.964164,46.776577],[24.965328,46.77708],[24.965117,46.777598],[24.964773,46.777971],[24.964773,46.778627],[24.964351,46.779856],[24.963119,46.779704],[24.963241,46.780443],[24.962742,46.780313],[24.962431,46.78096],[24.962031,46.7808],[24.961709,46.781105],[24.962463,46.781551],[24.963095,46.782404],[24.963657,46.782744],[24.965887,46.782494]]],"type":"Polygon"}
 }

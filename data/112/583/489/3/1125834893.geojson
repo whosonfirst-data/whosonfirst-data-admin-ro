@@ -2,11 +2,12 @@
   "id": 1125834893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.046379,45.4304465,28.046379,45.4304465",
+    "geom:bbox":"28.046379,45.430447,28.046379,45.430447",
     "geom:latitude":45.430447,
     "geom:longitude":28.046379,
     "gn:country":null,
@@ -17,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
@@ -302,7 +303,7 @@
     },
     "wof:country":"RO",
     "wof:created":1497292669,
-    "wof:geomhash":"8f401002aa1afb475bc5c9c9499bdefa",
+    "wof:geomhash":"d0a2eed4bc7a3a9b13a42e4535451995",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -312,20 +313,22 @@
         }
     ],
     "wof:id":1125834893,
-    "wof:lastmodified":1566611418,
+    "wof:lastmodified":1588368343,
     "wof:name":"Gala\u021bi",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101752007
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     28.046379,
-    45.4304465,
+    45.430447,
     28.046379,
-    45.4304465
+    45.430447
 ],
-  "geometry": {"coordinates":[28.046379,45.4304465],"type":"Point"}
+  "geometry": {"coordinates":[28.046379,45.430447],"type":"Point"}
 }

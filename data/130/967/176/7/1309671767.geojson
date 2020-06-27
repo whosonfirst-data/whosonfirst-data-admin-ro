@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.01222,47.78516,23.01222,47.78516",
-    "geom:latitude":47.78516,
-    "geom:longitude":23.01222,
+    "geom:area":0.000318,
+    "geom:area_square_m":2639817.520557,
+    "geom:bbox":"22.999888,47.770896,23.030273,47.790589",
+    "geom:latitude":47.780759,
+    "geom:longitude":23.016634,
     "gn:admin1_code":"32",
     "gn:admin2_code":"138280",
     "gn:asciiname":"Berindan",
@@ -24,13 +24,21 @@
     "gn:population":100,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.99222,47.76516,23.03222,47.80516",
+    "lbl:latitude":47.78516,
+    "lbl:longitude":23.01222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Berindan"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685008
+        "gn:id":685008,
+        "ro-ancpi:id":138306
     },
     "wof:country":"RO",
-    "wof:geomhash":"a6b96ad7525e82ad6f51e9bf1388adc8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"98e8ef6952167bbc779f5388b7f48a9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1309671767,
-    "wof:lastmodified":1566611253,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203367,
     "wof:name":"Berindan",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.01222000000001,
-    47.78516,
-    23.01222000000001,
-    47.78516
+    22.999888,
+    47.770896,
+    23.030273,
+    47.790589
 ],
-  "geometry": {"coordinates":[23.01222000000001,47.78516],"type":"Point"}
+  "geometry": {"coordinates":[[[23.020257,47.788955],[23.018806,47.787322],[23.02054,47.785636],[23.022482,47.784758],[23.025757,47.784385],[23.029643,47.782574],[23.030273,47.780601],[23.028258,47.779173],[23.028654,47.777089],[23.027188,47.775885],[23.024854,47.772361],[23.020694,47.770896],[23.017175,47.771426],[23.012895,47.773176],[23.011308,47.775186],[23.010488,47.77796],[23.006484,47.780786],[22.999888,47.784854],[23.000901,47.785408],[23.003474,47.786792],[23.005178,47.788001],[23.009726,47.78765],[23.012414,47.788071],[23.014983,47.789562],[23.018604,47.790589],[23.020257,47.788955]]],"type":"Polygon"}
 }

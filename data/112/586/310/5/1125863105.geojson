@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.11667,44.73333,24.11667,44.73333",
-    "geom:latitude":44.73333,
-    "geom:longitude":24.11667,
+    "geom:area":0.000147,
+    "geom:area_square_m":1295983.800293,
+    "geom:bbox":"24.092036,44.703778,24.142471,44.733882",
+    "geom:latitude":44.718667,
+    "geom:longitude":24.116209,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1870,
     "iso:country":"RO",
-    "lbl:bbox":"24.09667,44.71333,24.13667,44.75333",
-    "lbl:latitude":44.73333,
-    "lbl:longitude":24.11667,
+    "lbl:latitude":44.710926,
+    "lbl:longitude":24.130639,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":44.710926,
+    "mps:longitude":24.130639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0634\u0648\u064a\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Gu\u0219oeni"
     ],
@@ -44,6 +48,9 @@
         "Gu\u0219oeni"
     ],
     "name:ron_x_preferred":[
+        "Gu\u015foeni"
+    ],
+    "name:ron_x_variant":[
         "Gu\u0219oeni"
     ],
     "name:srp_x_preferred":[
@@ -69,8 +76,11 @@
     "qs_pg:pop_sr":3,
     "qs_pg:qs_id":127565,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,11 +91,15 @@
     "wof:concordances":{
         "gn:id":676426,
         "qs_pg:id":127565,
+        "ro-ancpi:id":170453,
         "wd:id":"Q2069743"
     },
     "wof:country":"RO",
     "wof:created":1497293917,
-    "wof:geomhash":"d48cb659ca7d60f70c39317ffa53b732",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"9ca84bff52befad97f9d76b1813e6116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +109,13 @@
         }
     ],
     "wof:id":1125863105,
-    "wof:lastmodified":1566611311,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
     "wof:name":"Gu\u015foeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -107,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.11667,
-    44.73333,
-    24.11667,
-    44.73333
+    24.092036,
+    44.703778,
+    24.142471,
+    44.733882
 ],
-  "geometry": {"coordinates":[24.11667,44.73333],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.099942,44.729313],[24.102258,44.728271],[24.10334,44.728746],[24.111854,44.724249],[24.110158,44.722385],[24.10491,44.724661],[24.103314,44.725355],[24.099465,44.726893],[24.092036,44.732881],[24.095271,44.733882],[24.097383,44.731977],[24.099942,44.729313]]],[[[24.122688,44.717308],[24.125277,44.714839],[24.126208,44.715401],[24.127427,44.714702],[24.126922,44.714373],[24.130958,44.712049],[24.136004,44.708622],[24.142471,44.705244],[24.14099,44.703778],[24.13942,44.704589],[24.134953,44.707082],[24.131758,44.708858],[24.127119,44.712019],[24.121639,44.715653],[24.120072,44.719815],[24.121319,44.720837],[24.122688,44.717308]]],[[[24.116938,44.717531],[24.11819,44.716488],[24.119255,44.71707],[24.12034,44.71637],[24.120089,44.715181],[24.121312,44.714253],[24.12523,44.710894],[24.123709,44.710231],[24.119609,44.713206],[24.118275,44.714401],[24.11442,44.715386],[24.113788,44.714577],[24.11222,44.715254],[24.113785,44.716549],[24.111594,44.717585],[24.11236,44.718414],[24.108668,44.72097],[24.110076,44.721957],[24.114605,44.719083],[24.116938,44.717531]]]],"type":"MultiPolygon"}
 }

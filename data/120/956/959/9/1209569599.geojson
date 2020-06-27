@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.33705,46.69417,24.33705,46.69417",
-    "geom:latitude":46.69417,
-    "geom:longitude":24.33705,
+    "geom:area":0.000086,
+    "geom:area_square_m":730223.847502,
+    "geom:bbox":"24.316554,46.686002,24.341588,46.699305",
+    "geom:latitude":46.692484,
+    "geom:longitude":24.328972,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118824.0",
     "gn:asciiname":"Parau Crucii",
@@ -24,33 +24,61 @@
     "gn:population":112,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.31705,46.67417,24.35705,46.71417",
+    "lbl:latitude":46.69417,
+    "lbl:longitude":24.33705,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "P\u00e2r\u00e2u Crucii"
+    ],
+    "name:ron_x_variant":[
+        "Parau Crucii"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0443 \u041a\u0440\u0443\u0447\u0438"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687719
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670733
+        "gn:id":670733,
+        "ro-ancpi:id":118888
     },
     "wof:country":"RO",
-    "wof:geomhash":"66440f8ecb0197dd420a123f1b8ba88a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"aac5fd266ca3c3b8783c66cd80e4607f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209569599
+            "locality_id":1209569599,
+            "region_id":85687719
         }
     ],
     "wof:id":1209569599,
-    "wof:lastmodified":1566610361,
-    "wof:name":"Parau Crucii",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203448,
+    "wof:name":"P\u00e2r\u00e2u Crucii",
+    "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":112,
     "wof:population_rank":1,
@@ -60,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.33705,
-    46.69417,
-    24.33705,
-    46.69417
+    24.316554,
+    46.686002,
+    24.341588,
+    46.699305
 ],
-  "geometry": {"coordinates":[24.33705,46.69417],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.336955,46.696348],[24.336957,46.696121],[24.339875,46.696501],[24.339958,46.696894],[24.340943,46.697157],[24.341567,46.696405],[24.340235,46.695762],[24.341588,46.694682],[24.339169,46.693081],[24.338129,46.69374],[24.331716,46.68973],[24.33101,46.689988],[24.329885,46.68853],[24.328857,46.688847],[24.327504,46.686884],[24.32485,46.686002],[24.322643,46.689193],[24.323907,46.691176],[24.326409,46.692581],[24.32906,46.691327],[24.3301,46.692562],[24.331864,46.691968],[24.333947,46.694116],[24.333836,46.69599],[24.332455,46.696304],[24.332796,46.697153],[24.336955,46.696348]]],[[[24.318964,46.69226],[24.317186,46.690482],[24.316763,46.690763],[24.317429,46.691185],[24.316912,46.691601],[24.318684,46.693241],[24.316554,46.694659],[24.318138,46.695968],[24.317975,46.696498],[24.319384,46.697068],[24.320724,46.699305],[24.321543,46.699129],[24.320347,46.696809],[24.322269,46.694756],[24.319906,46.693702],[24.318964,46.69226]]]],"type":"MultiPolygon"}
 }

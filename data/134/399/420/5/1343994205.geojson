@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.4279,44.91005,24.4279,44.91005",
-    "geom:latitude":44.91005,
-    "geom:longitude":24.4279,
+    "geom:area":0.000013,
+    "geom:area_square_m":109825.42718,
+    "geom:bbox":"24.421203,44.90897,24.430393,44.91127",
+    "geom:latitude":44.909935,
+    "geom:longitude":24.425828,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404.0",
     "gn:asciiname":"Gura Crucilor",
@@ -24,13 +24,21 @@
     "gn:population":40,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.4079,44.89005,24.4479,44.93005",
+    "lbl:latitude":44.91005,
+    "lbl:longitude":24.4279,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gura Crucilor"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676545
+        "gn:id":676545,
+        "ro-ancpi:id":169495
     },
     "wof:country":"RO",
-    "wof:geomhash":"538161d2a2aee3c0486678fe59ca8af1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"baded453d37254214f994674f3d7bdef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1343994205,
-    "wof:lastmodified":1566609890,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
     "wof:name":"Gura Crucilor",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.4279,
-    44.91005,
-    24.4279,
-    44.91005
+    24.421203,
+    44.90897,
+    24.430393,
+    44.91127
 ],
-  "geometry": {"coordinates":[24.4279,44.91005],"type":"Point"}
+  "geometry": {"coordinates":[[[24.424738,44.91034],[24.425651,44.910264],[24.428566,44.910797],[24.430355,44.91075],[24.430393,44.909507],[24.425427,44.909002],[24.42484,44.90897],[24.422267,44.909314],[24.421203,44.909527],[24.421495,44.910101],[24.422057,44.910532],[24.422058,44.91054],[24.422374,44.91127],[24.423151,44.911258],[24.423329,44.910586],[24.424738,44.91034]]],"type":"Polygon"}
 }

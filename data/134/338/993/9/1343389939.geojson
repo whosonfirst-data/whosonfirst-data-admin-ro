@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.98584,44.54209,23.98584,44.54209",
-    "geom:latitude":44.54209,
-    "geom:longitude":23.98584,
+    "geom:area":0.000053,
+    "geom:area_square_m":470234.010686,
+    "geom:bbox":"23.967949,44.537764,23.987089,44.548167",
+    "geom:latitude":44.542815,
+    "geom:longitude":23.97939,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168452.0",
     "gn:asciiname":"Preotesti",
@@ -24,13 +24,26 @@
     "gn:population":254,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.96584,44.52209,24.00584,44.56209",
+    "lbl:latitude":44.541437,
+    "lbl:longitude":23.983405,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.541437,
+    "mps:longitude":23.983405,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Preote\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Preotesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669673
+        "gn:id":669673,
+        "ro-ancpi:id":168531
     },
     "wof:country":"RO",
-    "wof:geomhash":"aa94b4f8a4281cab7f6b2b6aef746cdd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"967d37dfcc3d9c4bc6aec7d20bca330d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1343389939,
-    "wof:lastmodified":1566609875,
-    "wof:name":"Preotesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
+    "wof:name":"Preote\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":254,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.98584,
-    44.54209,
-    23.98584,
-    44.54209
+    23.967949,
+    44.537764,
+    23.987089,
+    44.548167
 ],
-  "geometry": {"coordinates":[23.98584,44.54209],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.982218,44.54682],[23.983945,44.544538],[23.984725,44.544717],[23.986122,44.542949],[23.98509,44.542265],[23.985238,44.541821],[23.987089,44.538176],[23.985008,44.537784],[23.984426,44.537764],[23.983035,44.539245],[23.980324,44.541504],[23.980634,44.542139],[23.980684,44.542713],[23.981422,44.543022],[23.982346,44.542973],[23.982997,44.543668],[23.98044,44.546344],[23.980494,44.547781],[23.981974,44.548167],[23.982218,44.54682]]],[[[23.973869,44.545452],[23.974401,44.544897],[23.975732,44.544578],[23.976637,44.543352],[23.978038,44.543608],[23.9791,44.542642],[23.979215,44.541657],[23.977444,44.542038],[23.973272,44.542905],[23.972131,44.542693],[23.971804,44.543006],[23.970424,44.542721],[23.969847,44.543563],[23.967949,44.543043],[23.968317,44.544898],[23.970761,44.545222],[23.972128,44.545134],[23.973869,44.545452]]]],"type":"MultiPolygon"}
 }

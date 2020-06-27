@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.3,45.11667,24.3,45.11667",
-    "geom:latitude":45.11667,
-    "geom:longitude":24.3,
+    "geom:area":0.000039,
+    "geom:area_square_m":337077.636532,
+    "geom:bbox":"24.314443,45.133943,24.325135,45.143532",
+    "geom:latitude":45.138603,
+    "geom:longitude":24.319419,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174156.0",
     "gn:asciiname":"Trundin",
@@ -24,33 +24,57 @@
     "gn:population":76,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.28,45.09667,24.32,45.13667",
+    "lbl:latitude":45.139878,
+    "lbl:longitude":24.316899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.139878,
+    "mps:longitude":24.316899,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Trundin"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664580
+        "gn:id":664580,
+        "ro-ancpi:id":174209
     },
     "wof:country":"RO",
-    "wof:geomhash":"b4609192e3dce0e2abe5727b9f11f40b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"78dfe9f2eb97962ac81b1bcbc8eeca8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209040283
+            "locality_id":1209040283,
+            "region_id":85687643
         }
     ],
     "wof:id":1209040283,
-    "wof:lastmodified":1566610355,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
     "wof:name":"Trundin",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":76,
     "wof:population_rank":1,
@@ -60,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.3,
-    45.11667,
-    24.3,
-    45.11667
+    24.314443,
+    45.133943,
+    24.325135,
+    45.143532
 ],
-  "geometry": {"coordinates":[24.3,45.11667],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.316484,45.134532],[24.315385,45.134127],[24.314443,45.134431],[24.315795,45.136759],[24.315836,45.139713],[24.31621,45.143491],[24.319338,45.143532],[24.319536,45.141741],[24.318475,45.141702],[24.316484,45.134532]]],[[[24.320058,45.140165],[24.321788,45.139955],[24.323764,45.140107],[24.324679,45.139439],[24.325135,45.138656],[24.323711,45.136803],[24.323376,45.135364],[24.32287,45.134112],[24.322146,45.134043],[24.320563,45.133943],[24.320558,45.134396],[24.32198,45.134634],[24.321844,45.135257],[24.321571,45.136799],[24.321868,45.137417],[24.322947,45.138171],[24.323192,45.13899],[24.320676,45.138502],[24.320547,45.137251],[24.319839,45.136168],[24.318388,45.136243],[24.318674,45.137511],[24.319198,45.137532],[24.320058,45.140165]]]],"type":"MultiPolygon"}
 }

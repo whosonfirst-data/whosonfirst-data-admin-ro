@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.38607,44.29498,23.38607,44.29498",
-    "geom:latitude":44.29498,
-    "geom:longitude":23.38607,
+    "geom:area":0.000008,
+    "geom:area_square_m":66410.609494,
+    "geom:bbox":"23.381344,44.293482,23.387472,44.295771",
+    "geom:latitude":44.294531,
+    "geom:longitude":23.384356,
     "gn:admin1_code":"17",
     "gn:admin2_code":"74616.0",
     "gn:asciiname":"Cetatuia",
@@ -24,13 +24,26 @@
     "gn:population":2,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.36607,44.27498,23.40607,44.31498",
+    "lbl:latitude":44.294424,
+    "lbl:longitude":23.384356,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.294424,
+    "mps:longitude":23.384356,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cet\u0103\u0163uia"
+    ],
+    "name:ron_x_variant":[
+        "Cetatuia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682246
+        "gn:id":682246,
+        "ro-ancpi:id":74643
     },
     "wof:country":"RO",
-    "wof:geomhash":"e5fdd63e059388d4afdf65e626d8f0ea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"08c30f9404add1745fc90f512fbf4161",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1343929307,
-    "wof:lastmodified":1566609936,
-    "wof:name":"Cetatuia",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203318,
+    "wof:name":"Cet\u0103\u0163uia",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:population":2,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.38607,
-    44.29498,
-    23.38607,
-    44.29498
+    23.381344,
+    44.293482,
+    23.387472,
+    44.295771
 ],
-  "geometry": {"coordinates":[23.38607,44.29498],"type":"Point"}
+  "geometry": {"coordinates":[[[23.387472,44.293916],[23.386508,44.293482],[23.385168,44.293883],[23.38497,44.293525],[23.383345,44.293885],[23.381654,44.294722],[23.381344,44.295119],[23.381794,44.295771],[23.382725,44.295541],[23.387417,44.294524],[23.387472,44.293916]]],"type":"Polygon"}
 }

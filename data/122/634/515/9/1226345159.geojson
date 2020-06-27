@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.30461,46.22894,22.30461,46.22894",
-    "geom:latitude":46.22894,
-    "geom:longitude":22.30461,
+    "geom:area":0.00006,
+    "geom:area_square_m":516958.14243,
+    "geom:bbox":"22.294548,46.224636,22.311451,46.231732",
+    "geom:latitude":46.22882,
+    "geom:longitude":22.303192,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10239.0",
     "gn:asciiname":"Secas",
@@ -24,20 +24,53 @@
     "gn:population":515,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.28461,46.20894,22.32461,46.24894",
+    "lbl:latitude":46.22894,
+    "lbl:longitude":22.30461,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "name:ron_x_preferred":[
+    "name:epo_x_preferred":[
         "Seca\u0219"
+    ],
+    "name:hun_x_preferred":[
+        "Temessz\u00e9k\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Seca\u015f"
+    ],
+    "name:nld_x_preferred":[
+        "Seca\u0219"
+    ],
+    "name:por_x_preferred":[
+        "Seca\u015f"
+    ],
+    "name:ron_x_preferred":[
+        "Seca\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Seca\u0219",
+        "Secas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043a\u0430\u0448"
     ],
     "name:und_x_variant":[
         "Szak\u00e1cs",
         "Als\u00f3szak\u00e1cs"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Secas"
+    ],
+    "name:vol_x_preferred":[
+        "Seca\u015f"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667503
+        "gn:id":667503,
+        "ro-ancpi:id":10284
     },
     "wof:country":"RO",
-    "wof:geomhash":"486added2fa5a2c21a3b906307c7a713",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"074580e271f0b3e495c2c7de858056df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +96,14 @@
         }
     ],
     "wof:id":1226345159,
-    "wof:lastmodified":1566611634,
-    "wof:name":"Secas",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203717,
+    "wof:name":"Seca\u015f",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":515,
@@ -71,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.30461,
-    46.22894,
-    22.30461,
-    46.22894
+    22.294548,
+    46.224636,
+    22.311451,
+    46.231732
 ],
-  "geometry": {"coordinates":[22.30461,46.22894],"type":"Point"}
+  "geometry": {"coordinates":[[[22.301458,46.231465],[22.303844,46.231396],[22.306661,46.231598],[22.307943,46.231586],[22.308089,46.231002],[22.308247,46.231074],[22.308387,46.231186],[22.308633,46.23139],[22.308702,46.231436],[22.309166,46.230653],[22.309856,46.230889],[22.311451,46.231251],[22.311074,46.230641],[22.311406,46.230319],[22.310395,46.229691],[22.310759,46.229182],[22.310047,46.22894],[22.31034,46.228351],[22.308391,46.227809],[22.308213,46.228217],[22.305721,46.227639],[22.305901,46.227194],[22.304788,46.226985],[22.304621,46.227316],[22.302864,46.226866],[22.303568,46.225548],[22.299889,46.224636],[22.298736,46.2271],[22.29854,46.2271],[22.297918,46.227018],[22.297588,46.227747],[22.297412,46.227626],[22.295617,46.22626],[22.296039,46.225967],[22.295174,46.225471],[22.294548,46.225955],[22.295604,46.226865],[22.295642,46.227614],[22.296437,46.227695],[22.296471,46.228429],[22.297647,46.22842],[22.297756,46.229112],[22.299428,46.229661],[22.299242,46.230091],[22.298767,46.230341],[22.298706,46.231578],[22.301458,46.231732],[22.301458,46.231465]]],"type":"Polygon"}
 }

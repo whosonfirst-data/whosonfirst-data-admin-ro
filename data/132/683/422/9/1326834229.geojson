@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.81198,46.37417,22.81198,46.37417",
-    "geom:latitude":46.37417,
-    "geom:longitude":22.81198,
+    "geom:area":0.000017,
+    "geom:area_square_m":143798.259566,
+    "geom:bbox":"22.811255,46.372157,22.818067,46.376638",
+    "geom:latitude":46.374501,
+    "geom:longitude":22.814593,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Cocosesti",
@@ -24,13 +24,26 @@
     "gn:population":29,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.79198,46.35417,22.83198,46.39417",
+    "lbl:latitude":46.37439,
+    "lbl:longitude":22.814645,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.37439,
+    "mps:longitude":22.814645,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Coco\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cocosesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681189
+        "gn:id":681189,
+        "ro-ancpi:id":2693
     },
     "wof:country":"RO",
-    "wof:geomhash":"b6abfc32d7ff4bfb7b4f6dfd886c4c2b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"34a0e942273e28d4391389651751a768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1326834229,
-    "wof:lastmodified":1566609836,
-    "wof:name":"Cocosesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203748,
+    "wof:name":"Coco\u015fe\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":29,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.81198,
-    46.37417,
-    22.81198,
-    46.37417
+    22.811255,
+    46.372157,
+    22.818067,
+    46.376638
 ],
-  "geometry": {"coordinates":[22.81198,46.37417],"type":"Point"}
+  "geometry": {"coordinates":[[[22.814355,46.375633],[22.814582,46.376144],[22.815326,46.376638],[22.816453,46.376228],[22.816657,46.375475],[22.817373,46.375369],[22.818067,46.374925],[22.816901,46.373246],[22.815572,46.373509],[22.814549,46.372157],[22.813043,46.3725],[22.813512,46.373362],[22.812014,46.373477],[22.812001,46.374258],[22.811255,46.374243],[22.811609,46.375811],[22.814355,46.375633]]],"type":"Polygon"}
 }

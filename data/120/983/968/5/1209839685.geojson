@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.2575,46.53727,27.2575,46.53727",
-    "geom:latitude":46.53727,
-    "geom:longitude":27.2575,
+    "geom:area":0.000016,
+    "geom:area_square_m":134229.67033,
+    "geom:bbox":"27.253967,46.534669,27.261817,46.541321",
+    "geom:latitude":46.538093,
+    "geom:longitude":27.257124,
     "gn:admin1_code":"04",
     "gn:admin2_code":"23127.0",
     "gn:asciiname":"Faghieni",
@@ -24,13 +24,26 @@
     "gn:population":36,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.2375,46.51727,27.2775,46.55727",
+    "lbl:latitude":46.537354,
+    "lbl:longitude":27.256375,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.537354,
+    "mps:longitude":27.256375,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "F\u0103ghieni"
+    ],
+    "name:ron_x_variant":[
+        "Faghieni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678469
+        "gn:id":678469,
+        "ro-ancpi:id":23163
     },
     "wof:country":"RO",
-    "wof:geomhash":"639b691338571ac6ef70040a5235cf43",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bdcbd2fc27c821fb626f4d9576925819",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1209839685,
-    "wof:lastmodified":1566610313,
-    "wof:name":"Faghieni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203542,
+    "wof:name":"F\u0103ghieni",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":36,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.2575,
-    46.53727,
-    27.2575,
-    46.53727
+    27.253967,
+    46.534669,
+    27.261817,
+    46.541321
 ],
-  "geometry": {"coordinates":[27.2575,46.53727],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.261817,46.541006],[27.260887,46.540263],[27.259495,46.539641],[27.258493,46.539605],[27.257605,46.538944],[27.257568,46.538501],[27.257457,46.536604],[27.257737,46.536625],[27.258036,46.535798],[27.253967,46.535469],[27.254515,46.536685],[27.25506,46.537051],[27.254585,46.5381],[27.255201,46.538345],[27.255858,46.538316],[27.256308,46.539394],[27.256464,46.54024],[27.258432,46.54081],[27.258977,46.540569],[27.259897,46.540967],[27.260459,46.540624],[27.261334,46.541321],[27.261817,46.541006]]],[[[27.25795,46.534865],[27.257263,46.534669],[27.257163,46.53486],[27.257772,46.535029],[27.257509,46.535445],[27.257133,46.535715],[27.258166,46.535773],[27.258486,46.535142],[27.257914,46.534997],[27.25795,46.534865]]]],"type":"MultiPolygon"}
 }

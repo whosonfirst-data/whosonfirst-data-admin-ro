@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.32557,46.03312,23.32557,46.03312",
-    "geom:latitude":46.03312,
-    "geom:longitude":23.32557,
+    "geom:area":0.000023,
+    "geom:area_square_m":198140.686015,
+    "geom:bbox":"23.320052,46.025754,23.326647,46.036555",
+    "geom:latitude":46.030551,
+    "geom:longitude":23.323368,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3397.0",
     "gn:asciiname":"Racatau",
@@ -24,13 +24,32 @@
     "gn:population":51,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.30557,46.01312,23.34557,46.05312",
+    "lbl:latitude":46.027196,
+    "lbl:longitude":23.322621,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.027196,
+    "mps:longitude":23.322621,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "R\u0103c\u0103t\u0103u"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103c\u0103t\u0103u"
+    ],
+    "name:ron_x_variant":[
+        "Racatau"
+    ],
+    "name:swe_x_preferred":[
+        "R\u0103c\u0103t\u0103u"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669395
+        "gn:id":669395,
+        "ro-ancpi:id":3440
     },
     "wof:country":"RO",
-    "wof:geomhash":"09899b42157e73fd1e9bc14d1f9c6040",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"977c4a1ac56e29340d14e67718bd7b65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +75,14 @@
         }
     ],
     "wof:id":1293690953,
-    "wof:lastmodified":1566610099,
-    "wof:name":"Racatau",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203752,
+    "wof:name":"R\u0103c\u0103t\u0103u",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":51,
@@ -64,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.32557000000001,
-    46.03312,
-    23.32557000000001,
-    46.03312
+    23.320052,
+    46.025754,
+    23.326647,
+    46.036555
 ],
-  "geometry": {"coordinates":[23.32557000000001,46.03312],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.326022,46.035241],[23.325285,46.03452],[23.324784,46.034701],[23.323669,46.03334],[23.323493,46.03262],[23.323747,46.032247],[23.323806,46.031789],[23.325477,46.03146],[23.326647,46.030673],[23.326466,46.030388],[23.324864,46.03027],[23.323787,46.030953],[23.320787,46.031951],[23.32093,46.032305],[23.322102,46.032944],[23.321722,46.033259],[23.321608,46.033587],[23.3227,46.034406],[23.324371,46.035577],[23.325975,46.036555],[23.326304,46.036372],[23.326022,46.035241]]],[[[23.323325,46.028787],[23.32327,46.028229],[23.324465,46.027865],[23.325269,46.02755],[23.325005,46.026551],[23.324259,46.025754],[23.323002,46.026046],[23.322689,46.025897],[23.321734,46.026204],[23.321767,46.026415],[23.32094,46.026701],[23.321064,46.027594],[23.320052,46.027938],[23.320282,46.028484],[23.321871,46.02824],[23.321717,46.028885],[23.322964,46.029418],[23.323325,46.028787]]]],"type":"MultiPolygon"}
 }

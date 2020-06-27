@@ -4,28 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.56667,44.35,24.56667,44.35",
-    "geom:latitude":44.35,
-    "geom:longitude":24.56667,
+    "geom:area":0.000055,
+    "geom:area_square_m":487924.31587,
+    "geom:bbox":"24.5634,44.347052,24.573102,44.359293",
+    "geom:latitude":44.353403,
+    "geom:longitude":24.567962,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3112,
     "iso:country":"RO",
-    "lbl:bbox":"24.54667,44.33,24.58667,44.37",
     "lbl:latitude":44.35,
     "lbl:longitude":24.56667,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Schitu"
     ],
     "name:deu_x_preferred":[
+        "Schitu"
+    ],
+    "name:eus_x_preferred":[
         "Schitu"
     ],
     "name:ita_x_preferred":[
@@ -61,7 +63,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":879954,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -77,11 +82,15 @@
     "wof:concordances":{
         "gn:id":667669,
         "gp:id":879954,
-        "qs_pg:id":883789
+        "qs_pg:id":883789,
+        "ro-ancpi:id":128668
     },
     "wof:country":"RO",
     "wof:created":1497291926,
-    "wof:geomhash":"ee25b4e4a783ba0a28fff034be6d23fa",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"35c5eb8534623a569426686a30d9903e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,7 +100,13 @@
         }
     ],
     "wof:id":1125818039,
-    "wof:lastmodified":1566611313,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203706,
     "wof:name":"Schitu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -103,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.56667,
-    44.35,
-    24.56667,
-    44.35
+    24.5634,
+    44.347052,
+    24.573102,
+    44.359293
 ],
-  "geometry": {"coordinates":[24.56667,44.35],"type":"Point"}
+  "geometry": {"coordinates":[[[24.573102,44.358319],[24.573018,44.35811],[24.571815,44.355526],[24.571475,44.354136],[24.570999,44.353953],[24.570973,44.353681],[24.571283,44.353346],[24.570968,44.352339],[24.570576,44.351891],[24.569536,44.351685],[24.569021,44.35115],[24.568674,44.350625],[24.568696,44.349588],[24.568092,44.349677],[24.566106,44.347052],[24.565206,44.34727],[24.564246,44.350029],[24.564393,44.351846],[24.5634,44.352431],[24.56356,44.353559],[24.565238,44.354889],[24.565962,44.355627],[24.567049,44.356587],[24.567882,44.355956],[24.569054,44.357052],[24.569743,44.358846],[24.569798,44.359293],[24.571383,44.358831],[24.573102,44.358319]]],"type":"Polygon"}
 }

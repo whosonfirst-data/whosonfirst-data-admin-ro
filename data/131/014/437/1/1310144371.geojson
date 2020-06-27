@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.30908,46.83259,27.30908,46.83259",
-    "geom:latitude":46.83259,
-    "geom:longitude":27.30908,
+    "geom:area":0.000085,
+    "geom:area_square_m":717690.260696,
+    "geom:bbox":"27.302111,46.827102,27.317829,46.837153",
+    "geom:latitude":46.832931,
+    "geom:longitude":27.308312,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163734.0",
     "gn:asciiname":"Dumestii Vechi",
@@ -25,19 +25,30 @@
     "gn:population":449,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.28908,46.81259,27.32908,46.85259",
+    "lbl:latitude":46.83259,
+    "lbl:longitude":27.30908,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dume\u015ftii Vechi"
+    ],
+    "name:ron_x_variant":[
+        "Dumestii Vechi"
+    ],
     "name:und_x_variant":[
         "Satul Vechiu",
         "Dume\u015ftii-Vechiu",
         "Satu Vechi",
         "Dume\u015ftii Vechi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678662
+        "gn:id":678662,
+        "ro-ancpi:id":163752
     },
     "wof:country":"RO",
-    "wof:geomhash":"cb9864a3923d128cdad16dce2099d608",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dbfb3a822a8175004955850f0040b530",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +74,14 @@
         }
     ],
     "wof:id":1310144371,
-    "wof:lastmodified":1566610532,
-    "wof:name":"Dumestii Vechi",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203470,
+    "wof:name":"Dume\u015ftii Vechi",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":449,
@@ -71,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.30908,
-    46.83259,
-    27.30908,
-    46.83259
+    27.302111,
+    46.827102,
+    27.317829,
+    46.837153
 ],
-  "geometry": {"coordinates":[27.30908,46.83259],"type":"Point"}
+  "geometry": {"coordinates":[[[27.317829,46.835448],[27.316608,46.833909],[27.314764,46.834098],[27.314612,46.834253],[27.313333,46.833942],[27.31259,46.833554],[27.312121,46.833355],[27.311242,46.832983],[27.310953,46.832639],[27.310857,46.832217],[27.311074,46.831803],[27.311623,46.830168],[27.310715,46.82984],[27.309769,46.829292],[27.309187,46.828687],[27.306864,46.827102],[27.306112,46.827109],[27.305222,46.827568],[27.30462,46.828254],[27.304045,46.828706],[27.303759,46.828829],[27.303607,46.829231],[27.303094,46.829449],[27.302501,46.830052],[27.302448,46.830519],[27.302651,46.832207],[27.302111,46.832244],[27.302285,46.833508],[27.303121,46.833559],[27.303419,46.834214],[27.303893,46.834559],[27.304609,46.834796],[27.304124,46.83535],[27.304803,46.835759],[27.304366,46.836541],[27.305032,46.836812],[27.306192,46.837016],[27.30742,46.837153],[27.313742,46.836845],[27.314049,46.836251],[27.315043,46.836177],[27.317829,46.835448]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.2848,44.37883,24.2848,44.37883",
-    "geom:latitude":44.37883,
-    "geom:longitude":24.2848,
+    "geom:area":0.000057,
+    "geom:area_square_m":499593.213591,
+    "geom:bbox":"24.275639,44.372168,24.293865,44.380911",
+    "geom:latitude":44.376137,
+    "geom:longitude":24.283829,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128105.0",
     "gn:asciiname":"Enosesti",
@@ -24,13 +24,26 @@
     "gn:population":394,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.2648,44.35883,24.3048,44.39883",
+    "lbl:latitude":44.376496,
+    "lbl:longitude":24.281689,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.376496,
+    "mps:longitude":24.281689,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Eno\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Enosesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678566
+        "gn:id":678566,
+        "ro-ancpi:id":128150
     },
     "wof:country":"RO",
-    "wof:geomhash":"34496ef317ef98ae8abfc01982106e76",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ba4aafc14a33896683b11245539cd0a0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1192968989,
-    "wof:lastmodified":1566610443,
-    "wof:name":"Enosesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
+    "wof:name":"Eno\u015fe\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":394,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2848,
-    44.37883,
-    24.2848,
-    44.37883
+    24.275639,
+    44.372168,
+    24.293865,
+    44.380911
 ],
-  "geometry": {"coordinates":[24.2848,44.37883],"type":"Point"}
+  "geometry": {"coordinates":[[[24.293865,44.373722],[24.293174,44.372422],[24.292979,44.37217],[24.292682,44.372168],[24.29121,44.372244],[24.288265,44.373735],[24.287166,44.374122],[24.286867,44.373886],[24.285152,44.374637],[24.284213,44.374498],[24.279555,44.373985],[24.279501,44.374355],[24.279305,44.375474],[24.278206,44.375436],[24.276856,44.375479],[24.276371,44.37549],[24.276367,44.375837],[24.275639,44.375886],[24.275709,44.376733],[24.276421,44.376711],[24.276382,44.377173],[24.27639,44.377463],[24.276162,44.377778],[24.276953,44.378305],[24.278379,44.378738],[24.280824,44.378771],[24.281903,44.378773],[24.28181,44.379634],[24.283027,44.379727],[24.282759,44.380911],[24.284989,44.380865],[24.285721,44.380855],[24.285769,44.37965],[24.285549,44.37964],[24.283651,44.379643],[24.284583,44.376357],[24.286664,44.375897],[24.288884,44.375612],[24.291228,44.375021],[24.292793,44.374304],[24.293865,44.373722]]],"type":"Polygon"}
 }

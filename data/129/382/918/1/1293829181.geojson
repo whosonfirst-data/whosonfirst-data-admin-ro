@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.35947,47.59624,26.35947,47.59624",
-    "geom:latitude":47.59624,
-    "geom:longitude":26.35947,
+    "geom:area":0.000049,
+    "geom:area_square_m":408038.242591,
+    "geom:bbox":"26.348428,47.591007,26.363768,47.599358",
+    "geom:latitude":47.595507,
+    "geom:longitude":26.356642,
     "gn:admin1_code":"34",
     "gn:admin2_code":"150588.0",
     "gn:asciiname":"Luncusoara",
@@ -24,13 +24,26 @@
     "gn:population":554,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.33947,47.57624,26.37947,47.61624",
+    "lbl:latitude":47.595849,
+    "lbl:longitude":26.357209,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":47.595849,
+    "mps:longitude":26.357209,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Luncu\u015foara"
+    ],
+    "name:ron_x_variant":[
+        "Luncusoara"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674332
+        "gn:id":674332,
+        "ro-ancpi:id":150613
     },
     "wof:country":"RO",
-    "wof:geomhash":"34f085d2a4fbecf8d481b01a0c6a30d5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0abe5cfa917d2f784bcdbdf8c476dfeb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293829181,
-    "wof:lastmodified":1566610077,
-    "wof:name":"Luncusoara",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203428,
+    "wof:name":"Luncu\u015foara",
     "wof:parent_id":85687773,
     "wof:placetype":"locality",
     "wof:population":554,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.35947,
-    47.59624,
-    26.35947,
-    47.59624
+    26.348428,
+    47.591007,
+    26.363768,
+    47.599358
 ],
-  "geometry": {"coordinates":[26.35947,47.59624],"type":"Point"}
+  "geometry": {"coordinates":[[[[26.358211,47.598822],[26.359042,47.597167],[26.359529,47.596108],[26.359535,47.595729],[26.36055,47.595067],[26.360111,47.594865],[26.360572,47.593794],[26.361404,47.593343],[26.362041,47.594544],[26.363004,47.594325],[26.362501,47.593481],[26.361464,47.59172],[26.361383,47.591661],[26.361311,47.591609],[26.361127,47.591474],[26.360501,47.591961],[26.356696,47.592785],[26.354689,47.593092],[26.354318,47.592616],[26.352514,47.592954],[26.353033,47.593551],[26.353089,47.593616],[26.35336,47.593929],[26.354077,47.594704],[26.354435,47.594614],[26.355074,47.595398],[26.354223,47.595756],[26.351539,47.59698],[26.350427,47.597392],[26.348428,47.598065],[26.348624,47.598672],[26.350092,47.598581],[26.35243,47.597705],[26.352693,47.598057],[26.353456,47.598435],[26.355561,47.599358],[26.358211,47.598822]]],[[[26.362399,47.591013],[26.362382,47.591007],[26.361989,47.591244],[26.362006,47.591259],[26.362624,47.591822],[26.363263,47.592297],[26.363768,47.592083],[26.363624,47.591495],[26.362399,47.591013]]]],"type":"MultiPolygon"}
 }

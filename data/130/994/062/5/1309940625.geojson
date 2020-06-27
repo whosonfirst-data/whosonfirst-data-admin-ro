@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.96963,45.18283,23.96963,45.18283",
-    "geom:latitude":45.18283,
-    "geom:longitude":23.96963,
+    "geom:area":0.000059,
+    "geom:area_square_m":517175.650886,
+    "geom:bbox":"23.963731,45.173772,23.973412,45.189002",
+    "geom:latitude":45.18128,
+    "geom:longitude":23.967947,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168041.0",
     "gn:asciiname":"Tanasesti",
@@ -24,13 +24,24 @@
     "gn:population":202,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.94963,45.16283,23.98963,45.20283",
+    "lbl:latitude":45.18283,
+    "lbl:longitude":23.96963,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "T\u0103n\u0103se\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Tanasesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665548
+        "gn:id":665548,
+        "ro-ancpi:id":168103
     },
     "wof:country":"RO",
-    "wof:geomhash":"dae3d24d234673c7c32063bf2c4d2d07",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"61a5794a2e387e4cca0ff472b824e0eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1309940625,
-    "wof:lastmodified":1566611254,
-    "wof:name":"Tanasesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
+    "wof:name":"T\u0103n\u0103se\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":202,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.96963,
-    45.18283,
-    23.96963,
-    45.18283
+    23.963731,
+    45.173772,
+    23.973412,
+    45.189002
 ],
-  "geometry": {"coordinates":[23.96963,45.18283],"type":"Point"}
+  "geometry": {"coordinates":[[[23.970024,45.182878],[23.96998,45.181118],[23.969347,45.179281],[23.972337,45.176823],[23.973412,45.175372],[23.972434,45.175539],[23.970443,45.174302],[23.970258,45.173772],[23.969344,45.174477],[23.968554,45.1775],[23.965577,45.174476],[23.964807,45.175633],[23.967773,45.178845],[23.966453,45.17981],[23.965279,45.181405],[23.964571,45.181288],[23.963731,45.181932],[23.964659,45.18302],[23.96455,45.183559],[23.966644,45.184527],[23.963972,45.188201],[23.966601,45.189002],[23.969846,45.185296],[23.970024,45.182878]]],"type":"Polygon"}
 }

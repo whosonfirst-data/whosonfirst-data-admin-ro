@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.4,45.36667,24.4,45.36667",
-    "geom:latitude":45.36667,
-    "geom:longitude":24.4,
+    "geom:area":0.00001,
+    "geom:area_square_m":86782.714289,
+    "geom:bbox":"24.409035,45.353659,24.412324,45.358345",
+    "geom:latitude":45.356058,
+    "geom:longitude":24.410768,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172153.0",
     "gn:asciiname":"Pripoare",
@@ -24,11 +24,14 @@
     "gn:population":295,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.38,45.34667,24.42,45.38667",
+    "lbl:latitude":45.356103,
+    "lbl:longitude":24.4108,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.356103,
+    "mps:longitude":24.4108,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Pripoare"
@@ -36,7 +39,11 @@
     "name:ron_x_preferred":[
         "Pripoare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669631
+        "gn:id":669631,
+        "ro-ancpi:id":172233
     },
     "wof:country":"RO",
-    "wof:geomhash":"537998540843f62acea01b64b907d43d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"889337034a51bdad6d5ffd8c2e67f5d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +69,13 @@
         }
     ],
     "wof:id":1327170103,
-    "wof:lastmodified":1566609860,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
     "wof:name":"Pripoare",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -70,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.4,
-    45.36667,
-    24.4,
-    45.36667
+    24.409035,
+    45.353659,
+    24.412324,
+    45.358345
 ],
-  "geometry": {"coordinates":[24.4,45.36667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.412324,45.354151],[24.410312,45.353659],[24.409035,45.357834],[24.410645,45.358345],[24.411738,45.357602],[24.412324,45.354151]]],"type":"Polygon"}
 }

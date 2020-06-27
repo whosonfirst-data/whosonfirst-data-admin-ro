@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.30931,44.60954,24.30931,44.60954",
-    "geom:latitude":44.60954,
-    "geom:longitude":24.30931,
+    "geom:area":0.000031,
+    "geom:area_square_m":276520.958468,
+    "geom:bbox":"24.289126,44.60579,24.312032,44.617184",
+    "geom:latitude":44.611489,
+    "geom:longitude":24.303023,
     "gn:admin1_code":"39",
     "gn:admin2_code":"174218.0",
     "gn:asciiname":"Voicestii din Vale",
@@ -25,17 +25,28 @@
     "gn:population":268,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.28931,44.58954,24.32931,44.62954",
+    "lbl:latitude":44.60954,
+    "lbl:longitude":24.30931,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Voice\u015ftii Din Vale"
+    ],
+    "name:ron_x_variant":[
+        "Voicestii din Vale"
+    ],
     "name:und_x_variant":[
         "Voicestii-Vale",
         "Voice\u015ftii din Vale"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662539
+        "gn:id":662539,
+        "ro-ancpi:id":174245
     },
     "wof:country":"RO",
-    "wof:geomhash":"0b6dcc8e8efde0106515f52fcca599ef",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2b0d9b076d0bbed6182a1376219b1cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1193167625,
-    "wof:lastmodified":1566610453,
-    "wof:name":"Voicestii din Vale",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"Voice\u015ftii Din Vale",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":268,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.30931,
-    44.60954,
-    24.30931,
-    44.60954
+    24.289126,
+    44.60579,
+    24.312032,
+    44.617184
 ],
-  "geometry": {"coordinates":[24.30931,44.60954],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.306903,44.609432],[24.308257,44.609327],[24.311026,44.61015],[24.312032,44.609053],[24.311321,44.608441],[24.311526,44.60579],[24.309725,44.605829],[24.30994,44.608598],[24.306645,44.608363],[24.303087,44.610063],[24.302582,44.611954],[24.30593,44.612128],[24.306903,44.609432]]],[[[24.300787,44.614237],[24.300516,44.613364],[24.29501,44.614663],[24.293234,44.615257],[24.289126,44.616484],[24.289493,44.617184],[24.294658,44.615888],[24.300787,44.614237]]]],"type":"MultiPolygon"}
 }

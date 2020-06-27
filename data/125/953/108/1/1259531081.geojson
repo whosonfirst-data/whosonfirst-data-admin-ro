@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.48055,46.80499,24.48055,46.80499",
-    "geom:latitude":46.80499,
-    "geom:longitude":24.48055,
+    "geom:area":0.000002,
+    "geom:area_square_m":19021.963468,
+    "geom:bbox":"24.480042,46.807988,24.48631,46.812615",
+    "geom:latitude":46.80967,
+    "geom:longitude":24.482941,
     "gn:admin1_code":"27",
     "gn:admin2_code":"116224.0",
     "gn:asciiname":"Valea Ungurului",
@@ -25,17 +25,27 @@
     "gn:population":10,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.46055,46.78499,24.50055,46.82499",
+    "lbl:latitude":46.808409,
+    "lbl:longitude":24.485511,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.808409,
+    "mps:longitude":24.485511,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Ungurului"
+    ],
     "name:und_x_variant":[
         "Magyarv\u00f6lgye",
         "Valea Ungurului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663342
+        "gn:id":663342,
+        "ro-ancpi:id":116279
     },
     "wof:country":"RO",
-    "wof:geomhash":"93ca16ec757221dc9bee81ff5221cb76",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c97603089956d0cde129e223e5f02634",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1259531081,
-    "wof:lastmodified":1566611537,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203458,
     "wof:name":"Valea Ungurului",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.48055,
-    46.80499,
-    24.48055,
-    46.80499
+    24.480042,
+    46.807988,
+    24.48631,
+    46.812615
 ],
-  "geometry": {"coordinates":[24.48055,46.80499],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.484769,46.809129],[24.485454,46.808735],[24.485871,46.809079],[24.48631,46.808902],[24.48583,46.808545],[24.486183,46.808442],[24.486027,46.808184],[24.485802,46.807988],[24.485415,46.808053],[24.484431,46.808878],[24.484493,46.808933],[24.484769,46.809129]]],[[[24.480773,46.811944],[24.480574,46.81173],[24.480042,46.811746],[24.480202,46.812306],[24.480455,46.812615],[24.481226,46.812436],[24.480773,46.811944]]],[[[24.481317,46.808907],[24.480314,46.808668],[24.480044,46.809134],[24.480992,46.809413],[24.481317,46.808907]]]],"type":"MultiPolygon"}
 }

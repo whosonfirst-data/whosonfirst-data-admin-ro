@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.31361,46.5645,27.31361,46.5645",
-    "geom:latitude":46.5645,
-    "geom:longitude":27.31361,
+    "geom:area":0.000049,
+    "geom:area_square_m":420154.224027,
+    "geom:bbox":"27.303779,46.552149,27.322198,46.570749",
+    "geom:latitude":46.562383,
+    "geom:longitude":27.312247,
     "gn:admin1_code":"04",
     "gn:admin2_code":"21891.0",
     "gn:asciiname":"Zapodia",
@@ -25,18 +25,43 @@
     "gn:population":280,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.29361,46.5445,27.33361,46.5845",
+    "lbl:latitude":46.564456,
+    "lbl:longitude":27.309796,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.564456,
+    "mps:longitude":27.309796,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Z\u0103podia"
+    ],
+    "name:deu_x_preferred":[
+        "Z\u0103podia"
+    ],
+    "name:hun_x_preferred":[
+        "Zapodia"
+    ],
+    "name:ron_x_preferred":[
+        "Z\u0103podia"
+    ],
+    "name:ron_x_variant":[
+        "Zapodia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u0434\u0438\u0458\u0430"
+    ],
     "name:und_x_variant":[
         "Salcia",
         "Salahoru",
         "Z\u0103podia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662298
+        "gn:id":662298,
+        "ro-ancpi:id":21962
     },
     "wof:country":"RO",
-    "wof:geomhash":"eb81e9b923d9cf2aca2542117657e080",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4c42490d1c182dac94231d443d6f0210",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +87,14 @@
         }
     ],
     "wof:id":1259589215,
-    "wof:lastmodified":1566611582,
-    "wof:name":"Zapodia",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203553,
+    "wof:name":"Z\u0103podia",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":280,
@@ -70,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.31361,
-    46.5645,
-    27.31361,
-    46.5645
+    27.303779,
+    46.552149,
+    27.322198,
+    46.570749
 ],
-  "geometry": {"coordinates":[27.31361,46.5645],"type":"Point"}
+  "geometry": {"coordinates":[[[27.303779,46.569763],[27.306104,46.570749],[27.306704,46.569224],[27.306916,46.56873],[27.307471,46.56795],[27.307928,46.567443],[27.308461,46.56701],[27.309619,46.565963],[27.310539,46.565636],[27.310913,46.565508],[27.311246,46.565496],[27.311902,46.565963],[27.314439,46.563604],[27.313718,46.563296],[27.31474,46.562144],[27.316031,46.559438],[27.316474,46.55891],[27.316622,46.558928],[27.317625,46.557759],[27.317759,46.557313],[27.319302,46.556072],[27.319973,46.555581],[27.320324,46.555105],[27.320126,46.555045],[27.321189,46.553968],[27.321422,46.553939],[27.322198,46.552598],[27.320616,46.552149],[27.319878,46.553547],[27.319116,46.554264],[27.318842,46.554204],[27.318326,46.55516],[27.316445,46.556813],[27.316077,46.557446],[27.314983,46.558309],[27.31486,46.558568],[27.313852,46.558301],[27.313229,46.55938],[27.313891,46.559571],[27.313254,46.560681],[27.313765,46.560804],[27.31158,46.563406],[27.310068,46.563003],[27.308729,46.563044],[27.30861,46.563644],[27.30782,46.563276],[27.307294,46.563799],[27.308244,46.564515],[27.30727,46.565233],[27.305268,46.567088],[27.304233,46.569294],[27.303779,46.569763]]],"type":"Polygon"}
 }

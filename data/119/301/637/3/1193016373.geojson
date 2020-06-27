@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.01211,46.54753,27.01211,46.54753",
-    "geom:latitude":46.54753,
-    "geom:longitude":27.01211,
+    "geom:area":0.000023,
+    "geom:area_square_m":196404.349466,
+    "geom:bbox":"27.009108,46.54262,27.014616,46.552794",
+    "geom:latitude":46.547169,
+    "geom:longitude":27.0111,
     "gn:admin1_code":"04",
     "gn:admin2_code":"21668",
     "gn:asciiname":"Buhocel",
@@ -25,17 +25,25 @@
     "gn:population":243,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.99211,46.52753,27.03211,46.56753",
+    "lbl:latitude":46.54753,
+    "lbl:longitude":27.01211,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Buhocel"
+    ],
     "name:und_x_variant":[
         "Buhoce",
         "Buhocel"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683368
+        "gn:id":683368,
+        "ro-ancpi:id":21695
     },
     "wof:country":"RO",
-    "wof:geomhash":"98307d7f25352af23ceab9540c17bae5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c480e80ad109acce4c6632c1269f2f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1193016373,
-    "wof:lastmodified":1566610422,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203543,
     "wof:name":"Buhocel",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.01211,
-    46.54753,
-    27.01211,
-    46.54753
+    27.009108,
+    46.54262,
+    27.014616,
+    46.552794
 ],
-  "geometry": {"coordinates":[27.01211,46.54753],"type":"Point"}
+  "geometry": {"coordinates":[[[27.011473,46.552778],[27.011493,46.551271],[27.011652,46.54831],[27.011444,46.547614],[27.012484,46.547517],[27.012707,46.547242],[27.014616,46.547083],[27.01455,46.546609],[27.013632,46.546619],[27.013609,46.546005],[27.013405,46.545921],[27.012977,46.546001],[27.012661,46.546],[27.012633,46.545512],[27.012703,46.544803],[27.012798,46.544523],[27.012936,46.544281],[27.012303,46.544244],[27.012667,46.54394],[27.012554,46.543587],[27.011455,46.544008],[27.01077,46.54262],[27.009806,46.54263],[27.009161,46.542693],[27.010018,46.544721],[27.009819,46.545048],[27.009813,46.545413],[27.010056,46.546056],[27.009173,46.546264],[27.009115,46.546503],[27.009108,46.546833],[27.009251,46.547061],[27.010335,46.546607],[27.009763,46.54694],[27.009677,46.547206],[27.009962,46.548181],[27.009937,46.552692],[27.010486,46.552794],[27.010821,46.552782],[27.011473,46.552778]]],"type":"Polygon"}
 }

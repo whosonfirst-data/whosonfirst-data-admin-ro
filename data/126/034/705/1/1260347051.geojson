@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.4446,46.87747,27.4446,46.87747",
-    "geom:latitude":46.87747,
-    "geom:longitude":27.4446,
+    "geom:area":0.000023,
+    "geom:area_square_m":197302.978288,
+    "geom:bbox":"27.437875,46.874389,27.446861,46.88009",
+    "geom:latitude":46.877175,
+    "geom:longitude":27.443016,
     "gn:admin1_code":"23",
     "gn:admin2_code":"97553",
     "gn:asciiname":"Alexesti",
@@ -24,13 +24,24 @@
     "gn:population":44,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.4246,46.85747,27.4646,46.89747",
+    "lbl:latitude":46.87747,
+    "lbl:longitude":27.4446,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Alexe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Alexesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686481
+        "gn:id":686481,
+        "ro-ancpi:id":97571
     },
     "wof:country":"RO",
-    "wof:geomhash":"3ca8025da5b468bc2496d12ec1dde07a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9b44785d76898f300c2e27fc864946c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1260347051,
-    "wof:lastmodified":1566610507,
-    "wof:name":"Alexesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203375,
+    "wof:name":"Alexe\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":44,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.4446,
-    46.87747,
-    27.4446,
-    46.87747
+    27.437875,
+    46.874389,
+    27.446861,
+    46.88009
 ],
-  "geometry": {"coordinates":[27.4446,46.87747],"type":"Point"}
+  "geometry": {"coordinates":[[[27.439425,46.879768],[27.440569,46.878466],[27.442128,46.878815],[27.444504,46.879289],[27.445438,46.87833],[27.446861,46.87607],[27.446569,46.87555],[27.442599,46.874389],[27.442558,46.874445],[27.44253,46.874483],[27.442467,46.87457],[27.441885,46.875438],[27.441299,46.876236],[27.440891,46.876805],[27.440617,46.877149],[27.440406,46.877327],[27.439845,46.877804],[27.438295,46.879131],[27.437875,46.879502],[27.439365,46.88009],[27.439425,46.879768]]],"type":"Polygon"}
 }

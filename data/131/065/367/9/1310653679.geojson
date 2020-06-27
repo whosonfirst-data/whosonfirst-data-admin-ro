@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.90437,45.92715,21.90437,45.92715",
-    "geom:latitude":45.92715,
-    "geom:longitude":21.90437,
+    "geom:area":0.000067,
+    "geom:area_square_m":578223.262473,
+    "geom:bbox":"21.892406,45.92278,21.912794,45.930226",
+    "geom:latitude":45.92661,
+    "geom:longitude":21.901314,
     "gn:admin1_code":"36",
     "gn:admin2_code":"155662.0",
     "gn:asciiname":"Radmanesti",
@@ -25,12 +25,19 @@
     "gn:population":66,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.88437,45.90715,21.92437,45.94715",
+    "lbl:latitude":45.92715,
+    "lbl:longitude":21.90437,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u0103dm\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Radmanesti"
+    ],
     "name:und_x_variant":[
         "Radmanyest",
         "Radman\u00f3c",
@@ -38,7 +45,11 @@
         "Radmanyesty",
         "R\u0103dm\u0103ne\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669259
+        "gn:id":669259,
+        "ro-ancpi:id":155706
     },
     "wof:country":"RO",
-    "wof:geomhash":"85d1318bce37331de8971d326ec078ee",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2511d87fa2ab8bf39e27635d53cd1a09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +75,14 @@
         }
     ],
     "wof:id":1310653679,
-    "wof:lastmodified":1566610541,
-    "wof:name":"Radmanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
+    "wof:name":"R\u0103dm\u0103ne\u015fti",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":66,
@@ -72,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.90437,
-    45.92715,
-    21.90437,
-    45.92715
+    21.892406,
+    45.92278,
+    21.912794,
+    45.930226
 ],
-  "geometry": {"coordinates":[21.90437,45.92715],"type":"Point"}
+  "geometry": {"coordinates":[[[21.908762,45.926813],[21.906737,45.926378],[21.905392,45.925833],[21.904149,45.925508],[21.903383,45.92496],[21.902655,45.924411],[21.901373,45.923928],[21.899277,45.923213],[21.898084,45.92278],[21.896664,45.924412],[21.896201,45.924191],[21.895706,45.923934],[21.895263,45.923681],[21.894551,45.923324],[21.894056,45.924068],[21.893753,45.924446],[21.89331,45.924975],[21.8929,45.925369],[21.892641,45.92584],[21.892689,45.926695],[21.892406,45.927512],[21.893488,45.927878],[21.893766,45.927801],[21.895937,45.928469],[21.896855,45.926948],[21.89794,45.927311],[21.897295,45.928456],[21.900518,45.929396],[21.901657,45.927696],[21.902414,45.926499],[21.903581,45.926794],[21.903048,45.927721],[21.904311,45.92808],[21.905795,45.928531],[21.907182,45.928945],[21.908705,45.929342],[21.911521,45.930226],[21.911737,45.929876],[21.912065,45.929404],[21.912193,45.929121],[21.912794,45.928087],[21.911361,45.927558],[21.909975,45.927097],[21.908762,45.926813]]],"type":"Polygon"}
 }

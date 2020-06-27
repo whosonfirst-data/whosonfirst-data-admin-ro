@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.36073,44.56617,24.36073,44.56617",
-    "geom:latitude":44.56617,
-    "geom:longitude":24.36073,
+    "geom:area":0.000074,
+    "geom:area_square_m":653474.319429,
+    "geom:bbox":"24.350102,44.557239,24.363563,44.569736",
+    "geom:latitude":44.563314,
+    "geom:longitude":24.357577,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129380.0",
     "gn:asciiname":"Deleni",
@@ -24,11 +24,12 @@
     "gn:population":503,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.34073,44.54617,24.38073,44.58617",
+    "lbl:latitude":44.56617,
+    "lbl:longitude":24.36073,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Deleni"
@@ -37,6 +38,9 @@
         "Deleni"
     ],
     "name:epo_x_preferred":[
+        "Deleni"
+    ],
+    "name:eus_x_preferred":[
         "Deleni"
     ],
     "name:hun_x_preferred":[
@@ -57,7 +61,11 @@
     "name:vol_x_preferred":[
         "Deleni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -66,10 +74,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679534
+        "gn:id":679534,
+        "ro-ancpi:id":129442
     },
     "wof:country":"RO",
-    "wof:geomhash":"dbc7d421ed65efa8ba0bb1e994e833a5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4ef862c5f006b2c8bdf247e111e12a91",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -79,7 +91,13 @@
         }
     ],
     "wof:id":1243515583,
-    "wof:lastmodified":1566611489,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203707,
     "wof:name":"Deleni",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -91,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36073,
-    44.56617,
-    24.36073,
-    44.56617
+    24.350102,
+    44.557239,
+    24.363563,
+    44.569736
 ],
-  "geometry": {"coordinates":[24.36073,44.56617],"type":"Point"}
+  "geometry": {"coordinates":[[[24.350102,44.557551],[24.350983,44.559417],[24.351372,44.560166],[24.353557,44.562959],[24.356175,44.566278],[24.357631,44.568259],[24.360509,44.569736],[24.361748,44.568942],[24.360991,44.567037],[24.363563,44.565351],[24.363067,44.563735],[24.361748,44.562081],[24.359393,44.560633],[24.358116,44.559062],[24.35564,44.558683],[24.354573,44.558601],[24.352211,44.559408],[24.351305,44.557239],[24.350102,44.557551]]],"type":"Polygon"}
 }

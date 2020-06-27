@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.05842,44.9765,24.05842,44.9765",
-    "geom:latitude":44.9765,
-    "geom:longitude":24.05842,
+    "geom:area":0.000071,
+    "geom:area_square_m":618287.702099,
+    "geom:bbox":"24.048002,44.966992,24.061614,44.981378",
+    "geom:latitude":44.973864,
+    "geom:longitude":24.054752,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169039.0",
     "gn:asciiname":"Modoia",
@@ -24,13 +24,23 @@
     "gn:population":552,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.03842,44.9565,24.07842,44.9965",
+    "lbl:latitude":44.973671,
+    "lbl:longitude":24.055215,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.973671,
+    "mps:longitude":24.055215,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Modoia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672975
+        "gn:id":672975,
+        "ro-ancpi:id":169084
     },
     "wof:country":"RO",
-    "wof:geomhash":"8027566e12014598c726f1d5b0186632",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c1b5e9d97d469979e72e0d75d2d86185",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1226580385,
-    "wof:lastmodified":1566611641,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203695,
     "wof:name":"Modoia",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.05842,
-    44.9765,
-    24.05842,
-    44.9765
+    24.048002,
+    44.966992,
+    24.061614,
+    44.981378
 ],
-  "geometry": {"coordinates":[24.05842,44.9765],"type":"Point"}
+  "geometry": {"coordinates":[[[24.048002,44.978934],[24.050397,44.980452],[24.051823,44.981378],[24.053694,44.977409],[24.054941,44.97647],[24.0571,44.976671],[24.058618,44.972125],[24.060501,44.972403],[24.061614,44.969742],[24.057387,44.969473],[24.058106,44.967286],[24.055589,44.966992],[24.05227,44.973761],[24.048002,44.978934]]],"type":"Polygon"}
 }

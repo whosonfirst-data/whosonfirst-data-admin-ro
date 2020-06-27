@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.29517,46.85604,23.29517,46.85604",
-    "geom:latitude":46.85604,
-    "geom:longitude":23.29517,
+    "geom:area":0.000018,
+    "geom:area_square_m":155061.100029,
+    "geom:bbox":"23.285904,46.85382,23.299016,46.85843",
+    "geom:latitude":46.855771,
+    "geom:longitude":23.292487,
     "gn:admin1_code":"13",
     "gn:admin2_code":"55473.0",
     "gn:asciiname":"Doroltu",
@@ -24,13 +24,24 @@
     "gn:population":120,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.27517,46.83604,23.31517,46.87604",
+    "lbl:latitude":46.85604,
+    "lbl:longitude":23.29517,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dorol\u0163u"
+    ],
+    "name:ron_x_variant":[
+        "Doroltu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679059
+        "gn:id":679059,
+        "ro-ancpi:id":55534
     },
     "wof:country":"RO",
-    "wof:geomhash":"3ae57b7776a6e94c42fe6559cee5c3cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"222a9933c7d2fe08de7a4a62bf309ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1276427425,
-    "wof:lastmodified":1566610178,
-    "wof:name":"Doroltu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203413,
+    "wof:name":"Dorol\u0163u",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":120,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.29517,
-    46.85604,
-    23.29517,
-    46.85604
+    23.285904,
+    46.85382,
+    23.299016,
+    46.85843
 ],
-  "geometry": {"coordinates":[23.29517,46.85604],"type":"Point"}
+  "geometry": {"coordinates":[[[23.299016,46.858198],[23.298785,46.857803],[23.298322,46.857429],[23.298073,46.857278],[23.297878,46.857213],[23.297745,46.857039],[23.297492,46.856986],[23.296924,46.856747],[23.296109,46.856172],[23.295929,46.856177],[23.295634,46.855811],[23.295393,46.855845],[23.295209,46.855509],[23.29486,46.85536],[23.294665,46.855657],[23.293699,46.855092],[23.292979,46.854831],[23.292131,46.854547],[23.290609,46.854182],[23.28987,46.85404],[23.288764,46.853863],[23.287341,46.85382],[23.285904,46.853871],[23.286101,46.85488],[23.286949,46.854951],[23.287034,46.855309],[23.2908,46.85547],[23.291511,46.855506],[23.291962,46.855591],[23.292289,46.85565],[23.292363,46.855711],[23.29238,46.855819],[23.292329,46.85613],[23.292347,46.856226],[23.292422,46.856313],[23.294692,46.857275],[23.294603,46.857409],[23.297982,46.85843],[23.299016,46.858198]]],"type":"Polygon"}
 }

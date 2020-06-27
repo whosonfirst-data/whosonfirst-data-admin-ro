@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.00828,46.29059,23.00828,46.29059",
-    "geom:latitude":46.29059,
-    "geom:longitude":23.00828,
+    "geom:area":0.000025,
+    "geom:area_square_m":209946.225752,
+    "geom:bbox":"22.992161,46.283737,23.017534,46.291917",
+    "geom:latitude":46.288797,
+    "geom:longitude":23.0056,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Munesti",
@@ -24,13 +24,24 @@
     "gn:population":22,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.98828,46.27059,23.02828,46.31059",
+    "lbl:latitude":46.29059,
+    "lbl:longitude":23.00828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mune\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Munesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672664
+        "gn:id":672664,
+        "ro-ancpi:id":7623
     },
     "wof:country":"RO",
-    "wof:geomhash":"84caccfe19dd08ec0008a00e702aa7ed",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"20bd3d9a7c37bebe743c5f2419b44ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1293801809,
-    "wof:lastmodified":1566610133,
-    "wof:name":"Munesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203752,
+    "wof:name":"Mune\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":22,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.00828,
-    46.29059,
-    23.00828,
-    46.29059
+    22.992161,
+    46.283737,
+    23.017534,
+    46.291917
 ],
-  "geometry": {"coordinates":[23.00828,46.29059],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.99993,46.289685],[22.996928,46.287274],[22.993897,46.286846],[22.992161,46.2872],[22.992688,46.287989],[22.994029,46.287801],[22.995982,46.288131],[22.998641,46.290415],[22.99993,46.289685]]],[[[23.007754,46.290162],[23.005267,46.290076],[23.005238,46.291464],[23.006729,46.291513],[23.012564,46.291917],[23.012777,46.291264],[23.008611,46.290679],[23.007754,46.290162]]],[[[23.017534,46.288418],[23.015871,46.287745],[23.013804,46.286464],[23.011796,46.288373],[23.012317,46.288808],[23.013205,46.288223],[23.015446,46.2886],[23.016519,46.289001],[23.017265,46.288883],[23.017534,46.288418]]],[[[23.007649,46.283929],[23.006016,46.283737],[23.00543,46.284688],[23.007204,46.284894],[23.007277,46.284633],[23.007649,46.283929]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.05908,46.34891,23.05908,46.34891",
-    "geom:latitude":46.34891,
-    "geom:longitude":23.05908,
+    "geom:area":0.000029,
+    "geom:area_square_m":245537.928275,
+    "geom:bbox":"23.051536,46.341234,23.060804,46.349618",
+    "geom:latitude":46.346214,
+    "geom:longitude":23.055851,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1455.0",
     "gn:asciiname":"Fata Abrudului",
@@ -24,13 +24,26 @@
     "gn:population":161,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.03908,46.32891,23.07908,46.36891",
+    "lbl:latitude":46.347859,
+    "lbl:longitude":23.056167,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.347859,
+    "mps:longitude":23.056167,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Fa\u0163a Abrudului"
+    ],
+    "name:ron_x_variant":[
+        "Fata Abrudului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678416
+        "gn:id":678416,
+        "ro-ancpi:id":1561
     },
     "wof:country":"RO",
-    "wof:geomhash":"4e1d65f338f9ee926ea9a154234c28b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8d6ce40c84a9c6c2cf28c95a04bcdc38",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1260186521,
-    "wof:lastmodified":1566610489,
-    "wof:name":"Fata Abrudului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203758,
+    "wof:name":"Fa\u0163a Abrudului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":161,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.05908,
-    46.34891,
-    23.05908,
-    46.34891
+    23.051536,
+    46.341234,
+    23.060804,
+    46.349618
 ],
-  "geometry": {"coordinates":[23.05908,46.34891],"type":"Point"}
+  "geometry": {"coordinates":[[[23.060148,46.348697],[23.060804,46.34865],[23.060804,46.347818],[23.059782,46.346699],[23.0586,46.34693],[23.057582,46.346662],[23.054742,46.345634],[23.054517,46.344589],[23.054791,46.344238],[23.056411,46.342787],[23.056422,46.341234],[23.053853,46.341793],[23.053654,46.342469],[23.053843,46.343301],[23.053136,46.344179],[23.051821,46.344408],[23.051536,46.345066],[23.052733,46.34572],[23.053568,46.34676],[23.054497,46.348224],[23.054582,46.349537],[23.056011,46.349618],[23.05798,46.348992],[23.060148,46.348697]]],"type":"Polygon"}
 }

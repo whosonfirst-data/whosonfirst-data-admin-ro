@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.89553,47.059,26.89553,47.059",
-    "geom:latitude":47.059,
-    "geom:longitude":26.89553,
+    "geom:area":0.000012,
+    "geom:area_square_m":99464.945524,
+    "geom:bbox":"26.890398,47.056442,26.897237,47.060021",
+    "geom:latitude":47.058422,
+    "geom:longitude":26.893961,
     "gn:admin1_code":"23",
     "gn:admin2_code":"100335.0",
     "gn:asciiname":"Ursaresti",
@@ -24,13 +24,26 @@
     "gn:population":160,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.87553,47.039,26.91553,47.079",
+    "lbl:latitude":47.058095,
+    "lbl:longitude":26.894482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.058095,
+    "mps:longitude":26.894482,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Urs\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Ursaresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664118
+        "gn:id":664118,
+        "ro-ancpi:id":97866
     },
     "wof:country":"RO",
-    "wof:geomhash":"1f5ed20b48ceb101ba31b18680b3ee32",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"30e01e419133012d8775d96e3686ca44",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1225801443,
-    "wof:lastmodified":1566611658,
-    "wof:name":"Ursaresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203387,
+    "wof:name":"Urs\u0103re\u015fti",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":160,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.89553,
-    47.059,
-    26.89553,
-    47.059
+    26.890398,
+    47.056442,
+    26.897237,
+    47.060021
 ],
-  "geometry": {"coordinates":[26.89553,47.059],"type":"Point"}
+  "geometry": {"coordinates":[[[26.893238,47.059967],[26.894022,47.05988],[26.894772,47.059602],[26.895137,47.059228],[26.895946,47.058526],[26.896718,47.05813],[26.897237,47.057676],[26.896165,47.057055],[26.89607,47.057163],[26.895915,47.057348],[26.89588,47.057382],[26.895177,47.056956],[26.894894,47.056729],[26.894649,47.056536],[26.894365,47.056442],[26.894214,47.056469],[26.893818,47.056733],[26.893233,47.057132],[26.892294,47.057542],[26.893174,47.058139],[26.890398,47.059597],[26.890874,47.059816],[26.891198,47.059963],[26.891271,47.059988],[26.89132,47.059994],[26.89136,47.059994],[26.89141,47.059992],[26.892333,47.060021],[26.893238,47.059967]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.41339,46.09974,20.41339,46.09974",
-    "geom:latitude":46.09974,
-    "geom:longitude":20.41339,
+    "geom:area":0.000117,
+    "geom:area_square_m":1000000.351041,
+    "geom:bbox":"20.405835,46.093815,20.423147,46.104856",
+    "geom:latitude":46.09996,
+    "geom:longitude":20.413024,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156712.0",
     "gn:asciiname":"Colonia Bulgara",
@@ -25,18 +25,29 @@
     "gn:population":103,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"20.39339,46.07974,20.43339,46.11974",
+    "lbl:latitude":46.09974,
+    "lbl:longitude":20.41339,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Colonia Bulgar\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Colonia Bulgara"
+    ],
     "name:und_x_variant":[
         "Bolg\u00e1rtelep",
         "Bulgarische Kolonie",
         "Colonia Bulgar\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681087
+        "gn:id":681087,
+        "ro-ancpi:id":156749
     },
     "wof:country":"RO",
-    "wof:geomhash":"3cf1a9d3f90403a2c88291d664363341",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9c693610d3b55bbd870b974ad8829d33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1193218277,
-    "wof:lastmodified":1566610460,
-    "wof:name":"Colonia Bulgara",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
+    "wof:name":"Colonia Bulgar\u0103",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":103,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.41339,
-    46.09974,
-    20.41339,
-    46.09974
+    20.405835,
+    46.093815,
+    20.423147,
+    46.104856
 ],
-  "geometry": {"coordinates":[20.41339,46.09974],"type":"Point"}
+  "geometry": {"coordinates":[[[20.423147,46.102915],[20.42232,46.099518],[20.417371,46.099929],[20.417108,46.09845],[20.415927,46.098562],[20.415554,46.098437],[20.414735,46.093815],[20.413347,46.093954],[20.41351,46.094346],[20.405926,46.095164],[20.405835,46.095176],[20.405995,46.096119],[20.406765,46.100885],[20.407586,46.104856],[20.41642,46.103976],[20.421206,46.103254],[20.423147,46.102915]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.10608,47.12207,24.10608,47.12207",
-    "geom:latitude":47.12207,
-    "geom:longitude":24.10608,
+    "geom:area":0.000006,
+    "geom:area_square_m":50763.157099,
+    "geom:bbox":"24.097382,47.118682,24.106582,47.12346",
+    "geom:latitude":47.121295,
+    "geom:longitude":24.103436,
     "gn:admin1_code":"13",
     "gn:admin2_code":"59880.0",
     "gn:asciiname":"Darot",
@@ -24,13 +24,26 @@
     "gn:population":57,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.08608,47.10207,24.12608,47.14207",
+    "lbl:latitude":47.120803,
+    "lbl:longitude":24.10569,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.120803,
+    "mps:longitude":24.10569,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Daro\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Darot"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679717
+        "gn:id":679717,
+        "ro-ancpi:id":59915
     },
     "wof:country":"RO",
-    "wof:geomhash":"2ced1e946fb01b1297facc4d6da97bca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"06a71299d2bae5929afd3eb6d1897910",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1344233449,
-    "wof:lastmodified":1566609906,
-    "wof:name":"Darot",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203411,
+    "wof:name":"Daro\u0163",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":57,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.10608,
-    47.12207,
-    24.10608,
-    47.12207
+    24.097382,
+    47.118682,
+    24.106582,
+    47.12346
 ],
-  "geometry": {"coordinates":[24.10608,47.12207],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.106201,47.120406],[24.105556,47.119816],[24.105171,47.119862],[24.104893,47.119473],[24.105717,47.119096],[24.105763,47.11869],[24.10549,47.118682],[24.105093,47.118756],[24.104843,47.118797],[24.104639,47.118859],[24.104552,47.118954],[24.104535,47.119044],[24.104579,47.119188],[24.104795,47.119424],[24.10449,47.119604],[24.104551,47.119856],[24.104406,47.119992],[24.105092,47.120802],[24.104582,47.121065],[24.104548,47.121201],[24.104048,47.121273],[24.104019,47.121463],[24.103492,47.121529],[24.103528,47.12175],[24.103333,47.121793],[24.103419,47.122033],[24.105483,47.121846],[24.105416,47.121602],[24.106582,47.121253],[24.106201,47.120406]]],[[[24.097824,47.12346],[24.099362,47.123088],[24.099453,47.123223],[24.100204,47.123067],[24.101093,47.122672],[24.10104,47.12245],[24.099382,47.122842],[24.099176,47.122534],[24.098932,47.122606],[24.098846,47.122514],[24.097382,47.123031],[24.097824,47.12346]]]],"type":"MultiPolygon"}
 }

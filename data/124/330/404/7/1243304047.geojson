@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.87892,45.47324,20.87892,45.47324",
-    "geom:latitude":45.47324,
-    "geom:longitude":20.87892,
+    "geom:area":0.000158,
+    "geom:area_square_m":1367507.951395,
+    "geom:bbox":"20.865127,45.466717,20.889644,45.479418",
+    "geom:latitude":45.47286,
+    "geom:longitude":20.877374,
     "gn:admin1_code":"36",
     "gn:admin2_code":"157004.0",
     "gn:asciiname":"Cruceni",
@@ -25,11 +25,12 @@
     "gn:population":464,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"20.85892,45.45324,20.89892,45.49324",
+    "lbl:latitude":45.47324,
+    "lbl:longitude":20.87892,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cruceni"
@@ -48,7 +49,11 @@
         "Kru\u010deni",
         "Toront\u00e1lkeresztes"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +62,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680080
+        "gn:id":680080,
+        "ro-ancpi:id":157022
     },
     "wof:country":"RO",
-    "wof:geomhash":"1bfa35343f98c3f2ad8ecfb163c30a11",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1e94620a5873699ce18d7d5a6340c898",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +79,13 @@
         }
     ],
     "wof:id":1243304047,
-    "wof:lastmodified":1566611428,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203744,
     "wof:name":"Cruceni",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -82,10 +97,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.87892,
-    45.47324,
-    20.87892,
-    45.47324
+    20.865127,
+    45.466717,
+    20.889644,
+    45.479418
 ],
-  "geometry": {"coordinates":[20.87892,45.47324],"type":"Point"}
+  "geometry": {"coordinates":[[[20.881224,45.475306],[20.881854,45.473612],[20.888603,45.474978],[20.889644,45.471866],[20.886254,45.470892],[20.886465,45.470402],[20.883005,45.469667],[20.88318,45.46922],[20.883392,45.468726],[20.883674,45.468029],[20.883781,45.46776],[20.883929,45.467387],[20.880574,45.466717],[20.878289,45.468681],[20.873467,45.467743],[20.872652,45.469437],[20.871961,45.471285],[20.870581,45.470874],[20.871243,45.469014],[20.870177,45.468704],[20.869013,45.471159],[20.868331,45.472484],[20.867907,45.473316],[20.865334,45.473445],[20.865127,45.475019],[20.87024,45.476046],[20.869947,45.47681],[20.877928,45.478405],[20.877717,45.479135],[20.879274,45.479418],[20.87994,45.477394],[20.881012,45.477373],[20.881784,45.476792],[20.882199,45.475514],[20.881224,45.475306]]],"type":"Polygon"}
 }

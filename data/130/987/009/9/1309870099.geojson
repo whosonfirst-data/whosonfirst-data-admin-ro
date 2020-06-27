@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.06667,45.81667,23.06667,45.81667",
-    "geom:latitude":45.81667,
-    "geom:longitude":23.06667,
+    "geom:area":0.000018,
+    "geom:area_square_m":157767.444141,
+    "geom:bbox":"23.060898,45.823741,23.072405,45.835174",
+    "geom:latitude":45.829448,
+    "geom:longitude":23.065608,
     "gn:admin1_code":"21",
     "gn:admin2_code":"90262.0",
     "gn:asciiname":"Rapas",
@@ -25,17 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.04667,45.79667,23.08667,45.83667",
+    "lbl:latitude":45.826765,
+    "lbl:longitude":23.062469,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.826765,
+    "mps:longitude":23.062469,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "R\u00e2pa\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Rapas"
+    ],
     "name:und_x_variant":[
         "R\u00e2pa\u015f",
         "R\u00eepa\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668850
+        "gn:id":668850,
+        "ro-ancpi:id":91713
     },
     "wof:country":"RO",
-    "wof:geomhash":"d52ddce3e70baad41d91a5c9d7e781cd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ff977f416f4bff1a073fb0bdc5668eee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1309870099,
-    "wof:lastmodified":1566611258,
-    "wof:name":"Rapas",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203803,
+    "wof:name":"R\u00e2pa\u015f",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.06667,
-    45.81667,
-    23.06667,
-    45.81667
+    23.060898,
+    45.823741,
+    23.072405,
+    45.835174
 ],
-  "geometry": {"coordinates":[23.06667,45.81667],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.064244,45.828016],[23.064775,45.827832],[23.064655,45.827328],[23.064559,45.82696],[23.063757,45.826814],[23.063095,45.825857],[23.062964,45.825707],[23.062945,45.82563],[23.062931,45.825334],[23.062977,45.824876],[23.062262,45.82436],[23.061437,45.823741],[23.060898,45.824147],[23.060909,45.825502],[23.061034,45.826339],[23.061191,45.826706],[23.061502,45.827172],[23.061239,45.82786],[23.061077,45.828251],[23.061038,45.828344],[23.06176,45.828431],[23.062859,45.827979],[23.063959,45.828466],[23.064114,45.828529],[23.064252,45.82937],[23.064637,45.829331],[23.064572,45.829028],[23.064564,45.828722],[23.064593,45.828489],[23.064543,45.828355],[23.064374,45.828154],[23.064244,45.828016]]],[[[23.072405,45.833478],[23.072185,45.832408],[23.071402,45.832189],[23.068953,45.833059],[23.068325,45.832902],[23.067991,45.833458],[23.068446,45.834472],[23.067226,45.834915],[23.067369,45.835174],[23.069023,45.834793],[23.070791,45.834293],[23.072405,45.833478]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.14688,46.24184,24.14688,46.24184",
-    "geom:latitude":46.24184,
-    "geom:longitude":24.14688,
+    "geom:area":0.000024,
+    "geom:area_square_m":209205.201243,
+    "geom:bbox":"24.138973,46.240259,24.149762,46.244885",
+    "geom:latitude":46.242144,
+    "geom:longitude":24.144704,
     "gn:admin1_code":"01",
     "gn:admin2_code":"3958.0",
     "gn:asciiname":"Santamarie",
@@ -25,18 +25,29 @@
     "gn:population":348,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.12688,46.22184,24.16688,46.26184",
+    "lbl:latitude":46.24184,
+    "lbl:longitude":24.14688,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u00e2nt\u0103m\u0103rie"
+    ],
+    "name:ron_x_variant":[
+        "Santamarie"
+    ],
     "name:und_x_variant":[
         "S\u00e2ntam\u0103ria",
         "S\u00e2nt\u0103m\u0103rie",
         "S\u00eent\u0103m\u0103rie"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666937
+        "gn:id":666937,
+        "ro-ancpi:id":3985
     },
     "wof:country":"RO",
-    "wof:geomhash":"56330a2ba46ba01bef406bb8835d0a79",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d9801023ff08d81f97064de8cde24448",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1276888011,
-    "wof:lastmodified":1566610170,
-    "wof:name":"Santamarie",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203753,
+    "wof:name":"S\u00e2nt\u0103m\u0103rie",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":348,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.14688,
-    46.24184,
-    24.14688,
-    46.24184
+    24.138973,
+    46.240259,
+    24.149762,
+    46.244885
 ],
-  "geometry": {"coordinates":[24.14688,46.24184],"type":"Point"}
+  "geometry": {"coordinates":[[[24.138973,46.242734],[24.140045,46.242805],[24.140407,46.242418],[24.141652,46.242591],[24.143492,46.243064],[24.146338,46.243781],[24.149708,46.244885],[24.149762,46.244232],[24.149379,46.244072],[24.149659,46.243529],[24.148419,46.243024],[24.14844,46.242855],[24.147937,46.24267],[24.14839,46.242009],[24.147634,46.241661],[24.147895,46.241168],[24.146924,46.240862],[24.147056,46.240466],[24.146639,46.240456],[24.145879,46.240558],[24.145461,46.240259],[24.144174,46.240363],[24.144186,46.240598],[24.142753,46.240447],[24.141663,46.240717],[24.140806,46.240554],[24.139477,46.24075],[24.139701,46.241267],[24.139972,46.241776],[24.140011,46.242272],[24.139017,46.242271],[24.138973,46.242734]]],"type":"Polygon"}
 }

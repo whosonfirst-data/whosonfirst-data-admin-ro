@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.07819,45.77912,23.07819,45.77912",
-    "geom:latitude":45.77912,
-    "geom:longitude":23.07819,
+    "geom:area":0.000029,
+    "geom:area_square_m":249291.147492,
+    "geom:bbox":"23.071862,45.774783,23.080853,45.781371",
+    "geom:latitude":45.777863,
+    "geom:longitude":23.076042,
     "gn:admin1_code":"21",
     "gn:admin2_code":"90262.0",
     "gn:asciiname":"Magura",
@@ -24,14 +24,18 @@
     "gn:population":46,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.05819,45.75912,23.09819,45.79912",
+    "lbl:latitude":45.77912,
+    "lbl:longitude":23.07819,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Magura"
+    ],
+    "name:ceb_x_variant":[
+        "M\u0103gura"
     ],
     "name:ces_x_preferred":[
         "Magura"
@@ -42,13 +46,28 @@
     "name:epo_x_preferred":[
         "Magura"
     ],
+    "name:epo_x_variant":[
+        "M\u0103gura"
+    ],
+    "name:hun_x_preferred":[
+        "M\u0103gura"
+    ],
+    "name:ita_x_preferred":[
+        "M\u0103gura"
+    ],
     "name:nld_x_preferred":[
         "Magura"
+    ],
+    "name:nld_x_variant":[
+        "M\u0103gura"
     ],
     "name:pol_x_preferred":[
         "Magura"
     ],
     "name:ron_x_preferred":[
+        "M\u0103gura"
+    ],
+    "name:ron_x_variant":[
         "Magura"
     ],
     "name:rus_x_preferred":[
@@ -66,7 +85,14 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0491\u0443\u0440\u0430"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "M\u0103gura"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +101,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674151
+        "gn:id":674151,
+        "ro-ancpi:id":90315
     },
     "wof:country":"RO",
-    "wof:geomhash":"660fb17cf25a714060a6405341654bfd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"40915c097cd87d8e42349389c7976aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,8 +118,14 @@
         }
     ],
     "wof:id":1343525797,
-    "wof:lastmodified":1566609892,
-    "wof:name":"Magura",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203793,
+    "wof:name":"M\u0103gura",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":46,
@@ -100,10 +136,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.07819,
-    45.77912,
-    23.07819,
-    45.77912
+    23.071862,
+    45.774783,
+    23.080853,
+    45.781371
 ],
-  "geometry": {"coordinates":[23.07819,45.77912],"type":"Point"}
+  "geometry": {"coordinates":[[[23.080111,45.780811],[23.080853,45.779968],[23.080526,45.779749],[23.080036,45.779618],[23.079691,45.779898],[23.07952,45.779793],[23.07926,45.780145],[23.078508,45.779582],[23.079173,45.77887],[23.079717,45.778299],[23.078657,45.77779],[23.078173,45.777456],[23.077923,45.777115],[23.077648,45.776642],[23.077374,45.776159],[23.077365,45.775976],[23.076048,45.774925],[23.074277,45.774783],[23.072293,45.775727],[23.072431,45.776371],[23.072436,45.776433],[23.072388,45.776602],[23.072326,45.776727],[23.072257,45.776866],[23.072182,45.776969],[23.072042,45.777067],[23.071862,45.777186],[23.072089,45.777363],[23.072919,45.777347],[23.073137,45.777371],[23.072857,45.778313],[23.07308,45.778602],[23.073579,45.778896],[23.073655,45.779233],[23.073767,45.779347],[23.074256,45.779528],[23.074836,45.779599],[23.07546,45.779671],[23.075779,45.779697],[23.076241,45.77988],[23.076739,45.780225],[23.077326,45.780499],[23.078018,45.780704],[23.078695,45.780909],[23.079347,45.781022],[23.080106,45.781371],[23.080453,45.781031],[23.080111,45.780811]]],"type":"Polygon"}
 }

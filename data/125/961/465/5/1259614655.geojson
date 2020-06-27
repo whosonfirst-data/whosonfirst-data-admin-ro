@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35729,45.18457,24.35729,45.18457",
-    "geom:latitude":45.18457,
-    "geom:longitude":24.35729,
+    "geom:area":0.000023,
+    "geom:area_square_m":203039.668862,
+    "geom:bbox":"24.34606,45.182723,24.361089,45.186766",
+    "geom:latitude":45.184814,
+    "geom:longitude":24.353768,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168880.0",
     "gn:asciiname":"Malu Vartop",
@@ -25,17 +25,28 @@
     "gn:population":448,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.33729,45.16457,24.37729,45.20457",
+    "lbl:latitude":45.18457,
+    "lbl:longitude":24.35729,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Malu V\u00e2rtop"
+    ],
+    "name:ron_x_variant":[
+        "Malu Vartop"
+    ],
     "name:und_x_variant":[
         "Malul V\u00e2rtop",
         "Malu V\u00eertop"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673958
+        "gn:id":673958,
+        "ro-ancpi:id":168951
     },
     "wof:country":"RO",
-    "wof:geomhash":"01d4f3515e0123dd1cf635c540c798ec",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e82051ab2ce656a09acfacd660e30781",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1259614655,
-    "wof:lastmodified":1566611574,
-    "wof:name":"Malu Vartop",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203695,
+    "wof:name":"Malu V\u00e2rtop",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":448,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35729,
-    45.18457,
-    24.35729,
-    45.18457
+    24.34606,
+    45.182723,
+    24.361089,
+    45.186766
 ],
-  "geometry": {"coordinates":[24.35729,45.18457],"type":"Point"}
+  "geometry": {"coordinates":[[[24.359699,45.184639],[24.359561,45.184368],[24.360505,45.184041],[24.360892,45.183904],[24.361089,45.183545],[24.360708,45.183181],[24.360198,45.183024],[24.35946,45.182796],[24.358615,45.182723],[24.357243,45.183135],[24.355469,45.183881],[24.354974,45.184403],[24.354754,45.184606],[24.354267,45.184502],[24.353651,45.184295],[24.353373,45.18417],[24.35271,45.184101],[24.352052,45.183936],[24.351048,45.183825],[24.350702,45.184046],[24.350371,45.184308],[24.350132,45.184649],[24.349937,45.184743],[24.349499,45.184921],[24.349126,45.185019],[24.348684,45.185098],[24.348368,45.185138],[24.348024,45.185178],[24.347843,45.185199],[24.347261,45.185321],[24.347037,45.185354],[24.346729,45.185398],[24.346589,45.185598],[24.346452,45.185673],[24.34642,45.18569],[24.34606,45.185936],[24.349875,45.186622],[24.351435,45.186766],[24.353832,45.185589],[24.355139,45.185019],[24.355701,45.185008],[24.356244,45.185022],[24.35775,45.1852],[24.358766,45.184624],[24.359699,45.184639]]],"type":"Polygon"}
 }

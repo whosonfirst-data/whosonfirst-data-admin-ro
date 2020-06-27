@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.66305,46.16018,24.66305,46.16018",
-    "geom:latitude":46.16018,
-    "geom:longitude":24.66305,
+    "geom:area":0.00002,
+    "geom:area_square_m":172711.182596,
+    "geom:bbox":"24.659021,46.15642,24.66478,46.164473",
+    "geom:latitude":46.160336,
+    "geom:longitude":24.66183,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144731.0",
     "gn:asciiname":"Floresti",
@@ -25,17 +25,28 @@
     "gn:population":150,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.64305,46.14018,24.68305,46.18018",
+    "lbl:latitude":46.16018,
+    "lbl:longitude":24.66305,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Flore\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Floresti"
+    ],
     "name:und_x_variant":[
         "Fel\u0163a",
         "Flore\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678060
+        "gn:id":678060,
+        "ro-ancpi:id":144759
     },
     "wof:country":"RO",
-    "wof:geomhash":"9445fd72556eb8f027dafb64cc846552",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"98dae1b53a0e3b5b4d2befc5384c0989",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1343899483,
-    "wof:lastmodified":1566609975,
-    "wof:name":"Floresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203653,
+    "wof:name":"Flore\u015fti",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":150,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.66305,
-    46.16018,
-    24.66305,
-    46.16018
+    24.659021,
+    46.15642,
+    24.66478,
+    46.164473
 ],
-  "geometry": {"coordinates":[24.66305,46.16018],"type":"Point"}
+  "geometry": {"coordinates":[[[24.663771,46.160185],[24.663826,46.159598],[24.662422,46.159759],[24.661953,46.159088],[24.660854,46.15642],[24.659061,46.156591],[24.659021,46.158075],[24.659552,46.15972],[24.660778,46.160898],[24.662361,46.163021],[24.663224,46.164473],[24.66478,46.163998],[24.663771,46.160185]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.30225,45.39659,24.30225,45.39659",
-    "geom:latitude":45.39659,
-    "geom:longitude":24.30225,
+    "geom:area":0.000041,
+    "geom:area_square_m":355396.715718,
+    "geom:bbox":"24.295943,45.393129,24.302708,45.40772",
+    "geom:latitude":45.400699,
+    "geom:longitude":24.299661,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172509.0",
     "gn:asciiname":"Tutulesti",
@@ -24,13 +24,26 @@
     "gn:population":95,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.28225,45.37659,24.32225,45.41659",
+    "lbl:latitude":45.401072,
+    "lbl:longitude":24.299713,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.401072,
+    "mps:longitude":24.299713,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Tu\u0163ule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Tutulesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664400
+        "gn:id":664400,
+        "ro-ancpi:id":172572
     },
     "wof:country":"RO",
-    "wof:geomhash":"89236eb5bc866473d15369acbdfe4213",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"610beb49160c428a88dacd677b942a7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293424787,
-    "wof:lastmodified":1566610125,
-    "wof:name":"Tutulesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
+    "wof:name":"Tu\u0163ule\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":95,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.30225,
-    45.39659,
-    24.30225,
-    45.39659
+    24.295943,
+    45.393129,
+    24.302708,
+    45.40772
 ],
-  "geometry": {"coordinates":[24.30225,45.39659],"type":"Point"}
+  "geometry": {"coordinates":[[[24.302708,45.393183],[24.301691,45.393129],[24.300627,45.394703],[24.299576,45.395483],[24.29909,45.396545],[24.298966,45.397384],[24.298713,45.398438],[24.297536,45.401102],[24.297728,45.402422],[24.298309,45.402812],[24.296006,45.406935],[24.295943,45.40772],[24.29765,45.407615],[24.29957,45.40544],[24.300589,45.403911],[24.301657,45.401679],[24.301993,45.395892],[24.302708,45.393183]]],"type":"Polygon"}
 }

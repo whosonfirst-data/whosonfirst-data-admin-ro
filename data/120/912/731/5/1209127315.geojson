@@ -27,12 +27,15 @@
     "lbl:bbox":"27.06333,47.98,27.10333,48.02",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +45,22 @@
     "wof:geomhash":"1f023bd9424a68e245ca4c98606e9ace",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209127315
+            "locality_id":1209127315,
+            "region_id":85687777
         }
     ],
     "wof:id":1209127315,
-    "wof:lastmodified":1566610323,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208593,
     "wof:name":"Hriteni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.31705,44.93889,24.31705,44.93889",
-    "geom:latitude":44.93889,
-    "geom:longitude":24.31705,
+    "geom:area":0.00013,
+    "geom:area_square_m":1140108.045553,
+    "geom:bbox":"24.297232,44.932807,24.341155,44.948829",
+    "geom:latitude":44.940799,
+    "geom:longitude":24.319714,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169994.0",
     "gn:asciiname":"Valea Raului",
@@ -25,18 +25,29 @@
     "gn:population":501,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.29705,44.91889,24.33705,44.95889",
+    "lbl:latitude":44.93889,
+    "lbl:longitude":24.31705,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea R\u00e2ului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Raului"
+    ],
     "name:und_x_variant":[
         "Fl\u0103m\u00eenda",
         "Fl\u0103m\u00e2nda",
         "Valea R\u00eeului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663464
+        "gn:id":663464,
+        "ro-ancpi:id":170088
     },
     "wof:country":"RO",
-    "wof:geomhash":"0cb35c32476253ff427f4fd6a716f325",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8abe572554326b323d6b5139fc100a92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1310333925,
-    "wof:lastmodified":1566610597,
-    "wof:name":"Valea Raului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203688,
+    "wof:name":"Valea R\u00e2ului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":501,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.31705,
-    44.93889,
-    24.31705,
-    44.93889
+    24.297232,
+    44.932807,
+    24.341155,
+    44.948829
 ],
-  "geometry": {"coordinates":[24.31705,44.93889],"type":"Point"}
+  "geometry": {"coordinates":[[[24.324151,44.940022],[24.320706,44.938243],[24.319495,44.938914],[24.314525,44.937527],[24.302827,44.933989],[24.298562,44.932807],[24.297232,44.934582],[24.298359,44.934941],[24.312866,44.94023],[24.318398,44.941921],[24.330481,44.946088],[24.339469,44.948829],[24.339915,44.948277],[24.341155,44.946854],[24.3345,44.944253],[24.323719,44.940622],[24.324151,44.940022]]],"type":"Polygon"}
 }

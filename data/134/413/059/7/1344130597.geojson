@@ -2,8 +2,9 @@
   "id": 1344130597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"28.71667,44.56667,28.71667,44.56667",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u0633\u062a\u0631\u064a\u0627"
@@ -84,14 +85,16 @@
         }
     ],
     "wof:id":1344130597,
-    "wof:lastmodified":1566609901,
+    "wof:lastmodified":1588368347,
     "wof:name":"Istria",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":2591,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101791493
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

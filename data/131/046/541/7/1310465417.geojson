@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.38105,44.34737,23.38105,44.34737",
-    "geom:latitude":44.34737,
-    "geom:longitude":23.38105,
+    "geom:area":0.000004,
+    "geom:area_square_m":36570.153654,
+    "geom:bbox":"23.37785,44.345637,23.38073,44.34771",
+    "geom:latitude":44.346753,
+    "geom:longitude":23.379342,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70986.0",
     "gn:asciiname":"Caraiman",
@@ -24,11 +24,14 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.36105,44.32737,23.40105,44.36737",
+    "lbl:latitude":44.346869,
+    "lbl:longitude":23.379314,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.346869,
+    "mps:longitude":23.379314,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Caraiman"
@@ -36,10 +39,17 @@
     "name:deu_x_preferred":[
         "Caraiman"
     ],
+    "name:nds_x_preferred":[
+        "Caraiman"
+    ],
     "name:ron_x_preferred":[
         "Caraiman"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -47,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682739
+        "gn:id":682739,
+        "ro-ancpi:id":71000
     },
     "wof:country":"RO",
-    "wof:geomhash":"4f94e30e99f338f829a64a74aec40d3c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"cec9629f0c4bf0d6087a0e214aca6640",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,7 +74,13 @@
         }
     ],
     "wof:id":1310465417,
-    "wof:lastmodified":1566610525,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203320,
     "wof:name":"Caraiman",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -70,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.38105,
-    44.34737,
-    23.38105,
-    44.34737
+    23.37785,
+    44.345637,
+    23.38073,
+    44.34771
 ],
-  "geometry": {"coordinates":[23.38105,44.34737],"type":"Point"}
+  "geometry": {"coordinates":[[[23.38073,44.347387],[23.380414,44.345637],[23.379706,44.345641],[23.379534,44.346033],[23.379232,44.34621],[23.378791,44.346199],[23.37785,44.346143],[23.377896,44.346853],[23.378307,44.34771],[23.38073,44.347387]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.83999,45.39707,27.83999,45.39707",
-    "geom:latitude":45.39707,
-    "geom:longitude":27.83999,
+    "geom:area":0.000021,
+    "geom:area_square_m":184046.604388,
+    "geom:bbox":"27.832083,45.393265,27.842486,45.397926",
+    "geom:latitude":45.39616,
+    "geom:longitude":27.838553,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43992.0",
     "gn:asciiname":"Cotu Mihalea",
@@ -25,17 +25,25 @@
     "gn:population":98,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.81999,45.37707,27.85999,45.41707",
+    "lbl:latitude":45.39707,
+    "lbl:longitude":27.83999,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cotu Mihalea"
+    ],
     "name:und_x_variant":[
         "Cotul-Mihalea",
         "Cotu Mihalea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680445
+        "gn:id":680445,
+        "ro-ancpi:id":44024
     },
     "wof:country":"RO",
-    "wof:geomhash":"a5295e3051f182bf0046e8f482f88066",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"56ba0080a8b8a5045a14e6a8da69f7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1309791279,
-    "wof:lastmodified":1566611239,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203774,
     "wof:name":"Cotu Mihalea",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.83999,
-    45.39707,
-    27.83999,
-    45.39707
+    27.832083,
+    45.393265,
+    27.842486,
+    45.397926
 ],
-  "geometry": {"coordinates":[27.83999,45.39707],"type":"Point"}
+  "geometry": {"coordinates":[[[27.84242,45.397188],[27.842486,45.395972],[27.841425,45.395926],[27.841722,45.394736],[27.842058,45.393416],[27.840958,45.393265],[27.840629,45.394731],[27.839442,45.394914],[27.839412,45.394761],[27.838876,45.394856],[27.838911,45.394999],[27.837277,45.395317],[27.834725,45.395793],[27.834697,45.395689],[27.834713,45.395543],[27.833557,45.395434],[27.833588,45.395247],[27.832317,45.395117],[27.832083,45.395722],[27.833319,45.395845],[27.833296,45.396056],[27.833527,45.396082],[27.833744,45.396045],[27.833781,45.396109],[27.834226,45.396033],[27.834582,45.396712],[27.834992,45.396621],[27.835012,45.39679],[27.835437,45.39725],[27.836046,45.397234],[27.836067,45.397428],[27.837936,45.3979],[27.839134,45.397926],[27.840957,45.397589],[27.84242,45.397188]]],"type":"Polygon"}
 }

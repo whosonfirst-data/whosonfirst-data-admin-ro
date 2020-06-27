@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08333,44.91667,24.08333,44.91667",
-    "geom:latitude":44.91667,
-    "geom:longitude":24.08333,
+    "geom:area":0.000054,
+    "geom:area_square_m":468585.465705,
+    "geom:bbox":"24.077224,44.930151,24.100563,44.934691",
+    "geom:latitude":44.931849,
+    "geom:longitude":24.090985,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172581.0",
     "gn:asciiname":"Rapa Caramizii",
@@ -24,16 +24,29 @@
     "gn:population":172,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.06333,44.89667,24.10333,44.93667",
+    "lbl:latitude":44.932513,
+    "lbl:longitude":24.096023,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.932513,
+    "mps:longitude":24.096023,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u00e2pa C\u0103r\u0103mizii"
+    ],
+    "name:ron_x_variant":[
+        "Rapa Caramizii"
+    ],
     "name:und_x_variant":[
         "R\u00eepa C\u0103r\u0103mizii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668855
+        "gn:id":668855,
+        "ro-ancpi:id":172670
     },
     "wof:country":"RO",
-    "wof:geomhash":"787e3347b992e435a3f3fac1fb5e6286",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2e21d349cab68f92f8659353b2ae045e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +72,14 @@
         }
     ],
     "wof:id":1310535051,
-    "wof:lastmodified":1566610544,
-    "wof:name":"Rapa Caramizii",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"R\u00e2pa C\u0103r\u0103mizii",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":172,
@@ -67,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08333,
-    44.91667,
-    24.08333,
-    44.91667
+    24.077224,
+    44.930151,
+    24.100563,
+    44.934691
 ],
-  "geometry": {"coordinates":[24.08333,44.91667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.099387,44.934691],[24.100563,44.931319],[24.098966,44.930639],[24.095234,44.930357],[24.087521,44.930222],[24.084161,44.930151],[24.078325,44.930919],[24.077224,44.931888],[24.078836,44.932909],[24.082735,44.931889],[24.090077,44.932052],[24.09402,44.932202],[24.093982,44.934559],[24.099387,44.934691]]],"type":"Polygon"}
 }

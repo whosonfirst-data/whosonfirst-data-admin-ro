@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.18333,45.15,24.18333,45.15",
-    "geom:latitude":45.15,
-    "geom:longitude":24.18333,
+    "geom:area":0.000006,
+    "geom:area_square_m":51368.234182,
+    "geom:bbox":"24.178766,45.15745,24.182728,45.159649",
+    "geom:latitude":45.158715,
+    "geom:longitude":24.180747,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173230.0",
     "gn:asciiname":"Piscu Mare",
@@ -24,17 +24,27 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.16333,45.13,24.20333,45.17",
+    "lbl:latitude":45.158535,
+    "lbl:longitude":24.180709,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.158535,
+    "mps:longitude":24.180709,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Piscu Mare"
+    ],
     "name:und_x_variant":[
         "Cacova",
         "Piscu Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670636
+        "gn:id":670636,
+        "ro-ancpi:id":173338
     },
     "wof:country":"RO",
-    "wof:geomhash":"1d9c44ee7d4be430838017c5e85788bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7b77f9d1d60cc98375582cc32a01f0ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +69,13 @@
         }
     ],
     "wof:id":1343292485,
-    "wof:lastmodified":1566609973,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203680,
     "wof:name":"Piscu Mare",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -65,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.18333,
-    45.15,
-    24.18333,
-    45.15
+    24.178766,
+    45.15745,
+    24.182728,
+    45.159649
 ],
-  "geometry": {"coordinates":[24.18333,45.15],"type":"Point"}
+  "geometry": {"coordinates":[[[24.181729,45.15745],[24.180235,45.157548],[24.178959,45.158726],[24.178766,45.159618],[24.179879,45.159509],[24.182554,45.159649],[24.182728,45.158765],[24.181743,45.158515],[24.181729,45.15745]]],"type":"Polygon"}
 }

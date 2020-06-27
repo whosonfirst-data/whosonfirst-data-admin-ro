@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.85725,46.11973,25.85725,46.11973",
-    "geom:latitude":46.11973,
-    "geom:longitude":25.85725,
+    "geom:area":0.000003,
+    "geom:area_square_m":21605.056681,
+    "geom:bbox":"25.853871,46.120691,25.856631,46.122456",
+    "geom:latitude":46.121593,
+    "geom:longitude":25.855309,
     "gn:admin1_code":"20",
     "gn:admin2_code":"83428.0",
     "gn:asciiname":"Carpitus",
@@ -25,41 +25,61 @@
     "gn:population":28,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.83725,46.09973,25.87725,46.13973",
+    "lbl:latitude":46.121448,
+    "lbl:longitude":25.855215,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.121448,
+    "mps:longitude":25.855215,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Carpitus"
+    ],
     "name:und_x_variant":[
         "Cariera Capitus",
         "Carpitus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
-        85687699
+        85687733
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682646
+        "gn:id":682646,
+        "ro-ancpi:id":83446
     },
     "wof:country":"RO",
-    "wof:geomhash":"e80a76205e0617adf46c445d6b36b9ef",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"86bac16535e4cc732bfae0dab2168443",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633745,
             "locality_id":1225909177,
-            "region_id":85687699
+            "region_id":85687733
         }
     ],
     "wof:id":1225909177,
-    "wof:lastmodified":1566611662,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203397,
     "wof:name":"Carpitus",
-    "wof:parent_id":85687699,
+    "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":28,
     "wof:population_rank":1,
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.85725,
-    46.11973,
-    25.85725,
-    46.11973
+    25.853871,
+    46.120691,
+    25.856631,
+    46.122456
 ],
-  "geometry": {"coordinates":[25.85725,46.11973],"type":"Point"}
+  "geometry": {"coordinates":[[[25.856602,46.12208],[25.856628,46.121968],[25.856631,46.121868],[25.856619,46.121778],[25.856596,46.121683],[25.856264,46.12144],[25.855784,46.121347],[25.855745,46.120887],[25.855617,46.12077],[25.855572,46.120736],[25.855405,46.120691],[25.855332,46.120699],[25.855196,46.12075],[25.854693,46.12108],[25.854164,46.12134],[25.853897,46.121663],[25.853871,46.121813],[25.853973,46.121936],[25.85421,46.122004],[25.854453,46.122016],[25.854907,46.122054],[25.855655,46.121989],[25.855908,46.122006],[25.856026,46.122074],[25.855969,46.122153],[25.855867,46.122298],[25.855963,46.122347],[25.856358,46.122456],[25.856453,46.122333],[25.856525,46.122222],[25.856602,46.12208]]],"type":"Polygon"}
 }

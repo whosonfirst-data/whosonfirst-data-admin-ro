@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.12017,44.6841,24.12017,44.6841",
-    "geom:latitude":44.6841,
-    "geom:longitude":24.12017,
+    "geom:area":0.000032,
+    "geom:area_square_m":281991.06501,
+    "geom:bbox":"24.112249,44.677506,24.124629,44.690387",
+    "geom:latitude":44.684325,
+    "geom:longitude":24.118577,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171209.0",
     "gn:asciiname":"Mamu",
@@ -25,19 +25,29 @@
     "gn:population":103,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.10017,44.6641,24.14017,44.7041",
+    "lbl:latitude":44.684673,
+    "lbl:longitude":24.118671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.684673,
+    "mps:longitude":24.118671,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:fra_x_preferred":[
+        "Mamu"
+    ],
+    "name:ron_x_preferred":[
         "Mamu"
     ],
     "name:und_x_variant":[
         "Mamul"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673954
+        "gn:id":673954,
+        "ro-ancpi:id":171263
     },
     "wof:country":"RO",
-    "wof:geomhash":"f6548ce0392f5cf7347aa4ead03c9bab",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"57b2119612f9e68c9838f3ca2f969fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +73,13 @@
         }
     ],
     "wof:id":1326660495,
-    "wof:lastmodified":1566609794,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203678,
     "wof:name":"Mamu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -71,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.12017,
-    44.6841,
-    24.12017,
-    44.6841
+    24.112249,
+    44.677506,
+    24.124629,
+    44.690387
 ],
-  "geometry": {"coordinates":[24.12017,44.6841],"type":"Point"}
+  "geometry": {"coordinates":[[[24.124428,44.688817],[24.123626,44.687246],[24.122513,44.687668],[24.121771,44.687447],[24.119977,44.686341],[24.119616,44.684917],[24.120031,44.684116],[24.120936,44.682831],[24.119263,44.681698],[24.118351,44.682078],[24.117388,44.681884],[24.114708,44.679479],[24.114557,44.678818],[24.112949,44.678705],[24.112631,44.678458],[24.113946,44.677966],[24.113974,44.677506],[24.112378,44.677867],[24.112249,44.679733],[24.11391,44.680292],[24.113737,44.68108],[24.11449,44.68189],[24.115999,44.681931],[24.117822,44.683769],[24.117703,44.684945],[24.117818,44.686669],[24.11905,44.687727],[24.121465,44.689038],[24.122396,44.688744],[24.123176,44.690387],[24.124629,44.690045],[24.124428,44.688817]]],"type":"Polygon"}
 }

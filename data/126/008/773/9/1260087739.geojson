@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.63165,44.82449,24.63165,44.82449",
-    "geom:latitude":44.82449,
-    "geom:longitude":24.63165,
+    "geom:area":0.000009,
+    "geom:area_square_m":82935.223057,
+    "geom:bbox":"24.630668,44.824492,24.63618,44.832089",
+    "geom:latitude":44.828514,
+    "geom:longitude":24.633658,
     "gn:admin1_code":"03",
     "gn:admin2_code":"19793.0",
     "gn:asciiname":"Buretesti",
@@ -25,17 +25,30 @@
     "gn:population":161,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.61165,44.80449,24.65165,44.84449",
+    "lbl:latitude":44.828599,
+    "lbl:longitude":24.6337,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.828599,
+    "mps:longitude":24.6337,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bure\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Buretesti"
+    ],
     "name:und_x_variant":[
         "B\u0103re\u0163e\u015fti",
         "Bur\u0163e\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683208
+        "gn:id":683208,
+        "ro-ancpi:id":19837
     },
     "wof:country":"RO",
-    "wof:geomhash":"beccc9cc14e33db78d0f7c956a810065",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fa41757e9e517e524c9e3d7813eb8c62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1260087739,
-    "wof:lastmodified":1566610483,
-    "wof:name":"Buretesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203638,
+    "wof:name":"Bure\u0163e\u015fti",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
     "wof:population":161,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.63165,
-    44.82449,
-    24.63165,
-    44.82449
+    24.630668,
+    44.824492,
+    24.63618,
+    44.832089
 ],
-  "geometry": {"coordinates":[24.63165,44.82449],"type":"Point"}
+  "geometry": {"coordinates":[[[24.63618,44.824675],[24.635386,44.824492],[24.63489,44.825321],[24.634118,44.826979],[24.633724,44.827737],[24.63246,44.829442],[24.631675,44.830475],[24.630668,44.831771],[24.632003,44.832089],[24.632994,44.830744],[24.633576,44.829578],[24.634583,44.828365],[24.635146,44.827657],[24.635456,44.826743],[24.635887,44.82548],[24.63618,44.824675]]],"type":"Polygon"}
 }

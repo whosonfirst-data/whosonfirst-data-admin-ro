@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.1634,45.93638,23.1634,45.93638",
-    "geom:latitude":45.93638,
-    "geom:longitude":23.1634,
+    "geom:area":0.000072,
+    "geom:area_square_m":620790.855335,
+    "geom:bbox":"23.157906,45.931785,23.173203,45.939849",
+    "geom:latitude":45.935631,
+    "geom:longitude":23.164968,
     "gn:admin1_code":"21",
     "gn:admin2_code":"89561.0",
     "gn:asciiname":"Geoagiu-Bai",
@@ -25,17 +25,28 @@
     "gn:population":627,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.1434,45.91638,23.1834,45.95638",
+    "lbl:latitude":45.93638,
+    "lbl:longitude":23.1634,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Geoagiu-B\u0103i"
+    ],
+    "name:ron_x_variant":[
+        "Geoagiu-Bai"
+    ],
     "name:und_x_variant":[
         "Baile Geoagiul",
         "Geoagiu B\u0103i"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677517
+        "gn:id":677517,
+        "ro-ancpi:id":89632
     },
     "wof:country":"RO",
-    "wof:geomhash":"81cea38d214e671ff9da6f64df8bbb37",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ed7bb720b08b910432148697ef31f418",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1343626001,
-    "wof:lastmodified":1566609882,
-    "wof:name":"Geoagiu-Bai",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203793,
+    "wof:name":"Geoagiu-B\u0103i",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":627,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.1634,
-    45.93638,
-    23.1634,
-    45.93638
+    23.157906,
+    45.931785,
+    23.173203,
+    45.939849
 ],
-  "geometry": {"coordinates":[23.1634,45.93638],"type":"Point"}
+  "geometry": {"coordinates":[[[23.169656,45.936634],[23.170931,45.936518],[23.171975,45.936632],[23.172348,45.936775],[23.173203,45.934976],[23.173061,45.933872],[23.172854,45.93382],[23.171437,45.933735],[23.171234,45.933255],[23.171026,45.932803],[23.17013,45.932438],[23.169864,45.932434],[23.16975,45.93251],[23.16977,45.932744],[23.169503,45.932808],[23.169451,45.9331],[23.168643,45.933038],[23.167462,45.933273],[23.166915,45.933741],[23.166247,45.933662],[23.166197,45.933476],[23.16526,45.93353],[23.165189,45.933977],[23.16407,45.933579],[23.164046,45.933032],[23.163239,45.932513],[23.162215,45.932214],[23.161142,45.931972],[23.159133,45.931881],[23.158591,45.931785],[23.157906,45.932232],[23.158695,45.932878],[23.159509,45.933193],[23.158719,45.934243],[23.158917,45.935086],[23.160137,45.936197],[23.160351,45.936483],[23.15995,45.938438],[23.160309,45.939849],[23.163537,45.939423],[23.165942,45.939364],[23.167339,45.938968],[23.167669,45.937843],[23.167573,45.936659],[23.169656,45.936634]]],"type":"Polygon"}
 }

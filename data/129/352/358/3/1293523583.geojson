@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.42122,45.39646,24.42122,45.39646",
-    "geom:latitude":45.39646,
-    "geom:longitude":24.42122,
+    "geom:area":0.000023,
+    "geom:area_square_m":201249.050676,
+    "geom:bbox":"24.413981,45.394238,24.426,45.39886",
+    "geom:latitude":45.396288,
+    "geom:longitude":24.420353,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172153.0",
     "gn:asciiname":"Podeni",
@@ -24,14 +24,20 @@
     "gn:population":149,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.40122,45.37646,24.44122,45.41646",
+    "lbl:latitude":45.396562,
+    "lbl:longitude":24.422948,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.396562,
+    "mps:longitude":24.422948,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Podeni"
+    ],
+    "name:eus_x_preferred":[
+        "Podeni"
     ],
     "name:fra_x_preferred":[
         "Podeni"
@@ -49,6 +55,9 @@
         "Podeni"
     ],
     "name:ron_x_preferred":[
+        "Podeni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Podeni"
     ],
     "name:srp_x_preferred":[
@@ -66,7 +75,11 @@
     "name:zho_x_preferred":[
         "\u6ce2\u4ee3\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670345
+        "gn:id":670345,
+        "ro-ancpi:id":172215
     },
     "wof:country":"RO",
-    "wof:geomhash":"c1e3da3e1755b4057bd0c1a2c984e490",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0adf339d465d0c5e250c9e01d4882aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +105,13 @@
         }
     ],
     "wof:id":1293523583,
-    "wof:lastmodified":1566610044,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203681,
     "wof:name":"Podeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -100,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.42122,
-    45.39646,
-    24.42122,
-    45.39646
+    24.413981,
+    45.394238,
+    24.426,
+    45.39886
 ],
-  "geometry": {"coordinates":[24.42122,45.39646],"type":"Point"}
+  "geometry": {"coordinates":[[[24.425575,45.396676],[24.425561,45.395777],[24.424403,45.39569],[24.424284,45.394823],[24.422956,45.394441],[24.422281,45.394748],[24.421883,45.395747],[24.42083,45.395811],[24.417359,45.395556],[24.4178,45.394857],[24.41522,45.394238],[24.414678,45.394988],[24.413981,45.39593],[24.414099,45.396535],[24.414403,45.397111],[24.417231,45.396694],[24.418711,45.396872],[24.420086,45.396403],[24.421433,45.396318],[24.421697,45.396903],[24.421589,45.397311],[24.4221,45.397775],[24.424672,45.39886],[24.426,45.398197],[24.424254,45.396784],[24.425575,45.396676]]],"type":"Polygon"}
 }

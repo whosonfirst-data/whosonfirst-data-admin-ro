@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.73269,44.68539,25.73269,44.68539",
-    "geom:latitude":44.68539,
-    "geom:longitude":25.73269,
+    "geom:area":0.000027,
+    "geom:area_square_m":237540.9128,
+    "geom:bbox":"25.721545,44.682626,25.73909,44.691289",
+    "geom:latitude":44.68609,
+    "geom:longitude":25.729565,
     "gn:admin1_code":"16",
     "gn:admin2_code":"68627.0",
     "gn:asciiname":"Stanesti",
@@ -24,13 +24,26 @@
     "gn:population":241,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.71269,44.66539,25.75269,44.70539",
+    "lbl:latitude":44.685479,
+    "lbl:longitude":25.729432,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.685479,
+    "mps:longitude":25.729432,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "St\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666303
+        "gn:id":666303,
+        "ro-ancpi:id":68707
     },
     "wof:country":"RO",
-    "wof:geomhash":"79fe2f564677715001c8ef08a85fa960",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9a403cc8c020bcb2098362a37135938a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1343734755,
-    "wof:lastmodified":1566609978,
-    "wof:name":"Stanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203719,
+    "wof:name":"St\u0103ne\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":241,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.73269,
-    44.68539000000001,
-    25.73269,
-    44.68539000000001
+    25.721545,
+    44.682626,
+    25.73909,
+    44.691289
 ],
-  "geometry": {"coordinates":[25.73269,44.68539000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[25.726717,44.686957],[25.732632,44.685244],[25.733368,44.685858],[25.734216,44.685422],[25.733733,44.68496],[25.738161,44.683695],[25.738812,44.683637],[25.73909,44.68274],[25.737383,44.682742],[25.737306,44.682626],[25.728313,44.685093],[25.725874,44.685666],[25.725486,44.685864],[25.724929,44.686539],[25.724167,44.687789],[25.723686,44.688517],[25.722871,44.689552],[25.722487,44.689975],[25.721717,44.690598],[25.721545,44.690948],[25.722539,44.691121],[25.722905,44.691289],[25.72436,44.690142],[25.726717,44.686957]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.29236,45.99844,22.29236,45.99844",
-    "geom:latitude":45.99844,
-    "geom:longitude":22.29236,
+    "geom:area":0.000018,
+    "geom:area_square_m":156701.30362,
+    "geom:bbox":"22.290008,45.99755,22.295447,46.0089",
+    "geom:latitude":46.003096,
+    "geom:longitude":22.293217,
     "gn:admin1_code":"02",
     "gn:admin2_code":"11842.0",
     "gn:asciiname":"Cuias",
@@ -24,20 +24,31 @@
     "gn:population":92,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.27236,45.97844,22.31236,46.01844",
+    "lbl:latitude":46.002808,
+    "lbl:longitude":22.293484,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.002808,
+    "mps:longitude":22.293484,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
-        "Cuia\u0219"
+        "Cuia\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Cuia\u0219",
+        "Cuias"
     ],
     "name:und_x_variant":[
         "Kuj\u00e1s",
         "Fels\u0151k\u00f6ves"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679991
+        "gn:id":679991,
+        "ro-ancpi:id":11879
     },
     "wof:country":"RO",
-    "wof:geomhash":"7fce1d3bd2fe5fb3f1eb1ff163aaca43",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d4ed66a9029df6b5b51cd2c5fc19ee59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +74,14 @@
         }
     ],
     "wof:id":1226251685,
-    "wof:lastmodified":1566611668,
-    "wof:name":"Cuias",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203718,
+    "wof:name":"Cuia\u015f",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":92,
@@ -71,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.29236,
-    45.99844,
-    22.29236,
-    45.99844
+    22.290008,
+    45.99755,
+    22.295447,
+    46.0089
 ],
-  "geometry": {"coordinates":[22.29236,45.99844],"type":"Point"}
+  "geometry": {"coordinates":[[[22.292863,45.999038],[22.291107,45.99755],[22.290904,45.997695],[22.290748,45.997803],[22.29061,45.9979],[22.290516,45.997959],[22.290366,45.998054],[22.290239,45.998125],[22.290101,45.998192],[22.290008,45.998234],[22.291538,45.999759],[22.291926,46.000701],[22.292428,46.002259],[22.293003,46.003986],[22.293636,46.006651],[22.292411,46.008535],[22.293191,46.0089],[22.294788,46.007207],[22.295447,46.006717],[22.294729,46.003925],[22.29412,46.00218],[22.292863,45.999038]]],"type":"Polygon"}
 }

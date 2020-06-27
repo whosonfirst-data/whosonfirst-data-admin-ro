@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.9336,46.42527,22.9336,46.42527",
-    "geom:latitude":46.42527,
-    "geom:longitude":22.9336,
+    "geom:area":0.000056,
+    "geom:area_square_m":476364.188685,
+    "geom:bbox":"22.925776,46.420946,22.940779,46.431319",
+    "geom:latitude":46.426246,
+    "geom:longitude":22.932797,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8229.0",
     "gn:asciiname":"Totesti",
@@ -24,13 +24,26 @@
     "gn:population":48,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.9136,46.40527,22.9536,46.44527",
+    "lbl:latitude":46.426098,
+    "lbl:longitude":22.931389,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.426098,
+    "mps:longitude":22.931389,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "To\u0163e\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Totesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664697
+        "gn:id":664697,
+        "ro-ancpi:id":8336
     },
     "wof:country":"RO",
-    "wof:geomhash":"9a53bfe8b741e0089957865fd4e6aac4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"71b26b1bb7c59929d325ac0eb58b5b92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1259897487,
-    "wof:lastmodified":1566611595,
-    "wof:name":"Totesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203768,
+    "wof:name":"To\u0163e\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":48,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.9336,
-    46.42527000000001,
-    22.9336,
-    46.42527000000001
+    22.925776,
+    46.420946,
+    22.940779,
+    46.431319
 ],
-  "geometry": {"coordinates":[22.9336,46.42527000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.934009,46.423087],[22.93249,46.420946],[22.931072,46.42175],[22.930944,46.424527],[22.92936,46.42536],[22.929999,46.427128],[22.931198,46.427767],[22.932074,46.43022],[22.932572,46.430442],[22.933417,46.430207],[22.93297,46.427503],[22.932923,46.425067],[22.934009,46.423087]]],[[[22.939904,46.423957],[22.940027,46.423195],[22.938143,46.423259],[22.938387,46.424889],[22.936428,46.425065],[22.934329,46.42584],[22.93418,46.426666],[22.935188,46.4274],[22.936277,46.42846],[22.938557,46.428517],[22.939636,46.42735],[22.940779,46.425728],[22.939904,46.423957]]],[[[22.928629,46.424794],[22.927299,46.423893],[22.925787,46.425312],[22.925776,46.428092],[22.926497,46.429535],[22.925787,46.430904],[22.927308,46.431319],[22.928098,46.429499],[22.928149,46.427533],[22.92804,46.425434],[22.928629,46.424794]]]],"type":"MultiPolygon"}
 }

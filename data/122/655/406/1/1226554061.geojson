@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.01309,46.35582,23.01309,46.35582",
-    "geom:latitude":46.35582,
-    "geom:longitude":23.01309,
+    "geom:area":0.00001,
+    "geom:area_square_m":83001.106297,
+    "geom:bbox":"23.01083,46.353937,23.016295,46.357468",
+    "geom:latitude":46.355569,
+    "geom:longitude":23.013555,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Dilimani",
@@ -24,13 +24,21 @@
     "gn:population":43,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.99309,46.33582,23.03309,46.37582",
+    "lbl:latitude":46.35582,
+    "lbl:longitude":23.01309,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dilimani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679403
+        "gn:id":679403,
+        "ro-ancpi:id":7525
     },
     "wof:country":"RO",
-    "wof:geomhash":"7d819cd477ae961b860a4cba6492c42b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d9fb10d9698673c8a3c2087c0c9f306c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1226554061,
-    "wof:lastmodified":1566611691,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203770,
     "wof:name":"Dilimani",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.01309,
-    46.35582,
-    23.01309,
-    46.35582
+    23.01083,
+    46.353937,
+    23.016295,
+    46.357468
 ],
-  "geometry": {"coordinates":[23.01309,46.35582],"type":"Point"}
+  "geometry": {"coordinates":[[[23.012717,46.357345],[23.012739,46.356365],[23.013545,46.355826],[23.014106,46.356361],[23.014915,46.356189],[23.016295,46.355853],[23.015864,46.355013],[23.016173,46.354277],[23.014937,46.353937],[23.01083,46.355576],[23.011509,46.357468],[23.012717,46.357345]]],"type":"Polygon"}
 }

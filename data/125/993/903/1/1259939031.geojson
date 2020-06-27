@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.82139,45.65486,22.82139,45.65486",
-    "geom:latitude":45.65486,
-    "geom:longitude":22.82139,
+    "geom:area":0.000009,
+    "geom:area_square_m":75314.34809,
+    "geom:bbox":"22.81617,45.65383,22.823504,45.659492",
+    "geom:latitude":45.655975,
+    "geom:longitude":22.819932,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91535.0",
     "gn:asciiname":"Curpenii Silvasului",
@@ -24,13 +24,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.80139,45.63486,22.84139,45.67486",
+    "lbl:latitude":45.65486,
+    "lbl:longitude":22.82139,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Curpenii Silva\u015fului"
+    ],
+    "name:ron_x_variant":[
+        "Curpenii Silvasului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679917
+        "gn:id":679917,
+        "ro-ancpi:id":91553
     },
     "wof:country":"RO",
-    "wof:geomhash":"699726fee739af740c52768ea36c41c0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"586954dcac575e61d0d22522f8598272",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +66,14 @@
         }
     ],
     "wof:id":1259939031,
-    "wof:lastmodified":1566611580,
-    "wof:name":"Curpenii Silvasului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203807,
+    "wof:name":"Curpenii Silva\u015fului",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.82139,
-    45.65486,
-    22.82139,
-    45.65486
+    22.81617,
+    45.65383,
+    22.823504,
+    45.659492
 ],
-  "geometry": {"coordinates":[22.82139,45.65486],"type":"Point"}
+  "geometry": {"coordinates":[[[22.821485,45.654856],[22.818432,45.65383],[22.817932,45.654214],[22.818414,45.654448],[22.817723,45.655062],[22.81739,45.655065],[22.816774,45.656121],[22.81617,45.656667],[22.816621,45.656926],[22.816989,45.656663],[22.818032,45.656911],[22.818274,45.656625],[22.818427,45.655376],[22.819238,45.655325],[22.819837,45.654795],[22.820827,45.65535],[22.821677,45.656263],[22.822242,45.656848],[22.822617,45.657814],[22.822348,45.659187],[22.822499,45.659229],[22.822577,45.659492],[22.823103,45.659438],[22.822868,45.65896],[22.823427,45.657453],[22.823504,45.657284],[22.822909,45.657073],[22.822323,45.655594],[22.821498,45.655419],[22.82143,45.655284],[22.821485,45.654856]]],"type":"Polygon"}
 }

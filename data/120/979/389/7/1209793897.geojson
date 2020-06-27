@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.02029,45.17974,27.02029,45.17974",
-    "geom:latitude":45.17974,
-    "geom:longitude":27.02029,
+    "geom:area":0.000016,
+    "geom:area_square_m":138577.432708,
+    "geom:bbox":"27.015178,45.176243,27.02233,45.181081",
+    "geom:latitude":45.178954,
+    "geom:longitude":27.018702,
     "gn:admin1_code":"11",
     "gn:admin2_code":"46377.0",
     "gn:asciiname":"Tarlele",
@@ -24,13 +24,24 @@
     "gn:population":76,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.00029,45.15974,27.04029,45.19974",
+    "lbl:latitude":45.17974,
+    "lbl:longitude":27.02029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "T\u00e2rlele"
+    ],
+    "name:ron_x_variant":[
+        "Tarlele"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664980
+        "gn:id":664980,
+        "ro-ancpi:id":46420
     },
     "wof:country":"RO",
-    "wof:geomhash":"fbb740680812de3905667d5d97fa5d52",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13cede31e8c9e26ea7004cf0537d3f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1209793897,
-    "wof:lastmodified":1566610316,
-    "wof:name":"Tarlele",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203595,
+    "wof:name":"T\u00e2rlele",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":76,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.02029000000001,
-    45.17974,
-    27.02029000000001,
-    45.17974
+    27.015178,
+    45.176243,
+    27.02233,
+    45.181081
 ],
-  "geometry": {"coordinates":[27.02029000000001,45.17974],"type":"Point"}
+  "geometry": {"coordinates":[[[27.02233,45.179318],[27.021948,45.178654],[27.021689,45.178709],[27.021205,45.178857],[27.020775,45.178138],[27.020427,45.177557],[27.020284,45.177291],[27.020593,45.177136],[27.020882,45.177042],[27.021268,45.176868],[27.020738,45.176243],[27.019912,45.176628],[27.019327,45.176907],[27.019363,45.176955],[27.018342,45.177493],[27.017572,45.177808],[27.017247,45.177952],[27.017471,45.178373],[27.016864,45.178629],[27.015737,45.179071],[27.015178,45.179288],[27.015317,45.179522],[27.015391,45.179662],[27.015496,45.179837],[27.015765,45.180332],[27.015919,45.180564],[27.016051,45.180763],[27.016148,45.180909],[27.016312,45.181081],[27.017642,45.18069],[27.018471,45.180454],[27.019438,45.180175],[27.019883,45.180029],[27.020572,45.179852],[27.020811,45.179789],[27.021289,45.179633],[27.021529,45.179572],[27.021591,45.179556],[27.021675,45.17955],[27.021898,45.179509],[27.022114,45.179457],[27.022252,45.17941],[27.02233,45.179318]]],"type":"Polygon"}
 }

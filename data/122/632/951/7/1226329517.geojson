@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.80529,44.72226,21.80529,44.72226",
-    "geom:latitude":44.72226,
-    "geom:longitude":21.80529,
+    "geom:area":0.000008,
+    "geom:area_square_m":68662.641552,
+    "geom:bbox":"21.801129,44.721514,21.805543,44.725124",
+    "geom:latitude":44.723527,
+    "geom:longitude":21.80308,
     "gn:admin1_code":"12",
     "gn:admin2_code":"53853",
     "gn:asciiname":"Curmatura",
@@ -24,13 +24,32 @@
     "gn:population":35,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.78529,44.70226,21.82529,44.74226",
+    "lbl:latitude":44.723772,
+    "lbl:longitude":21.802929,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.723772,
+    "mps:longitude":21.802929,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Curm\u0103tura"
+    ],
+    "name:deu_x_preferred":[
+        "Curm\u0103tura"
+    ],
+    "name:ron_x_preferred":[
+        "Curm\u0103tura"
+    ],
+    "name:ron_x_variant":[
+        "Curmatura"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":837448
+        "gn:id":837448,
+        "ro-ancpi:id":53924
     },
     "wof:country":"RO",
-    "wof:geomhash":"69256aed404effe00c4ec9b936ff73a5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"89bc5d600c8e0ad9e61cd21619651cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +75,14 @@
         }
     ],
     "wof:id":1226329517,
-    "wof:lastmodified":1566611645,
-    "wof:name":"Curmatura",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203626,
+    "wof:name":"Curm\u0103tura",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":35,
@@ -64,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.80529,
-    44.72226,
-    21.80529,
-    44.72226
+    21.801129,
+    44.721514,
+    21.805543,
+    44.725124
 ],
-  "geometry": {"coordinates":[21.80529,44.72226],"type":"Point"}
+  "geometry": {"coordinates":[[[21.805543,44.721652],[21.804973,44.721514],[21.804031,44.722545],[21.801686,44.722479],[21.801129,44.723784],[21.801621,44.724058],[21.801615,44.724988],[21.802651,44.725124],[21.804088,44.724635],[21.804348,44.723931],[21.804573,44.722938],[21.805543,44.721652]]],"type":"Polygon"}
 }

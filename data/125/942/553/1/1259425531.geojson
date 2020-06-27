@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.94674,46.83249,27.94674,46.83249",
-    "geom:latitude":46.83249,
-    "geom:longitude":27.94674,
+    "geom:area":0.000063,
+    "geom:area_square_m":530881.426343,
+    "geom:bbox":"27.940301,46.827232,27.951192,46.837368",
+    "geom:latitude":46.832144,
+    "geom:longitude":27.946004,
     "gn:admin1_code":"38",
     "gn:admin2_code":"162924.0",
     "gn:asciiname":"Podu Oprii",
@@ -25,17 +25,25 @@
     "gn:population":260,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.92674,46.81249,27.96674,46.85249",
+    "lbl:latitude":46.83249,
+    "lbl:longitude":27.94674,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Podu Oprii"
+    ],
     "name:und_x_variant":[
         "Podul Oprei",
         "Podu Oprei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670282
+        "gn:id":670282,
+        "ro-ancpi:id":162979
     },
     "wof:country":"RO",
-    "wof:geomhash":"6f0a33371b3fde39aaf0e954f652d0cc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0e068b2cde9979ffe2eb144a5c0a3768",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1259425531,
-    "wof:lastmodified":1566611596,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203478,
     "wof:name":"Podu Oprii",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.94674,
-    46.83249,
-    27.94674,
-    46.83249
+    27.940301,
+    46.827232,
+    27.951192,
+    46.837368
 ],
-  "geometry": {"coordinates":[27.94674,46.83249],"type":"Point"}
+  "geometry": {"coordinates":[[[27.942461,46.837368],[27.943994,46.836031],[27.946093,46.836993],[27.946368,46.836403],[27.945451,46.835912],[27.945693,46.835266],[27.94637,46.83543],[27.94645,46.835626],[27.947276,46.835557],[27.947329,46.836102],[27.948441,46.835994],[27.948192,46.835439],[27.949199,46.8332],[27.950209,46.832265],[27.951192,46.828364],[27.949106,46.82789],[27.949005,46.828161],[27.94814,46.827994],[27.948351,46.82761],[27.946792,46.827232],[27.946625,46.827635],[27.946129,46.827588],[27.946059,46.827888],[27.945267,46.827739],[27.942079,46.831294],[27.941991,46.83263],[27.942299,46.832682],[27.941795,46.834737],[27.940301,46.835981],[27.942461,46.837368]]],"type":"Polygon"}
 }

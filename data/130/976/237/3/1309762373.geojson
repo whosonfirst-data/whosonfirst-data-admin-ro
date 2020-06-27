@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.57393,47.23639,27.57393,47.23639",
-    "geom:latitude":47.23639,
-    "geom:longitude":27.57393,
+    "geom:area":0.000076,
+    "geom:area_square_m":642112.38287,
+    "geom:bbox":"27.565872,47.230643,27.581246,47.240699",
+    "geom:latitude":47.236257,
+    "geom:longitude":27.572693,
     "gn:admin1_code":"23",
     "gn:admin2_code":"98505.0",
     "gn:asciiname":"Cuza Voda",
@@ -24,13 +24,51 @@
     "gn:population":478,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.55393,47.21639,27.59393,47.25639",
+    "lbl:latitude":47.23639,
+    "lbl:longitude":27.57393,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:deu_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:eus_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:nld_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Cuza Voda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u0437\u0430 \u0412\u043e\u0434\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "name:vol_x_preferred":[
+        "Cuza Vod\u0103"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +77,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679850
+        "gn:id":679850,
+        "ro-ancpi:id":98541
     },
     "wof:country":"RO",
-    "wof:geomhash":"01509887cdbf7abdc0891fc1b22107f4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2a067fe5428ac9e92fa1c926321b6cc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +94,14 @@
         }
     ],
     "wof:id":1309762373,
-    "wof:lastmodified":1566611248,
-    "wof:name":"Cuza Voda",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203384,
+    "wof:name":"Cuza Vod\u0103",
     "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":478,
@@ -64,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.57393,
-    47.23639,
-    27.57393,
-    47.23639
+    27.565872,
+    47.230643,
+    27.581246,
+    47.240699
 ],
-  "geometry": {"coordinates":[27.57393,47.23639],"type":"Point"}
+  "geometry": {"coordinates":[[[27.57261,47.240699],[27.573497,47.238825],[27.57403,47.238915],[27.574504,47.238012],[27.575085,47.238132],[27.575513,47.237231],[27.577416,47.237472],[27.577402,47.237579],[27.577361,47.237804],[27.577268,47.238115],[27.577239,47.238249],[27.579588,47.238757],[27.57995,47.236957],[27.580457,47.236992],[27.580972,47.235979],[27.581246,47.235222],[27.579617,47.234804],[27.579452,47.234703],[27.580034,47.233841],[27.579189,47.233405],[27.578155,47.232863],[27.577294,47.233359],[27.576533,47.233963],[27.576012,47.234202],[27.575398,47.234637],[27.575203,47.235034],[27.573595,47.234607],[27.572603,47.234986],[27.572155,47.235434],[27.571835,47.235046],[27.571926,47.234058],[27.571917,47.23315],[27.571476,47.232354],[27.571009,47.231966],[27.568969,47.231037],[27.568803,47.230962],[27.568495,47.230835],[27.567994,47.230643],[27.567413,47.232051],[27.568661,47.232271],[27.565872,47.239493],[27.57261,47.240699]]],"type":"Polygon"}
 }

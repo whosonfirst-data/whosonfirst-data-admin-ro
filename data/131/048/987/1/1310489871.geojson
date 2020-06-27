@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.84861,45.17495,26.84861,45.17495",
-    "geom:latitude":45.17495,
-    "geom:longitude":26.84861,
+    "geom:area":0.000046,
+    "geom:area_square_m":404841.349468,
+    "geom:bbox":"26.835801,45.172659,26.848255,45.180113",
+    "geom:latitude":45.175719,
+    "geom:longitude":26.841424,
     "gn:admin1_code":"11",
     "gn:admin2_code":"49956.0",
     "gn:asciiname":"Gura Calnaului",
@@ -25,17 +25,30 @@
     "gn:population":476,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.82861,45.15495,26.86861,45.19495",
+    "lbl:latitude":45.175618,
+    "lbl:longitude":26.841331,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.175618,
+    "mps:longitude":26.841331,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gura C\u00e2ln\u0103ului"
+    ],
+    "name:ron_x_variant":[
+        "Gura Calnaului"
+    ],
     "name:und_x_variant":[
         "Gura C\u00e2ln\u0103ului",
         "Gura C\u00eeln\u0103ului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676550
+        "gn:id":676550,
+        "ro-ancpi:id":49992
     },
     "wof:country":"RO",
-    "wof:geomhash":"af5b08e7673c280c36ebe580b76424de",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d01b8efc4d8b26e3a4cde0006852fb1a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1310489871,
-    "wof:lastmodified":1566610528,
-    "wof:name":"Gura Calnaului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203597,
+    "wof:name":"Gura C\u00e2ln\u0103ului",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":476,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.84861,
-    45.17495,
-    26.84861,
-    45.17495
+    26.835801,
+    45.172659,
+    26.848255,
+    45.180113
 ],
-  "geometry": {"coordinates":[26.84861,45.17495],"type":"Point"}
+  "geometry": {"coordinates":[[[26.848255,45.175172],[26.847522,45.174234],[26.845812,45.174861],[26.844679,45.17331],[26.844615,45.173315],[26.843963,45.17271],[26.842921,45.172659],[26.84084,45.172885],[26.840126,45.173035],[26.839853,45.173398],[26.838845,45.173775],[26.83887,45.173777],[26.838516,45.173955],[26.838257,45.173995],[26.838262,45.174138],[26.838171,45.174196],[26.838062,45.173875],[26.837455,45.174342],[26.837171,45.174061],[26.837141,45.174027],[26.836902,45.173792],[26.836523,45.174033],[26.836409,45.174096],[26.835801,45.174411],[26.836306,45.17503],[26.83671,45.175715],[26.837749,45.178213],[26.838182,45.179037],[26.838416,45.178926],[26.839131,45.180113],[26.840139,45.179775],[26.839853,45.179144],[26.83967,45.178428],[26.83995,45.178317],[26.840192,45.178227],[26.840818,45.178619],[26.846083,45.176415],[26.847085,45.17633],[26.847028,45.175652],[26.848255,45.175172]]],"type":"Polygon"}
 }

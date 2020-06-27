@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.0,44.81667,24.0,44.81667",
-    "geom:latitude":44.81667,
-    "geom:longitude":24.0,
+    "geom:area":0.000011,
+    "geom:area_square_m":96721.423244,
+    "geom:bbox":"24.007348,44.806727,24.012615,44.811579",
+    "geom:latitude":44.809188,
+    "geom:longitude":24.009949,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Garnicet",
@@ -24,16 +24,24 @@
     "gn:population":41,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98,44.79667,24.02,44.83667",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "G\u00e2rnicet"
+    ],
+    "name:ron_x_variant":[
+        "Garnicet"
+    ],
     "name:und_x_variant":[
         "G\u00eernicet"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677163
+        "gn:id":677163,
+        "ro-ancpi:id":169798
     },
     "wof:country":"RO",
-    "wof:geomhash":"b27be773c34b62025754ecac55258538",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0a65da29d2cba35539cf019c92d32856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,22 +67,30 @@
         }
     ],
     "wof:id":1243208213,
-    "wof:lastmodified":1566611518,
-    "wof:name":"Garnicet",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"G\u00e2rnicet",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":41,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259411849
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    24.0,
-    44.81667,
-    24.0,
-    44.81667
+    24.007348,
+    44.806727,
+    24.012615,
+    44.811579
 ],
-  "geometry": {"coordinates":[24.0,44.81667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.010158,44.81146],[24.010788,44.811342],[24.011531,44.811191],[24.011625,44.81128],[24.01194,44.811579],[24.012615,44.811116],[24.009372,44.806727],[24.007348,44.807111],[24.010158,44.81146]]],"type":"Polygon"}
 }

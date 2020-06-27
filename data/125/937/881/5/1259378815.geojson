@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.31667,45.2,27.31667,45.2",
-    "geom:latitude":45.2,
-    "geom:longitude":27.31667,
+    "geom:area":0.000082,
+    "geom:area_square_m":715942.451124,
+    "geom:bbox":"27.319721,45.181845,27.333987,45.19217",
+    "geom:latitude":45.187426,
+    "geom:longitude":27.326763,
     "gn:admin1_code":"08",
     "gn:admin2_code":"44462.0",
     "gn:asciiname":"Caineni Bai",
@@ -25,17 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.29667,45.18,27.33667,45.22",
+    "lbl:latitude":45.187479,
+    "lbl:longitude":27.326869,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.187479,
+    "mps:longitude":27.326869,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "C\u00e2ineni-B\u0103i"
+    ],
+    "name:ron_x_variant":[
+        "Caineni Bai"
+    ],
     "name:und_x_variant":[
         "B\u0103ile C\u00eeineni",
         "C\u00eeineni B\u0103i"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681924
+        "gn:id":681924,
+        "ro-ancpi:id":44480
     },
     "wof:country":"RO",
-    "wof:geomhash":"20231c84a3c9687025aa131699193a8c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"885ef86195d25b46d85b0fa2c4fb85a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1259378815,
-    "wof:lastmodified":1566611545,
-    "wof:name":"Caineni Bai",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203775,
+    "wof:name":"C\u00e2ineni-B\u0103i",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.31667,
-    45.2,
-    27.31667,
-    45.2
+    27.319721,
+    45.181845,
+    27.333987,
+    45.19217
 ],
-  "geometry": {"coordinates":[27.31667,45.2],"type":"Point"}
+  "geometry": {"coordinates":[[[27.324939,45.19217],[27.328086,45.191568],[27.32831,45.191974],[27.328518,45.191938],[27.3286,45.192015],[27.329105,45.191889],[27.328864,45.191435],[27.330356,45.191133],[27.330256,45.190946],[27.330513,45.190811],[27.330403,45.19054],[27.330825,45.190267],[27.331299,45.190007],[27.332875,45.189785],[27.333987,45.189616],[27.333651,45.18883],[27.332375,45.187345],[27.331922,45.187412],[27.331821,45.187059],[27.331505,45.186265],[27.331315,45.185567],[27.331327,45.185339],[27.3315,45.185119],[27.33155,45.18507],[27.331582,45.18497],[27.331544,45.184804],[27.331235,45.184077],[27.33112,45.184042],[27.330114,45.184052],[27.329657,45.183997],[27.329301,45.183967],[27.329087,45.183918],[27.327654,45.183477],[27.326707,45.18309],[27.325148,45.182533],[27.324273,45.181845],[27.323818,45.18201],[27.324424,45.182483],[27.324456,45.182512],[27.323372,45.182765],[27.324237,45.184353],[27.322708,45.184649],[27.319721,45.185298],[27.321411,45.187882],[27.323606,45.191357],[27.323726,45.191332],[27.323841,45.191538],[27.324377,45.191421],[27.324622,45.191823],[27.324939,45.19217]]],"type":"Polygon"}
 }

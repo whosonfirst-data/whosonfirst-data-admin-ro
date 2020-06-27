@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.87308,45.1667,26.87308,45.1667",
-    "geom:latitude":45.1667,
-    "geom:longitude":26.87308,
+    "geom:area":0.000057,
+    "geom:area_square_m":496413.895554,
+    "geom:bbox":"26.868221,45.161302,26.877434,45.171744",
+    "geom:latitude":45.166912,
+    "geom:longitude":26.872575,
     "gn:admin1_code":"11",
     "gn:admin2_code":"49956",
     "gn:asciiname":"Bajani",
@@ -24,11 +24,12 @@
     "gn:population":479,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.85308,45.1467,26.89308,45.1867",
+    "lbl:latitude":45.1667,
+    "lbl:longitude":26.87308,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:fas_x_preferred":[
         "\u0628\u0627\u062c\u0627\u0646\u06cc"
@@ -36,7 +37,17 @@
     "name:msa_x_preferred":[
         "Bajani"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103jani"
+    ],
+    "name:ron_x_variant":[
+        "Bajani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685757
+        "gn:id":685757,
+        "ro-ancpi:id":49974
     },
     "wof:country":"RO",
-    "wof:geomhash":"7d254249a47d51d9a3ecbfee366497bf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e9179da6df61858673a08deca039ab94",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1226026051,
-    "wof:lastmodified":1566611634,
-    "wof:name":"Bajani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203608,
+    "wof:name":"B\u0103jani",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":479,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.87308,
-    45.1667,
-    26.87308,
-    45.1667
+    26.868221,
+    45.161302,
+    26.877434,
+    45.171744
 ],
-  "geometry": {"coordinates":[26.87308,45.1667],"type":"Point"}
+  "geometry": {"coordinates":[[[26.87003,45.171744],[26.871682,45.170685],[26.872596,45.171315],[26.873533,45.170714],[26.874835,45.171657],[26.874884,45.171626],[26.877434,45.169763],[26.874284,45.16756],[26.876781,45.164847],[26.876003,45.16416],[26.875939,45.164096],[26.87248,45.161302],[26.871036,45.16272],[26.870088,45.162067],[26.86968,45.162746],[26.870454,45.163312],[26.870179,45.163614],[26.870159,45.164172],[26.869551,45.164901],[26.869496,45.164876],[26.869079,45.16545],[26.869018,45.16543],[26.868701,45.166137],[26.868416,45.166495],[26.868478,45.166508],[26.869262,45.167497],[26.869197,45.167572],[26.868221,45.168217],[26.87036,45.169664],[26.868932,45.170803],[26.869079,45.170761],[26.869105,45.170838],[26.87003,45.171744]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.70768,45.99277,23.70768,45.99277",
-    "geom:latitude":45.99277,
-    "geom:longitude":23.70768,
+    "geom:area":0.000006,
+    "geom:area_square_m":52018.646563,
+    "geom:bbox":"23.704789,45.991405,23.708868,45.99404",
+    "geom:latitude":45.992519,
+    "geom:longitude":23.706852,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7945.0",
     "gn:asciiname":"Carpenii de Sus",
@@ -25,17 +25,25 @@
     "gn:population":4,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.68768,45.97277,23.72768,46.01277",
+    "lbl:latitude":45.99277,
+    "lbl:longitude":23.70768,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Carpenii de Sus"
+    ],
     "name:und_x_variant":[
         "Carpen",
         "Carpenii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682669
+        "gn:id":682669,
+        "ro-ancpi:id":7972
     },
     "wof:country":"RO",
-    "wof:geomhash":"0b09dcf0604d26d5bb3221a8345407b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a973517d60d29e7c39ad06d4cbc844b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1225849183,
-    "wof:lastmodified":1566611718,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203770,
     "wof:name":"Carpenii de Sus",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.70768,
-    45.99277,
-    23.70768,
-    45.99277
+    23.704789,
+    45.991405,
+    23.708868,
+    45.99404
 ],
-  "geometry": {"coordinates":[23.70768,45.99277],"type":"Point"}
+  "geometry": {"coordinates":[[[23.705706,45.99173],[23.705338,45.991571],[23.704789,45.991813],[23.7051,45.992505],[23.704889,45.992627],[23.705173,45.9932],[23.706163,45.993154],[23.707076,45.993216],[23.706971,45.993594],[23.707444,45.993682],[23.70736,45.993995],[23.707808,45.99404],[23.708539,45.992665],[23.708183,45.992598],[23.708868,45.991622],[23.70804,45.991405],[23.707805,45.991724],[23.707594,45.991676],[23.707285,45.99191],[23.706068,45.991513],[23.705794,45.991763],[23.705706,45.99173]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.39487,45.3718,24.39487,45.3718",
-    "geom:latitude":45.3718,
-    "geom:longitude":24.39487,
+    "geom:area":0.000033,
+    "geom:area_square_m":287585.615535,
+    "geom:bbox":"24.377807,45.36853,24.395757,45.372937",
+    "geom:latitude":45.370648,
+    "geom:longitude":24.387838,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172153",
     "gn:asciiname":"Baiasu",
@@ -25,17 +25,30 @@
     "gn:population":230,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.37487,45.3518,24.41487,45.3918",
+    "lbl:latitude":45.371236,
+    "lbl:longitude":24.39083,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.371236,
+    "mps:longitude":24.39083,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "B\u0103ia\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Baiasu"
+    ],
     "name:und_x_variant":[
         "B\u0103iasul",
         "B\u0103ia\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685822
+        "gn:id":685822,
+        "ro-ancpi:id":172171
     },
     "wof:country":"RO",
-    "wof:geomhash":"96b6e7508c78e5c4bd1a98982e88b989",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e51e96579a9137c67c7000cc4af26f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1327365095,
-    "wof:lastmodified":1566609761,
-    "wof:name":"Baiasu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203678,
+    "wof:name":"B\u0103ia\u015fu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":230,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.39487,
-    45.3718,
-    24.39487,
-    45.3718
+    24.377807,
+    45.36853,
+    24.395757,
+    45.372937
 ],
-  "geometry": {"coordinates":[24.39487,45.3718],"type":"Point"}
+  "geometry": {"coordinates":[[[24.394315,45.372203],[24.393042,45.370623],[24.392787,45.370387],[24.395757,45.369033],[24.39525,45.36853],[24.392064,45.369727],[24.390527,45.369519],[24.385121,45.369588],[24.382478,45.369465],[24.377825,45.368775],[24.377807,45.370458],[24.379323,45.370493],[24.379467,45.370148],[24.382465,45.370578],[24.387779,45.371329],[24.388301,45.370756],[24.389131,45.370828],[24.387726,45.372705],[24.391194,45.372937],[24.393273,45.372902],[24.394315,45.372203]]],"type":"Polygon"}
 }

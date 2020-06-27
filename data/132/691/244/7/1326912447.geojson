@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.48774,45.12136,25.48774,45.12136",
-    "geom:latitude":45.12136,
-    "geom:longitude":25.48774,
+    "geom:area":0.000019,
+    "geom:area_square_m":165834.4538,
+    "geom:bbox":"25.48645,45.120043,25.497763,45.12426",
+    "geom:latitude":45.121763,
+    "geom:longitude":25.492627,
     "gn:admin1_code":"16",
     "gn:admin2_code":"66330.0",
     "gn:asciiname":"Valea Morii",
@@ -25,11 +25,12 @@
     "gn:population":38,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.46774,45.10136,25.50774,45.14136",
+    "lbl:latitude":45.12136,
+    "lbl:longitude":25.48774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Valea Morii"
@@ -49,7 +50,11 @@
     "name:und_x_variant":[
         "Valee Morii"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +63,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663574
+        "gn:id":663574,
+        "ro-ancpi:id":66394
     },
     "wof:country":"RO",
-    "wof:geomhash":"dbee88f35b0342982f0e935cf00723f1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c320c0e2af72f3612093833c47b632ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +80,13 @@
         }
     ],
     "wof:id":1326912447,
-    "wof:lastmodified":1566609848,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203719,
     "wof:name":"Valea Morii",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
@@ -83,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.48774,
-    45.12136,
-    25.48774,
-    45.12136
+    25.48645,
+    45.120043,
+    25.497763,
+    45.12426
 ],
-  "geometry": {"coordinates":[25.48774,45.12136],"type":"Point"}
+  "geometry": {"coordinates":[[[25.4866,45.12018],[25.48645,45.120469],[25.486562,45.121133],[25.486572,45.121192],[25.486807,45.121772],[25.488225,45.121958],[25.488304,45.122095],[25.489118,45.122105],[25.48921,45.121487],[25.490278,45.121592],[25.490431,45.121344],[25.492397,45.1222],[25.494142,45.122124],[25.495654,45.12426],[25.496757,45.124022],[25.497574,45.124251],[25.497589,45.124201],[25.497614,45.124134],[25.497763,45.123729],[25.497387,45.122838],[25.497657,45.122699],[25.497461,45.122371],[25.497653,45.122232],[25.497533,45.122077],[25.497518,45.122056],[25.496927,45.121288],[25.496267,45.121195],[25.495786,45.121609],[25.494426,45.121409],[25.493101,45.120701],[25.492766,45.120043],[25.491643,45.120254],[25.491744,45.120762],[25.490207,45.120338],[25.490075,45.1203],[25.4866,45.12018]]],"type":"Polygon"}
 }

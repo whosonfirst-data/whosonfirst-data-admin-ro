@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.35205,47.57299,22.35205,47.57299",
-    "geom:latitude":47.57299,
-    "geom:longitude":22.35205,
+    "geom:area":0.000072,
+    "geom:area_square_m":600718.003853,
+    "geom:bbox":"22.346434,47.565918,22.35404,47.581191",
+    "geom:latitude":47.573132,
+    "geom:longitude":22.350045,
     "gn:admin1_code":"32",
     "gn:admin2_code":"138501.0",
     "gn:asciiname":"Dindestiu Mic",
@@ -25,17 +25,28 @@
     "gn:population":311,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.33205,47.55299,22.37205,47.59299",
+    "lbl:latitude":47.57299,
+    "lbl:longitude":22.35205,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dinde\u015ftiu Mic"
+    ],
+    "name:ron_x_variant":[
+        "Dindestiu Mic"
+    ],
     "name:und_x_variant":[
         "Dinde\u015ftii Mic",
         "Dinde\u015ftii Mici"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679356
+        "gn:id":679356,
+        "ro-ancpi:id":138529
     },
     "wof:country":"RO",
-    "wof:geomhash":"1939a13580c789db45e5592c5f9ad8ad",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3bebb1fdf9ec485f2d7df49db4afc86f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1344007441,
-    "wof:lastmodified":1566609911,
-    "wof:name":"Dindestiu Mic",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203362,
+    "wof:name":"Dinde\u015ftiu Mic",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":311,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.35205,
-    47.57299,
-    22.35205,
-    47.57299
+    22.346434,
+    47.565918,
+    22.35404,
+    47.581191
 ],
-  "geometry": {"coordinates":[22.35205,47.57299],"type":"Point"}
+  "geometry": {"coordinates":[[[22.349368,47.581191],[22.349813,47.58034],[22.349919,47.580474],[22.350024,47.58051],[22.35014,47.580458],[22.35058,47.580085],[22.351534,47.579241],[22.352611,47.578319],[22.35196,47.578002],[22.351931,47.577942],[22.352204,47.576644],[22.3525,47.574729],[22.352868,47.57245],[22.352993,47.571639],[22.353094,47.570939],[22.35391,47.569892],[22.351825,47.568977],[22.351809,47.568968],[22.351852,47.568914],[22.352571,47.568109],[22.353376,47.567258],[22.35404,47.566544],[22.351939,47.566356],[22.35165,47.566679],[22.351261,47.565918],[22.351062,47.565962],[22.349627,47.566277],[22.348825,47.566451],[22.348652,47.566098],[22.347499,47.566363],[22.347656,47.566685],[22.348361,47.568106],[22.346763,47.568453],[22.347859,47.570673],[22.347726,47.571637],[22.347393,47.573949],[22.347764,47.573865],[22.347831,47.57387],[22.347842,47.57391],[22.347757,47.574597],[22.34769,47.575102],[22.347429,47.577267],[22.347431,47.577336],[22.347224,47.577384],[22.347352,47.577832],[22.347752,47.579149],[22.347632,47.579164],[22.347567,47.579188],[22.346434,47.580493],[22.349368,47.581191]]],"type":"Polygon"}
 }

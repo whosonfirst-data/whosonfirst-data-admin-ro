@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.28711,45.15766,24.28711,45.15766",
-    "geom:latitude":45.15766,
-    "geom:longitude":24.28711,
+    "geom:area":0.000022,
+    "geom:area_square_m":192522.830103,
+    "geom:bbox":"24.289263,45.153336,24.296514,45.157949",
+    "geom:latitude":45.155808,
+    "geom:longitude":24.293218,
     "gn:admin1_code":"39",
     "gn:admin2_code":"167696",
     "gn:asciiname":"Mosoroasa",
@@ -24,13 +24,26 @@
     "gn:population":38,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.26711,45.13766,24.30711,45.17766",
+    "lbl:latitude":45.155857,
+    "lbl:longitude":24.293287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.155857,
+    "mps:longitude":24.293287,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Mo\u015foroa\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Mosoroasa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11003022
+        "gn:id":11003022,
+        "ro-ancpi:id":167749
     },
     "wof:country":"RO",
-    "wof:geomhash":"c4495c67935b5d7b963354d268eb0fe9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"39496998d27e59669fcd0f10c119d439",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1243298377,
-    "wof:lastmodified":1566611522,
-    "wof:name":"Mosoroasa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"Mo\u015foroa\u015fa",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":38,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.28711,
-    45.15766,
-    24.28711,
-    45.15766
+    24.289263,
+    45.153336,
+    24.296514,
+    45.157949
 ],
-  "geometry": {"coordinates":[24.28711,45.15766],"type":"Point"}
+  "geometry": {"coordinates":[[[24.296514,45.154401],[24.294765,45.153336],[24.29323,45.153929],[24.289263,45.155298],[24.289366,45.156026],[24.291277,45.15767],[24.295385,45.157949],[24.296514,45.154401]]],"type":"Polygon"}
 }

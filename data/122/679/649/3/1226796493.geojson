@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.32348,44.15704,24.32348,44.15704",
-    "geom:latitude":44.15704,
-    "geom:longitude":24.32348,
+    "geom:area":0.000046,
+    "geom:area_square_m":412235.536097,
+    "geom:bbox":"24.314126,44.152971,24.329208,44.158685",
+    "geom:latitude":44.156109,
+    "geom:longitude":24.322348,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126718.0",
     "gn:asciiname":"Frasinetu",
@@ -25,19 +25,30 @@
     "gn:population":491,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.30348,44.13704,24.34348,44.17704",
+    "lbl:latitude":44.15704,
+    "lbl:longitude":24.32348,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Fr\u0103sinetu"
+    ],
+    "name:ron_x_variant":[
+        "Frasinetu"
+    ],
     "name:und_x_variant":[
         "Fr\u0103sinetu P\u0103dure",
         "Fr\u0103sinet",
         "Fr\u0103sinetul",
         "Fr\u0103sinetu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677946
+        "gn:id":677946,
+        "ro-ancpi:id":126736
     },
     "wof:country":"RO",
-    "wof:geomhash":"973f6d7d452ce1e9a3fa58d18bcb89b0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4a3319af777a6ecfcc8b61a22bd7f9c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +74,14 @@
         }
     ],
     "wof:id":1226796493,
-    "wof:lastmodified":1566611686,
-    "wof:name":"Frasinetu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203708,
+    "wof:name":"Fr\u0103sinetu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":491,
@@ -71,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.32348,
-    44.15704,
-    24.32348,
-    44.15704
+    24.314126,
+    44.152971,
+    24.329208,
+    44.158685
 ],
-  "geometry": {"coordinates":[24.32348,44.15704],"type":"Point"}
+  "geometry": {"coordinates":[[[24.324848,44.158611],[24.324807,44.157871],[24.327638,44.157948],[24.329208,44.15791],[24.329017,44.15693],[24.328698,44.155582],[24.328295,44.153567],[24.327389,44.153636],[24.327106,44.152971],[24.3259,44.153001],[24.326383,44.154896],[24.325072,44.154877],[24.322499,44.154699],[24.322021,44.154708],[24.32088,44.154746],[24.319529,44.154797],[24.316628,44.155025],[24.316281,44.154165],[24.315423,44.154366],[24.315331,44.154179],[24.314451,44.154332],[24.314638,44.154831],[24.314126,44.155457],[24.314285,44.155952],[24.315379,44.156239],[24.315289,44.156476],[24.315156,44.15712],[24.316561,44.157137],[24.316907,44.158087],[24.317108,44.158054],[24.317722,44.157903],[24.318694,44.157677],[24.319487,44.157441],[24.320156,44.157449],[24.320141,44.15784],[24.32383,44.15786],[24.32415,44.158685],[24.324848,44.158611]]],"type":"Polygon"}
 }

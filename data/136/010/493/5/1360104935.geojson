@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.50435,45.21437,27.50435,45.21437",
-    "geom:latitude":45.21437,
-    "geom:longitude":27.50435,
+    "geom:area":0.000062,
+    "geom:area_square_m":538086.165109,
+    "geom:bbox":"27.496306,45.210218,27.509379,45.218584",
+    "geom:latitude":45.214729,
+    "geom:longitude":27.50284,
     "gn:admin1_code":"08",
     "gn:admin2_code":"44140.0",
     "gn:asciiname":"Mihail Kogalniceanu",
@@ -25,18 +25,104 @@
     "gn:population":386,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.48435,45.19437,27.52435,45.23437",
+    "lbl:latitude":45.21437,
+    "lbl:longitude":27.50435,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0647\u0627\u064a\u0644 \u0643\u0648\u062c\u0627\u0644\u0646\u064a\u0634\u064a\u0646\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0438\u043b \u041a\u043e\u0433\u044a\u043b\u043d\u0438\u0447\u0430\u043d\u0443"
+    ],
+    "name:ces_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:deu_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:est_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:eus_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:fin_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:fra_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05db\u05d0\u05d9\u05dc \u05e7\u05d5\u05d2\u05dc\u05e0\u05d9\u05e6'\u05d0\u05e0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0570\u0561\u0575\u056b\u056c \u053f\u0578\u0563\u0568\u056c\u0576\u056b\u0579\u0565\u0561\u0576\u0578\u0582"
+    ],
+    "name:ido_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ind_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ita_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc8\u0cb9\u0cc7\u0cb2\u0ccd \u0c95\u0c97\u0cb2\u0ccd\u0ca8\u0cbf\u0cb8\u0cbf\u0c85\u0ca8\u0cc1"
+    ],
+    "name:lat_x_preferred":[
+        "Michael Kog\u0103lniceanu"
+    ],
+    "name:lav_x_preferred":[
+        "Mihails Kogelni\u010djanu"
+    ],
+    "name:nld_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:pol_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:por_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ron_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ron_x_variant":[
+        "Mihail Kogalniceanu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u044d\u043b\u043d\u0438\u0447\u0430\u043d\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:swe_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0457\u043b \u041a\u043e\u0491\u0435\u043b\u044c\u043d\u0438\u0447\u0430\u043d\u0443"
+    ],
     "name:und_x_variant":[
         "Cog\u0103lniceanu",
         "Mihail Cog\u0103lniceanu",
         "Mihail Kog\u0103lniceanu"
     ],
-    "src:geom":"geonames",
+    "name:zho_x_preferred":[
+        "\u7c73\u54c8\u4f0a\u5c14\u00b7\u79d1\u683c\u5c14\u5c3c\u6070\u52aa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +131,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673379
+        "gn:id":673379,
+        "ro-ancpi:id":44168
     },
     "wof:country":"RO",
-    "wof:geomhash":"53fe0bbeb367959101f167598dac908e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"07ab8edea05a383d19d780a62f6a38b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +148,14 @@
         }
     ],
     "wof:id":1360104935,
-    "wof:lastmodified":1566610637,
-    "wof:name":"Mihail Kogalniceanu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203773,
+    "wof:name":"Mihail Kog\u0103lniceanu",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":386,
@@ -70,10 +166,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.50435,
-    45.21437,
-    27.50435,
-    45.21437
+    27.496306,
+    45.210218,
+    27.509379,
+    45.218584
 ],
-  "geometry": {"coordinates":[27.50435,45.21437],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.501538,45.218584],[27.504736,45.21777],[27.504885,45.218032],[27.505664,45.217847],[27.50583,45.218215],[27.506846,45.217953],[27.50679,45.217813],[27.507212,45.217733],[27.507157,45.217601],[27.507704,45.217509],[27.507758,45.217597],[27.508478,45.217439],[27.508325,45.217106],[27.509379,45.216861],[27.508841,45.21574],[27.50882,45.215709],[27.509016,45.215657],[27.508655,45.214771],[27.507825,45.214985],[27.507539,45.214381],[27.506984,45.214524],[27.505097,45.210746],[27.503298,45.211146],[27.503139,45.211094],[27.501254,45.211523],[27.499807,45.21176],[27.499446,45.211906],[27.497465,45.212287],[27.496306,45.212516],[27.496867,45.21415],[27.496329,45.214188],[27.496541,45.215007],[27.500336,45.214392],[27.500746,45.21603],[27.498732,45.216318],[27.498933,45.217198],[27.499494,45.217133],[27.499562,45.21753],[27.498666,45.217674],[27.498895,45.218324],[27.50136,45.217942],[27.501538,45.218584]]],[[[27.498984,45.210439],[27.498819,45.210218],[27.497722,45.210753],[27.498001,45.211071],[27.498143,45.211128],[27.498308,45.211328],[27.498496,45.211368],[27.499306,45.211031],[27.49887,45.210497],[27.498984,45.210439]]]],"type":"MultiPolygon"}
 }

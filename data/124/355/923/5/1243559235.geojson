@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.57131,47.36776,22.57131,47.36776",
-    "geom:latitude":47.36776,
-    "geom:longitude":22.57131,
+    "geom:area":0.000023,
+    "geom:area_square_m":194451.037591,
+    "geom:bbox":"22.562075,47.363125,22.575027,47.370195",
+    "geom:latitude":47.366401,
+    "geom:longitude":22.567189,
     "gn:admin1_code":"05",
     "gn:admin2_code":"27506.0",
     "gn:asciiname":"Huta",
@@ -24,11 +24,14 @@
     "gn:population":29,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.55131,47.34776,22.59131,47.38776",
+    "lbl:latitude":47.367336,
+    "lbl:longitude":22.567287,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":47.367336,
+    "mps:longitude":22.567287,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0443\u0442\u0430"
@@ -72,7 +75,11 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0442\u0430"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675883
+        "gn:id":675883,
+        "ro-ancpi:id":27533
     },
     "wof:country":"RO",
-    "wof:geomhash":"c0cdb7bac573063449a366b9b3d14009",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dc72fd8e89f995055fd71192b37d0711",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +105,13 @@
         }
     ],
     "wof:id":1243559235,
-    "wof:lastmodified":1566611435,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203509,
     "wof:name":"Huta",
     "wof:parent_id":85687737,
     "wof:placetype":"locality",
@@ -106,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.57131,
-    47.36776,
-    22.57131,
-    47.36776
+    22.562075,
+    47.363125,
+    22.575027,
+    47.370195
 ],
-  "geometry": {"coordinates":[22.57131,47.36776],"type":"Point"}
+  "geometry": {"coordinates":[[[22.570374,47.367409],[22.575027,47.365425],[22.574871,47.365119],[22.573867,47.365316],[22.572724,47.365461],[22.571115,47.365685],[22.570375,47.366066],[22.568634,47.366833],[22.568319,47.366708],[22.568204,47.364998],[22.567008,47.365085],[22.567305,47.366286],[22.566931,47.366435],[22.565606,47.36546],[22.563981,47.364346],[22.563645,47.363125],[22.562075,47.363225],[22.562219,47.365156],[22.562579,47.365587],[22.564012,47.366152],[22.5649,47.366782],[22.565006,47.367076],[22.566515,47.367515],[22.566053,47.369882],[22.567518,47.370195],[22.568319,47.367646],[22.570374,47.367409]]],"type":"Polygon"}
 }

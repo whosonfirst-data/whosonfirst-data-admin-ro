@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.89271,44.48178,23.89271,44.48178",
-    "geom:latitude":44.48178,
-    "geom:longitude":23.89271,
+    "geom:area":0.000025,
+    "geom:area_square_m":220173.072744,
+    "geom:bbox":"23.884634,44.479225,23.899019,44.485254",
+    "geom:latitude":44.482144,
+    "geom:longitude":23.891915,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130124.0",
     "gn:asciiname":"Plopsorelu",
@@ -25,38 +25,63 @@
     "gn:population":193,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.87271,44.46178,23.91271,44.50178",
+    "lbl:latitude":44.48178,
+    "lbl:longitude":23.89271,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Plop\u015forelu"
+    ],
+    "name:ron_x_variant":[
+        "Plopsorelu"
+    ],
     "name:und_x_variant":[
         "B\u00eezg\u0103rei",
         "B\u00e2zg\u0103rei",
         "Plop\u015forelu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670435
+        "gn:id":670435,
+        "ro-ancpi:id":130188
     },
     "wof:country":"RO",
-    "wof:geomhash":"9589153303e573b675abb9ca836ac34f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"273dd4822e0947cc2dd0ae5d846b3e65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209462067
+            "locality_id":1209462067,
+            "region_id":85687607
         }
     ],
     "wof:id":1209462067,
-    "wof:lastmodified":1566610318,
-    "wof:name":"Plopsorelu",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
+    "wof:name":"Plop\u015forelu",
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":193,
     "wof:population_rank":1,
@@ -66,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.89271,
-    44.48178,
-    23.89271,
-    44.48178
+    23.884634,
+    44.479225,
+    23.899019,
+    44.485254
 ],
-  "geometry": {"coordinates":[23.89271,44.48178],"type":"Point"}
+  "geometry": {"coordinates":[[[23.898754,44.484988],[23.897951,44.483819],[23.899019,44.483303],[23.89767,44.482168],[23.895546,44.482129],[23.89505,44.482299],[23.894152,44.48221],[23.891466,44.480686],[23.891218,44.480872],[23.890795,44.480583],[23.888759,44.480214],[23.888825,44.479666],[23.88852,44.47934],[23.887977,44.479225],[23.885831,44.480138],[23.885972,44.480547],[23.885755,44.480773],[23.885737,44.480791],[23.884634,44.481938],[23.88657,44.483015],[23.887353,44.48228],[23.887724,44.482442],[23.88826,44.481979],[23.887521,44.481523],[23.888753,44.480698],[23.889923,44.481196],[23.892642,44.483083],[23.893523,44.483622],[23.895449,44.484214],[23.89626,44.484393],[23.896345,44.484412],[23.896802,44.484513],[23.897578,44.484406],[23.898104,44.485254],[23.898754,44.484988]]],"type":"Polygon"}
 }

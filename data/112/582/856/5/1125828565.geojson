@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41667,44.6,24.41667,44.6",
-    "geom:latitude":44.6,
-    "geom:longitude":24.41667,
+    "geom:area":0.000116,
+    "geom:area_square_m":1020712.173056,
+    "geom:bbox":"24.420217,44.577088,24.431036,44.604977",
+    "geom:latitude":44.59047,
+    "geom:longitude":24.425757,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1265,
     "iso:country":"RO",
-    "lbl:bbox":"24.39667,44.58,24.43667,44.62",
-    "lbl:latitude":44.6,
-    "lbl:longitude":24.41667,
+    "lbl:latitude":44.588707,
+    "lbl:longitude":24.425839,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":44.588707,
+    "mps:longitude":24.425839,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u067e\u0648\u0631\u064a\u0644\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043f\u043e\u0440\u0435\u043b\u0443"
     ],
@@ -77,8 +81,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":876872,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -94,11 +101,15 @@
         "gn:id":671790,
         "gp:id":876872,
         "qs_pg:id":1279039,
+        "ro-ancpi:id":127867,
         "wd:id":"Q2719489"
     },
     "wof:country":"RO",
     "wof:created":1497292388,
-    "wof:geomhash":"479a26596ca071813b3307dff3e1aaa3",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"09f466d39f4eb320ab6d0d278c2fd8a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,7 +119,13 @@
         }
     ],
     "wof:id":1125828565,
-    "wof:lastmodified":1566611385,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203706,
     "wof:name":"Oporelu",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -120,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41667,
-    44.6,
-    24.41667,
-    44.6
+    24.420217,
+    44.577088,
+    24.431036,
+    44.604977
 ],
-  "geometry": {"coordinates":[24.41667,44.6],"type":"Point"}
+  "geometry": {"coordinates":[[[24.427102,44.604955],[24.425388,44.603094],[24.425347,44.601934],[24.425233,44.59786],[24.42587,44.593323],[24.428791,44.588236],[24.429623,44.587338],[24.431015,44.583113],[24.431036,44.580968],[24.429753,44.578248],[24.428809,44.577088],[24.426673,44.578135],[24.426674,44.578833],[24.426874,44.580977],[24.425743,44.581119],[24.425521,44.58248],[24.426616,44.582551],[24.426521,44.583796],[24.424083,44.585821],[24.42407,44.586868],[24.422398,44.59078],[24.422509,44.592846],[24.423142,44.592853],[24.422618,44.593831],[24.42043,44.595283],[24.420217,44.596444],[24.420702,44.596414],[24.421062,44.597621],[24.422532,44.602139],[24.423205,44.60458],[24.426304,44.604977],[24.427102,44.604955]]],"type":"Polygon"}
 }

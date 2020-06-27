@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.58399,46.69658,27.58399,46.69658",
-    "geom:latitude":46.69658,
-    "geom:longitude":27.58399,
+    "geom:area":0.000034,
+    "geom:area_square_m":291960.133448,
+    "geom:bbox":"27.577071,46.69251,27.594084,46.70404",
+    "geom:latitude":46.697976,
+    "geom:longitude":27.58517,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163379.0",
     "gn:asciiname":"Raduiesti",
@@ -25,18 +25,29 @@
     "gn:population":205,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.56399,46.67658,27.60399,46.71658",
+    "lbl:latitude":46.69658,
+    "lbl:longitude":27.58399,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "R\u0103duie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Raduiesti"
+    ],
     "name:und_x_variant":[
         "Fundoaia",
         "R\u0103due\u015fti",
         "R\u0103duie\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669237
+        "gn:id":669237,
+        "ro-ancpi:id":163477
     },
     "wof:country":"RO",
-    "wof:geomhash":"95d0b1d476a8c57624ccefc3ff6ee613",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"06fdfeaa83b106dcb821f8afc392f722",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1293532255,
-    "wof:lastmodified":1566610036,
-    "wof:name":"Raduiesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203464,
+    "wof:name":"R\u0103duie\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":205,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.58399,
-    46.69658,
-    27.58399,
-    46.69658
+    27.577071,
+    46.69251,
+    27.594084,
+    46.70404
 ],
-  "geometry": {"coordinates":[27.58399,46.69658],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.584137,46.69809],[27.587031,46.696019],[27.585825,46.695068],[27.584869,46.695466],[27.583851,46.694909],[27.582857,46.695787],[27.581071,46.694618],[27.577882,46.69251],[27.577071,46.693019],[27.578932,46.694629],[27.580213,46.695652],[27.579148,46.696357],[27.580039,46.697203],[27.581524,46.69651],[27.584137,46.69809]]],[[[27.588039,46.702046],[27.58787,46.701121],[27.59133,46.69892],[27.594084,46.697055],[27.593364,46.696631],[27.59075,46.698168],[27.588799,46.699219],[27.588371,46.698911],[27.585401,46.700404],[27.585823,46.700855],[27.583627,46.701812],[27.584156,46.702581],[27.585596,46.702379],[27.586788,46.701844],[27.586777,46.701557],[27.587008,46.701482],[27.58699,46.701991],[27.587098,46.70229],[27.587404,46.702589],[27.589648,46.70404],[27.59017,46.703546],[27.588039,46.702046]]]],"type":"MultiPolygon"}
 }

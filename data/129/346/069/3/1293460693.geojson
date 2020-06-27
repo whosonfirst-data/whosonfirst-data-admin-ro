@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.87799,44.02051,27.87799,44.02051",
-    "geom:latitude":44.02051,
-    "geom:longitude":27.87799,
+    "geom:area":0.00008,
+    "geom:area_square_m":711544.996708,
+    "geom:bbox":"27.868905,44.013363,27.880079,44.024108",
+    "geom:latitude":44.019284,
+    "geom:longitude":27.875044,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61737.0",
     "gn:asciiname":"Valeni",
@@ -25,19 +25,57 @@
     "gn:population":496,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.85799,44.00051,27.89799,44.04051",
+    "lbl:latitude":44.02051,
+    "lbl:longitude":27.87799,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:deu_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:epo_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:eus_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:fra_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:hun_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:nld_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103leni"
+    ],
+    "name:ron_x_variant":[
+        "Valeni"
+    ],
     "name:und_x_variant":[
         "Eni\u015felia",
         "Valea Rea",
         "Enisenlia",
         "V\u0103leni"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "V\u0103leni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +84,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663298
+        "gn:id":663298,
+        "ro-ancpi:id":61791
     },
     "wof:country":"RO",
-    "wof:geomhash":"c024e23f33ef2828a0b4b54904a3f04a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2b2c9f1ba17ecb0d0f15f3e5498b6cae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +101,14 @@
         }
     ],
     "wof:id":1293460693,
-    "wof:lastmodified":1566610058,
-    "wof:name":"Valeni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203610,
+    "wof:name":"V\u0103leni",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
     "wof:population":496,
@@ -71,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.87799,
-    44.02051,
-    27.87799,
-    44.02051
+    27.868905,
+    44.013363,
+    27.880079,
+    44.024108
 ],
-  "geometry": {"coordinates":[27.87799,44.02051],"type":"Point"}
+  "geometry": {"coordinates":[[[27.873628,44.02387],[27.874871,44.023419],[27.876868,44.023383],[27.877347,44.023464],[27.878156,44.022736],[27.880079,44.022338],[27.880039,44.021102],[27.879968,44.019884],[27.879936,44.019329],[27.879887,44.017385],[27.879648,44.015665],[27.878339,44.015572],[27.878956,44.014971],[27.877061,44.014569],[27.875278,44.013363],[27.874498,44.014169],[27.873509,44.015244],[27.873131,44.015818],[27.872488,44.016474],[27.872634,44.016758],[27.872683,44.017127],[27.872579,44.017321],[27.872256,44.017531],[27.871491,44.017365],[27.871332,44.017152],[27.870443,44.017069],[27.869676,44.01813],[27.868905,44.019115],[27.869464,44.019486],[27.86929,44.019629],[27.86979,44.019846],[27.870207,44.020052],[27.869789,44.020401],[27.869593,44.020498],[27.869419,44.020659],[27.869198,44.020767],[27.870451,44.02162],[27.869551,44.022552],[27.869756,44.022649],[27.872908,44.024108],[27.873628,44.02387]]],"type":"Polygon"}
 }

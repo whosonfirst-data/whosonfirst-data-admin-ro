@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38568,44.71204,24.38568,44.71204",
-    "geom:latitude":44.71204,
-    "geom:longitude":24.38568,
+    "geom:area":0.000085,
+    "geom:area_square_m":743378.040452,
+    "geom:bbox":"24.409501,44.707351,24.422955,44.726498",
+    "geom:latitude":44.716886,
+    "geom:longitude":24.41488,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126503.0",
     "gn:asciiname":"Cepesti",
@@ -25,17 +25,30 @@
     "gn:population":378,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.36568,44.69204,24.40568,44.73204",
+    "lbl:latitude":44.717439,
+    "lbl:longitude":24.413861,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.717439,
+    "mps:longitude":24.413861,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cepe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cepesti"
+    ],
     "name:und_x_variant":[
         "Cepe\u015ftii",
         "Cepe\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682411
+        "gn:id":682411,
+        "ro-ancpi:id":126521
     },
     "wof:country":"RO",
-    "wof:geomhash":"07becf036733c941a4d5f2bb3117f67b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ee829ef7c3fd49a8fca36c744e77ed67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1293834557,
-    "wof:lastmodified":1566610059,
-    "wof:name":"Cepesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203699,
+    "wof:name":"Cepe\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":378,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38568,
-    44.71204,
-    24.38568,
-    44.71204
+    24.409501,
+    44.707351,
+    24.422955,
+    44.726498
 ],
-  "geometry": {"coordinates":[24.38568,44.71204],"type":"Point"}
+  "geometry": {"coordinates":[[[24.420165,44.726498],[24.420807,44.726226],[24.421388,44.726426],[24.422955,44.725922],[24.417642,44.718444],[24.416599,44.717303],[24.415158,44.71579],[24.415482,44.714546],[24.414941,44.71292],[24.414249,44.712116],[24.413705,44.710444],[24.414416,44.709243],[24.413943,44.707395],[24.412626,44.707366],[24.411894,44.707509],[24.410704,44.707605],[24.410174,44.707388],[24.409501,44.707351],[24.409665,44.708109],[24.410322,44.710093],[24.410434,44.711445],[24.410472,44.713238],[24.410176,44.714387],[24.410318,44.715273],[24.41079,44.715792],[24.411854,44.71788],[24.41224,44.718652],[24.413188,44.719643],[24.413998,44.720418],[24.41471,44.721005],[24.415135,44.722095],[24.41539,44.722639],[24.415675,44.723246],[24.416827,44.724577],[24.418334,44.723824],[24.420305,44.725487],[24.41962,44.72586],[24.420165,44.726498]]],"type":"Polygon"}
 }

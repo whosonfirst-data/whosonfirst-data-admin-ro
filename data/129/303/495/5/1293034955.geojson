@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.56981,44.47836,25.56981,44.47836",
-    "geom:latitude":44.47836,
-    "geom:longitude":25.56981,
+    "geom:area":0.000034,
+    "geom:area_square_m":300217.257565,
+    "geom:bbox":"25.560458,44.47105,25.570815,44.479371",
+    "geom:latitude":44.47625,
+    "geom:longitude":25.565448,
     "gn:admin1_code":"42",
     "gn:admin2_code":"105972.0",
     "gn:asciiname":"Corbeanca",
@@ -24,14 +24,20 @@
     "gn:population":389,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.54981,44.45836,25.58981,44.49836",
+    "lbl:latitude":44.47675,
+    "lbl:longitude":25.565526,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.47675,
+    "mps:longitude":25.565526,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Corbeanca"
+    ],
+    "name:eus_x_preferred":[
+        "Corbeanca"
     ],
     "name:ita_x_preferred":[
         "Corbeanca"
@@ -49,6 +55,9 @@
         "Corbeanca"
     ],
     "name:ron_x_preferred":[
+        "Corbeanca"
+    ],
+    "name:ron_x_variant":[
         "Comuna Corbeanca"
     ],
     "name:srp_x_preferred":[
@@ -66,7 +75,11 @@
     "name:zho_x_preferred":[
         "\u79d1\u723e\u8c9d\u5b89\u5361\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680891
+        "gn:id":680891,
+        "ro-ancpi:id":105990
     },
     "wof:country":"RO",
-    "wof:geomhash":"cddec3092816a8d965797cc3024e83ba",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c8f816c2ab7475e6fa42cee3bc30110",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +105,13 @@
         }
     ],
     "wof:id":1293034955,
-    "wof:lastmodified":1566610093,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203328,
     "wof:name":"Corbeanca",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
@@ -100,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.56981,
-    44.47836,
-    25.56981,
-    44.47836
+    25.560458,
+    44.47105,
+    25.570815,
+    44.479371
 ],
-  "geometry": {"coordinates":[25.56981,44.47836],"type":"Point"}
+  "geometry": {"coordinates":[[[25.569915,44.477745],[25.570815,44.477302],[25.569141,44.477369],[25.569211,44.476126],[25.56775,44.476106],[25.567724,44.475092],[25.567446,44.475042],[25.568174,44.47235],[25.568392,44.471252],[25.567078,44.47105],[25.565793,44.474728],[25.564215,44.47446],[25.562684,44.474149],[25.562158,44.475672],[25.563704,44.475983],[25.563289,44.476733],[25.561877,44.476644],[25.561761,44.477019],[25.560931,44.476839],[25.560704,44.477298],[25.560461,44.477415],[25.560458,44.477802],[25.561644,44.478136],[25.561544,44.478399],[25.56187,44.478731],[25.562363,44.479371],[25.56594,44.478746],[25.569009,44.478019],[25.569915,44.477745]]],"type":"Polygon"}
 }

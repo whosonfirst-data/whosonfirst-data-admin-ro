@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.97668,46.52528,25.97668,46.52528",
-    "geom:latitude":46.52528,
-    "geom:longitude":25.97668,
+    "geom:area":0.000105,
+    "geom:area_square_m":891985.449741,
+    "geom:bbox":"25.962339,46.508072,26.03874,46.530133",
+    "geom:latitude":46.521152,
+    "geom:longitude":25.991382,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84754.0",
     "gn:asciiname":"Valea Ugra",
@@ -25,37 +25,59 @@
     "gn:population":603,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.95668,46.50528,25.99668,46.54528",
+    "lbl:latitude":46.52528,
+    "lbl:longitude":25.97668,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Ugra"
+    ],
     "name:und_x_variant":[
         "Ugrapataka",
         "Valea Ugra"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687733
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663349
+        "gn:id":663349,
+        "ro-ancpi:id":84816
     },
     "wof:country":"RO",
-    "wof:geomhash":"4aa86e8ff6a2f9ff8695d7c2ef2ed772",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"64d978a0f0fcc1454c9c8bdca043154a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209480025
+            "locality_id":1209480025,
+            "region_id":85687733
         }
     ],
     "wof:id":1209480025,
-    "wof:lastmodified":1566610312,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203390,
     "wof:name":"Valea Ugra",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":603,
     "wof:population_rank":2,
@@ -65,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.97668,
-    46.52528,
-    25.97668,
-    46.52528
+    25.962339,
+    46.508072,
+    26.03874,
+    46.530133
 ],
-  "geometry": {"coordinates":[25.97668,46.52528],"type":"Point"}
+  "geometry": {"coordinates":[[[25.964196,46.530133],[25.967951,46.528484],[25.9736,46.525127],[25.97443,46.5264],[25.978804,46.525349],[25.978678,46.524792],[25.983765,46.523696],[25.98451,46.524922],[25.986345,46.525761],[25.986524,46.525627],[25.985204,46.523969],[25.989012,46.521895],[25.989643,46.520562],[25.998355,46.520527],[26.004319,46.520184],[26.007556,46.517658],[26.017448,46.515859],[26.022269,46.513434],[26.024407,46.513495],[26.029269,46.510924],[26.03874,46.5085],[26.038615,46.508072],[26.029467,46.510353],[26.023129,46.512799],[26.020859,46.513194],[26.017517,46.515141],[26.014627,46.515256],[26.005737,46.516939],[26.003303,46.518662],[26.002733,46.517838],[26.002071,46.518172],[26.003249,46.519702],[26.000634,46.519337],[25.998164,46.519777],[25.995914,46.519127],[25.990511,46.519559],[25.988335,46.520482],[25.986132,46.522067],[25.978794,46.522663],[25.970996,46.524516],[25.962339,46.528411],[25.962761,46.529335],[25.96363,46.529191],[25.964196,46.530133]]],"type":"Polygon"}
 }

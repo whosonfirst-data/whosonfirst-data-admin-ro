@@ -27,13 +27,17 @@
     "lbl:bbox":"26.84667,46.21333,26.88667,46.25333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corbu"
     ],
     "name:deu_x_preferred":[
+        "Corbu"
+    ],
+    "name:eus_x_preferred":[
         "Corbu"
     ],
     "name:fra_x_preferred":[
@@ -78,7 +82,7 @@
         "gn:id":680864
     },
     "wof:country":"RO",
-    "wof:geomhash":"df08820d32938a26aa811622974d7af4",
+    "wof:geomhash":"a219299446a8dbcd65bd7501612ac12e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +92,13 @@
         }
     ],
     "wof:id":1343858641,
-    "wof:lastmodified":1566609923,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208595,
     "wof:name":"Corbu",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -98,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.86667000000001,
+    26.86667,
     46.23333,
-    26.86667000000001,
+    26.86667,
     46.23333
 ],
-  "geometry": {"coordinates":[26.86667000000001,46.23333],"type":"Point"}
+  "geometry": {"coordinates":[26.86667,46.23333],"type":"Point"}
 }

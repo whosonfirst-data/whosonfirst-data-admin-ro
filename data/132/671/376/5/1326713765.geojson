@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.18185,44.32263,28.18185,44.32263",
-    "geom:latitude":44.32263,
-    "geom:longitude":28.18185,
+    "geom:area":0.00003,
+    "geom:area_square_m":262553.474479,
+    "geom:bbox":"28.177626,44.311542,28.185114,44.324262",
+    "geom:latitude":44.321169,
+    "geom:longitude":28.181105,
     "gn:admin1_code":"14",
     "gn:admin2_code":"62280.0",
     "gn:asciiname":"Gherghina",
@@ -25,17 +25,25 @@
     "gn:population":25,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"28.16185,44.30263,28.20185,44.34263",
+    "lbl:latitude":44.32263,
+    "lbl:longitude":28.18185,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gherghina"
+    ],
     "name:und_x_variant":[
         "Defcea",
         "Gherghina"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677433
+        "gn:id":677433,
+        "ro-ancpi:id":62315
     },
     "wof:country":"RO",
-    "wof:geomhash":"e173f65339e35b510928afd66b4cce56",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"614e8c51bf18a0b591643f2d2879e470",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1326713765,
-    "wof:lastmodified":1566609826,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203609,
     "wof:name":"Gherghina",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.18185,
-    44.32263,
-    28.18185,
-    44.32263
+    28.177626,
+    44.311542,
+    28.185114,
+    44.324262
 ],
-  "geometry": {"coordinates":[28.18185,44.32263],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.182353,44.323886],[28.182223,44.323718],[28.182908,44.323607],[28.184188,44.323396],[28.184285,44.322751],[28.184261,44.322512],[28.184495,44.32246],[28.185114,44.321377],[28.184924,44.32141],[28.184187,44.321763],[28.184147,44.321359],[28.183813,44.320257],[28.183466,44.319461],[28.183086,44.319166],[28.182069,44.319173],[28.181389,44.319092],[28.181148,44.31857],[28.180606,44.318714],[28.179378,44.319184],[28.178658,44.319347],[28.178731,44.319562],[28.17859,44.319735],[28.178259,44.32001],[28.177674,44.320302],[28.178127,44.321098],[28.178877,44.321063],[28.178972,44.32111],[28.178965,44.321689],[28.179271,44.32259],[28.177951,44.322792],[28.177917,44.323105],[28.177626,44.32315],[28.177644,44.323949],[28.17908,44.324018],[28.179243,44.324188],[28.182507,44.324262],[28.182353,44.323886]]],[[[28.180894,44.313132],[28.180431,44.311542],[28.179571,44.311607],[28.17996,44.313226],[28.180894,44.313132]]]],"type":"MultiPolygon"}
 }

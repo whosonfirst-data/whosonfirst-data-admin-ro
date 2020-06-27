@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.49769,46.26626,23.49769,46.26626",
-    "geom:latitude":46.26626,
-    "geom:longitude":23.49769,
+    "geom:area":0.000006,
+    "geom:area_square_m":53112.689463,
+    "geom:bbox":"23.494087,46.265323,23.500641,46.268306",
+    "geom:latitude":46.266782,
+    "geom:longitude":23.497458,
     "gn:admin1_code":"01",
     "gn:admin2_code":"4366.0",
     "gn:asciiname":"Raicani",
@@ -24,17 +24,28 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.47769,46.24626,23.51769,46.28626",
+    "lbl:latitude":46.26626,
+    "lbl:longitude":23.49769,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "R\u0103icani"
+    ],
+    "name:ron_x_variant":[
+        "Raicani"
+    ],
     "name:und_x_variant":[
         "Raican",
         "R\u0103icani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669204
+        "gn:id":669204,
+        "ro-ancpi:id":4464
     },
     "wof:country":"RO",
-    "wof:geomhash":"756eb4b6faac387bcd4c7814877e29e6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c4e39af1d342f7a90987e2178c11f531",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1276566047,
-    "wof:lastmodified":1566610193,
-    "wof:name":"Raicani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203754,
+    "wof:name":"R\u0103icani",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.49769,
-    46.26626,
-    23.49769,
-    46.26626
+    23.494087,
+    46.265323,
+    23.500641,
+    46.268306
 ],
-  "geometry": {"coordinates":[23.49769,46.26626],"type":"Point"}
+  "geometry": {"coordinates":[[[23.494829,46.268283],[23.495252,46.268058],[23.495946,46.268306],[23.496115,46.268172],[23.496207,46.267756],[23.496406,46.267214],[23.496852,46.266606],[23.497663,46.266617],[23.49856,46.26616],[23.499727,46.266342],[23.499287,46.266962],[23.500501,46.267489],[23.500641,46.266886],[23.500324,46.266328],[23.500376,46.265767],[23.498719,46.265323],[23.498548,46.265684],[23.496583,46.266118],[23.495627,46.267056],[23.494917,46.266845],[23.494087,46.267992],[23.494829,46.268283]]],"type":"Polygon"}
 }

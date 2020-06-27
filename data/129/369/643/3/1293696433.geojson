@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.16296,46.33607,23.16296,46.33607",
-    "geom:latitude":46.33607,
-    "geom:longitude":23.16296,
+    "geom:area":0.000026,
+    "geom:area_square_m":219160.450408,
+    "geom:bbox":"23.155247,46.332769,23.163709,46.338769",
+    "geom:latitude":46.335681,
+    "geom:longitude":23.159741,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5336.0",
     "gn:asciiname":"Dupa Deal",
@@ -24,13 +24,38 @@
     "gn:population":92,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.14296,46.31607,23.18296,46.35607",
+    "lbl:latitude":46.335641,
+    "lbl:longitude":23.160382,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.335641,
+    "mps:longitude":23.160382,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Dup\u0103 Deal"
+    ],
+    "name:deu_x_preferred":[
+        "Dup\u0103 Deal"
+    ],
+    "name:hun_x_preferred":[
+        "Dup\u0103 Deal"
+    ],
+    "name:ron_x_preferred":[
+        "Dup\u0103 Deal"
+    ],
+    "name:ron_x_variant":[
+        "Dupa Deal"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043f\u0430 \u0414\u0435\u0430\u043b"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678628
+        "gn:id":678628,
+        "ro-ancpi:id":5381
     },
     "wof:country":"RO",
-    "wof:geomhash":"3e790b6d73c55a44edd43e6196268388",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"24b30ee7d5fe4148b7700773aa58c56d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +81,14 @@
         }
     ],
     "wof:id":1293696433,
-    "wof:lastmodified":1566610098,
-    "wof:name":"Dupa Deal",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203752,
+    "wof:name":"Dup\u0103 Deal",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":92,
@@ -64,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.16296,
-    46.33607,
-    23.16296,
-    46.33607
+    23.155247,
+    46.332769,
+    23.163709,
+    46.338769
 ],
-  "geometry": {"coordinates":[23.16296,46.33607],"type":"Point"}
+  "geometry": {"coordinates":[[[23.159098,46.338769],[23.160001,46.337722],[23.160864,46.337895],[23.16115,46.337626],[23.162191,46.338011],[23.16264,46.337524],[23.163508,46.337748],[23.163709,46.337227],[23.163433,46.337081],[23.163475,46.33646],[23.161729,46.336276],[23.162239,46.335607],[23.163183,46.335847],[23.163664,46.335024],[23.162856,46.334202],[23.162884,46.333664],[23.162132,46.333532],[23.161585,46.33404],[23.160557,46.334091],[23.160043,46.334569],[23.159576,46.334007],[23.1592,46.333919],[23.157966,46.333645],[23.158189,46.333125],[23.157487,46.332769],[23.156572,46.333637],[23.156801,46.333888],[23.155714,46.335046],[23.155578,46.33563],[23.155247,46.336397],[23.15598,46.336768],[23.156143,46.336434],[23.157087,46.336314],[23.15724,46.335965],[23.159633,46.336505],[23.157872,46.3384],[23.159098,46.338769]]],"type":"Polygon"}
 }

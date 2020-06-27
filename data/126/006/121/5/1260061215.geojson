@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.28256,45.21243,27.28256,45.21243",
-    "geom:latitude":45.21243,
-    "geom:longitude":27.28256,
+    "geom:area":0.000031,
+    "geom:area_square_m":270821.366693,
+    "geom:bbox":"27.276935,45.208793,27.28539,45.215536",
+    "geom:latitude":45.212538,
+    "geom:longitude":27.28103,
     "gn:admin1_code":"11",
     "gn:admin2_code":"44934.0",
     "gn:asciiname":"Stavarasti",
@@ -25,18 +25,29 @@
     "gn:population":138,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.26256,45.19243,27.30256,45.23243",
+    "lbl:latitude":45.21243,
+    "lbl:longitude":27.28256,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "St\u0103v\u0103r\u0103\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stavarasti"
+    ],
     "name:und_x_variant":[
         "P\u0103rlita",
         "St\u0103v\u0103re\u015fti",
         "St\u0103v\u0103r\u0103\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666259
+        "gn:id":666259,
+        "ro-ancpi:id":44970
     },
     "wof:country":"RO",
-    "wof:geomhash":"2537a351f939566dcefe92e492f97fbf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ccefb407d1b424f2f817b6ce6638fd5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1260061215,
-    "wof:lastmodified":1566610486,
-    "wof:name":"Stavarasti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203596,
+    "wof:name":"St\u0103v\u0103r\u0103\u015fti",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":138,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.28256,
-    45.21243,
-    27.28256,
-    45.21243
+    27.276935,
+    45.208793,
+    27.28539,
+    45.215536
 ],
-  "geometry": {"coordinates":[27.28256,45.21243],"type":"Point"}
+  "geometry": {"coordinates":[[[27.281274,45.209519],[27.280639,45.208793],[27.279289,45.209463],[27.277757,45.210245],[27.276935,45.210602],[27.277033,45.210807],[27.277261,45.211178],[27.277706,45.211924],[27.277661,45.211929],[27.277829,45.212338],[27.278082,45.212712],[27.278319,45.213162],[27.278491,45.213448],[27.27871,45.213691],[27.278851,45.213925],[27.279067,45.214162],[27.279288,45.214305],[27.279516,45.214385],[27.279763,45.214443],[27.279893,45.214543],[27.280119,45.214725],[27.280549,45.215255],[27.280654,45.215378],[27.281141,45.215423],[27.281181,45.215536],[27.281661,45.215476],[27.281976,45.215445],[27.282402,45.215418],[27.283285,45.215362],[27.284426,45.215257],[27.285308,45.215098],[27.284666,45.214415],[27.285069,45.214193],[27.284953,45.214041],[27.28539,45.213873],[27.284976,45.21334],[27.283337,45.212259],[27.283171,45.212132],[27.28274,45.211573],[27.282191,45.210822],[27.281735,45.210119],[27.281371,45.209703],[27.281274,45.209519]]],"type":"Polygon"}
 }

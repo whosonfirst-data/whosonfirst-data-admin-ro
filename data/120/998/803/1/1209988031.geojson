@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.96118,44.29646,23.96118,44.29646",
-    "geom:latitude":44.29646,
-    "geom:longitude":23.96118,
+    "geom:area":0.000031,
+    "geom:area_square_m":270066.473469,
+    "geom:bbox":"23.956677,44.293155,23.970844,44.298344",
+    "geom:latitude":44.295793,
+    "geom:longitude":23.96201,
     "gn:admin1_code":"17",
     "gn:admin2_code":"73923.0",
     "gn:asciiname":"Lacrita Mica",
@@ -24,13 +24,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.94118,44.27646,23.98118,44.31646",
+    "lbl:latitude":44.29646,
+    "lbl:longitude":23.96118,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "L\u0103cri\u0163a Mic\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Lacrita Mica"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675115
+        "gn:id":675115,
+        "ro-ancpi:id":73978
     },
     "wof:country":"RO",
-    "wof:geomhash":"9fe91204f86a9870049b283e8669e89d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"eba2565d94fba594aca095cd2fd4181c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +66,14 @@
         }
     ],
     "wof:id":1209988031,
-    "wof:lastmodified":1566610284,
-    "wof:name":"Lacrita Mica",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203320,
+    "wof:name":"L\u0103cri\u0163a Mic\u0103",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.96118,
-    44.29646,
-    23.96118,
-    44.29646
+    23.956677,
+    44.293155,
+    23.970844,
+    44.298344
 ],
-  "geometry": {"coordinates":[23.96118,44.29646],"type":"Point"}
+  "geometry": {"coordinates":[[[23.970844,44.295772],[23.970615,44.295497],[23.970249,44.294793],[23.969087,44.294989],[23.969288,44.295411],[23.967177,44.295457],[23.965468,44.295619],[23.965039,44.294858],[23.963195,44.29528],[23.962481,44.293732],[23.961392,44.293863],[23.960963,44.293155],[23.957707,44.293775],[23.958958,44.295602],[23.956677,44.296324],[23.95728,44.297341],[23.958,44.298344],[23.959778,44.297828],[23.961547,44.297262],[23.963942,44.296956],[23.968722,44.296366],[23.968562,44.295938],[23.970844,44.295772]]],"type":"Polygon"}
 }

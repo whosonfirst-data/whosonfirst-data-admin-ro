@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.15431,44.79391,24.15431,44.79391",
-    "geom:latitude":44.79391,
-    "geom:longitude":24.15431,
+    "geom:area":0.00013,
+    "geom:area_square_m":1139429.491007,
+    "geom:bbox":"24.147361,44.79003,24.163268,44.808098",
+    "geom:latitude":44.798421,
+    "geom:longitude":24.153805,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170168",
     "gn:asciiname":"Aninoasa",
@@ -24,11 +24,14 @@
     "gn:population":403,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.13431,44.77391,24.17431,44.81391",
+    "lbl:latitude":44.803417,
+    "lbl:longitude":24.151274,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.803417,
+    "mps:longitude":24.151274,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Aninoasa"
@@ -96,7 +99,11 @@
     "name:zho_x_preferred":[
         "\u963f\u5c3c\u8afe\u963f\u85a9"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,10 +112,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686318
+        "gn:id":686318,
+        "ro-ancpi:id":170186
     },
     "wof:country":"RO",
-    "wof:geomhash":"ff83246fff83c573afa3ff3d831a11e6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0be4cb48ca43e36cb6943408009c90d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +129,13 @@
         }
     ],
     "wof:id":1226473273,
-    "wof:lastmodified":1566611676,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203696,
     "wof:name":"Aninoasa",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -130,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.15431,
-    44.79391,
-    24.15431,
-    44.79391
+    24.147361,
+    44.79003,
+    24.163268,
+    44.808098
 ],
-  "geometry": {"coordinates":[24.15431,44.79391],"type":"Point"}
+  "geometry": {"coordinates":[[[24.157575,44.790221],[24.153928,44.79003],[24.152508,44.792602],[24.14963,44.793261],[24.149394,44.796289],[24.147387,44.796274],[24.147361,44.797976],[24.148851,44.800676],[24.147841,44.804276],[24.150198,44.806574],[24.153618,44.808098],[24.156792,44.806862],[24.154596,44.804011],[24.155001,44.802042],[24.156695,44.800274],[24.154146,44.798015],[24.152438,44.79894],[24.152857,44.799709],[24.151532,44.800197],[24.150771,44.798966],[24.150955,44.797417],[24.151605,44.797115],[24.152136,44.797598],[24.15338,44.797128],[24.152134,44.795913],[24.153213,44.795634],[24.157541,44.79938],[24.159821,44.797942],[24.158789,44.796805],[24.153695,44.793991],[24.154212,44.793535],[24.155598,44.794388],[24.156682,44.793841],[24.158722,44.794086],[24.158377,44.795577],[24.160776,44.796],[24.163268,44.792308],[24.15888,44.791663],[24.157071,44.791105],[24.157575,44.790223],[24.157575,44.790221]]],"type":"Polygon"}
 }

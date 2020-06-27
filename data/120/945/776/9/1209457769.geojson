@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.61717,46.65102,27.61717,46.65102",
-    "geom:latitude":46.65102,
-    "geom:longitude":27.61717,
+    "geom:area":0.00001,
+    "geom:area_square_m":88051.470217,
+    "geom:bbox":"27.61018,46.64843,27.618745,46.653309",
+    "geom:latitude":46.650632,
+    "geom:longitude":27.615456,
     "gn:admin1_code":"38",
     "gn:admin2_code":"164598",
     "gn:asciiname":"Bejenesti",
@@ -25,37 +25,64 @@
     "gn:population":37,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.59717,46.63102,27.63717,46.67102",
+    "lbl:latitude":46.650286,
+    "lbl:longitude":27.615703,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.650286,
+    "mps:longitude":27.615703,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bejene\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Bejenesti"
+    ],
     "name:und_x_variant":[
         "Bejenestii",
         "Bejene\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687743
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685170
+        "gn:id":685170,
+        "ro-ancpi:id":164614
     },
     "wof:country":"RO",
-    "wof:geomhash":"931e8e17b83b81d6e435ee88b5dcc5cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a117fe048229d411aaac688cbe431be5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209457769
+            "locality_id":1209457769,
+            "region_id":85687743
         }
     ],
     "wof:id":1209457769,
-    "wof:lastmodified":1566610385,
-    "wof:name":"Bejenesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203468,
+    "wof:name":"Bejene\u015fti",
+    "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":37,
     "wof:population_rank":1,
@@ -65,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.61717,
-    46.65102,
-    27.61717,
-    46.65102
+    27.61018,
+    46.64843,
+    27.618745,
+    46.653309
 ],
-  "geometry": {"coordinates":[27.61717,46.65102],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.613984,46.652026],[27.614258,46.651765],[27.615532,46.651892],[27.616305,46.652047],[27.616633,46.6519],[27.616044,46.651137],[27.618266,46.650052],[27.618745,46.649755],[27.618607,46.649538],[27.617003,46.648944],[27.617007,46.648577],[27.616382,46.64843],[27.615615,46.649298],[27.615357,46.649245],[27.61446,46.650073],[27.614283,46.650385],[27.614536,46.650775],[27.614119,46.650961],[27.614057,46.651123],[27.613696,46.651004],[27.61346,46.65133],[27.613003,46.651283],[27.612891,46.651434],[27.613111,46.651536],[27.612673,46.652138],[27.612951,46.652428],[27.61348,46.652252],[27.613984,46.652026]]],[[[27.612236,46.652906],[27.611025,46.652678],[27.610784,46.652897],[27.61018,46.653211],[27.610479,46.653238],[27.611222,46.653304],[27.611323,46.653309],[27.611377,46.653302],[27.611439,46.653282],[27.611515,46.653254],[27.61161,46.65321],[27.611775,46.653112],[27.611953,46.653009],[27.612066,46.652953],[27.612169,46.652913],[27.612236,46.652906]]]],"type":"MultiPolygon"}
 }

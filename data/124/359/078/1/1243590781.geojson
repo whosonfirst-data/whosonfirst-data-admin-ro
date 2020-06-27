@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.35092,44.95962,24.35092,44.95962",
-    "geom:latitude":44.95962,
-    "geom:longitude":24.35092,
+    "geom:area":0.000081,
+    "geom:area_square_m":712716.831882,
+    "geom:bbox":"24.330929,44.953033,24.350227,44.964454",
+    "geom:latitude":44.959072,
+    "geom:longitude":24.339972,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Plesoiu",
@@ -25,17 +25,46 @@
     "gn:population":323,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.33092,44.93962,24.37092,44.97962",
+    "lbl:latitude":44.960015,
+    "lbl:longitude":24.339826,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.960015,
+    "mps:longitude":24.339826,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "name:por_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "name:ron_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "name:ron_x_variant":[
+        "Plesoiu",
+        "Ple\u0219oiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u043e\u044e"
+    ],
     "name:und_x_variant":[
         "Ple\u015foiul",
         "Ple\u015foiu"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Plesoiu"
+    ],
+    "name:vol_x_preferred":[
+        "Ple\u015foiu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670492
+        "gn:id":670492,
+        "ro-ancpi:id":171726
     },
     "wof:country":"RO",
-    "wof:geomhash":"ef773bbe444941ea9a9cbcb62c694df8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f318a9347e3d8108e1889079ab06dfe8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +90,14 @@
         }
     ],
     "wof:id":1243590781,
-    "wof:lastmodified":1566611481,
-    "wof:name":"Plesoiu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203693,
+    "wof:name":"Ple\u015foiu",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":323,
@@ -69,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.35092,
-    44.95962,
-    24.35092,
-    44.95962
+    24.330929,
+    44.953033,
+    24.350227,
+    44.964454
 ],
-  "geometry": {"coordinates":[24.35092,44.95962],"type":"Point"}
+  "geometry": {"coordinates":[[[24.345787,44.959618],[24.339156,44.957845],[24.340423,44.955416],[24.33232,44.953033],[24.330929,44.954697],[24.332497,44.95547],[24.331011,44.958501],[24.333334,44.959519],[24.335283,44.95624],[24.337398,44.95693],[24.335691,44.960714],[24.33763,44.961353],[24.348067,44.964454],[24.350227,44.961201],[24.3497,44.960897],[24.345787,44.959618]]],"type":"Polygon"}
 }

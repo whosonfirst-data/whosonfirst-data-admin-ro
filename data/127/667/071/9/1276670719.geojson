@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.16667,46.33333,22.16667,46.33333",
-    "geom:latitude":46.33333,
-    "geom:longitude":22.16667,
+    "geom:area":0.000059,
+    "geom:area_square_m":501802.938751,
+    "geom:bbox":"22.151236,46.327291,22.161092,46.339931",
+    "geom:latitude":46.334576,
+    "geom:longitude":22.156382,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10293.0",
     "gn:asciiname":"Paulian",
@@ -24,21 +24,34 @@
     "gn:population":317,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.14667,46.31333,22.18667,46.35333",
+    "lbl:latitude":46.336263,
+    "lbl:longitude":22.155483,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.336263,
+    "mps:longitude":22.155483,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "G\u00f3sd"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103ulian"
+    ],
+    "name:ron_x_variant":[
+        "Paulian"
     ],
     "name:und_x_variant":[
         "Govosdia",
         "Gavosdia",
         "Livada"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674683
+        "gn:id":674683,
+        "ro-ancpi:id":10337
     },
     "wof:country":"RO",
-    "wof:geomhash":"9cedf21e3ad68983bb85b06bce7bff58",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4606206b420b83a1e30ea0442cf4a4b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +77,14 @@
         }
     ],
     "wof:id":1276670719,
-    "wof:lastmodified":1566610198,
-    "wof:name":"Paulian",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203710,
+    "wof:name":"P\u0103ulian",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":317,
@@ -72,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.16667,
-    46.33333,
-    22.16667,
-    46.33333
+    22.151236,
+    46.327291,
+    22.161092,
+    46.339931
 ],
-  "geometry": {"coordinates":[22.16667,46.33333],"type":"Point"}
+  "geometry": {"coordinates":[[[22.158688,46.337272],[22.159229,46.336136],[22.159896,46.336195],[22.160174,46.335375],[22.159707,46.335303],[22.159481,46.335636],[22.158806,46.335525],[22.158029,46.335222],[22.158592,46.334283],[22.159985,46.334469],[22.161092,46.331748],[22.159892,46.331532],[22.159112,46.331117],[22.159839,46.328496],[22.160338,46.32856],[22.160518,46.328027],[22.160318,46.327999],[22.160405,46.327331],[22.159259,46.327291],[22.159287,46.327449],[22.15931,46.327603],[22.159322,46.327732],[22.159312,46.327824],[22.159273,46.32795],[22.159182,46.328186],[22.159107,46.328386],[22.15905,46.328556],[22.156957,46.328313],[22.15684,46.329562],[22.156732,46.330138],[22.156429,46.330939],[22.155476,46.332525],[22.154635,46.333537],[22.153414,46.334295],[22.151685,46.334807],[22.152236,46.335998],[22.152243,46.336061],[22.151236,46.338826],[22.153219,46.339931],[22.156212,46.338855],[22.156731,46.338671],[22.158674,46.337968],[22.158688,46.337272]]],"type":"Polygon"}
 }

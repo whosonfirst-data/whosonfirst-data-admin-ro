@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.47445,44.5346,25.47445,44.5346",
-    "geom:latitude":44.5346,
-    "geom:longitude":25.47445,
+    "geom:area":0.000024,
+    "geom:area_square_m":212913.334696,
+    "geom:bbox":"25.468736,44.531839,25.47816,44.537005",
+    "geom:latitude":44.534292,
+    "geom:longitude":25.472778,
     "gn:admin1_code":"16",
     "gn:admin2_code":"66857.0",
     "gn:asciiname":"Moara din Groapa",
@@ -24,13 +24,24 @@
     "gn:population":206,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.45445,44.5146,25.49445,44.5546",
+    "lbl:latitude":44.5346,
+    "lbl:longitude":25.47445,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Moara Din Groap\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Moara din Groapa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673010
+        "gn:id":673010,
+        "ro-ancpi:id":66893
     },
     "wof:country":"RO",
-    "wof:geomhash":"7efa8deda98de7b44c9e1dafb58802aa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0e367fc5425b93b2d28361ca4eb8f58a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1242945539,
-    "wof:lastmodified":1566611455,
-    "wof:name":"Moara din Groapa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203729,
+    "wof:name":"Moara Din Groap\u0103",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":206,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.47445,
-    44.5346,
-    25.47445,
-    44.5346
+    25.468736,
+    44.531839,
+    25.47816,
+    44.537005
 ],
-  "geometry": {"coordinates":[25.47445,44.5346],"type":"Point"}
+  "geometry": {"coordinates":[[[25.477394,44.533165],[25.47816,44.532923],[25.477399,44.532133],[25.476687,44.532468],[25.47586,44.532937],[25.474467,44.531839],[25.473675,44.5322],[25.471699,44.532929],[25.46973,44.533692],[25.468933,44.533876],[25.469219,44.534601],[25.468736,44.534701],[25.469192,44.536526],[25.469472,44.537005],[25.470727,44.536428],[25.471268,44.536209],[25.471626,44.536154],[25.472325,44.536145],[25.473097,44.536135],[25.473676,44.536021],[25.474335,44.53569],[25.475153,44.534913],[25.475364,44.534607],[25.475697,44.534418],[25.477082,44.533364],[25.477394,44.533165]]],"type":"Polygon"}
 }

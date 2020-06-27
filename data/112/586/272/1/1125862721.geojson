@@ -4,26 +4,30 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.9,45.08333,23.9,45.08333",
-    "geom:latitude":45.08333,
-    "geom:longitude":23.9,
+    "geom:area":0.000143,
+    "geom:area_square_m":1245613.852616,
+    "geom:bbox":"23.901143,45.081409,23.924852,45.096276",
+    "geom:latitude":45.08972,
+    "geom:longitude":23.912477,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":3076,
     "iso:country":"RO",
-    "lbl:bbox":"23.88,45.06333,23.92,45.10333",
-    "lbl:latitude":45.08333,
-    "lbl:longitude":23.9,
+    "lbl:latitude":45.085248,
+    "lbl:longitude":23.908577,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":45.085248,
+    "mps:longitude":23.908577,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:msa_x_preferred":[
         "Stroe\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Stroe\u015fti"
     ],
     "name:vie_x_preferred":[
         "Stroesti"
@@ -39,8 +43,11 @@
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":126905,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,11 +57,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":665938,
-        "qs_pg:id":126905
+        "qs_pg:id":126905,
+        "ro-ancpi:id":173542
     },
     "wof:country":"RO",
     "wof:created":1497293899,
-    "wof:geomhash":"05ebbd0a735013262f5e909524348a65",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"c56a519b5cac964a08f96bd109433d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,7 +75,13 @@
         }
     ],
     "wof:id":1125862721,
-    "wof:lastmodified":1566611301,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
     "wof:name":"Stroe\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -76,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.9,
-    45.08333,
-    23.9,
-    45.08333
+    23.901143,
+    45.081409,
+    23.924852,
+    45.096276
 ],
-  "geometry": {"coordinates":[23.9,45.08333],"type":"Point"}
+  "geometry": {"coordinates":[[[23.901143,45.092626],[23.901711,45.093079],[23.901993,45.093516],[23.902112,45.093715],[23.902319,45.093963],[23.902713,45.094237],[23.9039,45.095409],[23.906159,45.095458],[23.906796,45.094501],[23.908731,45.094607],[23.909074,45.093896],[23.90746,45.093194],[23.905707,45.092185],[23.907232,45.09112],[23.908187,45.091786],[23.908751,45.091383],[23.910056,45.092081],[23.912711,45.094235],[23.91623,45.096276],[23.921693,45.093902],[23.924278,45.092659],[23.924852,45.091697],[23.923923,45.090877],[23.923222,45.089039],[23.920416,45.088607],[23.918219,45.090568],[23.917818,45.0883],[23.912704,45.084842],[23.917988,45.083467],[23.917259,45.081409],[23.911483,45.082747],[23.90806,45.08378],[23.905765,45.085715],[23.904251,45.08777],[23.902597,45.089596],[23.902764,45.091915],[23.901143,45.092626]],[[23.914964,45.089107],[23.91615,45.090358],[23.917914,45.093236],[23.916615,45.094357],[23.914103,45.093156],[23.913337,45.090938],[23.910765,45.090768],[23.907995,45.089063],[23.907781,45.087276],[23.910487,45.085906],[23.914964,45.089107]]],"type":"Polygon"}
 }

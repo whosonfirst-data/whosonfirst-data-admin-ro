@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.21035,46.34871,23.21035,46.34871",
-    "geom:latitude":46.34871,
-    "geom:longitude":23.21035,
+    "geom:area":0.000013,
+    "geom:area_square_m":113061.515619,
+    "geom:bbox":"23.204192,46.345708,23.21646,46.350365",
+    "geom:latitude":46.348002,
+    "geom:longitude":23.210093,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5336.0",
     "gn:asciiname":"Vai",
@@ -24,11 +24,14 @@
     "gn:population":127,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.19035,46.32871,23.23035,46.36871",
+    "lbl:latitude":46.348486,
+    "lbl:longitude":23.212774,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.348486,
+    "mps:longitude":23.212774,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Vai"
@@ -42,13 +45,23 @@
     "name:pol_x_preferred":[
         "Vai"
     ],
+    "name:ron_x_preferred":[
+        "V\u0103i"
+    ],
+    "name:ron_x_variant":[
+        "Vai"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0438"
     ],
     "name:slk_x_preferred":[
         "Vai"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663962
+        "gn:id":663962,
+        "ro-ancpi:id":5559
     },
     "wof:country":"RO",
-    "wof:geomhash":"6dadea2fbff0796a361030ed9ae38572",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c2019b2f3021e9a0e610ade9665dffb6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,8 +87,14 @@
         }
     ],
     "wof:id":1343766133,
-    "wof:lastmodified":1566609926,
-    "wof:name":"Vai",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203749,
+    "wof:name":"V\u0103i",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":127,
@@ -82,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.21035,
-    46.34871,
-    23.21035,
-    46.34871
+    23.204192,
+    46.345708,
+    23.21646,
+    46.350365
 ],
-  "geometry": {"coordinates":[23.21035,46.34871],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.21646,46.349725],[23.214899,46.348823],[23.214088,46.348353],[23.213529,46.348463],[23.213366,46.347123],[23.212246,46.346423],[23.21185,46.346613],[23.212164,46.347666],[23.211904,46.348889],[23.211234,46.3492],[23.211888,46.350003],[23.212492,46.349951],[23.212606,46.349286],[23.213574,46.349187],[23.214475,46.349815],[23.215448,46.350365],[23.21646,46.349725]]],[[[23.208415,46.347505],[23.208306,46.346978],[23.207074,46.346898],[23.207087,46.347309],[23.206481,46.347295],[23.206577,46.346194],[23.204746,46.345708],[23.204452,46.34652],[23.204192,46.347343],[23.204417,46.347531],[23.205313,46.347957],[23.205451,46.348402],[23.206479,46.3484],[23.206492,46.347971],[23.207721,46.347739],[23.208415,46.347505]]]],"type":"MultiPolygon"}
 }

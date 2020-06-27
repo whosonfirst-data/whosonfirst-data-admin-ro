@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08765,46.546,24.08765,46.546",
-    "geom:latitude":46.546,
-    "geom:longitude":24.08765,
+    "geom:area":0.000002,
+    "geom:area_square_m":13326.943568,
+    "geom:bbox":"24.088163,46.544686,24.090489,46.545743",
+    "geom:latitude":46.545193,
+    "geom:longitude":24.089364,
     "gn:admin1_code":"27",
     "gn:admin2_code":"119386.0",
     "gn:asciiname":"Dalu",
@@ -24,11 +24,14 @@
     "gn:population":8,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.06765,46.526,24.10765,46.566",
+    "lbl:latitude":46.545205,
+    "lbl:longitude":24.089364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.545205,
+    "mps:longitude":24.089364,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dalu"
@@ -36,7 +39,14 @@
     "name:deu_x_preferred":[
         "Dalu"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dalu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679796
+        "gn:id":679796,
+        "ro-ancpi:id":119420
     },
     "wof:country":"RO",
-    "wof:geomhash":"f419c4b3bb16c30d3f02e3671f0edc46",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f3e12536fad9c5b1660eb451c283f112",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +72,13 @@
         }
     ],
     "wof:id":1343328321,
-    "wof:lastmodified":1566609942,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203444,
     "wof:name":"Dalu",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
@@ -70,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08765,
-    46.54600000000001,
-    24.08765,
-    46.54600000000001
+    24.088163,
+    46.544686,
+    24.090489,
+    46.545743
 ],
-  "geometry": {"coordinates":[24.08765,46.54600000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.090489,46.545385],[24.090266,46.544686],[24.088163,46.544967],[24.08865,46.545743],[24.090489,46.545385]]],"type":"Polygon"}
 }

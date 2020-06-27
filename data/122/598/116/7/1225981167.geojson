@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.02493,44.91393,24.02493,44.91393",
-    "geom:latitude":44.91393,
-    "geom:longitude":24.02493,
+    "geom:area":0.000233,
+    "geom:area_square_m":2043644.407774,
+    "geom:bbox":"23.98905,44.902599,24.02933,44.922302",
+    "geom:latitude":44.912042,
+    "geom:longitude":24.013465,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170792.0",
     "gn:asciiname":"Sarulesti",
@@ -25,17 +25,28 @@
     "gn:population":417,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.00493,44.89393,24.04493,44.93393",
+    "lbl:latitude":44.91393,
+    "lbl:longitude":24.02493,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "S\u0103rule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Sarulesti"
+    ],
     "name:und_x_variant":[
         "Gernet",
         "S\u0103rule\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667949
+        "gn:id":667949,
+        "ro-ancpi:id":170809
     },
     "wof:country":"RO",
-    "wof:geomhash":"9b030f73d7bcb26d58500accf8efc153",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dfd877061fcf84f73664d24f51723eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1225981167,
-    "wof:lastmodified":1566611665,
-    "wof:name":"Sarulesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203696,
+    "wof:name":"S\u0103rule\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":417,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.02493,
-    44.91393,
-    24.02493,
-    44.91393
+    23.98905,
+    44.902599,
+    24.02933,
+    44.922302
 ],
-  "geometry": {"coordinates":[24.02493,44.91393],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.01766,44.922302],[24.02933,44.910346],[24.029282,44.910329],[24.026727,44.909451],[24.02275,44.91235],[24.021249,44.91329],[24.01855,44.914254],[24.017653,44.913497],[24.000052,44.90919],[23.999348,44.91109],[24.012935,44.914886],[24.014056,44.916529],[24.013258,44.918326],[24.01155,44.92015],[24.010409,44.919663],[24.009577,44.920643],[24.013671,44.922176],[24.014112,44.921636],[24.01766,44.922302]]],[[[24.010015,44.903909],[24.005567,44.902599],[24.004106,44.90953],[24.006265,44.910229],[24.01978,44.911664],[24.021431,44.908501],[24.018906,44.906754],[24.010015,44.903909]]],[[[23.995992,44.911688],[23.998977,44.910508],[23.998637,44.909912],[23.995765,44.910805],[23.993101,44.910628],[23.989066,44.910267],[23.98905,44.911128],[23.99179,44.911612],[23.994571,44.911292],[23.994752,44.911734],[23.995992,44.911688]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.04114,46.33389,27.04114,46.33389",
-    "geom:latitude":46.33389,
-    "geom:longitude":27.04114,
+    "geom:area":0.000036,
+    "geom:area_square_m":311563.605605,
+    "geom:bbox":"27.016871,46.330059,27.044562,46.334869",
+    "geom:latitude":46.332367,
+    "geom:longitude":27.031064,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24766.0",
     "gn:asciiname":"Rastoaca",
@@ -24,13 +24,52 @@
     "gn:population":64,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.02114,46.31389,27.06114,46.35389",
+    "lbl:latitude":46.33389,
+    "lbl:longitude":27.04114,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Comuna R\u0103stoaca"
+    ],
+    "name:eus_x_preferred":[
+        "R\u0103stoaca"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0103stoaca"
+    ],
+    "name:msa_x_preferred":[
+        "R\u0103stoaca"
+    ],
+    "name:nld_x_preferred":[
+        "R\u0103stoaca"
+    ],
+    "name:por_x_preferred":[
+        "R\u0103stoaca"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103stoaca"
+    ],
+    "name:ron_x_variant":[
+        "Rastoaca",
+        "Comuna R\u0103stoaca"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0420\u0430\u0441\u0442\u043e\u0430\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0441\u0442\u043e\u0430\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u65af\u6258\u963f\u5361\u9109"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +78,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669139
+        "gn:id":669139,
+        "ro-ancpi:id":24828
     },
     "wof:country":"RO",
-    "wof:geomhash":"386ea736a89e62577fa1af4e4ff15f15",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b8629cb4633ab610ad150edcf4b882ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +95,14 @@
         }
     ],
     "wof:id":1276872729,
-    "wof:lastmodified":1566610181,
-    "wof:name":"Rastoaca",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203541,
+    "wof:name":"R\u0103stoaca",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":64,
@@ -64,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.04114,
-    46.33389,
-    27.04114,
-    46.33389
+    27.016871,
+    46.330059,
+    27.044562,
+    46.334869
 ],
-  "geometry": {"coordinates":[27.04114,46.33389],"type":"Point"}
+  "geometry": {"coordinates":[[[27.017645,46.330305],[27.016871,46.3313],[27.018636,46.331823],[27.022148,46.331874],[27.025467,46.33212],[27.027866,46.332529],[27.029976,46.333058],[27.031451,46.333213],[27.032253,46.333741],[27.032847,46.333336],[27.03853,46.334014],[27.037919,46.334647],[27.039311,46.334869],[27.040263,46.334152],[27.042095,46.3343],[27.043517,46.333508],[27.044562,46.333557],[27.044492,46.332553],[27.0434,46.332563],[27.043397,46.332923],[27.042003,46.33314],[27.037945,46.332806],[27.034756,46.330908],[27.033788,46.331636],[27.035403,46.332612],[27.030899,46.332049],[27.028344,46.331304],[27.024826,46.330763],[27.018777,46.330613],[27.018489,46.330496],[27.01862,46.330302],[27.017852,46.330059],[27.017645,46.330305]]],"type":"Polygon"}
 }

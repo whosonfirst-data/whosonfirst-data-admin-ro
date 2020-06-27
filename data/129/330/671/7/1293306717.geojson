@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.26362,46.26334,23.26362,46.26334",
-    "geom:latitude":46.26334,
-    "geom:longitude":23.26362,
+    "geom:area":0.000043,
+    "geom:area_square_m":368677.64473,
+    "geom:bbox":"23.259592,46.262093,23.280198,46.266997",
+    "geom:latitude":46.264667,
+    "geom:longitude":23.272735,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5826.0",
     "gn:asciiname":"Valea Tupilor",
@@ -24,13 +24,26 @@
     "gn:population":69,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.24362,46.24334,23.28362,46.28334",
+    "lbl:latitude":46.264939,
+    "lbl:longitude":23.27258,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.264939,
+    "mps:longitude":23.27258,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea \u0162upilor"
+    ],
+    "name:ron_x_variant":[
+        "Valea Tupilor"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663352
+        "gn:id":663352,
+        "ro-ancpi:id":6039
     },
     "wof:country":"RO",
-    "wof:geomhash":"cfecd5282735ec3fc15917269d37e8ea",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"97db19989360b81494aeb098d2722990",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293306717,
-    "wof:lastmodified":1566610036,
-    "wof:name":"Valea Tupilor",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203751,
+    "wof:name":"Valea \u0162upilor",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":69,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.26362,
-    46.26334,
-    23.26362,
-    46.26334
+    23.259592,
+    46.262093,
+    23.280198,
+    46.266997
 ],
-  "geometry": {"coordinates":[23.26362,46.26334],"type":"Point"}
+  "geometry": {"coordinates":[[[23.259919,46.263717],[23.259592,46.264221],[23.26012,46.264503],[23.260974,46.264781],[23.264738,46.265083],[23.26592,46.265258],[23.266555,46.265297],[23.266712,46.26478],[23.267271,46.264711],[23.268433,46.265051],[23.27002,46.26584],[23.270735,46.266468],[23.27339,46.266997],[23.274036,46.266674],[23.273942,46.266131],[23.277555,46.266424],[23.279035,46.266672],[23.279641,46.266443],[23.280198,46.265062],[23.279557,46.264897],[23.27838,46.263517],[23.278365,46.263115],[23.279039,46.262782],[23.277492,46.262093],[23.276405,46.262498],[23.273949,46.262872],[23.271281,46.263204],[23.270684,46.264214],[23.270301,46.264717],[23.268578,46.264294],[23.266641,46.264123],[23.266243,46.264176],[23.266187,46.263274],[23.264715,46.26333],[23.264704,46.264239],[23.263688,46.264431],[23.262904,46.264204],[23.262022,46.263946],[23.260992,46.263881],[23.259919,46.263717]]],"type":"Polygon"}
 }

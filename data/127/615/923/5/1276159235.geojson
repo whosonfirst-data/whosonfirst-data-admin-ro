@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.41667,45.3,24.41667,45.3",
-    "geom:latitude":45.3,
-    "geom:longitude":24.41667,
+    "geom:area":0.000066,
+    "geom:area_square_m":576121.04754,
+    "geom:bbox":"24.417625,45.282902,24.427779,45.305559",
+    "geom:latitude":45.293061,
+    "geom:longitude":24.422558,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168675.0",
     "gn:asciiname":"Dangesti",
@@ -25,17 +25,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.39667,45.28,24.43667,45.32",
+    "lbl:latitude":45.293331,
+    "lbl:longitude":24.423827,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.293331,
+    "mps:longitude":24.423827,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "D\u00e2nge\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Dangesti"
+    ],
     "name:und_x_variant":[
         "D\u0103nge\u015fti",
         "D\u00eenge\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679349
+        "gn:id":679349,
+        "ro-ancpi:id":168719
     },
     "wof:country":"RO",
-    "wof:geomhash":"56125a842c9b466ca9c61de7c40b4d07",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"611279205f01c090704d44830b62deae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +73,14 @@
         }
     ],
     "wof:id":1276159235,
-    "wof:lastmodified":1566610237,
-    "wof:name":"Dangesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
+    "wof:name":"D\u00e2nge\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.41667,
-    45.3,
-    24.41667,
-    45.3
+    24.417625,
+    45.282902,
+    24.427779,
+    45.305559
 ],
-  "geometry": {"coordinates":[24.41667,45.3],"type":"Point"}
+  "geometry": {"coordinates":[[[24.423832,45.288768],[24.423979,45.286816],[24.424856,45.285483],[24.424881,45.284284],[24.424929,45.28327],[24.42433,45.283087],[24.423489,45.282902],[24.422803,45.283019],[24.422857,45.284712],[24.421919,45.285212],[24.421767,45.286365],[24.419203,45.286376],[24.419194,45.287281],[24.422256,45.287208],[24.422076,45.287931],[24.419722,45.288694],[24.420662,45.289801],[24.420879,45.290302],[24.420133,45.290502],[24.420125,45.291293],[24.421411,45.291449],[24.421551,45.292854],[24.420904,45.294785],[24.42286,45.296015],[24.422745,45.297187],[24.420999,45.299275],[24.420196,45.300281],[24.418536,45.301026],[24.417686,45.301725],[24.417625,45.302681],[24.418028,45.303251],[24.417941,45.303864],[24.417979,45.305559],[24.419368,45.305525],[24.419766,45.304472],[24.41926,45.302269],[24.419454,45.301862],[24.42109,45.301052],[24.422386,45.299978],[24.42414,45.297748],[24.424538,45.296183],[24.427227,45.293263],[24.427779,45.292713],[24.425948,45.292118],[24.424635,45.290301],[24.423832,45.288768]]],"type":"Polygon"}
 }

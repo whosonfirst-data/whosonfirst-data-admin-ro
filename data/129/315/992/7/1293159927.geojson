@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.27618,45.97338,24.27618,45.97338",
-    "geom:latitude":45.97338,
-    "geom:longitude":24.27618,
+    "geom:area":0.000095,
+    "geom:area_square_m":812243.31857,
+    "geom:bbox":"24.266449,45.966279,24.288429,45.979026",
+    "geom:latitude":45.973709,
+    "geom:longitude":24.276378,
     "gn:admin1_code":"33",
     "gn:admin2_code":"145667",
     "gn:asciiname":"Buia",
@@ -25,17 +25,25 @@
     "gn:population":664,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.25618,45.95338,24.29618,45.99338",
+    "lbl:latitude":45.97338,
+    "lbl:longitude":24.27618,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Buia"
+    ],
     "name:und_x_variant":[
         "Bina",
         "Buia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683364
+        "gn:id":683364,
+        "ro-ancpi:id":145694
     },
     "wof:country":"RO",
-    "wof:geomhash":"c5de7a4b551e0746f16f5a1a06dc772c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"90be4c5a4308b03474061e80b152a808",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1293159927,
-    "wof:lastmodified":1566610071,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203653,
     "wof:name":"Buia",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.27618,
-    45.97338,
-    24.27618,
-    45.97338
+    24.266449,
+    45.966279,
+    24.288429,
+    45.979026
 ],
-  "geometry": {"coordinates":[24.27618,45.97338],"type":"Point"}
+  "geometry": {"coordinates":[[[24.288411,45.97409],[24.288429,45.972621],[24.286858,45.972658],[24.280188,45.973947],[24.277831,45.973559],[24.275644,45.970034],[24.27373,45.97018],[24.271577,45.966279],[24.269874,45.966607],[24.270668,45.968872],[24.27034,45.969119],[24.268052,45.968152],[24.266449,45.969758],[24.271415,45.972741],[24.272556,45.973327],[24.273601,45.974761],[24.273914,45.976709],[24.272121,45.978083],[24.274154,45.978981],[24.277397,45.979026],[24.279095,45.978619],[24.280284,45.978356],[24.280682,45.977658],[24.284295,45.976528],[24.283636,45.974829],[24.288411,45.97409]]],"type":"Polygon"}
 }

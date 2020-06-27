@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.58448,47.35715,27.58448,47.35715",
-    "geom:latitude":47.35715,
-    "geom:longitude":27.58448,
+    "geom:area":0.000053,
+    "geom:area_square_m":444609.633319,
+    "geom:bbox":"27.577889,47.352767,27.587491,47.361911",
+    "geom:latitude":47.356953,
+    "geom:longitude":27.582845,
     "gn:admin1_code":"23",
     "gn:admin2_code":"100004.0",
     "gn:asciiname":"Sendreni",
@@ -24,33 +24,74 @@
     "gn:population":259,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.56448,47.33715,27.60448,47.37715",
+    "lbl:latitude":47.35715,
+    "lbl:longitude":27.58448,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "\u015eendreni"
+    ],
+    "name:por_x_preferred":[
+        "\u015eendreni"
+    ],
+    "name:ron_x_preferred":[
+        "\u015eendreni"
+    ],
+    "name:ron_x_variant":[
+        "Sendreni",
+        "\u0218endreni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043d\u0434\u0440\u0435\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Sendreni"
+    ],
+    "name:vol_x_preferred":[
+        "\u015eendreni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687769
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667401
+        "gn:id":667401,
+        "ro-ancpi:id":100077
     },
     "wof:country":"RO",
-    "wof:geomhash":"36a5939fb51a0f520c85c076a70dbd85",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a377e17a4babad877677526e846139dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209172321
+            "locality_id":1209172321,
+            "region_id":85687769
         }
     ],
     "wof:id":1209172321,
-    "wof:lastmodified":1566610392,
-    "wof:name":"Sendreni",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203375,
+    "wof:name":"\u015eendreni",
+    "wof:parent_id":85687769,
     "wof:placetype":"locality",
     "wof:population":259,
     "wof:population_rank":2,
@@ -60,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.58448,
-    47.35715,
-    27.58448,
-    47.35715
+    27.577889,
+    47.352767,
+    27.587491,
+    47.361911
 ],
-  "geometry": {"coordinates":[27.58448,47.35715],"type":"Point"}
+  "geometry": {"coordinates":[[[27.586526,47.355136],[27.586559,47.354153],[27.586785,47.353349],[27.583338,47.352767],[27.583171,47.353643],[27.583078,47.353966],[27.583076,47.354047],[27.583116,47.354107],[27.583072,47.354128],[27.580461,47.353331],[27.579051,47.355165],[27.578771,47.355156],[27.57825,47.355947],[27.579593,47.356358],[27.578543,47.357765],[27.577889,47.358358],[27.578193,47.358566],[27.57915,47.359209],[27.57989,47.359703],[27.581204,47.360353],[27.582073,47.361014],[27.583267,47.361911],[27.583493,47.361871],[27.583974,47.361481],[27.584213,47.361107],[27.584674,47.360612],[27.584825,47.359913],[27.584976,47.359567],[27.585291,47.359096],[27.585709,47.358602],[27.586104,47.358424],[27.587254,47.357406],[27.587491,47.357156],[27.587106,47.356498],[27.586877,47.356001],[27.586532,47.355405],[27.586526,47.355136]]],"type":"Polygon"}
 }

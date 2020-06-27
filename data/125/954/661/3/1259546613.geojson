@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.63626,45.68413,27.63626,45.68413",
-    "geom:latitude":45.68413,
-    "geom:longitude":27.63626,
+    "geom:area":0.000094,
+    "geom:area_square_m":808035.694882,
+    "geom:bbox":"27.630733,45.674619,27.642711,45.688798",
+    "geom:latitude":45.682598,
+    "geom:longitude":27.636877,
     "gn:admin1_code":"18",
     "gn:admin2_code":"76558.0",
     "gn:asciiname":"Calmatui",
@@ -24,13 +24,24 @@
     "gn:population":637,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.61626,45.66413,27.65626,45.70413",
+    "lbl:latitude":45.68413,
+    "lbl:longitude":27.63626,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "C\u0103lm\u0103\u0163ui"
+    ],
+    "name:ron_x_variant":[
+        "Calmatui"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682934
+        "gn:id":682934,
+        "ro-ancpi:id":76576
     },
     "wof:country":"RO",
-    "wof:geomhash":"243d814437e57caf569d8d563cc6e82e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ed07ae1c022f0463b22a1c42196e8a83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1259546613,
-    "wof:lastmodified":1566611535,
-    "wof:name":"Calmatui",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203486,
+    "wof:name":"C\u0103lm\u0103\u0163ui",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
     "wof:population":637,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.63626,
-    45.68413,
-    27.63626,
-    45.68413
+    27.630733,
+    45.674619,
+    27.642711,
+    45.688798
 ],
-  "geometry": {"coordinates":[27.63626,45.68413],"type":"Point"}
+  "geometry": {"coordinates":[[[27.64081,45.688135],[27.640203,45.686928],[27.639981,45.686933],[27.639822,45.686707],[27.640057,45.686302],[27.640231,45.684602],[27.639987,45.6846],[27.639981,45.683789],[27.641882,45.683745],[27.641006,45.681973],[27.640789,45.681852],[27.640121,45.680917],[27.640242,45.680574],[27.640272,45.67941],[27.640962,45.679491],[27.641157,45.679138],[27.640571,45.679039],[27.642574,45.676212],[27.642711,45.674619],[27.640763,45.675012],[27.63932,45.67512],[27.637964,45.675284],[27.637563,45.677346],[27.637161,45.678722],[27.637098,45.680293],[27.631323,45.680409],[27.631285,45.681219],[27.630857,45.682318],[27.630733,45.683018],[27.630857,45.683885],[27.631047,45.684817],[27.631214,45.68527],[27.63144,45.686069],[27.632355,45.686004],[27.632967,45.687473],[27.633236,45.688085],[27.634718,45.687853],[27.634909,45.688798],[27.64081,45.688135]]],"type":"Polygon"}
 }

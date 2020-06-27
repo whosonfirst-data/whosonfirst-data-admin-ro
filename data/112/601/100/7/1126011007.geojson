@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.73333,45.96667,24.73333,45.96667",
-    "geom:latitude":45.96667,
-    "geom:longitude":24.73333,
+    "geom:area":0.000082,
+    "geom:area_square_m":706510.768524,
+    "geom:bbox":"24.712454,45.960988,24.737833,45.968185",
+    "geom:latitude":45.964819,
+    "geom:longitude":24.725065,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":1256,
     "iso:country":"RO",
-    "lbl:bbox":"24.71333,45.94667,24.75333,45.98667",
-    "lbl:latitude":45.96667,
-    "lbl:longitude":24.73333,
+    "lbl:latitude":45.964893,
+    "lbl:longitude":24.723142,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
+    "mps:latitude":45.964893,
+    "mps:longitude":24.723142,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0631\u063a\u064a\u0646\u062f\u064a\u0627\u0644"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0433\u0445\u0438\u043d\u0434\u0435\u0430\u043b"
     ],
@@ -85,8 +89,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":875585,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -102,11 +109,15 @@
         "gn:id":673566,
         "gp:id":875585,
         "qs_pg:id":127438,
+        "ro-ancpi:id":144973,
         "wd:id":"Q1179236"
     },
     "wof:country":"RO",
     "wof:created":1497300275,
-    "wof:geomhash":"59d43c5b791f4013e13c36a13511cfa2",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"d657aa5d6ccb4e4259db523ca878606e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -116,7 +127,13 @@
         }
     ],
     "wof:id":1126011007,
-    "wof:lastmodified":1566611372,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203658,
     "wof:name":"Merghindeal",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -128,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.73333,
-    45.96667,
-    24.73333,
-    45.96667
+    24.712454,
+    45.960988,
+    24.737833,
+    45.968185
 ],
-  "geometry": {"coordinates":[24.73333,45.96667],"type":"Point"}
+  "geometry": {"coordinates":[[[24.723807,45.96755],[24.725672,45.967019],[24.730323,45.965885],[24.73206,45.9654],[24.733286,45.96499],[24.734833,45.963948],[24.737833,45.963296],[24.736944,45.961436],[24.736248,45.961758],[24.735788,45.960988],[24.734952,45.961019],[24.735057,45.962219],[24.732449,45.963213],[24.731613,45.962047],[24.727802,45.962409],[24.7246,45.962721],[24.724175,45.961764],[24.718533,45.963721],[24.718988,45.964899],[24.715697,45.965655],[24.712454,45.966599],[24.712766,45.968072],[24.718978,45.967036],[24.719483,45.96745],[24.720114,45.968185],[24.723807,45.96755]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.95365,46.56125,25.95365,46.56125",
-    "geom:latitude":46.56125,
-    "geom:longitude":25.95365,
+    "geom:area":0.000022,
+    "geom:area_square_m":187338.333828,
+    "geom:bbox":"25.935265,46.558915,25.954729,46.56372",
+    "geom:latitude":46.5618,
+    "geom:longitude":25.945974,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84656.0",
     "gn:asciiname":"Valea Intunecoasa",
@@ -25,19 +25,32 @@
     "gn:population":240,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.93365,46.54125,25.97365,46.58125",
+    "lbl:latitude":46.562056,
+    "lbl:longitude":25.946108,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.562056,
+    "mps:longitude":25.946108,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea \u00centunecoas\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Intunecoasa"
+    ],
     "name:und_x_variant":[
         "Intunecoasa",
         "S\u00f6t\u00e8pataka",
         "Setelpatak",
         "Valea \u00centunecoas\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663725
+        "gn:id":663725,
+        "ro-ancpi:id":84736
     },
     "wof:country":"RO",
-    "wof:geomhash":"10cf40fa89452446e9930861168fdc4f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fda2c4bc72de6d4cbd9749484bf78f3b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +76,14 @@
         }
     ],
     "wof:id":1343932305,
-    "wof:lastmodified":1566609949,
-    "wof:name":"Valea Intunecoasa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203389,
+    "wof:name":"Valea \u00centunecoas\u0103",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":240,
@@ -71,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.95365,
-    46.56125,
-    25.95365,
-    46.56125
+    25.935265,
+    46.558915,
+    25.954729,
+    46.56372
 ],
-  "geometry": {"coordinates":[25.95365,46.56125],"type":"Point"}
+  "geometry": {"coordinates":[[[25.954729,46.559603],[25.953829,46.558915],[25.94801,46.561226],[25.947187,46.561498],[25.946888,46.561221],[25.93979,46.562436],[25.935563,46.563089],[25.935274,46.563373],[25.935265,46.563516],[25.935842,46.56372],[25.948517,46.562532],[25.948589,46.56237],[25.94849,46.562113],[25.948711,46.562049],[25.948747,46.562092],[25.951743,46.561272],[25.95208,46.561451],[25.952679,46.561221],[25.952863,46.560767],[25.953374,46.560342],[25.954729,46.559603]]],"type":"Polygon"}
 }

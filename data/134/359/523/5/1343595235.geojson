@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.03299,44.80575,24.03299,44.80575",
-    "geom:latitude":44.80575,
-    "geom:longitude":24.03299,
+    "geom:area":0.000048,
+    "geom:area_square_m":422099.175902,
+    "geom:bbox":"24.029408,44.800774,24.04529,44.807883",
+    "geom:latitude":44.804492,
+    "geom:longitude":24.036112,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173132",
     "gn:asciiname":"Barcanesti",
@@ -24,13 +24,26 @@
     "gn:population":184,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.01299,44.78575,24.05299,44.82575",
+    "lbl:latitude":44.806472,
+    "lbl:longitude":24.035992,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.806472,
+    "mps:longitude":24.035992,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "B\u0103rc\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Barcanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685355
+        "gn:id":685355,
+        "ro-ancpi:id":173150
     },
     "wof:country":"RO",
-    "wof:geomhash":"17b7d4f50b8c51f719f9633992621f41",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8df3aa007e1d6d26f2e54d59498fb8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1343595235,
-    "wof:lastmodified":1566609936,
-    "wof:name":"Barcanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203680,
+    "wof:name":"B\u0103rc\u0103ne\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":184,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.03299,
-    44.80575,
-    24.03299,
-    44.80575
+    24.029408,
+    44.800774,
+    24.04529,
+    44.807883
 ],
-  "geometry": {"coordinates":[24.03299,44.80575],"type":"Point"}
+  "geometry": {"coordinates":[[[24.033653,44.802025],[24.030706,44.80246],[24.02988,44.802713],[24.029408,44.802857],[24.030836,44.80749],[24.033313,44.807307],[24.032881,44.805287],[24.034445,44.806091],[24.034989,44.807883],[24.041356,44.806686],[24.041727,44.805949],[24.040205,44.804762],[24.03618,44.805315],[24.034076,44.804582],[24.032949,44.803398],[24.033992,44.803177],[24.034447,44.80387],[24.036308,44.804065],[24.040386,44.802542],[24.042255,44.802252],[24.043525,44.803513],[24.04529,44.803043],[24.042531,44.800774],[24.039471,44.801513],[24.03633,44.802763],[24.034392,44.802849],[24.033653,44.802025]]],"type":"Polygon"}
 }

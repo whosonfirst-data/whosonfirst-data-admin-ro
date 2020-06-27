@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.22829,45.26133,26.22829,45.26133",
-    "geom:latitude":45.26133,
-    "geom:longitude":26.22829,
+    "geom:area":0.000007,
+    "geom:area_square_m":58077.804572,
+    "geom:bbox":"26.228638,45.261236,26.235591,45.263274",
+    "geom:latitude":45.26214,
+    "geom:longitude":26.23248,
     "gn:admin1_code":"11",
     "gn:admin2_code":"45959.0",
     "gn:asciiname":"Zeletin",
@@ -24,43 +24,63 @@
     "gn:population":218,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.20829,45.24133,26.24829,45.28133",
+    "lbl:latitude":45.262005,
+    "lbl:longitude":26.233059,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.262005,
+    "mps:longitude":26.233059,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Zeletin"
+    ],
+    "name:ron_x_preferred":[
         "Zeletin"
     ],
     "name:swe_x_preferred":[
         "Zeletin"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
-        85687661
+        85687667
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662228
+        "gn:id":662228,
+        "ro-ancpi:id":46000
     },
     "wof:country":"RO",
-    "wof:geomhash":"6e517dc81c1402bd0cd14b830830e180",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"057866019945f174a3c89b0309c3aad9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633745,
             "locality_id":1226627511,
-            "region_id":85687661
+            "region_id":85687667
         }
     ],
     "wof:id":1226627511,
-    "wof:lastmodified":1566611700,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203609,
     "wof:name":"Zeletin",
-    "wof:parent_id":85687661,
+    "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":218,
     "wof:population_rank":2,
@@ -70,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.22829,
-    45.26133,
-    26.22829,
-    45.26133
+    26.228638,
+    45.261236,
+    26.235591,
+    45.263274
 ],
-  "geometry": {"coordinates":[26.22829,45.26133],"type":"Point"}
+  "geometry": {"coordinates":[[[26.234928,45.262237],[26.234544,45.26204],[26.234349,45.261895],[26.233441,45.261374],[26.233056,45.261236],[26.232674,45.261301],[26.23236,45.261679],[26.231809,45.261638],[26.231223,45.261554],[26.230801,45.261424],[26.230519,45.261334],[26.230318,45.261332],[26.230193,45.261475],[26.230053,45.261515],[26.229768,45.261385],[26.229478,45.261317],[26.229338,45.261359],[26.229027,45.26158],[26.228638,45.261912],[26.22901,45.262026],[26.229106,45.262092],[26.229163,45.26211],[26.229271,45.261974],[26.229596,45.262091],[26.229886,45.262173],[26.230167,45.262268],[26.230454,45.262359],[26.23058,45.26241],[26.230684,45.262281],[26.230789,45.262173],[26.231561,45.262449],[26.232191,45.262689],[26.232303,45.262742],[26.233072,45.262774],[26.233504,45.262872],[26.234123,45.263064],[26.234495,45.263186],[26.234755,45.263266],[26.23488,45.263274],[26.235136,45.263165],[26.235393,45.262787],[26.235504,45.262636],[26.235591,45.26246],[26.234928,45.262237]]],"type":"Polygon"}
 }

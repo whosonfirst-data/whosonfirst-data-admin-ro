@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.52318,45.14066,27.52318,45.14066",
-    "geom:latitude":45.14066,
-    "geom:longitude":27.52318,
+    "geom:area":0.000064,
+    "geom:area_square_m":560700.285887,
+    "geom:bbox":"27.504277,45.132697,27.526955,45.14241",
+    "geom:latitude":45.137477,
+    "geom:longitude":27.516405,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43331.0",
     "gn:asciiname":"Gara Ianca",
@@ -25,18 +25,26 @@
     "gn:population":130,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.50318,45.12066,27.54318,45.16066",
+    "lbl:latitude":45.14066,
+    "lbl:longitude":27.52318,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Gara Ianca"
+    ],
     "name:und_x_variant":[
         "Ianca",
         "Ianca-Sat",
         "Gara Ianca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677596
+        "gn:id":677596,
+        "ro-ancpi:id":43368
     },
     "wof:country":"RO",
-    "wof:geomhash":"a61995c4930ff15fe86fab11da7a1b1e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8f5761a207bacece8a0e13dee1e52b61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +70,13 @@
         }
     ],
     "wof:id":1293584775,
-    "wof:lastmodified":1566610101,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203772,
     "wof:name":"Gara Ianca",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
@@ -70,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.52318,
-    45.14066,
-    27.52318,
-    45.14066
+    27.504277,
+    45.132697,
+    27.526955,
+    45.14241
 ],
-  "geometry": {"coordinates":[27.52318,45.14066],"type":"Point"}
+  "geometry": {"coordinates":[[[27.525951,45.139281],[27.523704,45.138488],[27.525933,45.135626],[27.525071,45.135329],[27.524743,45.135766],[27.522489,45.138818],[27.518386,45.137522],[27.51861,45.136783],[27.516866,45.136987],[27.516233,45.134308],[27.514584,45.134644],[27.515013,45.135235],[27.514118,45.135468],[27.513127,45.135016],[27.512254,45.134736],[27.510877,45.134292],[27.505837,45.132697],[27.504277,45.134541],[27.508835,45.136099],[27.514596,45.138072],[27.512788,45.138766],[27.516317,45.139898],[27.517019,45.139345],[27.520388,45.140527],[27.525934,45.14241],[27.526826,45.141616],[27.526076,45.14134],[27.526955,45.140262],[27.525676,45.139872],[27.525951,45.139281]]],"type":"Polygon"}
 }

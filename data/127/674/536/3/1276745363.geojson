@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.42337,45.11733,25.42337,45.11733",
-    "geom:latitude":45.11733,
-    "geom:longitude":25.42337,
+    "geom:area":0.000101,
+    "geom:area_square_m":878454.29247,
+    "geom:bbox":"25.418525,45.109255,25.430906,45.12713",
+    "geom:latitude":45.118814,
+    "geom:longitude":25.425168,
     "gn:admin1_code":"16",
     "gn:admin2_code":"65609",
     "gn:asciiname":"Berevoesti",
@@ -24,13 +24,33 @@
     "gn:population":673,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.40337,45.09733,25.44337,45.13733",
+    "lbl:latitude":45.11733,
+    "lbl:longitude":25.42337,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u0641\u0648\u064a\u0634\u062a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0432\u043e\u0435\u0448\u0442\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Berevoe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Berevoesti"
+    ],
+    "name:vie_x_preferred":[
+        "Berevoesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685022
+        "gn:id":685022,
+        "ro-ancpi:id":65627
     },
     "wof:country":"RO",
-    "wof:geomhash":"f51a165d1967193acb5228de54e23497",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7a80241f4facc86dce1ad7ff22d4dfc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +76,14 @@
         }
     ],
     "wof:id":1276745363,
-    "wof:lastmodified":1566610180,
-    "wof:name":"Berevoesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203720,
+    "wof:name":"Berevoe\u015fti",
     "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":673,
@@ -64,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.42337,
-    45.11733,
-    25.42337,
-    45.11733
+    25.418525,
+    45.109255,
+    25.430906,
+    45.12713
 ],
-  "geometry": {"coordinates":[25.42337,45.11733],"type":"Point"}
+  "geometry": {"coordinates":[[[25.427996,45.12713],[25.428772,45.126918],[25.428865,45.126051],[25.428729,45.123541],[25.429741,45.123569],[25.429252,45.122738],[25.429117,45.122298],[25.429409,45.121833],[25.42957,45.121575],[25.429924,45.120711],[25.429917,45.120261],[25.430867,45.119709],[25.430906,45.118809],[25.4304,45.11883],[25.428878,45.117062],[25.428595,45.115979],[25.427759,45.115369],[25.426561,45.115508],[25.424996,45.115155],[25.426088,45.112044],[25.425435,45.111765],[25.425745,45.110519],[25.424308,45.110386],[25.424659,45.109373],[25.422979,45.109255],[25.422306,45.112211],[25.422858,45.112583],[25.423083,45.113099],[25.4227,45.114697],[25.420803,45.114565],[25.419607,45.115919],[25.419246,45.116015],[25.418525,45.116206],[25.419676,45.117897],[25.421186,45.119887],[25.422694,45.121632],[25.424203,45.123459],[25.424042,45.124966],[25.425375,45.126305],[25.426437,45.126884],[25.42639,45.126776],[25.426592,45.126875],[25.426779,45.126995],[25.427188,45.126959],[25.427996,45.12713]]],"type":"Polygon"}
 }

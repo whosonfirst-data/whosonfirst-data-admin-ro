@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0831348125,44.4219148413,26.0831348125,44.4219148413",
+    "geom:bbox":"26.083135,44.421915,26.083135,44.421915",
     "geom:latitude":44.421915,
     "geom:longitude":26.083135,
     "iso:country":"RO",
@@ -44,8 +44,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -54,7 +54,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363216,
-    "wof:geomhash":"cf087112db864eb699ba20853e4c516f",
+    "wof:geomhash":"6699a1ab5171eddc328890cc6110243c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1108942613,
-    "wof:lastmodified":1566610513,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208078,
     "wof:name":"13 Septembrie",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.08313481246093,
-    44.42191484132117,
-    26.08313481246093,
-    44.42191484132117
+    26.083135,
+    44.421915,
+    26.083135,
+    44.421915
 ],
-  "geometry": {"coordinates":[26.08313481246093,44.42191484132117],"type":"Point"}
+  "geometry": {"coordinates":[26.083135,44.421915],"type":"Point"}
 }

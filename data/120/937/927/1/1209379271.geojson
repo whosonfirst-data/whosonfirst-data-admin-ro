@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.84474,45.51596,22.84474,45.51596",
-    "geom:latitude":45.51596,
-    "geom:longitude":22.84474,
+    "geom:area":0.000019,
+    "geom:area_square_m":166294.381624,
+    "geom:bbox":"22.840032,45.512766,22.845101,45.520625",
+    "geom:latitude":45.516629,
+    "geom:longitude":22.843024,
     "gn:admin1_code":"21",
     "gn:admin2_code":"90878.0",
     "gn:asciiname":"Ostrovu Mic",
@@ -24,33 +24,57 @@
     "gn:population":118,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.82474,45.49596,22.86474,45.53596",
+    "lbl:latitude":45.51605,
+    "lbl:longitude":22.842966,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.51605,
+    "mps:longitude":22.842966,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ostrovu Mic"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687671
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671613
+        "gn:id":671613,
+        "ro-ancpi:id":90949
     },
     "wof:country":"RO",
-    "wof:geomhash":"ec9e564658484474c5f589a8e0609dfc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d6d30cc77ca94a613537a7ff9c9ba2f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209379271
+            "locality_id":1209379271,
+            "region_id":85687671
         }
     ],
     "wof:id":1209379271,
-    "wof:lastmodified":1566610302,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203797,
     "wof:name":"Ostrovu Mic",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":118,
     "wof:population_rank":1,
@@ -60,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.84474,
-    45.51596,
-    22.84474,
-    45.51596
+    22.840032,
+    45.512766,
+    22.845101,
+    45.520625
 ],
-  "geometry": {"coordinates":[22.84474,45.51596],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.845101,45.520625],[22.844955,45.518653],[22.843926,45.51747],[22.843918,45.517394],[22.844137,45.516585],[22.844348,45.515906],[22.844378,45.515522],[22.844363,45.515321],[22.844848,45.515234],[22.844796,45.514708],[22.844368,45.514667],[22.844137,45.514654],[22.843891,45.51499],[22.843352,45.51445],[22.843357,45.514133],[22.843524,45.514035],[22.843216,45.513648],[22.843154,45.513343],[22.842677,45.513427],[22.842163,45.512766],[22.840032,45.513439],[22.841039,45.514296],[22.84133,45.514941],[22.841612,45.515679],[22.841924,45.517117],[22.841954,45.517205],[22.841522,45.517257],[22.841608,45.517636],[22.842082,45.517616],[22.842213,45.517681],[22.842559,45.519375],[22.842866,45.520565],[22.84483,45.520598],[22.845101,45.520625]]],[[[22.844575,45.513354],[22.844027,45.513332],[22.843942,45.51378],[22.84462,45.513782],[22.84469,45.513368],[22.844575,45.513354]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.07947,46.33609,23.07947,46.33609",
-    "geom:latitude":46.33609,
-    "geom:longitude":23.07947,
+    "geom:area":0.000025,
+    "geom:area_square_m":215329.221427,
+    "geom:bbox":"23.067703,46.332455,23.089485,46.337459",
+    "geom:latitude":46.334969,
+    "geom:longitude":23.07534,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1455.0",
     "gn:asciiname":"Furduiesti",
@@ -24,33 +24,60 @@
     "gn:population":96,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.05947,46.31609,23.09947,46.35609",
+    "lbl:latitude":46.335889,
+    "lbl:longitude":23.073057,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.335889,
+    "mps:longitude":23.073057,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Furduie\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Furduiesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677763
+        "gn:id":677763,
+        "ro-ancpi:id":1589
     },
     "wof:country":"RO",
-    "wof:geomhash":"420a28a6af54238884da425800f110af",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5fdc00fcfb1ac7e070cebef8c11bbbaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209332453
+            "locality_id":1209332453,
+            "region_id":85687697
         }
     ],
     "wof:id":1209332453,
-    "wof:lastmodified":1566610369,
-    "wof:name":"Furduiesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203756,
+    "wof:name":"Furduie\u015fti",
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":96,
     "wof:population_rank":1,
@@ -60,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.07947,
-    46.33609000000001,
-    23.07947,
-    46.33609000000001
+    23.067703,
+    46.332455,
+    23.089485,
+    46.337459
 ],
-  "geometry": {"coordinates":[23.07947,46.33609000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.074853,46.335787],[23.07532,46.33496],[23.077031,46.335209],[23.077529,46.336158],[23.078997,46.335477],[23.080188,46.335409],[23.080403,46.334134],[23.080337,46.333589],[23.079783,46.333252],[23.078616,46.334221],[23.07412,46.334072],[23.072128,46.334553],[23.071528,46.334117],[23.069698,46.333853],[23.067703,46.334787],[23.068882,46.335689],[23.069652,46.33568],[23.07166,46.336317],[23.072155,46.33742],[23.073375,46.337459],[23.074197,46.336719],[23.074853,46.335787]]],[[[23.089485,46.333095],[23.089018,46.332455],[23.087583,46.332932],[23.086459,46.332932],[23.086554,46.333707],[23.088765,46.333627],[23.089485,46.333095]]]],"type":"MultiPolygon"}
 }

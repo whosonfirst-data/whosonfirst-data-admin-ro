@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0488883505,44.4797209279,26.0488883505,44.4797209279",
+    "geom:bbox":"26.048888,44.479721,26.048888,44.479721",
     "geom:latitude":44.479721,
     "geom:longitude":26.048888,
     "iso:country":"RO",
@@ -26,15 +26,15 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"RO",
     "wof:created":1491363201,
-    "wof:geomhash":"a30562f0418a92c73c1dccd382e78c3c",
+    "wof:geomhash":"cb9d650acc6238869e1a61e14c178721",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -45,7 +45,13 @@
         }
     ],
     "wof:id":1108942591,
-    "wof:lastmodified":1566610512,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208078,
     "wof:name":"Pajura",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -55,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.04888835052764,
-    44.47972092786445,
-    26.04888835052764,
-    44.47972092786445
+    26.048888,
+    44.479721,
+    26.048888,
+    44.479721
 ],
-  "geometry": {"coordinates":[26.04888835052764,44.47972092786445],"type":"Point"}
+  "geometry": {"coordinates":[26.048888,44.479721],"type":"Point"}
 }

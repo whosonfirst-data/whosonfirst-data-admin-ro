@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.44307,46.4093,26.44307,46.4093",
-    "geom:latitude":46.4093,
-    "geom:longitude":26.44307,
+    "geom:area":0.000016,
+    "geom:area_square_m":139501.525116,
+    "geom:bbox":"26.44748,46.400787,26.457667,46.406988",
+    "geom:latitude":46.403858,
+    "geom:longitude":26.452531,
     "gn:admin1_code":"04",
     "gn:admin2_code":"20821.0",
     "gn:asciiname":"Podei",
@@ -24,13 +24,23 @@
     "gn:population":596,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.42307,46.3893,26.46307,46.4293",
+    "lbl:latitude":46.402783,
+    "lbl:longitude":26.454151,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.402783,
+    "mps:longitude":26.454151,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Podei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670340
+        "gn:id":670340,
+        "ro-ancpi:id":20849
     },
     "wof:country":"RO",
-    "wof:geomhash":"fd911efe84ba23ef827cbe2f7303ad0d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fee2d4a16c82aaca0ce6b70d64ad699f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1225944521,
-    "wof:lastmodified":1566611606,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203553,
     "wof:name":"Podei",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.44307,
-    46.4093,
-    26.44307,
-    46.4093
+    26.44748,
+    46.400787,
+    26.457667,
+    46.406988
 ],
-  "geometry": {"coordinates":[26.44307,46.4093],"type":"Point"}
+  "geometry": {"coordinates":[[[26.451549,46.404553],[26.453789,46.403754],[26.455063,46.403775],[26.456429,46.404749],[26.457667,46.403956],[26.455055,46.402352],[26.45514,46.401805],[26.45551,46.401454],[26.455704,46.401203],[26.454582,46.400787],[26.454123,46.401379],[26.452281,46.403067],[26.4502,46.40395],[26.448193,46.404533],[26.44748,46.405141],[26.447665,46.405696],[26.448353,46.405986],[26.448814,46.40619],[26.449049,46.406451],[26.449313,46.406774],[26.449443,46.406988],[26.450505,46.406703],[26.4497,46.405556],[26.44926,46.405464],[26.44931,46.405351],[26.451549,46.404553]]],"type":"Polygon"}
 }

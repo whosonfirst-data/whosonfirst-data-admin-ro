@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.84115,46.33698,22.84115,46.33698",
-    "geom:latitude":46.33698,
-    "geom:longitude":22.84115,
+    "geom:area":0.000004,
+    "geom:area_square_m":35732.791861,
+    "geom:bbox":"22.839232,46.334307,22.843408,46.337362",
+    "geom:latitude":46.335775,
+    "geom:longitude":22.84126,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Dealu Crisului",
@@ -24,13 +24,26 @@
     "gn:population":9,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.82115,46.31698,22.86115,46.35698",
+    "lbl:latitude":46.335689,
+    "lbl:longitude":22.841291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.335689,
+    "mps:longitude":22.841291,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dealu Cri\u015fului"
+    ],
+    "name:ron_x_variant":[
+        "Dealu Crisului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679654
+        "gn:id":679654,
+        "ro-ancpi:id":2719
     },
     "wof:country":"RO",
-    "wof:geomhash":"0b0d1b80ca431be51e0b8f2193f702f9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1928a6930bdbbc9d465ca604a2b9a337",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1344260929,
-    "wof:lastmodified":1566609958,
-    "wof:name":"Dealu Crisului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203750,
+    "wof:name":"Dealu Cri\u015fului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":9,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.84115,
-    46.33698,
-    22.84115,
-    46.33698
+    22.839232,
+    46.334307,
+    22.843408,
+    46.337362
 ],
-  "geometry": {"coordinates":[22.84115,46.33698],"type":"Point"}
+  "geometry": {"coordinates":[[[22.839732,46.337186],[22.840057,46.337362],[22.840924,46.33652],[22.841932,46.335932],[22.843408,46.334834],[22.842677,46.334307],[22.84104,46.335212],[22.840013,46.336022],[22.839232,46.336843],[22.839732,46.337186]]],"type":"Polygon"}
 }

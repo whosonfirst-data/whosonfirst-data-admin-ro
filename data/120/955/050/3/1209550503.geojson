@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.90111,44.83263,23.90111,44.83263",
-    "geom:latitude":44.83263,
-    "geom:longitude":23.90111,
+    "geom:area":0.000062,
+    "geom:area_square_m":542758.041257,
+    "geom:bbox":"23.890208,44.819267,23.90862,44.839952",
+    "geom:latitude":44.82981,
+    "geom:longitude":23.899157,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173855",
     "gn:asciiname":"Budele",
@@ -25,37 +25,64 @@
     "gn:population":307,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.88111,44.81263,23.92111,44.85263",
+    "lbl:latitude":44.829091,
+    "lbl:longitude":23.89839,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.829091,
+    "mps:longitude":23.89839,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:por_x_preferred":[
+        "Rio Budele"
+    ],
+    "name:ron_x_preferred":[
+        "Budele"
+    ],
     "name:und_x_variant":[
         "Bude",
         "Budele"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683452
+        "gn:id":683452,
+        "ro-ancpi:id":173882
     },
     "wof:country":"RO",
-    "wof:geomhash":"d4bfb69cb536581e0ccef0c779f06391",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ec4ed5341f1cb141f50dbb830227d563",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209550503
+            "locality_id":1209550503,
+            "region_id":85687643
         }
     ],
     "wof:id":1209550503,
-    "wof:lastmodified":1566610310,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
     "wof:name":"Budele",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":307,
     "wof:population_rank":2,
@@ -65,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.90111,
-    44.83263,
-    23.90111,
-    44.83263
+    23.890208,
+    44.819267,
+    23.90862,
+    44.839952
 ],
-  "geometry": {"coordinates":[23.90111,44.83263],"type":"Point"}
+  "geometry": {"coordinates":[[[23.895574,44.821796],[23.892543,44.819267],[23.890208,44.82043],[23.893767,44.823508],[23.895385,44.825317],[23.896852,44.827847],[23.897341,44.831675],[23.898335,44.832956],[23.899778,44.832979],[23.900046,44.834169],[23.90139,44.836574],[23.904626,44.839252],[23.907938,44.839952],[23.908417,44.839639],[23.90862,44.83715],[23.904237,44.836858],[23.903042,44.835916],[23.902162,44.834064],[23.901397,44.833304],[23.899849,44.831215],[23.899663,44.828207],[23.898676,44.825572],[23.895574,44.821796]]],"type":"Polygon"}
 }

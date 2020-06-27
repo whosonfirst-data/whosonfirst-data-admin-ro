@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.7,45.86667,24.7,45.86667",
-    "geom:latitude":45.86667,
-    "geom:longitude":24.7,
+    "geom:area":0.000105,
+    "geom:area_square_m":904679.837637,
+    "geom:bbox":"24.651214,45.871594,24.70658,45.920126",
+    "geom:latitude":45.883127,
+    "geom:longitude":24.692635,
     "gn:country":"RO",
     "gn:fcode":"PPLA2",
     "gn:population":782,
     "iso:country":"RO",
-    "lbl:bbox":"24.68,45.84667,24.72,45.88667",
-    "lbl:latitude":45.86667,
-    "lbl:longitude":24.7,
+    "lbl:latitude":45.876066,
+    "lbl:longitude":24.69891,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.876066,
+    "mps:longitude":24.69891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u064a\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0443\u0438\u0443"
     ],
@@ -88,8 +92,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":868190,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -105,11 +112,15 @@
         "gn:id":683621,
         "gp:id":868190,
         "qs_pg:id":967522,
+        "ro-ancpi:id":144429,
         "wd:id":"Q850214"
     },
     "wof:country":"RO",
     "wof:created":1497301951,
-    "wof:geomhash":"a73df15416ad7d7f11d5e393ff09db18",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"9150f1219e66718208575cf1c891f183",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,7 +130,13 @@
         }
     ],
     "wof:id":1126038379,
-    "wof:lastmodified":1566611298,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203657,
     "wof:name":"Bruiu",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -131,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.7,
-    45.86667,
-    24.7,
-    45.86667
+    24.651214,
+    45.871594,
+    24.70658,
+    45.920126
 ],
-  "geometry": {"coordinates":[24.7,45.86667],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.705022,45.873402],[24.703324,45.872334],[24.701656,45.872431],[24.699213,45.871855],[24.696442,45.871594],[24.695578,45.873896],[24.695318,45.874965],[24.694269,45.877911],[24.695084,45.87804],[24.694586,45.879735],[24.69598,45.879865],[24.697681,45.88044],[24.697075,45.881843],[24.699444,45.882748],[24.700684,45.881321],[24.700033,45.881041],[24.700896,45.879937],[24.703199,45.876259],[24.703925,45.875907],[24.70639,45.87585],[24.70658,45.874281],[24.705301,45.873847],[24.705022,45.873402]]],[[[24.690872,45.920126],[24.691424,45.915101],[24.687858,45.915213],[24.687407,45.920012],[24.687407,45.920099],[24.690872,45.920126]]],[[[24.659713,45.876848],[24.659694,45.875334],[24.651214,45.875736],[24.651233,45.877152],[24.659713,45.876848]]]],"type":"MultiPolygon"}
 }

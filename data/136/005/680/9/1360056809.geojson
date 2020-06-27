@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.86784,46.901,22.86784,46.901",
-    "geom:latitude":46.901,
-    "geom:longitude":22.86784,
+    "geom:area":0.000012,
+    "geom:area_square_m":104213.514821,
+    "geom:bbox":"22.864095,46.898199,22.869053,46.903307",
+    "geom:latitude":46.90079,
+    "geom:longitude":22.866837,
     "gn:admin1_code":"13",
     "gn:admin2_code":"59041.0",
     "gn:asciiname":"Cerbesti",
@@ -24,13 +24,24 @@
     "gn:population":42,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.84784,46.881,22.88784,46.921",
+    "lbl:latitude":46.901,
+    "lbl:longitude":22.86784,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cerbe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Cerbesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682386
+        "gn:id":682386,
+        "ro-ancpi:id":59078
     },
     "wof:country":"RO",
-    "wof:geomhash":"4d3082586bf312773d0f8360d3fa77a4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"125054cb58d4ea4b1a13d0cd2908055c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1360056809,
-    "wof:lastmodified":1566610645,
-    "wof:name":"Cerbesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203417,
+    "wof:name":"Cerbe\u015fti",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":42,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.86784,
-    46.901,
-    22.86784,
-    46.901
+    22.864095,
+    46.898199,
+    22.869053,
+    46.903307
 ],
-  "geometry": {"coordinates":[22.86784,46.901],"type":"Point"}
+  "geometry": {"coordinates":[[[22.868681,46.899072],[22.867434,46.898199],[22.866669,46.898199],[22.866324,46.898443],[22.866416,46.898952],[22.866299,46.899837],[22.865938,46.900769],[22.865114,46.901324],[22.864815,46.901687],[22.864095,46.90319],[22.864385,46.903307],[22.865606,46.903002],[22.867862,46.90203],[22.869053,46.900126],[22.868681,46.899072]]],"type":"Polygon"}
 }

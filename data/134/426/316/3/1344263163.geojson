@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.2798,46.38656,27.2798,46.38656",
-    "geom:latitude":46.38656,
-    "geom:longitude":27.2798,
+    "geom:area":0.000015,
+    "geom:area_square_m":125176.488761,
+    "geom:bbox":"27.275609,46.379553,27.280154,46.394737",
+    "geom:latitude":46.387887,
+    "geom:longitude":27.278094,
     "gn:admin1_code":"04",
     "gn:admin2_code":"26118",
     "gn:asciiname":"Bosia",
@@ -25,13 +25,19 @@
     "gn:population":78,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.2598,46.36656,27.2998,46.40656",
+    "lbl:latitude":46.393691,
+    "lbl:longitude":27.278627,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.393691,
+    "mps:longitude":27.278627,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
+        "Bosia"
+    ],
+    "name:ita_x_preferred":[
         "Bosia"
     ],
     "name:ron_x_preferred":[
@@ -47,7 +53,11 @@
         "Ro\u015fia",
         "Bozia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -56,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684111
+        "gn:id":684111,
+        "ro-ancpi:id":26136
     },
     "wof:country":"RO",
-    "wof:geomhash":"f1d47b9445e8272ed985b90c96424561",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"93c2786eccd90c50f0c72f53ed63e992",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +83,13 @@
         }
     ],
     "wof:id":1344263163,
-    "wof:lastmodified":1566609958,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203539,
     "wof:name":"Bosia",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -81,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.2798,
-    46.38656,
-    27.2798,
-    46.38656
+    27.275609,
+    46.379553,
+    27.280154,
+    46.394737
 ],
-  "geometry": {"coordinates":[27.2798,46.38656],"type":"Point"}
+  "geometry": {"coordinates":[[[27.276608,46.380366],[27.27645,46.379553],[27.275609,46.37977],[27.27577,46.380301],[27.275897,46.381896],[27.276562,46.383846],[27.277336,46.385266],[27.27794,46.386812],[27.278507,46.388741],[27.279012,46.390107],[27.279326,46.390903],[27.278579,46.392504],[27.278222,46.393013],[27.277596,46.393631],[27.277499,46.39388],[27.277389,46.394687],[27.278356,46.394737],[27.279687,46.393905],[27.279463,46.393688],[27.279358,46.393388],[27.279353,46.393092],[27.27949,46.392778],[27.279957,46.391825],[27.280079,46.391486],[27.280154,46.390787],[27.280008,46.390373],[27.279636,46.38943],[27.279455,46.389037],[27.278978,46.387418],[27.278393,46.385672],[27.277463,46.383818],[27.276965,46.382469],[27.276795,46.381899],[27.276683,46.381382],[27.276608,46.380366]]],"type":"Polygon"}
 }

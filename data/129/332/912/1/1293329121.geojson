@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.86828,44.66113,23.86828,44.66113",
-    "geom:latitude":44.66113,
-    "geom:longitude":23.86828,
+    "geom:area":0.00005,
+    "geom:area_square_m":439541.764786,
+    "geom:bbox":"23.857444,44.647884,23.87187,44.668484",
+    "geom:latitude":44.65926,
+    "geom:longitude":23.86558,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170097.0",
     "gn:asciiname":"Herasti",
@@ -24,13 +24,39 @@
     "gn:population":386,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.84828,44.64113,23.88828,44.68113",
+    "lbl:latitude":44.660913,
+    "lbl:longitude":23.866575,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.660913,
+    "mps:longitude":23.866575,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "Her\u0103\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Her\u0103\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Her\u0103\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Herasti",
+        "Her\u0103\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:vol_x_preferred":[
+        "Her\u0103\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676244
+        "gn:id":676244,
+        "ro-ancpi:id":170122
     },
     "wof:country":"RO",
-    "wof:geomhash":"a5019b03d16bd1d97668dca6f12e6c94",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"10471a7d10cd21ac6afe0d1ea74aa9fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +82,14 @@
         }
     ],
     "wof:id":1293329121,
-    "wof:lastmodified":1566610095,
-    "wof:name":"Herasti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
+    "wof:name":"Her\u0103\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":386,
@@ -64,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.86828,
-    44.66113,
-    23.86828,
-    44.66113
+    23.857444,
+    44.647884,
+    23.87187,
+    44.668484
 ],
-  "geometry": {"coordinates":[23.86828,44.66113],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.86914,44.653782],[23.866439,44.657436],[23.86527,44.660487],[23.861333,44.6678],[23.863359,44.668484],[23.866123,44.664351],[23.868858,44.659911],[23.868443,44.659192],[23.87187,44.654803],[23.869824,44.654041],[23.86914,44.653782]]],[[[23.86325,44.648208],[23.862186,44.647884],[23.861398,44.649399],[23.857444,44.651519],[23.858261,44.65232],[23.861032,44.65123],[23.862151,44.65012],[23.86288,44.648887],[23.86325,44.648208]]]],"type":"MultiPolygon"}
 }

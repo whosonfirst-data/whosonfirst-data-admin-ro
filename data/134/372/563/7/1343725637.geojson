@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.08201,43.75902,24.08201,43.75902",
-    "geom:latitude":43.75902,
-    "geom:longitude":24.08201,
+    "geom:area":0.000027,
+    "geom:area_square_m":239541.319723,
+    "geom:bbox":"24.06888,43.757951,24.081184,43.760665",
+    "geom:latitude":43.759404,
+    "geom:longitude":24.074566,
     "gn:admin1_code":"17",
     "gn:admin2_code":"72007.0",
     "gn:asciiname":"Chiasu",
@@ -24,13 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.06201,43.73902,24.10201,43.77902",
+    "lbl:latitude":43.759328,
+    "lbl:longitude":24.073452,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":43.759328,
+    "mps:longitude":24.073452,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Chia\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Chiasu"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682157
+        "gn:id":682157,
+        "ro-ancpi:id":72025
     },
     "wof:country":"RO",
-    "wof:geomhash":"0f917b4aa6757eddd95aa832a812f852",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dde8378c62ec262df36a4f727067f1ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +68,14 @@
         }
     ],
     "wof:id":1343725637,
-    "wof:lastmodified":1566609987,
-    "wof:name":"Chiasu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203318,
+    "wof:name":"Chia\u015fu",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.08201,
-    43.75902,
-    24.08201,
-    43.75902
+    24.06888,
+    43.757951,
+    24.081184,
+    43.760665
 ],
-  "geometry": {"coordinates":[24.08201,43.75902],"type":"Point"}
+  "geometry": {"coordinates":[[[24.081167,43.759289],[24.081184,43.758588],[24.077511,43.758396],[24.074747,43.758562],[24.074669,43.757951],[24.06888,43.75824],[24.06919,43.760665],[24.071109,43.760639],[24.077737,43.760652],[24.079084,43.760073],[24.081168,43.760011],[24.081167,43.759289]]],"type":"Polygon"}
 }

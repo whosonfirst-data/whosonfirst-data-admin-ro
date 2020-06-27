@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.86079,44.88212,23.86079,44.88212",
-    "geom:latitude":44.88212,
-    "geom:longitude":23.86079,
+    "geom:area":0.000105,
+    "geom:area_square_m":919739.808059,
+    "geom:bbox":"23.834115,44.8707,23.865515,44.889548",
+    "geom:latitude":44.881963,
+    "geom:longitude":23.851588,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170346.0",
     "gn:asciiname":"Turburea",
@@ -24,14 +24,18 @@
     "gn:population":408,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.84079,44.86212,23.88079,44.90212",
+    "lbl:latitude":44.88212,
+    "lbl:longitude":23.86079,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Turburea"
+    ],
+    "name:eus_x_preferred":[
+        "Turburea"
     ],
     "name:ita_x_preferred":[
         "Turburea"
@@ -46,6 +50,9 @@
         "Turburea"
     ],
     "name:ron_x_preferred":[
+        "Turburea"
+    ],
+    "name:ron_x_variant":[
         "Comuna Turburea"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +70,11 @@
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u5e03\u96f7\u4e9a\u4e61"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664480
+        "gn:id":664480,
+        "ro-ancpi:id":170417
     },
     "wof:country":"RO",
-    "wof:geomhash":"7aaddac46c0b22b49f35482ccc81f4d0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"008b84829da22fc765695f3b42ff70f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +100,13 @@
         }
     ],
     "wof:id":1226278497,
-    "wof:lastmodified":1566611628,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203695,
     "wof:name":"Turburea",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -97,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.86079,
-    44.88212,
-    23.86079,
-    44.88212
+    23.834115,
+    44.8707,
+    23.865515,
+    44.889548
 ],
-  "geometry": {"coordinates":[23.86079,44.88212],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.862367,44.886],[23.861163,44.88305],[23.86402,44.8838],[23.865515,44.883365],[23.865423,44.879222],[23.863456,44.878457],[23.862217,44.881167],[23.858407,44.880964],[23.852644,44.881943],[23.848895,44.88004],[23.847714,44.880873],[23.851331,44.883426],[23.850455,44.884955],[23.852747,44.885463],[23.853645,44.883906],[23.858755,44.883557],[23.859283,44.884874],[23.859049,44.886075],[23.855699,44.888717],[23.856577,44.889548],[23.860072,44.888105],[23.862367,44.886]]],[[[23.843911,44.870971],[23.84293,44.8707],[23.841391,44.871948],[23.842027,44.874752],[23.840565,44.878201],[23.839279,44.880872],[23.834115,44.886466],[23.836384,44.886894],[23.839184,44.884246],[23.842027,44.880874],[23.843654,44.878762],[23.84373,44.876247],[23.842972,44.873336],[23.843911,44.870971]]]],"type":"MultiPolygon"}
 }

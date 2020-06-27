@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.95295,46.29567,22.95295,46.29567",
-    "geom:latitude":46.29567,
-    "geom:longitude":22.95295,
+    "geom:area":0.000015,
+    "geom:area_square_m":131958.103373,
+    "geom:bbox":"22.94982,46.288375,22.963801,46.305483",
+    "geom:latitude":46.30262,
+    "geom:longitude":22.959509,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7446.0",
     "gn:asciiname":"Medresti",
@@ -24,37 +24,60 @@
     "gn:population":6,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.93295,46.27567,22.97295,46.31567",
+    "lbl:latitude":46.303848,
+    "lbl:longitude":22.96048,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.303848,
+    "mps:longitude":22.96048,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Medre\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Medresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
-        85687671
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673625
+        "gn:id":673625,
+        "ro-ancpi:id":7605
     },
     "wof:country":"RO",
-    "wof:geomhash":"7eb3d54bed2ac175725d16392cded6f9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"afebe6c305627f40af5ab162b54dc13e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633745,
             "locality_id":1226152671,
-            "region_id":85687671
+            "region_id":85687697
         }
     ],
     "wof:id":1226152671,
-    "wof:lastmodified":1566611683,
-    "wof:name":"Medresti",
-    "wof:parent_id":85687671,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203770,
+    "wof:name":"Medre\u015fti",
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":6,
     "wof:population_rank":1,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.95295,
-    46.29567,
-    22.95295,
-    46.29567
+    22.94982,
+    46.288375,
+    22.963801,
+    46.305483
 ],
-  "geometry": {"coordinates":[22.95295,46.29567],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.963801,46.302313],[22.960552,46.301983],[22.957994,46.303246],[22.958025,46.30527],[22.961688,46.305483],[22.962123,46.303762],[22.963801,46.302313]]],[[[22.9515,46.299497],[22.950127,46.299287],[22.94982,46.300369],[22.950944,46.300519],[22.9515,46.299497]]],[[[22.960251,46.288574],[22.959342,46.288375],[22.959103,46.288809],[22.959083,46.289201],[22.959882,46.28936],[22.95996,46.289205],[22.960251,46.288574]]]],"type":"MultiPolygon"}
 }

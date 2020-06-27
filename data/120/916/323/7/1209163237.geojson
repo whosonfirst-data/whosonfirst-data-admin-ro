@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.48037,46.21359,24.48037,46.21359",
-    "geom:latitude":46.21359,
-    "geom:longitude":24.48037,
+    "geom:area":0.000108,
+    "geom:area_square_m":927331.508602,
+    "geom:bbox":"24.467361,46.193782,24.488308,46.216634",
+    "geom:latitude":46.208455,
+    "geom:longitude":24.476706,
     "gn:admin1_code":"33",
     "gn:admin2_code":"146012",
     "gn:asciiname":"Alma",
@@ -24,11 +24,12 @@
     "gn:population":884,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.46037,46.19359,24.50037,46.23359",
+    "lbl:latitude":46.21359,
+    "lbl:longitude":24.48037,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Alma"
@@ -41,6 +42,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0645\u0627\u060c \u0633\u06cc\u0628\u06cc\u0648"
     ],
     "name:hun_x_preferred":[
         "K\u00fck\u00fcll\u0151alm\u00e1s k\u00f6zs\u00e9g"
@@ -58,6 +62,9 @@
         "Alma"
     ],
     "name:ron_x_preferred":[
+        "Alma"
+    ],
+    "name:ron_x_variant":[
         "Comuna Alma"
     ],
     "name:srp_x_preferred":[
@@ -69,34 +76,55 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0645\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0644\u0645\u0627\u060c \u0633\u06cc\u0628\u06cc\u0648"
+    ],
     "name:vol_x_preferred":[
         "Alma"
     ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u99ac\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687687
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":686468,
+        "ro-ancpi:id":144018,
         "wk:page":"Alma%2C_Sibiu"
     },
     "wof:country":"RO",
-    "wof:geomhash":"2dd0575fc57d8bfe307de78a5d8b5b22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"19d7c2a73d57799fe90fd5c0ffbfd193",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209163237
+            "locality_id":1209163237,
+            "region_id":85687687
         }
     ],
     "wof:id":1209163237,
-    "wof:lastmodified":1566610372,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203654,
     "wof:name":"Alma",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":884,
     "wof:population_rank":2,
@@ -106,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.48037,
-    46.21359,
-    24.48037,
-    46.21359
+    24.467361,
+    46.193782,
+    24.488308,
+    46.216634
 ],
-  "geometry": {"coordinates":[24.48037,46.21359],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.479335,46.209127],[24.475283,46.205153],[24.47347,46.206173],[24.471012,46.205861],[24.469453,46.208505],[24.470827,46.210009],[24.476659,46.214328],[24.478875,46.215009],[24.487523,46.216634],[24.488308,46.215364],[24.485648,46.214294],[24.485348,46.211924],[24.483466,46.211671],[24.479916,46.211285],[24.479335,46.209127]]],[[[24.470971,46.197671],[24.472299,46.19614],[24.473941,46.19671],[24.474908,46.197051],[24.476029,46.197437],[24.476809,46.197709],[24.478765,46.198388],[24.479116,46.197908],[24.477894,46.197454],[24.478211,46.196944],[24.474943,46.195923],[24.474582,46.196308],[24.471604,46.195242],[24.471609,46.194667],[24.471859,46.19403],[24.471545,46.193981],[24.471329,46.193942],[24.470744,46.193813],[24.470651,46.193782],[24.470652,46.193846],[24.470666,46.1939],[24.470718,46.194062],[24.47081,46.194221],[24.471085,46.194657],[24.470922,46.194601],[24.469562,46.194295],[24.467361,46.198241],[24.470118,46.199137],[24.470971,46.197671]]]],"type":"MultiPolygon"}
 }

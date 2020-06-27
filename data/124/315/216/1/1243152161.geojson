@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.90847,44.83205,21.90847,44.83205",
-    "geom:latitude":44.83205,
-    "geom:longitude":21.90847,
+    "geom:area":0.000007,
+    "geom:area_square_m":62978.104935,
+    "geom:bbox":"21.900145,44.822433,21.903784,44.826651",
+    "geom:latitude":44.82497,
+    "geom:longitude":21.901944,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52570",
     "gn:asciiname":"Boinita",
@@ -24,13 +24,26 @@
     "gn:population":18,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.88847,44.81205,21.92847,44.85205",
+    "lbl:latitude":44.825333,
+    "lbl:longitude":21.901792,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.825333,
+    "mps:longitude":21.901792,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Boini\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Boinita"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684333
+        "gn:id":684333,
+        "ro-ancpi:id":52614
     },
     "wof:country":"RO",
-    "wof:geomhash":"c46f8f5556c222645791e1401f46ee9c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f3b3af45a6a56403037ec0203ada2597",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1243152161,
-    "wof:lastmodified":1566611467,
-    "wof:name":"Boinita",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203624,
+    "wof:name":"Boini\u0163a",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":18,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.90847,
-    44.83205,
-    21.90847,
-    44.83205
+    21.900145,
+    44.822433,
+    21.903784,
+    44.826651
 ],
-  "geometry": {"coordinates":[21.90847,44.83205],"type":"Point"}
+  "geometry": {"coordinates":[[[21.902794,44.822746],[21.902163,44.822433],[21.901822,44.822472],[21.900213,44.825901],[21.900145,44.826109],[21.902797,44.826441],[21.902867,44.826626],[21.903335,44.826651],[21.903415,44.826161],[21.903218,44.826036],[21.903675,44.825462],[21.903784,44.82508],[21.902613,44.824764],[21.902464,44.824552],[21.901766,44.824344],[21.902071,44.823961],[21.902529,44.823049],[21.902794,44.822746]]],"type":"Polygon"}
 }

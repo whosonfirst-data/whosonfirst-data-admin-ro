@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.05237,44.78939,24.05237,44.78939",
-    "geom:latitude":44.78939,
-    "geom:longitude":24.05237,
+    "geom:area":0.00007,
+    "geom:area_square_m":618008.631981,
+    "geom:bbox":"24.039538,44.781051,24.054051,44.795487",
+    "geom:latitude":44.78934,
+    "geom:longitude":24.04793,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173132.0",
     "gn:asciiname":"Linia Dealului",
@@ -24,13 +24,21 @@
     "gn:population":289,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.03237,44.76939,24.07237,44.80939",
+    "lbl:latitude":44.78939,
+    "lbl:longitude":24.05237,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Linia Dealului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674763
+        "gn:id":674763,
+        "ro-ancpi:id":173196
     },
     "wof:country":"RO",
-    "wof:geomhash":"204eac0d1088202df2c36db36721bf47",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3475c52a9e3a8d7c1d1e3a85badebb3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1242907719,
-    "wof:lastmodified":1566611515,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
     "wof:name":"Linia Dealului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.05237,
-    44.78939,
-    24.05237,
-    44.78939
+    24.039538,
+    44.781051,
+    24.054051,
+    44.795487
 ],
-  "geometry": {"coordinates":[24.05237,44.78939],"type":"Point"}
+  "geometry": {"coordinates":[[[24.045344,44.795487],[24.054051,44.792567],[24.052017,44.788702],[24.049922,44.781051],[24.047768,44.781237],[24.048007,44.786243],[24.047283,44.786696],[24.04471,44.786215],[24.041435,44.784809],[24.040673,44.785364],[24.042839,44.786633],[24.045758,44.787832],[24.049056,44.787835],[24.049993,44.791901],[24.047615,44.792622],[24.045769,44.791509],[24.041875,44.79071],[24.039538,44.791098],[24.039591,44.792171],[24.040671,44.791925],[24.043566,44.79246],[24.043535,44.794298],[24.043882,44.795041],[24.045344,44.795487]]],"type":"Polygon"}
 }

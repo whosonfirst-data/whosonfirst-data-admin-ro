@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.42958,45.17826,24.42958,45.17826",
-    "geom:latitude":45.17826,
-    "geom:longitude":24.42958,
+    "geom:area":0.000052,
+    "geom:area_square_m":454868.615922,
+    "geom:bbox":"24.423172,45.175275,24.441163,45.185158",
+    "geom:latitude":45.178943,
+    "geom:longitude":24.430816,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172812.0",
     "gn:asciiname":"Gropeni",
@@ -24,14 +24,18 @@
     "gn:population":124,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.40958,45.15826,24.44958,45.19826",
+    "lbl:latitude":45.17826,
+    "lbl:longitude":24.42958,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Gropeni"
+    ],
+    "name:eus_x_preferred":[
+        "Gropeni"
     ],
     "name:ita_x_preferred":[
         "Gropeni"
@@ -46,6 +50,9 @@
         "Gropeni"
     ],
     "name:ron_x_preferred":[
+        "Gropeni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Gropeni"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +70,11 @@
     "name:zho_x_preferred":[
         "\u683c\u7f85\u4f69\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,10 +84,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":676679,
+        "ro-ancpi:id":172849,
         "wk:page":"Gropeni"
     },
     "wof:country":"RO",
-    "wof:geomhash":"cb0321bc829cb65f1b78da42ed841bdc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"74df1d798c4505212c64e704ce3355a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +101,13 @@
         }
     ],
     "wof:id":1310036029,
-    "wof:lastmodified":1566610583,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
     "wof:name":"Gropeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -98,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.42958,
-    45.17826,
-    24.42958,
-    45.17826
+    24.423172,
+    45.175275,
+    24.441163,
+    45.185158
 ],
-  "geometry": {"coordinates":[24.42958,45.17826],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.432777,45.181442],[24.434543,45.18044],[24.437863,45.18069],[24.44008,45.181073],[24.440286,45.180436],[24.441163,45.179904],[24.440986,45.179618],[24.440862,45.179167],[24.440389,45.178879],[24.439742,45.178814],[24.438768,45.178718],[24.438434,45.178365],[24.437093,45.178537],[24.435132,45.179592],[24.433043,45.179616],[24.431084,45.179003],[24.433842,45.176473],[24.430696,45.175859],[24.425683,45.176692],[24.425657,45.175275],[24.423172,45.175355],[24.42369,45.177812],[24.427262,45.179191],[24.428793,45.180746],[24.431131,45.181203],[24.432777,45.181442]]],[[[24.428556,45.184346],[24.425018,45.182864],[24.424414,45.183647],[24.427858,45.185158],[24.428556,45.184346]]]],"type":"MultiPolygon"}
 }

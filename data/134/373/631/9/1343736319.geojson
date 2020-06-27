@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.8989,45.84408,22.8989,45.84408",
-    "geom:latitude":45.84408,
-    "geom:longitude":22.8989,
+    "geom:area":0.000089,
+    "geom:area_square_m":770241.426453,
+    "geom:bbox":"22.888527,45.840464,22.912283,45.848835",
+    "geom:latitude":45.844379,
+    "geom:longitude":22.901408,
     "gn:admin1_code":"21",
     "gn:admin2_code":"86687",
     "gn:asciiname":"Archia",
@@ -24,13 +24,21 @@
     "gn:population":84,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.8789,45.82408,22.9189,45.86408",
+    "lbl:latitude":45.84408,
+    "lbl:longitude":22.8989,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Archia"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686229
+        "gn:id":686229,
+        "ro-ancpi:id":86712
     },
     "wof:country":"RO",
-    "wof:geomhash":"72ada5c230a5e430bef7ba07b014606d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05f214cc705f54c637fcbddc65eafcab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1343736319,
-    "wof:lastmodified":1566609978,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203794,
     "wof:name":"Archia",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.8989,
-    45.84408,
-    22.8989,
-    45.84408
+    22.888527,
+    45.840464,
+    22.912283,
+    45.848835
 ],
-  "geometry": {"coordinates":[22.8989,45.84408],"type":"Point"}
+  "geometry": {"coordinates":[[[22.904527,45.848819],[22.904902,45.848172],[22.906867,45.848835],[22.908464,45.846846],[22.909167,45.846805],[22.910959,45.84482],[22.911833,45.8444],[22.912283,45.843835],[22.910491,45.842712],[22.906858,45.842863],[22.90526,45.842807],[22.90446,45.842301],[22.903112,45.84184],[22.901485,45.842574],[22.899972,45.842328],[22.898142,45.84224],[22.896127,45.841875],[22.893262,45.841304],[22.890563,45.840464],[22.888527,45.840709],[22.8899,45.843533],[22.891336,45.842714],[22.893686,45.84453],[22.896573,45.845564],[22.899416,45.845699],[22.902981,45.848436],[22.904527,45.848819]]],"type":"Polygon"}
 }

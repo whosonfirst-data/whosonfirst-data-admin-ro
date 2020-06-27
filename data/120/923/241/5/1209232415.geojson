@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.92945,46.39446,22.92945,46.39446",
-    "geom:latitude":46.39446,
-    "geom:longitude":22.92945,
+    "geom:area":0.000005,
+    "geom:area_square_m":46371.352866,
+    "geom:bbox":"22.925226,46.392376,22.9296,46.395431",
+    "geom:latitude":46.393942,
+    "geom:longitude":22.927384,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Haiducesti",
@@ -24,33 +24,60 @@
     "gn:population":108,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.90945,46.37446,22.94945,46.41446",
+    "lbl:latitude":46.394183,
+    "lbl:longitude":22.927782,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.394183,
+    "mps:longitude":22.927782,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Haiduce\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Haiducesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687697
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676382
+        "gn:id":676382,
+        "ro-ancpi:id":8577
     },
     "wof:country":"RO",
-    "wof:geomhash":"292f5ff8d97ee2745380a87224a85c22",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"94ad9aa64db88d3a115b61aa0b5b3a94",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209232415
+            "locality_id":1209232415,
+            "region_id":85687697
         }
     ],
     "wof:id":1209232415,
-    "wof:lastmodified":1566610324,
-    "wof:name":"Haiducesti",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203756,
+    "wof:name":"Haiduce\u015fti",
+    "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":108,
     "wof:population_rank":1,
@@ -60,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.92945,
-    46.39446,
-    22.92945,
-    46.39446
+    22.925226,
+    46.392376,
+    22.9296,
+    46.395431
 ],
-  "geometry": {"coordinates":[22.92945,46.39446],"type":"Point"}
+  "geometry": {"coordinates":[[[22.925226,46.39323],[22.926258,46.393575],[22.926983,46.393972],[22.926851,46.394224],[22.92714,46.394305],[22.927057,46.394547],[22.927385,46.394704],[22.927022,46.395407],[22.92794,46.395431],[22.929236,46.395133],[22.92924,46.394925],[22.9296,46.394882],[22.929444,46.394572],[22.92888,46.394683],[22.928459,46.394275],[22.928568,46.394006],[22.928552,46.393639],[22.928415,46.393607],[22.928305,46.39358],[22.928214,46.393566],[22.928063,46.393546],[22.928004,46.393262],[22.927188,46.392804],[22.925543,46.392376],[22.925226,46.39323]]],"type":"Polygon"}
 }

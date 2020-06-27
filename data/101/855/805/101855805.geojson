@@ -2,8 +2,9 @@
   "id": 101855805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.774932,45.193512,25.774932,45.193512",
@@ -19,7 +20,7 @@
     "mps:latitude":45.193512,
     "mps:longitude":25.774932,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Brebu M\u00e2n\u0103stirei"
@@ -95,14 +96,16 @@
         }
     ],
     "wof:id":101855805,
-    "wof:lastmodified":1582311905,
+    "wof:lastmodified":1588368973,
     "wof:name":"Brebu M\u00e2n\u0103stirei",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":7591,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101834645
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

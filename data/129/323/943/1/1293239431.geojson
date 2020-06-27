@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.71842,44.45251,24.71842,44.45251",
-    "geom:latitude":44.45251,
-    "geom:longitude":24.71842,
+    "geom:area":0.000048,
+    "geom:area_square_m":427190.519522,
+    "geom:bbox":"24.714763,44.449955,24.725525,44.463302",
+    "geom:latitude":44.457142,
+    "geom:longitude":24.719813,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126326.0",
     "gn:asciiname":"Buzesti",
@@ -24,13 +24,24 @@
     "gn:population":268,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.69842,44.43251,24.73842,44.47251",
+    "lbl:latitude":44.45251,
+    "lbl:longitude":24.71842,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Buze\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Buzesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683109
+        "gn:id":683109,
+        "ro-ancpi:id":126353
     },
     "wof:country":"RO",
-    "wof:geomhash":"9076cd56731da69c55590d332cf3e55b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"286797ddfbf9d6b74a378cb9ae55ff05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1293239431,
-    "wof:lastmodified":1566610070,
-    "wof:name":"Buzesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203699,
+    "wof:name":"Buze\u015fti",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":268,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.71842,
-    44.45251,
-    24.71842,
-    44.45251
+    24.714763,
+    44.449955,
+    24.725525,
+    44.463302
 ],
-  "geometry": {"coordinates":[24.71842,44.45251],"type":"Point"}
+  "geometry": {"coordinates":[[[24.719075,44.451243],[24.716194,44.449955],[24.714763,44.453221],[24.714778,44.454918],[24.717291,44.45787],[24.717591,44.45815],[24.717629,44.458185],[24.718355,44.458862],[24.721123,44.460581],[24.72153,44.462829],[24.724596,44.463302],[24.725525,44.458181],[24.720112,44.457775],[24.718016,44.455914],[24.718083,44.454485],[24.719075,44.451243]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.8315,46.15166,27.8315,46.15166",
-    "geom:latitude":46.15166,
-    "geom:longitude":27.8315,
+    "geom:area":0.000087,
+    "geom:area_square_m":745191.363515,
+    "geom:bbox":"27.824998,46.141838,27.836962,46.159648",
+    "geom:latitude":46.149053,
+    "geom:longitude":27.831089,
     "gn:admin1_code":"38",
     "gn:admin2_code":"166770.0",
     "gn:asciiname":"Valea Lunga",
@@ -24,13 +24,57 @@
     "gn:population":408,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.8115,46.13166,27.8515,46.17166",
+    "lbl:latitude":46.15166,
+    "lbl:longitude":27.8315,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:deu_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:epo_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:eus_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:hrv_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:nld_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Lunga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0459\u0430 \u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:vol_x_preferred":[
+        "Valea Lung\u0103"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +83,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663676
+        "gn:id":663676,
+        "ro-ancpi:id":166850
     },
     "wof:country":"RO",
-    "wof:geomhash":"c3b8ab0fd0faebd2d2d1d9f4d4bc6a93",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"558dadc7598557faaa42b608208d3116",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +100,14 @@
         }
     ],
     "wof:id":1193202677,
-    "wof:lastmodified":1566610448,
-    "wof:name":"Valea Lunga",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203469,
+    "wof:name":"Valea Lung\u0103",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":408,
@@ -64,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.8315,
-    46.15166,
-    27.8315,
-    46.15166
+    27.824998,
+    46.141838,
+    27.836962,
+    46.159648
 ],
-  "geometry": {"coordinates":[27.8315,46.15166],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.833627,46.153632],[27.834178,46.151463],[27.833804,46.151358],[27.833958,46.150904],[27.834094,46.150063],[27.834405,46.150013],[27.834333,46.14901],[27.834833,46.149033],[27.834967,46.148845],[27.834935,46.14849],[27.835016,46.148072],[27.835391,46.147674],[27.835016,46.147674],[27.835133,46.147439],[27.835453,46.146621],[27.835096,46.14617],[27.835001,46.145849],[27.835068,46.145597],[27.83525,46.145035],[27.835403,46.14443],[27.836166,46.144411],[27.836552,46.143563],[27.836755,46.143237],[27.83672,46.142816],[27.836962,46.142227],[27.83561,46.14215],[27.833123,46.141838],[27.832873,46.142502],[27.832393,46.144043],[27.831405,46.143864],[27.831276,46.144413],[27.829519,46.144202],[27.828702,46.145272],[27.828425,46.146351],[27.827814,46.146342],[27.827761,46.146683],[27.826906,46.146679],[27.82636,46.149369],[27.826039,46.150941],[27.825761,46.15199],[27.825319,46.15188],[27.824998,46.153125],[27.829146,46.153419],[27.833627,46.153632]]],[[[27.831185,46.156244],[27.83116,46.155107],[27.830894,46.155164],[27.830454,46.15635],[27.830293,46.156943],[27.830036,46.15806],[27.829824,46.158333],[27.829638,46.158635],[27.829538,46.158778],[27.829595,46.159137],[27.82984,46.159226],[27.830156,46.159519],[27.830642,46.159626],[27.831321,46.159648],[27.83165,46.159607],[27.831719,46.159037],[27.83183,46.158852],[27.831706,46.157937],[27.831597,46.15716],[27.831579,46.156296],[27.831185,46.156244]]]],"type":"MultiPolygon"}
 }

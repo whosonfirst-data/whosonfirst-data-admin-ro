@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.13452,44.96405,24.13452,44.96405",
-    "geom:latitude":44.96405,
-    "geom:longitude":24.13452,
+    "geom:area":0.000049,
+    "geom:area_square_m":429529.714089,
+    "geom:bbox":"24.131285,44.959316,24.150894,44.967846",
+    "geom:latitude":44.963176,
+    "geom:longitude":24.139297,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172377.0",
     "gn:asciiname":"Curtea",
@@ -25,11 +25,12 @@
     "gn:population":340,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.11452,44.94405,24.15452,44.98405",
+    "lbl:latitude":44.96405,
+    "lbl:longitude":24.13452,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Curtea"
@@ -38,6 +39,9 @@
         "Curtea"
     ],
     "name:epo_x_preferred":[
+        "Curtea"
+    ],
+    "name:eus_x_preferred":[
         "Curtea"
     ],
     "name:ita_x_preferred":[
@@ -53,6 +57,9 @@
         "Curtea"
     ],
     "name:ron_x_preferred":[
+        "Curtea"
+    ],
+    "name:ron_x_variant":[
         "Comuna Curtea"
     ],
     "name:srp_x_preferred":[
@@ -73,7 +80,11 @@
     "name:zho_x_preferred":[
         "\u5eab\u723e\u6cf0\u4e9e\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -82,10 +93,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679910
+        "gn:id":679910,
+        "ro-ancpi:id":172395
     },
     "wof:country":"RO",
-    "wof:geomhash":"0179b68258fa1fc32c332c7733ee2ee9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d928376670bc31731358dec3e0d99b76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,7 +110,13 @@
         }
     ],
     "wof:id":1277106185,
-    "wof:lastmodified":1566610271,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
     "wof:name":"Curtea",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -107,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.13452,
-    44.96405,
-    24.13452,
-    44.96405
+    24.131285,
+    44.959316,
+    24.150894,
+    44.967846
 ],
-  "geometry": {"coordinates":[24.13452,44.96405],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.132724,44.9659],[24.133898,44.965554],[24.134797,44.967294],[24.136297,44.967424],[24.136783,44.966383],[24.137102,44.966343],[24.136519,44.964755],[24.138984,44.964246],[24.139364,44.964238],[24.139281,44.963721],[24.138962,44.963718],[24.138909,44.96319],[24.13893,44.962813],[24.142793,44.961868],[24.141769,44.960627],[24.134431,44.962391],[24.131718,44.963275],[24.132202,44.965336],[24.131285,44.96576],[24.1323,44.967846],[24.133502,44.967608],[24.132724,44.9659]]],[[[24.150894,44.962139],[24.148194,44.960105],[24.147409,44.959316],[24.147326,44.959334],[24.143015,44.960507],[24.144328,44.96195],[24.146485,44.963797],[24.148624,44.96279],[24.147471,44.961769],[24.149014,44.961048],[24.150782,44.962505],[24.150894,44.962139]]]],"type":"MultiPolygon"}
 }

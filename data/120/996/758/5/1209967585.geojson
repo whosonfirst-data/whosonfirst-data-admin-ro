@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.30326,44.55048,24.30326,44.55048",
-    "geom:latitude":44.55048,
-    "geom:longitude":24.30326,
+    "geom:area":0.000085,
+    "geom:area_square_m":749789.847897,
+    "geom:bbox":"24.293513,44.542224,24.307914,44.554501",
+    "geom:latitude":44.550212,
+    "geom:longitude":24.302091,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127171.0",
     "gn:asciiname":"Satu Nou",
@@ -25,11 +25,12 @@
     "gn:population":456,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.28326,44.53048,24.32326,44.57048",
+    "lbl:latitude":44.55048,
+    "lbl:longitude":24.30326,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Satu Nou"
@@ -56,7 +57,11 @@
         "Purecei",
         "Puricei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -65,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667852
+        "gn:id":667852,
+        "ro-ancpi:id":127215
     },
     "wof:country":"RO",
-    "wof:geomhash":"52d17215065339f948daa3409f4c44aa",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"810f9250f71088d9c139531beb4069d5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,7 +87,13 @@
         }
     ],
     "wof:id":1209967585,
-    "wof:lastmodified":1566610290,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
     "wof:name":"Satu Nou",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -90,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.30326,
-    44.55048,
-    24.30326,
-    44.55048
+    24.293513,
+    44.542224,
+    24.307914,
+    44.554501
 ],
-  "geometry": {"coordinates":[24.30326,44.55048],"type":"Point"}
+  "geometry": {"coordinates":[[[24.307914,44.554143],[24.307722,44.548639],[24.30349,44.548207],[24.304046,44.546844],[24.304854,44.544895],[24.305814,44.542438],[24.303171,44.542224],[24.301009,44.547869],[24.298164,44.54756],[24.297182,44.548214],[24.298198,44.548324],[24.297755,44.551348],[24.294182,44.551097],[24.293513,44.553483],[24.302205,44.554074],[24.302547,44.554501],[24.307914,44.554143]]],"type":"Polygon"}
 }

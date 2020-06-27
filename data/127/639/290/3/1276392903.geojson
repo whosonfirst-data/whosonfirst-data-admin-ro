@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.22201,45.57481,24.22201,45.57481",
-    "geom:latitude":45.57481,
-    "geom:longitude":24.22201,
+    "geom:area":0.000047,
+    "geom:area_square_m":406546.568973,
+    "geom:bbox":"24.210607,45.57133,24.232556,45.577463",
+    "geom:latitude":45.57465,
+    "geom:longitude":24.222835,
     "gn:admin1_code":"33",
     "gn:admin2_code":"146021",
     "gn:asciiname":"Lotrioara",
@@ -24,13 +24,30 @@
     "gn:population":280,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.20201,45.55481,24.24201,45.59481",
+    "lbl:latitude":45.57481,
+    "lbl:longitude":24.22201,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Lotrioara"
+    ],
+    "name:fra_x_preferred":[
+        "Lotrioara"
+    ],
+    "name:ron_x_preferred":[
+        "Lotrioara"
+    ],
+    "name:ron_x_variant":[
+        "R\u00e2ul Lotrioara"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8063517
+        "gn:id":8063517,
+        "ro-ancpi:id":145872
     },
     "wof:country":"RO",
-    "wof:geomhash":"a4d2342a20f43ec034eb238f2087bae7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7d84a6fc6ea0fe4dae4b0efffa4a0da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +73,13 @@
         }
     ],
     "wof:id":1276392903,
-    "wof:lastmodified":1566610258,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203654,
     "wof:name":"Lotrioara",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -64,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.22201,
-    45.57481,
-    24.22201,
-    45.57481
+    24.210607,
+    45.57133,
+    24.232556,
+    45.577463
 ],
-  "geometry": {"coordinates":[24.22201,45.57481],"type":"Point"}
+  "geometry": {"coordinates":[[[24.212934,45.577136],[24.213067,45.576961],[24.21474,45.577138],[24.216762,45.576774],[24.217687,45.57646],[24.218495,45.575713],[24.21982,45.575704],[24.222396,45.57635],[24.225909,45.575727],[24.225996,45.575983],[24.227308,45.57607],[24.22757,45.575281],[24.228727,45.574971],[24.230752,45.574014],[24.232293,45.572408],[24.232556,45.57133],[24.221254,45.573714],[24.214757,45.575418],[24.212221,45.576067],[24.211611,45.575889],[24.211305,45.575831],[24.211033,45.575821],[24.210679,45.575894],[24.210607,45.576584],[24.210649,45.57686],[24.210842,45.577053],[24.211185,45.577139],[24.211482,45.577227],[24.211711,45.577255],[24.212021,45.577244],[24.212209,45.577195],[24.212367,45.577118],[24.212387,45.577169],[24.212425,45.577381],[24.212457,45.577463],[24.212513,45.577453],[24.212613,45.577415],[24.212728,45.577327],[24.212934,45.577136]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.46437,44.9266,24.46437,44.9266",
-    "geom:latitude":44.9266,
-    "geom:longitude":24.46437,
+    "geom:area":0.000024,
+    "geom:area_square_m":212017.651289,
+    "geom:bbox":"24.442358,44.923757,24.452207,44.929263",
+    "geom:latitude":44.926436,
+    "geom:longitude":24.447563,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404.0",
     "gn:asciiname":"Udresti",
@@ -24,13 +24,26 @@
     "gn:population":101,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.44437,44.9066,24.48437,44.9466",
+    "lbl:latitude":44.926423,
+    "lbl:longitude":24.447563,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.926423,
+    "mps:longitude":24.447563,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Udre\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Udresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664369
+        "gn:id":664369,
+        "ro-ancpi:id":169529
     },
     "wof:country":"RO",
-    "wof:geomhash":"cb4e735d614f296b14d74d346ee483ed",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6b67ccceeeb7620732acb519100f24cf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1226683421,
-    "wof:lastmodified":1566611650,
-    "wof:name":"Udresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203695,
+    "wof:name":"Udre\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":101,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.46437,
-    44.9266,
-    24.46437,
-    44.9266
+    24.442358,
+    44.923757,
+    24.452207,
+    44.929263
 ],
-  "geometry": {"coordinates":[24.46437,44.9266],"type":"Point"}
+  "geometry": {"coordinates":[[[24.450482,44.925871],[24.444384,44.923757],[24.442358,44.925296],[24.45003,44.929263],[24.452207,44.928304],[24.450482,44.925871]]],"type":"Polygon"}
 }

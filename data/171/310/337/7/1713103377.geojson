@@ -1,0 +1,79 @@
+{
+  "id": 1713103377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":45470.099328,
+    "geom:bbox":"24.102796,46.503895,24.105639,46.506333",
+    "geom:latitude":46.505243,
+    "geom:longitude":24.104146,
+    "iso:country":"RO",
+    "lbl:latitude":46.50527,
+    "lbl:longitude":24.104119,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":46.50527,
+    "mps:longitude":24.104119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:deu_x_preferred":[
+        "Ciurg\u0103u"
+    ],
+    "name:eng_x_preferred":[
+        "Ciurg\u0103u"
+    ],
+    "name:ron_x_preferred":[
+        "Ciurg\u0103u"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0443\u0440\u0433\u0430\u0443"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ro-ancpi:id":114756
+    },
+    "wof:country":"RO",
+    "wof:created":1588207749,
+    "wof:geomhash":"3b84b5710deb33e3ff0a3827ad6ca0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103377,
+            "region_id":85687719
+        }
+    ],
+    "wof:id":1713103377,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203460,
+    "wof:name":"Ciurg\u0103u",
+    "wof:parent_id":85687719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ro",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.102796,
+    46.503895,
+    24.105639,
+    46.506333
+],
+  "geometry": {"coordinates":[[[24.105639,46.504625],[24.102796,46.503895],[24.103035,46.506333],[24.105425,46.506274],[24.105639,46.504625]]],"type":"Polygon"}
+}

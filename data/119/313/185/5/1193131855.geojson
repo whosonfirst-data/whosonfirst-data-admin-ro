@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.20867,47.69466,27.20867,47.69466",
-    "geom:latitude":47.69466,
-    "geom:longitude":27.20867,
+    "geom:area":0.000052,
+    "geom:area_square_m":428687.840073,
+    "geom:bbox":"27.201555,47.687813,27.211917,47.698556",
+    "geom:latitude":47.693738,
+    "geom:longitude":27.20745,
     "gn:admin1_code":"07",
     "gn:admin2_code":"38848.0",
     "gn:asciiname":"Sarata",
@@ -24,11 +24,12 @@
     "gn:population":97,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.18867,47.67466,27.22867,47.71466",
+    "lbl:latitude":47.69466,
+    "lbl:longitude":27.20867,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Sarata"
@@ -57,6 +58,9 @@
     "name:ron_x_preferred":[
         "S\u0103rata"
     ],
+    "name:ron_x_variant":[
+        "Sarata"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0442\u0430"
     ],
@@ -72,7 +76,11 @@
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u5854"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668044
+        "gn:id":668044,
+        "ro-ancpi:id":38884
     },
     "wof:country":"RO",
-    "wof:geomhash":"bb75cbe1e5cc18dfcbbdec703ae991df",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7a90410e5a5639d90618cad4c30d3142",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,8 +106,14 @@
         }
     ],
     "wof:id":1193131855,
-    "wof:lastmodified":1566610431,
-    "wof:name":"Sarata",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203517,
+    "wof:name":"S\u0103rata",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
     "wof:population":97,
@@ -106,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.20867,
-    47.69466,
-    27.20867,
-    47.69466
+    27.201555,
+    47.687813,
+    27.211917,
+    47.698556
 ],
-  "geometry": {"coordinates":[27.20867,47.69466],"type":"Point"}
+  "geometry": {"coordinates":[[[27.211106,47.68936],[27.21092,47.689242],[27.210688,47.68925],[27.210088,47.689271],[27.209976,47.689225],[27.209935,47.689177],[27.209953,47.68899],[27.210236,47.688648],[27.210022,47.688469],[27.210072,47.688272],[27.210052,47.688106],[27.209813,47.688098],[27.209627,47.687813],[27.207554,47.690012],[27.207226,47.690368],[27.206246,47.691346],[27.204837,47.692594],[27.204056,47.693377],[27.203403,47.69414],[27.202955,47.694558],[27.202369,47.695084],[27.201555,47.695706],[27.203517,47.696576],[27.204203,47.696912],[27.205243,47.697381],[27.206478,47.697999],[27.20769,47.698556],[27.208266,47.697813],[27.20876,47.697253],[27.209187,47.6968],[27.209962,47.695538],[27.210631,47.694382],[27.211193,47.693604],[27.211578,47.69309],[27.211762,47.692842],[27.211808,47.692711],[27.211917,47.692543],[27.211667,47.692273],[27.211456,47.692006],[27.211423,47.691845],[27.21055,47.691683],[27.209973,47.691629],[27.211047,47.690579],[27.211365,47.690302],[27.210851,47.690054],[27.211175,47.689625],[27.211106,47.68936]]],"type":"Polygon"}
 }

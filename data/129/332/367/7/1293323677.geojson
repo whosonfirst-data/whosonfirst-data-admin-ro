@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.46357,44.99219,24.46357,44.99219",
-    "geom:latitude":44.99219,
-    "geom:longitude":24.46357,
+    "geom:area":0.000056,
+    "geom:area_square_m":489954.631167,
+    "geom:bbox":"24.451111,44.98537,24.477598,45.001307",
+    "geom:latitude":44.992486,
+    "geom:longitude":24.463326,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Corbii din Vale",
@@ -25,17 +25,28 @@
     "gn:population":377,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.44357,44.97219,24.48357,45.01219",
+    "lbl:latitude":44.99219,
+    "lbl:longitude":24.46357,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Corbii Din Vale"
+    ],
+    "name:ron_x_variant":[
+        "Corbii din Vale"
+    ],
     "name:und_x_variant":[
         "Corbii",
         "Corbii din Vale"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680877
+        "gn:id":680877,
+        "ro-ancpi:id":171655
     },
     "wof:country":"RO",
-    "wof:geomhash":"134a56740381ca72777e4a8b07e40299",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2c9a08c12b2b907b3b37cb71e70d58ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1293323677,
-    "wof:lastmodified":1566610096,
-    "wof:name":"Corbii din Vale",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
+    "wof:name":"Corbii Din Vale",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":377,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.46357,
-    44.99219,
-    24.46357,
-    44.99219
+    24.451111,
+    44.98537,
+    24.477598,
+    45.001307
 ],
-  "geometry": {"coordinates":[24.46357,44.99219],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.470575,44.994365],[24.467423,44.993887],[24.466311,44.992084],[24.466043,44.991041],[24.465368,44.99049],[24.46405,44.990955],[24.462662,44.990719],[24.461461,44.990198],[24.461604,44.98987],[24.462012,44.989159],[24.461596,44.988993],[24.461311,44.989737],[24.460479,44.989481],[24.459779,44.989981],[24.461638,44.991152],[24.461219,44.991319],[24.459131,44.991485],[24.459068,44.99166],[24.45734,44.991355],[24.456772,44.99258],[24.458084,44.992762],[24.46063,44.993596],[24.462419,44.993912],[24.464366,44.99391],[24.465727,44.994642],[24.466078,44.99483],[24.469408,44.995635],[24.47173,44.996961],[24.473167,44.998623],[24.47675,45.001307],[24.477598,45.000857],[24.47646,45.000151],[24.474239,44.998047],[24.47277,44.995943],[24.472048,44.995501],[24.470575,44.994365]]],[[[24.458539,44.98979],[24.459824,44.988647],[24.459328,44.987797],[24.458529,44.988075],[24.456032,44.988214],[24.453788,44.986884],[24.454269,44.98651],[24.452183,44.98537],[24.451111,44.986438],[24.451976,44.987573],[24.452915,44.989273],[24.455203,44.988775],[24.456955,44.988784],[24.458539,44.98979]]]],"type":"MultiPolygon"}
 }

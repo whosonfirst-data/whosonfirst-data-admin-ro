@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.17463,46.09075,22.17463,46.09075",
-    "geom:latitude":46.09075,
-    "geom:longitude":22.17463,
+    "geom:area":0.000056,
+    "geom:area_square_m":478053.768747,
+    "geom:bbox":"22.162007,46.084746,22.178934,46.094765",
+    "geom:latitude":46.090405,
+    "geom:longitude":22.172526,
     "gn:admin1_code":"02",
     "gn:admin2_code":"12572",
     "gn:asciiname":"Baia",
@@ -24,11 +24,12 @@
     "gn:population":175,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.15463,46.07075,22.19463,46.11075",
+    "lbl:latitude":46.09075,
+    "lbl:longitude":22.17463,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627"
@@ -40,6 +41,9 @@
         "Baia"
     ],
     "name:epo_x_preferred":[
+        "Baia"
+    ],
+    "name:eus_x_preferred":[
         "Baia"
     ],
     "name:fas_x_preferred":[
@@ -88,7 +92,11 @@
     "name:zho_x_preferred":[
         "\u5df4\u4e9e\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -97,10 +105,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685842
+        "gn:id":685842,
+        "ro-ancpi:id":12590
     },
     "wof:country":"RO",
-    "wof:geomhash":"575053d365f5573667c1bad44e88423e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"00ee1d754644a60109b81ec16b210634",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +122,13 @@
         }
     ],
     "wof:id":1310014517,
-    "wof:lastmodified":1566610560,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203712,
     "wof:name":"Baia",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
@@ -122,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.17463,
-    46.09075,
-    22.17463,
-    46.09075
+    22.162007,
+    46.084746,
+    22.178934,
+    46.094765
 ],
-  "geometry": {"coordinates":[22.17463,46.09075],"type":"Point"}
+  "geometry": {"coordinates":[[[22.178664,46.094713],[22.178934,46.092562],[22.177911,46.09255],[22.1769,46.091491],[22.177918,46.090979],[22.177772,46.089529],[22.175705,46.089041],[22.175122,46.088557],[22.173176,46.088177],[22.171449,46.088211],[22.170686,46.087295],[22.169455,46.086945],[22.168307,46.086776],[22.167281,46.086368],[22.165328,46.085385],[22.164259,46.084746],[22.162007,46.085224],[22.162301,46.085363],[22.162835,46.085597],[22.163137,46.085672],[22.163429,46.085708],[22.163717,46.08572],[22.164085,46.085687],[22.164553,46.085678],[22.164934,46.085671],[22.164822,46.085969],[22.166095,46.087159],[22.166569,46.087049],[22.167165,46.08764],[22.167842,46.087782],[22.168273,46.089241],[22.167778,46.089615],[22.168391,46.090109],[22.169869,46.090689],[22.170415,46.092182],[22.170614,46.093748],[22.171031,46.093894],[22.173998,46.093827],[22.175878,46.093989],[22.178116,46.094483],[22.17811,46.094765],[22.178664,46.094713]]],"type":"Polygon"}
 }

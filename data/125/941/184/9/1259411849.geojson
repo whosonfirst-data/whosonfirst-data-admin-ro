@@ -2,8 +2,9 @@
   "id": 1259411849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"24.0,44.81667,24.0,44.81667",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,12 +52,14 @@
         }
     ],
     "wof:id":1259411849,
-    "wof:lastmodified":1566611561,
+    "wof:lastmodified":1588368356,
     "wof:name":"Garniceni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243208213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.12315,44.90596,27.12315,44.90596",
-    "geom:latitude":44.90596,
-    "geom:longitude":27.12315,
+    "geom:area":0.000053,
+    "geom:area_square_m":467423.789818,
+    "geom:bbox":"27.112115,44.897719,27.123644,44.90926",
+    "geom:latitude":44.903709,
+    "geom:longitude":27.117633,
     "gn:admin1_code":"11",
     "gn:admin2_code":"48138.0",
     "gn:asciiname":"Tatulesti",
@@ -24,13 +24,42 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.10315,44.88596,27.14315,44.92596",
+    "lbl:latitude":44.905498,
+    "lbl:longitude":27.118201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.905498,
+    "mps:longitude":27.118201,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "T\u0103tule\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "T\u0103tule\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "T\u0103tule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Tatulesti",
+        "T\u0103tule\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0442\u0443\u043b\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Tatulesti"
+    ],
+    "name:vol_x_preferred":[
+        "T\u0103tule\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665412
+        "gn:id":665412,
+        "ro-ancpi:id":48156
     },
     "wof:country":"RO",
-    "wof:geomhash":"e7c3c13eb7b54262e6f63e7f11455a43",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dbd88176fb088f0ec16271342182d71e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +84,14 @@
         }
     ],
     "wof:id":1259471045,
-    "wof:lastmodified":1566611563,
-    "wof:name":"Tatulesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203607,
+    "wof:name":"T\u0103tule\u015fti",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.12315,
-    44.90596,
-    27.12315,
-    44.90596
+    27.112115,
+    44.897719,
+    27.123644,
+    44.90926
 ],
-  "geometry": {"coordinates":[27.12315,44.90596],"type":"Point"}
+  "geometry": {"coordinates":[[[27.123443,44.908051],[27.121955,44.90532],[27.121224,44.903926],[27.121677,44.903784],[27.121081,44.902864],[27.118777,44.903552],[27.118608,44.903196],[27.116927,44.899485],[27.118004,44.899146],[27.117746,44.89837],[27.117419,44.897719],[27.115819,44.898293],[27.114161,44.898873],[27.112115,44.899695],[27.113343,44.90251],[27.114777,44.902146],[27.115392,44.904444],[27.115799,44.905943],[27.116078,44.906666],[27.116249,44.907481],[27.116308,44.908017],[27.116625,44.908853],[27.117827,44.908652],[27.117588,44.907862],[27.117568,44.907827],[27.120014,44.90702],[27.120657,44.906801],[27.121664,44.90926],[27.123644,44.908489],[27.123443,44.908051]]],"type":"Polygon"}
 }

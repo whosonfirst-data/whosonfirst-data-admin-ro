@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.40883,44.00368,24.40883,44.00368",
-    "geom:latitude":44.00368,
-    "geom:longitude":24.40883,
+    "geom:area":0.000106,
+    "geom:area_square_m":943264.601285,
+    "geom:bbox":"24.390559,44.000841,24.420818,44.008038",
+    "geom:latitude":44.003773,
+    "geom:longitude":24.407198,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130026.0",
     "gn:asciiname":"Vladila Noua",
@@ -24,13 +24,24 @@
     "gn:population":498,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.38883,43.98368,24.42883,44.02368",
+    "lbl:latitude":44.00368,
+    "lbl:longitude":24.40883,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Vl\u0103dila Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Vladila Noua"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662602
+        "gn:id":662602,
+        "ro-ancpi:id":130053
     },
     "wof:country":"RO",
-    "wof:geomhash":"7e56619d781216e98c243ed78bce1b9d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9d409344abf58e4fbf3d6784ef1f9b2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1293744755,
-    "wof:lastmodified":1566610136,
-    "wof:name":"Vladila Noua",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203699,
+    "wof:name":"Vl\u0103dila Nou\u0103",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":498,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.40883,
-    44.00368,
-    24.40883,
-    44.00368
+    24.390559,
+    44.000841,
+    24.420818,
+    44.008038
 ],
-  "geometry": {"coordinates":[24.40883,44.00368],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.420818,44.004081],[24.42037,44.003772],[24.417431,44.001742],[24.413603,44.000951],[24.399314,44.000841],[24.39905,44.005419],[24.414086,44.006101],[24.413909,44.007713],[24.415746,44.007744],[24.416354,44.005053],[24.417883,44.005193],[24.418339,44.003573],[24.420818,44.004081]]],[[[24.394757,44.008038],[24.395426,44.005556],[24.396816,44.005608],[24.396826,44.00456],[24.394194,44.004276],[24.394081,44.005159],[24.390742,44.005036],[24.390559,44.006653],[24.393567,44.006774],[24.39345,44.007986],[24.394757,44.008038]]]],"type":"MultiPolygon"}
 }

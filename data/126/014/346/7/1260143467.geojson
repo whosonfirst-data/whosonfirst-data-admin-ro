@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.85307,45.72833,27.85307,45.72833",
-    "geom:latitude":45.72833,
-    "geom:longitude":27.85307,
+    "geom:area":0.0001,
+    "geom:area_square_m":860454.499058,
+    "geom:bbox":"27.842722,45.725874,27.858524,45.738851",
+    "geom:latitude":45.731329,
+    "geom:longitude":27.851545,
     "gn:admin1_code":"18",
     "gn:admin2_code":"77082.0",
     "gn:asciiname":"Plevna",
@@ -24,11 +24,12 @@
     "gn:population":624,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.83307,45.70833,27.87307,45.74833",
+    "lbl:latitude":45.72833,
+    "lbl:longitude":27.85307,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Plevna"
@@ -57,16 +58,26 @@
     "name:por_x_preferred":[
         "Plevna"
     ],
+    "name:ron_x_preferred":[
+        "Plevna"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043b\u0435\u0432\u0435\u043d"
     ],
     "name:swe_x_preferred":[
         "Plevna"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0432\u043d\u0430"
+    ],
     "name:vol_x_preferred":[
         "Plevna"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +86,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670483
+        "gn:id":670483,
+        "ro-ancpi:id":77108
     },
     "wof:country":"RO",
-    "wof:geomhash":"3a7ff91b81803a10bee9f9a0aed627c0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fd956409c00fac663ad44045654f4234",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +103,13 @@
         }
     ],
     "wof:id":1260143467,
-    "wof:lastmodified":1566610472,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203482,
     "wof:name":"Plevna",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -100,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.85307,
-    45.72833,
-    27.85307,
-    45.72833
+    27.842722,
+    45.725874,
+    27.858524,
+    45.738851
 ],
-  "geometry": {"coordinates":[27.85307,45.72833],"type":"Point"}
+  "geometry": {"coordinates":[[[27.85016,45.726208],[27.842722,45.725874],[27.846191,45.730329],[27.849191,45.73434],[27.850245,45.734064],[27.851865,45.736081],[27.853018,45.738851],[27.857383,45.737377],[27.856091,45.73434],[27.858524,45.733218],[27.853727,45.72734],[27.854407,45.727283],[27.854178,45.726134],[27.853051,45.726361],[27.853247,45.726847],[27.852338,45.727255],[27.85163,45.726383],[27.85016,45.726208]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.10481,48.01761,23.10481,48.01761",
-    "geom:latitude":48.01761,
-    "geom:longitude":23.10481,
+    "geom:area":0.000009,
+    "geom:area_square_m":75459.303914,
+    "geom:bbox":"23.100133,48.014533,23.106548,48.018109",
+    "geom:latitude":48.016387,
+    "geom:longitude":23.103395,
     "gn:admin1_code":"32",
     "gn:admin2_code":"137764.0",
     "gn:asciiname":"Halmeu Vii",
@@ -24,13 +24,23 @@
     "gn:population":42,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.08481,47.99761,23.12481,48.03761",
+    "lbl:latitude":48.016373,
+    "lbl:longitude":23.103395,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":48.016373,
+    "mps:longitude":23.103395,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Halmeu Vii"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676349
+        "gn:id":676349,
+        "ro-ancpi:id":137817
     },
     "wof:country":"RO",
-    "wof:geomhash":"efcbae42614ec80d2f9be1164eca70f6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d98374b91813e8c9b8f417b422eea5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1293538865,
-    "wof:lastmodified":1566610035,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203362,
     "wof:name":"Halmeu Vii",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.10481,
-    48.01761,
-    23.10481,
-    48.01761
+    23.100133,
+    48.014533,
+    23.106548,
+    48.018109
 ],
-  "geometry": {"coordinates":[23.10481,48.01761],"type":"Point"}
+  "geometry": {"coordinates":[[[23.106043,48.014646],[23.106002,48.014533],[23.104912,48.014939],[23.102979,48.015738],[23.101309,48.016505],[23.100133,48.017048],[23.100375,48.017618],[23.100589,48.017715],[23.100971,48.01785],[23.101066,48.017937],[23.101635,48.018109],[23.102658,48.017584],[23.103273,48.017246],[23.103818,48.01696],[23.10502,48.016419],[23.106548,48.015966],[23.106043,48.014646]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.1788,45.03426,24.1788,45.03426",
-    "geom:latitude":45.03426,
-    "geom:longitude":24.1788,
+    "geom:area":0.000109,
+    "geom:area_square_m":954632.08127,
+    "geom:bbox":"24.15481,45.028992,24.181896,45.048691",
+    "geom:latitude":45.039403,
+    "geom:longitude":24.17148,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169896.0",
     "gn:asciiname":"Mosteni",
@@ -25,17 +25,46 @@
     "gn:population":411,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.1588,45.01426,24.1988,45.05426",
+    "lbl:latitude":45.035988,
+    "lbl:longitude":24.176872,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.035988,
+    "mps:longitude":24.176872,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "Mo\u015fteni"
+    ],
+    "name:por_x_preferred":[
+        "Mo\u015fteni"
+    ],
+    "name:ron_x_preferred":[
+        "Mo\u015fteni"
+    ],
+    "name:ron_x_variant":[
+        "Mosteni",
+        "Mo\u0219teni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0448\u0442\u0435\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Mo\u015fneni",
         "Mo\u015fteni"
     ],
-    "src:geom":"geonames",
+    "name:vie_x_preferred":[
+        "Mosteni"
+    ],
+    "name:vol_x_preferred":[
+        "Mo\u015fteni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672799
+        "gn:id":672799,
+        "ro-ancpi:id":169967
     },
     "wof:country":"RO",
-    "wof:geomhash":"4335441776d6d63be839babdde6664fd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ff01414f7c99226f2cf1187544774708",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +90,14 @@
         }
     ],
     "wof:id":1293524207,
-    "wof:lastmodified":1566610044,
-    "wof:name":"Mosteni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203681,
+    "wof:name":"Mo\u015fteni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":411,
@@ -69,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.1788,
-    45.03426,
-    24.1788,
-    45.03426
+    24.15481,
+    45.028992,
+    24.181896,
+    45.048691
 ],
-  "geometry": {"coordinates":[24.1788,45.03426],"type":"Point"}
+  "geometry": {"coordinates":[[[24.15495,45.04718],[24.15481,45.047277],[24.154991,45.047284],[24.155117,45.04727],[24.155174,45.047265],[24.155277,45.04734],[24.155391,45.047434],[24.15548,45.047575],[24.155583,45.047694],[24.155721,45.047822],[24.155858,45.047846],[24.15613,45.047987],[24.156522,45.048173],[24.156844,45.048331],[24.157129,45.048434],[24.157428,45.048533],[24.157736,45.048623],[24.157829,45.048647],[24.158003,45.048691],[24.161599,45.046558],[24.164643,45.048522],[24.166372,45.047022],[24.16353,45.044698],[24.167213,45.040689],[24.16917,45.039241],[24.173556,45.037313],[24.174243,45.039463],[24.176549,45.045899],[24.178104,45.045488],[24.175802,45.03921],[24.175979,45.037971],[24.179974,45.039349],[24.181606,45.036077],[24.178355,45.03434],[24.180284,45.032112],[24.181896,45.030344],[24.17999,45.028992],[24.179356,45.029437],[24.176583,45.031457],[24.172141,45.036461],[24.1699,45.036996],[24.168001,45.037888],[24.166266,45.039619],[24.166432,45.03976],[24.163835,45.042329],[24.160859,45.04428],[24.158381,45.045558],[24.15495,45.04718]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.74525,47.18792,23.74525,47.18792",
-    "geom:latitude":47.18792,
-    "geom:longitude":23.74525,
+    "geom:area":0.000016,
+    "geom:area_square_m":133334.264648,
+    "geom:bbox":"23.714371,47.1854,23.72862,47.187258",
+    "geom:latitude":47.186373,
+    "geom:longitude":23.722299,
     "gn:admin1_code":"13",
     "gn:admin2_code":"55008",
     "gn:asciiname":"Pestera",
@@ -24,16 +24,54 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.72525,47.16792,23.76525,47.20792",
+    "lbl:latitude":47.186274,
+    "lbl:longitude":23.722877,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":47.186274,
+    "mps:longitude":23.722877,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0634\u062a\u064a\u0631\u0627"
+    ],
+    "name:epo_x_preferred":[
+        "Pe\u0219tera"
+    ],
     "name:hun_x_preferred":[
         "Pestes"
     ],
-    "src:geom":"geonames",
+    "name:hun_x_variant":[
+        "Pe\u0219tera"
+    ],
+    "name:ita_x_preferred":[
+        "Pe\u015ftera"
+    ],
+    "name:por_x_preferred":[
+        "Pe\u015ftera"
+    ],
+    "name:ron_x_preferred":[
+        "Pe\u015ftera"
+    ],
+    "name:ron_x_variant":[
+        "Pestera",
+        "Pe\u0219tera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0435\u0440\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Pe\u015ftera"
+    ],
+    "name:vol_x_preferred":[
+        "Pe\u015ftera"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -41,10 +79,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10942361
+        "gn:id":10942361,
+        "ro-ancpi:id":55035
     },
     "wof:country":"RO",
-    "wof:geomhash":"7de95014b4803e9fc6f2ad9f2baf65e4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7750bd892f97ad33641aeb48c87b5d0e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,8 +96,14 @@
         }
     ],
     "wof:id":1242959573,
-    "wof:lastmodified":1566611453,
-    "wof:name":"Pestera",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203422,
+    "wof:name":"Pe\u015ftera",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -64,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.74525,
-    47.18792,
-    23.74525,
-    47.18792
+    23.714371,
+    47.1854,
+    23.72862,
+    47.187258
 ],
-  "geometry": {"coordinates":[23.74525,47.18792],"type":"Point"}
+  "geometry": {"coordinates":[[[23.718814,47.186872],[23.720551,47.18672],[23.721857,47.186769],[23.722455,47.186981],[23.723535,47.187044],[23.72562,47.187067],[23.726827,47.187063],[23.727458,47.186967],[23.72862,47.186723],[23.7285,47.18597],[23.728249,47.185745],[23.727743,47.185532],[23.726665,47.1854],[23.725809,47.185459],[23.72475,47.185619],[23.724118,47.185766],[23.723742,47.185728],[23.723393,47.185621],[23.723068,47.185532],[23.722338,47.185575],[23.722033,47.185726],[23.721774,47.185918],[23.721434,47.185895],[23.720639,47.185934],[23.719327,47.186127],[23.718392,47.186148],[23.716527,47.186032],[23.714383,47.186151],[23.714371,47.18649],[23.714414,47.186892],[23.714485,47.187081],[23.714609,47.187168],[23.71481,47.18717],[23.715195,47.187092],[23.716325,47.186862],[23.716981,47.186783],[23.717207,47.186803],[23.717573,47.187235],[23.718126,47.187258],[23.718205,47.187105],[23.718333,47.187004],[23.718814,47.186872]]],"type":"Polygon"}
 }

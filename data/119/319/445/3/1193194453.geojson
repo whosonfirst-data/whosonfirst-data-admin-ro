@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.25956,46.75824,27.25956,46.75824",
-    "geom:latitude":46.75824,
-    "geom:longitude":27.25956,
+    "geom:area":0.000049,
+    "geom:area_square_m":413459.394972,
+    "geom:bbox":"27.252246,46.751506,27.262643,46.763971",
+    "geom:latitude":46.75716,
+    "geom:longitude":27.257265,
     "gn:admin1_code":"38",
     "gn:admin2_code":"164062.0",
     "gn:asciiname":"Racovita",
@@ -24,13 +24,24 @@
     "gn:population":169,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.23956,46.73824,27.27956,46.77824",
+    "lbl:latitude":46.75824,
+    "lbl:longitude":27.25956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Racovi\u0163a"
+    ],
+    "name:ron_x_variant":[
+        "Racovita"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669319
+        "gn:id":669319,
+        "ro-ancpi:id":164106
     },
     "wof:country":"RO",
-    "wof:geomhash":"527f9d322b628c6c97a34d4070de91ec",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7d74ec294ac06aaad5d6f2b24804cd9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1193194453,
-    "wof:lastmodified":1566610458,
-    "wof:name":"Racovita",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203469,
+    "wof:name":"Racovi\u0163a",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":169,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.25956,
-    46.75824,
-    27.25956,
-    46.75824
+    27.252246,
+    46.751506,
+    27.262643,
+    46.763971
 ],
-  "geometry": {"coordinates":[27.25956,46.75824],"type":"Point"}
+  "geometry": {"coordinates":[[[27.261054,46.76161],[27.262343,46.760128],[27.262552,46.760127],[27.262643,46.759309],[27.261543,46.758582],[27.259233,46.756366],[27.258783,46.7555],[27.25967,46.755384],[27.259486,46.754752],[27.258438,46.754765],[27.257617,46.752558],[27.257707,46.751985],[27.256841,46.751818],[27.256844,46.751653],[27.255912,46.751506],[27.255202,46.752615],[27.254708,46.754489],[27.253774,46.754536],[27.252246,46.758939],[27.255054,46.75918],[27.25788,46.759346],[27.260311,46.759328],[27.259938,46.761644],[27.259089,46.762889],[27.259293,46.763942],[27.260128,46.763971],[27.260306,46.763281],[27.260673,46.762973],[27.261054,46.76161]]],"type":"Polygon"}
 }

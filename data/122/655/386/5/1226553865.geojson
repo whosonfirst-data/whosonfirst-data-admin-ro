@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.46997,46.02619,23.46997,46.02619",
-    "geom:latitude":46.02619,
-    "geom:longitude":23.46997,
+    "geom:area":0.00001,
+    "geom:area_square_m":85168.521407,
+    "geom:bbox":"23.467228,46.021821,23.476076,46.03037",
+    "geom:latitude":46.025179,
+    "geom:longitude":23.471414,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8826.0",
     "gn:asciiname":"Valea lui Mihai",
@@ -24,11 +24,14 @@
     "gn:population":52,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.44997,46.00619,23.48997,46.04619",
+    "lbl:latitude":46.024544,
+    "lbl:longitude":23.473031,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.024544,
+    "mps:longitude":23.473031,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Valea Lui Mihai"
@@ -76,6 +79,9 @@
         "Valea lui Mihai"
     ],
     "name:ron_x_preferred":[
+        "Valea Lui Mihai"
+    ],
+    "name:ron_x_variant":[
         "Valea lui Mihai"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +111,11 @@
     "name:zho_x_preferred":[
         "\u7c73\u54c8\u4f0a\u8c37\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -114,10 +124,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663693
+        "gn:id":663693,
+        "ro-ancpi:id":8988
     },
     "wof:country":"RO",
-    "wof:geomhash":"0dc3a36329111f0d0b884eb7023b59c3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"46bc7b19360539254691393cac943619",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -127,8 +141,14 @@
         }
     ],
     "wof:id":1226553865,
-    "wof:lastmodified":1566611691,
-    "wof:name":"Valea lui Mihai",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203770,
+    "wof:name":"Valea Lui Mihai",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":52,
@@ -139,10 +159,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.46997,
-    46.02619,
-    23.46997,
-    46.02619
+    23.467228,
+    46.021821,
+    23.476076,
+    46.03037
 ],
-  "geometry": {"coordinates":[23.46997,46.02619],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.47231,46.027018],[23.472832,46.02589],[23.473636,46.02593],[23.473806,46.024667],[23.473783,46.023613],[23.472736,46.023701],[23.471913,46.024002],[23.472496,46.025224],[23.471543,46.025294],[23.471609,46.026313],[23.471548,46.027024],[23.471122,46.027687],[23.471871,46.028103],[23.472286,46.027476],[23.47231,46.027018]]],[[[23.469558,46.022044],[23.46952,46.021821],[23.46873,46.021835],[23.468668,46.022137],[23.468696,46.022422],[23.468832,46.022627],[23.469118,46.022891],[23.469343,46.023092],[23.469547,46.023094],[23.469778,46.023098],[23.469927,46.023161],[23.470074,46.023318],[23.470229,46.023487],[23.470273,46.023821],[23.470312,46.024026],[23.4706,46.024209],[23.47104,46.024023],[23.47094,46.023472],[23.470483,46.022983],[23.470028,46.022724],[23.469682,46.022385],[23.469558,46.022044]]],[[[23.468916,46.02499],[23.467541,46.024889],[23.467228,46.025278],[23.468495,46.026319],[23.468866,46.025875],[23.469225,46.025231],[23.468916,46.02499]]],[[[23.475529,46.029651],[23.474974,46.029405],[23.474956,46.029435],[23.474784,46.02997],[23.476003,46.03037],[23.476076,46.030326],[23.475395,46.029849],[23.475529,46.029651]]]],"type":"MultiPolygon"}
 }

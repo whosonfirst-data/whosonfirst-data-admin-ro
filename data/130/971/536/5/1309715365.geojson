@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.26543,46.23667,22.26543,46.23667",
-    "geom:latitude":46.23667,
-    "geom:longitude":22.26543,
+    "geom:area":0.000039,
+    "geom:area_square_m":329680.9855,
+    "geom:bbox":"22.258671,46.232883,22.269066,46.23962",
+    "geom:latitude":46.236431,
+    "geom:longitude":22.264217,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10943.0",
     "gn:asciiname":"Mustesti",
@@ -24,21 +24,30 @@
     "gn:population":105,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.24543,46.21667,22.28543,46.25667",
+    "lbl:latitude":46.23667,
+    "lbl:longitude":22.26543,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
-        "Muste\u0219ti"
+        "Muste\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Muste\u0219ti",
+        "Mustesti"
     ],
     "name:und_x_variant":[
         "Musztesd",
         "Musztesty",
         "Mosztafalva"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672577
+        "gn:id":672577,
+        "ro-ancpi:id":11012
     },
     "wof:country":"RO",
-    "wof:geomhash":"75d17eab86e6d855178213647beefb27",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e7dbaf094e46abc3bd2dad5d8a733ef1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +73,14 @@
         }
     ],
     "wof:id":1309715365,
-    "wof:lastmodified":1566611241,
-    "wof:name":"Mustesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203716,
+    "wof:name":"Muste\u015fti",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":105,
@@ -72,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.26543,
-    46.23667,
-    22.26543,
-    46.23667
+    22.258671,
+    46.232883,
+    22.269066,
+    46.23962
 ],
-  "geometry": {"coordinates":[22.26543,46.23667],"type":"Point"}
+  "geometry": {"coordinates":[[[22.265765,46.23962],[22.265889,46.239427],[22.26602,46.239464],[22.266744,46.239597],[22.267482,46.238606],[22.267649,46.238427],[22.268136,46.237731],[22.267312,46.237377],[22.267728,46.236939],[22.268131,46.236315],[22.268196,46.236228],[22.268423,46.236048],[22.26894,46.235363],[22.268814,46.235239],[22.269066,46.234693],[22.266628,46.234018],[22.267206,46.233062],[22.266605,46.232883],[22.265804,46.234176],[22.265465,46.23408],[22.265072,46.234471],[22.264728,46.235001],[22.261194,46.233809],[22.260798,46.234679],[22.260588,46.23498],[22.259444,46.234693],[22.258813,46.234673],[22.258772,46.235084],[22.259088,46.235106],[22.259137,46.235128],[22.258691,46.235892],[22.258671,46.236105],[22.259161,46.236145],[22.25964,46.236268],[22.259496,46.236574],[22.260014,46.236822],[22.260391,46.23696],[22.260641,46.237004],[22.26062,46.237103],[22.260209,46.237758],[22.262215,46.238426],[22.262483,46.238535],[22.265765,46.23962]]],"type":"Polygon"}
 }

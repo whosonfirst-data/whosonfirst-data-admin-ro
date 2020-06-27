@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"21.1825478431,45.7292070938,21.1825478431,45.7292070938",
+    "geom:bbox":"21.182548,45.729207,21.182548,45.729207",
     "geom:latitude":45.729207,
     "geom:longitude":21.182548,
     "iso:country":"RO",
@@ -33,13 +33,13 @@
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
-        101751973,
         85633745,
+        101751973,
         85687655
     ],
     "wof:breaches":[],
     "wof:country":"RO",
-    "wof:geomhash":"bd833e7c0af837a5d0d7a5ec79fe89b8",
+    "wof:geomhash":"e4f5d64b71a9ebf3415cf65bcb8a5937",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -50,7 +50,13 @@
         }
     ],
     "wof:id":1444838727,
-    "wof:lastmodified":1566610404,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208079,
     "wof:name":"Freidorf",
     "wof:parent_id":101751973,
     "wof:placetype":"neighbourhood",
@@ -60,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.18254784307938,
-    45.72920709381472,
-    21.18254784307938,
-    45.72920709381472
+    21.182548,
+    45.729207,
+    21.182548,
+    45.729207
 ],
-  "geometry": {"coordinates":[21.18254784307938,45.72920709381472],"type":"Point"}
+  "geometry": {"coordinates":[21.182548,45.729207],"type":"Point"}
 }

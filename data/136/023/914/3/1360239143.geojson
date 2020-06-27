@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23434,46.65809,24.23434,46.65809",
-    "geom:latitude":46.65809,
-    "geom:longitude":24.23434,
+    "geom:area":0.000036,
+    "geom:area_square_m":307982.530889,
+    "geom:bbox":"24.225108,46.652616,24.239849,46.662882",
+    "geom:latitude":46.657941,
+    "geom:longitude":24.231793,
     "gn:admin1_code":"27",
     "gn:admin2_code":"118370.0",
     "gn:asciiname":"Groapa Radaii",
@@ -24,13 +24,26 @@
     "gn:population":58,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.21434,46.63809,24.25434,46.67809",
+    "lbl:latitude":46.658552,
+    "lbl:longitude":24.231793,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.658552,
+    "mps:longitude":24.231793,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Groapa R\u0103d\u0103ii"
+    ],
+    "name:ron_x_variant":[
+        "Groapa Radaii"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676693
+        "gn:id":676693,
+        "ro-ancpi:id":118414
     },
     "wof:country":"RO",
-    "wof:geomhash":"7b9028fddb3628ce048cd45d9a7291ba",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"370d6b364c2957d7160183ee64bf7bcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1360239143,
-    "wof:lastmodified":1566610608,
-    "wof:name":"Groapa Radaii",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203451,
+    "wof:name":"Groapa R\u0103d\u0103ii",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":58,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23434,
-    46.65809,
-    24.23434,
-    46.65809
+    24.225108,
+    46.652616,
+    24.239849,
+    46.662882
 ],
-  "geometry": {"coordinates":[24.23434,46.65809],"type":"Point"}
+  "geometry": {"coordinates":[[[24.239849,46.653423],[24.238499,46.652616],[24.233396,46.653172],[24.233373,46.654839],[24.229279,46.658977],[24.225108,46.661414],[24.2266,46.662882],[24.232133,46.660524],[24.234908,46.656897],[24.235302,46.653984],[24.239849,46.653423]]],"type":"Polygon"}
 }

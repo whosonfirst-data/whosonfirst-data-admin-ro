@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.56667,43.91667,23.56667,43.91667",
-    "geom:latitude":43.91667,
-    "geom:longitude":23.56667,
+    "geom:area":0.000053,
+    "geom:area_square_m":469158.499863,
+    "geom:bbox":"23.556372,43.914221,23.568795,43.922059",
+    "geom:latitude":43.918124,
+    "geom:longitude":23.562697,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70897",
     "gn:asciiname":"Brandusa",
@@ -25,18 +25,29 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.54667,43.89667,23.58667,43.93667",
+    "lbl:latitude":43.91667,
+    "lbl:longitude":23.56667,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Br\u00e2ndu\u015fa"
+    ],
+    "name:ron_x_variant":[
+        "Brandusa"
+    ],
     "name:und_x_variant":[
         "C\u00e2rcota",
         "C\u00eercota",
         "Br\u00eendu\u015fa"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683675
+        "gn:id":683675,
+        "ro-ancpi:id":70922
     },
     "wof:country":"RO",
-    "wof:geomhash":"f8db0d0030112fc97e85cbec46dc4ae7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f09dae0a5c47b6d064b5d2ea53634f5c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1343524973,
-    "wof:lastmodified":1566609891,
-    "wof:name":"Brandusa",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203317,
+    "wof:name":"Br\u00e2ndu\u015fa",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.56667,
-    43.91667,
-    23.56667,
-    43.91667
+    23.556372,
+    43.914221,
+    23.568795,
+    43.922059
 ],
-  "geometry": {"coordinates":[23.56667,43.91667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.56356,43.922059],[23.564998,43.920604],[23.565891,43.920986],[23.566894,43.920172],[23.566722,43.920078],[23.568795,43.917923],[23.568544,43.917624],[23.567806,43.917157],[23.567181,43.916845],[23.564971,43.915601],[23.563004,43.914585],[23.562345,43.914221],[23.561898,43.914687],[23.561338,43.915225],[23.560827,43.915773],[23.559563,43.915119],[23.557526,43.917241],[23.556372,43.918469],[23.56356,43.922059]]],"type":"Polygon"}
 }

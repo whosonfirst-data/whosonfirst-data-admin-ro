@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.29067,44.85018,24.29067,44.85018",
-    "geom:latitude":44.85018,
-    "geom:longitude":24.29067,
+    "geom:area":0.000128,
+    "geom:area_square_m":1119677.964013,
+    "geom:bbox":"24.279922,44.842217,24.29368,44.86188",
+    "geom:latitude":44.85126,
+    "geom:longitude":24.288218,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171806.0",
     "gn:asciiname":"Cioboti",
@@ -24,13 +24,24 @@
     "gn:population":852,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.27067,44.83018,24.31067,44.87018",
+    "lbl:latitude":44.85018,
+    "lbl:longitude":24.29067,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ciobo\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Cioboti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681764
+        "gn:id":681764,
+        "ro-ancpi:id":171833
     },
     "wof:country":"RO",
-    "wof:geomhash":"4ab90c5e0873e0df5f3c374fda68e9a7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ac5175c5c91b49853230c57304cf397e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1277111685,
-    "wof:lastmodified":1566610272,
-    "wof:name":"Cioboti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
+    "wof:name":"Ciobo\u0163i",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":852,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.29067,
-    44.85018,
-    24.29067,
-    44.85018
+    24.279922,
+    44.842217,
+    24.29368,
+    44.86188
 ],
-  "geometry": {"coordinates":[24.29067,44.85018],"type":"Point"}
+  "geometry": {"coordinates":[[[24.290722,44.843539],[24.290239,44.843028],[24.288132,44.842623],[24.287384,44.842488],[24.285872,44.842217],[24.285369,44.844627],[24.284841,44.846986],[24.282757,44.853058],[24.280149,44.852911],[24.279922,44.854643],[24.284399,44.854878],[24.284397,44.853299],[24.286877,44.853198],[24.286797,44.8561],[24.286658,44.859255],[24.286405,44.861098],[24.286217,44.861755],[24.288318,44.86188],[24.2884,44.860667],[24.292423,44.860645],[24.292519,44.859088],[24.289672,44.859049],[24.289555,44.857317],[24.289522,44.856272],[24.29168,44.85638],[24.292507,44.852654],[24.29368,44.84706],[24.29074,44.844625],[24.290874,44.8437],[24.290722,44.843539]]],"type":"Polygon"}
 }

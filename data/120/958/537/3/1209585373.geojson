@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.90953,44.67656,25.90953,44.67656",
-    "geom:latitude":44.67656,
-    "geom:longitude":25.90953,
+    "geom:area":0.000053,
+    "geom:area_square_m":466143.161961,
+    "geom:bbox":"25.900196,44.673249,25.923903,44.679605",
+    "geom:latitude":44.676497,
+    "geom:longitude":25.91125,
     "gn:admin1_code":"16",
     "gn:admin2_code":"101564.0",
     "gn:asciiname":"Ungureni",
@@ -24,16 +24,20 @@
     "gn:population":315,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.88953,44.65656,25.92953,44.69656",
+    "lbl:latitude":44.67656,
+    "lbl:longitude":25.90953,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ungureni"
     ],
     "name:deu_x_preferred":[
+        "Ungureni"
+    ],
+    "name:eus_x_preferred":[
         "Ungureni"
     ],
     "name:fra_x_preferred":[
@@ -57,27 +61,45 @@
     "name:vol_x_preferred":[
         "Ungureni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687637
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664245
+        "gn:id":664245,
+        "ro-ancpi:id":101608
     },
     "wof:country":"RO",
-    "wof:geomhash":"518f83469de1db18858ef497c04be007",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5ded9e3e41aab85c61fa186ddfc1d5fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209585373
+            "locality_id":1209585373,
+            "region_id":85687637
         }
     ],
     "wof:id":1209585373,
-    "wof:lastmodified":1566610358,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203721,
     "wof:name":"Ungureni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687637,
     "wof:placetype":"locality",
     "wof:population":315,
     "wof:population_rank":2,
@@ -87,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.90953,
-    44.67656,
-    25.90953,
-    44.67656
+    25.900196,
+    44.673249,
+    25.923903,
+    44.679605
 ],
-  "geometry": {"coordinates":[25.90953,44.67656],"type":"Point"}
+  "geometry": {"coordinates":[[[25.900575,44.674403],[25.900196,44.676147],[25.902403,44.676404],[25.902628,44.67643],[25.903242,44.676496],[25.903606,44.676535],[25.905771,44.676767],[25.907938,44.677045],[25.907915,44.677901],[25.907913,44.677988],[25.909705,44.678203],[25.909787,44.678213],[25.910668,44.678318],[25.910702,44.678235],[25.910796,44.678003],[25.912363,44.678276],[25.914123,44.678176],[25.915609,44.678402],[25.919905,44.679081],[25.923058,44.679605],[25.923161,44.679346],[25.923188,44.679261],[25.923281,44.678968],[25.923903,44.679065],[25.923535,44.67821],[25.922237,44.677996],[25.917071,44.677152],[25.913845,44.676645],[25.91377,44.674323],[25.913768,44.674274],[25.913767,44.674245],[25.911294,44.673998],[25.911099,44.673523],[25.909384,44.673338],[25.909326,44.673332],[25.908558,44.673249],[25.908454,44.673748],[25.908124,44.675319],[25.907041,44.675185],[25.903122,44.674702],[25.900575,44.674403]]],"type":"Polygon"}
 }

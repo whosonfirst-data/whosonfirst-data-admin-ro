@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.40572,45.00429,24.40572,45.00429",
-    "geom:latitude":45.00429,
-    "geom:longitude":24.40572,
+    "geom:area":0.000017,
+    "geom:area_square_m":151876.883888,
+    "geom:bbox":"24.399555,44.999256,24.406743,45.006833",
+    "geom:latitude":45.002842,
+    "geom:longitude":24.40292,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Mazararu",
@@ -25,18 +25,29 @@
     "gn:population":75,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.38572,44.98429,24.42572,45.02429",
+    "lbl:latitude":45.00429,
+    "lbl:longitude":24.40572,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u0103z\u0103raru"
+    ],
+    "name:ron_x_variant":[
+        "Mazararu"
+    ],
     "name:und_x_variant":[
         "M\u0103z\u0103raru G\u00eeltofanu",
         "Mazararul",
         "M\u0103z\u0103raru"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +56,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673646
+        "gn:id":673646,
+        "ro-ancpi:id":171708
     },
     "wof:country":"RO",
-    "wof:geomhash":"185387d1b92359f753864c75d675a062",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4278b523b62812201175ff0403b5e835",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +73,14 @@
         }
     ],
     "wof:id":1293326733,
-    "wof:lastmodified":1566610095,
-    "wof:name":"Mazararu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
+    "wof:name":"M\u0103z\u0103raru",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":75,
@@ -70,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.40572,
-    45.00429000000001,
-    24.40572,
-    45.00429000000001
+    24.399555,
+    44.999256,
+    24.406743,
+    45.006833
 ],
-  "geometry": {"coordinates":[24.40572,45.00429000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.404202,45.000388],[24.403109,44.999256],[24.402657,44.999421],[24.401815,44.999763],[24.399653,45.001303],[24.399555,45.00199],[24.400238,45.002992],[24.403533,45.004455],[24.405185,45.005773],[24.40445,45.006404],[24.405087,45.006833],[24.406741,45.005978],[24.406016,45.005334],[24.406743,45.004857],[24.40161,45.001776],[24.402212,45.001244],[24.402867,45.000907],[24.403592,45.000678],[24.404202,45.000388]]],"type":"Polygon"}
 }

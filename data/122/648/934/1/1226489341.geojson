@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.45379,44.76949,24.45379,44.76949",
-    "geom:latitude":44.76949,
-    "geom:longitude":24.45379,
+    "geom:area":0.000096,
+    "geom:area_square_m":842413.738619,
+    "geom:bbox":"24.44629,44.757334,24.464559,44.784337",
+    "geom:latitude":44.770618,
+    "geom:longitude":24.45506,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127411",
     "gn:asciiname":"Afumati",
@@ -24,13 +24,24 @@
     "gn:population":190,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.43379,44.74949,24.47379,44.78949",
+    "lbl:latitude":44.76949,
+    "lbl:longitude":24.45379,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Afuma\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Afumati"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":686647
+        "gn:id":686647,
+        "ro-ancpi:id":127439
     },
     "wof:country":"RO",
-    "wof:geomhash":"d81d33d83e9a99d97b878564e161b1d3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5e88b6deb8686f23ab263dcd540a9cef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1226489341,
-    "wof:lastmodified":1566611690,
-    "wof:name":"Afumati",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203708,
+    "wof:name":"Afuma\u0163i",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":190,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.45379,
-    44.76949000000001,
-    24.45379,
-    44.76949000000001
+    24.44629,
+    44.757334,
+    24.464559,
+    44.784337
 ],
-  "geometry": {"coordinates":[24.45379,44.76949000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[24.464,44.783022],[24.462907,44.781403],[24.4616,44.777646],[24.459614,44.773175],[24.457737,44.772969],[24.455086,44.770091],[24.453052,44.764179],[24.452263,44.761778],[24.452164,44.761111],[24.452936,44.761018],[24.451862,44.759485],[24.450498,44.759228],[24.449045,44.757886],[24.448334,44.757334],[24.44629,44.757553],[24.447048,44.758749],[24.448632,44.759616],[24.448987,44.761417],[24.448871,44.762349],[24.449358,44.765121],[24.450833,44.769182],[24.451752,44.770085],[24.452835,44.771968],[24.453848,44.773383],[24.456513,44.775043],[24.458357,44.778149],[24.461448,44.78364],[24.461938,44.784337],[24.464559,44.783737],[24.464,44.783022]]],"type":"Polygon"}
 }

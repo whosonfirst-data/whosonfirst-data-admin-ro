@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.27081,44.9882,24.27081,44.9882",
-    "geom:latitude":44.9882,
-    "geom:longitude":24.27081,
+    "geom:area":0.000115,
+    "geom:area_square_m":1008025.981069,
+    "geom:bbox":"24.250635,44.983163,24.277963,44.993041",
+    "geom:latitude":44.989255,
+    "geom:longitude":24.263097,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171325.0",
     "gn:asciiname":"Munteni",
@@ -24,14 +24,20 @@
     "gn:population":208,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.25081,44.9682,24.29081,45.0082",
+    "lbl:latitude":44.989939,
+    "lbl:longitude":24.263325,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.989939,
+    "mps:longitude":24.263325,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Munteni"
+    ],
+    "name:eus_x_preferred":[
+        "Munteni"
     ],
     "name:ita_x_preferred":[
         "Munteni"
@@ -46,6 +52,9 @@
         "Munteni"
     ],
     "name:ron_x_preferred":[
+        "Munteni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Munteni"
     ],
     "name:srp_x_preferred":[
@@ -63,7 +72,11 @@
     "name:zho_x_preferred":[
         "\u8499\u6cf0\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -73,10 +86,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":672661,
+        "ro-ancpi:id":171405,
         "wk:page":"Munteni"
     },
     "wof:country":"RO",
-    "wof:geomhash":"bd64c64f92afe210805fddfe05ad3d41",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5fbc09e4dd9c5785e880bc87b7ce74eb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,7 +103,13 @@
         }
     ],
     "wof:id":1260111801,
-    "wof:lastmodified":1566610489,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
     "wof:name":"Munteni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -98,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.27081,
-    44.9882,
-    24.27081,
-    44.9882
+    24.250635,
+    44.983163,
+    24.277963,
+    44.993041
 ],
-  "geometry": {"coordinates":[24.27081,44.9882],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.270735,44.992215],[24.270476,44.986223],[24.262647,44.987057],[24.259805,44.988148],[24.258661,44.988307],[24.256994,44.988425],[24.256738,44.987348],[24.256449,44.986682],[24.256354,44.986689],[24.256226,44.986698],[24.25613,44.986705],[24.255915,44.986691],[24.255879,44.986688],[24.255748,44.986688],[24.255747,44.986688],[24.255746,44.986688],[24.255746,44.986688],[24.255745,44.986688],[24.255743,44.986688],[24.255743,44.986688],[24.255737,44.986688],[24.255701,44.986687],[24.255542,44.98668],[24.255434,44.986671],[24.250635,44.98868],[24.250979,44.991678],[24.25682,44.992499],[24.259563,44.991836],[24.261706,44.993041],[24.270735,44.992215]]],[[[24.277963,44.98659],[24.274717,44.983163],[24.274067,44.983372],[24.273579,44.983552],[24.273102,44.983729],[24.272718,44.983835],[24.272534,44.983897],[24.272145,44.983999],[24.272786,44.985013],[24.272395,44.98535],[24.271525,44.985059],[24.27379,44.987263],[24.277963,44.98659]]]],"type":"MultiPolygon"}
 }

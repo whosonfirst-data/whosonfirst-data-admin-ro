@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.21397,45.34883,24.21397,45.34883",
-    "geom:latitude":45.34883,
-    "geom:longitude":24.21397,
+    "geom:area":0.000013,
+    "geom:area_square_m":113707.443949,
+    "geom:bbox":"24.192707,45.343994,24.199917,45.354486",
+    "geom:latitude":45.350175,
+    "geom:longitude":24.195743,
     "gn:admin1_code":"39",
     "gn:admin2_code":"167794.0",
     "gn:asciiname":"Valea lui Stan",
@@ -24,13 +24,26 @@
     "gn:population":367,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.19397,45.32883,24.23397,45.36883",
+    "lbl:latitude":45.353343,
+    "lbl:longitude":24.195816,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.353343,
+    "mps:longitude":24.195816,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea Lui Stan"
+    ],
+    "name:ron_x_variant":[
+        "Valea lui Stan"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663683
+        "gn:id":663683,
+        "ro-ancpi:id":167874
     },
     "wof:country":"RO",
-    "wof:geomhash":"8b256ff40f2b87a981551032d817b2e4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"13976ed76a8eb97e37d0cc6f0eb12f5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1276370849,
-    "wof:lastmodified":1566610255,
-    "wof:name":"Valea lui Stan",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203684,
+    "wof:name":"Valea Lui Stan",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":367,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.21397,
-    45.34883,
-    24.21397,
-    45.34883
+    24.192707,
+    45.343994,
+    24.199917,
+    45.354486
 ],
-  "geometry": {"coordinates":[24.21397,45.34883],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.19736,45.34405],[24.196427,45.343994],[24.196161,45.347041],[24.196054,45.347396],[24.19567,45.348086],[24.195081,45.348828],[24.194318,45.350161],[24.195276,45.350432],[24.196118,45.349616],[24.19656,45.348947],[24.19673,45.348219],[24.19685,45.347788],[24.196982,45.347208],[24.19736,45.34405]]],[[[24.196762,45.354003],[24.1965,45.352449],[24.192707,45.353023],[24.193275,45.354486],[24.196762,45.354003]]],[[[24.199833,45.348275],[24.199457,45.348267],[24.199261,45.349659],[24.199659,45.349689],[24.199685,45.34962],[24.199719,45.349504],[24.199745,45.349338],[24.199788,45.34902],[24.199902,45.34839],[24.199917,45.348276],[24.199833,45.348275]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.8189,44.83772,25.8189,44.83772",
-    "geom:latitude":44.83772,
-    "geom:longitude":25.8189,
+    "geom:area":0.000033,
+    "geom:area_square_m":292594.04726,
+    "geom:bbox":"25.811098,44.832782,25.820576,44.83891",
+    "geom:latitude":44.835583,
+    "geom:longitude":25.816393,
     "gn:admin1_code":"30",
     "gn:admin2_code":"134194.0",
     "gn:asciiname":"Gura Crivatului",
@@ -24,13 +24,24 @@
     "gn:population":206,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.7989,44.81772,25.8389,44.85772",
+    "lbl:latitude":44.83772,
+    "lbl:longitude":25.8189,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gura Criv\u0103\u0163ului"
+    ],
+    "name:ron_x_variant":[
+        "Gura Crivatului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676546
+        "gn:id":676546,
+        "ro-ancpi:id":134283
     },
     "wof:country":"RO",
-    "wof:geomhash":"8e82fb29f342d7ff3a15669d4884c450",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b26c5802f3406751a9c563ba19388e4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1309966433,
-    "wof:lastmodified":1566611229,
-    "wof:name":"Gura Crivatului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203585,
+    "wof:name":"Gura Criv\u0103\u0163ului",
     "wof:parent_id":85687661,
     "wof:placetype":"locality",
     "wof:population":206,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.8189,
-    44.83772,
-    25.8189,
-    44.83772
+    25.811098,
+    44.832782,
+    25.820576,
+    44.83891
 ],
-  "geometry": {"coordinates":[25.8189,44.83772],"type":"Point"}
+  "geometry": {"coordinates":[[[25.819798,44.834899],[25.820576,44.833713],[25.818883,44.832782],[25.818112,44.833102],[25.816593,44.833393],[25.81505,44.833604],[25.81395,44.833639],[25.813418,44.833533],[25.813004,44.83424],[25.812311,44.834096],[25.812033,44.834392],[25.811793,44.834303],[25.811098,44.835004],[25.812706,44.8359],[25.812376,44.836556],[25.813445,44.836605],[25.815384,44.838047],[25.818622,44.83891],[25.818972,44.838449],[25.819183,44.836491],[25.819399,44.836076],[25.819922,44.835697],[25.820252,44.835166],[25.819798,44.834899]]],"type":"Polygon"}
 }

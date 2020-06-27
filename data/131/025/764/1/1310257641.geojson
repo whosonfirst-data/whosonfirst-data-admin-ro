@@ -2,8 +2,9 @@
   "id": 1310257641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"21.08889,45.70444,21.08889,45.70444",
@@ -28,7 +29,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna S\u00e2nmihaiu Rom\u00e2n"
@@ -95,7 +96,7 @@
         "wk:page":"S%C3%A2nmihaiu_Rom%C3%A2n"
     },
     "wof:country":"RO",
-    "wof:geomhash":"8e7b5299e5912fab9e97cfb0a5803c93",
+    "wof:geomhash":"e1aee3dd8df55cd9f1c8b51b56dfee96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,22 +106,24 @@
         }
     ],
     "wof:id":1310257641,
-    "wof:lastmodified":1566610533,
+    "wof:lastmodified":1588368334,
     "wof:name":"Sanmihaiu Roman",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":4343,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101791589
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     21.08889,
-    45.70444000000001,
+    45.70444,
     21.08889,
-    45.70444000000001
+    45.70444
 ],
-  "geometry": {"coordinates":[21.08889,45.70444000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.08889,45.70444],"type":"Point"}
 }

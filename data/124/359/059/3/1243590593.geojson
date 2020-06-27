@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.96921,44.7496,23.96921,44.7496",
-    "geom:latitude":44.7496,
-    "geom:longitude":23.96921,
+    "geom:area":0.000055,
+    "geom:area_square_m":487167.024406,
+    "geom:bbox":"23.963915,44.742873,23.974671,44.762424",
+    "geom:latitude":44.75217,
+    "geom:longitude":23.967732,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Popesti",
@@ -24,13 +24,24 @@
     "gn:population":235,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.94921,44.7296,23.98921,44.7696",
+    "lbl:latitude":44.7496,
+    "lbl:longitude":23.96921,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pope\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Popesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669905
+        "gn:id":669905,
+        "ro-ancpi:id":169823
     },
     "wof:country":"RO",
-    "wof:geomhash":"2b021418fc320b29fd38a50947717171",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"58b8e1055054835530c850c404e3ce8a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1243590593,
-    "wof:lastmodified":1566611481,
-    "wof:name":"Popesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203693,
+    "wof:name":"Pope\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":235,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.96921,
-    44.7496,
-    23.96921,
-    44.7496
+    23.963915,
+    44.742873,
+    23.974671,
+    44.762424
 ],
-  "geometry": {"coordinates":[23.96921,44.7496],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.963915,44.761581],[23.96607,44.762424],[23.966912,44.7612],[23.968238,44.759221],[23.96907,44.754786],[23.969286,44.750704],[23.969176,44.746873],[23.969366,44.744271],[23.971839,44.744192],[23.972042,44.742891],[23.96717,44.742873],[23.9668,44.747541],[23.966275,44.752821],[23.966124,44.755244],[23.964996,44.760136],[23.963915,44.761581]]],[[[23.974671,44.743514],[23.973601,44.743468],[23.973684,44.744137],[23.9745,44.744154],[23.974621,44.744146],[23.974671,44.743514]]]],"type":"MultiPolygon"}
 }

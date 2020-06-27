@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.67178,45.83865,21.67178,45.83865",
-    "geom:latitude":45.83865,
-    "geom:longitude":21.67178,
+    "geom:area":0.000035,
+    "geom:area_square_m":301957.560332,
+    "geom:bbox":"21.662561,45.834009,21.676494,45.840534",
+    "geom:latitude":45.836956,
+    "geom:longitude":21.670558,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156151.0",
     "gn:asciiname":"Lucaret",
@@ -25,12 +25,19 @@
     "gn:population":104,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.65178,45.81865,21.69178,45.85865",
+    "lbl:latitude":45.83865,
+    "lbl:longitude":21.67178,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Lucare\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Lucaret"
+    ],
     "name:und_x_variant":[
         "Greifenthal",
         "Luk\u00e1csk\u0151",
@@ -38,7 +45,11 @@
         "Lukarec",
         "Lucare\u0163"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674564
+        "gn:id":674564,
+        "ro-ancpi:id":156197
     },
     "wof:country":"RO",
-    "wof:geomhash":"6c8c7a57ecd7e40e3fe1ee13c3f5887d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d92ef1b26adc3ffb5da6ef628d7e10bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +75,14 @@
         }
     ],
     "wof:id":1260132757,
-    "wof:lastmodified":1566610470,
-    "wof:name":"Lucaret",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
+    "wof:name":"Lucare\u0163",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":104,
@@ -72,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.67178,
-    45.83865,
-    21.67178,
-    45.83865
+    21.662561,
+    45.834009,
+    21.676494,
+    45.840534
 ],
-  "geometry": {"coordinates":[21.67178,45.83865],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.673741,45.8353],[21.67356,45.834533],[21.673394,45.834156],[21.67287,45.834206],[21.672508,45.834219],[21.67249,45.834863],[21.671435,45.834798],[21.670861,45.835025],[21.6699,45.835056],[21.669372,45.835834],[21.668703,45.836308],[21.668405,45.836509],[21.667914,45.836633],[21.668055,45.836994],[21.667079,45.837773],[21.66852,45.838792],[21.669668,45.83945],[21.670404,45.840373],[21.672035,45.840534],[21.672435,45.839804],[21.672884,45.839485],[21.673107,45.838925],[21.673429,45.838432],[21.675241,45.837136],[21.674693,45.836148],[21.673787,45.836084],[21.673741,45.8353]]],[[[21.665915,45.835901],[21.666824,45.83508],[21.666134,45.834375],[21.66581,45.834218],[21.665285,45.834375],[21.664576,45.835076],[21.663153,45.83453],[21.662561,45.835186],[21.66461,45.836094],[21.66601,45.836799],[21.666577,45.83633],[21.665915,45.835901]]],[[[21.675979,45.83482],[21.67509,45.834009],[21.674837,45.834096],[21.674507,45.834249],[21.67496,45.834994],[21.675791,45.835859],[21.67615,45.835607],[21.676494,45.835306],[21.675979,45.83482]]]],"type":"MultiPolygon"}
 }

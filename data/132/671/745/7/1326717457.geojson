@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.7201,45.18522,21.7201,45.18522",
-    "geom:latitude":45.18522,
-    "geom:longitude":21.7201,
+    "geom:area":0.000031,
+    "geom:area_square_m":265980.510361,
+    "geom:bbox":"21.714989,45.181694,21.722989,45.190434",
+    "geom:latitude":45.18551,
+    "geom:longitude":21.719033,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52954.0",
     "gn:asciiname":"Giurgiova",
@@ -25,19 +25,27 @@
     "gn:population":184,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.7001,45.16522,21.7401,45.20522",
+    "lbl:latitude":45.18522,
+    "lbl:longitude":21.7201,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Giurgiova"
+    ],
     "name:und_x_variant":[
         "Durdova",
         "Giurgiuva",
         "Jurjova",
         "Giurgiova"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677110
+        "gn:id":677110,
+        "ro-ancpi:id":52972
     },
     "wof:country":"RO",
-    "wof:geomhash":"bd6f4deb99bda5aa01b1ff8efb787377",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6beea7d63caf9d8d7a7c98c3a4975e51",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +71,13 @@
         }
     ],
     "wof:id":1326717457,
-    "wof:lastmodified":1566609827,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203616,
     "wof:name":"Giurgiova",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -71,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.7201,
-    45.18522,
-    21.7201,
-    45.18522
+    21.714989,
+    45.181694,
+    21.722989,
+    45.190434
 ],
-  "geometry": {"coordinates":[21.7201,45.18522],"type":"Point"}
+  "geometry": {"coordinates":[[[21.721023,45.187344],[21.721704,45.185834],[21.721747,45.185098],[21.722423,45.184998],[21.722989,45.184109],[21.72159,45.183836],[21.720992,45.183709],[21.72042,45.183601],[21.71982,45.183481],[21.719289,45.183389],[21.718948,45.183332],[21.718738,45.183305],[21.719339,45.181889],[21.718513,45.181694],[21.717984,45.182681],[21.717272,45.182548],[21.71702,45.183078],[21.715552,45.18287],[21.715334,45.184061],[21.714989,45.186238],[21.716384,45.186227],[21.71749,45.186182],[21.717741,45.18666],[21.718398,45.187253],[21.718947,45.187641],[21.719218,45.187891],[21.721998,45.190349],[21.722709,45.190434],[21.722972,45.190023],[21.722129,45.189416],[21.72185,45.18863],[21.721023,45.187344]]],"type":"Polygon"}
 }

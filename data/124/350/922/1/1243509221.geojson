@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.66502,44.52369,22.66502,44.52369",
-    "geom:latitude":44.52369,
-    "geom:longitude":22.66502,
+    "geom:area":0.000047,
+    "geom:area_square_m":411653.213134,
+    "geom:bbox":"22.651615,44.519169,22.668729,44.526813",
+    "geom:latitude":44.523075,
+    "geom:longitude":22.662473,
     "gn:admin1_code":"26",
     "gn:admin2_code":"111480.0",
     "gn:asciiname":"Tismana",
@@ -24,11 +24,12 @@
     "gn:population":223,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.64502,44.50369,22.68502,44.54369",
+    "lbl:latitude":44.52369,
+    "lbl:longitude":22.66502,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ora\u0219 Tismana"
@@ -96,7 +97,11 @@
     "name:zho_x_preferred":[
         "\u8482\u65af\u99ac\u7d0d"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -105,10 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664911
+        "gn:id":664911,
+        "ro-ancpi:id":111541
     },
     "wof:country":"RO",
-    "wof:geomhash":"60f8308dc637970d6e95af4295cc79e9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"d4ecae0c140b074858212223f7829201",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -118,7 +127,13 @@
         }
     ],
     "wof:id":1243509221,
-    "wof:lastmodified":1566611483,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203342,
     "wof:name":"Tismana",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
@@ -130,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.66502,
-    44.52369,
-    22.66502,
-    44.52369
+    22.651615,
+    44.519169,
+    22.668729,
+    44.526813
 ],
-  "geometry": {"coordinates":[22.66502,44.52369],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.660015,44.526813],[22.660709,44.526444],[22.661077,44.526746],[22.664026,44.525236],[22.663576,44.524741],[22.663919,44.524408],[22.66418,44.524508],[22.664632,44.524962],[22.668729,44.522755],[22.666739,44.520992],[22.666648,44.520713],[22.665224,44.519511],[22.664857,44.519169],[22.66306,44.520117],[22.662541,44.520402],[22.660781,44.521342],[22.660418,44.521097],[22.659834,44.521415],[22.660121,44.521702],[22.65655,44.523524],[22.658492,44.525353],[22.658804,44.525199],[22.659574,44.525943],[22.659331,44.526091],[22.660015,44.526813]]],[[[22.653138,44.52307],[22.652675,44.52244],[22.651615,44.522818],[22.652111,44.523486],[22.653138,44.52307]]]],"type":"MultiPolygon"}
 }

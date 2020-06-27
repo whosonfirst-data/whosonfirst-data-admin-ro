@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.36329,46.09687,27.36329,46.09687",
-    "geom:latitude":46.09687,
-    "geom:longitude":27.36329,
+    "geom:area":0.000013,
+    "geom:area_square_m":108991.366645,
+    "geom:bbox":"27.35887,46.093306,27.362446,46.098322",
+    "geom:latitude":46.095528,
+    "geom:longitude":27.360633,
     "gn:admin1_code":"40",
     "gn:admin2_code":"177879.0",
     "gn:asciiname":"Vladnicu de Jos",
@@ -25,17 +25,27 @@
     "gn:population":34,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.34329,46.07687,27.38329,46.11687",
+    "lbl:latitude":46.095534,
+    "lbl:longitude":27.360599,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.095534,
+    "mps:longitude":27.360599,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Vladnicu de Jos"
+    ],
     "name:und_x_variant":[
         "Vladnic",
         "Vladnicu de Jos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":662590
+        "gn:id":662590,
+        "ro-ancpi:id":177968
     },
     "wof:country":"RO",
-    "wof:geomhash":"454ae92b9d55532ca94dbbf3777470dd",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ae8f0e7c48fe1f15fb2d3357254af574",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1193184875,
-    "wof:lastmodified":1566610450,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203401,
     "wof:name":"Vladnicu de Jos",
     "wof:parent_id":85687705,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.36329000000001,
-    46.09687,
-    27.36329000000001,
-    46.09687
+    27.35887,
+    46.093306,
+    27.362446,
+    46.098322
 ],
-  "geometry": {"coordinates":[27.36329000000001,46.09687],"type":"Point"}
+  "geometry": {"coordinates":[[[27.360918,46.098322],[27.361415,46.097724],[27.361938,46.097744],[27.362446,46.096396],[27.362002,46.096405],[27.36198,46.095479],[27.361922,46.094106],[27.361957,46.093306],[27.35887,46.093358],[27.358942,46.094228],[27.359331,46.096212],[27.3597,46.097443],[27.360269,46.097968],[27.360918,46.098322]]],"type":"Polygon"}
 }

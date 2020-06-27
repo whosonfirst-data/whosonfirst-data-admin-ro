@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.44193,44.67035,23.44193,44.67035",
-    "geom:latitude":44.67035,
-    "geom:longitude":23.44193,
+    "geom:area":0.000011,
+    "geom:area_square_m":97487.292508,
+    "geom:bbox":"23.436277,44.670772,23.44194,44.674427",
+    "geom:latitude":44.67257,
+    "geom:longitude":23.439376,
     "gn:admin1_code":"19",
     "gn:admin2_code":"81264",
     "gn:asciiname":"Brostenii de Sus",
@@ -25,18 +25,31 @@
     "gn:population":67,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.42193,44.65035,23.46193,44.69035",
+    "lbl:latitude":44.672621,
+    "lbl:longitude":23.439333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.672621,
+    "mps:longitude":23.439333,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bro\u015ftenii de Sus"
+    ],
+    "name:ron_x_variant":[
+        "Brostenii de Sus"
+    ],
     "name:und_x_variant":[
         "At\u00e2rnati",
         "At\u00eerna\u0163i",
         "Bro\u015ftenii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683625
+        "gn:id":683625,
+        "ro-ancpi:id":81291
     },
     "wof:country":"RO",
-    "wof:geomhash":"5adbc1310ebaa13e75cf7f01c10b89d7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ae40190eb3c41f3de487e86d297c90c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1292976077,
-    "wof:lastmodified":1566610118,
-    "wof:name":"Brostenii de Sus",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203662,
+    "wof:name":"Bro\u015ftenii de Sus",
     "wof:parent_id":85687619,
     "wof:placetype":"locality",
     "wof:population":67,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.44193,
-    44.67035,
-    23.44193,
-    44.67035
+    23.436277,
+    44.670772,
+    23.44194,
+    44.674427
 ],
-  "geometry": {"coordinates":[23.44193,44.67035],"type":"Point"}
+  "geometry": {"coordinates":[[[23.44194,44.672311],[23.441917,44.672289],[23.44189,44.672258],[23.441889,44.672163],[23.441845,44.672056],[23.441724,44.671962],[23.441595,44.671891],[23.441405,44.671867],[23.441084,44.671857],[23.440907,44.671823],[23.440608,44.671773],[23.44029,44.671732],[23.440147,44.671653],[23.440051,44.671597],[23.440005,44.671587],[23.439863,44.671571],[23.439738,44.67154],[23.439617,44.671478],[23.439535,44.671445],[23.439326,44.671417],[23.439097,44.671331],[23.438927,44.671278],[23.4388,44.671236],[23.438661,44.671162],[23.438338,44.670974],[23.438233,44.670941],[23.437943,44.670772],[23.437684,44.670992],[23.436277,44.672164],[23.437427,44.672763],[23.439833,44.674427],[23.440579,44.673936],[23.441008,44.674141],[23.441708,44.673368],[23.441914,44.672757],[23.44194,44.672311]]],"type":"Polygon"}
 }

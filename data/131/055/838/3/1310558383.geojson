@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.10328,44.66897,23.10328,44.66897",
-    "geom:latitude":44.66897,
-    "geom:longitude":23.10328,
+    "geom:area":0.000018,
+    "geom:area_square_m":160188.5689,
+    "geom:bbox":"23.098047,44.66493,23.105015,44.670579",
+    "geom:latitude":44.667897,
+    "geom:longitude":23.101604,
     "gn:admin1_code":"26",
     "gn:admin2_code":"111275.0",
     "gn:asciiname":"Puscasu",
@@ -25,17 +25,41 @@
     "gn:population":240,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.08328,44.64897,23.12328,44.68897",
+    "lbl:latitude":44.66897,
+    "lbl:longitude":23.10328,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Pu\u0219ca\u0219u"
+    ],
+    "name:nds_x_preferred":[
+        "Pu\u0219ca\u0219u"
+    ],
+    "name:pol_x_preferred":[
+        "Pu\u015fca\u015fu"
+    ],
+    "name:ron_x_preferred":[
+        "Pu\u015fca\u015fu"
+    ],
+    "name:ron_x_variant":[
+        "Puscasu",
+        "Pu\u0219ca\u0219u"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0448\u043a\u0430\u0448\u0443"
+    ],
     "name:und_x_variant":[
         "Puscasul",
         "Pu\u015fca\u015fu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669461
+        "gn:id":669461,
+        "ro-ancpi:id":111382
     },
     "wof:country":"RO",
-    "wof:geomhash":"8c49252fbc73e0aa52f5256ff7f2efc0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8287a8ad2a780fd6997dc93e42c2e88b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +85,14 @@
         }
     ],
     "wof:id":1310558383,
-    "wof:lastmodified":1566610554,
-    "wof:name":"Puscasu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203338,
+    "wof:name":"Pu\u015fca\u015fu",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":240,
@@ -69,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.10328,
-    44.66897,
-    23.10328,
-    44.66897
+    23.098047,
+    44.66493,
+    23.105015,
+    44.670579
 ],
-  "geometry": {"coordinates":[23.10328,44.66897],"type":"Point"}
+  "geometry": {"coordinates":[[[23.102013,44.670579],[23.102698,44.670113],[23.103319,44.670481],[23.103633,44.670284],[23.103969,44.670517],[23.104276,44.670342],[23.10412,44.670157],[23.105015,44.669523],[23.104788,44.669283],[23.104807,44.668896],[23.104065,44.668146],[23.102991,44.667426],[23.102143,44.666759],[23.100926,44.66493],[23.099829,44.665114],[23.099827,44.66523],[23.099609,44.665276],[23.099565,44.66563],[23.099278,44.665733],[23.099007,44.665911],[23.098707,44.666043],[23.098476,44.666104],[23.098619,44.666351],[23.098047,44.666484],[23.098145,44.666782],[23.098765,44.667179],[23.099264,44.667458],[23.099662,44.667945],[23.10043,44.668666],[23.100798,44.668967],[23.101003,44.669207],[23.101027,44.669754],[23.102013,44.670579]]],"type":"Polygon"}
 }

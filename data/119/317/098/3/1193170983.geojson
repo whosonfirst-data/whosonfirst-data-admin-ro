@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.8195,44.99535,23.8195,44.99535",
-    "geom:latitude":44.99535,
-    "geom:longitude":23.8195,
+    "geom:area":0.000083,
+    "geom:area_square_m":729269.21468,
+    "geom:bbox":"23.785414,44.992681,23.821935,45.016658",
+    "geom:latitude":45.00039,
+    "geom:longitude":23.808666,
     "gn:admin1_code":"39",
     "gn:admin2_code":"168229.0",
     "gn:asciiname":"Rosia",
@@ -24,11 +24,12 @@
     "gn:population":720,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.7995,44.97535,23.8395,45.01535",
+    "lbl:latitude":44.99535,
+    "lbl:longitude":23.8195,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Rosia"
@@ -42,10 +43,20 @@
     "name:nld_x_preferred":[
         "Rosia"
     ],
+    "name:ron_x_preferred":[
+        "Ro\u015fia"
+    ],
+    "name:ron_x_variant":[
+        "Rosia"
+    ],
     "name:swe_x_preferred":[
         "Rosia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668657
+        "gn:id":668657,
+        "ro-ancpi:id":168292
     },
     "wof:country":"RO",
-    "wof:geomhash":"b42cf5087a63251d8db50826d16d15ce",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e182aa236143549d1d3e16231211431b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,8 +82,14 @@
         }
     ],
     "wof:id":1193170983,
-    "wof:lastmodified":1566610454,
-    "wof:name":"Rosia",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203686,
+    "wof:name":"Ro\u015fia",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":720,
@@ -79,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.8195,
-    44.99535,
-    23.8195,
-    44.99535
+    23.785414,
+    44.992681,
+    23.821935,
+    45.016658
 ],
-  "geometry": {"coordinates":[23.8195,44.99535],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.818573,44.992681],[23.816306,44.993539],[23.814346,44.994705],[23.811276,44.995522],[23.808296,44.996009],[23.807975,44.99502],[23.806623,44.995426],[23.806902,44.99622],[23.805664,44.997297],[23.803936,44.99915],[23.801997,45.001061],[23.802082,45.002581],[23.804541,45.002599],[23.805777,45.000172],[23.807592,44.998333],[23.809755,44.99729],[23.81003,44.998294],[23.812428,44.997996],[23.812677,44.996965],[23.815872,44.995432],[23.814844,44.998807],[23.815578,44.99938],[23.815896,45.000165],[23.820301,44.99866],[23.821935,44.997804],[23.820726,44.994593],[23.820373,44.994039],[23.818573,44.992681]]],[[[23.790736,45.0153],[23.791578,45.012545],[23.789809,45.011801],[23.787588,45.013908],[23.786047,45.013675],[23.785414,45.01478],[23.789271,45.016658],[23.789289,45.016641],[23.790736,45.0153]]]],"type":"MultiPolygon"}
 }

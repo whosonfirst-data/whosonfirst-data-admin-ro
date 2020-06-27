@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.21419,46.33681,23.21419,46.33681",
-    "geom:latitude":46.33681,
-    "geom:longitude":23.21419,
+    "geom:area":0.000007,
+    "geom:area_square_m":59259.061923,
+    "geom:bbox":"23.225608,46.339379,23.228358,46.344566",
+    "geom:latitude":46.342305,
+    "geom:longitude":23.227028,
     "gn:admin1_code":"01",
     "gn:admin2_code":"5336.0",
     "gn:asciiname":"Curmatura",
@@ -24,13 +24,26 @@
     "gn:population":51,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.19419,46.31681,23.23419,46.35681",
+    "lbl:latitude":46.342537,
+    "lbl:longitude":23.22735,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.342537,
+    "mps:longitude":23.22735,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Curm\u0103tur\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Curmatura"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679922
+        "gn:id":679922,
+        "ro-ancpi:id":5372
     },
     "wof:country":"RO",
-    "wof:geomhash":"781c9382bcfb3b7e6ea4bc63d666a990",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6d80ed03fe6877bc507a9c38ca0164bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1310618627,
-    "wof:lastmodified":1566610587,
-    "wof:name":"Curmatura",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203759,
+    "wof:name":"Curm\u0103tur\u0103",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":51,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.21419,
-    46.33681,
-    23.21419,
-    46.33681
+    23.225608,
+    46.339379,
+    23.228358,
+    46.344566
 ],
-  "geometry": {"coordinates":[23.21419,46.33681],"type":"Point"}
+  "geometry": {"coordinates":[[[23.227912,46.3444],[23.227487,46.343742],[23.227659,46.34341],[23.22788,46.342942],[23.228358,46.34255],[23.22798,46.342308],[23.228191,46.341579],[23.227718,46.341567],[23.227993,46.340914],[23.227727,46.340445],[23.227273,46.339787],[23.226534,46.339379],[23.226265,46.339405],[23.226704,46.34077],[23.226832,46.342081],[23.226681,46.342426],[23.226427,46.3427],[23.225885,46.343076],[23.225609,46.343617],[23.225608,46.344432],[23.226448,46.344436],[23.226437,46.343979],[23.226977,46.344068],[23.227362,46.344566],[23.227912,46.3444]]],"type":"Polygon"}
 }

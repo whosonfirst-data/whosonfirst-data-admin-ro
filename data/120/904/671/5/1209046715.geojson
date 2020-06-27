@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.03613,45.6755,22.03613,45.6755",
-    "geom:latitude":45.6755,
-    "geom:longitude":22.03613,
+    "geom:area":0.000008,
+    "geom:area_square_m":67734.488585,
+    "geom:bbox":"22.030242,45.673371,22.038646,45.675995",
+    "geom:latitude":45.674874,
+    "geom:longitude":22.034461,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156534.0",
     "gn:asciiname":"Ciresu Mic",
@@ -24,32 +24,57 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.01613,45.6555,22.05613,45.6955",
+    "lbl:latitude":45.6755,
+    "lbl:longitude":22.03613,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cire\u015fu Mic"
+    ],
+    "name:ron_x_variant":[
+        "Ciresu Mic"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687655
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681588
+        "gn:id":681588,
+        "ro-ancpi:id":156561
     },
     "wof:country":"RO",
-    "wof:geomhash":"ce61a02066b8bdd6f5e98b3637b7ff87",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"48f9d070c92ffa00c40c783b134e3c25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209046715
+            "locality_id":1209046715,
+            "region_id":85687655
         }
     ],
     "wof:id":1209046715,
-    "wof:lastmodified":1566610355,
-    "wof:name":"Ciresu Mic",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203738,
+    "wof:name":"Cire\u015fu Mic",
+    "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -57,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.03613,
-    45.6755,
-    22.03613,
-    45.6755
+    22.030242,
+    45.673371,
+    22.038646,
+    45.675995
 ],
-  "geometry": {"coordinates":[22.03613,45.6755],"type":"Point"}
+  "geometry": {"coordinates":[[[22.033441,45.674456],[22.031109,45.673371],[22.030242,45.67407],[22.030712,45.674594],[22.034781,45.675468],[22.037143,45.675995],[22.038646,45.675801],[22.038519,45.675077],[22.035851,45.674681],[22.033441,45.674456]]],"type":"Polygon"}
 }

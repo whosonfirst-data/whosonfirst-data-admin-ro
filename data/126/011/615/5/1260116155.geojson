@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.99077,45.09447,23.99077,45.09447",
-    "geom:latitude":45.09447,
-    "geom:longitude":23.99077,
+    "geom:area":0.000039,
+    "geom:area_square_m":343292.93376,
+    "geom:bbox":"23.985329,45.107687,24.008219,45.111155",
+    "geom:latitude":45.109396,
+    "geom:longitude":23.997266,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171272.0",
     "gn:asciiname":"Rosoveni",
@@ -24,13 +24,26 @@
     "gn:population":8,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.97077,45.07447,24.01077,45.11447",
+    "lbl:latitude":45.109795,
+    "lbl:longitude":23.997439,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.109795,
+    "mps:longitude":23.997439,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Ro\u015foveni"
+    ],
+    "name:ron_x_variant":[
+        "Rosoveni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":668602
+        "gn:id":668602,
+        "ro-ancpi:id":171307
     },
     "wof:country":"RO",
-    "wof:geomhash":"dabfa4afbebe3f57671c93ae49dc7091",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"0c1625cb00f86f3654fb6f6609e059bc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1260116155,
-    "wof:lastmodified":1566610490,
-    "wof:name":"Rosoveni",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"Ro\u015foveni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":8,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.99077,
-    45.09447,
-    23.99077,
-    45.09447
+    23.985329,
+    45.107687,
+    24.008219,
+    45.111155
 ],
-  "geometry": {"coordinates":[23.99077,45.09447],"type":"Point"}
+  "geometry": {"coordinates":[[[23.998105,45.111155],[23.99866,45.110174],[24.00745,45.110263],[24.008219,45.108182],[23.999172,45.108739],[23.99636,45.10842],[23.992267,45.10843],[23.988819,45.10891],[23.987867,45.108862],[23.987026,45.108703],[23.987013,45.107852],[23.985556,45.107687],[23.985462,45.10807],[23.985329,45.108631],[23.986422,45.108799],[23.986387,45.109215],[23.987182,45.109808],[23.987384,45.11016],[23.98871,45.11016],[23.99149,45.11009],[23.998105,45.111155]]],"type":"Polygon"}
 }

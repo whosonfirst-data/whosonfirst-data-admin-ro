@@ -27,13 +27,17 @@
     "lbl:bbox":"23.34667,45.36333,23.38667,45.40333",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
+    "mz:is_funky":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna Surduc"
     ],
     "name:epo_x_preferred":[
+        "Surduc"
+    ],
+    "name:eus_x_preferred":[
         "Surduc"
     ],
     "name:fra_x_preferred":[
@@ -80,7 +84,7 @@
         "gn:id":665732
     },
     "wof:country":"RO",
-    "wof:geomhash":"59f5f30f7f00c1190bfc4f0c1c48e474",
+    "wof:geomhash":"997d63fb22f4ef760c7660bca6081a6d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,7 +94,13 @@
         }
     ],
     "wof:id":1360059377,
-    "wof:lastmodified":1566610645,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208627,
     "wof:name":"Surduc",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -100,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.36667000000001,
+    23.36667,
     45.38333,
-    23.36667000000001,
+    23.36667,
     45.38333
 ],
-  "geometry": {"coordinates":[23.36667000000001,45.38333],"type":"Point"}
+  "geometry": {"coordinates":[23.36667,45.38333],"type":"Point"}
 }

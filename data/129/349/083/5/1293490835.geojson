@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.028,46.35816,22.028,46.35816",
-    "geom:latitude":46.35816,
-    "geom:longitude":22.028,
+    "geom:area":0.00005,
+    "geom:area_square_m":423740.57345,
+    "geom:bbox":"22.02081,46.354231,22.036615,46.363762",
+    "geom:latitude":46.359161,
+    "geom:longitude":22.028243,
     "gn:admin1_code":"02",
     "gn:admin2_code":"10051.0",
     "gn:asciiname":"Hodis",
@@ -24,20 +24,29 @@
     "gn:population":226,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.008,46.33816,22.048,46.37816",
+    "lbl:latitude":46.35816,
+    "lbl:longitude":22.028,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ron_x_preferred":[
-        "Hodi\u0219"
+        "Hodi\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Hodi\u0219",
+        "Hodis"
     ],
     "name:und_x_variant":[
         "Zar\u00e1ndh\u00f3dos",
         "H\u00f3dos"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676115
+        "gn:id":676115,
+        "ro-ancpi:id":10088
     },
     "wof:country":"RO",
-    "wof:geomhash":"5dce779c2710d1dd0f356f69c0fd2543",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"fe443778397ca23452230cc766ff6933",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +72,14 @@
         }
     ],
     "wof:id":1293490835,
-    "wof:lastmodified":1566610078,
-    "wof:name":"Hodis",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203710,
+    "wof:name":"Hodi\u015f",
     "wof:parent_id":85687691,
     "wof:placetype":"locality",
     "wof:population":226,
@@ -71,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.028,
-    46.35816,
-    22.028,
-    46.35816
+    22.02081,
+    46.354231,
+    22.036615,
+    46.363762
 ],
-  "geometry": {"coordinates":[22.028,46.35816],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.036615,46.363132],[22.035661,46.362515],[22.035341,46.362291],[22.036152,46.36162],[22.033784,46.360036],[22.031908,46.358893],[22.030908,46.359459],[22.027129,46.357153],[22.027853,46.356565],[22.023799,46.354231],[22.02081,46.356753],[22.024795,46.358949],[22.029032,46.361544],[22.02936,46.361286],[22.03193,46.362506],[22.0339,46.363484],[22.034596,46.362909],[22.034654,46.362948],[22.03506,46.363258],[22.035238,46.363399],[22.035706,46.363762],[22.036615,46.363132]]],[[[22.024569,46.359179],[22.02397,46.358927],[22.022469,46.360328],[22.023967,46.361272],[22.024942,46.360441],[22.023821,46.359859],[22.024569,46.359179]]]],"type":"MultiPolygon"}
 }

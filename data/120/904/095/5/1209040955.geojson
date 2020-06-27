@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.65165,44.39109,26.65165,44.39109",
-    "geom:latitude":44.39109,
-    "geom:longitude":26.65165,
+    "geom:area":0.000015,
+    "geom:area_square_m":128358.913226,
+    "geom:bbox":"26.646129,44.38737,26.649872,44.393307",
+    "geom:latitude":44.390309,
+    "geom:longitude":26.648079,
     "gn:admin1_code":"41",
     "gn:admin2_code":"103568.0",
     "gn:asciiname":"Codreni",
@@ -24,11 +24,14 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.63165,44.37109,26.67165,44.41109",
+    "lbl:latitude":44.390293,
+    "lbl:longitude":26.647857,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.390293,
+    "mps:longitude":26.647857,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Codreni"
@@ -48,26 +51,44 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0434\u0440\u0435\u043d\u044c"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687615
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681175
+        "gn:id":681175,
+        "ro-ancpi:id":103586
     },
     "wof:country":"RO",
-    "wof:geomhash":"6d12b4392e11c2d943ddd2fda7134937",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4edda419c4df98925e83cac9d8f543cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209040955
+            "locality_id":1209040955,
+            "region_id":85687615
         }
     ],
     "wof:id":1209040955,
-    "wof:lastmodified":1566610355,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203787,
     "wof:name":"Codreni",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687615,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
@@ -75,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.65165,
-    44.39109000000001,
-    26.65165,
-    44.39109000000001
+    26.646129,
+    44.38737,
+    26.649872,
+    44.393307
 ],
-  "geometry": {"coordinates":[26.65165,44.39109000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[26.648013,44.38737],[26.648013,44.38737],[26.646452,44.388281],[26.646186,44.388554],[26.646129,44.388767],[26.646597,44.390415],[26.646776,44.391529],[26.646982,44.392092],[26.647435,44.392481],[26.648161,44.392853],[26.649477,44.393243],[26.649504,44.393249],[26.649735,44.393298],[26.649735,44.393298],[26.649737,44.393299],[26.649872,44.393307],[26.649849,44.392136],[26.649327,44.390675],[26.649325,44.39067],[26.649117,44.390086],[26.649478,44.388608],[26.64901,44.38793],[26.64842,44.387681],[26.648048,44.387397],[26.648047,44.387396],[26.648013,44.38737]]],"type":"Polygon"}
 }

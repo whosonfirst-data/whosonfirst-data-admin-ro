@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.22583,44.84905,24.22583,44.84905",
-    "geom:latitude":44.84905,
-    "geom:longitude":24.22583,
+    "geom:area":0.000098,
+    "geom:area_square_m":858881.613213,
+    "geom:bbox":"24.226646,44.840026,24.247198,44.857733",
+    "geom:latitude":44.848311,
+    "geom:longitude":24.234566,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170514",
     "gn:asciiname":"Bucsani",
@@ -24,13 +24,26 @@
     "gn:population":480,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.20583,44.82905,24.24583,44.86905",
+    "lbl:latitude":44.852598,
+    "lbl:longitude":24.233227,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.852598,
+    "mps:longitude":24.233227,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Buc\u015fani"
+    ],
+    "name:ron_x_variant":[
+        "Bucsani"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683529
+        "gn:id":683529,
+        "ro-ancpi:id":170532
     },
     "wof:country":"RO",
-    "wof:geomhash":"e302aad76920be8437dc78471c639c96",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f0bd73dc8538617a6a436bc4d322314d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293724261,
-    "wof:lastmodified":1566610148,
-    "wof:name":"Bucsani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203683,
+    "wof:name":"Buc\u015fani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":480,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.22583,
-    44.84905,
-    24.22583,
-    44.84905
+    24.226646,
+    44.840026,
+    24.247198,
+    44.857733
 ],
-  "geometry": {"coordinates":[24.22583,44.84905],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.227821,44.846213],[24.227273,44.849258],[24.226646,44.849287],[24.22695,44.850706],[24.22922,44.849993],[24.23109,44.851098],[24.231181,44.852343],[24.230452,44.852491],[24.230751,44.854273],[24.229607,44.855242],[24.230493,44.855459],[24.232677,44.855186],[24.232193,44.857697],[24.234777,44.857733],[24.235227,44.856281],[24.235326,44.850902],[24.230791,44.849837],[24.231173,44.847466],[24.232491,44.847494],[24.233313,44.844436],[24.23576,44.844587],[24.235123,44.847971],[24.236573,44.848172],[24.237075,44.846855],[24.239519,44.841166],[24.235256,44.840026],[24.2335,44.842523],[24.23186,44.842397],[24.230637,44.843269],[24.228661,44.846147],[24.227821,44.846213]]],[[[24.245605,44.853135],[24.246331,44.851167],[24.243125,44.851337],[24.243327,44.854402],[24.245605,44.853135]]],[[[24.247198,44.846635],[24.242795,44.845821],[24.245175,44.848996],[24.245893,44.847603],[24.247198,44.846635]]]],"type":"MultiPolygon"}
 }

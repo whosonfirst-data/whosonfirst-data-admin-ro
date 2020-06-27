@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.97686,44.79897,23.97686,44.79897",
-    "geom:latitude":44.79897,
-    "geom:longitude":23.97686,
+    "geom:area":0.00005,
+    "geom:area_square_m":439218.494441,
+    "geom:bbox":"23.971757,44.783475,23.980873,44.801315",
+    "geom:latitude":44.792798,
+    "geom:longitude":23.975456,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169681.0",
     "gn:asciiname":"Valea Ursului",
@@ -24,14 +24,20 @@
     "gn:population":176,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.95686,44.77897,23.99686,44.81897",
+    "lbl:latitude":44.796623,
+    "lbl:longitude":23.974766,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.796623,
+    "mps:longitude":23.974766,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Valea Ursului"
+    ],
+    "name:eus_x_preferred":[
+        "Valea Ursului"
     ],
     "name:fra_x_preferred":[
         "Valea Ursului"
@@ -49,6 +55,9 @@
         "Valea Ursului"
     ],
     "name:ron_x_preferred":[
+        "Valea Ursului"
+    ],
+    "name:ron_x_variant":[
         "Comuna Valea Ursului"
     ],
     "name:srp_x_preferred":[
@@ -66,7 +75,11 @@
     "name:zho_x_preferred":[
         "\u70cf\u723e\u8607\u76e7\u4f0a\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -75,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663335
+        "gn:id":663335,
+        "ro-ancpi:id":169887
     },
     "wof:country":"RO",
-    "wof:geomhash":"d091bfa7c16fb1333765eb6f6f28f239",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e66570bbba101bc2bdf1ad1819d1ac30",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,7 +105,13 @@
         }
     ],
     "wof:id":1276804087,
-    "wof:lastmodified":1566610178,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203683,
     "wof:name":"Valea Ursului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -100,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.97686,
-    44.79897,
-    23.97686,
-    44.79897
+    23.971757,
+    44.783475,
+    23.980873,
+    44.801315
 ],
-  "geometry": {"coordinates":[23.97686,44.79897],"type":"Point"}
+  "geometry": {"coordinates":[[[23.977181,44.796165],[23.976775,44.794809],[23.975233,44.79482],[23.974921,44.79423],[23.974726,44.791114],[23.976349,44.790542],[23.977742,44.788844],[23.980873,44.784124],[23.979738,44.783475],[23.976142,44.786123],[23.975074,44.789688],[23.97255,44.790482],[23.97247,44.792983],[23.973002,44.797302],[23.973659,44.798635],[23.971757,44.800737],[23.973611,44.801315],[23.976074,44.799934],[23.976222,44.797689],[23.977181,44.796165]]],"type":"Polygon"}
 }

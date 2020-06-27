@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.97962,44.20732,25.97962,44.20732",
-    "geom:latitude":44.20732,
-    "geom:longitude":25.97962,
+    "geom:area":0.000083,
+    "geom:area_square_m":739553.173372,
+    "geom:bbox":"25.971084,44.199812,25.988065,44.21324",
+    "geom:latitude":44.206603,
+    "geom:longitude":25.979895,
     "gn:admin1_code":"42",
     "gn:admin2_code":"105106.0",
     "gn:asciiname":"Cranguri",
@@ -25,17 +25,28 @@
     "gn:population":954,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.95962,44.18732,25.99962,44.22732",
+    "lbl:latitude":44.20732,
+    "lbl:longitude":25.97962,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cr\u00e2nguri"
+    ],
+    "name:ron_x_variant":[
+        "Cranguri"
+    ],
     "name:und_x_variant":[
         "Cr\u00eenguri",
         "Cr\u00e2nguri"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680216
+        "gn:id":680216,
+        "ro-ancpi:id":105124
     },
     "wof:country":"RO",
-    "wof:geomhash":"3165266c01798a5b5c9665fcbfa9bc26",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"7fefa49085ec7a44b93150e832b34d06",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1226784435,
-    "wof:lastmodified":1566611678,
-    "wof:name":"Cranguri",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203333,
+    "wof:name":"Cr\u00e2nguri",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":954,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.97962,
-    44.20732,
-    25.97962,
-    44.20732
+    25.971084,
+    44.199812,
+    25.988065,
+    44.21324
 ],
-  "geometry": {"coordinates":[25.97962,44.20732],"type":"Point"}
+  "geometry": {"coordinates":[[[25.973777,44.21324],[25.975108,44.212064],[25.975527,44.212282],[25.976189,44.211648],[25.977116,44.211024],[25.978135,44.210305],[25.978826,44.210677],[25.979812,44.209591],[25.980749,44.209068],[25.981598,44.209452],[25.983643,44.207947],[25.985806,44.206119],[25.984532,44.205483],[25.988065,44.20186],[25.986036,44.200716],[25.984419,44.199812],[25.980565,44.203466],[25.979727,44.203006],[25.978491,44.204159],[25.977764,44.204667],[25.977405,44.205011],[25.976203,44.206173],[25.974986,44.207539],[25.97369,44.20881],[25.972321,44.209867],[25.971084,44.210867],[25.972642,44.211645],[25.972742,44.211705],[25.971988,44.212262],[25.973777,44.21324]]],"type":"Polygon"}
 }

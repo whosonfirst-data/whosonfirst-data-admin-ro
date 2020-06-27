@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.97892,45.25982,24.97892,45.25982",
-    "geom:latitude":45.25982,
-    "geom:longitude":24.97892,
+    "geom:area":0.00001,
+    "geom:area_square_m":84589.77856,
+    "geom:bbox":"24.976002,45.258247,24.983008,45.26039",
+    "geom:latitude":45.259322,
+    "geom:longitude":24.978954,
     "gn:admin1_code":"03",
     "gn:admin2_code":"16551",
     "gn:asciiname":"Bordeieni",
@@ -24,13 +24,21 @@
     "gn:population":7,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.95892,45.23982,24.99892,45.27982",
+    "lbl:latitude":45.25982,
+    "lbl:longitude":24.97892,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bordeieni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684219
+        "gn:id":684219,
+        "ro-ancpi:id":16579
     },
     "wof:country":"RO",
-    "wof:geomhash":"ad59005542bafcb63f3a966446bf4721",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ff0cd5a0aa9e3cb4f617ebfef9b95442",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1225955825,
-    "wof:lastmodified":1566611608,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203650,
     "wof:name":"Bordeieni",
     "wof:parent_id":85687645,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.97892,
-    45.25982,
-    24.97892,
-    45.25982
+    24.976002,
+    45.258247,
+    24.983008,
+    45.26039
 ],
-  "geometry": {"coordinates":[24.97892,45.25982],"type":"Point"}
+  "geometry": {"coordinates":[[[24.980514,45.260054],[24.980941,45.259966],[24.981517,45.260082],[24.981969,45.26007],[24.982426,45.260062],[24.983008,45.259998],[24.982957,45.25954],[24.982873,45.259516],[24.982223,45.259528],[24.981608,45.259428],[24.981241,45.259225],[24.98078,45.258934],[24.980379,45.258626],[24.979587,45.258295],[24.978563,45.258247],[24.976825,45.258257],[24.976131,45.258741],[24.976002,45.259463],[24.976403,45.259948],[24.977368,45.259999],[24.977675,45.260044],[24.977978,45.260186],[24.978455,45.260346],[24.979074,45.26039],[24.979476,45.260309],[24.980015,45.260192],[24.980514,45.260054]]],"type":"Polygon"}
 }

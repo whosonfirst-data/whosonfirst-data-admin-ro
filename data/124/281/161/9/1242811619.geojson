@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.3117,44.37785,26.3117,44.37785",
-    "geom:latitude":44.37785,
-    "geom:longitude":26.3117,
+    "geom:area":0.000056,
+    "geom:area_square_m":493290.938644,
+    "geom:bbox":"26.304638,44.372537,26.314165,44.384055",
+    "geom:latitude":44.378427,
+    "geom:longitude":26.309797,
     "gn:admin1_code":"43",
     "gn:admin2_code":"101742.0",
     "gn:asciiname":"Posta",
@@ -24,11 +24,12 @@
     "gn:population":608,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.2917,44.35785,26.3317,44.39785",
+    "lbl:latitude":44.37785,
+    "lbl:longitude":26.3117,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Posta"
@@ -51,6 +52,12 @@
     "name:por_x_preferred":[
         "Posta"
     ],
+    "name:ron_x_preferred":[
+        "Po\u015fta"
+    ],
+    "name:ron_x_variant":[
+        "Posta"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0441\u0442\u0430"
     ],
@@ -60,7 +67,11 @@
     "name:swe_x_preferred":[
         "Posta"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -69,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669794
+        "gn:id":669794,
+        "ro-ancpi:id":101788
     },
     "wof:country":"RO",
-    "wof:geomhash":"f6d8e326df9696791d24fbbc514ff9cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"477b3ab2d907d5ee29426eadd963e6c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -82,8 +97,14 @@
         }
     ],
     "wof:id":1242811619,
-    "wof:lastmodified":1566611445,
-    "wof:name":"Posta",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203629,
+    "wof:name":"Po\u015fta",
     "wof:parent_id":85687611,
     "wof:placetype":"locality",
     "wof:population":608,
@@ -94,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.3117,
-    44.37785,
-    26.3117,
-    44.37785
+    26.304638,
+    44.372537,
+    26.314165,
+    44.384055
 ],
-  "geometry": {"coordinates":[26.3117,44.37785],"type":"Point"}
+  "geometry": {"coordinates":[[[26.309839,44.382721],[26.310052,44.382561],[26.311435,44.382918],[26.311551,44.382726],[26.312452,44.378663],[26.313469,44.375856],[26.313621,44.374769],[26.313821,44.374082],[26.313956,44.37365],[26.314165,44.373321],[26.313432,44.372537],[26.313075,44.372728],[26.313137,44.372909],[26.312786,44.373042],[26.312001,44.372549],[26.311882,44.372706],[26.311664,44.372662],[26.305878,44.377808],[26.307265,44.378772],[26.306676,44.379691],[26.307008,44.379877],[26.306866,44.380184],[26.306163,44.380577],[26.304638,44.381616],[26.307395,44.383783],[26.307334,44.383833],[26.307574,44.384055],[26.307915,44.383883],[26.307838,44.383779],[26.309839,44.382721]]],"type":"Polygon"}
 }

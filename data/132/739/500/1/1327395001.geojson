@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.51153,44.68416,24.51153,44.68416",
-    "geom:latitude":44.68416,
-    "geom:longitude":24.51153,
+    "geom:area":0.00005,
+    "geom:area_square_m":442218.960298,
+    "geom:bbox":"24.505406,44.678353,24.51558,44.692733",
+    "geom:latitude":44.684849,
+    "geom:longitude":24.512264,
     "gn:admin1_code":"29",
     "gn:admin2_code":"128301.0",
     "gn:asciiname":"Creti",
@@ -24,16 +24,27 @@
     "gn:population":261,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.49153,44.66416,24.53153,44.70416",
+    "lbl:latitude":44.68416,
+    "lbl:longitude":24.51153,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Creti"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cre\u0163i"
+    ],
+    "name:ron_x_variant":[
+        "Creti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680267
+        "gn:id":680267,
+        "ro-ancpi:id":128347
     },
     "wof:country":"RO",
-    "wof:geomhash":"18ef5822e98998429d876ebcf514b1b2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"05992369166ecbb87aa6edd9a50f9b65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1327395001,
-    "wof:lastmodified":1566609753,
-    "wof:name":"Creti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203697,
+    "wof:name":"Cre\u0163i",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":261,
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.51153,
-    44.68416,
-    24.51153,
-    44.68416
+    24.505406,
+    44.678353,
+    24.51558,
+    44.692733
 ],
-  "geometry": {"coordinates":[24.51153,44.68416],"type":"Point"}
+  "geometry": {"coordinates":[[[24.51558,44.6853],[24.514133,44.683073],[24.514686,44.68189],[24.513783,44.678515],[24.512491,44.678563],[24.512145,44.680375],[24.509735,44.680284],[24.509566,44.67978],[24.50602,44.678353],[24.505406,44.679086],[24.508419,44.680562],[24.508413,44.681363],[24.512023,44.681925],[24.512415,44.682638],[24.511375,44.683395],[24.510395,44.682607],[24.508979,44.68328],[24.510917,44.685011],[24.512103,44.686244],[24.511211,44.692596],[24.514199,44.692733],[24.51423,44.691062],[24.514215,44.68865],[24.514841,44.686916],[24.51558,44.6853]]],"type":"Polygon"}
 }

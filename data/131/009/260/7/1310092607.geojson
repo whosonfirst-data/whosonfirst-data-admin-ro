@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.46169,45.06461,22.46169,45.06461",
-    "geom:latitude":45.06461,
-    "geom:longitude":22.46169,
+    "geom:area":0.000015,
+    "geom:area_square_m":134513.228671,
+    "geom:bbox":"22.460574,45.061356,22.466229,45.066123",
+    "geom:latitude":45.063949,
+    "geom:longitude":22.463753,
     "gn:admin1_code":"12",
     "gn:admin2_code":"52160.0",
     "gn:asciiname":"Studena",
@@ -24,11 +24,12 @@
     "gn:population":72,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.44169,45.04461,22.48169,45.08461",
+    "lbl:latitude":45.06461,
+    "lbl:longitude":22.46169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Studena"
@@ -45,13 +46,20 @@
     "name:hrv_x_preferred":[
         "Studena"
     ],
+    "name:ron_x_preferred":[
+        "Studena"
+    ],
     "name:slv_x_preferred":[
         "Studena"
     ],
     "name:swe_x_preferred":[
         "Studena"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +68,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665910
+        "gn:id":665910,
+        "ro-ancpi:id":52482
     },
     "wof:country":"RO",
-    "wof:geomhash":"996d607377658d5bee36bb6518e84863",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6a58df2fa51e19da3136b6d59fd577ae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +85,13 @@
         }
     ],
     "wof:id":1310092607,
-    "wof:lastmodified":1566610548,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203620,
     "wof:name":"Studena",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -85,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.46169,
-    45.06461,
-    22.46169,
-    45.06461
+    22.460574,
+    45.061356,
+    22.466229,
+    45.066123
 ],
-  "geometry": {"coordinates":[22.46169,45.06461],"type":"Point"}
+  "geometry": {"coordinates":[[[22.461947,45.066123],[22.464883,45.065171],[22.465697,45.065028],[22.466229,45.064307],[22.465911,45.063879],[22.466181,45.06359],[22.466086,45.063023],[22.466095,45.06263],[22.465642,45.06217],[22.466116,45.061887],[22.465185,45.061356],[22.46467,45.061698],[22.463935,45.062073],[22.463474,45.062073],[22.462846,45.062663],[22.462276,45.06317],[22.461655,45.063799],[22.461557,45.063912],[22.461721,45.064393],[22.460574,45.065581],[22.460808,45.066081],[22.4613,45.066009],[22.461947,45.066123]]],"type":"Polygon"}
 }

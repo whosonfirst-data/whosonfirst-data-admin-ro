@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.0,46.41667,24.0,46.41667",
-    "geom:latitude":46.41667,
-    "geom:longitude":24.0,
+    "geom:area":0.000042,
+    "geom:area_square_m":359997.253325,
+    "geom:bbox":"23.989818,46.421762,24.005758,46.430704",
+    "geom:latitude":46.426057,
+    "geom:longitude":23.997559,
     "gn:admin1_code":"01",
     "gn:admin2_code":"6048.0",
     "gn:asciiname":"Stana de Mures",
@@ -25,19 +25,32 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.98,46.39667,24.02,46.43667",
+    "lbl:latitude":46.424224,
+    "lbl:longitude":23.995687,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":46.424224,
+    "mps:longitude":23.995687,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "St\u00e2na de Mure\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Stana de Mures"
+    ],
     "name:und_x_variant":[
         "Ciuciu",
         "Ciuci",
         "Ciuciul",
         "St\u00eena de Mure\u015f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666140
+        "gn:id":666140,
+        "ro-ancpi:id":6093
     },
     "wof:country":"RO",
-    "wof:geomhash":"f656cd4f18fe58c3ff0a60be51e864e0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"999c96c1bed2dca0e2dd847ecfda8a56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1310515837,
-    "wof:lastmodified":1566610603,
-    "wof:name":"Stana de Mures",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203760,
+    "wof:name":"St\u00e2na de Mure\u015f",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -68,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.0,
-    46.41667,
-    24.0,
-    46.41667
+    23.989818,
+    46.421762,
+    24.005758,
+    46.430704
 ],
-  "geometry": {"coordinates":[24.0,46.41667],"type":"Point"}
+  "geometry": {"coordinates":[[[23.997929,46.42392],[23.997873,46.423691],[23.997689,46.423465],[23.997541,46.423488],[23.997054,46.422858],[23.996944,46.422513],[23.996996,46.421885],[23.99655,46.421772],[23.996523,46.421828],[23.996219,46.421762],[23.995857,46.422423],[23.994999,46.422167],[23.993282,46.424098],[23.992998,46.424517],[23.991112,46.423713],[23.989818,46.42465],[23.989823,46.426784],[23.990662,46.426411],[23.992105,46.425919],[23.992857,46.425775],[23.993758,46.425765],[23.994532,46.425816],[23.995514,46.42602],[23.996786,46.426429],[23.998102,46.427048],[23.999258,46.427885],[24.001638,46.430228],[24.001812,46.430132],[24.002487,46.430704],[24.004642,46.429241],[24.004727,46.429113],[24.005758,46.428392],[24.004726,46.427793],[24.00446,46.427999],[24.003047,46.427584],[24.002063,46.427345],[24.001405,46.426906],[24.000505,46.426007],[23.998804,46.425088],[23.998711,46.424924],[23.999192,46.424572],[23.998162,46.423838],[23.997929,46.42392]]],"type":"Polygon"}
 }

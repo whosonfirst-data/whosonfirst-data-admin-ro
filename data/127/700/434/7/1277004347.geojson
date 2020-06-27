@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.62202,45.17139,27.62202,45.17139",
-    "geom:latitude":45.17139,
-    "geom:longitude":27.62202,
+    "geom:area":0.000116,
+    "geom:area_square_m":1014611.150042,
+    "geom:bbox":"27.61193,45.166612,27.631866,45.176489",
+    "geom:latitude":45.171477,
+    "geom:longitude":27.621945,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43652.0",
     "gn:asciiname":"Tepes Voda",
@@ -24,13 +24,24 @@
     "gn:population":908,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.60202,45.15139,27.64202,45.19139",
+    "lbl:latitude":45.17139,
+    "lbl:longitude":27.62202,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "\u0162epe\u015f Vod\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Tepes Voda"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":665245
+        "gn:id":665245,
+        "ro-ancpi:id":43689
     },
     "wof:country":"RO",
-    "wof:geomhash":"238ed0be74e5499e16bcba7f9a9e95b1",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"342b15b0685d08e2467c868d6dcd0b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1277004347,
-    "wof:lastmodified":1566610162,
-    "wof:name":"Tepes Voda",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203772,
+    "wof:name":"\u0162epe\u015f Vod\u0103",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":908,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.62202000000001,
-    45.17139,
-    27.62202000000001,
-    45.17139
+    27.61193,
+    45.166612,
+    27.631866,
+    45.176489
 ],
-  "geometry": {"coordinates":[27.62202000000001,45.17139],"type":"Point"}
+  "geometry": {"coordinates":[[[27.630116,45.173229],[27.631257,45.171725],[27.631843,45.170461],[27.631866,45.170425],[27.630243,45.170094],[27.626729,45.169308],[27.626722,45.169327],[27.626061,45.169133],[27.626127,45.168778],[27.625741,45.168699],[27.625833,45.167984],[27.623411,45.167481],[27.623142,45.167768],[27.622955,45.167843],[27.622739,45.167854],[27.622298,45.167864],[27.622017,45.1679],[27.619982,45.167476],[27.61735,45.166919],[27.616792,45.166931],[27.615045,45.166613],[27.614804,45.166612],[27.614672,45.166639],[27.614479,45.166791],[27.61447,45.16695],[27.61462,45.167141],[27.615203,45.167266],[27.61466,45.168496],[27.613058,45.172331],[27.612245,45.172174],[27.61193,45.173184],[27.61276,45.173263],[27.614323,45.173513],[27.620769,45.174814],[27.623277,45.175374],[27.624771,45.175829],[27.627822,45.176489],[27.628911,45.174968],[27.629384,45.174183],[27.630116,45.173229]]],"type":"Polygon"}
 }

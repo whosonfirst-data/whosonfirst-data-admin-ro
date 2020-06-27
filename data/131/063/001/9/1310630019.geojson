@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.18333,45.15,24.18333,45.15",
-    "geom:latitude":45.15,
-    "geom:longitude":24.18333,
+    "geom:area":0.000019,
+    "geom:area_square_m":161605.672694,
+    "geom:bbox":"24.163865,45.157565,24.170999,45.164042",
+    "geom:latitude":45.160342,
+    "geom:longitude":24.166557,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173230.0",
     "gn:asciiname":"Gruieri",
@@ -24,13 +24,23 @@
     "gn:population":207,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.16333,45.13,24.20333,45.17",
+    "lbl:latitude":45.160403,
+    "lbl:longitude":24.165908,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.160403,
+    "mps:longitude":24.165908,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Gruieri"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676629
+        "gn:id":676629,
+        "ro-ancpi:id":173301
     },
     "wof:country":"RO",
-    "wof:geomhash":"1d9c44ee7d4be430838017c5e85788bb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"549c76bc29bba61ace7671f26536badb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1310630019,
-    "wof:lastmodified":1566610555,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
     "wof:name":"Gruieri",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.18333,
-    45.15,
-    24.18333,
-    45.15
+    24.163865,
+    45.157565,
+    24.170999,
+    45.164042
 ],
-  "geometry": {"coordinates":[24.18333,45.15],"type":"Point"}
+  "geometry": {"coordinates":[[[24.170999,45.158351],[24.170556,45.157567],[24.168651,45.158036],[24.166973,45.157565],[24.165835,45.158797],[24.164339,45.159688],[24.163865,45.161563],[24.16466,45.161789],[24.164474,45.163866],[24.165979,45.164042],[24.166926,45.161805],[24.167718,45.159661],[24.170999,45.158351]]],"type":"Polygon"}
 }

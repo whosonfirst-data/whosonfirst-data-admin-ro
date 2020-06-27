@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.37762,44.94114,24.37762,44.94114",
-    "geom:latitude":44.94114,
-    "geom:longitude":24.37762,
+    "geom:area":0.000064,
+    "geom:area_square_m":561841.618797,
+    "geom:bbox":"24.364636,44.931983,24.384452,44.949494",
+    "geom:latitude":44.941005,
+    "geom:longitude":24.377224,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173374.0",
     "gn:asciiname":"Obogeni",
@@ -24,13 +24,21 @@
     "gn:population":207,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.35762,44.92114,24.39762,44.96114",
+    "lbl:latitude":44.94114,
+    "lbl:longitude":24.37762,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Obogeni"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +47,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672056
+        "gn:id":672056,
+        "ro-ancpi:id":173490
     },
     "wof:country":"RO",
-    "wof:geomhash":"5c650e66d514bf4777c80eacb6acc946",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"932cbde2f34a5b985bd161604982715f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +64,13 @@
         }
     ],
     "wof:id":1343389641,
-    "wof:lastmodified":1566609875,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203679,
     "wof:name":"Obogeni",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.37762,
-    44.94114,
-    24.37762,
-    44.94114
+    24.364636,
+    44.931983,
+    24.384452,
+    44.949494
 ],
-  "geometry": {"coordinates":[24.37762,44.94114],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.381385,44.943484],[24.382217,44.942546],[24.381479,44.942146],[24.380592,44.943234],[24.380012,44.942873],[24.380413,44.942593],[24.379123,44.941719],[24.381048,44.940335],[24.380056,44.938842],[24.378779,44.939211],[24.377077,44.937111],[24.376878,44.93353],[24.375048,44.933483],[24.375574,44.938761],[24.374561,44.939207],[24.37031,44.937431],[24.369559,44.938181],[24.371169,44.938887],[24.370792,44.939412],[24.374696,44.941412],[24.380383,44.945362],[24.381505,44.949494],[24.384452,44.949322],[24.383244,44.945698],[24.381385,44.943484]]],[[[24.368262,44.933889],[24.365216,44.931983],[24.364636,44.932465],[24.366468,44.933775],[24.366897,44.933981],[24.367532,44.934548],[24.368114,44.935222],[24.368693,44.936143],[24.369363,44.93597],[24.368262,44.933889]]]],"type":"MultiPolygon"}
 }

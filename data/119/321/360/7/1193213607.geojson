@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.46667,45.78333,24.46667,45.78333",
-    "geom:latitude":45.78333,
-    "geom:longitude":24.46667,
+    "geom:area":0.000033,
+    "geom:area_square_m":283683.401236,
+    "geom:bbox":"24.455935,45.778414,24.466693,45.784828",
+    "geom:latitude":45.78171,
+    "geom:longitude":24.461275,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144054.0",
     "gn:asciiname":"Glamboaca",
@@ -24,21 +24,34 @@
     "gn:population":222,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.44667,45.76333,24.48667,45.80333",
+    "lbl:latitude":45.782155,
+    "lbl:longitude":24.462619,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.782155,
+    "mps:longitude":24.462619,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Glimboka"
+    ],
+    "name:ron_x_preferred":[
+        "Gl\u00e2mboaca"
+    ],
+    "name:ron_x_variant":[
+        "Glamboaca"
     ],
     "name:und_x_variant":[
         "Gl\u00eembocata",
         "Gl\u0103mboaca",
         "Gl\u00eemboaca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677068
+        "gn:id":677068,
+        "ro-ancpi:id":144081
     },
     "wof:country":"RO",
-    "wof:geomhash":"c10efffda19b38b97693a2e1619fcc73",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4da12c3aa212d5d080f6fa7633b1b0c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +77,14 @@
         }
     ],
     "wof:id":1193213607,
-    "wof:lastmodified":1566610460,
-    "wof:name":"Glamboaca",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203654,
+    "wof:name":"Gl\u00e2mboaca",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":222,
@@ -72,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.46667,
-    45.78333,
-    24.46667,
-    45.78333
+    24.455935,
+    45.778414,
+    24.466693,
+    45.784828
 ],
-  "geometry": {"coordinates":[24.46667,45.78333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.465207,45.781551],[24.465014,45.780933],[24.46413,45.781131],[24.463635,45.780133],[24.463309,45.78032],[24.461918,45.778966],[24.461446,45.779367],[24.460609,45.78022],[24.459713,45.779762],[24.45926,45.7801],[24.457205,45.778414],[24.455935,45.779429],[24.456258,45.779734],[24.457186,45.780608],[24.4574,45.782675],[24.460857,45.782704],[24.460281,45.784528],[24.462313,45.784828],[24.466693,45.782453],[24.466142,45.781619],[24.465207,45.781551]]],"type":"Polygon"}
 }

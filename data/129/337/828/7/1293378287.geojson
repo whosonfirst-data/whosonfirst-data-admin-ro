@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.72609,45.46724,26.72609,45.46724",
-    "geom:latitude":45.46724,
-    "geom:longitude":26.72609,
+    "geom:area":0.000004,
+    "geom:area_square_m":33843.242777,
+    "geom:bbox":"26.723124,45.462752,26.7274,45.464968",
+    "geom:latitude":45.463912,
+    "geom:longitude":26.725274,
     "gn:admin1_code":"11",
     "gn:admin2_code":"50228",
     "gn:asciiname":"Bodinesti",
@@ -25,17 +25,30 @@
     "gn:population":97,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.70609,45.44724,26.74609,45.48724",
+    "lbl:latitude":45.463958,
+    "lbl:longitude":26.725242,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.463958,
+    "mps:longitude":26.725242,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bodine\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Bodinesti"
+    ],
     "name:und_x_variant":[
         "Bodine\u015fti",
         "B\u0103dine\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685891
+        "gn:id":685891,
+        "ro-ancpi:id":50246
     },
     "wof:country":"RO",
-    "wof:geomhash":"9a39700d6f9ac0186cbdaa059e3f764a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"da2b93cb6b12193fc84142644a78d46a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1293378287,
-    "wof:lastmodified":1566610037,
-    "wof:name":"Bodinesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203592,
+    "wof:name":"Bodine\u015fti",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":97,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.72609000000001,
-    45.46724,
-    26.72609000000001,
-    45.46724
+    26.723124,
+    45.462752,
+    26.7274,
+    45.464968
 ],
-  "geometry": {"coordinates":[26.72609000000001,45.46724],"type":"Point"}
+  "geometry": {"coordinates":[[[26.724291,45.463487],[26.724237,45.46351],[26.724155,45.463698],[26.724046,45.46388],[26.723979,45.463956],[26.723892,45.464005],[26.723739,45.46405],[26.7234,45.464096],[26.723247,45.464126],[26.723175,45.464155],[26.723124,45.464187],[26.723193,45.464602],[26.723134,45.46483],[26.723336,45.46491],[26.723568,45.464928],[26.723851,45.464968],[26.723974,45.464773],[26.724302,45.464473],[26.724481,45.464292],[26.724638,45.464317],[26.724838,45.46433],[26.725074,45.464495],[26.725295,45.464403],[26.725704,45.464331],[26.726017,45.464312],[26.726368,45.464271],[26.726625,45.464229],[26.7274,45.463456],[26.726963,45.463251],[26.726235,45.462752],[26.726182,45.462808],[26.726127,45.462946],[26.72604,45.463036],[26.725887,45.463162],[26.725638,45.463342],[26.725325,45.463466],[26.725158,45.463518],[26.724954,45.463521],[26.724848,45.463484],[26.724695,45.4635],[26.724445,45.463498],[26.724291,45.463487]]],"type":"Polygon"}
 }

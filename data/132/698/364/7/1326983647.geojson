@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.62727,44.12647,25.62727,44.12647",
-    "geom:latitude":44.12647,
-    "geom:longitude":25.62727,
+    "geom:area":0.000026,
+    "geom:area_square_m":230809.600916,
+    "geom:bbox":"25.632691,44.117301,25.642554,44.12308",
+    "geom:latitude":44.119797,
+    "geom:longitude":25.638502,
     "gn:admin1_code":"35",
     "gn:admin2_code":"152270.0",
     "gn:asciiname":"Darvas",
@@ -24,11 +24,14 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.60727,44.10647,25.64727,44.14647",
+    "lbl:latitude":44.119125,
+    "lbl:longitude":25.638169,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":44.119125,
+    "mps:longitude":25.638169,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Darvas"
@@ -55,7 +58,11 @@
         "Darvas"
     ],
     "name:ron_x_preferred":[
-        "Darva\u0219"
+        "D\u0103rva\u015f"
+    ],
+    "name:ron_x_variant":[
+        "Darva\u0219",
+        "Darvas"
     ],
     "name:slk_x_preferred":[
         "Darvas"
@@ -69,7 +76,11 @@
     "name:zho_x_preferred":[
         "\u9053\u5c14\u6c83\u4ec0"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -77,10 +88,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679712
+        "gn:id":679712,
+        "ro-ancpi:id":152298
     },
     "wof:country":"RO",
-    "wof:geomhash":"a3b771db97a477dcf38e897468349434",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2779082113a701f09ec2a8b401b1833e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,8 +105,14 @@
         }
     ],
     "wof:id":1326983647,
-    "wof:lastmodified":1566609851,
-    "wof:name":"Darvas",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203345,
+    "wof:name":"D\u0103rva\u015f",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -100,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.62727000000001,
-    44.12647,
-    25.62727000000001,
-    44.12647
+    25.632691,
+    44.117301,
+    25.642554,
+    44.12308
 ],
-  "geometry": {"coordinates":[25.62727000000001,44.12647],"type":"Point"}
+  "geometry": {"coordinates":[[[25.642393,44.120185],[25.642554,44.11765],[25.642409,44.117694],[25.641778,44.11789],[25.641147,44.118082],[25.641098,44.117999],[25.641096,44.117301],[25.637015,44.11849],[25.635696,44.118711],[25.634609,44.11861],[25.634605,44.118241],[25.634081,44.118101],[25.633364,44.11862],[25.633217,44.11882],[25.633139,44.119012],[25.633103,44.119161],[25.633046,44.119207],[25.632691,44.120021],[25.634974,44.120417],[25.636156,44.120221],[25.637249,44.120367],[25.639806,44.119613],[25.640037,44.120275],[25.639486,44.120411],[25.639799,44.121385],[25.637557,44.12208],[25.636729,44.122075],[25.636608,44.12308],[25.637784,44.122969],[25.640645,44.122084],[25.641629,44.121858],[25.641995,44.120305],[25.642393,44.120185]]],"type":"Polygon"}
 }

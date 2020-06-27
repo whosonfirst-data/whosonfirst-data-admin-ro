@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.82258,46.34965,22.82258,46.34965",
-    "geom:latitude":46.34965,
-    "geom:longitude":22.82258,
+    "geom:area":0.000029,
+    "geom:area_square_m":251481.235796,
+    "geom:bbox":"22.81587,46.347022,22.833537,46.355952",
+    "geom:latitude":46.351716,
+    "geom:longitude":22.825734,
     "gn:admin1_code":"01",
     "gn:admin2_code":"2577.0",
     "gn:asciiname":"Valea Utului",
@@ -24,13 +24,26 @@
     "gn:population":53,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.80258,46.32965,22.84258,46.36965",
+    "lbl:latitude":46.353629,
+    "lbl:longitude":22.828544,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.353629,
+    "mps:longitude":22.828544,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Valea U\u0163ului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Utului"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663326
+        "gn:id":663326,
+        "ro-ancpi:id":2880
     },
     "wof:country":"RO",
-    "wof:geomhash":"ef011fb0a674f6ed9b72deeabb5109c4",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5ada07c2852d7c4ca0e0bb17c9220910",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1259797611,
-    "wof:lastmodified":1566611559,
-    "wof:name":"Valea Utului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203767,
+    "wof:name":"Valea U\u0163ului",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":53,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.82258,
-    46.34965,
-    22.82258,
-    46.34965
+    22.81587,
+    46.347022,
+    22.833537,
+    46.355952
 ],
-  "geometry": {"coordinates":[22.82258,46.34965],"type":"Point"}
+  "geometry": {"coordinates":[[[22.832452,46.355707],[22.832928,46.355401],[22.833537,46.355097],[22.833227,46.354613],[22.83187,46.354761],[22.827783,46.351641],[22.825694,46.349619],[22.823964,46.348901],[22.823886,46.347693],[22.823473,46.347022],[22.822906,46.347055],[22.822936,46.347871],[22.820754,46.347862],[22.820698,46.348361],[22.815942,46.347901],[22.81587,46.34853],[22.820718,46.349448],[22.823973,46.349749],[22.826877,46.351771],[22.827323,46.352098],[22.82627,46.352905],[22.827091,46.353594],[22.826399,46.354005],[22.825484,46.354118],[22.82559,46.355],[22.829035,46.355043],[22.829289,46.355952],[22.829568,46.355918],[22.829794,46.355889],[22.830028,46.35586],[22.830227,46.355835],[22.830411,46.355813],[22.830622,46.355786],[22.830845,46.355758],[22.831022,46.355744],[22.831168,46.355731],[22.831401,46.355712],[22.831576,46.355697],[22.831731,46.355684],[22.831873,46.355672],[22.832017,46.35566],[22.832241,46.355684],[22.832452,46.355707]]],"type":"Polygon"}
 }

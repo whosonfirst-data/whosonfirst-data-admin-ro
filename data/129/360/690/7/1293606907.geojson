@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.87532,46.37771,22.87532,46.37771",
-    "geom:latitude":46.37771,
-    "geom:longitude":22.87532,
+    "geom:area":0.000004,
+    "geom:area_square_m":36783.443613,
+    "geom:bbox":"22.875859,46.379229,22.879634,46.381224",
+    "geom:latitude":46.38023,
+    "geom:longitude":22.877706,
     "gn:admin1_code":"01",
     "gn:admin2_code":"8425.0",
     "gn:asciiname":"Modolesti",
@@ -24,13 +24,26 @@
     "gn:population":34,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.85532,46.35771,22.89532,46.39771",
+    "lbl:latitude":46.38024,
+    "lbl:longitude":22.877706,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.38024,
+    "mps:longitude":22.877706,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Modole\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Modolesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672973
+        "gn:id":672973,
+        "ro-ancpi:id":8666
     },
     "wof:country":"RO",
-    "wof:geomhash":"a30d8f11676b1e5a5bf814e513f1ece9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"6cf4f73c9b16368959d7ef54614a0645",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293606907,
-    "wof:lastmodified":1566610106,
-    "wof:name":"Modolesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203752,
+    "wof:name":"Modole\u015fti",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":34,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.87532,
-    46.37771,
-    22.87532,
-    46.37771
+    22.875859,
+    46.379229,
+    22.879634,
+    46.381224
 ],
-  "geometry": {"coordinates":[22.87532,46.37771],"type":"Point"}
+  "geometry": {"coordinates":[[[22.879072,46.380928],[22.879634,46.380022],[22.87642,46.379229],[22.875859,46.380449],[22.878807,46.381224],[22.879072,46.380928]]],"type":"Polygon"}
 }

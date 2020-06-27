@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.58605,44.51141,25.58605,44.51141",
-    "geom:latitude":44.51141,
-    "geom:longitude":25.58605,
+    "geom:area":0.000103,
+    "geom:area_square_m":912100.9616,
+    "geom:bbox":"25.580238,44.504923,25.597655,44.515766",
+    "geom:latitude":44.509504,
+    "geom:longitude":25.588022,
     "gn:admin1_code":"42",
     "gn:admin2_code":"105972.0",
     "gn:asciiname":"Poiana lui Stanga",
@@ -25,17 +25,28 @@
     "gn:population":707,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.56605,44.49141,25.60605,44.53141",
+    "lbl:latitude":44.51141,
+    "lbl:longitude":25.58605,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Poiana Lui St\u00e2ng\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Poiana lui Stanga"
+    ],
     "name:und_x_variant":[
         "Poiana lui St\u00eeng\u0103",
         "Poiana lui St\u00e2nga"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":670069
+        "gn:id":670069,
+        "ro-ancpi:id":106023
     },
     "wof:country":"RO",
-    "wof:geomhash":"d2bc19b92e283c47ce4cbcf74a450a85",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3c1c5550fbeae761582aba3adff61dd0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1344191421,
-    "wof:lastmodified":1566609956,
-    "wof:name":"Poiana lui Stanga",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203328,
+    "wof:name":"Poiana Lui St\u00e2ng\u0103",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":707,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.58605,
-    44.51141,
-    25.58605,
-    44.51141
+    25.580238,
+    44.504923,
+    25.597655,
+    44.515766
 ],
-  "geometry": {"coordinates":[25.58605,44.51141],"type":"Point"}
+  "geometry": {"coordinates":[[[25.583842,44.515766],[25.583851,44.515371],[25.58511,44.515364],[25.585221,44.513988],[25.586217,44.513983],[25.5862,44.513404],[25.58618,44.513054],[25.586911,44.512868],[25.587831,44.512579],[25.588278,44.511936],[25.588766,44.511274],[25.589167,44.510808],[25.589902,44.511149],[25.590046,44.511015],[25.592893,44.512121],[25.593454,44.512213],[25.594338,44.512321],[25.594782,44.511741],[25.5966,44.512274],[25.597655,44.511074],[25.595177,44.509729],[25.596573,44.507634],[25.596476,44.507478],[25.597024,44.50659],[25.595276,44.505991],[25.592169,44.505738],[25.591675,44.505834],[25.590553,44.506066],[25.589645,44.506279],[25.589094,44.506972],[25.587355,44.506752],[25.585914,44.506416],[25.58409,44.505759],[25.582163,44.505063],[25.581415,44.505259],[25.580677,44.504923],[25.580238,44.505377],[25.580907,44.505752],[25.580436,44.506065],[25.581933,44.511968],[25.581745,44.512124],[25.581084,44.513399],[25.582361,44.513572],[25.58217,44.514628],[25.582997,44.514704],[25.582914,44.515742],[25.583842,44.515766]]],"type":"Polygon"}
 }

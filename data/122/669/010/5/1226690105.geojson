@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.09578,45.92637,22.09578,45.92637",
-    "geom:latitude":45.92637,
-    "geom:longitude":22.09578,
+    "geom:area":0.00003,
+    "geom:area_square_m":257324.230579,
+    "geom:bbox":"22.091718,45.920534,22.097439,45.9302",
+    "geom:latitude":45.924844,
+    "geom:longitude":22.094033,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156801.0",
     "gn:asciiname":"Bunea Mica",
@@ -25,17 +25,28 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.07578,45.90637,22.11578,45.94637",
+    "lbl:latitude":45.92637,
+    "lbl:longitude":22.09578,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Bunea Mic\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Bunea Mica"
+    ],
     "name:und_x_variant":[
         "Bunea Ungureasc\u0103",
         "Bunea Mic\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -43,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683286
+        "gn:id":683286,
+        "ro-ancpi:id":156874
     },
     "wof:country":"RO",
-    "wof:geomhash":"1884583a50e67363cef7653ade1e30f6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3a99351a23a7e19dbffa445cb8280a90",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,8 +71,14 @@
         }
     ],
     "wof:id":1226690105,
-    "wof:lastmodified":1566611639,
-    "wof:name":"Bunea Mica",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203746,
+    "wof:name":"Bunea Mic\u0103",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -66,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.09578,
-    45.92637,
-    22.09578,
-    45.92637
+    22.091718,
+    45.920534,
+    22.097439,
+    45.9302
 ],
-  "geometry": {"coordinates":[22.09578,45.92637],"type":"Point"}
+  "geometry": {"coordinates":[[[22.097266,45.926649],[22.097439,45.925938],[22.096041,45.925914],[22.096135,45.924298],[22.096129,45.923345],[22.09601,45.922947],[22.096385,45.922042],[22.096375,45.921273],[22.095726,45.921225],[22.095398,45.920534],[22.094726,45.920828],[22.094288,45.920992],[22.094282,45.921246],[22.094256,45.92149],[22.092116,45.921627],[22.091834,45.925671],[22.091718,45.927726],[22.092304,45.927747],[22.092466,45.929061],[22.09364,45.930121],[22.093981,45.9302],[22.093977,45.929714],[22.093902,45.929221],[22.093832,45.928545],[22.093835,45.928424],[22.093838,45.928303],[22.093813,45.927991],[22.093751,45.927515],[22.094987,45.927138],[22.096092,45.926787],[22.097266,45.926649]]],"type":"Polygon"}
 }

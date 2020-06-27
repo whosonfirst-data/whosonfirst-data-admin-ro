@@ -59,7 +59,6 @@
     "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
-        101785163,
         85633745,
         85687773
     ],
@@ -76,15 +75,21 @@
         {
             "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101785163,
+            "locality_id":-1,
             "neighbourhood_id":1126072259,
             "region_id":85687773
         }
     ],
     "wof:id":1126072259,
-    "wof:lastmodified":1566611380,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208277,
     "wof:name":"Ro\u0219u",
-    "wof:parent_id":101785163,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:population":544,
     "wof:population_rank":2,

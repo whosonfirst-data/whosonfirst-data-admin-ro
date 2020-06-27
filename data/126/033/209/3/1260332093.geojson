@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.3103,45.73982,22.3103,45.73982",
-    "geom:latitude":45.73982,
-    "geom:longitude":22.3103,
+    "geom:area":0.00001,
+    "geom:area_square_m":88251.426093,
+    "geom:bbox":"22.306614,45.737702,22.310398,45.741968",
+    "geom:latitude":45.7399,
+    "geom:longitude":22.308425,
     "gn:admin1_code":"36",
     "gn:admin2_code":"158895.0",
     "gn:asciiname":"Luncanii de Sus",
@@ -25,17 +25,27 @@
     "gn:population":51,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.2903,45.71982,22.3303,45.75982",
+    "lbl:latitude":45.739703,
+    "lbl:longitude":22.308272,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.739703,
+    "mps:longitude":22.308272,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Luncanii de Sus"
+    ],
     "name:und_x_variant":[
         "Luncani de Sus",
         "Luncanii de Sus"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":674373
+        "gn:id":674373,
+        "ro-ancpi:id":158948
     },
     "wof:country":"RO",
-    "wof:geomhash":"56393d18b34e2a3c95ecf307dc12e696",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"df4d6d3a8dc5a587fa73a7ea8d0ca415",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +71,13 @@
         }
     ],
     "wof:id":1260332093,
-    "wof:lastmodified":1566610508,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
     "wof:name":"Luncanii de Sus",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -69,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.3103,
-    45.73982,
-    22.3103,
-    45.73982
+    22.306614,
+    45.737702,
+    22.310398,
+    45.741968
 ],
-  "geometry": {"coordinates":[22.3103,45.73982],"type":"Point"}
+  "geometry": {"coordinates":[[[22.309794,45.738066],[22.309333,45.737702],[22.308241,45.737908],[22.30731,45.73903],[22.306614,45.740823],[22.30714,45.741968],[22.309098,45.741914],[22.309209,45.740407],[22.310398,45.739617],[22.309794,45.738066]]],"type":"Polygon"}
 }

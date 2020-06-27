@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.07954,45.06121,24.07954,45.06121",
-    "geom:latitude":45.06121,
-    "geom:longitude":24.07954,
+    "geom:area":0.000132,
+    "geom:area_square_m":1151998.802116,
+    "geom:bbox":"24.069427,45.045298,24.087814,45.071227",
+    "geom:latitude":45.057148,
+    "geom:longitude":24.077882,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":803,
     "iso:country":"RO",
-    "lbl:bbox":"24.05954,45.04121,24.09954,45.08121",
-    "lbl:latitude":45.06121,
-    "lbl:longitude":24.07954,
+    "lbl:latitude":45.06185,
+    "lbl:longitude":24.075852,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.06185,
+    "mps:longitude":24.075852,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0644\u064a\u0634\u062a\u0649 \u062f\u0649 \u0686\u0648\u0633"
+    ],
     "name:eng_x_preferred":[
         "Fole\u0219tii de Jos"
     ],
@@ -32,6 +36,9 @@
         "Fole\u0219tii de Jos"
     ],
     "name:ron_x_preferred":[
+        "Fole\u015ftii de Jos"
+    ],
+    "name:ron_x_variant":[
         "Fole\u0219tii de Jos"
     ],
     "name:srp_x_preferred":[
@@ -58,8 +65,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":872331,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -75,11 +85,15 @@
         "gn:id":677993,
         "gp:id":872331,
         "qs_pg:id":1145711,
+        "ro-ancpi:id":173999,
         "wd:id":"Q12165899"
     },
     "wof:country":"RO",
     "wof:created":1497297571,
-    "wof:geomhash":"e3ff9dae65fb5216e40f528811fcbe79",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"fce4460abd249136ed6bc5f7fcf8bcf4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,8 +103,14 @@
         }
     ],
     "wof:id":1125954425,
-    "wof:lastmodified":1566611283,
-    "wof:name":"Fole\u0219tii de Jos",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
+    "wof:name":"Fole\u015ftii de Jos",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":803,
@@ -101,10 +121,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.07954,
-    45.06121,
-    24.07954,
-    45.06121
+    24.069427,
+    45.045298,
+    24.087814,
+    45.071227
 ],
-  "geometry": {"coordinates":[24.07954,45.06121],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.069427,45.071023],[24.071889,45.071227],[24.073583,45.067514],[24.076618,45.064747],[24.078129,45.06399],[24.078702,45.061928],[24.078505,45.059541],[24.078938,45.056226],[24.079307,45.053639],[24.080731,45.049825],[24.077815,45.048712],[24.074977,45.0515],[24.078151,45.052479],[24.07676,45.054158],[24.075225,45.054133],[24.075073,45.055054],[24.07254,45.054899],[24.072579,45.055718],[24.07492,45.055933],[24.074255,45.057614],[24.075543,45.057942],[24.074638,45.059382],[24.073336,45.058846],[24.07216,45.060107],[24.072284,45.063009],[24.07042,45.063067],[24.070356,45.063837],[24.071046,45.063842],[24.071105,45.064442],[24.073354,45.064271],[24.073271,45.064863],[24.070592,45.067338],[24.069427,45.071023]]],[[[24.087814,45.052172],[24.084024,45.045298],[24.078745,45.046154],[24.081044,45.048661],[24.08323,45.052204],[24.087814,45.052172]]],[[[24.086215,45.056067],[24.084182,45.056036],[24.084245,45.057096],[24.085002,45.057102],[24.085034,45.057626],[24.087068,45.057571],[24.087165,45.056484],[24.086309,45.056435],[24.086215,45.056067]]],[[[24.083766,45.059579],[24.082452,45.059498],[24.082022,45.061402],[24.083416,45.061526],[24.083766,45.059579]]]],"type":"MultiPolygon"}
 }

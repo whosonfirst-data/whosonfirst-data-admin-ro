@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.21932,46.73081,27.21932,46.73081",
-    "geom:latitude":46.73081,
-    "geom:longitude":27.21932,
+    "geom:area":0.00001,
+    "geom:area_square_m":86231.305365,
+    "geom:bbox":"27.216014,46.727511,27.221653,46.733004",
+    "geom:latitude":46.730754,
+    "geom:longitude":27.218443,
     "gn:admin1_code":"04",
     "gn:admin2_code":"23207.0",
     "gn:asciiname":"Valea Mosneagului",
@@ -25,17 +25,28 @@
     "gn:population":25,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.19932,46.71081,27.23932,46.75081",
+    "lbl:latitude":46.73081,
+    "lbl:longitude":27.21932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Mo\u015fneagului"
+    ],
+    "name:ron_x_variant":[
+        "Valea Mosneagului"
+    ],
     "name:und_x_variant":[
         "Valea Mo\u015fneag",
         "Valea Mo\u015fneagului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663568
+        "gn:id":663568,
+        "ro-ancpi:id":23270
     },
     "wof:country":"RO",
-    "wof:geomhash":"f61b04ba9cc1200cb0f4d012d4026f31",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"34d223942ca35746a1bbf8b44c8d86cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1310707823,
-    "wof:lastmodified":1566610529,
-    "wof:name":"Valea Mosneagului",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203544,
+    "wof:name":"Valea Mo\u015fneagului",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":25,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.21932,
-    46.73081,
-    27.21932,
-    46.73081
+    27.216014,
+    46.727511,
+    27.221653,
+    46.733004
 ],
-  "geometry": {"coordinates":[27.21932,46.73081],"type":"Point"}
+  "geometry": {"coordinates":[[[27.221653,46.731524],[27.221583,46.731383],[27.22132,46.731393],[27.220983,46.731341],[27.220834,46.731177],[27.220411,46.730921],[27.219168,46.730475],[27.218981,46.730621],[27.218656,46.730334],[27.217743,46.730278],[27.217619,46.730113],[27.217294,46.730109],[27.217359,46.729747],[27.217246,46.729602],[27.217185,46.729326],[27.217297,46.729131],[27.217547,46.728849],[27.217538,46.728684],[27.217392,46.728496],[27.217058,46.728193],[27.216924,46.728067],[27.216791,46.727845],[27.21668,46.727538],[27.216142,46.727511],[27.216014,46.729203],[27.217153,46.731177],[27.217476,46.731226],[27.217661,46.732099],[27.219256,46.732466],[27.219469,46.732461],[27.219608,46.732703],[27.219872,46.732899],[27.220017,46.73297],[27.220239,46.733004],[27.220395,46.732977],[27.22049,46.732853],[27.220675,46.732326],[27.221157,46.73192],[27.221359,46.731828],[27.221653,46.731524]]],"type":"Polygon"}
 }

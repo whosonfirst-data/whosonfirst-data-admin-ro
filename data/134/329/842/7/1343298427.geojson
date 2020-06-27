@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.09896,44.6722,24.09896,44.6722",
-    "geom:latitude":44.6722,
-    "geom:longitude":24.09896,
+    "geom:area":0.00011,
+    "geom:area_square_m":966810.009033,
+    "geom:bbox":"24.079432,44.649658,24.104568,44.68898",
+    "geom:latitude":44.670696,
+    "geom:longitude":24.095923,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171209.0",
     "gn:asciiname":"Madulari",
@@ -25,13 +25,19 @@
     "gn:population":545,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.07896,44.6522,24.11896,44.6922",
+    "lbl:latitude":44.670371,
+    "lbl:longitude":24.097949,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.670371,
+    "mps:longitude":24.097949,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:epo_x_preferred":[
+        "M\u0103dulari"
+    ],
+    "name:eus_x_preferred":[
         "M\u0103dulari"
     ],
     "name:fra_x_preferred":[
@@ -50,7 +56,11 @@
         "M\u0103dulari"
     ],
     "name:ron_x_preferred":[
-        "Comuna M\u0103dulari"
+        "M\u0103dulari"
+    ],
+    "name:ron_x_variant":[
+        "Comuna M\u0103dulari",
+        "Madulari"
     ],
     "name:srp_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0430\u0434\u0443\u043b\u0430\u0440\u0438-\u0411\u0435\u0438\u043a\u0430"
@@ -67,10 +77,17 @@
     "name:vie_x_preferred":[
         "Madulari"
     ],
+    "name:vie_x_variant":[
+        "M\u0103dulari"
+    ],
     "name:zho_x_preferred":[
         "\u9ed8\u675c\u62c9\u91cc\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -80,10 +97,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":674201,
+        "ro-ancpi:id":171218,
         "wk:page":"M%C4%83dulari"
     },
     "wof:country":"RO",
-    "wof:geomhash":"131457d1bed95a1f6d97ecabb87faad9",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ea7d1c8dd3b0d964120423f2fa830593",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,8 +114,14 @@
         }
     ],
     "wof:id":1343298427,
-    "wof:lastmodified":1566609973,
-    "wof:name":"Madulari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203680,
+    "wof:name":"M\u0103dulari",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":545,
@@ -105,10 +132,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.09896,
-    44.6722,
-    24.09896,
-    44.6722
+    24.079432,
+    44.649658,
+    24.104568,
+    44.68898
 ],
-  "geometry": {"coordinates":[24.09896,44.6722],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.09847,44.65025],[24.096226,44.649658],[24.095428,44.650484],[24.097887,44.651495],[24.101187,44.652713],[24.102227,44.65568],[24.102579,44.657635],[24.101476,44.661259],[24.101237,44.662378],[24.100054,44.664694],[24.096761,44.669349],[24.095865,44.672616],[24.094065,44.677025],[24.092775,44.6771],[24.092707,44.677603],[24.093427,44.67791],[24.091407,44.683465],[24.091969,44.684863],[24.093234,44.685031],[24.094453,44.68303],[24.095497,44.679348],[24.096193,44.677343],[24.098107,44.673338],[24.099313,44.670906],[24.100164,44.667969],[24.101803,44.666087],[24.10316,44.664202],[24.10444,44.659574],[24.104532,44.658785],[24.104568,44.656474],[24.103714,44.654471],[24.102948,44.652024],[24.10167,44.65141],[24.09847,44.65025]]],[[[24.087758,44.682345],[24.086131,44.681158],[24.079432,44.688353],[24.081175,44.68898],[24.08345,44.687697],[24.085066,44.68508],[24.087758,44.682345]]]],"type":"MultiPolygon"}
 }

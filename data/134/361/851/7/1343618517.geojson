@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.56547,44.83347,22.56547,44.83347",
-    "geom:latitude":44.83347,
-    "geom:longitude":22.56547,
+    "geom:area":0.000018,
+    "geom:area_square_m":161175.138258,
+    "geom:bbox":"22.561182,44.830286,22.574303,44.838702",
+    "geom:latitude":44.83409,
+    "geom:longitude":22.566923,
     "gn:admin1_code":"26",
     "gn:admin2_code":"111220.0",
     "gn:asciiname":"Jupanesti",
@@ -25,19 +25,43 @@
     "gn:population":95,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.54547,44.81347,22.58547,44.85347",
+    "lbl:latitude":44.83347,
+    "lbl:longitude":22.56547,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ita_x_preferred":[
+        "Jup\u00e2ne\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Jup\u00e2ne\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Jup\u00e2ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Jupanesti",
+        "Jup\u00e2ne\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u043f\u0438\u043d\u0435\u0448\u0442\u044c"
+    ],
     "name:und_x_variant":[
         "Zupane\u0161ti",
         "Jup\u00eene\u015fti",
         "Sup\u0103nesti",
         "Jup\u00e2ne\u015fti"
     ],
-    "src:geom":"geonames",
+    "name:vol_x_preferred":[
+        "Jup\u00e2ne\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675141
+        "gn:id":675141,
+        "ro-ancpi:id":111257
     },
     "wof:country":"RO",
-    "wof:geomhash":"ecb4563d38d1624b18f922149f4d9df8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8692702815bfc519b7297f4acc8e0886",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,8 +87,14 @@
         }
     ],
     "wof:id":1343618517,
-    "wof:lastmodified":1566609934,
-    "wof:name":"Jupanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203334,
+    "wof:name":"Jup\u00e2ne\u015fti",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":95,
@@ -71,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.56547,
-    44.83347,
-    22.56547,
-    44.83347
+    22.561182,
+    44.830286,
+    22.574303,
+    44.838702
 ],
-  "geometry": {"coordinates":[22.56547,44.83347],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.564758,44.832437],[22.565,44.830576],[22.563302,44.830286],[22.562833,44.83112],[22.562226,44.830881],[22.561182,44.832904],[22.561864,44.833086],[22.562984,44.833157],[22.563276,44.833815],[22.563697,44.834374],[22.564798,44.834492],[22.564827,44.834104],[22.565293,44.834089],[22.56593,44.8331],[22.56601,44.832904],[22.564758,44.832437]]],[[[22.571155,44.835522],[22.569688,44.83495],[22.569194,44.836008],[22.569929,44.836284],[22.573841,44.838702],[22.574303,44.838521],[22.573857,44.837517],[22.573328,44.836628],[22.572284,44.835749],[22.571155,44.835522]]]],"type":"MultiPolygon"}
 }

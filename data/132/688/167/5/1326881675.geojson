@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.51082,46.74426,27.51082,46.74426",
-    "geom:latitude":46.74426,
-    "geom:longitude":27.51082,
+    "geom:area":0.000011,
+    "geom:area_square_m":89013.112244,
+    "geom:bbox":"27.505525,46.742521,27.513865,46.746073",
+    "geom:latitude":46.744258,
+    "geom:longitude":27.509257,
     "gn:admin1_code":"38",
     "gn:admin2_code":"167277.0",
     "gn:asciiname":"Hordilesti",
@@ -24,13 +24,24 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.49082,46.72426,27.53082,46.76426",
+    "lbl:latitude":46.74426,
+    "lbl:longitude":27.51082,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Hordile\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Hordilesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -38,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676030
+        "gn:id":676030,
+        "ro-ancpi:id":163459
     },
     "wof:country":"RO",
-    "wof:geomhash":"f10ac0863d908925e80c7f36ec901133",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"42b0df245c50c3e2f272af409eb348e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,8 +66,14 @@
         }
     ],
     "wof:id":1326881675,
-    "wof:lastmodified":1566609771,
-    "wof:name":"Hordilesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203461,
+    "wof:name":"Hordile\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -61,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.51082,
-    46.74426,
-    27.51082,
-    46.74426
+    27.505525,
+    46.742521,
+    27.513865,
+    46.746073
 ],
-  "geometry": {"coordinates":[27.51082,46.74426],"type":"Point"}
+  "geometry": {"coordinates":[[[27.506005,46.746073],[27.506401,46.745918],[27.507533,46.745983],[27.507899,46.745412],[27.508488,46.74557],[27.508878,46.744762],[27.51062,46.744675],[27.511487,46.743881],[27.513553,46.744652],[27.513865,46.744204],[27.511917,46.743423],[27.510604,46.742521],[27.51033,46.743017],[27.509631,46.742803],[27.50908,46.74346],[27.508443,46.743311],[27.508183,46.743594],[27.506973,46.743375],[27.506937,46.744135],[27.507566,46.744383],[27.506825,46.745052],[27.506441,46.744978],[27.505525,46.745708],[27.506005,46.746073]]],"type":"Polygon"}
 }

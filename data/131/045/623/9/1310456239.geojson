@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.19908,46.74355,24.19908,46.74355",
-    "geom:latitude":46.74355,
-    "geom:longitude":24.19908,
+    "geom:area":0.000036,
+    "geom:area_square_m":308274.450419,
+    "geom:bbox":"24.182991,46.739296,24.200813,46.745353",
+    "geom:latitude":46.743235,
+    "geom:longitude":24.193437,
     "gn:admin1_code":"27",
     "gn:admin2_code":"119242.0",
     "gn:asciiname":"Morut",
@@ -24,13 +24,24 @@
     "gn:population":107,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.17908,46.72355,24.21908,46.76355",
+    "lbl:latitude":46.74355,
+    "lbl:longitude":24.19908,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Moru\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Morut"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672836
+        "gn:id":672836,
+        "ro-ancpi:id":119288
     },
     "wof:country":"RO",
-    "wof:geomhash":"3b85b42d219ade22e6b862ff9cd23c33",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2237290b1208be052f3efedb43e51ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1310456239,
-    "wof:lastmodified":1566610565,
-    "wof:name":"Morut",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203450,
+    "wof:name":"Moru\u0163",
     "wof:parent_id":85687719,
     "wof:placetype":"locality",
     "wof:population":107,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.19908,
-    46.74355,
-    24.19908,
-    46.74355
+    24.182991,
+    46.739296,
+    24.200813,
+    46.745353
 ],
-  "geometry": {"coordinates":[24.19908,46.74355],"type":"Point"}
+  "geometry": {"coordinates":[[[24.195648,46.744859],[24.199862,46.744444],[24.200061,46.742768],[24.200813,46.742465],[24.199752,46.74179],[24.19772,46.741125],[24.197333,46.740387],[24.195482,46.739296],[24.194299,46.740126],[24.197503,46.742339],[24.195599,46.743147],[24.192488,46.743074],[24.191651,46.742418],[24.19037,46.743179],[24.188374,46.741779],[24.188451,46.74332],[24.183896,46.743219],[24.183888,46.743732],[24.182991,46.743812],[24.183128,46.744617],[24.186717,46.744403],[24.19254,46.744615],[24.192778,46.745353],[24.195648,46.744859]]],"type":"Polygon"}
 }

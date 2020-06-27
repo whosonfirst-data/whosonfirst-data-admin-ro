@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.32598,44.59585,23.32598,44.59585",
-    "geom:latitude":44.59585,
-    "geom:longitude":23.32598,
+    "geom:area":0.00001,
+    "geom:area_square_m":89652.86238,
+    "geom:bbox":"23.320262,44.593077,23.328777,44.597672",
+    "geom:latitude":44.595359,
+    "geom:longitude":23.32448,
     "gn:admin1_code":"26",
     "gn:admin2_code":"113518.0",
     "gn:asciiname":"Posta Veche",
@@ -24,13 +24,26 @@
     "gn:population":71,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.30598,44.57585,23.34598,44.61585",
+    "lbl:latitude":44.595225,
+    "lbl:longitude":23.324899,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.595225,
+    "mps:longitude":23.324899,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Po\u015fta Veche"
+    ],
+    "name:ron_x_variant":[
+        "Posta Veche"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669777
+        "gn:id":669777,
+        "ro-ancpi:id":113572
     },
     "wof:country":"RO",
-    "wof:geomhash":"b4dec44e2639ce87b25f82e6e9d1d15a",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1ae161ea91d920ca90a80151ec926dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1243521655,
-    "wof:lastmodified":1566611433,
-    "wof:name":"Posta Veche",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203342,
+    "wof:name":"Po\u015fta Veche",
     "wof:parent_id":85687599,
     "wof:placetype":"locality",
     "wof:population":71,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.32598,
-    44.59585,
-    23.32598,
-    44.59585
+    23.320262,
+    44.593077,
+    23.328777,
+    44.597672
 ],
-  "geometry": {"coordinates":[23.32598,44.59585],"type":"Point"}
+  "geometry": {"coordinates":[[[23.321175,44.597672],[23.324719,44.595899],[23.324916,44.595992],[23.325194,44.595817],[23.32539,44.595909],[23.326096,44.59547],[23.325775,44.595301],[23.328777,44.593737],[23.327945,44.593077],[23.327102,44.593349],[23.320262,44.596812],[23.321175,44.597672]]],"type":"Polygon"}
 }

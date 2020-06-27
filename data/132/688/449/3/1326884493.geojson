@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.65,45.93333,24.65,45.93333",
-    "geom:latitude":45.93333,
-    "geom:longitude":24.65,
+    "geom:area":0.000037,
+    "geom:area_square_m":316016.998866,
+    "geom:bbox":"24.632535,45.927874,24.645731,45.934077",
+    "geom:latitude":45.930789,
+    "geom:longitude":24.639208,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144456.0",
     "gn:asciiname":"Veseud",
@@ -24,11 +24,14 @@
     "gn:population":154,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.63,45.91333,24.67,45.95333",
+    "lbl:latitude":45.930666,
+    "lbl:longitude":24.639208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.930666,
+    "mps:longitude":24.639208,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Veseud"
@@ -48,7 +51,11 @@
     "name:und_x_variant":[
         "Veseud-Agnita"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -57,10 +64,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663026
+        "gn:id":663026,
+        "ro-ancpi:id":144492
     },
     "wof:country":"RO",
-    "wof:geomhash":"cf6c440e09ad9beef67a5dfc232302cf",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ddc0427450f2d6118a423208acead7ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -70,7 +81,13 @@
         }
     ],
     "wof:id":1326884493,
-    "wof:lastmodified":1566609771,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203652,
     "wof:name":"Veseud",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
@@ -82,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.65,
-    45.93333,
-    24.65,
-    45.93333
+    24.632535,
+    45.927874,
+    24.645731,
+    45.934077
 ],
-  "geometry": {"coordinates":[24.65,45.93333],"type":"Point"}
+  "geometry": {"coordinates":[[[24.645731,45.929459],[24.644941,45.92836],[24.643884,45.928687],[24.643157,45.927874],[24.635045,45.930191],[24.63563,45.930894],[24.632535,45.93206],[24.633792,45.934077],[24.635066,45.933645],[24.637376,45.932751],[24.639747,45.932208],[24.642758,45.931418],[24.645576,45.930014],[24.645731,45.929459]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.49953,45.04624,27.49953,45.04624",
-    "geom:latitude":45.04624,
-    "geom:longitude":27.49953,
+    "geom:area":0.000171,
+    "geom:area_square_m":1489602.538713,
+    "geom:bbox":"27.49127,45.03867,27.508634,45.051695",
+    "geom:latitude":45.045686,
+    "geom:longitude":27.499925,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43331.0",
     "gn:asciiname":"Tarlele Filiu",
@@ -25,12 +25,19 @@
     "gn:population":752,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.47953,45.02624,27.51953,45.06624",
+    "lbl:latitude":45.04624,
+    "lbl:longitude":27.49953,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "T\u00e2rlele Filiu"
+    ],
+    "name:ron_x_variant":[
+        "Tarlele Filiu"
+    ],
     "name:und_x_variant":[
         "Filiu T\u00e2rlele",
         "T\u00e2rlele Filiul",
@@ -38,7 +45,11 @@
         "T\u00e2rlele-Filiu",
         "T\u00eerlele Filiu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664979
+        "gn:id":664979,
+        "ro-ancpi:id":43402
     },
     "wof:country":"RO",
-    "wof:geomhash":"73f7e15a17a7036b26fdaddb8daed4b8",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"2443d6dc4d7627480b3d74d7c2d53596",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -60,8 +75,14 @@
         }
     ],
     "wof:id":1360070913,
-    "wof:lastmodified":1566610619,
-    "wof:name":"Tarlele Filiu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203772,
+    "wof:name":"T\u00e2rlele Filiu",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":752,
@@ -72,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.49953,
-    45.04624,
-    27.49953,
-    45.04624
+    27.49127,
+    45.03867,
+    27.508634,
+    45.051695
 ],
-  "geometry": {"coordinates":[27.49953,45.04624],"type":"Point"}
+  "geometry": {"coordinates":[[[27.506949,45.051695],[27.507305,45.049323],[27.507533,45.047722],[27.507872,45.046177],[27.50815,45.043883],[27.508634,45.041335],[27.505288,45.041083],[27.501938,45.040734],[27.502138,45.039413],[27.500585,45.039255],[27.500716,45.038844],[27.499204,45.03867],[27.498591,45.040443],[27.495054,45.040155],[27.492984,45.039951],[27.492536,45.042729],[27.491431,45.049058],[27.49127,45.05033],[27.492197,45.05059],[27.493264,45.050681],[27.493639,45.050687],[27.493873,45.050711],[27.494095,45.050699],[27.494541,45.050696],[27.495204,45.050729],[27.500674,45.051211],[27.50281,45.051364],[27.503571,45.051389],[27.503769,45.051459],[27.506949,45.051695]]],"type":"Polygon"}
 }

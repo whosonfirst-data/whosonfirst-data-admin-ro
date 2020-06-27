@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.7996,44.37804,23.7996,44.37804",
-    "geom:latitude":44.37804,
-    "geom:longitude":23.7996,
+    "geom:area":0.000014,
+    "geom:area_square_m":126868.859006,
+    "geom:bbox":"23.795527,44.374321,23.799683,44.38018",
+    "geom:latitude":44.377377,
+    "geom:longitude":23.797676,
     "gn:admin1_code":"17",
     "gn:admin2_code":"70174.0",
     "gn:asciiname":"Jieni",
@@ -24,11 +24,14 @@
     "gn:population":51,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.7796,44.35804,23.8196,44.39804",
+    "lbl:latitude":44.376947,
+    "lbl:longitude":23.797557,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.376947,
+    "mps:longitude":23.797557,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Jieni"
@@ -39,7 +42,11 @@
     "name:srp_x_preferred":[
         "\u0416\u0438\u0435\u043d\u0438"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675248
+        "gn:id":675248,
+        "ro-ancpi:id":70263
     },
     "wof:country":"RO",
-    "wof:geomhash":"b98ba3e3d621377c40a5458b951a3263",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"dd55946bf596b49ff5ec8873b8c47eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -61,7 +72,13 @@
         }
     ],
     "wof:id":1344029431,
-    "wof:lastmodified":1566609970,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203318,
     "wof:name":"Jieni",
     "wof:parent_id":85687581,
     "wof:placetype":"locality",
@@ -73,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.7996,
-    44.37804000000001,
-    23.7996,
-    44.37804000000001
+    23.795527,
+    44.374321,
+    23.799683,
+    44.38018
 ],
-  "geometry": {"coordinates":[23.7996,44.37804000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[[23.79835,44.378503],[23.798607,44.377954],[23.79929,44.37804],[23.799683,44.376145],[23.798482,44.375925],[23.798865,44.375446],[23.798972,44.37504],[23.797298,44.374349],[23.797163,44.374321],[23.796683,44.375416],[23.795653,44.378094],[23.797345,44.378294],[23.79835,44.378503]]],[[[23.797135,44.378675],[23.795818,44.378476],[23.795527,44.379311],[23.79612,44.379528],[23.79681,44.379725],[23.799257,44.38018],[23.799417,44.379546],[23.799535,44.3792],[23.797135,44.378675]]]],"type":"MultiPolygon"}
 }

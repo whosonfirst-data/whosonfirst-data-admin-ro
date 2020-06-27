@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.02123,44.13448,25.02123,44.13448",
-    "geom:latitude":44.13448,
-    "geom:longitude":25.02123,
+    "geom:area":0.000051,
+    "geom:area_square_m":454327.054039,
+    "geom:bbox":"25.016036,44.130657,25.025562,44.139598",
+    "geom:latitude":44.134371,
+    "geom:longitude":25.019779,
     "gn:admin1_code":"35",
     "gn:admin2_code":"152868.0",
     "gn:asciiname":"Vacaresti",
@@ -24,13 +24,24 @@
     "gn:population":660,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.00123,44.11448,25.04123,44.15448",
+    "lbl:latitude":44.13448,
+    "lbl:longitude":25.02123,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "V\u0103c\u0103re\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Vacaresti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664042
+        "gn:id":664042,
+        "ro-ancpi:id":152895
     },
     "wof:country":"RO",
-    "wof:geomhash":"4d56e563f562ee199d4a6a0d4cf51229",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b2ddfbc5ea1e730636b68e6bcbcb6d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1192971819,
-    "wof:lastmodified":1566610445,
-    "wof:name":"Vacaresti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203346,
+    "wof:name":"V\u0103c\u0103re\u015fti",
     "wof:parent_id":85687585,
     "wof:placetype":"locality",
     "wof:population":660,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.02123,
-    44.13448,
-    25.02123,
-    44.13448
+    25.016036,
+    44.130657,
+    25.025562,
+    44.139598
 ],
-  "geometry": {"coordinates":[25.02123,44.13448],"type":"Point"}
+  "geometry": {"coordinates":[[[25.024452,44.133207],[25.024511,44.132956],[25.025022,44.133073],[25.025562,44.132188],[25.024859,44.132023],[25.024593,44.132466],[25.022283,44.1318],[25.022587,44.131437],[25.021772,44.131278],[25.021062,44.131139],[25.020892,44.131086],[25.020396,44.130964],[25.020296,44.130878],[25.019932,44.130809],[25.019432,44.13068],[25.019336,44.130657],[25.019229,44.130662],[25.016036,44.130801],[25.016072,44.134486],[25.016142,44.136891],[25.017585,44.137376],[25.018592,44.137728],[25.018348,44.138175],[25.019695,44.138426],[25.019695,44.138794],[25.019473,44.139231],[25.020562,44.139556],[25.020739,44.139582],[25.020843,44.139598],[25.021346,44.138569],[25.021316,44.138473],[25.021153,44.138351],[25.021708,44.137285],[25.021989,44.137098],[25.022648,44.135963],[25.022995,44.13527],[25.022988,44.135115],[25.023284,44.135062],[25.023972,44.134075],[25.024452,44.133207]]],"type":"Polygon"}
 }

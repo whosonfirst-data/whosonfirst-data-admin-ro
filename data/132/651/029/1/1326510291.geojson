@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.97234,44.63777,21.97234,44.63777",
-    "geom:latitude":44.63777,
-    "geom:longitude":21.97234,
+    "geom:area":0.000015,
+    "geom:area_square_m":132308.700165,
+    "geom:bbox":"21.965673,44.636346,21.979368,44.638591",
+    "geom:latitude":44.637374,
+    "geom:longitude":21.971752,
     "gn:admin1_code":"12",
     "gn:admin2_code":"51449.0",
     "gn:asciiname":"Drencova",
@@ -25,18 +25,26 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.95234,44.61777,21.99234,44.65777",
+    "lbl:latitude":44.63777,
+    "lbl:longitude":21.97234,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Drencova"
+    ],
     "name:und_x_variant":[
         "Portul Drencova",
         "Drenkovo",
         "Drencova"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678841
+        "gn:id":678841,
+        "ro-ancpi:id":51485
     },
     "wof:country":"RO",
-    "wof:geomhash":"f6c3d3cb16d9da4d0735a4733d355438",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4d421b7104615a62c5a9cbd6ab91fda8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1326510291,
-    "wof:lastmodified":1566609782,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203616,
     "wof:name":"Drencova",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -67,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.97234,
-    44.63777,
-    21.97234,
-    44.63777
+    21.965673,
+    44.636346,
+    21.979368,
+    44.638591
 ],
-  "geometry": {"coordinates":[21.97234,44.63777],"type":"Point"}
+  "geometry": {"coordinates":[[[21.975369,44.63774],[21.975611,44.637527],[21.976519,44.637624],[21.976756,44.63765],[21.977158,44.637693],[21.977416,44.637726],[21.977628,44.637754],[21.977813,44.637788],[21.97802,44.637832],[21.978254,44.637893],[21.978541,44.637978],[21.97914,44.638165],[21.979368,44.637921],[21.97924,44.637896],[21.978521,44.63767],[21.978337,44.637522],[21.976967,44.637193],[21.975141,44.636408],[21.972769,44.636346],[21.97195,44.636503],[21.971321,44.636503],[21.968647,44.637039],[21.96678,44.637084],[21.966737,44.637156],[21.965827,44.636957],[21.965735,44.637814],[21.965673,44.638174],[21.966578,44.638235],[21.969879,44.638144],[21.971402,44.637881],[21.973719,44.637673],[21.974412,44.637876],[21.974166,44.638384],[21.974876,44.638591],[21.975135,44.638201],[21.975211,44.637938],[21.975369,44.63774]]],"type":"Polygon"}
 }

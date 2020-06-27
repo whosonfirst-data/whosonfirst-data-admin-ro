@@ -4,24 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.72528,44.90556,21.72528,44.90556",
-    "geom:latitude":44.90556,
-    "geom:longitude":21.72528,
+    "geom:area":0.000064,
+    "geom:area_square_m":562074.969067,
+    "geom:bbox":"21.716845,44.887427,21.729228,44.897771",
+    "geom:latitude":44.891742,
+    "geom:longitude":21.723075,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"RO",
-    "lbl:bbox":"21.70528,44.88556,21.74528,44.92556",
-    "lbl:latitude":44.90556,
-    "lbl:longitude":21.72528,
+    "lbl:latitude":44.890073,
+    "lbl:longitude":21.723075,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.890073,
+    "mps:longitude":21.723075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0633\u0643\u0627 \u0631\u0648\u0645\u064a\u0646\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Sasca Rom\u00e2n\u0103"
     ],
@@ -42,6 +46,9 @@
     ],
     "name:ron_x_preferred":[
         "Sasca Rom\u00e2n\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Sasca Rom\u00een\u0103"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u0441\u043a\u0430 \u0420\u043e\u043c\u0430\u043d\u0430"
@@ -72,8 +79,11 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":879746,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
     "woe:name_adm0":"Rom\u00e2nia",
@@ -89,11 +99,15 @@
         "gn:id":667924,
         "gp:id":879746,
         "qs_pg:id":1350827,
+        "ro-ancpi:id":53835,
         "wd:id":"Q752862"
     },
     "wof:country":"RO",
     "wof:created":1497298955,
-    "wof:geomhash":"54e2a0deaaf4bbdb206be4d11de4a1d6",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"c6c065fd15d8173de3a51f9a8b43a57c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,8 +117,14 @@
         }
     ],
     "wof:id":1125989043,
-    "wof:lastmodified":1566611361,
-    "wof:name":"Sasca Rom\u00een\u0103",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203624,
+    "wof:name":"Sasca Rom\u00e2n\u0103",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":551,
@@ -115,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.72528,
-    44.90556,
-    21.72528,
-    44.90556
+    21.716845,
+    44.887427,
+    21.729228,
+    44.897771
 ],
-  "geometry": {"coordinates":[21.72528,44.90556],"type":"Point"}
+  "geometry": {"coordinates":[[[21.723499,44.894195],[21.722997,44.892946],[21.722548,44.892891],[21.72268,44.892516],[21.723629,44.892692],[21.72501,44.892562],[21.725612,44.892772],[21.726018,44.893048],[21.726652,44.893567],[21.7292,44.892661],[21.728055,44.891064],[21.72857,44.890857],[21.728243,44.889904],[21.729228,44.889511],[21.728162,44.887978],[21.725087,44.888658],[21.724577,44.887473],[21.721557,44.887641],[21.719841,44.887427],[21.720205,44.889589],[21.720681,44.890486],[21.720467,44.89086],[21.719692,44.891103],[21.717345,44.892459],[21.717547,44.893079],[21.716845,44.893524],[21.71775,44.893914],[21.718377,44.893847],[21.718834,44.89446],[21.719211,44.89485],[21.71969,44.896336],[21.72049,44.896897],[21.721327,44.897771],[21.722272,44.897458],[21.722238,44.897219],[21.723043,44.897061],[21.722807,44.896269],[21.723499,44.894195]]],"type":"Polygon"}
 }

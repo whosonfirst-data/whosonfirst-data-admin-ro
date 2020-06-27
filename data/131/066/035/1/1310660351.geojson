@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.92965,47.91679,22.92965,47.91679",
-    "geom:latitude":47.91679,
-    "geom:longitude":22.92965,
+    "geom:area":0.000082,
+    "geom:area_square_m":682250.055503,
+    "geom:bbox":"22.923703,47.91077,22.941897,47.925764",
+    "geom:latitude":47.917688,
+    "geom:longitude":22.931835,
     "gn:admin1_code":"32",
     "gn:admin2_code":"138164.0",
     "gn:asciiname":"Micula Noua",
@@ -24,13 +24,24 @@
     "gn:population":447,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.90965,47.89679,22.94965,47.93679",
+    "lbl:latitude":47.91679,
+    "lbl:longitude":22.92965,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Micula Nou\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Micula Noua"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +50,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673451
+        "gn:id":673451,
+        "ro-ancpi:id":138191
     },
     "wof:country":"RO",
-    "wof:geomhash":"f61359f5846396d6119ccaf27a22780f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8a27b190927ad6bd26bb68b04e89eda9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +67,14 @@
         }
     ],
     "wof:id":1310660351,
-    "wof:lastmodified":1566610589,
-    "wof:name":"Micula Noua",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203364,
+    "wof:name":"Micula Nou\u0103",
     "wof:parent_id":85687757,
     "wof:placetype":"locality",
     "wof:population":447,
@@ -64,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.92965,
-    47.91679,
-    22.92965,
-    47.91679
+    22.923703,
+    47.91077,
+    22.941897,
+    47.925764
 ],
-  "geometry": {"coordinates":[22.92965,47.91679],"type":"Point"}
+  "geometry": {"coordinates":[[[22.936385,47.921494],[22.930658,47.918653],[22.932264,47.917117],[22.937097,47.919218],[22.938372,47.918036],[22.934062,47.915841],[22.935977,47.914033],[22.934101,47.913041],[22.934376,47.912779],[22.932679,47.911886],[22.932581,47.911795],[22.931908,47.91077],[22.92916,47.91331],[22.926454,47.915809],[22.923703,47.91815],[22.924998,47.919153],[22.924985,47.919734],[22.925791,47.91892],[22.926401,47.919219],[22.930207,47.921142],[22.930692,47.920726],[22.931251,47.92101],[22.933758,47.922308],[22.934786,47.922846],[22.935351,47.923247],[22.93568,47.923424],[22.937903,47.924689],[22.940055,47.925398],[22.941519,47.925753],[22.941763,47.925764],[22.941897,47.925718],[22.938749,47.924149],[22.939659,47.923302],[22.939682,47.923227],[22.939521,47.92317],[22.939088,47.923032],[22.93799,47.922465],[22.936385,47.921494]]],"type":"Polygon"}
 }

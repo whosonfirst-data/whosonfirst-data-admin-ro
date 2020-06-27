@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.54002,46.50865,27.54002,46.50865",
-    "geom:latitude":46.50865,
-    "geom:longitude":27.54002,
+    "geom:area":0.000009,
+    "geom:area_square_m":75468.011338,
+    "geom:bbox":"27.524775,46.502245,27.528633,46.505919",
+    "geom:latitude":46.503879,
+    "geom:longitude":27.526637,
     "gn:admin1_code":"38",
     "gn:admin2_code":"163967.0",
     "gn:asciiname":"Dragomanesti",
@@ -24,13 +24,26 @@
     "gn:population":21,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.52002,46.48865,27.56002,46.52865",
+    "lbl:latitude":46.503313,
+    "lbl:longitude":27.526986,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.503313,
+    "mps:longitude":27.526986,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Dragom\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Dragomanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":678929
+        "gn:id":678929,
+        "ro-ancpi:id":164008
     },
     "wof:country":"RO",
-    "wof:geomhash":"d7587e29643fa859ee03f88a3172b284",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e8b4eefcc6afa4071628e3972b676359",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1293428397,
-    "wof:lastmodified":1566610127,
-    "wof:name":"Dragomanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203465,
+    "wof:name":"Dragom\u0103ne\u015fti",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
     "wof:population":21,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.54002,
-    46.50865,
-    27.54002,
-    46.50865
+    27.524775,
+    46.502245,
+    27.528633,
+    46.505919
 ],
-  "geometry": {"coordinates":[27.54002,46.50865],"type":"Point"}
+  "geometry": {"coordinates":[[[27.527204,46.505332],[27.527075,46.505158],[27.526896,46.50481],[27.526925,46.504349],[27.528161,46.504551],[27.528016,46.504016],[27.5284,46.503419],[27.528633,46.503081],[27.528633,46.502764],[27.528553,46.502413],[27.527933,46.502358],[27.527648,46.502349],[27.527384,46.502321],[27.526834,46.502245],[27.526188,46.502381],[27.525981,46.502979],[27.525361,46.502924],[27.525299,46.502991],[27.525061,46.503273],[27.524927,46.503457],[27.524775,46.504294],[27.525053,46.504347],[27.525095,46.504435],[27.525018,46.504675],[27.525017,46.504913],[27.524926,46.505249],[27.52545,46.505311],[27.525687,46.50541],[27.526632,46.505324],[27.526468,46.505445],[27.526309,46.505553],[27.52599,46.505809],[27.527486,46.505919],[27.527455,46.505694],[27.527204,46.505332]]],"type":"Polygon"}
 }

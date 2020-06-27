@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.0677711115,44.4982533196,26.0677711115,44.4982533196",
+    "geom:bbox":"26.067771,44.498253,26.067771,44.498253",
     "geom:latitude":44.498253,
     "geom:longitude":26.067771,
     "iso:country":"RO",
@@ -59,8 +59,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -69,7 +69,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363189,
-    "wof:geomhash":"09d2923b150c104098bb5b0392d1c467",
+    "wof:geomhash":"53cecbbfe2fc81dbcc679570114979ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +80,13 @@
         }
     ],
     "wof:id":1108942585,
-    "wof:lastmodified":1566610514,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208079,
     "wof:name":"Baneasa",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -90,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.06777111149338,
-    44.49825331964584,
-    26.06777111149338,
-    44.49825331964584
+    26.067771,
+    44.498253,
+    26.067771,
+    44.498253
 ],
-  "geometry": {"coordinates":[26.06777111149338,44.49825331964584],"type":"Point"}
+  "geometry": {"coordinates":[26.067771,44.498253],"type":"Point"}
 }

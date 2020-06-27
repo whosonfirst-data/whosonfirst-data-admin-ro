@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.57872,44.94002,26.57872,44.94002",
-    "geom:latitude":44.94002,
-    "geom:longitude":26.57872,
+    "geom:area":0.000012,
+    "geom:area_square_m":104920.849925,
+    "geom:bbox":"26.575095,44.939598,26.582539,44.942711",
+    "geom:latitude":44.941029,
+    "geom:longitude":26.579287,
     "gn:admin1_code":"11",
     "gn:admin2_code":"44863.0",
     "gn:asciiname":"Scorteanca",
@@ -24,13 +24,26 @@
     "gn:population":164,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.55872,44.92002,26.59872,44.96002",
+    "lbl:latitude":44.941026,
+    "lbl:longitude":26.580471,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.941026,
+    "mps:longitude":26.580471,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Scor\u0163eanca"
+    ],
+    "name:ron_x_variant":[
+        "Scorteanca"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667583
+        "gn:id":667583,
+        "ro-ancpi:id":44925
     },
     "wof:country":"RO",
-    "wof:geomhash":"e6569de3ee2a25a1d67ff232bd926f3c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bf963b7f2bf2cd0f2141d0acd1df6fa4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1242855703,
-    "wof:lastmodified":1566611507,
-    "wof:name":"Scorteanca",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203606,
+    "wof:name":"Scor\u0163eanca",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
     "wof:population":164,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.57872,
-    44.94002,
-    26.57872,
-    44.94002
+    26.575095,
+    44.939598,
+    26.582539,
+    44.942711
 ],
-  "geometry": {"coordinates":[26.57872,44.94002],"type":"Point"}
+  "geometry": {"coordinates":[[[26.580867,44.942711],[26.581427,44.942169],[26.581674,44.942248],[26.581843,44.942128],[26.58207,44.94197],[26.582379,44.941402],[26.582397,44.941329],[26.582496,44.941125],[26.582539,44.940987],[26.581914,44.940816],[26.581835,44.94058],[26.581877,44.940156],[26.581765,44.940081],[26.581225,44.939862],[26.581165,44.93994],[26.580402,44.939616],[26.580184,44.93982],[26.579418,44.940656],[26.576278,44.939598],[26.575856,44.94006],[26.575448,44.940396],[26.575095,44.940606],[26.578043,44.941681],[26.578459,44.941839],[26.578262,44.942117],[26.579485,44.942586],[26.579567,44.941969],[26.580111,44.942179],[26.58042,44.942038],[26.580617,44.942159],[26.580696,44.942261],[26.580329,44.942491],[26.580867,44.942711]]],"type":"Polygon"}
 }

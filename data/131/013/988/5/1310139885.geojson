@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.17314,45.15402,24.17314,45.15402",
-    "geom:latitude":45.15402,
-    "geom:longitude":24.17314,
+    "geom:area":0.000011,
+    "geom:area_square_m":94306.895224,
+    "geom:bbox":"24.171611,45.146591,24.1768,45.149563",
+    "geom:latitude":45.148003,
+    "geom:longitude":24.173897,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173230.0",
     "gn:asciiname":"Popesti",
@@ -24,13 +24,26 @@
     "gn:population":195,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.15314,45.13402,24.19314,45.17402",
+    "lbl:latitude":45.148082,
+    "lbl:longitude":24.173848,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.148082,
+    "mps:longitude":24.173848,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Pope\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Popesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669893
+        "gn:id":669893,
+        "ro-ancpi:id":173347
     },
     "wof:country":"RO",
-    "wof:geomhash":"f565f0cc73d7e276d7feaf5e37de5067",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"98603bf72c9c53917c90a1dccff8124a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1310139885,
-    "wof:lastmodified":1566610531,
-    "wof:name":"Popesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"Pope\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":195,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.17314,
-    45.15402,
-    24.17314,
-    45.15402
+    24.171611,
+    45.146591,
+    24.1768,
+    45.149563
 ],
-  "geometry": {"coordinates":[24.17314,45.15402],"type":"Point"}
+  "geometry": {"coordinates":[[[24.173356,45.149527],[24.174403,45.149303],[24.176309,45.148515],[24.1768,45.147768],[24.175286,45.146894],[24.172657,45.146618],[24.171611,45.146591],[24.17223,45.149563],[24.173356,45.149527]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.37452,44.20979,26.37452,44.20979",
-    "geom:latitude":44.20979,
-    "geom:longitude":26.37452,
+    "geom:area":0.000043,
+    "geom:area_square_m":377165.533546,
+    "geom:bbox":"26.368647,44.207885,26.379257,44.213295",
+    "geom:latitude":44.210357,
+    "geom:longitude":26.374979,
     "gn:admin1_code":"42",
     "gn:admin2_code":"179757.0",
     "gn:asciiname":"Milosesti",
@@ -24,13 +24,40 @@
     "gn:population":281,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.35452,44.18979,26.39452,44.22979",
+    "lbl:latitude":44.20979,
+    "lbl:longitude":26.37452,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ita_x_preferred":[
+        "Milo\u015fe\u015fti"
+    ],
+    "name:por_x_preferred":[
+        "Milo\u015fe\u015fti"
+    ],
+    "name:ron_x_preferred":[
+        "Milo\u015fe\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Milosesti",
+        "Milo\u0219e\u0219ti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u043e\u0448\u0435\u0448\u0442\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Milosesti"
+    ],
+    "name:vol_x_preferred":[
+        "Milo\u015fe\u015fti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673301
+        "gn:id":673301,
+        "ro-ancpi:id":103675
     },
     "wof:country":"RO",
-    "wof:geomhash":"9eef53087921809824f02bf5d208f709",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"782d4525c0800ad29072e36a11715a73",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +83,14 @@
         }
     ],
     "wof:id":1276259737,
-    "wof:lastmodified":1566610222,
-    "wof:name":"Milosesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203329,
+    "wof:name":"Milo\u015fe\u015fti",
     "wof:parent_id":85687591,
     "wof:placetype":"locality",
     "wof:population":281,
@@ -64,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.37452,
-    44.20979000000001,
-    26.37452,
-    44.20979000000001
+    26.368647,
+    44.207885,
+    26.379257,
+    44.213295
 ],
-  "geometry": {"coordinates":[26.37452,44.20979000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[26.373352,44.208004],[26.371861,44.207885],[26.370386,44.207999],[26.369966,44.208431],[26.369536,44.208878],[26.368662,44.209357],[26.368647,44.210267],[26.369548,44.210265],[26.370497,44.210324],[26.371558,44.210605],[26.372023,44.210773],[26.373183,44.212144],[26.373287,44.212982],[26.373535,44.213286],[26.379257,44.213295],[26.37922,44.208083],[26.373352,44.208004]]],"type":"Polygon"}
 }

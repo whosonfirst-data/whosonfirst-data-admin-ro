@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.41291,45.34963,21.41291,45.34963",
-    "geom:latitude":45.34963,
-    "geom:longitude":21.41291,
+    "geom:area":0.000062,
+    "geom:area_square_m":541515.449899,
+    "geom:bbox":"21.405473,45.344676,21.418885,45.352832",
+    "geom:latitude":45.348804,
+    "geom:longitude":21.411511,
     "gn:admin1_code":"36",
     "gn:admin2_code":"157086.0",
     "gn:asciiname":"Semlacu Mic",
@@ -25,12 +25,19 @@
     "gn:population":195,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.39291,45.32963,21.43291,45.36963",
+    "lbl:latitude":45.34963,
+    "lbl:longitude":21.41291,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "\u015eemlacu Mic"
+    ],
+    "name:ron_x_variant":[
+        "Semlacu Mic"
+    ],
     "name:und_x_variant":[
         "Klein-Schemlok",
         "V\u00e1rsomly\u00f3",
@@ -40,7 +47,11 @@
         "Semlok",
         "\u015eemlacu Mic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":667404
+        "gn:id":667404,
+        "ro-ancpi:id":157184
     },
     "wof:country":"RO",
-    "wof:geomhash":"e8d71019182e35bf402aea8df7c71bf0",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"98a54a3e31b4809d11f9bcdf7247599a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -62,8 +77,14 @@
         }
     ],
     "wof:id":1309750351,
-    "wof:lastmodified":1566611266,
-    "wof:name":"Semlacu Mic",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203743,
+    "wof:name":"\u015eemlacu Mic",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:population":195,
@@ -74,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.41291,
-    45.34963,
-    21.41291,
-    45.34963
+    21.405473,
+    45.344676,
+    21.418885,
+    45.352832
 ],
-  "geometry": {"coordinates":[21.41291,45.34963],"type":"Point"}
+  "geometry": {"coordinates":[[[[21.415048,45.351084],[21.41521,45.350914],[21.415362,45.350932],[21.415481,45.351173],[21.415561,45.351425],[21.415913,45.351768],[21.416674,45.351724],[21.416864,45.351142],[21.416921,45.350549],[21.415851,45.350298],[21.416131,45.35],[21.416877,45.34922],[21.417041,45.349051],[21.418241,45.349597],[21.418885,45.348861],[21.417729,45.348329],[21.417634,45.348203],[21.415913,45.347312],[21.412197,45.345671],[21.407507,45.344676],[21.406854,45.348388],[21.406872,45.348964],[21.406693,45.349619],[21.406215,45.350928],[21.407372,45.351226],[21.410139,45.351963],[21.413371,45.352832],[21.415048,45.351084]]],[[[21.406652,45.345254],[21.406234,45.345152],[21.405758,45.345477],[21.405635,45.345781],[21.405593,45.345976],[21.405503,45.346183],[21.405473,45.346405],[21.406524,45.346573],[21.40706,45.345376],[21.406652,45.345254]]]],"type":"MultiPolygon"}
 }

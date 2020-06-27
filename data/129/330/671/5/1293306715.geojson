@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.74518,46.34073,23.74518,46.34073",
-    "geom:latitude":46.34073,
-    "geom:longitude":23.74518,
+    "geom:area":0.000016,
+    "geom:area_square_m":135177.22524,
+    "geom:bbox":"23.739202,46.338575,23.745978,46.342837",
+    "geom:latitude":46.340725,
+    "geom:longitude":23.742557,
     "gn:admin1_code":"01",
     "gn:admin2_code":"1213.0",
     "gn:asciiname":"Pagida",
@@ -24,11 +24,14 @@
     "gn:population":165,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.72518,46.32073,23.76518,46.36073",
+    "lbl:latitude":46.340723,
+    "lbl:longitude":23.742788,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.340723,
+    "mps:longitude":23.742788,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pagida"
@@ -42,6 +45,12 @@
     "name:nld_x_preferred":[
         "Pagida"
     ],
+    "name:ron_x_preferred":[
+        "P\u0103gida"
+    ],
+    "name:ron_x_variant":[
+        "Pagida"
+    ],
     "name:swe_x_preferred":[
         "Pagida"
     ],
@@ -51,7 +60,11 @@
     "name:war_x_preferred":[
         "Pagida"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -60,10 +73,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671495
+        "gn:id":671495,
+        "ro-ancpi:id":1268
     },
     "wof:country":"RO",
-    "wof:geomhash":"bef7fda80b585a603eb7fc926aad5408",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5409ebab63f73b9ecf60fc5752c993ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,8 +90,14 @@
         }
     ],
     "wof:id":1293306715,
-    "wof:lastmodified":1566610036,
-    "wof:name":"Pagida",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203751,
+    "wof:name":"P\u0103gida",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":165,
@@ -85,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.74518,
-    46.34073,
-    23.74518,
-    46.34073
+    23.739202,
+    46.338575,
+    23.745978,
+    46.342837
 ],
-  "geometry": {"coordinates":[23.74518,46.34073],"type":"Point"}
+  "geometry": {"coordinates":[[[23.744173,46.342297],[23.744963,46.341903],[23.745247,46.341675],[23.745149,46.341622],[23.745474,46.341311],[23.744911,46.340984],[23.745275,46.340483],[23.744928,46.340245],[23.7451,46.340057],[23.745813,46.340018],[23.745978,46.339791],[23.745739,46.339647],[23.745353,46.339527],[23.744564,46.339458],[23.742172,46.339163],[23.741985,46.33899],[23.741525,46.338879],[23.741106,46.338575],[23.740364,46.339184],[23.7408,46.339392],[23.739703,46.340073],[23.739388,46.340335],[23.741417,46.341134],[23.741024,46.341616],[23.739644,46.341069],[23.739202,46.341546],[23.740986,46.34227],[23.741198,46.342149],[23.742095,46.342837],[23.743797,46.342045],[23.744173,46.342297]]],"type":"Polygon"}
 }

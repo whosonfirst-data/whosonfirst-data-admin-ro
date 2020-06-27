@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.02271,46.70711,24.02271,46.70711",
-    "geom:latitude":46.70711,
-    "geom:longitude":24.02271,
+    "geom:area":0.000001,
+    "geom:area_square_m":11411.061396,
+    "geom:bbox":"24.019367,46.706349,24.021671,46.70759",
+    "geom:latitude":46.706776,
+    "geom:longitude":24.020883,
     "gn:admin1_code":"13",
     "gn:admin2_code":"57742.0",
     "gn:asciiname":"Razoare",
@@ -24,13 +24,41 @@
     "gn:population":28,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.00271,46.68711,24.04271,46.72711",
+    "lbl:latitude":46.706817,
+    "lbl:longitude":24.021188,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.706817,
+    "mps:longitude":24.021188,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "R\u0103zoare"
+    ],
+    "name:deu_x_preferred":[
+        "R\u0103zoare"
+    ],
+    "name:epo_x_preferred":[
+        "R\u0103zoare"
+    ],
+    "name:hun_x_preferred":[
+        "R\u0103zoare"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103zoare"
+    ],
+    "name:ron_x_variant":[
+        "Razoare"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0437\u043e\u0430\u0440\u0435"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +67,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669077
+        "gn:id":669077,
+        "ro-ancpi:id":57813
     },
     "wof:country":"RO",
-    "wof:geomhash":"b20574aa794576e41f64c8d6602cdfe6",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"77c5a381dfad6865c8bc7af65950de5f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +84,14 @@
         }
     ],
     "wof:id":1276857551,
-    "wof:lastmodified":1566610227,
-    "wof:name":"Razoare",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203414,
+    "wof:name":"R\u0103zoare",
     "wof:parent_id":85687727,
     "wof:placetype":"locality",
     "wof:population":28,
@@ -64,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.02271,
-    46.70711,
-    24.02271,
-    46.70711
+    24.019367,
+    46.706349,
+    24.021671,
+    46.70759
 ],
-  "geometry": {"coordinates":[24.02271,46.70711],"type":"Point"}
+  "geometry": {"coordinates":[[[24.021671,46.706566],[24.021575,46.706352],[24.020805,46.706414],[24.020437,46.706349],[24.020142,46.706372],[24.019367,46.706409],[24.020537,46.706965],[24.021579,46.70759],[24.021671,46.706566]]],"type":"Polygon"}
 }

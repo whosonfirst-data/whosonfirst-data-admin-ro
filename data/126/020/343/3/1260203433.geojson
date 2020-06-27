@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.52172,45.31095,27.52172,45.31095",
-    "geom:latitude":45.31095,
-    "geom:longitude":27.52172,
+    "geom:area":0.000067,
+    "geom:area_square_m":585490.610335,
+    "geom:bbox":"27.511817,45.305797,27.527176,45.318246",
+    "geom:latitude":45.311736,
+    "geom:longitude":27.519774,
     "gn:admin1_code":"08",
     "gn:admin2_code":"43732.0",
     "gn:asciiname":"Mihail Kogalniceanu",
@@ -25,18 +25,106 @@
     "gn:population":268,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.50172,45.29095,27.54172,45.33095",
+    "lbl:latitude":45.311678,
+    "lbl:longitude":27.518988,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":45.311678,
+    "mps:longitude":27.518988,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0647\u0627\u064a\u0644 \u0643\u0648\u062c\u0627\u0644\u0646\u064a\u0634\u064a\u0646\u0648"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0438\u043b \u041a\u043e\u0433\u044a\u043b\u043d\u0438\u0447\u0430\u043d\u0443"
+    ],
+    "name:ces_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:deu_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:est_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:eus_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:fin_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:fra_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05db\u05d0\u05d9\u05dc \u05e7\u05d5\u05d2\u05dc\u05e0\u05d9\u05e6'\u05d0\u05e0\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u0570\u0561\u0575\u056b\u056c \u053f\u0578\u0563\u0568\u056c\u0576\u056b\u0579\u0565\u0561\u0576\u0578\u0582"
+    ],
+    "name:ido_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ind_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ita_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc8\u0cb9\u0cc7\u0cb2\u0ccd \u0c95\u0c97\u0cb2\u0ccd\u0ca8\u0cbf\u0cb8\u0cbf\u0c85\u0ca8\u0cc1"
+    ],
+    "name:lat_x_preferred":[
+        "Michael Kog\u0103lniceanu"
+    ],
+    "name:lav_x_preferred":[
+        "Mihails Kogelni\u010djanu"
+    ],
+    "name:nld_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:pol_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:por_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ron_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ron_x_variant":[
+        "Mihail Kogalniceanu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0433\u044d\u043b\u043d\u0438\u0447\u0430\u043d\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:swe_x_preferred":[
+        "Mihail Kog\u0103lniceanu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0457\u043b \u041a\u043e\u0491\u0435\u043b\u044c\u043d\u0438\u0447\u0430\u043d\u0443"
+    ],
     "name:und_x_variant":[
         "Domni\u0163a",
         "Cog\u0103lniceanu",
         "Mihail Kog\u0103lniceanu"
     ],
-    "src:geom":"geonames",
+    "name:zho_x_preferred":[
+        "\u7c73\u54c8\u4f0a\u5c14\u00b7\u79d1\u683c\u5c14\u5c3c\u6070\u52aa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +133,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673378
+        "gn:id":673378,
+        "ro-ancpi:id":43778
     },
     "wof:country":"RO",
-    "wof:geomhash":"679824a1ab82a844b7156a6b9ce45947",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"e42f55c303d2dc6b3cadf462e1c7b370",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +150,14 @@
         }
     ],
     "wof:id":1260203433,
-    "wof:lastmodified":1566610487,
-    "wof:name":"Mihail Kogalniceanu",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203772,
+    "wof:name":"Mihail Kog\u0103lniceanu",
     "wof:parent_id":85687663,
     "wof:placetype":"locality",
     "wof:population":268,
@@ -70,10 +168,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.52172,
-    45.31095,
-    27.52172,
-    45.31095
+    27.511817,
+    45.305797,
+    27.527176,
+    45.318246
 ],
-  "geometry": {"coordinates":[27.52172,45.31095],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.520322,45.314962],[27.520595,45.314501],[27.522512,45.314883],[27.525036,45.315413],[27.526153,45.315666],[27.526813,45.314478],[27.527015,45.313976],[27.527176,45.313659],[27.524742,45.312942],[27.523776,45.31266],[27.52323,45.312413],[27.522885,45.312297],[27.522628,45.312324],[27.522484,45.312336],[27.522269,45.312338],[27.522005,45.312312],[27.521601,45.312095],[27.521462,45.311883],[27.521446,45.311704],[27.521539,45.311501],[27.521525,45.311443],[27.521348,45.311252],[27.521155,45.310942],[27.521082,45.310806],[27.521111,45.310398],[27.521201,45.31004],[27.521452,45.309715],[27.521757,45.309449],[27.522333,45.309229],[27.522531,45.309021],[27.52268,45.308919],[27.523582,45.308563],[27.523777,45.30855],[27.523749,45.307234],[27.523564,45.306685],[27.523314,45.306417],[27.523131,45.305832],[27.522482,45.305915],[27.522366,45.305824],[27.522171,45.305797],[27.521237,45.305893],[27.520361,45.305996],[27.519995,45.306198],[27.519753,45.306371],[27.519521,45.306777],[27.519408,45.307335],[27.519564,45.308024],[27.519375,45.308441],[27.519191,45.308798],[27.518264,45.308757],[27.518061,45.30966],[27.517622,45.30963],[27.517411,45.309657],[27.516995,45.30986],[27.516477,45.310017],[27.515957,45.310127],[27.515582,45.310109],[27.514637,45.30994],[27.51407,45.30986],[27.51362,45.309703],[27.513395,45.309853],[27.513212,45.310236],[27.512971,45.310859],[27.512359,45.3113],[27.512062,45.311628],[27.511817,45.312179],[27.513239,45.312517],[27.514533,45.312811],[27.514877,45.312807],[27.514633,45.313373],[27.516453,45.313544],[27.517953,45.313683],[27.519591,45.313977],[27.519247,45.31457],[27.517472,45.317803],[27.518948,45.318246],[27.519677,45.316896],[27.520689,45.315068],[27.520322,45.314962]]],[[[27.525105,45.317339],[27.524439,45.317172],[27.524161,45.317712],[27.524806,45.317887],[27.525105,45.317339]]]],"type":"MultiPolygon"}
 }

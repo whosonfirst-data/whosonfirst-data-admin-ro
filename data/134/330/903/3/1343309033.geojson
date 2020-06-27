@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.30549,44.75692,24.30549,44.75692",
-    "geom:latitude":44.75692,
-    "geom:longitude":24.30549,
+    "geom:area":0.000058,
+    "geom:area_square_m":505810.953863,
+    "geom:bbox":"24.294002,44.749483,24.30729,44.757934",
+    "geom:latitude":44.753449,
+    "geom:longitude":24.301667,
     "gn:admin1_code":"29",
     "gn:admin2_code":"126772.0",
     "gn:asciiname":"Campu Mare",
@@ -25,18 +25,43 @@
     "gn:population":494,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.28549,44.73692,24.32549,44.77692",
+    "lbl:latitude":44.753834,
+    "lbl:longitude":24.301767,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.753834,
+    "mps:longitude":24.301767,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "C\u00e2mpu Mare"
+    ],
+    "name:deu_x_preferred":[
+        "C\u00e2mpu Mare"
+    ],
+    "name:nds_x_preferred":[
+        "C\u00e2mpu Mare"
+    ],
+    "name:ron_x_preferred":[
+        "C\u00e2mpu Mare"
+    ],
+    "name:ron_x_variant":[
+        "Campu Mare"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u0443 \u041c\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "C\u00e2mpul Mare",
         "C\u00e2mpu-Mare",
         "C\u00eempu Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +70,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681844
+        "gn:id":681844,
+        "ro-ancpi:id":126807
     },
     "wof:country":"RO",
-    "wof:geomhash":"22c1f79ce02077a84beaaa394c1b329b",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"300d30f2aafdf56b8f0e5b48efc5263b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +87,14 @@
         }
     ],
     "wof:id":1343309033,
-    "wof:lastmodified":1566609887,
-    "wof:name":"Campu Mare",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
+    "wof:name":"C\u00e2mpu Mare",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":494,
@@ -70,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.30549,
-    44.75692,
-    24.30549,
-    44.75692
+    24.294002,
+    44.749483,
+    24.30729,
+    44.757934
 ],
-  "geometry": {"coordinates":[24.30549,44.75692],"type":"Point"}
+  "geometry": {"coordinates":[[[24.30729,44.749483],[24.304502,44.749575],[24.304456,44.749686],[24.298352,44.75121],[24.297044,44.753317],[24.296565,44.75335],[24.295906,44.753022],[24.295057,44.753094],[24.294479,44.75315],[24.294011,44.753548],[24.294002,44.753718],[24.295311,44.755017],[24.295992,44.754807],[24.298116,44.754663],[24.298683,44.755024],[24.298482,44.755987],[24.298746,44.756168],[24.301303,44.757154],[24.301925,44.757364],[24.302912,44.757636],[24.304149,44.757934],[24.303849,44.756416],[24.304087,44.75627],[24.304264,44.755917],[24.304412,44.755693],[24.304546,44.755626],[24.305381,44.755617],[24.305896,44.755578],[24.306074,44.755447],[24.306226,44.755259],[24.306358,44.755095],[24.306564,44.754913],[24.307197,44.754298],[24.306453,44.754065],[24.305984,44.754298],[24.304892,44.754795],[24.306056,44.751862],[24.30729,44.749483]]],"type":"Polygon"}
 }

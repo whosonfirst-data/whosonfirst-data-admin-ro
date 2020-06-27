@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"21.5558,44.95392,21.5558,44.95392",
-    "geom:latitude":44.95392,
-    "geom:longitude":21.5558,
+    "geom:area":0.000057,
+    "geom:area_square_m":499833.664981,
+    "geom:bbox":"21.547552,44.94994,21.561222,44.957681",
+    "geom:latitude":44.953853,
+    "geom:longitude":21.554288,
     "gn:admin1_code":"12",
     "gn:admin2_code":"51984.0",
     "gn:asciiname":"Nicolint",
@@ -25,38 +25,63 @@
     "gn:population":329,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"21.5358,44.93392,21.5758,44.97392",
+    "lbl:latitude":44.95392,
+    "lbl:longitude":21.5558,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Nicolin\u0163"
+    ],
+    "name:ron_x_variant":[
+        "Nicolint"
+    ],
     "name:und_x_variant":[
         "Nicolin\u0163i",
         "Nikolinci",
         "Nicolin\u0163"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687627
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672249
+        "gn:id":672249,
+        "ro-ancpi:id":52017
     },
     "wof:country":"RO",
-    "wof:geomhash":"151f8dfdaf136c862ec1077ab82dee6f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1b1128a00f98d81afeb9ff969e4e1e9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209201697
+            "locality_id":1209201697,
+            "region_id":85687627
         }
     ],
     "wof:id":1209201697,
-    "wof:lastmodified":1566610375,
-    "wof:name":"Nicolint",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203619,
+    "wof:name":"Nicolin\u0163",
+    "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":329,
     "wof:population_rank":2,
@@ -66,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    21.5558,
-    44.95392,
-    21.5558,
-    44.95392
+    21.547552,
+    44.94994,
+    21.561222,
+    44.957681
 ],
-  "geometry": {"coordinates":[21.5558,44.95392],"type":"Point"}
+  "geometry": {"coordinates":[[[21.556117,44.957681],[21.556895,44.956707],[21.557285,44.956311],[21.55752,44.956088],[21.557676,44.955715],[21.557844,44.955312],[21.558608,44.954759],[21.559334,44.954317],[21.559863,44.953967],[21.559536,44.953678],[21.559654,44.953662],[21.559867,44.953589],[21.560454,44.953357],[21.56079,44.953265],[21.561222,44.953237],[21.560698,44.952413],[21.559961,44.951926],[21.557205,44.950617],[21.555707,44.952143],[21.555467,44.952096],[21.554685,44.952198],[21.555502,44.951066],[21.552627,44.94994],[21.551357,44.951578],[21.550316,44.952057],[21.548134,44.953791],[21.547785,44.954403],[21.547552,44.95518],[21.548201,44.955443],[21.549249,44.956411],[21.550415,44.955998],[21.550229,44.955411],[21.550006,44.954705],[21.549579,44.954079],[21.552007,44.955152],[21.552944,44.955408],[21.55301,44.955591],[21.551345,44.95602],[21.551524,44.956508],[21.55167,44.956907],[21.551496,44.956949],[21.551205,44.95704],[21.551496,44.957368],[21.551954,44.957303],[21.552365,44.957284],[21.552834,44.957401],[21.553474,44.957444],[21.554159,44.95728],[21.554741,44.956987],[21.554939,44.957229],[21.556117,44.957681]]],"type":"Polygon"}
 }

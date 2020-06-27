@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.07507,45.60256,22.07507,45.60256",
-    "geom:latitude":45.60256,
-    "geom:longitude":22.07507,
+    "geom:area":0.000118,
+    "geom:area_square_m":1017817.195516,
+    "geom:bbox":"22.059245,45.595752,22.08342,45.605316",
+    "geom:latitude":45.600502,
+    "geom:longitude":22.071831,
     "gn:admin1_code":"36",
     "gn:admin2_code":"157031.0",
     "gn:asciiname":"Jena",
@@ -24,11 +24,12 @@
     "gn:population":542,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.05507,45.58256,22.09507,45.62256",
+    "lbl:latitude":45.60256,
+    "lbl:longitude":22.07507,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Jena"
@@ -36,11 +37,17 @@
     "name:ara_x_preferred":[
         "\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0646\u0627"
+    ],
     "name:ast_x_preferred":[
         "Jena"
     ],
     "name:azb_x_preferred":[
         "\u06cc\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Yena"
     ],
     "name:bak_x_preferred":[
         "\u0419\u0435\u043d\u0430"
@@ -132,6 +139,9 @@
     "name:hye_x_preferred":[
         "\u0535\u0576\u0561"
     ],
+    "name:ido_x_preferred":[
+        "Jena"
+    ],
     "name:ile_x_preferred":[
         "Jena"
     ],
@@ -170,6 +180,9 @@
     ],
     "name:lmo_x_preferred":[
         "Jena"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2f\u0d46\u0d28"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0435\u043d\u0430"
@@ -240,6 +253,9 @@
     "name:tat_x_preferred":[
         "\u0415\u043d\u0430"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e22\u0e19\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Jena"
     ],
@@ -261,7 +277,11 @@
     "name:war_x_preferred":[
         "Jena"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -270,10 +290,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":675277
+        "gn:id":675277,
+        "ro-ancpi:id":157059
     },
     "wof:country":"RO",
-    "wof:geomhash":"4e8b74ec5ae2810cada683fd42d400cb",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f16ee854c8db72714b53f32888711862",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -283,7 +307,13 @@
         }
     ],
     "wof:id":1260120293,
-    "wof:lastmodified":1566610469,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
     "wof:name":"Jena",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -295,10 +325,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.07507,
-    45.60256,
-    22.07507,
-    45.60256
+    22.059245,
+    45.595752,
+    22.08342,
+    45.605316
 ],
-  "geometry": {"coordinates":[22.07507,45.60256],"type":"Point"}
+  "geometry": {"coordinates":[[[22.065485,45.604146],[22.066156,45.604023],[22.066757,45.604038],[22.067493,45.60411],[22.068254,45.60442],[22.072841,45.603729],[22.073437,45.603583],[22.073892,45.603424],[22.074466,45.603324],[22.075046,45.60284],[22.075462,45.602641],[22.076064,45.60241],[22.07649,45.602412],[22.077163,45.602245],[22.077911,45.602088],[22.079947,45.601414],[22.082278,45.600659],[22.082909,45.601761],[22.08342,45.601642],[22.082096,45.599496],[22.08309,45.599186],[22.081005,45.59762],[22.080517,45.597905],[22.08005,45.59707],[22.078944,45.597433],[22.07898,45.597565],[22.078613,45.597621],[22.078775,45.597386],[22.07877,45.597146],[22.078813,45.596979],[22.078785,45.596841],[22.078785,45.596693],[22.078329,45.595834],[22.07704,45.5962],[22.076739,45.595752],[22.07551,45.595968],[22.075775,45.596143],[22.07551,45.596221],[22.07517,45.595923],[22.074743,45.5959],[22.071082,45.596804],[22.069561,45.597402],[22.069835,45.59814],[22.064011,45.599595],[22.064615,45.600631],[22.060511,45.601658],[22.060302,45.601821],[22.060034,45.601896],[22.059687,45.601881],[22.059501,45.601877],[22.059245,45.602038],[22.060198,45.602769],[22.062886,45.604941],[22.063279,45.605316],[22.064184,45.604807],[22.064895,45.604395],[22.065485,45.604146]]],"type":"Polygon"}
 }

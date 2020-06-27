@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.64906,45.87848,22.64906,45.87848",
-    "geom:latitude":45.87848,
-    "geom:longitude":22.64906,
+    "geom:area":0.000012,
+    "geom:area_square_m":103799.62071,
+    "geom:bbox":"22.643352,45.874469,22.650665,45.879722",
+    "geom:latitude":45.877812,
+    "geom:longitude":22.647955,
     "gn:admin1_code":"21",
     "gn:admin2_code":"89428.0",
     "gn:asciiname":"Stancesti",
@@ -24,16 +24,27 @@
     "gn:population":82,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.62906,45.85848,22.66906,45.89848",
+    "lbl:latitude":45.87848,
+    "lbl:longitude":22.64906,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "Sztancsesd"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "St\u00e2nce\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stancesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666124
+        "gn:id":666124,
+        "ro-ancpi:id":89534
     },
     "wof:country":"RO",
-    "wof:geomhash":"67ce381f63ce6ff857e0332e4eb9e01c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"bbd9effa2c9a9fcb699332cc7bbccc6e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +70,14 @@
         }
     ],
     "wof:id":1293266227,
-    "wof:lastmodified":1566610141,
-    "wof:name":"Stancesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203796,
+    "wof:name":"St\u00e2nce\u015fti",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":82,
@@ -67,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.64906,
-    45.87848,
-    22.64906,
-    45.87848
+    22.643352,
+    45.874469,
+    22.650665,
+    45.879722
 ],
-  "geometry": {"coordinates":[22.64906,45.87848],"type":"Point"}
+  "geometry": {"coordinates":[[[22.649442,45.878866],[22.649691,45.878614],[22.650007,45.878658],[22.650664,45.878708],[22.650665,45.878402],[22.650383,45.878445],[22.650391,45.878127],[22.650468,45.877916],[22.650482,45.877865],[22.650482,45.877795],[22.650465,45.877715],[22.650424,45.877636],[22.650367,45.877594],[22.650282,45.877569],[22.650086,45.877549],[22.6501,45.877225],[22.650087,45.877036],[22.65006,45.876906],[22.650003,45.876798],[22.650008,45.876749],[22.650121,45.876719],[22.650106,45.876383],[22.650065,45.876035],[22.650229,45.876052],[22.650164,45.875609],[22.65007,45.874877],[22.649347,45.874883],[22.64943,45.874478],[22.648886,45.874469],[22.648701,45.875329],[22.648426,45.876496],[22.648596,45.876534],[22.648612,45.877103],[22.648523,45.877168],[22.648535,45.877281],[22.64858,45.877462],[22.647989,45.877924],[22.647792,45.878058],[22.647134,45.878399],[22.646466,45.878489],[22.644406,45.878766],[22.64336,45.878915],[22.643352,45.879475],[22.643361,45.879589],[22.645789,45.879722],[22.647818,45.879225],[22.649251,45.878868],[22.649442,45.878866]]],"type":"Polygon"}
 }

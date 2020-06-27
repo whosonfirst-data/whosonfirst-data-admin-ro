@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.7888,44.08879,27.7888,44.08879",
-    "geom:latitude":44.08879,
-    "geom:longitude":27.7888,
+    "geom:area":0.000029,
+    "geom:area_square_m":259069.731668,
+    "geom:bbox":"27.783598,44.085627,27.78967,44.094203",
+    "geom:latitude":44.088934,
+    "geom:longitude":27.78682,
     "gn:admin1_code":"14",
     "gn:admin2_code":"61951",
     "gn:asciiname":"Brebeni",
@@ -25,16 +25,20 @@
     "gn:population":45,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.7688,44.06879,27.8088,44.10879",
+    "lbl:latitude":44.08879,
+    "lbl:longitude":27.7888,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Comuna Brebeni"
     ],
     "name:epo_x_preferred":[
+        "Brebeni"
+    ],
+    "name:eus_x_preferred":[
         "Brebeni"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +54,9 @@
         "Brebeni"
     ],
     "name:ron_x_preferred":[
+        "Brebeni"
+    ],
+    "name:ron_x_variant":[
         "Comuna Brebeni"
     ],
     "name:srp_x_preferred":[
@@ -70,7 +77,11 @@
     "name:zho_x_preferred":[
         "\u5e03\u96f7\u8c9d\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -79,10 +90,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683740
+        "gn:id":683740,
+        "ro-ancpi:id":61979
     },
     "wof:country":"RO",
-    "wof:geomhash":"c2b3fe38a3455366997ae883cbc054c2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"393920df9a91e56ef256cf4534aa3ceb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +107,13 @@
         }
     ],
     "wof:id":1193261801,
-    "wof:lastmodified":1566610458,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203611,
     "wof:name":"Brebeni",
     "wof:parent_id":85687633,
     "wof:placetype":"locality",
@@ -104,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.7888,
-    44.08879,
-    27.7888,
-    44.08879
+    27.783598,
+    44.085627,
+    27.78967,
+    44.094203
 ],
-  "geometry": {"coordinates":[27.7888,44.08879],"type":"Point"}
+  "geometry": {"coordinates":[[[27.788527,44.091795],[27.788384,44.091483],[27.789287,44.091242],[27.78967,44.091132],[27.788983,44.088194],[27.788515,44.088202],[27.788594,44.085627],[27.786612,44.085634],[27.786056,44.085777],[27.783759,44.085741],[27.783764,44.086195],[27.783698,44.086674],[27.783639,44.087101],[27.783598,44.08775],[27.783641,44.088234],[27.783912,44.088702],[27.78451,44.089087],[27.784997,44.089321],[27.785305,44.089338],[27.785365,44.089639],[27.785259,44.089966],[27.785684,44.089969],[27.786762,44.089836],[27.786617,44.090013],[27.786617,44.090149],[27.786651,44.090337],[27.786644,44.090625],[27.785354,44.091041],[27.785492,44.091758],[27.787097,44.091676],[27.787275,44.092057],[27.787064,44.092492],[27.787276,44.093484],[27.787718,44.093917],[27.787972,44.093999],[27.788492,44.094203],[27.788833,44.094146],[27.788675,44.093797],[27.788582,44.093243],[27.788527,44.091795]]],"type":"Polygon"}
 }

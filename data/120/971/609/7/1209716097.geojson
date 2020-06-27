@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.31066,46.32529,27.31066,46.32529",
-    "geom:latitude":46.32529,
-    "geom:longitude":27.31066,
+    "geom:area":0.000003,
+    "geom:area_square_m":22501.413809,
+    "geom:bbox":"27.305549,46.324855,27.309785,46.328355",
+    "geom:latitude":46.32693,
+    "geom:longitude":27.307841,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22237.0",
     "gn:asciiname":"Dorofei",
@@ -24,16 +24,26 @@
     "gn:population":7,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.29066,46.30529,27.33066,46.34529",
+    "lbl:latitude":46.327844,
+    "lbl:longitude":27.306791,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.327844,
+    "mps:longitude":27.306791,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dorofei"
+    ],
     "name:zho_x_preferred":[
         "\u591a\u7f85\u83f2"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679066
+        "gn:id":679066,
+        "ro-ancpi:id":22335
     },
     "wof:country":"RO",
-    "wof:geomhash":"65f54f701ae418368aa93b36fa992a8e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"679cc7d1ccdbe5f7d8a21a4b78522fd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,7 +69,13 @@
         }
     ],
     "wof:id":1209716097,
-    "wof:lastmodified":1566610330,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203542,
     "wof:name":"Dorofei",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
@@ -67,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.31066,
-    46.32529,
-    27.31066,
-    46.32529
+    27.305549,
+    46.324855,
+    27.309785,
+    46.328355
 ],
-  "geometry": {"coordinates":[27.31066,46.32529],"type":"Point"}
+  "geometry": {"coordinates":[[[[27.30743,46.328355],[27.308339,46.327108],[27.307867,46.326906],[27.307189,46.32771],[27.306946,46.327598],[27.306695,46.327486],[27.305931,46.327239],[27.305549,46.327777],[27.30743,46.328355]]],[[[27.309785,46.324881],[27.309149,46.324855],[27.308882,46.326238],[27.309563,46.326322],[27.309785,46.324881]]]],"type":"MultiPolygon"}
 }

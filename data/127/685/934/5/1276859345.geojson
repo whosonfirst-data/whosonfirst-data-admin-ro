@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.7079,44.85658,26.7079,44.85658",
-    "geom:latitude":44.85658,
-    "geom:longitude":26.7079,
+    "geom:area":0.000018,
+    "geom:area_square_m":159692.713345,
+    "geom:bbox":"26.702896,44.854023,26.71078,44.858939",
+    "geom:latitude":44.856678,
+    "geom:longitude":26.706759,
     "gn:admin1_code":"11",
     "gn:admin2_code":"46910.0",
     "gn:asciiname":"Corbu",
@@ -24,16 +24,20 @@
     "gn:population":103,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.6879,44.83658,26.7279,44.87658",
+    "lbl:latitude":44.85658,
+    "lbl:longitude":26.7079,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Corbu"
     ],
     "name:deu_x_preferred":[
+        "Corbu"
+    ],
+    "name:eus_x_preferred":[
         "Corbu"
     ],
     "name:fra_x_preferred":[
@@ -63,7 +67,11 @@
     "name:vol_x_preferred":[
         "Corbu"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -72,10 +80,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680867
+        "gn:id":680867,
+        "ro-ancpi:id":46965
     },
     "wof:country":"RO",
-    "wof:geomhash":"0ed70f4d43c2421a18ac4e4d4a9762ef",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"67bd72f29f62e7b9c46344b29b763ace",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,7 +97,13 @@
         }
     ],
     "wof:id":1276859345,
-    "wof:lastmodified":1566610228,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203594,
     "wof:name":"Corbu",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
@@ -97,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.7079,
-    44.85658,
-    26.7079,
-    44.85658
+    26.702896,
+    44.854023,
+    26.71078,
+    44.858939
 ],
-  "geometry": {"coordinates":[26.7079,44.85658],"type":"Point"}
+  "geometry": {"coordinates":[[[26.705865,44.85876],[26.70646,44.858321],[26.706729,44.85849],[26.707516,44.85788],[26.707978,44.858086],[26.709031,44.857132],[26.709689,44.857585],[26.710364,44.857048],[26.71078,44.856616],[26.709471,44.855798],[26.709018,44.855556],[26.708799,44.855449],[26.707764,44.855074],[26.707519,44.854989],[26.708074,44.854472],[26.707246,44.854023],[26.706627,44.85456],[26.706584,44.854608],[26.706467,44.854579],[26.706173,44.854787],[26.705189,44.855609],[26.704096,44.856522],[26.703144,44.857295],[26.702896,44.857518],[26.703278,44.857711],[26.703871,44.85801],[26.704211,44.858183],[26.704938,44.85852],[26.705271,44.858708],[26.705595,44.858905],[26.70564,44.858939],[26.705865,44.85876]]],"type":"Polygon"}
 }

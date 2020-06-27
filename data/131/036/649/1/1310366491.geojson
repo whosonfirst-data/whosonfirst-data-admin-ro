@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.37793,44.36299,24.37793,44.36299",
-    "geom:latitude":44.36299,
-    "geom:longitude":24.37793,
+    "geom:area":0.000077,
+    "geom:area_square_m":676884.689406,
+    "geom:bbox":"24.371106,44.353259,24.382943,44.367438",
+    "geom:latitude":44.360443,
+    "geom:longitude":24.377118,
     "gn:admin1_code":"29",
     "gn:admin2_code":"127563.0",
     "gn:asciiname":"Ulmi",
@@ -25,16 +25,23 @@
     "gn:population":676,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.35793,44.34299,24.39793,44.38299",
+    "lbl:latitude":44.36299,
+    "lbl:longitude":24.37793,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ulmi"
     ],
+    "name:eus_x_preferred":[
+        "Ulmi"
+    ],
     "name:ita_x_preferred":[
+        "Ulmi"
+    ],
+    "name:ron_x_preferred":[
         "Ulmi"
     ],
     "name:srp_x_preferred":[
@@ -46,7 +53,11 @@
     "name:vol_x_preferred":[
         "Ulmi"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,10 +66,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":664296
+        "gn:id":664296,
+        "ro-ancpi:id":127572
     },
     "wof:country":"RO",
-    "wof:geomhash":"937c41cac3fe2624dfdd140690ce4297",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"4107e427ca5af89b8c4bba1aaf2ba05b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,7 +83,13 @@
         }
     ],
     "wof:id":1310366491,
-    "wof:lastmodified":1566610550,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203701,
     "wof:name":"Ulmi",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -80,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.37793,
-    44.36299,
-    24.37793,
-    44.36299
+    24.371106,
+    44.353259,
+    24.382943,
+    44.367438
 ],
-  "geometry": {"coordinates":[24.37793,44.36299],"type":"Point"}
+  "geometry": {"coordinates":[[[24.379853,44.363483],[24.381274,44.362261],[24.382519,44.362395],[24.382943,44.360924],[24.379659,44.360553],[24.380836,44.356368],[24.381549,44.354405],[24.37767,44.353259],[24.376366,44.355264],[24.373611,44.361245],[24.371833,44.361797],[24.371106,44.362415],[24.373068,44.36506],[24.374903,44.367438],[24.376964,44.367182],[24.375842,44.364865],[24.375908,44.364703],[24.37782,44.364447],[24.378827,44.364162],[24.379853,44.363483]]],"type":"Polygon"}
 }

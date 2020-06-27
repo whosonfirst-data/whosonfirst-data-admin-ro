@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.55073,46.13375,24.55073,46.13375",
-    "geom:latitude":46.13375,
-    "geom:longitude":24.55073,
+    "geom:area":0.000051,
+    "geom:area_square_m":436096.732973,
+    "geom:bbox":"24.544392,46.126296,24.55088,46.138458",
+    "geom:latitude":46.132116,
+    "geom:longitude":24.547697,
     "gn:admin1_code":"33",
     "gn:admin2_code":"144198.0",
     "gn:asciiname":"Copsa Mare",
@@ -25,17 +25,30 @@
     "gn:population":482,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.53073,46.11375,24.57073,46.15375",
+    "lbl:latitude":46.132357,
+    "lbl:longitude":24.54796,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":46.132357,
+    "mps:longitude":24.54796,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cop\u015fa Mare"
+    ],
+    "name:ron_x_variant":[
+        "Copsa Mare"
+    ],
     "name:und_x_variant":[
         "Gross Kopisch",
         "Cop\u015fa Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +57,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":680902
+        "gn:id":680902,
+        "ro-ancpi:id":144214
     },
     "wof:country":"RO",
-    "wof:geomhash":"2662887a011f508cd3c211a0bd0e368e",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"86297ae5b9e9b1353b122556cfcdfa8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +74,14 @@
         }
     ],
     "wof:id":1260336865,
-    "wof:lastmodified":1566610507,
-    "wof:name":"Copsa Mare",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203654,
+    "wof:name":"Cop\u015fa Mare",
     "wof:parent_id":85687687,
     "wof:placetype":"locality",
     "wof:population":482,
@@ -69,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.55073,
-    46.13375,
-    24.55073,
-    46.13375
+    24.544392,
+    46.126296,
+    24.55088,
+    46.138458
 ],
-  "geometry": {"coordinates":[24.55073,46.13375],"type":"Point"}
+  "geometry": {"coordinates":[[[24.547632,46.126302],[24.546018,46.126296],[24.544392,46.127799],[24.54463,46.12906],[24.545678,46.129862],[24.545766,46.13051],[24.544855,46.131822],[24.545793,46.134824],[24.545534,46.136031],[24.548246,46.138458],[24.549304,46.138182],[24.549276,46.13818],[24.548851,46.136992],[24.550227,46.135854],[24.550417,46.135359],[24.55088,46.131449],[24.550394,46.130175],[24.548733,46.128248],[24.547632,46.126302]]],"type":"Polygon"}
 }

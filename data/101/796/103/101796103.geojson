@@ -4,19 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000214,
-    "geom:area_square_m":1906432.396318,
-    "geom:bbox":"24.2083269819,43.8038211942,24.2337774517,43.8168443112",
-    "geom:latitude":43.810541,
-    "geom:longitude":24.222609,
+    "geom:area":0.000242,
+    "geom:area_square_m":2157339.647879,
+    "geom:bbox":"24.20912,43.803671,24.234313,43.817803",
+    "geom:latitude":43.811002,
+    "geom:longitude":24.221791,
     "gn:population":2093,
     "iso:country":"RO",
-    "lbl:latitude":43.810387,
-    "lbl:longitude":24.226669,
+    "lbl:latitude":43.810975,
+    "lbl:longitude":24.221791,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
-    "mps:latitude":43.810387,
-    "mps:longitude":24.226669,
+    "mps:latitude":43.810975,
+    "mps:longitude":24.221791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
@@ -42,10 +42,11 @@
         "\u0218tefan cel Mare"
     ],
     "name:ron_x_preferred":[
-        "\u015etefan cel Mare"
+        "\u015etefan Cel Mare"
     ],
     "name:ron_x_variant":[
-        "\u0218tefan cel Mare"
+        "\u0218tefan cel Mare",
+        "\u015etefan cel Mare"
     ],
     "name:rum_x_colloquial":[
         "Stefan cel Mare"
@@ -74,9 +75,10 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural point-in-poly",
-    "src:geom":"quattroshapes",
+    "src:geom":"ro-ancpi",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -91,13 +93,15 @@
         "gn:id":666253,
         "gp:id":880965,
         "qs_pg:id":126928,
+        "ro-ancpi:id":129291,
         "wd:id":"Q2301008"
     },
     "wof:country":"RO",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "wof:geomhash":"d9291a9efab9673b9e7db8497de12eb4",
+    "wof:geomhash":"2366ffbda0f5806da39fd0e1fea2dead",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,11 +111,14 @@
         }
     ],
     "wof:id":101796103,
-    "wof:lang":[
-        "rum"
+    "wof:lang_x_official":[
+        "ron"
     ],
-    "wof:lastmodified":1582311868,
-    "wof:name":"\u015etefan cel Mare",
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203702,
+    "wof:name":"\u015etefan Cel Mare",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":2093,
@@ -122,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.2083269819326,
-    43.80382119422927,
-    24.23377745166016,
-    43.81684431124677
+    24.20912,
+    43.803671,
+    24.234313,
+    43.817803
 ],
-  "geometry": {"coordinates":[[[24.23377745166016,43.81442561491269],[24.2311221237062,43.80382119422927],[24.22011544618567,43.80535584273457],[24.22033651377785,43.80623957906886],[24.21422137894876,43.80709166993586],[24.21444236643646,43.80797542008838],[24.2083269819326,43.80882716408479],[24.20876880563765,43.81059469068737],[24.20999193102369,43.81042436479356],[24.21065478734306,43.81307563563661],[24.2118779597713,43.81290528617421],[24.21254095033419,43.81555653595859],[24.22232652616668,43.81419314617278],[24.22299002529252,43.81684431124677],[24.231552440857,43.81565052118935],[24.23133114074864,43.81476682205789],[24.23377745166016,43.81442561491269]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[24.220934,43.816602],[24.232877,43.814255],[24.234313,43.813313],[24.234301,43.81201],[24.232919,43.809199],[24.233682,43.809014],[24.233427,43.80839],[24.23263,43.808555],[24.231862,43.806322],[24.230987,43.80395],[24.226163,43.80486],[24.225717,43.803671],[24.222675,43.804348],[24.22302,43.805256],[24.219578,43.805986],[24.215927,43.806906],[24.209248,43.808658],[24.210218,43.811309],[24.211111,43.813581],[24.20912,43.814119],[24.210131,43.817031],[24.213744,43.816408],[24.214213,43.817803],[24.219614,43.816923],[24.220934,43.816602]]],"type":"Polygon"}
 }

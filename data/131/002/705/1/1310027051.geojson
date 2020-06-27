@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.13987,47.95596,27.13987,47.95596",
-    "geom:latitude":47.95596,
-    "geom:longitude":27.13987,
+    "geom:area":0.000001,
+    "geom:area_square_m":5031.954804,
+    "geom:bbox":"27.143363,47.938048,27.144795,47.938538",
+    "geom:latitude":47.938291,
+    "geom:longitude":27.144081,
     "gn:admin1_code":"07",
     "gn:admin2_code":"38731.0",
     "gn:asciiname":"Ripicenii Vechi",
@@ -25,16 +25,22 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.11987,47.93596,27.15987,47.97596",
+    "lbl:latitude":47.938291,
+    "lbl:longitude":27.144081,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":47.938291,
+    "mps:longitude":27.144081,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna Ripiceni"
     ],
     "name:ces_x_preferred":[
+        "Ripiceni"
+    ],
+    "name:eus_x_preferred":[
         "Ripiceni"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +56,9 @@
         "Ripiceni"
     ],
     "name:ron_x_preferred":[
+        "Ripicenii Vechi"
+    ],
+    "name:ron_x_variant":[
         "Comuna Ripiceni"
     ],
     "name:srp_x_preferred":[
@@ -70,7 +79,11 @@
     "name:zho_x_preferred":[
         "\u91cc\u76ae\u5207\u5c3c\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -79,10 +92,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":668847,
+        "ro-ancpi:id":38795,
         "wk:page":"Ripiceni"
     },
     "wof:country":"RO",
-    "wof:geomhash":"cc869e43d8c0fdf7c6edb70f3b3371f2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5bb27d03e0784a766637a4670875fb54",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,7 +109,13 @@
         }
     ],
     "wof:id":1310027051,
-    "wof:lastmodified":1566610599,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203518,
     "wof:name":"Ripicenii Vechi",
     "wof:parent_id":85687777,
     "wof:placetype":"locality",
@@ -102,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.13987,
-    47.95596,
-    27.13987,
-    47.95596
+    27.143363,
+    47.938048,
+    27.144795,
+    47.938538
 ],
-  "geometry": {"coordinates":[27.13987,47.95596],"type":"Point"}
+  "geometry": {"coordinates":[[[27.144795,47.938099],[27.143406,47.938048],[27.143363,47.93848],[27.144753,47.938538],[27.144795,47.938099]]],"type":"Polygon"}
 }

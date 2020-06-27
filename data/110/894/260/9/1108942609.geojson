@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.1164371363,44.4028267689,26.1164371363,44.4028267689",
+    "geom:bbox":"26.116437,44.402827,26.116437,44.402827",
     "geom:latitude":44.402827,
     "geom:longitude":26.116437,
     "iso:country":"RO",
@@ -38,8 +38,8 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
-        101751949,
         85633745,
+        101751949,
         85687595
     ],
     "wof:breaches":[],
@@ -48,7 +48,7 @@
     },
     "wof:country":"RO",
     "wof:created":1491363213,
-    "wof:geomhash":"0980e8f19b979d7d534d3366a0365c0f",
+    "wof:geomhash":"6d3c354d01368c94f4b232fb84311a18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +59,13 @@
         }
     ],
     "wof:id":1108942609,
-    "wof:lastmodified":1566610513,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593208078,
     "wof:name":"Vacaresti",
     "wof:parent_id":101751949,
     "wof:placetype":"neighbourhood",
@@ -69,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.11643713634596,
-    44.40282676893449,
-    26.11643713634596,
-    44.40282676893449
+    26.116437,
+    44.402827,
+    26.116437,
+    44.402827
 ],
-  "geometry": {"coordinates":[26.11643713634596,44.40282676893449],"type":"Point"}
+  "geometry": {"coordinates":[26.116437,44.402827],"type":"Point"}
 }

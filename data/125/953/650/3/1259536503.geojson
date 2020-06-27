@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.18333,45.76667,22.18333,45.76667",
-    "geom:latitude":45.76667,
-    "geom:longitude":22.18333,
+    "geom:area":0.000032,
+    "geom:area_square_m":272610.684128,
+    "geom:bbox":"22.172411,45.761357,22.182243,45.766684",
+    "geom:latitude":45.764308,
+    "geom:longitude":22.177007,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156927.0",
     "gn:asciiname":"Matnicu Mic",
@@ -24,17 +24,30 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.16333,45.74667,22.20333,45.78667",
+    "lbl:latitude":45.764462,
+    "lbl:longitude":22.176912,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.764462,
+    "mps:longitude":22.176912,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "M\u00e2tnicu Mic"
+    ],
+    "name:ron_x_variant":[
+        "Matnicu Mic"
+    ],
     "name:und_x_variant":[
         "M\u00e2tnicul Mic",
         "M\u00eetnicu Mic"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -42,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673058
+        "gn:id":673058,
+        "ro-ancpi:id":156981
     },
     "wof:country":"RO",
-    "wof:geomhash":"b4ec780bcc00acfe69b1c6099a101e1d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"17bee90bda0d29ced17991e10b05ac5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +72,14 @@
         }
     ],
     "wof:id":1259536503,
-    "wof:lastmodified":1566611536,
-    "wof:name":"Matnicu Mic",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203745,
+    "wof:name":"M\u00e2tnicu Mic",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
@@ -65,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.18333,
-    45.76667,
-    22.18333,
-    45.76667
+    22.172411,
+    45.761357,
+    22.182243,
+    45.766684
 ],
-  "geometry": {"coordinates":[22.18333,45.76667],"type":"Point"}
+  "geometry": {"coordinates":[[[22.178347,45.76651],[22.179707,45.766244],[22.179894,45.766342],[22.179923,45.766305],[22.179987,45.766266],[22.180116,45.766291],[22.18036,45.766241],[22.180587,45.766175],[22.180686,45.766155],[22.180795,45.766124],[22.18092,45.766042],[22.181111,45.766056],[22.181234,45.766022],[22.181241,45.765963],[22.181183,45.765816],[22.181686,45.76504],[22.182243,45.764106],[22.181761,45.763965],[22.18133,45.763853],[22.181337,45.763719],[22.178777,45.762899],[22.175062,45.761725],[22.175043,45.76175],[22.173817,45.761357],[22.172882,45.762753],[22.173855,45.76312],[22.172411,45.764694],[22.172587,45.76515],[22.174193,45.765706],[22.17712,45.766684],[22.178347,45.76651]]],"type":"Polygon"}
 }

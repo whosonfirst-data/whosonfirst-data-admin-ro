@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.32966,45.40655,24.32966,45.40655",
-    "geom:latitude":45.40655,
-    "geom:longitude":24.32966,
+    "geom:area":0.000041,
+    "geom:area_square_m":351812.337263,
+    "geom:bbox":"24.318884,45.398902,24.334113,45.407784",
+    "geom:latitude":45.40405,
+    "geom:longitude":24.325644,
     "gn:admin1_code":"39",
     "gn:admin2_code":"172509",
     "gn:asciiname":"Bradu-Clocotici",
@@ -25,38 +25,60 @@
     "gn:population":264,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.30966,45.38655,24.34966,45.42655",
+    "lbl:latitude":45.40655,
+    "lbl:longitude":24.32966,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Bradu-Clocotici"
+    ],
     "name:und_x_variant":[
         "Bredu-Clocotici",
         "Bradul-Clocotici",
         "Bradu-Clocotici"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687643
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":683928
+        "gn:id":683928,
+        "ro-ancpi:id":172545
     },
     "wof:country":"RO",
-    "wof:geomhash":"15d29c6c8183e527d85d912de9f6cc91",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ae63849c11cfce0857ca3dab44eff668",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209035695
+            "locality_id":1209035695,
+            "region_id":85687643
         }
     ],
     "wof:id":1209035695,
-    "wof:lastmodified":1566610353,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203685,
     "wof:name":"Bradu-Clocotici",
-    "wof:parent_id":85633745,
+    "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":264,
     "wof:population_rank":2,
@@ -66,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.32966,
-    45.40655,
-    24.32966,
-    45.40655
+    24.318884,
+    45.398902,
+    24.334113,
+    45.407784
 ],
-  "geometry": {"coordinates":[24.32966,45.40655],"type":"Point"}
+  "geometry": {"coordinates":[[[24.325139,45.399726],[24.323837,45.398902],[24.318884,45.402468],[24.319554,45.402961],[24.320845,45.404111],[24.324325,45.404972],[24.326696,45.406233],[24.323177,45.406915],[24.323375,45.407784],[24.328389,45.406795],[24.331962,45.406651],[24.334113,45.4064],[24.333777,45.405197],[24.329988,45.404728],[24.322075,45.40286],[24.324805,45.401004],[24.325139,45.399726]]],"type":"Polygon"}
 }

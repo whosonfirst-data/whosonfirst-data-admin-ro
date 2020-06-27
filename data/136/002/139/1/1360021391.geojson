@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.138,44.64877,24.138,44.64877",
-    "geom:latitude":44.64877,
-    "geom:longitude":24.138,
+    "geom:area":0.000058,
+    "geom:area_square_m":512817.748245,
+    "geom:bbox":"24.13452,44.629293,24.156066,44.651448",
+    "geom:latitude":44.641716,
+    "geom:longitude":24.146117,
     "gn:admin1_code":"39",
     "gn:admin2_code":"170952.0",
     "gn:asciiname":"Carcadiesti",
@@ -25,18 +25,31 @@
     "gn:population":269,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.118,44.62877,24.158,44.66877",
+    "lbl:latitude":44.645988,
+    "lbl:longitude":24.141791,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.645988,
+    "mps:longitude":24.141791,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "C\u0103rc\u0103die\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Carcadiesti"
+    ],
     "name:und_x_variant":[
         "Carcade\u015fti",
         "Caracadie\u015fti",
         "Carcadie\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682692
+        "gn:id":682692,
+        "ro-ancpi:id":170970
     },
     "wof:country":"RO",
-    "wof:geomhash":"7ce8b5b97339aef29dcdf035efa2cec2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"792f01808b52c24f7945023a99d29895",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1360021391,
-    "wof:lastmodified":1566610649,
-    "wof:name":"Carcadiesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203688,
+    "wof:name":"C\u0103rc\u0103die\u015fti",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":269,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.138,
-    44.64877,
-    24.138,
-    44.64877
+    24.13452,
+    44.629293,
+    24.156066,
+    44.651448
 ],
-  "geometry": {"coordinates":[24.138,44.64877],"type":"Point"}
+  "geometry": {"coordinates":[[[24.156066,44.629293],[24.154469,44.629341],[24.153742,44.631141],[24.152317,44.634976],[24.150704,44.637079],[24.14669,44.640895],[24.142502,44.644106],[24.141063,44.645202],[24.138561,44.646121],[24.136595,44.647239],[24.135277,44.647914],[24.13452,44.648687],[24.135101,44.649139],[24.138151,44.651448],[24.139055,44.650931],[24.138291,44.650073],[24.137274,44.648866],[24.139346,44.647411],[24.1408,44.646917],[24.142315,44.647546],[24.14335,44.649029],[24.14387,44.649585],[24.144813,44.649619],[24.14569,44.648712],[24.146007,44.648157],[24.145421,44.647892],[24.144371,44.648314],[24.143892,44.647742],[24.143397,44.646479],[24.143178,44.645383],[24.144266,44.644454],[24.146948,44.642088],[24.148722,44.640624],[24.149194,44.640037],[24.150107,44.640495],[24.150592,44.63971],[24.152482,44.638356],[24.15399,44.635483],[24.154343,44.634139],[24.155357,44.633391],[24.155465,44.631952],[24.156066,44.629293]]],"type":"Polygon"}
 }

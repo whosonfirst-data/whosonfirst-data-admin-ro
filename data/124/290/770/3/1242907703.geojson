@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.01096,44.73553,24.01096,44.73553",
-    "geom:latitude":44.73553,
-    "geom:longitude":24.01096,
+    "geom:area":0.000077,
+    "geom:area_square_m":679312.02059,
+    "geom:bbox":"24.000042,44.730491,24.026149,44.740157",
+    "geom:latitude":44.73501,
+    "geom:longitude":24.011167,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171101.0",
     "gn:asciiname":"Ciocanari",
@@ -24,13 +24,33 @@
     "gn:population":268,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.99096,44.71553,24.03096,44.75553",
+    "lbl:latitude":44.73553,
+    "lbl:longitude":24.01096,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ceb_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:deu_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:ron_x_preferred":[
+        "Cioc\u0103nari"
+    ],
+    "name:ron_x_variant":[
+        "Ciocanari"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u043e\u043a\u0430\u043d\u0430\u0440\u0438"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":681752
+        "gn:id":681752,
+        "ro-ancpi:id":171147
     },
     "wof:country":"RO",
-    "wof:geomhash":"38cf553700b32629cb1e0576cb14cc16",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"ed688376a3b0bb79b0cc12d89552ab9d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +76,14 @@
         }
     ],
     "wof:id":1242907703,
-    "wof:lastmodified":1566611515,
-    "wof:name":"Ciocanari",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203694,
+    "wof:name":"Cioc\u0103nari",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":268,
@@ -64,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.01096,
-    44.73553,
-    24.01096,
-    44.73553
+    24.000042,
+    44.730491,
+    24.026149,
+    44.740157
 ],
-  "geometry": {"coordinates":[24.01096,44.73553],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.005938,44.738018],[24.007386,44.736614],[24.007643,44.735697],[24.008587,44.735514],[24.01032,44.736257],[24.014122,44.73539],[24.016113,44.733665],[24.0184,44.735026],[24.019764,44.733774],[24.017851,44.732532],[24.016597,44.730491],[24.014116,44.731082],[24.015641,44.73301],[24.014885,44.733214],[24.013695,44.732151],[24.012047,44.732692],[24.01143,44.734199],[24.010326,44.734323],[24.010215,44.73302],[24.008713,44.732854],[24.008398,44.733981],[24.007131,44.734257],[24.006792,44.73368],[24.005337,44.733935],[24.005545,44.734358],[24.003117,44.734949],[24.001893,44.731205],[24.000356,44.731517],[24.000688,44.732496],[24.000042,44.732567],[24.003134,44.740157],[24.005666,44.739758],[24.004859,44.738239],[24.005938,44.738018]]],[[[24.025973,44.735091],[24.021828,44.734041],[24.019836,44.73431],[24.019265,44.734708],[24.02123,44.737597],[24.023763,44.73714],[24.02448,44.736016],[24.026149,44.73582],[24.025973,44.735091]]]],"type":"MultiPolygon"}
 }

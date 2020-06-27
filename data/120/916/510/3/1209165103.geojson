@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.53585,44.83104,24.53585,44.83104",
-    "geom:latitude":44.83104,
-    "geom:longitude":24.53585,
+    "geom:area":0.000065,
+    "geom:area_square_m":566517.944892,
+    "geom:bbox":"24.526783,44.813248,24.546162,44.833572",
+    "geom:latitude":44.82539,
+    "geom:longitude":24.531333,
     "gn:admin1_code":"29",
     "gn:admin2_code":"129503.0",
     "gn:asciiname":"Cojgarei",
@@ -24,33 +24,60 @@
     "gn:population":171,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.51585,44.81104,24.55585,44.85104",
+    "lbl:latitude":44.831273,
+    "lbl:longitude":24.531956,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":44.831273,
+    "mps:longitude":24.531956,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Cojg\u0103rei"
+    ],
+    "name:ron_x_variant":[
+        "Cojgarei"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687607
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":676961
+        "gn:id":676961,
+        "ro-ancpi:id":129549
     },
     "wof:country":"RO",
-    "wof:geomhash":"f5e1b551317ebf21e87073a99a36ece2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"9f2ecb741b6d0af0162f7298415e5c2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209165103
+            "locality_id":1209165103,
+            "region_id":85687607
         }
     ],
     "wof:id":1209165103,
-    "wof:lastmodified":1566610372,
-    "wof:name":"Cojgarei",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203700,
+    "wof:name":"Cojg\u0103rei",
+    "wof:parent_id":85687607,
     "wof:placetype":"locality",
     "wof:population":171,
     "wof:population_rank":1,
@@ -60,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.53585,
-    44.83104,
-    24.53585,
-    44.83104
+    24.526783,
+    44.813248,
+    24.546162,
+    44.833572
 ],
-  "geometry": {"coordinates":[24.53585,44.83104],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.53566,44.832469],[24.535184,44.830688],[24.535894,44.829111],[24.532313,44.829568],[24.530623,44.825787],[24.529855,44.823711],[24.529662,44.819963],[24.529383,44.818243],[24.529524,44.816677],[24.528057,44.816606],[24.52926,44.815396],[24.529587,44.813543],[24.527625,44.813248],[24.526785,44.815897],[24.526783,44.817966],[24.528131,44.822293],[24.52733,44.822618],[24.527471,44.822971],[24.52816,44.825608],[24.529581,44.828924],[24.530157,44.831397],[24.528265,44.831291],[24.527885,44.832553],[24.528582,44.833572],[24.530217,44.833092],[24.532973,44.832865],[24.53566,44.832469]]],[[[24.546162,44.825713],[24.544598,44.824669],[24.543357,44.825516],[24.543681,44.827088],[24.545774,44.827416],[24.546162,44.825713]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.23465,44.77911,24.23465,44.77911",
-    "geom:latitude":44.77911,
-    "geom:longitude":24.23465,
+    "geom:area":0.000163,
+    "geom:area_square_m":1428732.90767,
+    "geom:bbox":"24.223086,44.768443,24.238431,44.792787",
+    "geom:latitude":44.78105,
+    "geom:longitude":24.231308,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171879.0",
     "gn:asciiname":"Procopoaia",
@@ -25,18 +25,26 @@
     "gn:population":672,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.21465,44.75911,24.25465,44.79911",
+    "lbl:latitude":44.77911,
+    "lbl:longitude":24.23465,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Procopoaia"
+    ],
     "name:und_x_variant":[
         "Mahalaua Procopoaelor",
         "Precopoia",
         "Procopoaia"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +53,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669583
+        "gn:id":669583,
+        "ro-ancpi:id":171904
     },
     "wof:country":"RO",
-    "wof:geomhash":"cbb079b10018e9795e0d4e9e20cb286c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3056720a84d1b44e741d700d110d0888",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,7 +70,13 @@
         }
     ],
     "wof:id":1293324163,
-    "wof:lastmodified":1566610096,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203682,
     "wof:name":"Procopoaia",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -70,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.23465,
-    44.77911,
-    24.23465,
-    44.77911
+    24.223086,
+    44.768443,
+    24.238431,
+    44.792787
 ],
-  "geometry": {"coordinates":[24.23465,44.77911],"type":"Point"}
+  "geometry": {"coordinates":[[[24.237957,44.768495],[24.233066,44.768443],[24.231962,44.770618],[24.231544,44.773736],[24.228871,44.778581],[24.226687,44.779064],[24.227046,44.780388],[24.228956,44.780286],[24.22913,44.781321],[24.225671,44.784629],[24.225819,44.785683],[24.223927,44.786378],[24.224641,44.787264],[24.224391,44.787875],[24.223086,44.7889],[24.223764,44.790474],[24.225098,44.791249],[24.22727,44.791685],[24.227746,44.792263],[24.231611,44.792787],[24.232599,44.79132],[24.232988,44.790365],[24.231919,44.78986],[24.2327,44.783719],[24.236338,44.779072],[24.236534,44.77848],[24.234388,44.77814],[24.236241,44.776238],[24.238201,44.776404],[24.238431,44.775315],[24.237628,44.775079],[24.237957,44.768495]]],"type":"Polygon"}
 }

@@ -2,8 +2,9 @@
   "id": 1125914263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2020-05-01",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2020-05-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"25.86667,46.1,25.86667,46.1",
@@ -19,7 +20,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
@@ -109,14 +110,16 @@
         }
     ],
     "wof:id":1125914263,
-    "wof:lastmodified":1566611358,
+    "wof:lastmodified":1588368340,
     "wof:name":"Bicsad",
     "wof:parent_id":85687699,
     "wof:placetype":"locality",
     "wof:population":1799,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101789879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

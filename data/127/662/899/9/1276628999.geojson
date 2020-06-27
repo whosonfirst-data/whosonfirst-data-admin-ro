@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.68573,45.82688,22.68573,45.82688",
-    "geom:latitude":45.82688,
-    "geom:longitude":22.68573,
+    "geom:area":0.000015,
+    "geom:area_square_m":132344.933707,
+    "geom:bbox":"22.680041,45.823769,22.688102,45.829231",
+    "geom:latitude":45.826349,
+    "geom:longitude":22.684236,
     "gn:admin1_code":"21",
     "gn:admin2_code":"91982.0",
     "gn:asciiname":"Muncelu Mare",
@@ -25,17 +25,25 @@
     "gn:population":94,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.66573,45.80688,22.70573,45.84688",
+    "lbl:latitude":45.82688,
+    "lbl:longitude":22.68573,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Muncelu Mare"
+    ],
     "name:und_x_variant":[
         "Muncelul-Mare",
         "Muncelu Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":672678
+        "gn:id":672678,
+        "ro-ancpi:id":92060
     },
     "wof:country":"RO",
-    "wof:geomhash":"29d3f0050d6a635f42ee8c8f6529bce2",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"5807087af3b023b0735b36363f74ab10",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1276628999,
-    "wof:lastmodified":1566610259,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203797,
     "wof:name":"Muncelu Mare",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.68573,
-    45.82688,
-    22.68573,
-    45.82688
+    22.680041,
+    45.823769,
+    22.688102,
+    45.829231
 ],
-  "geometry": {"coordinates":[22.68573,45.82688],"type":"Point"}
+  "geometry": {"coordinates":[[[22.686772,45.827626],[22.686404,45.826441],[22.68652,45.826315],[22.686443,45.826226],[22.686012,45.825945],[22.686195,45.825629],[22.686185,45.825596],[22.68499,45.825095],[22.6841,45.824507],[22.683983,45.824116],[22.684375,45.824003],[22.684259,45.823769],[22.683589,45.823837],[22.683603,45.824049],[22.683214,45.824177],[22.682625,45.824613],[22.682256,45.824809],[22.681688,45.825096],[22.681139,45.82542],[22.680709,45.825136],[22.680235,45.825456],[22.680633,45.825729],[22.680041,45.825979],[22.681087,45.826748],[22.681642,45.826421],[22.682101,45.826607],[22.682764,45.826736],[22.683073,45.826781],[22.683309,45.826791],[22.683502,45.82664],[22.684258,45.826896],[22.684129,45.827041],[22.685207,45.827654],[22.685524,45.828208],[22.685848,45.828538],[22.686161,45.828762],[22.686568,45.828998],[22.687013,45.829231],[22.688102,45.82894],[22.687952,45.828575],[22.686772,45.827626]]],"type":"Polygon"}
 }

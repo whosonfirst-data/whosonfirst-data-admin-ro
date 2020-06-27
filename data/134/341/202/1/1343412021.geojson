@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"23.9131,44.47262,23.9131,44.47262",
-    "geom:latitude":44.47262,
-    "geom:longitude":23.9131,
+    "geom:area":0.000033,
+    "geom:area_square_m":293941.721865,
+    "geom:bbox":"23.904031,44.467037,23.912981,44.475537",
+    "geom:latitude":44.471851,
+    "geom:longitude":23.909578,
     "gn:admin1_code":"29",
     "gn:admin2_code":"130124.0",
     "gn:asciiname":"Prisaca",
@@ -25,11 +25,14 @@
     "gn:population":205,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"23.8931,44.45262,23.9331,44.49262",
+    "lbl:latitude":44.47258,
+    "lbl:longitude":23.910765,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.47258,
+    "mps:longitude":23.910765,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Prisaca"
@@ -49,7 +52,11 @@
     "name:und_x_variant":[
         "Priseaca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -58,10 +65,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669611
+        "gn:id":669611,
+        "ro-ancpi:id":130197
     },
     "wof:country":"RO",
-    "wof:geomhash":"b9e27815f5ba79ab2bbae088356e86a5",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"490de62351450e7335e5699b0d534966",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,7 +82,13 @@
         }
     ],
     "wof:id":1343412021,
-    "wof:lastmodified":1566609915,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203698,
     "wof:name":"Prisaca",
     "wof:parent_id":85687607,
     "wof:placetype":"locality",
@@ -83,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.9131,
-    44.47262,
-    23.9131,
-    44.47262
+    23.904031,
+    44.467037,
+    23.912981,
+    44.475537
 ],
-  "geometry": {"coordinates":[23.9131,44.47262],"type":"Point"}
+  "geometry": {"coordinates":[[[23.904194,44.471719],[23.905784,44.473914],[23.907081,44.473368],[23.90795,44.473253],[23.908349,44.473709],[23.909226,44.474754],[23.91018,44.475537],[23.910406,44.475447],[23.911693,44.474815],[23.912914,44.474242],[23.912838,44.473942],[23.912833,44.473143],[23.912981,44.472319],[23.912973,44.471137],[23.912351,44.470464],[23.911585,44.46999],[23.910781,44.46909],[23.908343,44.467037],[23.907356,44.467588],[23.908698,44.468739],[23.907319,44.470044],[23.909321,44.470848],[23.908944,44.471501],[23.907677,44.47162],[23.905513,44.472271],[23.904794,44.471074],[23.904031,44.471488],[23.904194,44.471719]]],"type":"Polygon"}
 }

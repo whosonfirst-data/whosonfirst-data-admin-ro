@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.51667,45.86667,22.51667,45.86667",
-    "geom:latitude":45.86667,
-    "geom:longitude":22.51667,
+    "geom:area":0.000017,
+    "geom:area_square_m":145846.466421,
+    "geom:bbox":"22.516533,45.863867,22.523514,45.869023",
+    "geom:latitude":45.866018,
+    "geom:longitude":22.5207,
     "gn:admin1_code":"21",
     "gn:admin2_code":"89428.0",
     "gn:asciiname":"Panc-Saliste",
@@ -24,16 +24,29 @@
     "gn:population":62,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.49667,45.84667,22.53667,45.88667",
+    "lbl:latitude":45.865788,
+    "lbl:longitude":22.520753,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":45.865788,
+    "mps:longitude":22.520753,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:hun_x_preferred":[
         "P\u00e1nkszelistye"
     ],
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Panc-S\u0103li\u015fte"
+    ],
+    "name:ron_x_variant":[
+        "Panc-Saliste"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -42,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":671396
+        "gn:id":671396,
+        "ro-ancpi:id":89507
     },
     "wof:country":"RO",
-    "wof:geomhash":"6f298537c86a0fa6776167684456231d",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"84144dfc75b246d12e93800487ca765b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -55,8 +72,14 @@
         }
     ],
     "wof:id":1293256619,
-    "wof:lastmodified":1566610085,
-    "wof:name":"Panc-Saliste",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203795,
+    "wof:name":"Panc-S\u0103li\u015fte",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":62,
@@ -67,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.51667,
-    45.86667,
-    22.51667,
-    45.86667
+    22.516533,
+    45.863867,
+    22.523514,
+    45.869023
 ],
-  "geometry": {"coordinates":[22.51667,45.86667],"type":"Point"}
+  "geometry": {"coordinates":[[[22.523514,45.868042],[22.523302,45.866903],[22.523206,45.86641],[22.523224,45.866082],[22.523512,45.865345],[22.522851,45.865095],[22.521621,45.864681],[22.521419,45.864629],[22.519782,45.864277],[22.518274,45.863968],[22.516533,45.863867],[22.516553,45.864617],[22.517918,45.864865],[22.518084,45.86518],[22.518162,45.865323],[22.518359,45.865479],[22.518104,45.865844],[22.518738,45.866222],[22.519059,45.866411],[22.519019,45.866711],[22.519307,45.866783],[22.519336,45.867055],[22.519677,45.867053],[22.519678,45.866832],[22.520515,45.86703],[22.521001,45.867154],[22.521013,45.867733],[22.521004,45.867957],[22.521216,45.867977],[22.521261,45.86808],[22.521209,45.868807],[22.521181,45.869023],[22.522627,45.868588],[22.522626,45.868207],[22.523514,45.868042]]],"type":"Polygon"}
 }

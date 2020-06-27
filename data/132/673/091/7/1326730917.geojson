@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.31613,46.31794,27.31613,46.31794",
-    "geom:latitude":46.31794,
-    "geom:longitude":27.31613,
+    "geom:area":0.000004,
+    "geom:area_square_m":31639.963218,
+    "geom:bbox":"27.313352,46.316238,27.31826,46.319372",
+    "geom:latitude":46.317714,
+    "geom:longitude":27.315504,
     "gn:admin1_code":"04",
     "gn:admin2_code":"22237",
     "gn:asciiname":"Bostanesti",
@@ -24,13 +24,26 @@
     "gn:population":2,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.29613,46.29794,27.33613,46.33794",
+    "lbl:latitude":46.318112,
+    "lbl:longitude":27.314482,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.318112,
+    "mps:longitude":27.314482,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Bost\u0103ne\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Bostanesti"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":684097
+        "gn:id":684097,
+        "ro-ancpi:id":22308
     },
     "wof:country":"RO",
-    "wof:geomhash":"4747e7bb743929c798edc5c1de1c32a7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"00a3a698670e60fb727a572c7de3d970",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,8 +69,14 @@
         }
     ],
     "wof:id":1326730917,
-    "wof:lastmodified":1566609778,
-    "wof:name":"Bostanesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203537,
+    "wof:name":"Bost\u0103ne\u015fti",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":2,
@@ -64,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.31613,
-    46.31794,
-    27.31613,
-    46.31794
+    27.313352,
+    46.316238,
+    27.31826,
+    46.319372
 ],
-  "geometry": {"coordinates":[27.31613,46.31794],"type":"Point"}
+  "geometry": {"coordinates":[[[27.314931,46.318221],[27.315056,46.317865],[27.31715,46.316993],[27.317484,46.316974],[27.31826,46.316581],[27.317699,46.316238],[27.31721,46.316528],[27.31637,46.316755],[27.315753,46.316911],[27.314708,46.317394],[27.314287,46.317685],[27.314046,46.31793],[27.313402,46.317886],[27.313352,46.318363],[27.313881,46.318376],[27.31478,46.318821],[27.315314,46.319372],[27.315947,46.318944],[27.314931,46.318221]]],"type":"Polygon"}
 }

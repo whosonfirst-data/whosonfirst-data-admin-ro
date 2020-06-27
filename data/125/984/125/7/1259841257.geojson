@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.39977,46.89007,25.39977,46.89007",
-    "geom:latitude":46.89007,
-    "geom:longitude":25.39977,
+    "geom:area":0.000024,
+    "geom:area_square_m":205144.329367,
+    "geom:bbox":"25.393053,46.887736,25.411591,46.897342",
+    "geom:latitude":46.891931,
+    "geom:longitude":25.402747,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84460.0",
     "gn:asciiname":"Dealu Armanului",
@@ -25,17 +25,25 @@
     "gn:population":47,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.37977,46.87007,25.41977,46.91007",
+    "lbl:latitude":46.89007,
+    "lbl:longitude":25.39977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Dealu Armanului"
+    ],
     "name:und_x_variant":[
         "Arm\u00e0ndombja",
         "Dealu Armanului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +52,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":679679
+        "gn:id":679679,
+        "ro-ancpi:id":84488
     },
     "wof:country":"RO",
-    "wof:geomhash":"2aaec97c72c1886b13c8c3f1c5846181",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b793a737518fda0fe1c23e72695a34da",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +69,13 @@
         }
     ],
     "wof:id":1259841257,
-    "wof:lastmodified":1566611557,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203396,
     "wof:name":"Dealu Armanului",
     "wof:parent_id":85687733,
     "wof:placetype":"locality",
@@ -69,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.39977,
-    46.89007,
-    25.39977,
-    46.89007
+    25.393053,
+    46.887736,
+    25.411591,
+    46.897342
 ],
-  "geometry": {"coordinates":[25.39977,46.89007],"type":"Point"}
+  "geometry": {"coordinates":[[[25.409779,46.892709],[25.409659,46.892646],[25.409487,46.892603],[25.409331,46.892581],[25.409121,46.892473],[25.4082,46.892483],[25.406968,46.892219],[25.404847,46.89096],[25.404492,46.891238],[25.405283,46.891986],[25.406758,46.892471],[25.405612,46.893426],[25.403448,46.892093],[25.402972,46.891888],[25.401843,46.891939],[25.400917,46.891599],[25.399245,46.889095],[25.396937,46.888517],[25.393703,46.887736],[25.393053,46.88859],[25.393657,46.88877],[25.394108,46.888825],[25.396942,46.889582],[25.39959,46.891989],[25.400959,46.892724],[25.402616,46.892771],[25.405179,46.89378],[25.405332,46.894651],[25.406175,46.894973],[25.40649,46.894574],[25.40567,46.894066],[25.40726,46.8927],[25.407859,46.892826],[25.409644,46.893953],[25.409219,46.894294],[25.410768,46.895388],[25.409478,46.895824],[25.41035,46.897342],[25.411591,46.897021],[25.411538,46.896591],[25.411141,46.895638],[25.411092,46.895325],[25.411455,46.895222],[25.410856,46.894714],[25.409492,46.892963],[25.409779,46.892709]]],"type":"Polygon"}
 }

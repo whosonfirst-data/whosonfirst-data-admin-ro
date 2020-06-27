@@ -1,0 +1,70 @@
+{
+  "id": 1713103165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":88673.763972,
+    "geom:bbox":"22.426569,45.03114,22.431962,45.035225",
+    "geom:latitude":45.033201,
+    "geom:longitude":22.42927,
+    "iso:country":"RO",
+    "lbl:latitude":45.033225,
+    "lbl:longitude":22.42927,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
+    "mps:latitude":45.033225,
+    "mps:longitude":22.42927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Poiana Lung\u0103"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633745,
+        85687627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "ro-ancpi:id":52428
+    },
+    "wof:country":"RO",
+    "wof:created":1588207707,
+    "wof:geomhash":"be2e41c5c16569154b0db349f605ebcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633745,
+            "locality_id":1713103165,
+            "region_id":85687627
+        }
+    ],
+    "wof:id":1713103165,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203626,
+    "wof:name":"Poiana Lung\u0103",
+    "wof:parent_id":85687627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ro",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.426569,
+    45.03114,
+    22.431962,
+    45.035225
+],
+  "geometry": {"coordinates":[[[22.431962,45.031835],[22.430746,45.03114],[22.428296,45.032566],[22.427367,45.033291],[22.426569,45.03449],[22.427282,45.034925],[22.428122,45.035225],[22.430195,45.033828],[22.431726,45.032458],[22.431962,45.031835]]],"type":"Polygon"}
+}

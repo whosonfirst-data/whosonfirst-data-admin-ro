@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.47694,44.93761,24.47694,44.93761",
-    "geom:latitude":44.93761,
-    "geom:longitude":24.47694,
+    "geom:area":0.000048,
+    "geom:area_square_m":421777.981487,
+    "geom:bbox":"24.470734,44.931964,24.487694,44.947411",
+    "geom:latitude":44.938954,
+    "geom:longitude":24.478052,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169404.0",
     "gn:asciiname":"Valea Scheiului",
@@ -25,19 +25,27 @@
     "gn:population":108,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.45694,44.91761,24.49694,44.95761",
+    "lbl:latitude":44.93761,
+    "lbl:longitude":24.47694,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Valea Scheiului"
+    ],
     "name:und_x_variant":[
         "Scheiu",
         "Valea Scheiul",
         "Scheiul",
         "Valea Scheiului"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -46,10 +54,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663435
+        "gn:id":663435,
+        "ro-ancpi:id":169538
     },
     "wof:country":"RO",
-    "wof:geomhash":"36c25f767eb8c1328d4a61dca9b3cbf7",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"594b11af167ff3969a6b9f8d732c0300",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -59,7 +71,13 @@
         }
     ],
     "wof:id":1327368873,
-    "wof:lastmodified":1566609761,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203678,
     "wof:name":"Valea Scheiului",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -71,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.47694,
-    44.93761,
-    24.47694,
-    44.93761
+    24.470734,
+    44.931964,
+    24.487694,
+    44.947411
 ],
-  "geometry": {"coordinates":[24.47694,44.93761],"type":"Point"}
+  "geometry": {"coordinates":[[[24.473551,44.931964],[24.470734,44.932748],[24.470936,44.934162],[24.472295,44.936474],[24.473687,44.938267],[24.474622,44.938807],[24.474993,44.938559],[24.477137,44.939619],[24.480721,44.942411],[24.482823,44.943784],[24.484987,44.945676],[24.486733,44.947411],[24.487694,44.947069],[24.485703,44.944124],[24.479682,44.939042],[24.480295,44.938411],[24.476781,44.935632],[24.475396,44.936743],[24.474126,44.935774],[24.47397,44.934818],[24.474146,44.933653],[24.473551,44.931964]]],"type":"Polygon"}
 }

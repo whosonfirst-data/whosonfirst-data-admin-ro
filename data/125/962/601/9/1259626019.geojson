@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.55062,46.44621,27.55062,46.44621",
-    "geom:latitude":46.44621,
-    "geom:longitude":27.55062,
+    "geom:area":0.000036,
+    "geom:area_square_m":307722.324919,
+    "geom:bbox":"27.543197,46.437981,27.557592,46.447996",
+    "geom:latitude":46.44399,
+    "geom:longitude":27.549242,
     "gn:admin1_code":"38",
     "gn:admin2_code":"164339.0",
     "gn:asciiname":"Recea",
@@ -24,11 +24,12 @@
     "gn:population":415,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.53062,46.42621,27.57062,46.46621",
+    "lbl:latitude":46.44621,
+    "lbl:longitude":27.55062,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Recea"
@@ -37,6 +38,9 @@
         "Recea"
     ],
     "name:epo_x_preferred":[
+        "Recea"
+    ],
+    "name:eus_x_preferred":[
         "Recea"
     ],
     "name:fra_x_preferred":[
@@ -72,7 +76,11 @@
     "name:vol_x_preferred":[
         "Recea"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -81,10 +89,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669048
+        "gn:id":669048,
+        "ro-ancpi:id":164366
     },
     "wof:country":"RO",
-    "wof:geomhash":"a30e00500511b13fa491da0766fb3a8f",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a7be73c23eb90df46b9f978d4414116f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,7 +106,13 @@
         }
     ],
     "wof:id":1259626019,
-    "wof:lastmodified":1566611544,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203478,
     "wof:name":"Recea",
     "wof:parent_id":85687743,
     "wof:placetype":"locality",
@@ -106,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.55062,
-    46.44621,
-    27.55062,
-    46.44621
+    27.543197,
+    46.437981,
+    27.557592,
+    46.447996
 ],
-  "geometry": {"coordinates":[27.55062,46.44621],"type":"Point"}
+  "geometry": {"coordinates":[[[27.555645,46.44735],[27.555829,46.446734],[27.556694,46.446629],[27.557053,46.446351],[27.557592,46.445726],[27.55734,46.445025],[27.556661,46.44509],[27.556372,46.445686],[27.555001,46.446053],[27.554407,46.445847],[27.553572,46.446236],[27.551862,46.446123],[27.551265,46.445867],[27.550091,46.444976],[27.548898,46.444985],[27.548193,46.443436],[27.547989,46.442717],[27.548234,46.442224],[27.54807,46.441058],[27.548092,46.440485],[27.547644,46.44048],[27.547601,46.440134],[27.546955,46.439982],[27.546573,46.439391],[27.54717,46.43928],[27.54709,46.438614],[27.546119,46.438009],[27.54512,46.437981],[27.543197,46.439328],[27.5448,46.440017],[27.545082,46.44011],[27.545171,46.440879],[27.545686,46.442055],[27.546052,46.442962],[27.546106,46.443617],[27.546532,46.444903],[27.548318,46.446925],[27.548158,46.447186],[27.548926,46.447696],[27.549514,46.447389],[27.551935,46.447996],[27.553756,46.447882],[27.554635,46.44774],[27.555645,46.44735]]],"type":"Polygon"}
 }

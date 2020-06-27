@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.37751,44.91085,24.37751,44.91085",
-    "geom:latitude":44.91085,
-    "geom:longitude":24.37751,
+    "geom:area":0.000081,
+    "geom:area_square_m":709655.550118,
+    "geom:bbox":"24.362479,44.903855,24.398416,44.914591",
+    "geom:latitude":44.910578,
+    "geom:longitude":24.38191,
     "gn:admin1_code":"39",
     "gn:admin2_code":"173374",
     "gn:asciiname":"Balomireasa",
@@ -24,13 +24,23 @@
     "gn:population":213,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.35751,44.89085,24.39751,44.93085",
+    "lbl:latitude":44.912804,
+    "lbl:longitude":24.390676,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
+    "mps:latitude":44.912804,
+    "mps:longitude":24.390676,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
-    "src:geom":"geonames",
+    "name:ron_x_preferred":[
+        "Balomireasa"
+    ],
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -39,10 +49,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685604
+        "gn:id":685604,
+        "ro-ancpi:id":173392
     },
     "wof:country":"RO",
-    "wof:geomhash":"1413bdb8a175ab189977ed7f9ee04739",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a0d65a824d49e4909721416d34ef1ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -52,7 +66,13 @@
         }
     ],
     "wof:id":1310339255,
-    "wof:lastmodified":1566610597,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203688,
     "wof:name":"Balomireasa",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.37751,
-    44.91085,
-    24.37751,
-    44.91085
+    24.362479,
+    44.903855,
+    24.398416,
+    44.914591
 ],
-  "geometry": {"coordinates":[24.37751,44.91085],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.398325,44.912958],[24.398416,44.911886],[24.398366,44.910358],[24.394239,44.910516],[24.384577,44.91192],[24.382294,44.910268],[24.380342,44.908859],[24.378853,44.910342],[24.384983,44.913576],[24.390437,44.914568],[24.391198,44.914591],[24.392927,44.914059],[24.395129,44.913368],[24.398325,44.912958]]],[[[24.370783,44.907303],[24.369666,44.90642],[24.366416,44.905834],[24.366008,44.906786],[24.362479,44.906219],[24.362576,44.907474],[24.368682,44.909044],[24.376676,44.911876],[24.37741,44.910724],[24.376333,44.90983],[24.374449,44.909507],[24.373749,44.909137],[24.372274,44.908257],[24.370783,44.907303]]],[[[24.369266,44.904398],[24.3667,44.903855],[24.366433,44.904705],[24.368761,44.905298],[24.369266,44.904398]]]],"type":"MultiPolygon"}
 }

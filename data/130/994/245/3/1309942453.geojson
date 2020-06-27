@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.17336,44.72921,24.17336,44.72921",
-    "geom:latitude":44.72921,
-    "geom:longitude":24.17336,
+    "geom:area":0.000095,
+    "geom:area_square_m":835724.980563,
+    "geom:bbox":"24.157154,44.721246,24.177812,44.73515",
+    "geom:latitude":44.727924,
+    "geom:longitude":24.168685,
     "gn:admin1_code":"39",
     "gn:admin2_code":"169306.0",
     "gn:asciiname":"Izvoru",
@@ -25,16 +25,20 @@
     "gn:population":677,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.15336,44.70921,24.19336,44.74921",
+    "lbl:latitude":44.72921,
+    "lbl:longitude":24.17336,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u064a\u0632\u0641\u0648\u0631\u0648"
     ],
     "name:ceb_x_preferred":[
+        "Izvoru"
+    ],
+    "name:eus_x_preferred":[
         "Izvoru"
     ],
     "name:ita_x_preferred":[
@@ -77,7 +81,11 @@
     "name:zho_x_preferred":[
         "\u4f0a\u8332\u6c83\u9b6f\u9109"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -87,10 +95,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":675349,
+        "ro-ancpi:id":169324,
         "wk:page":"Izvoru"
     },
     "wof:country":"RO",
-    "wof:geomhash":"ce73e7d7836d571d4a4c85f7ac7c8c88",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"22928fe17ce3257ca1ec8a49f9850caa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +112,13 @@
         }
     ],
     "wof:id":1309942453,
-    "wof:lastmodified":1566611253,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203691,
     "wof:name":"Izvoru",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
@@ -112,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.17336,
-    44.72921,
-    24.17336,
-    44.72921
+    24.157154,
+    44.721246,
+    24.177812,
+    44.73515
 ],
-  "geometry": {"coordinates":[24.17336,44.72921],"type":"Point"}
+  "geometry": {"coordinates":[[[[24.169954,44.73515],[24.171919,44.733102],[24.173815,44.7335],[24.174948,44.732355],[24.173551,44.731241],[24.174559,44.729299],[24.175425,44.729542],[24.177248,44.726291],[24.176113,44.725991],[24.176594,44.724315],[24.177109,44.723377],[24.177812,44.721986],[24.175438,44.721246],[24.17512,44.721655],[24.170866,44.72765],[24.168692,44.731536],[24.167292,44.73443],[24.169954,44.73515]]],[[[24.163394,44.72669],[24.167516,44.723735],[24.165971,44.722269],[24.162614,44.725038],[24.161635,44.724487],[24.162757,44.722947],[24.161057,44.722155],[24.160286,44.723384],[24.160205,44.724917],[24.157154,44.731167],[24.157776,44.731388],[24.158902,44.731772],[24.160041,44.732088],[24.160806,44.729397],[24.163394,44.72669]]]],"type":"MultiPolygon"}
 }

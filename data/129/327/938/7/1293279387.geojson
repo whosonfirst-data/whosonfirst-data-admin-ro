@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.12193,45.50962,22.12193,45.50962",
-    "geom:latitude":45.50962,
-    "geom:longitude":22.12193,
+    "geom:area":0.000094,
+    "geom:area_square_m":814740.027885,
+    "geom:bbox":"22.115792,45.50389,22.124953,45.516175",
+    "geom:latitude":45.50965,
+    "geom:longitude":22.120489,
     "gn:admin1_code":"12",
     "gn:admin2_code":"51877.0",
     "gn:asciiname":"Matnicu Mare",
@@ -25,17 +25,28 @@
     "gn:population":464,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.10193,45.48962,22.14193,45.52962",
+    "lbl:latitude":45.50962,
+    "lbl:longitude":22.12193,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "M\u00e2tnicu Mare"
+    ],
+    "name:ron_x_variant":[
+        "Matnicu Mare"
+    ],
     "name:und_x_variant":[
         "Matnicul Mare",
         "M\u00eetnicu Mare"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":673059
+        "gn:id":673059,
+        "ro-ancpi:id":51902
     },
     "wof:country":"RO",
-    "wof:geomhash":"84499772e2c7e28321b90500d1ec64ca",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"c695f5faa6b05e0b5f1b961cf01ebd61",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1293279387,
-    "wof:lastmodified":1566610121,
-    "wof:name":"Matnicu Mare",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203618,
+    "wof:name":"M\u00e2tnicu Mare",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
     "wof:population":464,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.12193,
-    45.50962,
-    22.12193,
-    45.50962
+    22.115792,
+    45.50389,
+    22.124953,
+    45.516175
 ],
-  "geometry": {"coordinates":[22.12193,45.50962],"type":"Point"}
+  "geometry": {"coordinates":[[[22.124522,45.515004],[22.124678,45.514226],[22.124845,45.511481],[22.124953,45.509496],[22.124846,45.509476],[22.124906,45.508318],[22.124659,45.508269],[22.124789,45.507634],[22.124947,45.50672],[22.124949,45.504433],[22.122668,45.504385],[22.120732,45.504388],[22.120415,45.504023],[22.119277,45.504242],[22.118884,45.50405],[22.117537,45.50389],[22.117315,45.504257],[22.116341,45.504324],[22.115792,45.514669],[22.120232,45.514836],[22.122389,45.514699],[22.122936,45.515883],[22.123066,45.515932],[22.123123,45.51599],[22.123223,45.516175],[22.124258,45.51587],[22.123829,45.515075],[22.124522,45.515004]]],"type":"Polygon"}
 }

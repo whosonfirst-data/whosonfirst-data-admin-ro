@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"27.13722,46.71439,27.13722,46.71439",
-    "geom:latitude":46.71439,
-    "geom:longitude":27.13722,
+    "geom:area":0.000025,
+    "geom:area_square_m":212424.531412,
+    "geom:bbox":"27.128417,46.711151,27.139625,46.716671",
+    "geom:latitude":46.713788,
+    "geom:longitude":27.134323,
     "gn:admin1_code":"04",
     "gn:admin2_code":"24999.0",
     "gn:asciiname":"Valea Mica",
@@ -25,18 +25,44 @@
     "gn:population":56,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"27.11722,46.69439,27.15722,46.73439",
+    "lbl:latitude":46.71439,
+    "lbl:longitude":27.13722,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Valea Mic\u0103"
+    ],
+    "name:deu_x_preferred":[
+        "Valea Mic\u0103"
+    ],
+    "name:hun_x_preferred":[
+        "Valea Mic\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Valea Mic\u0103"
+    ],
+    "name:ron_x_variant":[
+        "Valea Mica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0459\u0430 \u041c\u0438\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041c\u0456\u043a\u0435"
+    ],
     "name:und_x_variant":[
         "Str\u00e2mba",
         "Str\u00eemba",
         "Valea Mic\u0103"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +71,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663583
+        "gn:id":663583,
+        "ro-ancpi:id":25059
     },
     "wof:country":"RO",
-    "wof:geomhash":"13d52fb6528b142897de08d902641ecc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"3bdef7cc0dc13f6a2b6dd61aa4d7cf87",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +88,14 @@
         }
     ],
     "wof:id":1360108963,
-    "wof:lastmodified":1566610637,
-    "wof:name":"Valea Mica",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203545,
+    "wof:name":"Valea Mic\u0103",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:population":56,
@@ -70,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.13722000000001,
-    46.71439,
-    27.13722000000001,
-    46.71439
+    27.128417,
+    46.711151,
+    27.139625,
+    46.716671
 ],
-  "geometry": {"coordinates":[27.13722000000001,46.71439],"type":"Point"}
+  "geometry": {"coordinates":[[[27.130484,46.715337],[27.130656,46.715219],[27.131432,46.715649],[27.132785,46.715144],[27.133596,46.715007],[27.134059,46.714999],[27.134691,46.715016],[27.135593,46.715034],[27.13699,46.715008],[27.137416,46.71475],[27.138772,46.714184],[27.139625,46.713404],[27.138948,46.712879],[27.138464,46.712784],[27.138081,46.712669],[27.137507,46.712351],[27.136695,46.71179],[27.136262,46.711692],[27.135551,46.71135],[27.134886,46.711151],[27.134731,46.711624],[27.134615,46.712096],[27.133985,46.712089],[27.133283,46.711978],[27.133002,46.712153],[27.132544,46.713002],[27.131648,46.713567],[27.130772,46.713629],[27.129886,46.714335],[27.12938,46.714782],[27.128727,46.715052],[27.128906,46.715514],[27.128744,46.715835],[27.128417,46.716542],[27.128578,46.716671],[27.128698,46.716597],[27.129291,46.716179],[27.129784,46.715831],[27.130105,46.715609],[27.130484,46.715337]]],"type":"Polygon"}
 }

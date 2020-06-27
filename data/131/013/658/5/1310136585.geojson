@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"24.38208,45.00158,24.38208,45.00158",
-    "geom:latitude":45.00158,
-    "geom:longitude":24.38208,
+    "geom:area":0.000029,
+    "geom:area_square_m":256963.373452,
+    "geom:bbox":"24.373197,45.000494,24.384841,45.004365",
+    "geom:latitude":45.002109,
+    "geom:longitude":24.379545,
     "gn:admin1_code":"39",
     "gn:admin2_code":"171628.0",
     "gn:asciiname":"Galtofani",
@@ -25,17 +25,28 @@
     "gn:population":131,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"24.36208,44.98158,24.40208,45.02158",
+    "lbl:latitude":45.00158,
+    "lbl:longitude":24.38208,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "G\u00e2ltofani"
+    ],
+    "name:ron_x_variant":[
+        "Galtofani"
+    ],
     "name:und_x_variant":[
         "G\u00e2ltofanii",
         "G\u00eeltofani"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -44,10 +55,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":677261
+        "gn:id":677261,
+        "ro-ancpi:id":171682
     },
     "wof:country":"RO",
-    "wof:geomhash":"76059d2a77b598637b012d7e3cb845c3",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"1201df434c74a18b8277a821b9fda260",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,8 +72,14 @@
         }
     ],
     "wof:id":1310136585,
-    "wof:lastmodified":1566610530,
-    "wof:name":"Galtofani",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203687,
+    "wof:name":"G\u00e2ltofani",
     "wof:parent_id":85687643,
     "wof:placetype":"locality",
     "wof:population":131,
@@ -69,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.38208,
-    45.00158,
-    24.38208,
-    45.00158
+    24.373197,
+    45.000494,
+    24.384841,
+    45.004365
 ],
-  "geometry": {"coordinates":[24.38208,45.00158],"type":"Point"}
+  "geometry": {"coordinates":[[[24.383868,45.00307],[24.384393,45.002807],[24.384829,45.002069],[24.384841,45.000997],[24.383076,45.000911],[24.379782,45.000523],[24.378589,45.000697],[24.376276,45.000494],[24.37373,45.000831],[24.373197,45.00116],[24.374094,45.001782],[24.375986,45.003046],[24.37806,45.004134],[24.379158,45.002988],[24.379822,45.003494],[24.381434,45.004225],[24.382717,45.004365],[24.383115,45.003446],[24.383868,45.00307]]],"type":"Polygon"}
 }

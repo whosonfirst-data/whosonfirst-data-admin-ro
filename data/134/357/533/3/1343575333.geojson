@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.85426,46.49469,22.85426,46.49469",
-    "geom:latitude":46.49469,
-    "geom:longitude":22.85426,
+    "geom:area":0.000023,
+    "geom:area_square_m":191765.591657,
+    "geom:bbox":"22.847224,46.490426,22.855707,46.497597",
+    "geom:latitude":46.494184,
+    "geom:longitude":22.851586,
     "gn:admin1_code":"01",
     "gn:admin2_code":"7197.0",
     "gn:asciiname":"Preluca",
@@ -24,11 +24,12 @@
     "gn:population":100,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.83426,46.47469,22.87426,46.51469",
+    "lbl:latitude":46.49469,
+    "lbl:longitude":22.85426,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Preluca"
@@ -40,9 +41,16 @@
         "Preluca"
     ],
     "name:ron_x_preferred":[
+        "Preluc\u0103"
+    ],
+    "name:ron_x_variant":[
         "Preluca"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,10 +59,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":669683
+        "gn:id":669683,
+        "ro-ancpi:id":7295
     },
     "wof:country":"RO",
-    "wof:geomhash":"68385d16094c60fdd71ed8ef1029e56c",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"8dea58dc6a7b88eb45f7833a01f9b7c5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,8 +76,14 @@
         }
     ],
     "wof:id":1343575333,
-    "wof:lastmodified":1566609940,
-    "wof:name":"Preluca",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203749,
+    "wof:name":"Preluc\u0103",
     "wof:parent_id":85687697,
     "wof:placetype":"locality",
     "wof:population":100,
@@ -76,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.85426,
-    46.49469000000001,
-    22.85426,
-    46.49469000000001
+    22.847224,
+    46.490426,
+    22.855707,
+    46.497597
 ],
-  "geometry": {"coordinates":[22.85426,46.49469000000001],"type":"Point"}
+  "geometry": {"coordinates":[[[22.851437,46.490426],[22.849719,46.491371],[22.850173,46.493483],[22.850255,46.494128],[22.848366,46.494712],[22.8475,46.495477],[22.847224,46.495823],[22.849022,46.496044],[22.849879,46.495553],[22.850568,46.495478],[22.850809,46.49626],[22.851246,46.496855],[22.851976,46.497504],[22.85215,46.497597],[22.852889,46.497114],[22.851936,46.49611],[22.85252,46.495379],[22.853434,46.49503],[22.853557,46.495431],[22.854305,46.495635],[22.854546,46.496403],[22.855707,46.496479],[22.855655,46.495226],[22.854839,46.495252],[22.853683,46.493627],[22.852879,46.492848],[22.852578,46.491799],[22.852236,46.491801],[22.852083,46.490869],[22.851437,46.490426]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"22.73242,46.2905,22.73242,46.2905",
-    "geom:latitude":46.2905,
-    "geom:longitude":22.73242,
+    "geom:area":0.000007,
+    "geom:area_square_m":61557.955503,
+    "geom:bbox":"22.731181,46.293126,22.742777,46.297786",
+    "geom:latitude":46.296226,
+    "geom:longitude":22.736795,
     "gn:admin1_code":"21",
     "gn:admin2_code":"88920.0",
     "gn:asciiname":"Stanculesti",
@@ -25,18 +25,31 @@
     "gn:population":40,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"22.71242,46.2705,22.75242,46.3105",
+    "lbl:latitude":46.297029,
+    "lbl:longitude":22.740499,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
+    "mps:latitude":46.297029,
+    "mps:longitude":22.740499,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "St\u0103ncule\u015fti"
+    ],
+    "name:ron_x_variant":[
+        "Stanculesti"
+    ],
     "name:und_x_variant":[
         "Stancole\u015fti",
         "St\u00eencule\u015fti",
         "St\u0103ncule\u015fti"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -45,10 +58,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":666310
+        "gn:id":666310,
+        "ro-ancpi:id":88993
     },
     "wof:country":"RO",
-    "wof:geomhash":"e27ba6d0c33e790b6ea910c3038fc5cc",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"a8288ed1ecc0a048e54565ba510664e6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -58,8 +75,14 @@
         }
     ],
     "wof:id":1344115789,
-    "wof:lastmodified":1566609966,
-    "wof:name":"Stanculesti",
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203794,
+    "wof:name":"St\u0103ncule\u015fti",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:population":40,
@@ -70,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.73242,
-    46.2905,
-    22.73242,
-    46.2905
+    22.731181,
+    46.293126,
+    22.742777,
+    46.297786
 ],
-  "geometry": {"coordinates":[22.73242,46.2905],"type":"Point"}
+  "geometry": {"coordinates":[[[[22.742777,46.297362],[22.742527,46.296966],[22.741301,46.297252],[22.740771,46.295766],[22.739553,46.295868],[22.739863,46.296864],[22.739176,46.296823],[22.738917,46.297601],[22.740974,46.297786],[22.742777,46.297362]]],[[[22.733406,46.293469],[22.732667,46.293126],[22.732303,46.293447],[22.731852,46.294163],[22.731346,46.294945],[22.731209,46.295118],[22.731597,46.295314],[22.732361,46.294573],[22.733406,46.293469]]],[[[22.733617,46.295593],[22.732941,46.295471],[22.732601,46.296162],[22.733279,46.297022],[22.733894,46.296746],[22.733387,46.29629],[22.733617,46.295593]]],[[[22.73291,46.297163],[22.732472,46.296767],[22.731181,46.297205],[22.731453,46.297548],[22.73291,46.297163]]]],"type":"MultiPolygon"}
 }

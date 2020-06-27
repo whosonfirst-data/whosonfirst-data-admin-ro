@@ -4,16 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"28.01667,45.5,28.01667,45.5",
-    "geom:latitude":45.5,
-    "geom:longitude":28.01667,
+    "geom:area":0.000114,
+    "geom:area_square_m":987495.021203,
+    "geom:bbox":"28.010101,45.492747,28.026528,45.505217",
+    "geom:latitude":45.499211,
+    "geom:longitude":28.016999,
     "gn:country":"RO",
     "gn:fcode":"PPL",
     "gn:population":0,
     "iso:country":"RO",
-    "lbl:bbox":"27.99667,45.48,28.03667,45.52",
     "lbl:latitude":45.5,
     "lbl:longitude":28.01667,
     "lbl:max_zoom":17.0,
@@ -22,6 +21,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0633\u062a\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Costi"
     ],
@@ -69,7 +71,10 @@
     "qs_pg:qs_pg_placetype_gp":"Town",
     "qs_pg:woe_adm0":23424933,
     "qs_pg:woe_id":870443,
-    "src:geom":"qs_pg",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424933,
@@ -86,11 +91,15 @@
         "gn:id":680556,
         "gp:id":870443,
         "qs_pg:id":57988,
+        "ro-ancpi:id":75178,
         "wd:id":"Q12113617"
     },
     "wof:country":"RO",
     "wof:created":1497296130,
-    "wof:geomhash":"5435b7f9aa952adab70d21e1ae0c1055",
+    "wof:geom_alt":[
+        "qs_pg"
+    ],
+    "wof:geomhash":"0f2eaa9114475f2feb2e1652ec2ef170",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,7 +109,13 @@
         }
     ],
     "wof:id":1125910765,
-    "wof:lastmodified":1566611356,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203486,
     "wof:name":"Costi",
     "wof:parent_id":85687709,
     "wof:placetype":"locality",
@@ -112,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.01667,
-    45.5,
-    28.01667,
-    45.5
+    28.010101,
+    45.492747,
+    28.026528,
+    45.505217
 ],
-  "geometry": {"coordinates":[28.01667,45.5],"type":"Point"}
+  "geometry": {"coordinates":[[[28.018942,45.502158],[28.019038,45.501262],[28.026148,45.501658],[28.026528,45.499467],[28.026146,45.499301],[28.024962,45.499194],[28.024393,45.49915],[28.024409,45.497575],[28.024115,45.497252],[28.020428,45.497114],[28.020421,45.496188],[28.019863,45.496203],[28.020117,45.494794],[28.019878,45.493009],[28.019178,45.493047],[28.019133,45.492747],[28.017646,45.492796],[28.017685,45.493792],[28.015552,45.493818],[28.015518,45.494786],[28.013134,45.494939],[28.011403,45.494724],[28.011167,45.497483],[28.010185,45.497463],[28.010101,45.498399],[28.011129,45.498482],[28.010812,45.502228],[28.010752,45.504006],[28.012893,45.504268],[28.013417,45.504813],[28.013712,45.504837],[28.013722,45.505217],[28.015741,45.504788],[28.017567,45.504607],[28.018942,45.502158]]],"type":"Polygon"}
 }

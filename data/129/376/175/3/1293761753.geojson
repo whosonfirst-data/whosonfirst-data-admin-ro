@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"26.91667,45.3,26.91667,45.3",
-    "geom:latitude":45.3,
-    "geom:longitude":26.91667,
+    "geom:area":0.000001,
+    "geom:area_square_m":7662.690421,
+    "geom:bbox":"26.921472,45.301485,26.922665,45.3028",
+    "geom:latitude":45.30222,
+    "geom:longitude":26.922028,
     "gn:admin1_code":"11",
     "gn:admin2_code":"50415.0",
     "gn:asciiname":"Comisoaia",
@@ -24,16 +24,26 @@
     "gn:population":0,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"26.89667,45.28,26.93667,45.32",
+    "lbl:latitude":45.302257,
+    "lbl:longitude":26.922037,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":45.302257,
+    "mps:longitude":26.922037,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ron_x_preferred":[
+        "Comisoaia"
+    ],
     "name:und_x_variant":[
         "Valea Comisoaiei"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -41,10 +51,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":663823
+        "gn:id":663823,
+        "ro-ancpi:id":50433
     },
     "wof:country":"RO",
-    "wof:geomhash":"5ead5b6ce4f229a48b05b8b17f9a1fee",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"24714a6d4516d4098e764445cdfc3107",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -54,7 +68,13 @@
         }
     ],
     "wof:id":1293761753,
-    "wof:lastmodified":1566610075,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203593,
     "wof:name":"Comisoaia",
     "wof:parent_id":85687667,
     "wof:placetype":"locality",
@@ -64,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.91667,
-    45.3,
-    26.91667,
-    45.3
+    26.921472,
+    45.301485,
+    26.922665,
+    45.3028
 ],
-  "geometry": {"coordinates":[26.91667,45.3],"type":"Point"}
+  "geometry": {"coordinates":[[[26.921971,45.301488],[26.921883,45.301485],[26.921822,45.301723],[26.921673,45.30203],[26.921472,45.3028],[26.922665,45.302573],[26.922554,45.302387],[26.922446,45.302163],[26.922316,45.301875],[26.922253,45.301711],[26.922234,45.301588],[26.922114,45.30154],[26.922099,45.301519],[26.922043,45.301497],[26.921971,45.301488]]],"type":"Polygon"}
 }

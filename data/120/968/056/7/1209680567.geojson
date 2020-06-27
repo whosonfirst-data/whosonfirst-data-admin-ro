@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"25.34836,46.21753,25.34836,46.21753",
-    "geom:latitude":46.21753,
-    "geom:longitude":25.34836,
+    "geom:area":0.000044,
+    "geom:area_square_m":372522.361262,
+    "geom:bbox":"25.339933,46.214657,25.352386,46.222048",
+    "geom:latitude":46.217959,
+    "geom:longitude":25.346485,
     "gn:admin1_code":"20",
     "gn:admin2_code":"84923",
     "gn:asciiname":"Badeni",
@@ -25,16 +25,38 @@
     "gn:population":256,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"25.32836,46.19753,25.36836,46.23753",
+    "lbl:latitude":46.21753,
+    "lbl:longitude":25.34836,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "B\u0103deni"
+    ],
     "name:deu_x_preferred":[
         "Badeni"
     ],
+    "name:deu_x_variant":[
+        "B\u0103deni"
+    ],
+    "name:epo_x_preferred":[
+        "B\u0103deni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c7\u30fc\u30cb"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103deni"
+    ],
+    "name:ron_x_variant":[
+        "Badeni"
+    ],
     "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0435\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
         "\u0411\u0430\u0434\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
@@ -45,27 +67,45 @@
         "B\u0103dei",
         "B\u0103deni"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85633745
+        102191581,
+        85633745,
+        85687733
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":685910
+        "gn:id":685910,
+        "ro-ancpi:id":84950
     },
     "wof:country":"RO",
-    "wof:geomhash":"936fb361e3af37320ba8a00370364285",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"f8184acc3c12d5451bf95c4fc2664d50",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":1209680567
+            "locality_id":1209680567,
+            "region_id":85687733
         }
     ],
     "wof:id":1209680567,
-    "wof:lastmodified":1566610342,
-    "wof:name":"Badeni",
-    "wof:parent_id":85633745,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203391,
+    "wof:name":"B\u0103deni",
+    "wof:parent_id":85687733,
     "wof:placetype":"locality",
     "wof:population":256,
     "wof:population_rank":2,
@@ -75,10 +115,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.34836,
-    46.21753,
-    25.34836,
-    46.21753
+    25.339933,
+    46.214657,
+    25.352386,
+    46.222048
 ],
-  "geometry": {"coordinates":[25.34836,46.21753],"type":"Point"}
+  "geometry": {"coordinates":[[[25.350968,46.220266],[25.351921,46.219054],[25.352009,46.218942],[25.352055,46.218909],[25.352386,46.218505],[25.351136,46.217871],[25.35097,46.217795],[25.351189,46.217531],[25.351615,46.217225],[25.352079,46.217005],[25.35027,46.215908],[25.349321,46.216946],[25.348328,46.216152],[25.348004,46.216018],[25.346549,46.215861],[25.34656,46.215773],[25.346065,46.215687],[25.345463,46.215736],[25.345216,46.215827],[25.344854,46.215302],[25.344675,46.215021],[25.344522,46.214703],[25.344128,46.214657],[25.344038,46.214704],[25.344113,46.21478],[25.343749,46.214804],[25.343069,46.214968],[25.342652,46.21513],[25.342481,46.215267],[25.342343,46.215423],[25.342277,46.215565],[25.342249,46.215681],[25.342274,46.215909],[25.342285,46.216019],[25.342233,46.216018],[25.341952,46.216162],[25.341346,46.21647],[25.341171,46.216893],[25.341743,46.217178],[25.341615,46.217704],[25.340665,46.218645],[25.339933,46.219692],[25.340411,46.219724],[25.340503,46.219575],[25.34542,46.219366],[25.3465,46.219293],[25.347731,46.219796],[25.348557,46.220296],[25.348796,46.22093],[25.349041,46.221666],[25.349075,46.222048],[25.349534,46.221816],[25.349529,46.221535],[25.350664,46.220943],[25.350968,46.220266]]],"type":"Polygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"20.44578,46.11232,20.44578,46.11232",
-    "geom:latitude":46.11232,
-    "geom:longitude":20.44578,
+    "geom:area":0.000192,
+    "geom:area_square_m":1643885.310395,
+    "geom:bbox":"20.434055,46.106157,20.463901,46.12207",
+    "geom:latitude":46.113561,
+    "geom:longitude":20.44635,
     "gn:admin1_code":"36",
     "gn:admin2_code":"156712.0",
     "gn:asciiname":"Cheglevici",
@@ -25,12 +25,16 @@
     "gn:population":577,
     "gn:timezone":"Europe/Bucharest",
     "iso:country":"RO",
-    "lbl:bbox":"20.42578,46.09232,20.46578,46.13232",
+    "lbl:latitude":46.11232,
+    "lbl:longitude":20.44578,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ron_x_preferred":[
+        "Cheglevici"
+    ],
     "name:und_x_variant":[
         "Keglevichh\u00e1za",
         "Rothes Wirtshaus",
@@ -43,7 +47,11 @@
         "Verescs\u00e1rda",
         "Cheglevici"
     ],
-    "src:geom":"geonames",
+    "src:geom":"ro-ancpi",
+    "src:geom_alt":[
+        "geonames"
+    ],
+    "src:lbl_centroid":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,10 +60,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":682222
+        "gn:id":682222,
+        "ro-ancpi:id":156730
     },
     "wof:country":"RO",
-    "wof:geomhash":"2509d30608f0394c6510dfdd87081e28",
+    "wof:geom_alt":[
+        "geonames"
+    ],
+    "wof:geomhash":"b1f151f0c0439d224b9372df947625fa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,7 +77,13 @@
         }
     ],
     "wof:id":1193058587,
-    "wof:lastmodified":1566610437,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1593203739,
     "wof:name":"Cheglevici",
     "wof:parent_id":85687655,
     "wof:placetype":"locality",
@@ -77,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.44578,
-    46.11232,
-    20.44578,
-    46.11232
+    20.434055,
+    46.106157,
+    20.463901,
+    46.12207
 ],
-  "geometry": {"coordinates":[20.44578,46.11232],"type":"Point"}
+  "geometry": {"coordinates":[[[[20.457023,46.111709],[20.455983,46.110091],[20.455656,46.109998],[20.454237,46.110326],[20.452666,46.107323],[20.452047,46.106157],[20.443065,46.108234],[20.440007,46.108959],[20.439771,46.109306],[20.440023,46.109801],[20.436939,46.110523],[20.437214,46.111102],[20.434146,46.111849],[20.435476,46.114602],[20.436143,46.116052],[20.434055,46.11664],[20.434738,46.11774],[20.43546,46.118402],[20.436507,46.119141],[20.43721,46.119613],[20.437748,46.119888],[20.438734,46.120108],[20.446341,46.117939],[20.445108,46.115695],[20.444884,46.115276],[20.453147,46.113119],[20.457487,46.112033],[20.457023,46.111709]]],[[[20.463901,46.121166],[20.46167,46.114885],[20.458196,46.115434],[20.46041,46.12207],[20.463901,46.121166]]]],"type":"MultiPolygon"}
 }
