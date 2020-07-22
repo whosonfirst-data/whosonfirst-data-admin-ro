@@ -29,8 +29,9 @@
         "state_id":2346625
     },
     "wof:belongsto":[
-        85633745,
-        85687667
+        85687667,
+        102191581,
+        85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +45,10 @@
     "wof:hierarchy":[
         {
             "campus_id":102559093,
+            "continent_id":102191581,
             "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687667
         }
     ],
@@ -55,9 +59,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226401,
+    "wof:lastmodified":1595444696,
     "wof:name":"Boboc Airport",
-    "wof:parent_id":85687667,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],

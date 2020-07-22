@@ -62,8 +62,9 @@
         "state_id":2346645
     },
     "wof:belongsto":[
-        85633745,
-        85687757
+        85687757,
+        102191581,
+        85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +79,10 @@
     "wof:hierarchy":[
         {
             "campus_id":102559091,
+            "continent_id":102191581,
             "country_id":85633745,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687757
         }
     ],
@@ -89,9 +93,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226401,
+    "wof:lastmodified":1595444695,
     "wof:name":"Satu Mare Airport",
-    "wof:parent_id":85687757,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
