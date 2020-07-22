@@ -64,10 +64,9 @@
         "state_id":2346626
     },
     "wof:belongsto":[
-        85633745,
-        101792667,
-        85901917,
-        85687627
+        85687627,
+        102191581,
+        85633745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,9 +82,10 @@
     "wof:hierarchy":[
         {
             "campus_id":102559251,
+            "continent_id":102191581,
             "country_id":85633745,
-            "locality_id":101792667,
-            "neighbourhood_id":85901917,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85687627
         }
     ],
@@ -96,9 +96,9 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1589226401,
+    "wof:lastmodified":1595444696,
     "wof:name":"Caransebes Airport",
-    "wof:parent_id":85901917,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
