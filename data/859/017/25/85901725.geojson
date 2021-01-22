@@ -3,9 +3,8 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
     "edtf:deprecated":"12-21-2020",
-    "mz:is_current":0,
+    "edtf:inception":"uuuu",
     "geom:area":0.000744,
     "geom:area_square_m":6563459.450059,
     "geom:bbox":"26.000493,44.441624,26.040344,44.469023",
@@ -20,7 +19,7 @@
     "mps:latitude":44.452984,
     "mps:longitude":26.022272,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":1,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -65,11 +64,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85687595,
+        1713095453,
         102191581,
         85633745,
         101751949,
-        1713095453
+        85687595
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +98,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1595444702,
+    "wof:lastmodified":1611274252,
     "wof:name":"Ciurel",
     "wof:parent_id":1713095453,
     "wof:placetype":"neighbourhood",
