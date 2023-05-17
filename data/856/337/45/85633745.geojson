@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"RO",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Rom\u00e2nia",
+    "eurostat:name_local":"Rom\u00e2nia",
+    "eurostat:nuts_2021_id":"RO",
+    "eurostat:nuts_2021_level_0":"RO",
+    "eurostat:population":19042455,
+    "eurostat:population_year":2022,
     "geom:area":27.613277,
-    "geom:area_square_m":237828806376.232178,
+    "geom:area_square_m":237828806376.231842,
     "geom:bbox":"20.261951,43.619026,29.715247,48.265152",
     "geom:latitude":45.839272,
     "geom:longitude":24.984657,
@@ -1164,7 +1172,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"40",
     "statoids:ds":"RO",
     "statoids:fifa":"ROU",
@@ -1193,6 +1202,7 @@
     "wof:concordances":{
         "dbp:id":"Romania",
         "digitalenvoy:country_code":642,
+        "eurostat:nuts_2021_id":"RO",
         "fb:id":"en.romania",
         "fifa:id":"ROU",
         "fips:code":"RO",
@@ -1223,7 +1233,7 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "wof:geomhash":"4902732be1df395ef5b0f272d1587faa",
+    "wof:geomhash":"c6c8b680e3559c3a84c5cae72695f442",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1237,11 +1247,11 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1617827337,
+    "wof:lastmodified":1684351342,
     "wof:name":"Romania",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":19981358,
+    "wof:population":19042455,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:shortcode":"RO",
