@@ -31,10 +31,16 @@
     "name:ceb_x_preferred":[
         "Loturi Enescu"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u043e\u0442\u0443\u0440\u0438-\u0415\u043d\u0435\u0441\u043a\u0443"
+    ],
     "name:eng_x_preferred":[
         "Enescu"
     ],
     "name:eng_x_variant":[
+        "Loturi Enescu"
+    ],
+    "name:gle_x_preferred":[
         "Loturi Enescu"
     ],
     "name:ron_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0442\u0443\u0440\u0438 \u0415\u043d\u0435\u0441\u043a\u0443"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u0442\u0443\u0440\u0438-\u0415\u043d\u0435\u0441\u043a\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0442\u0443\u0440\u0456-\u0415\u043d\u0435\u0441\u043a\u0443"
@@ -79,8 +88,8 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
-        85633745,
         101832659,
+        85633745,
         85687777
     ],
     "wof:breaches":[],
@@ -112,7 +121,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1593208077,
+    "wof:lastmodified":1690857407,
     "wof:name":"Loturi Enescu",
     "wof:parent_id":101832659,
     "wof:placetype":"neighbourhood",
