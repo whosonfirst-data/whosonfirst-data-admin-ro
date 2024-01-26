@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.000169,
     "geom:area_square_m":1439253.560765,
     "geom:bbox":"27.085445,46.472092,27.120926,46.496129",
@@ -31,7 +33,7 @@
     "mps:latitude":46.484382,
     "mps:longitude":27.106231,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Comuna Parincea"
@@ -114,12 +116,14 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1593203554,
+    "wof:lastmodified":1706240623,
     "wof:name":"Parincea",
     "wof:parent_id":85687715,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1125828619
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
