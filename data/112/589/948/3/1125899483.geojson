@@ -18,10 +18,18 @@
     "lbl:longitude":23.33333,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
+    "mps:latitude":47.198751,
+    "mps:longitude":23.323968,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ron_x_preferred":[
+        "G\u00e2lg\u0103u Alma\u015fului"
+    ],
+    "name:ron_x_variant":[
+        "G\u00eelg\u0103u Alma\u0219ului"
+    ],
     "name:und_x_variant":[
         "G\u00e2lg\u0103u"
     ],
@@ -31,14 +39,27 @@
     "qs_pg:gn_id":677270,
     "qs_pg:gn_pop":2718,
     "qs_pg:name":"G\u00e2lg\u0103u Alma\u015fului",
+    "qs_pg:name_adm0":"Rom\u00e2nia",
+    "qs_pg:name_adm1":"Salaj",
+    "qs_pg:photos":97,
+    "qs_pg:photos_1k":20,
+    "qs_pg:photos_9k":1,
     "qs_pg:photos_9r":0,
+    "qs_pg:photos_all":97,
     "qs_pg:photos_sr":0,
     "qs_pg:pop_sr":4,
     "qs_pg:qs_id":1027864,
     "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424933,
+    "qs_pg:woe_id":872862,
     "src:geom":"qs_pg",
     "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
+    "woe:adm0_id":23424933,
+    "woe:name_adm0":"Rom\u00e2nia",
+    "woe:name_adm1":"Salaj",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191581,
         85633745,
@@ -47,7 +68,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":677270,
-        "qs_pg:id":1027864
+        "gp:id":872862,
+        "qs_pg:id":1027864,
+        "ro-ancpi:id":140191
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            508826
+        ]
     },
     "wof:country":"RO",
     "wof:created":1497295743,
@@ -67,7 +95,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1593208594,
+    "wof:lastmodified":1706240623,
     "wof:name":"G\u00e2lg\u0103u Alma\u015fului",
     "wof:parent_id":85687723,
     "wof:placetype":"locality",
@@ -75,7 +103,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ro",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125966523
+    ],
     "wof:tags":[]
 },
   "bbox": [

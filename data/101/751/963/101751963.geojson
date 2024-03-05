@@ -9,8 +9,11 @@
     "geom:bbox":"21.850114,45.278072,21.953037,45.337724",
     "geom:latitude":45.304721,
     "geom:longitude":21.89132,
+    "gn:country":"RO",
+    "gn:fcode":"PPLA",
     "gn:population":81228,
     "iso:country":"RO",
+    "lbl:bbox":"21.86917,45.28083,21.90917,45.32083",
     "lbl:latitude":45.305751,
     "lbl:longitude":21.879271,
     "lbl:max_zoom":14.0,
@@ -20,6 +23,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ace_x_preferred":[
         "Re\u0219i\u021ba"
     ],
@@ -338,6 +342,17 @@
     "qs:pop":0,
     "qs:source":"UCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"urban core",
+    "qs_pg:aaroncc":"RO",
+    "qs_pg:gn_country":"RO",
+    "qs_pg:gn_fcode":"PPLA",
+    "qs_pg:gn_id":668954,
+    "qs_pg:gn_pop":81228,
+    "qs_pg:name":"Re\u015fi\u0163a",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":273813,
+    "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"ro-ancpi",
     "src:geom_alt":[
         "quattroshapes"
@@ -359,6 +374,17 @@
         "ro-ancpi:id":50807,
         "wd:id":"Q75634"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            668954
+        ],
+        "qs_pg:id":[
+            273813
+        ],
+        "wd:id":[
+            "Q75634"
+        ]
+    },
     "wof:country":"RO",
     "wof:geom_alt":[
         "quattroshapes"
@@ -379,7 +405,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690857998,
+    "wof:lastmodified":1706240623,
     "wof:name":"Re\u015fi\u0163a",
     "wof:parent_id":85687627,
     "wof:placetype":"locality",
@@ -389,6 +415,7 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         1125968847,
+        1125782609,
         1125782609
     ],
     "wof:tags":[]

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.000046,
     "geom:area_square_m":397371.962851,
     "geom:bbox":"22.576427,46.012015,22.598128,46.025117",
@@ -17,7 +19,7 @@
     "mps:latitude":46.018955,
     "mps:longitude":22.587804,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Boiu de Sus"
@@ -51,12 +53,14 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1593203809,
+    "wof:lastmodified":1706240623,
     "wof:name":"Boiu de Sus",
     "wof:parent_id":85687671,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ro",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1326694583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
